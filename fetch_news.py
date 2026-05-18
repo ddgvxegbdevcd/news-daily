@@ -27,6 +27,31 @@ SOURCES = {
         "name_cn": "华尔街日报",
         "rss": "https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en",
     },
+    "ft": {
+        "name": "Financial Times",
+        "name_cn": "金融时报",
+        "rss": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "cnbc": {
+        "name": "CNBC",
+        "name_cn": "CNBC",
+        "rss": "https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "scmp": {
+        "name": "South China Morning Post",
+        "name_cn": "南华早报",
+        "rss": "https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "marketwatch": {
+        "name": "MarketWatch",
+        "name_cn": "MarketWatch",
+        "rss": "https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "yahoofinance": {
+        "name": "Yahoo Finance",
+        "name_cn": "雅虎财经",
+        "rss": "https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en",
+    },
 }
 
 OUTPUT_DIR = Path(__file__).parent
@@ -66,7 +91,7 @@ def generate_markdown(all_data):
         "",
     ]
 
-    emoji_map = {"reuters": "🔴", "bloomberg": "🟢", "wsj": "🔵"}
+    emoji_map = {"reuters": "🔴", "bloomberg": "🟢", "wsj": "🔵", "ft": "🟡", "cnbc": "🟠", "scmp": "🟣", "marketwatch": "🟤", "yahoofinance": "⚪"}
 
     for key, articles in all_data.items():
         cfg = SOURCES[key]
