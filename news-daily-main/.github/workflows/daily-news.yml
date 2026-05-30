@@ -1,0 +1,41 @@
+name: 每日新闻抓取
+
+on:
+  schedule:
+    # 每天 UTC 0:00 和 12:00 运行（北京时间 8:00 和 20:00）
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖  # 🔴 这一行是重点修改的地方
+        run: pip install requests beautifulsoup4 feedparser lxml trafilatura
+
+      - name: 抓取新闻
+        run: python fetch_news.py
+
+      - name: 提交更新
+        run: |
+          git config --global user.name "News Bot"
+          git config --global user.email "news-bot@github.com"
+          git add news.json news.md
+          if git diff --staged --quiet; then
+            echo "没有新内容，跳过提交"
+          else
+            git commit -m "📰 $(date -u '+%Y-%m-%d %H:%M') 新闻更新"
+            git push
+            echo "✅ 已推送更新"
+          fi
