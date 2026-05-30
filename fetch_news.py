@@ -59,20 +59,55 @@ MAX_ARTICLES = 15  # 每个源最多取多少条
 
 
 def fetch_source(key, config):
-    """抓取单个新闻源"""
+    """抓取单个新闻源（已添加中国相关新闻优先排序逻辑）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
+    
+    # 1. 准备好我们的关键词名单（涵盖经济、政治等）
+    keywords = ["china", "chinese", "beijing", "pboc", "yuan", "xi", "中国", "北京", "央行", "人民币"]
+    
     try:
         feed = feedparser.parse(config["rss"])
-        articles = []
+        
+        # 2. 准备两个空的列表（篮子）
+        china_articles = []
+        other_articles = []
+        
         for entry in feed.entries[:MAX_ARTICLES]:
-            articles.append({
-                "title": entry.get("title", ""),
-                "url": entry.get("link", ""),
-                "published": entry.get("published", ""),
-                "summary": entry.get("summary", ""),
-            })
-        print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章")
+            # 获取新闻基础信息
+            title = entry.get("title", "")
+            url = entry.get("link", "")
+            published = entry.get("published", "")
+            summary = entry.get("summary", "")
+            
+            # 把信息打包成一个字典
+            article_data = {
+                "title": title,
+                "url": url,
+                "published": published,
+                "summary": summary,
+            }
+            
+            # 3. 检查标题里有没有我们的关键词
+            is_about_china = False
+            title_lower = title.lower() # 转成小写，方便匹配英文关键词
+            
+            for keyword in keywords:
+                if keyword in title_lower:
+                    is_about_china = True
+                    break # 只要找到一个关键词，就确认是相关新闻，跳出当前小循环
+                    
+            # 4. 根据检查结果，把新闻装进不同的“篮子”里
+            if is_about_china:
+                china_articles.append(article_data)
+            else:
+                other_articles.append(article_data)
+                
+        # 5. 把中国的放在前面，其他的跟在后面
+        articles = china_articles + other_articles
+        
+        print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章 (其中置顶了 {len(china_articles)} 篇相关新闻)")
         return articles
+        
     except Exception as e:
         print(f"  ❌ {config['name_cn']}: 抓取失败 - {e}")
         return []
@@ -85,7 +120,7 @@ def generate_markdown(all_data):
         f"# 📰 每日财经新闻摘要",
         f"**更新时间：{now}**",
         "",
-        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)",
+        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ) 等",
         "",
         "---",
         "",
