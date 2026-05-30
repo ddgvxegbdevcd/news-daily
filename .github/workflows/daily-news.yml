@@ -21,8 +21,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 安装依赖
-        run: pip install feedparser
+      - name: 安装依赖  # 🔴 这一行是重点修改的地方
+        run: pip install requests beautifulsoup4 feedparser lxml trafilatura
 
       - name: 抓取新闻
         run: python fetch_news.py

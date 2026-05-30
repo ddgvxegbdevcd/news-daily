@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 每日抓取路透社、彭博社、华尔街日报头条
-通过 Google News RSS 聚合（从 GitHub Actions 美国服务器运行）
+通过 Google News RSS 聚合（从 GitHub Actions 美国服）
 """
 import feedparser
 import json
@@ -9,6 +9,9 @@ import hashlib
 import os
 from datetime import datetime, timezone
 from pathlib import Path
+import trafilatura
+import requests
+from bs4 import BeautifulSoup
 
 # ========== 新闻源配置 ==========
 SOURCES = {
@@ -34,160 +37,86 @@ SOURCES = {
     },
     "cnbc": {
         "name": "CNBC",
-        "name_cn": "CNBC",
+        "name_cn": "消费者新闻与商业频道",
         "rss": "https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en",
-    },
-    "scmp": {
-        "name": "South China Morning Post",
-        "name_cn": "南华早报",
-        "rss": "https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en",
-    },
-    "marketwatch": {
-        "name": "MarketWatch",
-        "name_cn": "MarketWatch",
-        "rss": "https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en",
-    },
-    "yahoofinance": {
-        "name": "Yahoo Finance",
-        "name_cn": "雅虎财经",
-        "rss": "https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en",
-    },
+    }
 }
 
-OUTPUT_DIR = Path(__file__).parent
-MAX_ARTICLES = 15  # 每个源最多取多少条
-
-
-def fetch_source(key, config):
-    """抓取单个新闻源（已添加中国相关新闻优先排序逻辑）"""
-    print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
-    
-    # 1. 准备好我们的关键词名单（涵盖经济、政治等）
-    keywords = ["china", "chinese", "beijing", "pboc", "yuan", "xi", "中国", "北京", "央行", "人民币"]
-    
+# ========== 正文抓取函数 ==========
+def fetch_article_content(url):
+    """从文章URL提取完整正文"""
     try:
-        feed = feedparser.parse(config["rss"])
-        
-        # 2. 准备两个空的列表（篮子）
-        china_articles = []
-        other_articles = []
-        
-        for entry in feed.entries[:MAX_ARTICLES]:
-            # 获取新闻基础信息
-            title = entry.get("title", "")
-            url = entry.get("link", "")
-            published = entry.get("published", "")
-            summary = entry.get("summary", "")
-            
-            # 把信息打包成一个字典
-            article_data = {
-                "title": title,
-                "url": url,
-                "published": published,
-                "summary": summary,
-            }
-            
-            # 3. 检查标题里有没有我们的关键词
-            is_about_china = False
-            title_lower = title.lower() # 转成小写，方便匹配英文关键词
-            
-            for keyword in keywords:
-                if keyword in title_lower:
-                    is_about_china = True
-                    break # 只要找到一个关键词，就确认是相关新闻，跳出当前小循环
-                    
-            # 4. 根据检查结果，把新闻装进不同的“篮子”里
-            if is_about_china:
-                china_articles.append(article_data)
-            else:
-                other_articles.append(article_data)
-                
-        # 5. 把中国的放在前面，其他的跟在后面
-        articles = china_articles + other_articles
-        
-        print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章 (其中置顶了 {len(china_articles)} 篇相关新闻)")
-        return articles
-        
+        print(f"📄 正在提取正文: {url}")
+        downloaded = trafilatura.fetch_url(url)
+        if downloaded:
+            content = trafilatura.extract(downloaded, include_links=False, include_images=False)
+            return content if content else "无法提取正文"
+        return "无法访问文章页面"
     except Exception as e:
-        print(f"  ❌ {config['name_cn']}: 抓取失败 - {e}")
-        return []
+        print(f"❌ 提取正文失败: {e}")
+        return "提取正文时出错"
 
-
-def generate_markdown(all_data):
-    """生成可读的 Markdown 摘要"""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        f"# 📰 每日财经新闻摘要",
-        f"**更新时间：{now}**",
-        "",
-        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ) 等",
-        "",
-        "---",
-        "",
-    ]
-
-    emoji_map = {"reuters": "🔴", "bloomberg": "🟢", "wsj": "🔵", "ft": "🟡", "cnbc": "🟠", "scmp": "🟣", "marketwatch": "🟤", "yahoofinance": "⚪"}
-
-    for key, articles in all_data.items():
-        cfg = SOURCES[key]
-        emoji = emoji_map.get(key, "📌")
-        lines.append(f"## {emoji} {cfg['name_cn']} ({cfg['name']})")
-        lines.append("")
-        if not articles:
-            lines.append("> ⚠️ 本次未获取到文章")
-            lines.append("")
-            continue
-        for i, a in enumerate(articles, 1):
-            title = a["title"].strip()
-            # 去掉 Google News 加的后缀
-            title = title.split(" - ")[0].strip()
-            url = a["url"]
-            lines.append(f"{i}. [{title}]({url})")
-        lines.append("")
-
-    lines.append("---")
-    lines.append(f"*自动生成于 {now}*")
-    return "\n".join(lines)
-
-
+# ========== 主函数 ==========
 def main():
-    print(f"🚀 开始抓取新闻... ({datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')})")
-    print()
-
-    all_data = {}
-    for key, config in SOURCES.items():
-        articles = fetch_source(key, config)
-        all_data[key] = articles
-
-    # 保存 JSON
-    json_path = OUTPUT_DIR / "news.json"
-    json_data = {
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "sources": {
-            key: {
-                "name": SOURCES[key]["name"],
-                "name_cn": SOURCES[key]["name_cn"],
-                "count": len(all_data[key]),
-                "articles": all_data[key],
-            }
-            for key in SOURCES
-        },
-    }
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(json_data, f, ensure_ascii=False, indent=2)
-
-    # 保存 Markdown
-    md_path = OUTPUT_DIR / "news.md"
-    md_content = generate_markdown(all_data)
-    with open(md_path, "w", encoding="utf-8") as f:
+    all_news = []
+    
+    for source_id, source_info in SOURCES.items():
+        print(f"\n🔍 正在抓取 {source_info['name_cn']} 的新闻...")
+        
+        try:
+            # 解析RSS源
+            feed = feedparser.parse(source_info['rss'])
+            
+            for entry in feed.entries[:5]:  # 每个新闻源取前5条
+                news_item = {
+                    "source": source_info['name'],
+                    "source_cn": source_info['name_cn'],
+                    "title": entry.title,
+                    "url": entry.link,
+                    "publish_time": entry.published,
+                    "summary": entry.summary if hasattr(entry, 'summary') else "",
+                    "content": fetch_article_content(entry.link)  # 新增：抓取完整正文
+                }
+                all_news.append(news_item)
+                
+        except Exception as e:
+            print(f"❌ 抓取 {source_info['name_cn']} 失败: {e}")
+            continue
+    
+    # 保存为JSON文件
+    with open('news.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "news_count": len(all_news),
+            "news": all_news
+        }, f, ensure_ascii=False, indent=2)
+    
+    # 生成Markdown文件
+    md_content = f"# 每日财经新闻\n\n**更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}**\n\n"
+    
+    for source_id, source_info in SOURCES.items():
+        source_news = [n for n in all_news if n['source'] == source_info['name']]
+        if not source_news:
+            continue
+            
+        md_content += f"## {source_info['name_cn']}\n\n"
+        
+        for i, news in enumerate(source_news, 1):
+            md_content += f"### {i}. [{news['title']}]({news['url']})\n\n"
+            md_content += f"**发布时间：** {news['publish_time']}\n\n"
+            
+            if news['summary']:
+                md_content += f"**摘要：** {news['summary']}\n\n"
+            
+            if news['content'] and news['content'] not in ["无法提取正文", "无法访问文章页面", "提取正文时出错"]:
+                md_content += f"**正文：**\n\n{news['content']}\n\n"
+            
+            md_content += "---\n\n"
+    
+    with open('news.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
-
-    # 统计
-    total = sum(len(v) for v in all_data.values())
-    print(f"\n✅ 完成！共获取 {total} 篇文章")
-    print(f"   JSON: {json_path}")
-    print(f"   Markdown: {md_path}")
-
+    
+    print(f"\n✅ 抓取完成！共获取 {len(all_news)} 条新闻")
 
 if __name__ == "__main__":
     main()
