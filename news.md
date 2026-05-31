@@ -1,32 +1,6 @@
 # 每日财经新闻
 
-更新时间：2026-05-31 04:23:01
-
-## Philippines Seeks Closer Ties With China's Adversaries
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-05-31/philippines-seeks-closer-ties-with-china-s-adversaries-video
-
-正文长度：0
-
-摘要：Philippine Defense Secretary Gilberto Teodoro outlines deepening military ties with a network of US allies and tells Bloomberg's Haslinda Amin why it's important to work together on military deterrence. They speak on the sidelines of the Shangri-La Dialogue in Singapore. (Source: Bloomberg)
-
-
----
-
-## SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners
-
-正文长度：0
-
-摘要：The hunt is on for companies that could benefit from the tailwinds of an unprecedented wave of stock offerings in the US, and investors are increasingly honing in on the Asian supply chain.
-
-
----
+更新时间：2026-05-31 13:58:09
 
 ## Why Britain’s Bond Market Is Sounding the Alarm
 
@@ -36,34 +10,150 @@
 
 正文长度：0
 
-摘要：As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major parties under pressure to spend more, the bond market is increasingly shaping the limits of economic policy. Authers argues the UK may be confronting fiscal pressures earlier than other advanced economies, offering a warning about the broader risks facing heavily indebted governments worldwide.
+摘要：As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major parties under pressure to spend more, the bond market is increasingly shaping the limits of economic policy. Authers argues the UK may be confronting fiscal pressures earlier than other advanced economies, offering a warning about the broader risks facing heavily indebted governments worldwide.  
  (Source: Bloomberg)
 
 
 ---
 
-## IMF Chief, Venezuelan Officials Hold Talks on Economic Stability
+## Fed’s Waller Says Stablecoins Will Broaden Reach of US Policy
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability
+链接：https://www.bloomberg.com/news/articles/2026-05-31/fed-s-waller-says-stablecoins-will-broaden-reach-of-us-policy
 
 正文长度：0
 
-摘要：International Monetary Fund Managing Director Kristalina Georgieva and Venezuelan economic official Calixto Ortega held talks in Washington, the IMF head’s first in-person meeting with country’s authorities since the fund resumed formal engagement with Venezuela last month.
+摘要：Federal Reserve Governor Christopher Waller the spread of stablecoins around the world could amplify the influence of US central-bank policy.
 
 
 ---
 
-## US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate
+## ECB Should Act Sooner Rather Than Later, Pereira Tells Negócios
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate
+链接：https://www.bloomberg.com/news/articles/2026-05-31/ecb-should-act-sooner-rather-than-later-pereira-tells-negocios
 
 正文长度：0
 
-摘要：Jobs week is coming up in the US, with a whole slate of indicators on the state of the labor market culminating on Friday with the government’s official report on employment for the month of May.
+摘要：The European Central Bank shouldn’t hesitate to act, given elevated consumer-price pressures, according to Governing Council member Alvaro Santos Pereira.
+
+
+---
+
+## AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic
+
+正文长度：0
+
+摘要：Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.
+
+
+---
+
+## Congo Adds Lithium to Strategic Minerals in Higher Tax Bracket
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-05-31/congo-adds-lithium-to-strategic-minerals-in-higher-tax-bracket
+
+正文长度：0
+
+摘要：Democratic Republic of Congo’s lithium miners could soon be required to triple royalty payments after the government approved the inclusion of several metals to its list of strategic minerals.
+
+
+---
+
+## Why Trump reversed course to fast-track psychedelic drugs for mental healthcare
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html
+
+正文长度：8313
+
+摘要：President Donald Trump is trying to fast-track research into psychedelics as treatments, creating new opportunities and risks.
+
+Marie Phelan said she had never heard of MDMA before spotting a flyer seeking veterans suffering from post traumatic stress disorder.
+Now, she says the psychoactive drug more commonly known as ecstasy or molly has changed the trajectory of her life.
+"My experience of MDMA was that it just cracked my heart wide open," said Phelan who enlisted in the U.S. Army Reserve in 1999 and was deployed to Iraq in 2003.
+"I was carrying this big heavy rucksack and I just put it down on the beach and I started unpacking it one little teeny tiny thing at a time and setting each little thing out on the waves," Phelan said of the release from the treatment.
+Phelan isn't alone turning to alternative treatments for trauma. She is among a small group of Americans who have undergone psychedelic-assisted therapy through clinical trials studying new approaches to mental health treatment.
+Now, access to those therapies is closer than ever to being expanded more broadly, bringing new options for patients and opportunities for companies — but also new scrutiny about safety and effectiveness.
+In April, President Donald Trump signed an executive order aimed at accelerating research into psychedelic drugs for mental illness. The move came as his administration issued priority review vouchers to three companies developing psychedelic or MDMA-like therapies — Compass Pathways, Usona Institute and Transcend Therapeutics — aimed at speeding up parts of the FDA review process.
+The order marks a notable shift in tone from Trump's first term, when his administration took a harder stance on cannabis and other controlled substances. This time, the White House said psychedelic compounds "show potential in clinical studies to address serious mental illnesses for patients whose conditions persist after after completing standard therapy."
+Investors quickly piled into the sector. Shares of psychedelic drug developers such as Compass Pathways and other rivals tied to the space rallied following the announcement, with Wall Street analysts arguing the order could legitimize an industry long viewed as fringe.
+The science, however, remains deeply debated, raising questions about how much room the segment has to grow.
+Inside the lab
+Historically, research into psychedelics has focused more narrowly on certain conditions. Psilocybin — the active compound in psychedelic mushrooms — was tied to treating depression, MDMA-assisted therapy to PTSD and LSD to anxiety.
+While drugs like psilocybin and ibogaine — a psychoactive compound derived from a West African shrub that some advocates believe may help treat addiction and traumatic brain injuries — are considered classic psychedelics, MDMA is technically classified as an empathogen.
+Still, researchers and regulators often group MDMA-assisted therapy within the broader psychedelic medicine field because the treatments involve supervised therapeutic sessions designed to address conditions like PTSD, depression and addiction.
+"One of the things that's important to recognize is these are all very different drugs," said Brandon Weiss, a researcher at the Center for Psychedelic and Consciousness Research at Johns Hopkins University School of Medicine. "Ibogaine and other psychedelic compounds have different safety profiles and different risks."
+Clinical research around some of these compounds has shown promising results. In late-stage trials sponsored by the nonprofit psychedelic research advocacy group Multidisciplinary Association for Psychedelic Studies, roughly 71% of participants with severe PTSD no longer met diagnostic criteria for the disorder after MDMA-assisted therapy sessions.
+The FDA rejected a previous application for MDMA-assisted therapy in 2024, citing concerns around the design of that same late-stage study and the need for additional data. Some psychedelic researchers viewed that decision as evidence the agency remains cautious despite mounting public enthusiasm.
+Countries outside the United States have already begun loosening restrictions. Australia became the first country to allow authorized psychiatrists to prescribe MDMA and psilocybin for certain mental health conditions in 2023. Researchers in Canada, Switzerland and the United Kingdom have also expanded clinical studies examining psychedelic-assisted therapies.
+Even so, Weiss cautions that not all psychedelic compounds carry the same risks — or the same amount of evidence supporting their use.
+"Psychedelic compounds, they have different safety profiles, different risks," said Weiss. "Ibogaine has particularly high cardiovascular risks, and so what needs to be done is a very measured, methodical weighting of the safety and the efficacy between ibogaine and other compounds."
+The White House executive order specifically referenced accelerating research of ibogaine. But unlike psilocybin or MDMA-assisted therapy, ibogaine has not undergone large-scale clinical trials in the United States and has been linked to potentially serious cardiovascular side effects.
+Weiss said the real worry among some researchers is not that psychedelic therapies are ineffective, but that political momentum could outpace the scientific process.
+"My biggest concern would be that FDA standards are relaxed for politically motivated reasons," he said. "It's not clear that that is the case, but what's required is a lot more scientific research and a very objective interpretation of the risks and benefits."
+Kabir Nath, Compass Pathways CEO, said his company is adhering to the same standards the FDA holds for all drugs. He said the company would not have started the process of submitting its drug, COMP360 Psilocybin, for approval in the first place if it felt the data was insufficient.
+Even supporters of psychedelics used as treatment acknowledge the therapies are far more complex than taking a prescription pill at home. Most psychedelic-assisted therapy trials involve hours of preparation with clinicians, supervised treatment sessions and follow-up integration therapy afterward.
+The treatments also come with risks. Patients can experience panic attacks, paranoia, elevated heart rates or psychological distress during sessions. In some clinical environments, doctors use so called "rescue drugs" like benzodiazepines or antipsychotic medications to calm patients experiencing severe adverse reactions or overwhelming hallucinations.
+Phelan said her own experience with MDMA-assisted therapy felt less like intoxication and more like confronting years of trauma in a controlled setting.
+For veterans' advocates like Juliana Mercer, executive director of nonprofit Healing Breakthrough, the administration's order represents validation for patients who have spent years pushing for broader access to alternative mental health treatments. Mercer, a U.S. Marine Corps veteran, said psychedelic-assisted therapy "completely changed" her life after she struggled with trauma.
+"One of the things that this experience was able to give me was that permission to heal," said Mercer.
+Why now?
+As the Trump administration pursues VA staffing cuts and deeper military involvement with Iran, some veterans are increasingly questioning the prioritization of their care.
+Thus, some critics of the Trump administration have said that the executive order's timing is of particular importance as the president attempts to gain back veteran support ahead of the midterm elections.
+Phelan, however, rejected the idea that backing for psychedelic therapies will translate into into political support for Trump.
+"They'd made so many cuts to veteran benefits and medical services," Phelan said. "Great, you did a good thing. You did a right thing ... I can't speak for how other people will react, but if that's the intention, I doubt it's effective."
+Some industry executives also argue the executive order may have less immediate impact than headlines suggest. Companies like Compass Pathways were already nearing the final stage of Phase 3 trials before the White House announcement, meaning FDA approval submissions were likely coming regardless.
+Nath, CEO or Compass Pathways, said the order primarily signals broader political acceptance of the field.
+"It certainly gives a significant tailwind, encouragement and validation," Nath said.
+— CNBC's Ryan Baker contributed to this report
+
+
+---
+
+## A hotly debated lung cancer drug cut the risk of death by 34% in a late-stage trial in China
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html
+
+正文长度：7589
+
+摘要：An experimental lung cancer drug from Akeso and Summit Therapeutics reduced the risk of death by 34% in a late-stage trial, according to data released Sunday.
+
+An experimental lung cancer drug from Akeso and Summit Therapeutics reduced the risk of death by 34% in a closely watched late-stage trial, according to results released Sunday.
+When combined with chemotherapy, the drug kept people with squamous non-small-cell lung cancer alive for a median of four months longer than the standard combination of immunotherapy and chemotherapy, a result that was statistically significant, according to an abstract released Sunday ahead of a presentation at the American Society of Clinical Oncology's annual meeting. The Phase 3 trial was conducted in China, and a global Phase 3 study is ongoing.
+"The fact that it shows an improvement in overall survival in a difficult-to-treat patient population is very encouraging," said Dr. Suresh Ramalingam, executive director of the Winship Cancer Institute of Emory University. "I'm mindful of the fact that this trial was done exclusively in China, and that brings up the question of how do these data apply to patient populations outside of China, and that will require future investigations."
+Called ivonescimab, the bispecific antibody targets PD-1 — similar to Merck's best-selling drug Keytruda —and VEGF — similar to Roche's Avastin. It's become the subject of intense debate in the oncology and investment communities. Some say ivonescimab and similar drugs could be a successor to Merck's wildly successful cancer drug Keytruda, while others warn it'll disappoint like other once-promising ideas such as drugs targeting TIGIT, an immune receptor.
+The dueling narratives are reflected in the stock price of U.S.-based Summit Therapeutics, which licensed the rights to ivonescimab outside of China from Akeso. Shares of Summit have skyrocketed nearly 600% in the two years since Summit said ivonescimab more effectively controlled tumors than Keytruda in a separate China trial. The stock has slid in the past month over concerns the drug won't be as effective in a global population.
+- PD-1: A protein that helps cancer cells hide from the immune system.
+- VEGF: A protein that promotes the growth of new blood vessels and can help cancer cells thrive.
+Previous studies have showed ivonescimab can effectively control tumors, an endpoint known as progression-free survival. That's typically not enough to seek approval from the U.S. Food and Drug Administration, which wants proof that cancer drugs can keep people alive longer. Older VEGF drugs that effectively controlled tumors struggled to improve survival, which raised doubts that ivonescimab's early promise would hold.
+In the Harmoni-6 trial being presented Sunday, ivonescimab combined with chemotherapy kept people alive for a median of 27.9 months versus 23.7 months for people who received a standalone PD-1 drug and chemotherapy, an improvement of four months.
+"It's not clear how meaningful that is," said Dr. Deborah Doroshow, associate professor of medicine, hematology and medical oncology at the Icahn School of Medicine at Mount Sinai. "It's certainly, it's not two months, but it's also not a huge difference, and I think in terms of whether or not living four months longer is meaningful absolutely depends on the person who is living it."
+People receiving immunotherapy in the control group lived an average of six months longer than expected, raising questions about whether the trial enrolled a representative patient population and whether the advantage of ivonescimab might be better than reported in the study, said Doroshow, who serves on the steering committee for the ongoing Harmoni-3 global trial of ivonescimab.
+One possible reason for the discrepancy is that the study was conducted in China, where people have historically responded better to standalone PD-1 and VEGF drugs, said Emory's Ramalingam. The only way to determine whether combining the two in one molecule produces different results for broader populations is to run additional studies in the West, he said.
+Until then, Ramalingam called the trial results "good news" for Chinese patients.
+"There is a new approach in squamous cell lung cancer that extends survival by about four months, which is a substantial improvement given that this is a patient population where progress has come in small steps," he said.
+Summit plans to report progression-free survival results from squamous patients in the global Harmoni-3 trial in the second half of this year. It expects to share results from non-squamous patients in the first half of next year.
+One purported benefit of PD-1/VEGF-targeting drugs is the ability to give them safely to people with squamous lung cancer, a subset most commonly caused by smoking. These tumors tend to crop up near major blood vessels in the lungs, and blocking VEGF can prevent those blood vessels from repairing themselves, leading to potentially fatal hemorrhaging.
+In the trial being presented Sunday, bleeding of any severity occurred in almost one-quarter of people in the ivonescimab group, twice as much as in the control group. Less than 3% of the cases were considered severe versus about 1% of people who received the PD-1 drug tislelizumab, according to slides that will be presented Sunday where the presenter describes ivonescimab's safety as comparable.
+More broadly, drugmakers and investors alike want to know whether PD-1/VEGF drugs will succeed Keytruda and similar drugs like Bristol Myers Squibb's Opdivo as mainstay treatments. Checkpoint inhibitors like Keytruda have transformed the treatment of lung cancer and are now used in dozens of other cancers. Keytruda alone has 44 indications and generated more than $30 billion in sales for Merck last year.
+Replacing Keytruda everywhere it's used today and potentially expanding into new indications would create "a very large market," said Leerink Partners analyst Daina Graybosch. That prospect has prompted a rush of dealmaking.
+Licensing deals involving PD-1 drugs reached $30 billion last year, nearly doubling the previous peak of $16 billion in 2017, a few years after Keytruda and Opdivo reached the market. Merck and Bristol Myers Squibb were part of the recent rush, with both companies signing potentially multibillion dollar deals for PD-1/VEGF drugs.
+But it's unlikely that ivonescimab and similar drugs will be as broadly used, said Ethan Smith, oncology director at Norstella, especially as they face more competition from other emerging drugs like antibody drug conjugates than Keytruda had when it entered the market more than a decade ago.
+Data from one antibody drug conjugate from Merck and partner Kelun is also being presented this weekend at the ASCO meeting. The experimental drug cut the risk of tumor progression by 65% in a study of lung cancer conducted in China, according to an abstract released ahead of the meeting.
+While Merck thinks there will be places for PD-1/VEGF drugs and is excited about the one it's developing, the company doesn't expect them to become the next Keytruda, said Dr. Marjorie Green, Merck's head of global oncology clinical development.
+"It's an exciting time in oncology," said Green. "I never thought that we would be in a position in lung cancer to debate about which of the new therapies is the best because there just have not been a lot of advances. Keytruda has just been a cornerstone therapy and people are like, 'What's going to displace it?' And I think it's good news for people who are unfortunately diagnosed with lung cancer that we're in position to say, you know what, there might be multiple options of things that we can do, and then hopefully add them together and help even more."
 
 
 ---
@@ -105,6 +195,81 @@ Nora Fatehi is one of those artists. The Moroccan Canadian singer and actress, w
 Fatehi, who will be performing at the World Cup opening ceremony in Toronto in a few weeks, said that even though the American market is hard to crack as an outsider, she's seeing the results take hold as more talent from South Asia crosses into the West.
 "I think the audience is ready for different stuff," Fatehi said. "Now, with YouTube and Spotify and with social media, I don't think borders exist any longer. ... I think labels and managements and platforms realize that people are ready to consume different types of music."
 — CNBC's Ryan Baker contributed to this report.
+
+
+---
+
+## Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html
+
+正文长度：13177
+
+摘要：Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge.
+
+As Rita Ferro, Disney president of global advertising, prepared to take the stage at the company's recent upfront presentation, she had actor Paul Anthony Kelly on her mind.
+Kelly recently portrayed John F. Kennedy Jr. in the limited FX TV series "Love Story," and met Ferro at an earlier event. After a fangirl moment that included an iPhone snapshot, Ferro requested that Kelly introduce her at the annual pitch to advertisers.
+"That's the Disney difference: trust, innovation and unrivaled fandom. Not just with the stories they tell, but how they operate as a company," Kelly said on stage earlier this month. "And all of this is in large part due to Rita Ferro."
+"She claims to be my biggest fan, but honestly I think I'm hers," Kelly said.
+Ferro is a 29-year veteran at Disney and has risen through various roles to the top of its advertising business. That places her at the center of a media industry rediscovering the importance of advertising, as traditional TV, streaming, digital and social platforms all jockey for viewers and ad dollars.
+While Disney and other media companies held shows in mid-May to dazzle advertisers, the negotiations to lock in commitments are currently underway.
+Ferro said in interviews with CNBC that she thinks fandom — from sports to entertainment franchises — is key to driving the Disney portfolio and what unites the company's divisions under newly installed CEO Josh D'Amaro.
+"When you think of 'One Disney,'" Ferro said, referring to the strategy being undertaken by D'Amaro, "and all of the opportunities to tie in brand partnerships with our movie studio partners, [and] the corporate alliance pieces that can tie into park activations, it's a far more interesting and dynamic opportunity than just a traditional media sales role."
+From MTV to Disney
+Ferro previously held roles at Disney at ESPN International, Disney Media Network's Kids and Family, and Disney Interactive, which no longer exists but had focused on the development and distribution of video and mobile games, social media and other digital products.
+In 2018, Ferro became president of advertising in the U.S., and in 2023, she took over the business globally. She now leads all advertising sales for Disney's entertainment, news and sports properties across linear TV, digital and streaming.
+"Everyday you're learning, everyday is different and we spend so much time outside learning our partners' businesses," she said. "That's what I love."
+The daughter of Cuban immigrants who came to the U.S. just before the start of the Cuban Revolution, Ferro was born and raised in Miami. She moved to New York City after graduating from Florida International University with the intention to become a copywriter and art director. After one class, she said, it became clear she wasn't suited for that career.
+Ferro said she soon got involved in fundraising for a production company that showcased Latino comedians and "realized that I was much better at that side." She got her start in the media ad industry working for MTV in Latin America before its official launch.
+"Those were the very early, early, early days of cable. MTV was maybe the second channel that launched in the region. In 1993 you're building an industry that doesn't exist," said Ferro of her first job. "So I'm very fortunate, because I also got to do things with no blueprint. It was a little unsophisticated and unpolished ... which I think I thrived in at the time."
+A few years later, her knowledge of Latin America and ability to speak Spanish helped Ferro land a job at Disney, which led her back to New York. She now resides in New Jersey with her husband and daughter, working in Disney's Manhattan office when she's not traveling for work.
+Ferro said prior to the company's upfront presentation earlier this month, she had hardly spent an uninterrupted week at home this year. Her schedule has included the CES trade show in Las Vegas, the Winter Olympics in Milan-Cortina, and the White House Correspondents' Dinner in Washington, D.C. That's in addition to visiting various Disney offices to see her global team and often attending sporting events with ESPN Chairman Jimmy Pitaro.
+"One of the things that I admire most about her is the fact that she is in the field. You get to a certain level in sales and a lot of folks decide they're going to focus on managing the team," said Pitaro, one of three Disney leaders who Ferro reports to. "Rita does a fantastic job managing the team, but that is only a small part of what she considers her role to be."
+Colleagues of Ferro's, both internally at Disney and more broadly across the industry, noted in interviews that her path to the top of a media giant's ad business has been non-traditional. At the same time — perhaps serendipitously — her various roles over the years align with some of the main areas of growth now central to the media industry.
+Selling the Disney portfolio
+Disney has not been immune to recent industry turmoil, undergoing consolidations, reorganizations and leadership changes.
+In March D'Amaro took over as CEO following Bob Iger's second stint at the helm of the company — that most recent tenure lasting less than four years and designed to fortify Disney's position in streaming, return the movie studio to its prior dominance and further propel its theme parks and experiences.
+On his first day as CEO, D'Amaro said his goal was to focus the company on "coming together as one Disney to deliver a more connected, personalized and immersive experience to our consumers."
+Earlier this month during the company's quarterly earnings call, CFO Hugh Johnston added it's "about how we create, distribute, engage, and monetize our stories and brands across the company in a way that increases the lifetime value of our consumers and drives compounding returns for our bottom line – and thus for our shareholders."
+Monetizing stories is where Ferro comes in.
+Her mandate spans entertainment TV networks — with marquee events like the Oscars and Grammys —streaming platforms Disney+ and Hulu and Disney's sports portfolio, mainly comprised of ESPN's linear and streaming options.
+"Our portfolio is large, but it's easy to navigate for our advertisers because of the way Rita has structured it. I'll call it one-stop shopping for everything that they need," said Debra OConnell, chairman of Disney Entertainment Television and another of Ferro's bosses alongside Pitaro and Disney Entertainment Chairman Alan Bergman.
+"She's always been a leader, and asks, 'How can I bring opportunities to clients that feel not only different, but also amplifying the engagement that a client could have with our audience?" said OConnell in an interview.
+Media companies have leaned into established intellectual property in the face of widespread industry challenges including the decline of traditional cable TV subscribers; the push to make streaming profitable in a highly competitive landscape; and the slow recovery of the theatrical industry after the Covid pandemic — all while fighting to regain consumers' attention that has shifted to social media platforms like TikTok.
+Amid the shift to streaming, advertising's role has only gained importance.
+Wall Street once rewarded media companies for streaming subscriber growth, but as those numbers have plateaued for most companies, the addition of ad-supported options has been a new measure of success.
+Although Hulu — which Disney acquired in pieces and took full control of in 2025 — was the first streamer to get in the advertising game, the company's flagship service, Disney+, launched in 2019, added a cheaper, ad tier in late 2022.
+During Disney's most recent quarterly report in early May, the company's entertainment segment reported that streaming revenue offset declines in both linear affiliate fees and advertising.
+Disney+ saw double-digit ad revenue growth compared to the same period last year.
+'She's always delivering'
+As advertising reclaims the spotlight, live sports increasingly dominates the conversation. The category, which now grabs the biggest audiences and ad dollars, is seeing ever-rising media rights costs.
+The NFL is in the midst of an 11-year, $111 billion media rights deal, while the NBA is in the first season of its 11-year, $77 billion deal. Higher rights fees means a need to capture return on investment. At Disney, that means leveraging "the power of live [events] and sports, and the strength of ESPN's upcoming slate," Pitaro said in an interview.
+"[Ferro] gets and understands that," he said. "That also comes with responsibility, right? Sports rights are expensive and so they have to be monetized, not just through affiliate fees but through ad sales and sponsorships. And she's always delivering for us."
+This year ESPN will air the Super Bowl for the first time ever, and the game will return to Disney's broadcast network ABC after 20 years. Super Bowl ads, which garner record money each year, are reportedly expected to sell for $10 million per 30-second spot.
+Disney's bet on sports and streaming amplified last August when the company launched the ESPN direct-to-consumer streaming app, which features all of the content from its TV network as well as exclusive programming.
+"To me, live sports is just massively, massively valuable to to us," said CFO Johnston at a recent investor conference. "More importantly, it's massively valuable to advertisers because they want these big aggregated audiences and they value that tremendously."
+Getting ahead with tech
+Emerging as a key differentiator in global advertising, and on display during this year's upfront presentations, is technology.
+"We've really redone our ad tech stack in a way that allows us to target for advertisers much, much more effectively," Johnston said at an early March investor conference.
+For Disney, that's included the buildout of tools and offerings to unite streaming and linear TV for ad buyers; expanding measurement partnerships; creating Disney's Audience Graph, essentially its own in-house first-party data about viewership; and in 2025 unveiling its ad-supported monthly active user methodology.
+"That was very clear to me, that if we were to compete we needed to control our destiny," rather than rely on a third-party platform, Ferro said.
+These additions have debuted as part of Disney's Tech and Data showcase at CES, which began in 2021, and serves as the unofficial kickoff to the upfront. Many ad tech and data firms offer these services to allow for better targeting as advertisers are demanding increasingly accurate audience measurement.
+"She's had the clarity of thought to say, 'We need to be a tech-driven, data-driven organization with platforms that can compete at the level of Google and Meta,'" said Kevin Krim, CEO of ad data firm EDO. "Disney was early in investing in that stuff and aggressive in a way I think others sort of hesitated and then later went all in."
+Much of Disney's in-house tech has been integral as advertisers look for specifics to target viewers and measures outcomes.
+Josh Mattison, executive vice president of digital revenue pricing, planning and operations at Disney, who reports to Ferro, said in an interview that Ferro made a point to learn the ins and outs of the digital tools at Disney's disposal.
+"She understood the importance of having your own ad tech stack in order to scale globally and respond to the market's expectations," Mattison said. "If you look at one dimension of how Rita leads, it's through the lens of not just embracing technology, but really driving technology, both within Disney, but also taking a position in the industry of how important it is for customers and how important it is for our business."
+Tapping into international
+Ferro's next frontier is one that calls back to the beginning of her career.
+International growth has emerged as a priority for many media companies, especially streaming services that see much of their additions outside of the U.S. The same is true for Disney.
+"Disney+ has meaningful opportunity for growth internationally, and we're focused on scaling outside the U.S.," D'Amaro said during the company's most recent quarterly earnings call. "We are increasing our local content investments, and early results — they're encouraging."
+For Ferro, this translates to building out the ad-supported streaming business abroad in a similar way to what she's done in the U.S.
+"I started my career international, and so I'm very passionate about the international part of my job," Ferro said. "The U.S. business is not only mature, but there is a like a cadence, if you will, that's very regular."
+In comparison, she said, international markets come with more variety and more to learn.
+This summer, Ferro plans to go to Paris for VivaTech, which she described as "the CES of Europe." She'll take her mother with her to celebrate the elder's 80th birthday.
+While in Paris, Ferro said she plans to meet with companies and discuss how the nuances of international markets can improve Disney's business.
+"For me, that's super exciting," Ferro said. "There's a vibrancy and an opportunity that you're like, 'OK, I could really make an impact here."
 
 
 ---
@@ -158,101 +323,6 @@ Disclosure: Versant is the parent company of Fandango and CNBC.
 
 ---
 
-## Replimune to resubmit twice-rejected drug for approval after FDA shakeup
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html
-
-正文长度：1557
-
-摘要：Replimune was among the drugmakers that had criticized the FDA for what they called inconsistent guidance around trials and approvals.
-
-Replimune plans to resubmit its melanoma drug to the Food and Drug Administration for review after a leadership exodus at the agency, the company said Friday.
-The FDA twice rejected Replimune's melanoma treatment under the previous FDA leadership, including former Commissioner Marty Makary, who stepped down earlier this month. Replimune had accused the FDA of wrongfully blocking what some doctors see as a promising new way to treat the skin cancer, while the FDA had said Replimune ignored the agency's guidance for conducting its clinical trials.
-The bitter fight became a flashpoint for what some in the drug industry saw as mixed messaging from the FDA under Makary's leadership. Certain drugmakers criticized the agency over what they saw as reversals of its guidance around clinical trials and approvals for experimental drugs, saying the inconsistency jeopardized future development of treatments.
-Replimune said it and the FDA are now aligned on a path forward and the company will resubmit its application in the coming days. Replimune said the FDA has indicated it will treat the application as an urgent matter and will prioritize its review.
-"This constructive dialogue represents an important step forward for the thousands of patients living with advanced melanoma who have progressed on prior anti-PD-1 based therapy and have limited treatment options available to them," Replimune said in a statement.
-Replimune shares spiked as much as 70% in premarket trading Friday. Replimune had a market value of $386 million as of Thursday's close.
-
-
----
-
-## 'Our flavors are on the shelf': The evolution of Asian grocery beyond the 'ethnic aisle'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/05/29/asian-foods-beyond-ethnic-aisle.html
-
-正文长度：7737
-
-摘要：As interest in Asian flavors rises, mainstream grocery stores are incorporating more Asian groceries to work toward being a one-stop shop for all consumers.
-
-When Candice Choi launched her Korean seaweed snack brand, Geem, in 2023, she thought the company would be strictly direct-to-consumer, with its marketing strategy relying primarily on TikTok.
-But within three months, the seaweed snacks were on the shelves of grocery stores, including some Whole Foods locations, where Geem chips sit next to kale chips and veggie straws.
-"There was so much confluence of people being really excited about our snacks and stores really willing to take us on that was really, really exciting," Choi told CNBC. "Traditionally, buyers are gatekeepers, and it takes years and years and years to develop those relationships, but they saw the category was growing, and we've been performing."
-Because of its explosive demand, Geem will be launching in Whole Foods stores across Southern California, Nevada, Arizona and Hawaii in July, the company told CNBC exclusively.
-Geem's growth is indicative of a larger trend: As demand for global flavors in the U.S. rises, Asian grocery items are getting more of a spotlight in mainstream grocery stores, signaling an evolution beyond the traditional "ethnic aisle" of years past.
-Those aisles typically included a limited selection of international products, often offering primarily sauces or oils. Now, grocery stores look much different.
-"People are being exposed to newer flavors earlier on, and it's no longer that weird snack that maybe you try once and you're like, 'No,'" Choi said. "It's really exciting, and we're seeing that taste profile really influence consumer demand. And you can see it in the numbers. Asian snacking is expected to go to multiple billions in the end of 2030, and that's just the snacking."
-Research from global investment banking advisor BDA Partners estimates that the "ethnic aisle" generated $8.8 billion in sales in 2024, with Asian products growing nearly four times faster than the overall grocery sales. The U.S. Asian food market is projected to grow to $51.3 billion by 2031, with a 4.7% compounded annual growth rate, BDA said.
-According to data from market research firm Circana, sales of Asian grocery items jumped from $1.57 billion in 2021 to over $2.31 billion this year.
-That growth is multifaceted, Circana analyst Sally Wyatt told CNBC. The Pew Research Center has reported that the Asian population in the U.S. has more than doubled since 2000, growing to a 7% share of the total population. As that population grows, Wyatt said, so too has its influence, introducing new flavors to the rest of the country.
-It's a trend playing out at restaurants, too, but at a time when eating out is 4.3 times the cost of cooking at home, Wyatt said, the dynamic is most apparent in grocery stores.
-"Especially as younger consumers are exploring, as consumers want to travel but maybe can't, we do see that food and beverage is just a perfect way to get a taste of a culture that you might not be able to do every day," she said. "So the flavors provide some unique experiences and can allow for culture exploration through food."
-Asian brands going mainstream
-Some of the segments seeing the most growth are condiments, sauces and frozen foods, Wyatt said. The growth is driving those products out of the traditional "ethnic aisle," with Asian flavors placed next to American ones as mainstream grocery stores work toward being a one-stop shop for all consumers.
-"I could go down each aisle, and all of them have been touched by the ethnicity of different cultures, flavors, combinations," Wyatt said. "You've started to see those go into more mainstream because these retailers are wanting to appeal to not just the Asian consumer, but the consumer that wants to have the Asian exploration and Asian flavor combinations."
-Specialty grocers are expanding rapidly, too. Chains such as H Mart, Patel Brothers and 99 Ranch Market are opening new locations around the country, offering large selections of Asian products.
-In the frozen food section, Deep Brands is serving Asian flavors to a diverse customer base that reflects the country, not just an Asian population, according to General Manager Kiernan Laughlin.
-"Our overall purpose is to elevate global flavors and make them more accessible to all consumers, regardless of what ethnicity they're from," Laughlin told CNBC. "And what's really interesting about these trends is people initially may think Asian flavors, global flavors, are growing specifically because that population is growing ... but it's agnostic to ethnicity."
-Deep Brands includes Deep Indian Kitchen, a legacy brand available in more than 25,000 stores, and Thai brand Tem Toa, which is available in Target. Laughlin said the Indian frozen food brand has grown exponentially and holds 51% market share of frozen Indian food nationwide, meeting growing demand driven by high-income millennials and members of Generation Z.
-Deep Brands products are also sold in mainstream aisles of grocery stores, Laughlin added, serving as easy access points for non-Asian consumers as well. It expects to surpass $110 million in syndicated retail sales this year, he said.
-"If you look at the 'ethnic aisle,' or you look at the ethnic grocery channel, generally speaking, that's targeting people of a specific ethnicity, or it's a multicultural consumer," Laughlin said. "There's a business there as well, but what our thesis is on Deep Brands and who we serve is the consumer of all ethnicities who want an authentic, premium, global flavors experience. So that's where we sit in the store as well, and we've had great success with that."
-How Whole Foods and Target are expanding Asian food offerings
-Amazon's Whole Foods has also been increasing its investments in Asian flavors. Category merchant Julie Bandin said the grocery giant has seen demand grow "pretty tremendously," and it's also an area that's seeing a lot of innovation.
-Bandin said the growing interest is primarily driven by consumers who want to be more adventurous in the kitchen and are seeking out new items to help with that.
-"We sell products that they can't find anywhere else, and that really is a great bridge with our Asian brands," Bandin said. "Every placement is intentional. It's designed to spark curiosity ... [by] getting that product straight to the consumer's mouth."
-She added that the store is seeing Asian flavors emerge across categories, including beverages, sauces, frozen foods and more. After Indian sauce brand Gymkhana came to stores earlier this year, Bandin said, its explosive growth lifted the entire subcategory, including some legacy brands that weren't otherwise seeing gains.
-"Radically, across the store with these different categories ... you just kind of see them marry up together, and that's the hope for me — to see more proliferation in these flavor profiles, or in these Asian-specific brands that can be cross-merchandised," Bandin said.
-A Target spokesperson told CNBC that the company has seen demand for the Asian food and beverage category continue to grow. It's been expanding the number of products and shelf space, including with recent additions such as ramen bowls and Asian Oreo flavors.
-Choi, the founder of Geem seaweed snacks, said seeing her products in mainstream grocery stores means coming full circle for her experience as an Asian American.
-Growing up, Choi said, her parents frequented both a specialty Asian store and a mainstream grocery store to stock their kitchen.
-"Now, I just walk them to Whole Foods, and I'm like, 'Look, my product! Our flavors are on the shelf,'" Choi said. "To them, that's a true sign that they've made it. ... it's true acceptance from other cultures towards us for being who we are, unapologetically."
-— CNBC's Natalie Rice contributed to this report.
-
-
----
-
-## Disney's ABC files early broadcast licenses renewal. FCC Chair vows to 'follow the facts'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html
-
-正文长度：3293
-
-摘要：Disney said it filed renewals for eight broadcast station licenses "under protest," after the FCC launched an early review years ahead of schedule.
-
-Disney shot back at the Federal Communications Commission on Thursday as part of an early renewal process for broadcast licenses for eight of the company's stations.
-Disney said in filings it was submitting the applications "under protest in response to an unlawful, arbitrary, and unconstitutional order" from the FCC.
-In late April, the FCC said it was launching an early review of the Disney-owned ABC stations years ahead of schedule following concerns around the company's diversity, equity and inclusion efforts. The licenses of the eight stations were originally up for renewal between 2028 and 2031.
-Last year the FCC, the federal entity that regulates the media and telecommunications industry, began an investigation into the DEI efforts of Disney and other media companies.
-The agency said it began investigating Disney last March for possible violations of the Communications Act of 1934 and the FCC's rules regarding its prohibition on unlawful discrimination.
-In April, the FCC said it had determined further action was needed. Disney had until Thursday to file the renewals.
-In a Friday interview on CNBC's "Squawk on the Street," FCC Chair Brendan Carr said the agency's focus remains on its investigations into Disney's DEI practices and that pulling up the license renewal deadline is not related to First Amendment matters.
-"I understand Disney wants to make this about a lot of other things, and their PR machine has been in high gear, but we've been very clear about what this is: concerns about invidious forms of DEI discrimination," Carr told CNBC.
-He added that the next step, as soon as Friday, will be for the FCC to issue a public notice and begin a cycle where the public can petition to deny the renewal of Disney's licenses, opening the door for Disney to file an opposition.
-"We have been signaling for a long time that we want Disney to take seriously our investigation, and it was only after we felt like — again, we provided them notice now that we thought their responses were disingenuous, that they were incomplete, that they were frankly nonresponsive to a number of questions — that we thought it was important to take this next step in our investigation to make sure that they're being fully responsive to our proceedings," Carr said.
-When asked if he thinks there is a possibility that the FCC may actually pull ABC's licenses, Carr said the agency will "follow the facts and the law wherever they go."
-The FCC's early review came shortly after ABC faced renewed political backlash from President Donald Trump following comments made by comedian Jimmy Kimmel during his late night TV show that airs on the broadcast network.
-The timing raised eyebrows from critics of the Trump administration — as well as from a sitting FCC commissioner — who said the scrutiny was politically motivated.
-In Thursday's filing, Disney said it objected to the process and added that the FCC hadn't called for an early renewal in more than five decades.
-"The order has no legitimate purpose," Disney said in the filing. "There is no information that the application will reveal that the Commission could not obtain through other means. The order is inconsistent with a legitimate exercise of investigative authority and is plainly incompatible with the First Amendment."
-
-
----
-
 ## SoftBank pledges €75bn to build Europe’s biggest AI facility in France - Financial Times
 
 来源：金融时报
@@ -266,119 +336,119 @@ In Thursday's filing, Disney said it objected to the process and added that the 
 
 ---
 
-## UK military looks at allowing lethal strikes without human approval - Financial Times
+## India’s ‘city of glass’ under pressure as Gulf crisis chokes off energy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNanluZW1xa20tTUJJdFhEUEFMM0RWeHJSaUduTUVQekhWSVVCMzBCUERvRVd4RjRWMG1HM2tjTzNEQS1xSlNEMC1xaVFhci1uZXlhaU1GRWFQaWJHRHRCb081TmVWZXZJOUFnUXFzZzRGRllJZ0NYNWhHREw1X2FKakdNaEo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHM0eHB1SWpycEVsWjJMbjM5UGRlRUI3ZUY5dTRmYlZjcU5vWFgzX0JjUjhwT0VTVDBBUVU4MXpoaXVwUTBfM0UtbkZmUTNSSFd3b3RBanB3elE1V3NzQ0hWTUJEN1h6TEZXc3g4TllnOVY3VWJJVm9aalJyX1E1ckxZaWk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNanluZW1xa20tTUJJdFhEUEFMM0RWeHJSaUduTUVQekhWSVVCMzBCUERvRVd4RjRWMG1HM2tjTzNEQS1xSlNEMC1xaVFhci1uZXlhaU1GRWFQaWJHRHRCb081TmVWZXZJOUFnUXFzZzRGRllJZ0NYNWhHREw1X2FKakdNaEo?oc=5" target="_blank">UK military looks at allowing lethal strikes without human approval</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHM0eHB1SWpycEVsWjJMbjM5UGRlRUI3ZUY5dTRmYlZjcU5vWFgzX0JjUjhwT0VTVDBBUVU4MXpoaXVwUTBfM0UtbkZmUTNSSFd3b3RBanB3elE1V3NzQ0hWTUJEN1h6TEZXc3g4TllnOVY3VWJJVm9aalJyX1E1ckxZaWk?oc=5" target="_blank">India’s ‘city of glass’ under pressure as Gulf crisis chokes off energy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘It aims at the delicious and restorative, then misses that target’ — Jay Rayner reviews Holy Carrot, London - Financial Times
+## EU frets as China builds an industrial base in Morocco - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJoaFpQbXhCc1J1TXBob2lfSkRtdFBoV01pVHo1OE5XbHlxcGNsT1VOT3p1ZEJtSHR5aUliNUVTbzJyNU5HWThEUXUyVXg2WG9KaVB4N25ENHJpYk1tOXZsZko5UXpyRGhNODVBa05WcUN4U19TTFp0ci1fbnh5T0pITzI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0p4bGtwd0ZkWmxNb1JxNUduUUhrSjU4Zm1tTWdRX3d4ekxPOFJVWlpKSXQwX3R5RVVOX01nbFJFX01KNVhkUGlHVVhraVR6RERTc2FpemUxQlBaNXBhV2ltZTRpUXhhQlRBX0Y2b2ZjelBkRjdRR0tvMDBWNmFoQlUydzk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlJoaFpQbXhCc1J1TXBob2lfSkRtdFBoV01pVHo1OE5XbHlxcGNsT1VOT3p1ZEJtSHR5aUliNUVTbzJyNU5HWThEUXUyVXg2WG9KaVB4N25ENHJpYk1tOXZsZko5UXpyRGhNODVBa05WcUN4U19TTFp0ci1fbnh5T0pITzI?oc=5" target="_blank">‘It aims at the delicious and restorative, then misses that target’ — Jay Rayner reviews Holy Carrot, London</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0p4bGtwd0ZkWmxNb1JxNUduUUhrSjU4Zm1tTWdRX3d4ekxPOFJVWlpKSXQwX3R5RVVOX01nbFJFX01KNVhkUGlHVVhraVR6RERTc2FpemUxQlBaNXBhV2ltZTRpUXhhQlRBX0Y2b2ZjelBkRjdRR0tvMDBWNmFoQlUydzk?oc=5" target="_blank">EU frets as China builds an industrial base in Morocco</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Durex sales hit by China’s condom crackdown - Financial Times
+## China’s activewear boom puts spring in foreign brands’ step - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHFtVnl6TV9hSkl5bG5QZ3ZrdVJoYVZ3TWpxblh0LTV3b2hfWmJDUnpNMkxnYnpHckljRWN0U0lZcG1vSHNWY3UwODFzd0V6N2o0WVllSDd0WDZuYWZlbmtBR0JwWEk1c2hzRzItNkMxZ0oydkZqbzQ5aC1zXzdEN1BKSEM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU9EMkkzeDlpQkNaT0ljZzhfbVdtYi1hZnZ4WUpvYXdGaEpQNlRPVG9LcFY1T2xYNVhDa0sycVBsbTZqWXdsaFNCcGRIRXl0NV9odXY1QU1ZZy10SDJBRXVBZUw1dnRZMGJERFNXblFFUzU1U2pNRmE5V2kzYnFpQnVkQ1U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHFtVnl6TV9hSkl5bG5QZ3ZrdVJoYVZ3TWpxblh0LTV3b2hfWmJDUnpNMkxnYnpHckljRWN0U0lZcG1vSHNWY3UwODFzd0V6N2o0WVllSDd0WDZuYWZlbmtBR0JwWEk1c2hzRzItNkMxZ0oydkZqbzQ5aC1zXzdEN1BKSEM?oc=5" target="_blank">Durex sales hit by China’s condom crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU9EMkkzeDlpQkNaT0ljZzhfbVdtYi1hZnZ4WUpvYXdGaEpQNlRPVG9LcFY1T2xYNVhDa0sycVBsbTZqWXdsaFNCcGRIRXl0NV9odXY1QU1ZZy10SDJBRXVBZUw1dnRZMGJERFNXblFFUzU1U2pNRmE5V2kzYnFpQnVkQ1U?oc=5" target="_blank">China’s activewear boom puts spring in foreign brands’ step</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Why Iran fears a deal today means more war tomorrow - Financial Times
+## There can only be one President Donald Trump, forever - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZ0pndHJXaThYNkNPbENFem1fMmVNMk42WEFNNW1BdzNRX0hSSnpOZFY4dkNmaDB4N2pSX1p3V3BUMkNtS0M3TW9QZS0xTWVnVFE0amVCRnA0RW5UQ0gyb1lRaDkyOEg2VmxJSGJMLTY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2IzNjFOY3FMbkdIZUhpZl8tbU5rNXAydVQtNjZGZXdUTGtVallULVBFZXNCaGZCRVFTVWg2UVd5elBmZ19qOWhCcEtvRGQ1dHd0ampKc3A1ekpGUHdreE5zTlE5bU44bVNGMWF5S2xXWFV0dEo4QVhoalRfZVdtUUJIcl8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZ0pndHJXaThYNkNPbENFem1fMmVNMk42WEFNNW1BdzNRX0hSSnpOZFY4dkNmaDB4N2pSX1p3V3BUMkNtS0M3TW9QZS0xTWVnVFE0amVCRnA0RW5UQ0gyb1lRaDkyOEg2VmxJSGJMLTY?oc=5" target="_blank">Why Iran fears a deal today means more war tomorrow</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2IzNjFOY3FMbkdIZUhpZl8tbU5rNXAydVQtNjZGZXdUTGtVallULVBFZXNCaGZCRVFTVWg2UVd5elBmZ19qOWhCcEtvRGQ1dHd0ampKc3A1ekpGUHdreE5zTlE5bU44bVNGMWF5S2xXWFV0dEo4QVhoalRfZVdtUUJIcl8?oc=5" target="_blank">There can only be one President Donald Trump, forever</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Jubilant PSG supporters spill onto Paris streets, some clashes with police - Reuters
+## How Trump’s Ukraine aid cuts undermine justice for Russian war crimes - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby1nOU1lYnhGZE8xREtXZVVEOXA2VkxtV2RVTEtQbnRBa0NZWEpMaExIb2h0WW9KUjhFZm1KTFMyZlBIR0ZVQUphNTc2Q3ZZdGJBdHlReHk3TE1jRlJtbzhpX1Z6d0R6TzlVTjliRHdDVktESzZmMFVZbnFKR2RoTnJyOHRrQmpNYzJEM2xXT1NqSEJtSS1SNGZfM19wUXQ4QW9tMlQ3ZXR3b2YzZHUxdVJNei14V1dhRklrNW1yLUM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby1nOU1lYnhGZE8xREtXZVVEOXA2VkxtV2RVTEtQbnRBa0NZWEpMaExIb2h0WW9KUjhFZm1KTFMyZlBIR0ZVQUphNTc2Q3ZZdGJBdHlReHk3TE1jRlJtbzhpX1Z6d0R6TzlVTjliRHdDVktESzZmMFVZbnFKR2RoTnJyOHRrQmpNYzJEM2xXT1NqSEJtSS1SNGZfM19wUXQ4QW9tMlQ3ZXR3b2YzZHUxdVJNei14V1dhRklrNW1yLUM?oc=5" target="_blank">Jubilant PSG supporters spill onto Paris streets, some clashes with police</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5" target="_blank">How Trump’s Ukraine aid cuts undermine justice for Russian war crimes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China factory activity stalls in May as demand weakens - Reuters
+## Malta's Labour Party wins record fourth term in parliamentary election - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxPanZKQzNsZFNEVm1SdlpJbnhFOWdvMUJaWFdHWHdtNkVJcFc2VUtSM2tDMHJDdG56ZkJMNXJQTGVJNmkteTZzOU5SNkFaSTVveFExU2xWdk0yT0JCbjE2RzdzNE41ZUJOX3hrNEVZOU42c1pqcFkwZ29naEFtYXhwalZ5QjVsMC1qNHJua1h5blIzejNudEFBRWFIOG4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPanZKQzNsZFNEVm1SdlpJbnhFOWdvMUJaWFdHWHdtNkVJcFc2VUtSM2tDMHJDdG56ZkJMNXJQTGVJNmkteTZzOU5SNkFaSTVveFExU2xWdk0yT0JCbjE2RzdzNE41ZUJOX3hrNEVZOU42c1pqcFkwZ29naEFtYXhwalZ5QjVsMC1qNHJua1h5blIzejNudEFBRWFIOG4?oc=5" target="_blank">China factory activity stalls in May as demand weakens</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5" target="_blank">Malta's Labour Party wins record fourth term in parliamentary election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## PSG forge modern dynasty with Champions League shootout triumph over Arsenal - Reuters
+## Kanye West performs to 118,000 in Turkey despite bans elsewhere - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZk1HYmhocE13Y3NoUGdPWTJIeDJGUDFUQ2ROZFVKY0I0eDcwWFh3WWRSVmNNNGp6WXpNYlJkSjNQRlpJczJHTnZkVDEybjZUOVJrUmF2RjFUdmhDTFJkblZRNXBYZExmbm5ualVSd1RSck5MWWlGTGdZa0ZWa3VnVV91c3g1REZqdG9mRUZRV3ZpdjRnWkZ4cXlaN1A5VUxHaTZkaUdzWXJQMGJoRzZkVC16N2NkQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmZlaWU5UlpGYzZwYWVCb2R5dkhMSFVBanB4bmN6bVpYRVNTZ2RZUVVZcHdwMWl3TW0wMERfTFdfSEl5azBMMklON0hod0dVTEpkNjN6ZFgxc1pmWk5nNUJLTy1TTl94cVIzQVVSVGZjV1ltRm5hRjczSlJ3dklXa2tPVkxkeERQODNYdm8yM3hRY3U4aXFiWVpnUDBlYkNPbjlneW4xcExERjRNeVZSX19zdzdjdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZk1HYmhocE13Y3NoUGdPWTJIeDJGUDFUQ2ROZFVKY0I0eDcwWFh3WWRSVmNNNGp6WXpNYlJkSjNQRlpJczJHTnZkVDEybjZUOVJrUmF2RjFUdmhDTFJkblZRNXBYZExmbm5ualVSd1RSck5MWWlGTGdZa0ZWa3VnVV91c3g1REZqdG9mRUZRV3ZpdjRnWkZ4cXlaN1A5VUxHaTZkaUdzWXJQMGJoRzZkVC16N2NkQQ?oc=5" target="_blank">PSG forge modern dynasty with Champions League shootout triumph over Arsenal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmZlaWU5UlpGYzZwYWVCb2R5dkhMSFVBanB4bmN6bVpYRVNTZ2RZUVVZcHdwMWl3TW0wMERfTFdfSEl5azBMMklON0hod0dVTEpkNjN6ZFgxc1pmWk5nNUJLTy1TTl94cVIzQVVSVGZjV1ltRm5hRjczSlJ3dklXa2tPVkxkeERQODNYdm8yM3hRY3U4aXFiWVpnUDBlYkNPbjlneW4xcExERjRNeVZSX19zdzdjdw?oc=5" target="_blank">Kanye West performs to 118,000 in Turkey despite bans elsewhere</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US military says it turned away blockade runner trying to reach Iranian port - Reuters
+## South Africa's World Cup departure delayed in visa 'debacle' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEpZaVprSnBjeXc1Qjc1SEs0Q3FIa056NmZmVl9TbFdiVTZwMWRxVkQzbEZPRF92OXo3TnJNUUthMVk3TnhRd3MxdzhjWUh0YmEzWWRqNU1VdjNiMkJIdXdjbGphV25vMWtTWEpjNElKU3hZRHh1LWVOM01XYThYS0htUHY2SWxpZnpzT1o0eThjRndMVnpLTkJxWVpQcjJnQWJCR2d3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5" target="_blank">US military says it turned away blockade runner trying to reach Iranian port</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEpZaVprSnBjeXc1Qjc1SEs0Q3FIa056NmZmVl9TbFdiVTZwMWRxVkQzbEZPRF92OXo3TnJNUUthMVk3TnhRd3MxdzhjWUh0YmEzWWRqNU1VdjNiMkJIdXdjbGphV25vMWtTWEpjNElKU3hZRHh1LWVOM01XYThYS0htUHY2SWxpZnpzT1o0eThjRndMVnpLTkJxWVpQcjJnQWJCR2d3?oc=5" target="_blank">South Africa's World Cup departure delayed in visa 'debacle'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Brazil investigates suspected Ebola case in Sao Paulo - Reuters
+## US castigates Europe over defence spend as NATO reassures Asia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDJTS2M2aFpLVzFhRlUzVm9PTXNqcWpLTDFtV3ZlZENZYlhQWmxhbThLYzYzZ2FiVmFxNzB3ZElBdW9MdGhOcVcxampuaVRhc1BlQnJmLTJqbVVrUmxxdFc3b0tmUmZrM21uWTFCWDhWUmVBeU5uekZSX3BJU3Z0X2VIUkVoWlN5N3dZSUdSR252NzI3MzczTDltdmJwdFRzMWpfOEx1eWtWTlNxLTcySG5BRG5HWGUtZ0xIWFBfWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDJTS2M2aFpLVzFhRlUzVm9PTXNqcWpLTDFtV3ZlZENZYlhQWmxhbThLYzYzZ2FiVmFxNzB3ZElBdW9MdGhOcVcxampuaVRhc1BlQnJmLTJqbVVrUmxxdFc3b0tmUmZrM21uWTFCWDhWUmVBeU5uekZSX3BJU3Z0X2VIUkVoWlN5N3dZSUdSR252NzI3MzczTDltdmJwdFRzMWpfOEx1eWtWTlNxLTcySG5BRG5HWGUtZ0xIWFBfWQ?oc=5" target="_blank">Brazil investigates suspected Ebola case in Sao Paulo</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5" target="_blank">US castigates Europe over defence spend as NATO reassures Asia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
