@@ -1,69 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-05-31 13:58:09
+更新时间：2026-06-01 04:52:30
 
-## Why Britain’s Bond Market Is Sounding the Alarm
+## Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-05-30/why-britain-s-bond-market-is-sounding-the-alarm-video
+链接：https://www.bloomberg.com/news/articles/2026-05-31/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data
 
 正文长度：0
 
-摘要：As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major parties under pressure to spend more, the bond market is increasingly shaping the limits of economic policy. Authers argues the UK may be confronting fiscal pressures earlier than other advanced economies, offering a warning about the broader risks facing heavily indebted governments worldwide.  
- (Source: Bloomberg)
+摘要：Bond traders are looking to a key jobs report this week to confirm their wagers that the US economy is strong enough to push the Federal Reserve to lift interest rates by next year.
 
 
 ---
 
-## Fed’s Waller Says Stablecoins Will Broaden Reach of US Policy
+## China Tightens Outbound Investment Rules With Eye on Security
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-31/fed-s-waller-says-stablecoins-will-broaden-reach-of-us-policy
+链接：https://www.bloomberg.com/news/articles/2026-06-01/china-tightens-outbound-investment-rules-with-eye-on-security
 
 正文长度：0
 
-摘要：Federal Reserve Governor Christopher Waller the spread of stablecoins around the world could amplify the influence of US central-bank policy.
+摘要：China strengthened oversight of outbound investment through a new directive, tightening cross-border capital flows as its technology rivalry with the US intensifies.
 
 
 ---
 
-## ECB Should Act Sooner Rather Than Later, Pereira Tells Negócios
+## A Strategic Debacle, But Stocks Keep Winning
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-31/ecb-should-act-sooner-rather-than-later-pereira-tells-negocios
+链接：https://www.bloomberg.com/opinion/newsletters/2026-06-01/a-strategic-debacle-but-stocks-keep-winning
 
 正文长度：0
 
-摘要：The European Central Bank shouldn’t hesitate to act, given elevated consumer-price pressures, according to Governing Council member Alvaro Santos Pereira.
+摘要：<p>A lot is riding on whether inflation from the Iran war can stay manageable.</p>
 
 
 ---
 
-## AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic
+## Stocks Hit Record on AI Rally, Oil Rises on Iran: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic
+链接：https://www.bloomberg.com/news/articles/2026-05-31/oil-climbs-as-us-iran-ceasefire-remains-elusive-markets-wrap
 
 正文长度：0
 
-摘要：Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.
+摘要：Stocks rose to a record as investors doubled down on the artificial intelligence trade that’s powered equities to all-time highs. Oil climbed as a US-Iran ceasefire deal remained elusive.
 
 
 ---
 
-## Congo Adds Lithium to Strategic Minerals in Higher Tax Bracket
+## Copper Gains With US Tariffs Deadline Less Than a Month Away
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-31/congo-adds-lithium-to-strategic-minerals-in-higher-tax-bracket
+链接：https://www.bloomberg.com/news/articles/2026-06-01/copper-gains-with-us-tariffs-deadline-less-than-a-month-away
 
 正文长度：0
 
-摘要：Democratic Republic of Congo’s lithium miners could soon be required to triple royalty payments after the government approved the inclusion of several metals to its list of strategic minerals.
+摘要：Copper advanced in New York and London to kick off a crucial month that should deliver more clarity on the Trump administration’s plans for levies on imports of the metal to the US.
 
 
 ---
@@ -323,54 +322,54 @@ Disclosure: Versant is the parent company of Fandango and CNBC.
 
 ---
 
-## SoftBank pledges €75bn to build Europe’s biggest AI facility in France - Financial Times
+## Wall Street bulls bet US stocks rally will defy bubble fears - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzc0MC11amhmRjFKWlpOUGcwNkNxR19OOGpJSVk5ZGFwRWN1QTRrNGlNRWVIMVdjOXBycGpKWEpqdGRZeUQ0TXlqTFJGa2Z5eU5ISHByN1lwc2tFeFhGd0VhdFlyT0pvOFBtUkx1YjZyM0R4UHY3aTk5U19EWEV3UWszbWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2stbXZSd1hxeGxVMUZjMllrUUJodElwY3RibmdBUHdKM0h0aUQ2TUlRb1RhRVBmckIzUGJiSDJaUGdiak9GeHVleEJTdFl5T05aeHRLRWZHVHdKR3lzNkZ5c0xrTV9wbjNreXFHWWdaVW9nMGtLejBQczhHaG9mT3h6eW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzc0MC11amhmRjFKWlpOUGcwNkNxR19OOGpJSVk5ZGFwRWN1QTRrNGlNRWVIMVdjOXBycGpKWEpqdGRZeUQ0TXlqTFJGa2Z5eU5ISHByN1lwc2tFeFhGd0VhdFlyT0pvOFBtUkx1YjZyM0R4UHY3aTk5U19EWEV3UWszbWg?oc=5" target="_blank">SoftBank pledges €75bn to build Europe’s biggest AI facility in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2stbXZSd1hxeGxVMUZjMllrUUJodElwY3RibmdBUHdKM0h0aUQ2TUlRb1RhRVBmckIzUGJiSDJaUGdiak9GeHVleEJTdFl5T05aeHRLRWZHVHdKR3lzNkZ5c0xrTV9wbjNreXFHWWdaVW9nMGtLejBQczhHaG9mT3h6eW4?oc=5" target="_blank">Wall Street bulls bet US stocks rally will defy bubble fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## India’s ‘city of glass’ under pressure as Gulf crisis chokes off energy - Financial Times
+## Jay Powell warns Federal Reserve is undergoing ‘stress test’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHM0eHB1SWpycEVsWjJMbjM5UGRlRUI3ZUY5dTRmYlZjcU5vWFgzX0JjUjhwT0VTVDBBUVU4MXpoaXVwUTBfM0UtbkZmUTNSSFd3b3RBanB3elE1V3NzQ0hWTUJEN1h6TEZXc3g4TllnOVY3VWJJVm9aalJyX1E1ckxZaWk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUl0cG5keDhIRGhiTHRpd05GM0R0U2ZMbVVoeHhjc2lSdEZmbGF0RVRWcWpGNTVuV0hMeVRnUDN6MzMzRXVvVlBBR2RNZFlDU1V6VXRoQm5DSWstVWZJLUZnNDFORWczYWZKczBUdWlycmozRnhwV3JmUWFueFgtNUFIS3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHM0eHB1SWpycEVsWjJMbjM5UGRlRUI3ZUY5dTRmYlZjcU5vWFgzX0JjUjhwT0VTVDBBUVU4MXpoaXVwUTBfM0UtbkZmUTNSSFd3b3RBanB3elE1V3NzQ0hWTUJEN1h6TEZXc3g4TllnOVY3VWJJVm9aalJyX1E1ckxZaWk?oc=5" target="_blank">India’s ‘city of glass’ under pressure as Gulf crisis chokes off energy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUl0cG5keDhIRGhiTHRpd05GM0R0U2ZMbVVoeHhjc2lSdEZmbGF0RVRWcWpGNTVuV0hMeVRnUDN6MzMzRXVvVlBBR2RNZFlDU1V6VXRoQm5DSWstVWZJLUZnNDFORWczYWZKczBUdWlycmozRnhwV3JmUWFueFgtNUFIS3M?oc=5" target="_blank">Jay Powell warns Federal Reserve is undergoing ‘stress test’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EU frets as China builds an industrial base in Morocco - Financial Times
+## Populist to face outgoing president’s candidate in Colombian run-off election - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0p4bGtwd0ZkWmxNb1JxNUduUUhrSjU4Zm1tTWdRX3d4ekxPOFJVWlpKSXQwX3R5RVVOX01nbFJFX01KNVhkUGlHVVhraVR6RERTc2FpemUxQlBaNXBhV2ltZTRpUXhhQlRBX0Y2b2ZjelBkRjdRR0tvMDBWNmFoQlUydzk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5WRGVFd3F2UE9rX0F5bE4tMGVVam50MHE1UXlQTFV1LUtoVWJpX2YyVjU0TUUyNHhrMXN1VHQxMkxYRWQ0c3JrLV8tVjBTMTV2Ym5ZMzc4bkFhUFNucnlVSTRaZHVlUU1OZnRCV1B4QXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0p4bGtwd0ZkWmxNb1JxNUduUUhrSjU4Zm1tTWdRX3d4ekxPOFJVWlpKSXQwX3R5RVVOX01nbFJFX01KNVhkUGlHVVhraVR6RERTc2FpemUxQlBaNXBhV2ltZTRpUXhhQlRBX0Y2b2ZjelBkRjdRR0tvMDBWNmFoQlUydzk?oc=5" target="_blank">EU frets as China builds an industrial base in Morocco</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5WRGVFd3F2UE9rX0F5bE4tMGVVam50MHE1UXlQTFV1LUtoVWJpX2YyVjU0TUUyNHhrMXN1VHQxMkxYRWQ0c3JrLV8tVjBTMTV2Ym5ZMzc4bkFhUFNucnlVSTRaZHVlUU1OZnRCV1B4QXM?oc=5" target="_blank">Populist to face outgoing president’s candidate in Colombian run-off election</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s activewear boom puts spring in foreign brands’ step - Financial Times
+## How Iran’s military harnesses ChatGPT - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU9EMkkzeDlpQkNaT0ljZzhfbVdtYi1hZnZ4WUpvYXdGaEpQNlRPVG9LcFY1T2xYNVhDa0sycVBsbTZqWXdsaFNCcGRIRXl0NV9odXY1QU1ZZy10SDJBRXVBZUw1dnRZMGJERFNXblFFUzU1U2pNRmE5V2kzYnFpQnVkQ1U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlF3UWtuWXlNOTIwdWVkSHZfWHZNbjNhLTlLY05hSjJhSl9sc0lJcThRcnVUckN6d196T2drUE9hQUo4UDQyUUVGNThsekoyMExhTHUxeTQxa1NvcW1UbFJRSVM0NTIzMW1kVDdYam9YclRxeURTTzhtUU13aEs4MFhRNTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU9EMkkzeDlpQkNaT0ljZzhfbVdtYi1hZnZ4WUpvYXdGaEpQNlRPVG9LcFY1T2xYNVhDa0sycVBsbTZqWXdsaFNCcGRIRXl0NV9odXY1QU1ZZy10SDJBRXVBZUw1dnRZMGJERFNXblFFUzU1U2pNRmE5V2kzYnFpQnVkQ1U?oc=5" target="_blank">China’s activewear boom puts spring in foreign brands’ step</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlF3UWtuWXlNOTIwdWVkSHZfWHZNbjNhLTlLY05hSjJhSl9sc0lJcThRcnVUckN6d196T2drUE9hQUo4UDQyUUVGNThsekoyMExhTHUxeTQxa1NvcW1UbFJRSVM0NTIzMW1kVDdYam9YclRxeURTTzhtUU13aEs4MFhRNTQ?oc=5" target="_blank">How Iran’s military harnesses ChatGPT</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -388,67 +387,67 @@ Disclosure: Versant is the parent company of Fandango and CNBC.
 
 ---
 
-## How Trump’s Ukraine aid cuts undermine justice for Russian war crimes - Reuters
+## China toughens rules on outbound investment after Meta-Manus contention - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVnSjJkT3BMYUY4cklZeEE0eU1seTZianNLbkpBcmFMRWZNM0RldUl5N0MwRWtTYm5wOFREWGRlZDVnRGJyS29PYWZLUkpWZmpiTE5Nb2h6ZUhrcVNIOHhkbW9fU21TSVE3TXAtSkpDcm9mRkV1NFFWakR4YkRuQ0lrYkFqV3A3Ul93TUlvSzdqbUg5UzdPQTF4NTdrTWVBRVZjaGlVR0ZOTEV4MHRxUC01X2kzb2tuUERxXzhxNHo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5" target="_blank">How Trump’s Ukraine aid cuts undermine justice for Russian war crimes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVnSjJkT3BMYUY4cklZeEE0eU1seTZianNLbkpBcmFMRWZNM0RldUl5N0MwRWtTYm5wOFREWGRlZDVnRGJyS29PYWZLUkpWZmpiTE5Nb2h6ZUhrcVNIOHhkbW9fU21TSVE3TXAtSkpDcm9mRkV1NFFWakR4YkRuQ0lrYkFqV3A3Ul93TUlvSzdqbUg5UzdPQTF4NTdrTWVBRVZjaGlVR0ZOTEV4MHRxUC01X2kzb2tuUERxXzhxNHo?oc=5" target="_blank">China toughens rules on outbound investment after Meta-Manus contention</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Malta's Labour Party wins record fourth term in parliamentary election - Reuters
+## Dollar steadies as markets await signals on Iran war, central banks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5" target="_blank">Malta's Labour Party wins record fourth term in parliamentary election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5" target="_blank">Dollar steadies as markets await signals on Iran war, central banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Kanye West performs to 118,000 in Turkey despite bans elsewhere - Reuters
+## South Korea export growth hits four-decade high on AI chip boom - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmZlaWU5UlpGYzZwYWVCb2R5dkhMSFVBanB4bmN6bVpYRVNTZ2RZUVVZcHdwMWl3TW0wMERfTFdfSEl5azBMMklON0hod0dVTEpkNjN6ZFgxc1pmWk5nNUJLTy1TTl94cVIzQVVSVGZjV1ltRm5hRjczSlJ3dklXa2tPVkxkeERQODNYdm8yM3hRY3U4aXFiWVpnUDBlYkNPbjlneW4xcExERjRNeVZSX19zdzdjdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxObUZaNE0zcldLWGpoVWFONHR4OS12MTZ4Um5rN2xYNkZLdUUyM3JWbDMxX0I0WTFaNXNuRXNnaGJIeGJ3WjdxV1ltams4cGVEeURGX2Jxd1NEV1BsNFNjVHV2Rk12NnR4VGZxQmxlMHU1X1F6UTdvdUxURnJ6bHdKdUNmM0o4elVZbVozSG5McmlkLXQ1eV8tWnNPX3laNmpHOVo2eWl6ZXZKc1VQUldMMTBoQjN4TWlJNnR1MHFwckEzMWstNVdpdGI1WTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmZlaWU5UlpGYzZwYWVCb2R5dkhMSFVBanB4bmN6bVpYRVNTZ2RZUVVZcHdwMWl3TW0wMERfTFdfSEl5azBMMklON0hod0dVTEpkNjN6ZFgxc1pmWk5nNUJLTy1TTl94cVIzQVVSVGZjV1ltRm5hRjczSlJ3dklXa2tPVkxkeERQODNYdm8yM3hRY3U4aXFiWVpnUDBlYkNPbjlneW4xcExERjRNeVZSX19zdzdjdw?oc=5" target="_blank">Kanye West performs to 118,000 in Turkey despite bans elsewhere</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxObUZaNE0zcldLWGpoVWFONHR4OS12MTZ4Um5rN2xYNkZLdUUyM3JWbDMxX0I0WTFaNXNuRXNnaGJIeGJ3WjdxV1ltams4cGVEeURGX2Jxd1NEV1BsNFNjVHV2Rk12NnR4VGZxQmxlMHU1X1F6UTdvdUxURnJ6bHdKdUNmM0o4elVZbVozSG5McmlkLXQ1eV8tWnNPX3laNmpHOVo2eWl6ZXZKc1VQUldMMTBoQjN4TWlJNnR1MHFwckEzMWstNVdpdGI1WTQ?oc=5" target="_blank">South Korea export growth hits four-decade high on AI chip boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Africa's World Cup departure delayed in visa 'debacle' - Reuters
+## Dell unveils $699 XPS 13 laptop in challenge to Apple's MacBook Neo - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEpZaVprSnBjeXc1Qjc1SEs0Q3FIa056NmZmVl9TbFdiVTZwMWRxVkQzbEZPRF92OXo3TnJNUUthMVk3TnhRd3MxdzhjWUh0YmEzWWRqNU1VdjNiMkJIdXdjbGphV25vMWtTWEpjNElKU3hZRHh1LWVOM01XYThYS0htUHY2SWxpZnpzT1o0eThjRndMVnpLTkJxWVpQcjJnQWJCR2d3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVhudnVRRDRwbjRIQXFYek5uYjB4Q191SFRVQzdpTExYamx6WjNITkpmSnppWjlDZFJ4bGVOUFo0TElfeUlGZXlIV1NCai1nM1FQQ3pGTnF5bVFpMU9nOXgxc2lqZzBoRFYtWWlQWmJIT1Z6Z0JZekpyelUwcDdtNGRnSklrZzNrV3QydlRCT0UtSGszWDhPT3ctSkI4TnNTVlNJT19Vcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEpZaVprSnBjeXc1Qjc1SEs0Q3FIa056NmZmVl9TbFdiVTZwMWRxVkQzbEZPRF92OXo3TnJNUUthMVk3TnhRd3MxdzhjWUh0YmEzWWRqNU1VdjNiMkJIdXdjbGphV25vMWtTWEpjNElKU3hZRHh1LWVOM01XYThYS0htUHY2SWxpZnpzT1o0eThjRndMVnpLTkJxWVpQcjJnQWJCR2d3?oc=5" target="_blank">South Africa's World Cup departure delayed in visa 'debacle'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVhudnVRRDRwbjRIQXFYek5uYjB4Q191SFRVQzdpTExYamx6WjNITkpmSnppWjlDZFJ4bGVOUFo0TElfeUlGZXlIV1NCai1nM1FQQ3pGTnF5bVFpMU9nOXgxc2lqZzBoRFYtWWlQWmJIT1Z6Z0JZekpyelUwcDdtNGRnSklrZzNrV3QydlRCT0UtSGszWDhPT3ctSkI4TnNTVlNJT19Vcw?oc=5" target="_blank">Dell unveils $699 XPS 13 laptop in challenge to Apple's MacBook Neo</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US castigates Europe over defence spend as NATO reassures Asia - Reuters
+## Oil prices rise more than 2% as Israel steps up incursion into Lebanon - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5" target="_blank">US castigates Europe over defence spend as NATO reassures Asia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5" target="_blank">Oil prices rise more than 2% as Israel steps up incursion into Lebanon</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
