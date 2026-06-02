@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.name "News Bot"
           git config --global user.email "news-bot@github.com"
-          git add news.json news.md
+          git add news.json news.md news_*.md  # 🔴 这里加上了 news_*.md，让它每天自动提交历史存档
           if git diff --staged --quiet; then
             echo "没有新内容，跳过提交"
           else

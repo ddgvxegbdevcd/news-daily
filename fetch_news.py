@@ -254,10 +254,11 @@ def main():
             )
 
         if news["content"]:
-
-            md.append(
-                f"{news['content']}\n"
-            )
+            # 这里的正文会自带折叠效果
+            md.append("<details>")
+            md.append("<summary><b>👉 点击展开 / 收起正文</b></summary>\n")
+            md.append(f"> {news['content']}\n")
+            md.append("</details>\n")
 
         md.append("\n---\n")
 
@@ -270,6 +271,20 @@ def main():
         f.write(
             "\n".join(md)
         )
+
+    # =========================
+    # 额外保存一份按日期归档的历史文件
+    # =========================
+    today_date = datetime.now().strftime("%Y-%m-%d")
+    archive_filename = f"news_{today_date}.md"
+    
+    with open(
+        archive_filename,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        f.write("\n".join(md))
+
 
     print(
         f"\n完成，共抓取 {len(all_news)} 条新闻"
