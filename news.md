@@ -1,69 +1,94 @@
 # 每日财经新闻
 
-更新时间：2026-06-01 17:53:31
+更新时间：2026-06-02 04:41:20
 
-## Why Britain’s Bond Market Is Sounding the Alarm (Correct)
+## China’s Solar Industry Launches Space Alliance With Few Details
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-05-30/why-britain-s-bond-market-is-sounding-the-alarm-video
+链接：https://www.bloomberg.com/news/articles/2026-06-02/china-s-solar-industry-launches-space-alliance-with-few-details
 
 正文长度：0
 
-摘要：As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major parties under pressure to spend more, the bond market is increasingly shaping the limits of economic policy. Authers argues the UK may be confronting fiscal pressures earlier than other advanced economies, offering a warning about the broader risks facing heavily indebted governments worldwide.  (Corrects chart "The British Political Chaos Discount")
- (Source: Bloomberg)
+摘要：Chinese solar manufacturers and research institutes launched an alliance on Tuesday to promote solar energy in space, a potential new avenue for growth in an industry beset by terrestrial overcapacity.
 
 
 ---
 
-## US Spot Petrochemical Prices Ease as Export Demand Starts to Lag
+## SpaceX &mdash; To Boldly Raise Money Where No IPO Has Gone Before
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-01/us-spot-petrochemical-prices-ease-as-export-demand-starts-to-lag
+链接：https://www.bloomberg.com/opinion/newsletters/2026-06-02/spacex-to-boldly-raise-money-where-no-ipo-has-gone-before
 
 正文长度：0
 
-摘要：US spot petrochemical prices softened across the board last week as export demand for the plastics building blocks appears to weaken for the month of June.
+摘要：<p>The final frontier is efficiency, as some of the world’s biggest companies&nbsp;land on indexes.</p>
 
 
 ---
 
-## Quant Fails to Get $1 Billion Source-Code Theft Charge Tossed
+## Elliott Buys Stake in Top Australia Gold Miner Northern Star
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-01/quant-fails-to-get-1-billion-source-code-theft-charge-tossed
+链接：https://www.bloomberg.com/news/articles/2026-06-01/elliott-takes-stake-in-miner-northern-star-pushing-for-review
 
 正文长度：0
 
-摘要：An ex-Headlands Technologies LLC quantitative trader must face a criminal charge that he stole source code that his former employer spent more than $1 billion to develop.
+摘要：Elliott Investment Management LP has built a stake in Australia’s biggest gold miner Northern Star Resources Ltd. and is pushing for a strategic review, including a potential sale.
 
 
 ---
 
-## Bank of Canada Warns Against Overreacting to Techical Recession Indicator
+## Stocks Slip From Record as AI Trade Loses Momentum: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-01/bank-of-canada-warns-against-overreacting-to-techical-recession-indicator
+链接：https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap
 
 正文长度：0
 
-摘要：Bank of Canada Senior Deputy Governor Carolyn Rogers cautioned against concluding the country is in a recession after recent data showed the economy contracted for a second consecutive quarter.
+摘要：Stocks eased from all-time highs as investors took a breather from the AI-driven rally that has dominated markets this year.
 
 
 ---
 
-## Oil Jumps on Report Iran to Halt Exchanges With US: Markets Wrap
+## Arm CEO Haas on Agentic AI and Taiwan's Ecosystem
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-05-31/oil-climbs-as-us-iran-ceasefire-remains-elusive-markets-wrap
+链接：https://www.bloomberg.com/news/videos/2026-06-02/arm-ceo-haas-on-agentic-ai-and-taiwan-s-ecosystem-video
 
 正文长度：0
 
-摘要：A renewed rally in oil prices drove bonds lower while stocks fluctuated as a report that Iran will halt talks with the US cast doubt on a ceasefire renewal.
+摘要：Arm CEO Rene Haas explains how Taiwan's partner ecosystem is critical for AI development. He also discussed how the rapid rise of agentic AI will trigger immense growth in CPU demand. (Source: Bloomberg)
+
+
+---
+
+## McDonald's unveils new global growth strategy to win over diners as competition rises
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/01/mcdonalds-mcd-unveils-growth-strategy.html
+
+正文长度：3049
+
+摘要：McDonald's new growth plan comes as inflation and high gas prices mean restaurants are competing for a smaller pool of customers.
+
+McDonald's on Monday unveiled its latest global growth strategy to help the fast-food giant become customers' first choice as it faces new rivals and consumer spending stretched by high gas prices.
+A new restaurant design, better-tasting food and drinks, consumer-led innovation and improved customer service are the four cornerstones of the new plan, which the company calls "McDonald's > NEXT."
+Executives made the announcement at McDonald's biennial Worldwide Convention for franchisees, held this year in Las Vegas. The chain released its last global strategy, known as "Accelerating the Arches," in November 2020 as its sales bounced back from the pandemic.
+The growth plan comes as restaurants compete for a smaller pool of customers, and a new crop of chains, including Raising Cane's and 7 Brew Drive Thru Coffee, threaten McDonald's sales. So far, McDonald's, the largest U.S. restaurant chain by revenue, has managed to hold onto its dominant spot, with four straight quarters of same-store sales growth.
+"Traditional competitors are upgrading their menus, and a new wave of specialists are emerging and redefining taste and quality across chicken, beef, and beverages," McDonald's CEO Chris Kempczinski wrote in a memo to the chain's global system.
+"In a world where every restaurant is a swipe away, there is no such thing as second place," he added.
+To become diners' first option, McDonald's plans to focus on menu innovation that elevates taste and quality, like improvements to its McCrispy chicken line. For years, the chain has sought to improve and expand its chicken offerings as rivals like Chick-fil-A stole its customers. Plus, Americans have been eating more chicken than beef for the past 16 years, due to health concerns tied to the consumption of red meat and higher beef prices, according to U.S. Department of Agriculture data.
+"We're raising the bar for our menu by improving quality and consistency at scale and innovating in spaces where we see growth potential and know matter to our customers, like chicken, beef and beverages," said Jill McDonald, the chain's global chief restaurant experience officer.
+The chain also wants to "co-create" with customers by listening more closely to what consumers want and how they interact with brands. Recent examples include the popularity of its viral Grimace milkshake and its collaboration with "A Minecraft Movie."
+The new restaurant design will give McDonald's a recognizable look, but it should also ease employee headaches and improve kitchen operations. The company said back-end systems will be more intuitive and connected, for example.
+McDonald's is also testing automated order taking at five U.S. restaurants using a system it named ARCHY to let employees focus on other tasks. More broadly, the chain also said it wants to "redefine hospitality" by improving customer service and training employees to interact more with diners.
+In September, the company will hold an investor day that will include more details about the strategy and relevant financial targets.
 
 
 ---
@@ -74,7 +99,7 @@
 
 链接：https://www.cnbc.com/2026/06/01/uaw-strike-union-work-stoppage-threatens-gm-truck-production.html
 
-正文长度：2792
+正文长度：2866
 
 摘要：Nearly 1,000 workers at a Michigan supplier plant that notably makes parts for GM pickup trucks went on strike Monday after not reaching a new contract deal.
 
@@ -90,7 +115,7 @@ Jon Krause, a 32-year American Axle employee and member of the bargaining commit
 Krause said the union believes that GM appears to have about two weeks' worth of axles in stock.
 A spokesman for GM said the automaker "is closely monitoring the situation" and "assessing any potential impact." As of Monday, production at GM's plants was operating as usual.
 The impacted plant produces axles for GM's Chevrolet Colorado and GMC Canyon midsize pickup trucks as well as its heavy-duty Chevrolet Silverado and GMC Sierra pickups. Other production includes smaller components for the Detroit automaker's light-duty Silverado and Sierra pickups as well as parts of Stellantis' Chrysler Pacifica minivan, a union spokesman confirmed.
-Stellantis did not immediately respond to a request to comment.
+In a statement, a Stellantis spokesperson said, "We are monitoring the situation closely, but expect no production impact at this point."
 
 
 ---
@@ -229,37 +254,28 @@ While retailers can at times be "more cautious in their guidance than the realit
 
 ---
 
-## Barry Diller's People offers to buy casino giant MGM Resorts for $48.30 per share
+## Alphabet to sell $80bn in stock to fund AI spending spree - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/01/mgm-resorts-barry-diller-people-bid.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFg4SWttaWF6TlFwaFlTV0dCQmZqVy1ZNlVsa01zekY0c1M3VzBTZUM2bW1fWjRkUFhtTEpzRTk2RnBCbTRwLV9kaUNQLXlKNHR2WmJRSEUyWnBYYVA4Q2ZZMnJZbzRTX05ITElSWmtCcjJWQl9qQjFNbmVZRWxSRy1panA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1154
+正文长度：0
 
-摘要：Barry Diller's People Inc. extended an offer for MGM Resorts at $48.30 per share.
-
-Barry Diller's People Inc. has offered to buy casino giant MGM Resorts for $48.30 per share in cash.
-MGM is the company behind major Las Vegas properties including Bellagio and Aria.
-Shares of MGM were up roughly 15% in midday trading Monday. Shares of Diller's firm were up 2%.
-Diller already sits on the board of MGM Resorts and would recuse himself from board actions on the proposed deal, he said in a letter to the MGM board of directors.
-People Inc., formerly known as IAC, owns a roughly 26.1% stake in MGM.
-"We began investing in MGM nearly six years ago because we believed it represented a rare kind of business: one with real world assets that AI cannot easily replicate or disintermediate and exceptional digital growth opportunities," Diller, chairman of People, said in a news release.
-"We continue to believe the market materially undervalues the power and durability of MGM's assets," he said. "We believe MGM's management team is superb, and that there is a compelling opportunity to support MGM's next phase of growth and help unlock its full value."
-CNBC's Andrew Ross Sorkin previously reported an offer could come as early as Monday.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFg4SWttaWF6TlFwaFlTV0dCQmZqVy1ZNlVsa01zekY0c1M3VzBTZUM2bW1fWjRkUFhtTEpzRTk2RnBCbTRwLV9kaUNQLXlKNHR2WmJRSEUyWnBYYVA4Q2ZZMnJZbzRTX05ITElSWmtCcjJWQl9qQjFNbmVZRWxSRy1panA?oc=5" target="_blank">Alphabet to sell $80bn in stock to fund AI spending spree</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic files for blockbuster initial public offering - Financial Times
+## Donald Trump claims Israel and Hizbollah agree ceasefire after Iran threats - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5kaGhnLUdiekVUdUE3XzVSZFZjTEdHTkRjWGY4WjRDbjRNN3ZONzhHNWVicFQzRFJEcl9neHVlempMVHBpbG9XWkRDNHJybWRLcC1JYndpMG9pN21SRW9xY3V4SmhGcWlrYUJiTWRhSDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp4Vm5PdHAxZzlsOWE5UUlXa0kxcl9mU2hwd1hzT3dJeTREOU9Cb2ZEUWtrUTEtWURSZEE0V2x0SEhjWEw0X21hV2ZrSTNOQTBocmVncnQ2bUV4Tm9VS190YzQtVnNCbFp0SDhEVnpkR1Ffa3BMSzk1U0VhOUVXNWxGcUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5kaGhnLUdiekVUdUE3XzVSZFZjTEdHTkRjWGY4WjRDbjRNN3ZONzhHNWVicFQzRFJEcl9neHVlempMVHBpbG9XWkRDNHJybWRLcC1JYndpMG9pN21SRW9xY3V4SmhGcWlrYUJiTWRhSDg?oc=5" target="_blank">Anthropic files for blockbuster initial public offering</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp4Vm5PdHAxZzlsOWE5UUlXa0kxcl9mU2hwd1hzT3dJeTREOU9Cb2ZEUWtrUTEtWURSZEE0V2x0SEhjWEw0X21hV2ZrSTNOQTBocmVncnQ2bUV4Tm9VS190YzQtVnNCbFp0SDhEVnpkR1Ffa3BMSzk1U0VhOUVXNWxGcUc?oc=5" target="_blank">Donald Trump claims Israel and Hizbollah agree ceasefire after Iran threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -290,93 +306,80 @@ CNBC's Andrew Ross Sorkin previously reported an offer could come as early as Mo
 
 ---
 
-## The truth about the American profit machine - Financial Times
+## The Honeywell lifer deconstructing a 141-year-old industrials empire - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZmaFl0U09aNzRhTGJ5MFN0bVUwWHlwTWRTbHhpWGpyS2g1SUxaRGhYWDJEeGk2XzNDUlFrQ1RsZm5fc3cyNVZNcEJhSjBoOFVPYXdsT2dlR0N4V2gxRzZia2NXSUxrRDFfZ0ZpR0NVRDRmaFpQR2tZY0RMcVRQVEFxQkc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1dJQmhGaWliaFFoYVVKeFAySHl2bVlZTlZoTS1yelRvQlVyeGNndjFQd1RXT1lkNnc4Ylg0akFuRkZxNVVtLXZKQ2JFNlFyX3FBWXpjRXBPV19IUVRBVnZXU3JrR2J2ZDdkWGNIUG5uNEJDb3MxQUw5NFlYcXBjUzk0YjY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZmaFl0U09aNzRhTGJ5MFN0bVUwWHlwTWRTbHhpWGpyS2g1SUxaRGhYWDJEeGk2XzNDUlFrQ1RsZm5fc3cyNVZNcEJhSjBoOFVPYXdsT2dlR0N4V2gxRzZia2NXSUxrRDFfZ0ZpR0NVRDRmaFpQR2tZY0RMcVRQVEFxQkc?oc=5" target="_blank">The truth about the American profit machine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1dJQmhGaWliaFFoYVVKeFAySHl2bVlZTlZoTS1yelRvQlVyeGNndjFQd1RXT1lkNnc4Ylg0akFuRkZxNVVtLXZKQ2JFNlFyX3FBWXpjRXBPV19IUVRBVnZXU3JrR2J2ZDdkWGNIUG5uNEJDb3MxQUw5NFlYcXBjUzk0YjY?oc=5" target="_blank">The Honeywell lifer deconstructing a 141-year-old industrials empire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Germany to punish ministries for failing to spend funds quickly enough - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3BZMFM5eFlfcHRBMUlpcVM2LU9yazY4N1NBZVFkaXVUUHZ3UWlubFh5azdrNXdxS1BTclAySjZyRkhRNzRWT0hLSlJYbWRsaGNtU2p4bUs3TUs1UXlGN3NiRzJGMWs0YUFCNldLWlpuTzllUDFYTTg4UWdmZHJRN0hGUU8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3BZMFM5eFlfcHRBMUlpcVM2LU9yazY4N1NBZVFkaXVUUHZ3UWlubFh5azdrNXdxS1BTclAySjZyRkhRNzRWT0hLSlJYbWRsaGNtU2p4bUs3TUs1UXlGN3NiRzJGMWs0YUFCNldLWlpuTzllUDFYTTg4UWdmZHJRN0hGUU8?oc=5" target="_blank">Germany to punish ministries for failing to spend funds quickly enough</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Anthropic confidentially files for US IPO, beating OpenAI - Reuters
+## Oil steadies as uncertainty over US-Iran talks keeps markets on edge - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5" target="_blank">Anthropic confidentially files for US IPO, beating OpenAI</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5" target="_blank">Oil steadies as uncertainty over US-Iran talks keeps markets on edge</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran eyes limited US deal to relieve economic strain and buy time - Reuters
+## Nine dead, dozens wounded as Russia launches major attack across Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0Ftb1FUSzZ0Ry1tcDNoRXJ1cnlld0l2MjJyRThsYmdyTHRSZURJWWRHWVY4WFVSbk1wVEpyXzJqQmlIUG0wVmFYM2lHdUc3WFJMcEt4TnZxTGw1XzBBMHpXS1BWRE02TU83UGNpNS1OWmhIZjBtaURzZzNTSUVmUW9vaEF6cnU4NUlyX0sxTDJvWmcwajZvbUpmZDgzaTZPUG1LSHZtTy1tZjBIbWdqZk1B?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0Ftb1FUSzZ0Ry1tcDNoRXJ1cnlld0l2MjJyRThsYmdyTHRSZURJWWRHWVY4WFVSbk1wVEpyXzJqQmlIUG0wVmFYM2lHdUc3WFJMcEt4TnZxTGw1XzBBMHpXS1BWRE02TU83UGNpNS1OWmhIZjBtaURzZzNTSUVmUW9vaEF6cnU4NUlyX0sxTDJvWmcwajZvbUpmZDgzaTZPUG1LSHZtTy1tZjBIbWdqZk1B?oc=5" target="_blank">Iran eyes limited US deal to relieve economic strain and buy time</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ?oc=5" target="_blank">Nine dead, dozens wounded as Russia launches major attack across Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hundreds protest against planned US Ebola quarantine facility in Kenya - Reuters
+## Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVhydEVDaXdNMVdrdEpjVC1FVEVQczY0NFdXS1ZSWFBNSWJGRG9sZFVDTW1CZGkzNWFuWlhoRzY4Wk8xS3BkYzlRR0pRQkYtSmxKeEgwRy1DM09fMUdfcTMteHJfVmpXMzV4VWRkbEd6bTZGYlFyVnhBRVdNZ0JJeHhQVEdCVEo1X3N0dnRkUFk4MWNYZnNCYXhHMzVqdHo3X0hPMVFMeFRNY1lmQTkxcEFyTTc3cWpTWU96Z2s4b1BHMWRMaFJqV2ZWdHhvZnM1ZDF5Y29n?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPYy1OQkNzUzkwcEV1Ml84R3BYT2RlRVFNdDQ1emI3SE1GTTlsYnB2VnR3VlIwcjc1clp3SFc5VVJ3U0VndFZVRU1FYlNXTmxGX1BqTDNGVXotY3BRanJ5a0FSSEtzRFdKN0dqNHljYXFVaGFnaXR3dlhNVTRiUUN2NHBpNnVNSkZhbnZiczAwY04xdXFFUU9Eb2I5VGcyb2tVLTdWMnp0WmlWN0pzSGZPRV9aN3FXaFllVTk0ZlZSNA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVhydEVDaXdNMVdrdEpjVC1FVEVQczY0NFdXS1ZSWFBNSWJGRG9sZFVDTW1CZGkzNWFuWlhoRzY4Wk8xS3BkYzlRR0pRQkYtSmxKeEgwRy1DM09fMUdfcTMteHJfVmpXMzV4VWRkbEd6bTZGYlFyVnhBRVdNZ0JJeHhQVEdCVEo1X3N0dnRkUFk4MWNYZnNCYXhHMzVqdHo3X0hPMVFMeFRNY1lmQTkxcEFyTTc3cWpTWU96Z2s4b1BHMWRMaFJqV2ZWdHhvZnM1ZDF5Y29n?oc=5" target="_blank">Hundreds protest against planned US Ebola quarantine facility in Kenya</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPYy1OQkNzUzkwcEV1Ml84R3BYT2RlRVFNdDQ1emI3SE1GTTlsYnB2VnR3VlIwcjc1clp3SFc5VVJ3U0VndFZVRU1FYlNXTmxGX1BqTDNGVXotY3BRanJ5a0FSSEtzRFdKN0dqNHljYXFVaGFnaXR3dlhNVTRiUUN2NHBpNnVNSkZhbnZiczAwY04xdXFFUU9Eb2I5VGcyb2tVLTdWMnp0WmlWN0pzSGZPRV9aN3FXaFllVTk0ZlZSNA?oc=5" target="_blank">Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran is stopping message exchanges with U.S., may block Hormuz, Tasnim news agency says - Reuters
+## Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzh2UjRndW1la3dGZ2wzZmZzRURsQkdUNDdkb3lfQ0MxaTVnTXI5NlpaODZncEt3bkRrWS12WHU2RHZMV1NUbnE3bkdJTWJOcmd5TXZ2eDdpcm4yWjN1SEY5QkFmY09vZzNzMVFPUWRBemFJTzVDRzZFRGVLajEwZWkxOEZNNzdqTEJ2TkRndk03a21GdGRXTk9Ha0duOXFObHktSnk2RHdVd1VCbFlocl9iaXJDNjZpNWc1YnoyT2pfSU9INTE2eGNfcFk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzh2UjRndW1la3dGZ2wzZmZzRURsQkdUNDdkb3lfQ0MxaTVnTXI5NlpaODZncEt3bkRrWS12WHU2RHZMV1NUbnE3bkdJTWJOcmd5TXZ2eDdpcm4yWjN1SEY5QkFmY09vZzNzMVFPUWRBemFJTzVDRzZFRGVLajEwZWkxOEZNNzdqTEJ2TkRndk03a21GdGRXTk9Ha0duOXFObHktSnk2RHdVd1VCbFlocl9iaXJDNjZpNWc1YnoyT2pfSU9INTE2eGNfcFk?oc=5" target="_blank">Iran is stopping message exchanges with U.S., may block Hormuz, Tasnim news agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5" target="_blank">Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Serena to make much-awaited return at Queen's Club Championships - Reuters
+## DriveNets secures $410 million in latest funding round, AMD joins as investor - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkZMcmxsT1g0OWZGd25tT1had0UxQm9MNjdQTmJ3TGdFYXdZam0yZlFfOGhGaWhhMjZ5Vk9LOG4yb1hsQzZPME5IVDM0RUNIWEFzVjl1blEwaV9EZ0l5VV9fTERNd2lCQzRSZmxucnBZdEE2U3hudldpNjFOcXRZdkEtYmxTcnVBREVWNEk5eHZDOElXZzZtQzl1bngyNzlaUHBMSEJhUHhfN0pR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHVfckpvRXRWYmFQamZha3pIT2Q3TDVUbER4VUtWUWZLbFp3VHFrdWJkdVhwU2lFQjdURDNkNXF5bmpPTGkzZEN4WTRoeGVjd0U0NlRhZlVrS25tQTlkVGJhUmNrN3NwNWRRQ1VPYmQ3Ukt2QWVBRHA0a3UtNzJuT1JPS3VLY0x4aWJrN0ljbHdDTHlKU2xrSUFNNUdveEhSLUxZcWhWYS1FQTRWYnhBS05MOFVMcGlUa2RlWnNPN0ZTSTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkZMcmxsT1g0OWZGd25tT1had0UxQm9MNjdQTmJ3TGdFYXdZam0yZlFfOGhGaWhhMjZ5Vk9LOG4yb1hsQzZPME5IVDM0RUNIWEFzVjl1blEwaV9EZ0l5VV9fTERNd2lCQzRSZmxucnBZdEE2U3hudldpNjFOcXRZdkEtYmxTcnVBREVWNEk5eHZDOElXZzZtQzl1bngyNzlaUHBMSEJhUHhfN0pR?oc=5" target="_blank">Serena to make much-awaited return at Queen's Club Championships</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHVfckpvRXRWYmFQamZha3pIT2Q3TDVUbER4VUtWUWZLbFp3VHFrdWJkdVhwU2lFQjdURDNkNXF5bmpPTGkzZEN4WTRoeGVjd0U0NlRhZlVrS25tQTlkVGJhUmNrN3NwNWRRQ1VPYmQ3Ukt2QWVBRHA0a3UtNzJuT1JPS3VLY0x4aWJrN0ljbHdDTHlKU2xrSUFNNUdveEhSLUxZcWhWYS1FQTRWYnhBS05MOFVMcGlUa2RlWnNPN0ZTSTg?oc=5" target="_blank">DriveNets secures $410 million in latest funding round, AMD joins as investor</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
