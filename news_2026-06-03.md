@@ -1,60 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-06-03 04:49:49
+更新时间：2026-06-03 17:01:31
 
-## Pompeo, Markets React to US Tariffs Over Alleged Forced Labor
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-03/pompeo-markets-react-to-us-tariffs-over-forced-labor-video
-
-正文长度：0
-
-摘要：The US is proposing tariffs of at least 10% on imports from most major trading partners after an investigation into alleged forced labor. Mike Pompeo, former US state secretary, offers his view as investors also parse the latest development. (Source: Bloomberg)
-
-
----
-
-## Australian Pension Seeks Apartments as Build-to-Rent Costs Rise
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-03/australian-pension-seeks-apartments-as-build-to-rent-costs-rise
-
-正文长度：0
-
-摘要：One of Australia’s largest pension funds is snapping up completed apartment blocks rather than backing new developments, betting that high construction costs and interest rates make build-to-rent projects too risky.
-
-
----
-
-## Strait Talk About Geography, Destiny and Tech Stocks
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/opinion/newsletters/2026-06-03/strait-talk-about-geography-destiny-and-tech-stocks
-
-正文长度：0
-
-摘要：<p>The chips rally highlights how free&nbsp;the IT sector is from&nbsp;constraints like oil and&nbsp;Hormuz.</p>
-
-
----
-
-## Chinese Investors Exit Hong Kong Stocks as AI Woos Money Onshore
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-03/chinese-investors-exit-hong-kong-stocks-as-ai-woos-money-onshore
-
-正文长度：0
-
-摘要：Chinese investors are exiting Hong Kong‑listed stocks in record numbers, highlighting waning appetite as mainland AI shares broaden their appeal.
-
-
----
-
-## Stocks Extend Record Rally on AI, Yen Nears 160: Markets Wrap
+## Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap
 
 来源：彭博社
 
@@ -62,305 +10,379 @@
 
 正文长度：0
 
-摘要：Global equities advanced to new highs as demand for artificial-intelligence stocks intensified, cementing the sector’s role as the market’s main driver. The yen hovered near 160 per dollar.
+摘要：A renewed advance in oil sent stocks lower as bond yields rose on concern that an escalation of hostilities between the US and Iran will hinder prospects for a peace deal, with elevated energy costs fueling inflation risks.
 
 
 ---
 
-## Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions
+## Bill Ackman’s Pershing Square Set to Exit Universal Music Stake
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-03/bill-ackman-s-pershing-square-set-to-exit-universal-music-stake
+
+正文长度：0
+
+摘要：Bill Ackman is looking to sell his stake in Universal Music Group NV just days after the Amsterdam-listed group rejected a takeover bid by the hedge fund billionaire.
+
+
+---
+
+## Applied Aerospace Shares Rise 3.75% After $650 Million US IPO
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-03/applied-aerospace-shares-rise-3-75-after-650-million-us-ipo
+
+正文长度：0
+
+摘要：Shares of Applied Aerospace &amp; Defense Inc. rose about 3.75% in its trading debut, after the space and defense engineering firm raised $650 million in an initial public offering priced near the top of a marketed range.
+
+
+---
+
+## Do Investors Have FOMO In These Markets?
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-03/do-investors-have-fomo-in-these-markets-video
+
+正文长度：0
+
+摘要：Steve Sosnick, chief strategist at Interactive Brokers, and Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research, discuss the fear of missing out in markets. They speak in New York on June 2 at a Bloomberg subscribers only event for the launch of Bloomberg Money. (Source: Bloomberg)
+
+
+---
+
+## This Is the Moment for Stock Picking, Berry Says
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-03/this-is-the-moment-for-stock-picking-berry-says-video
+
+正文长度：0
+
+摘要：Ann Berry, founder of Threadneedle Ventures, says she's not looking for value in energy anymore. She speaks in New York on June 2 at a Bloomberg subscribers only event for the launch of Bloomberg Money. (Source: Bloomberg)
+
+
+---
+
+## Sellers are pulling homes off the market at the fastest pace since 2020
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html
+链接：https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html
 
-正文长度：2186
+正文长度：2663
 
-摘要：Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.
+摘要：Frustrated sellers are pulling their homes off the market at an increasingly high pace, as demand weakens and bidding wars wane.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Goldman Sachs CEO David Solomon said Tuesday that investors have shifted decisively into "greed" mode as markets are poised to test an unprecedented fundraising wave for giant artificial intelligence firms.
-Asked by CNBC's Leslie Picker whether markets could support a string of massive equity offerings from the upcoming initial public offerings of OpenAI, Anthropic and SpaceX, Solomon said that there is ample capital available for the deals.
-"There's plenty of liquidity in the system if the world continues to remain as optimistic," Solomon said. "We are definitely in a moment where there's more greed than there is fear."
-Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years. The two leading providers of AI models, as well as SpaceX, which includes Elon Musk's AI company, could go public at trillion dollar-valuations just as other firms are seeking vast sums to fund data centers, chips and infrastructure, raising questions about whether markets can absorb the supply.
-Solomon, whose bank is playing a key role in several of the deals, downplayed those concerns. Alphabet's recent stock performance after announcing plans for an $80 billion equity raise was proof that markets are still receptive to AI, he said.
-"The stock is trading very well," Solomon said. "This is the first actual concrete data point for bringing something of this scale, and it's encouraging."
-Robust equity and debt markets are prompting companies to raise money while markets are allowing it, he said.
-"When capital's available, if you're capital consumptive and it's available, take the capital," Solomon said.
-Solomon acknowledged that the fundraising wave is unprecedented in size, but argued that record levels of wealth and liquidity across markets support the activity. He also said gains generated by AI companies could create a self-reinforcing cycle as employees and investors recycle profits into taxes and new ventures.
-Greed can "turn into fear very quickly, but that doesn't mean it will," Solomon said. "Exuberance can go on for big periods of time. ... There's a good chance that we're earlier in the cycle than later."
+> More frustrated home sellers were giving up, right in the midst of the all-important spring market, according to new data.
+Nationwide, 5.8% of all home listings were pulled off the market in April, according to Redfin, a real estate brokerage. That ties with December for the highest share of homes delisted since March 2020, when the pandemic hit and the housing market froze. Delistings in April were up 3.8% compared with March.
+The increase comes as higher mortgage rates, elevated gas prices and weaker consumer confidence take their toll on housing demand. Sellers are no longer in the driver's seat and aren't getting the prices they want.
+Atlanta saw the highest share of homes come off the market in April, with 1 in 10 delisted. San Jose, California, followed with roughly 9% pulled, then Los Angeles (7.8%), Dallas (7.8%) and Seattle (7.7%).
+Mortgage rates had been falling at the start of this year, with the 30-year fixed briefly touching the 5% range at the end of February, according to Mortgage News Daily. They then jumped sharply when the war with Iran started and have remained elevated since then.
+"Buyers know they have negotiating power, often offering under the asking price and completing inspections, but some sellers just won't budge," said Patricia Ammann, a Redfin agent, in a release.
+Home prices have been easing, but are still higher than they were a year ago and have even begun to strengthen more recently.
+"Markets that depend more heavily on traditional mortgage financing and rate-sensitive buyers are seeing prices stay relatively flat," said Selma Hepp, chief economist at Cotality, in a release. "Overall, fewer markets posted year-over-year price declines in April than in prior months, pointing to continued stabilization across the housing market."
+Signed contracts on existing homes, so-called pending sales, did rise very slightly in April, up 1.4% from March, according to the National Association of Realtors. That is likely due to higher inventory, which was up nearly 6% from March.
+Listings in some parts of the country are starting to pile up, as new ones come on the market and other ones sit. Homes are sitting on the market longer, causing some buyers to simply give up as the all-important spring season draws to a close.
+Some homeowners who pulled their homes off the market over the past year relisted them in April, according to Redfin, hoping to take advantage of the spring market, despite higher mortgage rates. The report found 2.5% of the homes on the market in April were relistings, tied with the prior two months for the highest share since mid-2020 when there was a sudden surge in housing demand.
 
 </details>
 
 
 ---
 
-## Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook
+## Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/02/ulta-beauty-ulta-q1-earnings-2026.html
+链接：https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html
 
-正文长度：1941
+正文长度：3527
 
-摘要：Ulta Beauty beat on the top and bottom lines for its fiscal first quarter on Tuesday as CEO Kecia Steelman praised the company's strategy.
+摘要：Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Ulta Beauty on Tuesday reported quarterly results that beat on the top and bottom lines and hiked its earnings outlook as the retailer saw a strong start to its fiscal year.
-Shares of the company rose as much as 7% in extended trading.
-Here's how the company performed in its fiscal first quarter compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
-- Earnings per share: $7.74 vs. $6.86 expected
-- Revenue: $3.16 billion vs. $3.10 billion expected
-For the three-month period ended May 2, Ulta saw net sales increase roughly 11% compared to the year-ago period. It reported comparable sales rose 5.3%, compared to StreetAccount estimates of up 4.6%.
-Ulta reaffirmed its full-year same-store sales and revenue projections, but raised its full-year EPS guidance to between $28.36 and $28.80. Its previous outlook was earnings per share between $28.05 and $28.55.
-"Fiscal 2026 is off to a strong start driven by broad-based growth across all channels and major categories," CEO Kecia Steelman said in a statement. "Our results demonstrate the strengths of our model, focused execution of our talented associates and the effectiveness of our strategy in an uncertain macroeconomic landscape."
-On a call with analysts on Tuesday, Steelman said the launch of Ulta's TikTok Shop, with a focus on Ulta-specific products, during the quarter contributed to its success. The company also launched more than 20 new brands during the quarter, including Selena Gomez's popular makeup brand, Rare Beauty.
-The company said its strongest category for the quarter was fragrances, increasing from 11% to 12% of total revenue.
-The earnings come as consumer confidence takes a dip amid soaring gas prices and rising inflation, leading to a pullback in discretionary spending.
-"We are operating from a position of strength in this environment and have multiple levers to satisfy guests' value needs," Steelman said on the call.
+> Morgan Stanley will soon open a key wealth management funnel to artificial intelligence agents from thousands of corporations, CNBC has learned exclusively. It's one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.
+The move will allow clients' autonomous agents to pull data and insights directly from the firm's stock administration platforms, ShareWorks and Equity Edge, bypassing the traditional software interfaces built for human users, according to Mark Mitchell, chief product officer of Morgan Stanley at Work.
+In April, Morgan Stanley executives attributed $1.2 trillion in assets gathered to its workplace strategy.
+"The way we see it, in a future state, our corporate clients will not be logging into ShareWorks or Equity Edge," Mitchell said.
+Instead, they'll be "using agentic AI-powered tools on their desktops within the four walls of their companies, interacting with our platforms in a purely agentic way," he said.
+The bank has already granted a handful of clients early agentic access and plans to open it up to the firm's 3,400 administration clients by next year, Mitchell said.
+It's the latest sign that Wall Street is preparing for a future where AI agents handle tasks now performed by software users.
+Rivals including JPMorgan Chase and Goldman Sachs are using AI agents internally for things like writing code, but have yet to publicly announce steps to allow external agents to connect directly to their firms' systems.
+Morgan Stanley wealth management
+Morgan Stanley has taken the staid business of managing stock compensation plans for corporations and turned it into a crucial funnel for the firm's wealth management division, which is the world's largest at $7.35 trillion in client assets.
+The firm acquired Solium Capital in 2019 and E-Trade in 2020, creating a business that it says caters to almost half of the companies in the S&P 500 and eight of the 10 biggest unicorn startups. The key insight it had was that by administering employee stock plans, Morgan Stanley can convert workers into advisory clients as their wealth grows.
+The bank's AI pitch to corporate clients is straightforward: Fast-growing technology and biotech companies want to administer increasingly complex stock plans without adding head count in support roles like human resources, said Mitchell.
+At these companies, AI agents can handle aspects of the job without adding human employees, he said.
+Internally, there's a similar logic: Morgan Stanley sees agentic AI allowing it to scale its own services — customer support, plan administration, the wealth management funnel — without adding "thousands and thousands" of employees, Mitchell said.
+For this change, Morgan Stanley is leaning on something called the Model Context Protocol, an open-source standard that allows AI models to plug into data sources.
+In a pre-AI world, companies would've frowned upon allowing clients to bypass the online front door to their services. For decades, companies fought to hook users on proprietary platforms.
+Morgan Stanley, which began partnering with OpenAI in 2022, believes that matters less in a world where AI agents become the primary interface. Software is "at an inflection point, clearly," Mitchell said.
+"The companies that are going to survive in the future are the ones who have proprietary data and business logic, which is the foundation of our offering," Mitchell said.
+"The fact that they won't be logging into" the websites, he said, "doesn't scare us at all."
 
 </details>
 
 
 ---
 
-## Victoria's Secret shares spike 40% after big earnings beat, raised sales outlook
+## Eli Lilly's top dealmaker says don't be surprised to see more M&A that pushes Lilly into new areas
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/02/victorias-secret-vsxy-earnings-q1-2026.html
+链接：https://www.cnbc.com/2026/06/03/eli-lilly-to-use-glp-1-windfall-to-fund-ma-and-diversify-pipeline.html
 
-正文长度：5541
+正文长度：4157
 
-摘要：Victoria's Secret has been in the midst of a turnaround under CEO Hillary Super, who said the company is winning over young shoppers across all incomes.
+摘要：Eli Lilly's new top dealmaker explains how the company changed its approach to M&amp;A now that it's the most valuable pharmaceutical company in the world.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Shoppers may be feeling gloomy about high prices at the pump, but they're still shelling out for new bras and underwear at Victoria's Secret.
-The lingerie retailer raised its full-year guidance on Tuesday after blowing past earnings estimates in its fiscal first quarter, citing lower tariff costs and more customers willing to spend full price on its products. Shares of Victoria's Secret closed 47% higher.
-There was "very consistent, double-digit [sales] increases across Victoria's Secret, Pink, beauty channels, digital, stores and international, all very positive," CEO Hillary Super told CNBC in an interview. "Supercharging bras being one of our most important initiatives, double-digit [comparable sales growth] there, and I think the loyalty that bras creates and the anchor that it is in the business is just so important."
-Super added the company grew sales with "significantly" fewer promotions and gained market share during the quarter, particularly with shoppers ages 18 to 24.
-During the first quarter, some retailers saw strong growth that they attributed partially to higher tax refunds. While Victoria's Secret finance chief Scott Sekella said some customers used that extra stimulus to go shopping at its stores, it was a "normal amount," and trends have remained consistent so far this quarter, even with tax refunds having dried up for many people.
-Victoria's Secret is now expecting full-year sales to be between $7.03 billion and $7.13 billion, up from a previous range of between $6.85 billion to $6.95 billion and well ahead of estimates of $6.99 billion, according to LSEG.
-The company also raised its full-year guidance for adjusted opening income by more than $100 million. It's now expecting adjusted operating income to be between $550 million and $580 million, up from a previous range of between $430 million to $460 million.
-Sekella said the company hiked its outlook because better-than-expected sales led to stronger leverage on fixed costs, and it also factored in lower tariff rates now that many of President Donald Trump's sweeping duties have been ruled illegal.
-"All of this is predicated on the Q1 that we had, the momentum we see into Q2 and how we feel about our back half launches," said Sekella.
-The company also issued rosy guidance for the current quarter, even as some peers released conservative outlooks as they monitor whether consumers pull back on spending without the boost from tax refunds. It said it's expecting sales to be between $1.59 billion and $1.62 billion, beating expectations of $1.56 billion, according to LSEG.
-Here's how Victoria's Secret performed during the fiscal first quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
-- Earnings per share: 60 cents adjusted vs. 30 cents expected
-- Revenue: $1.56 billion vs. $1.52 billion expected
-The company's reported net income for the three-month period that ended May 2 was $47.7 million, or 56 cents per share, compared with a loss of $1.66 million, or 2 cents per share, a year earlier. Excluding one-time restructuring costs, Victoria's Secret saw earnings per share of 60 cents.
-Sales rose to $1.56 billion, up about 15% from $1.35 billion a year earlier. Comparable sales, including stores and e-commerce revenue, grew 13%, beating expectations of 11.4%, according to StreetAccount.
-Victoria's Secrets' results represent a new milestone for the company. While Super has been with the retailer for almost two years, she said the executive team she put in place is reaching their one-year anniversary and the results of the turnaround they've been working on are coming to life.
-"Once you hit that year you start compounding your contributions, because you see the patterns, you see where things are going, and you're able to really, I think, have a multiplier effect in the work you do," said Super. "We are early innings. I think we very much know where we're going, and if anything, as we build these strategies out, and as we continue to grow these businesses, we see new opportunities, and so it's a matter of staging those and making sure that we are getting all the juice for the squeeze of the things that we are doing."
-During the quarter, Super said the company saw sales increases across all income cohorts but crucially, the most growth came from those making under $50,000 annually and those making more than $200,000 annually – showing that its products are what's winning, not price or discounts.
-Since Super took over, she's worked to reconnect Victoria's Secret with its core identity — a sexy lingerie brand that isn't sexy at the expense of comfort but offers products that are more emotional than utilitarian. She's worked to grow its beauty business, reignite the Pink brand and build back its bra line, which serves as an anchor for the overall company.
-Over the last few years, Victoria's Secret has faced a range of savvy, upstart competitors, shifting views over beauty standards and criticisms over perpetuating unrealistic stereotypes, particularly through its models.
-Super has worked to unwind some of those issues, while also building a business that can win over a new generation of shoppers.
-One thing that's helped the company is its large store footprint in malls, which is something it had been criticized for in the past.
-"We are very, very good at that in real-life experience, and our stores have proven to be a competitive advantage," said Super. "They are a place where she wants to be and wants to have an experience that's for her."
+> Jacob Van Naarden is busy.
+In addition to running Eli Lilly's oncology business, he's now responsible for finding the drugmaker's next opportunities as head of business development. And Lilly, now the world's largest pharmaceutical company, is hungrier than ever for deals.
+"The company's financial strength right now, driven mostly by the weight loss business, is so strong," Van Naarden said in an interview at the American Society of Clinical Oncology's annual meeting. "We have this really like almost generational opportunity to redeploy that capital in all of our disease areas to not only fuel growth for the company in the decades to come, but to help a lot more patients with all different kinds of diseases, and so we're executing against that strategy."
+Not even halfway into the year, Lilly has already announced it will spend more than $10 billion upfront and potentially up to $25 billion on eight acquisitions. For all of last year, Lilly spent about $4 billion on roughly 40 deals.
+Lilly's dealmaking spree continued Wednesday with an up to $1.9 billion partnership with RNA-editing company Ascidian Therapeutics to develop medicines for kidney diseases.
+The spending reflects an intentional shift in how Lilly approaches dealmaking now that the company is larger and more highly valued than ever before. The company's market capitalization now stands at about $1 trillion, up from $190 billion in 2021, according to data from LSEG. Lilly is the first health-care company to join the trillion-dollar club, which is dominated by tech firms.
+Previously, the drugmaker primarily liked to place bets on early-stage assets that were inexpensive because they were riskier. Now, it's using the windfall from its GLP-1 drugs like Mounjaro and Zepbound to pursue experimental drugs that are more likely to work – and carry larger price tags because of it.
+"These things are medicines," Van Naarden said in a separate interview at his Stamford, Connecticut office. "How big will they be? What's the development plan? When will they get approved? Like, I don't yet know all that. Obviously we have projections, but you can see enough to say OK, this is real, and we can underwrite paying a bigger price than we pay for some real preclinical thing. So that's been a big part of where we've been focused in addition to running the high-volume, early-stage strategy."
+Van Naarden said his boss, Lilly CEO Dave Ricks, approached him last fall about leading business development in addition to his main job as head of Lilly's oncology business. The company wanted to sharpen its dealmaking skills and start widening its aperture beyond the early bets where Lilly liked to focus.
+He started to execute the strategy early this year.
+Lilly's planned acquisition of Centessa Pharmaceuticals, announced in March, could reach up to $7.8 billion if the company meets certain milestones for its experimental drugs for sleep disorders like narcolepsy. That would make it Lilly's second-ever largest deal behind the company's $8 billion acquisition of Loxo Oncology in 2019. Van Naarden was the chief operating officer at Loxo at the time.
+While large for Lilly, deals of roughly $8 billion are still small compared to agreements from other large pharmaceutical companies. It raises the question of how big Lilly could go.
+Van Naarden doesn't want to set arbitrary size spending limits. He says it's about how compelling the science is and how big the opportunity is for patients and for Lilly.
+Some of the deals announced this year fall under Lilly's current specialties of oncology, neuroscience, cardiometabolic health and immunology. Others, like Lilly's recently announced acquisitions of three vaccine companies, will take the company into new areas.
+"We're looking at all kinds of things that don't neatly fit into one of those four buckets, so don't be surprised if we have more to come for things that you know don't perhaps neatly fit within what we've done historically," Van Naarden said this week at ASCO. "If you see it, it means we're excited, and we think we can make a big impact."
+Is there anything that's off the table?
+"No," he said, "not really."
 
 </details>
 
 
 ---
 
-## Audemars Piguet's watch prices remain stable after controversial Swatch collab
+## Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/02/audemars-piguet-watch-prices-swatch-collab.html
+链接：https://www.cnbc.com/2026/06/03/macys-m-earnings-q1-2026.html
 
-正文长度：3008
+正文长度：3989
 
-摘要：The Royal Pop collection of brightly colored watches on lanyards is part of AP's longer-term strategy of attracting the next generation of collectors.
+摘要：Macy's has been in the midst of a turnaround under CEO Tony Spring, who has worked to close underperforming stores and reinvest in ones worth keeping open.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> When the famed luxury watch brand Audemars Piguet announced a collaboration with Swatch last month, some Audemars collectors feared the worst.
-Rapper DDG said he would sell his $180,000 Audemars Piguet if the collaboration grew too big and cheapened the brand. Members of the self-appointed horology community warned that one of the "Holy Trinity" of watch brands, famed for innovative complications, or features, and designs, had gone plastic.
-Yet a few weeks after the launch of the AP-Swatch Royal Pop collection, AP prices have held steady on the secondary market. Despite predictions of a collapse in Audemars Piguet's brand value and exclusivity, experts say AP is still AP.
-"There has been no discernible impact on AP prices from the launch," said Hamza Masood, head of partnerships at WatchCharts, which tracks secondary values for all major AP models.
-It's early, of course, but Masood said Royal Pop, the collection of brightly colored watches on lanyards, is part of AP's longer-term strategy of attracting the next generation of collectors.
-AP's signature Royal Oak watches typically retail for more than $50,000 and have a multiyear waiting list. Royal Pop makes the brand accessible to younger buyers and more women.
-"Fundamentally, everybody recognizes that this does not really eat into AP equity in any real, meaningful way," Masood said. "The product is not diluting the Royal Oak collector experience, because it's not even designed to be a wristwatch."
-Still, AP faces some market challenges.
-Secondhand watch sales
-After a speculative bubble in luxury watches during the pandemic, the luxury watch market plunged in 2022 and is only now starting to stabilize.
-WatchCharts' AP Index — comprising the top 30 models from the brand — is down about 40% from its peak in 2022. Rolex and Patek Philippe, the other two of the "Big Three" luxury watchmakers, are also down from their peaks.
-In the first quarter, AP's secondary prices were up 2%, compared with an increase of 1.7% for Rolex and 3% for Patek, according to WatchCharts. AP's inventory is aging more than that of its peers, suggesting a larger mismatch between demand and supply.
-"AP has [so far] not seen the same level of market recovery as the other two members of the Big Three," Masood said.
-Still, he said the Royal Pop gave AP something even money can rarely buy: cultural buzz on social media and digital news. The burst of attention will spark interest among teens and 20-somethings, who one day will be able to afford a Royal Oak.
-For a company that makes only about 50,000 watches a year — compared to more than a million a year for Rolex — and is still family owned, AP's investments are measured in decades rather than quarters or even years.
-"The bet that they're making is all this collector teeth-gnashing may represent a loss of horological credibility, but in exchange, they're purchasing cultural credibility in front of a wider audience," Masood said. "I think they're purchasing more [cachet] in the long term."
+> Macy's posted its strongest fiscal first-quarter comparable sales performance in four years on Wednesday, as the legacy department store's turnaround continues to show progress.
+Led by the 200 so-called reimagined stores Macy's has upgraded, comparable sales grew 3% overall during the quarter and 1.6% at its namesake banner.
+At Bloomingdale's, comparable sales grew 10.2%, helped by an array of buzzy brands, a "fun factor" unique in the luxury landscape and the recent bankruptcy of rival Saks Fifth Avenue, CEO Tony Spring told CNBC in an interview.
+"Is the disruption in the marketplace helpful to us? Sure," he said. "Is it the primary reason we're growing? No."
+Spring said better-than-expected sales and profitability led the company to raise its full fiscal-year guidance after previously taking a cautious outlook.
+It's now expecting 2026 net sales to be between $21.5 billion and $21.75 billion, largely ahead of expectations of $21.59 billion, according to LSEG. It anticipates adjusted earnings per share will be between $2 and $2.20, up from a previous range of between $1.90 and $2.10 and well ahead of expectations of $2.07 at the middle and high end, according to LSEG.
+It now expects comparable sales to climb between 0.5% and 1.2% for the year, versus a previous outlook of a 0.5% drop to a 0.5% increase.
+Macy's shares were up more than 2% in premarket trading Wednesday.
+Many retailers have reported strong growth during their fiscal first quarters in recent weeks due in part to higher-than-usual tax refunds. Some companies issued more cautious guidance for the current quarter over concerns less stimulus in the economy could lead to slower demand, especially as shoppers pay more for gas due to the war in the Middle East.
+Spring said tax refunds "definitely" helped during the first quarter, but weren't the only reason why Macy's grew. Crucially, the same trends the company saw during the first quarter have so far continued into the second, he said.
+"We did raise our guidance in both sales and profit for the remainder of the year to reflect the business trends that we're seeing as we start the second quarter, so pleased with the second quarter to date and the breadth of the categories that are performing," said Spring. "Don't see any significant change in the consumer approach to our categories and our business across all three of our name plates."
+He said the steady consumer behavior led Macy's to hike its outlook "despite the macroeconomic and geopolitical uncertainty."
+Here's how the department store did in its fiscal first quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
+- Earnings per share: 13 cents adjusted vs. 3 cents expected
+- Revenue: $4.68 billion vs. $4.61 billion expected
+The company's reported net income for the three-month period that ended May 2 was $63 million, or 23 cents per share, compared with $38 million, or 13 cents per share, a year earlier. Adjusting for restructuring costs and other one-time charges, Macy's posted earnings per share of 13 cents.
+Sales rose to $4.68 billion, up about 2% from $4.60 billion a year earlier.
+Macy's is about two years into a three-year turnaround that Spring has spearheaded since taking over as the retailer's chief executive. It's included closing underperforming stores at dead malls across the country and reinvesting in the ones it decided to keep open.
+Those investments have included a focus on retail fundamentals, like ensuring stores have enough staff, are enjoyable to spend time in and are stocked with items people actually want to buy.
+"We're not doing the fancy stuff, we're doing the stuff that makes the biggest difference in the business," said Spring. "We are really focused on product, we are really focused on taking care of the customer, and I think the results show that when we do those two things consistently, and we don't get bored, we stay relentless in our commitment, we get the results we're looking for."
 
 </details>
 
 
 ---
 
-## McDonald's unveils new global growth strategy to win over diners as competition rises
+## CBS fires veteran correspondent Scott Pelley amid turmoil over direction of '60 Minutes'
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/01/mcdonalds-mcd-unveils-growth-strategy.html
+链接：https://www.cnbc.com/2026/06/03/cbs-fires-scott-pelley-amid-turmoil-over-direction-of-60-minutes.html
 
-正文长度：3049
+正文长度：6169
 
-摘要：McDonald's new growth plan comes as inflation and high gas prices mean restaurants are competing for a smaller pool of customers.
+摘要：CBS News has fired high-profile "60 Minutes" correspondent Scott Pelley amid debate about the direction of the show, a mainstay of the network.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> McDonald's on Monday unveiled its latest global growth strategy to help the fast-food giant become customers' first choice as it faces new rivals and consumer spending stretched by high gas prices.
-A new restaurant design, better-tasting food and drinks, consumer-led innovation and improved customer service are the four cornerstones of the new plan, which the company calls "McDonald's > NEXT."
-Executives made the announcement at McDonald's biennial Worldwide Convention for franchisees, held this year in Las Vegas. The chain released its last global strategy, known as "Accelerating the Arches," in November 2020 as its sales bounced back from the pandemic.
-The growth plan comes as restaurants compete for a smaller pool of customers, and a new crop of chains, including Raising Cane's and 7 Brew Drive Thru Coffee, threaten McDonald's sales. So far, McDonald's, the largest U.S. restaurant chain by revenue, has managed to hold onto its dominant spot, with four straight quarters of same-store sales growth.
-"Traditional competitors are upgrading their menus, and a new wave of specialists are emerging and redefining taste and quality across chicken, beef, and beverages," McDonald's CEO Chris Kempczinski wrote in a memo to the chain's global system.
-"In a world where every restaurant is a swipe away, there is no such thing as second place," he added.
-To become diners' first option, McDonald's plans to focus on menu innovation that elevates taste and quality, like improvements to its McCrispy chicken line. For years, the chain has sought to improve and expand its chicken offerings as rivals like Chick-fil-A stole its customers. Plus, Americans have been eating more chicken than beef for the past 16 years, due to health concerns tied to the consumption of red meat and higher beef prices, according to U.S. Department of Agriculture data.
-"We're raising the bar for our menu by improving quality and consistency at scale and innovating in spaces where we see growth potential and know matter to our customers, like chicken, beef and beverages," said Jill McDonald, the chain's global chief restaurant experience officer.
-The chain also wants to "co-create" with customers by listening more closely to what consumers want and how they interact with brands. Recent examples include the popularity of its viral Grimace milkshake and its collaboration with "A Minecraft Movie."
-The new restaurant design will give McDonald's a recognizable look, but it should also ease employee headaches and improve kitchen operations. The company said back-end systems will be more intuitive and connected, for example.
-McDonald's is also testing automated order taking at five U.S. restaurants using a system it named ARCHY to let employees focus on other tasks. More broadly, the chain also said it wants to "redefine hospitality" by improving customer service and training employees to interact more with diners.
-In September, the company will hold an investor day that will include more details about the strategy and relevant financial targets.
+> CBS News has fired high-profile "60 Minutes" correspondent Scott Pelley amid debate about the direction of the show, which has been a mainstay of the network's television lineup for decades.
+"Your employment with CBS News is terminated for cause effective immediately," Nick Bilton, the new executive producer of "60 Minutes," wrote to Pelley in a letter seen by CNBC. It was not immediately clear when the letter was sent.
+Pelley had previously said that Bari Weiss, the editor-in-chief of CBS News, was "murdering" "60 Minutes," according to NBC News.
+In a statement obtained by MS Now, Pelley said the network is attempting to "curry a moment of favor with the Trump administration."
+"The waste is heartbreaking," Pelley wrote.
+Skydance and Paramount merged last year, putting new leadership in charge of CBS and other Paramount properties including the storied film studio and more nascent streaming business. Paramount Skydance Chief Executive Officer David Ellison is now trying to merge Paramount with Warner Bros. Discovery, and he needs the Trump administration's regulatory approval to complete the deal.
+In 2024, then-presidential candidate Donald Trump sued "60 Minutes," alleging the program deceptively edited an interview with his opponent, Kamala Harris. Paramount settled the lawsuit for $16 million, which irked some veteran "60 Minutes" employees, including Pelley. Another notable anchor, Anderson Cooper, announced he was leaving the show earlier this month.
+"For my part, new management has instructed me to inject falsehoods and bias into a politically sensitive story," Pelley said in his statement. "I've been told to include assertions that are unverified. To date, in every case, I have managed to ignore these instructions or refuse them."
+During a meeting on Monday, Pelley told Bilton he has "slender qualifications" for the role of executive producer of newsmagazine "60 Minutes," according to the NBC News report.
+Bilton is a former New York Times technology columnist and has made several documentaries for HBO and Netflix. Bilton replaced Tanya Simon as the show's executive producer. Simon had spent more than two decades at "60 Minutes" before being ousted last week. In contrast, Bilton has no experience running a TV news show.
+"The leadership of '60 Minutes' is no longer recognizable," Pelley said in his statement. "The principles I hold dear are gone, and so I must leave as well."
+During an interview on May 28, Bilton told CNBC that he's committed to demonstrating his hiring isn't a political maneuver.
+"I will prove it with the work," Bilton said. "I'm dedicated to holding people in power to account."
+In a Tuesday editorial call with CBS, Weiss told staffers she is "only interested in working in a newsroom that is built on trust and mutual respect," according to a transcript of the call obtained by CNBC.
+"That foundation was broken on Monday, and despite our attempts to engage with Scott Pelley and to find a way back, unfortunately we weren't able to do so, and so we had to part ways," Weiss said. "We did not want that to happen, but that's the path he chose."
+CBS News President Tom Cibrowski added on the call that the organization "will miss Scott very much."
+In a subsequent statement obtained by MS Now, Pelley disputed Weiss' account of the situation and said "no constructive dialogue was allowed by the CBS executives at any point."
+Read the full statement from Pelley on his firing:
+There has never been anything in America like 60 Minutes.
+The Sunday tradition is the most successful program of any kind in history. For more than a decade, its innovative growth on every major online platform has extended its reach to countless millions around the world. This spring, at the end of our 58th season, 60 Minutes grew rapidly with an unheard-of 9% jump in viewers on CBS.
+"60" has been the number-one program in America for decades because our beloved audience finds integrity, quality, and humanity in our stories. When stewardship of the program passed to my colleagues and me, our responsibility was to expand energetically into a new age of media technology while preserving the values our audience expects. Now, the new owner of our network is casting this legend aside, apparently to curry a moment of favor with the Trump administration.
+The waste is heartbreaking.
+Last month, 60 Minutes lost its DNA when our entire senior leadership and two of our best on-air correspondents were cruelly fired without cause. Good people were silenced because they stood up for our audience. They stood for fairness against the forces of political bias; they stood for professionalism against chaos.
+For my part, new management has instructed me to inject falsehoods and bias into a politically sensitive story. I've been told to include assertions that are unverified. To date, in every case, I have managed to ignore these instructions or refuse them. Recently, politicians have been invited to choose correspondents for interviews on the broadcast. Giving politicians control over 60 Minutes interviews is not how this is done. Finally, incompetence and unprofessionalism in the new management have wreaked havoc. In a case involving one of my stories, the entire program came within 19 minutes of not getting on the air at all.
+At 60 Minutes, we have fought harder than anyone knows to save the program that became an American icon. We owed that to our millions of viewers. I am deeply moved by the thousands of wishes we have received to "keep up the good fight." Most of the men and women of CBS News are still in that fight. But now the collapse of values at the top has become untenable. The leadership of 60 Minutes is no longer recognizable. The principles I hold dear are gone, and so I must leave as well.
+I depart after 37 years at CBS with one emotion—a heart brimming with gratitude for the men and women of CBS News who encouraged and enriched my work, very often at the risk of their own lives. I pray for a day when those people and their ideals are honored again—a day when sanity, competence, and courage return.
+Scott Pelley
+—CNBC's Alex Sherman and Ryan Ruggiero contributed to this report.
 
 </details>
 
 
 ---
 
-## Goldman’s David Solomon sees ‘more greed than there is fear’ on Wall Street - Financial Times
+## Partners Group limits withdrawals at private equity fund for wealthy individuals - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWxjRFBRVHVsa2paVnVwX19ibnNEQUZMZ2dMOGF5bFNzRWd5TWhEc282NEZvWW1vZ0ZKd2lIZkVPX2d3Y3hMNk9fd04yTEM0R0ZyRno3MWw3ekJwSlJPdzJBVEh3MzktLTA2cFE2OFdoM1I5WmlQTGRtRDJzTjBUMXpVLXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXJFZEVxRi1yX2dvVjgyOWs5cnZfSkUyX0JUREw2YzNxazFnZXlyb3Y4dkd5aUJoN2pDdHNDNHI4Vzg2RTJvdXpTS2l2TFMzSC1USDdqOVFJc1o4ZzN1YnBSZ1hDOEtMejBNYzJ0NldERWdBWnhWd21NWGdRNFJfRlZZVzY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWxjRFBRVHVsa2paVnVwX19ibnNEQUZMZ2dMOGF5bFNzRWd5TWhEc282NEZvWW1vZ0ZKd2lIZkVPX2d3Y3hMNk9fd04yTEM0R0ZyRno3MWw3ekJwSlJPdzJBVEh3MzktLTA2cFE2OFdoM1I5WmlQTGRtRDJzTjBUMXpVLXc?oc=5" target="_blank">Goldman’s David Solomon sees ‘more greed than there is fear’ on Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXJFZEVxRi1yX2dvVjgyOWs5cnZfSkUyX0JUREw2YzNxazFnZXlyb3Y4dkd5aUJoN2pDdHNDNHI4Vzg2RTJvdXpTS2l2TFMzSC1USDdqOVFJc1o4ZzN1YnBSZ1hDOEtMejBNYzJ0NldERWdBWnhWd21NWGdRNFJfRlZZVzY?oc=5" target="_blank">Partners Group limits withdrawals at private equity fund for wealthy individuals</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Adnoc plans new UAE pipeline to bypass Strait of Hormuz - Financial Times
+## A guide for the perplexed on AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcThvVmEweHhlSDFTVnNtOWpCcHN3aXZTRUladzhub1JQOU9QY0p0REE0dG5mdlhnOE5nRnRwOEF3YzlaaHk2aVR2b1pucS1IdnAtLVhtSW92OFF1VHFYZlUzNEZrX1F2czhXbkFROEE5NnVSTWYzTkN6YjIyYmFDY1BvLVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhDTENWNnQtWHZ1cUFYZ0RJTDFoVkpSNjRrR1Y4RTI4TC1oMUExOVBUZWhWbHJKOUd5UlZmVVhJMTc1UDNCT3Q3M2FZVlN6WkZKN0tkT1UwQ1FWVWtvQVI2R0w2bDJVeWZuZ3F1QkdISjVueG1CaG9LVUV2NUJRdTJoRVU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcThvVmEweHhlSDFTVnNtOWpCcHN3aXZTRUladzhub1JQOU9QY0p0REE0dG5mdlhnOE5nRnRwOEF3YzlaaHk2aVR2b1pucS1IdnAtLVhtSW92OFF1VHFYZlUzNEZrX1F2czhXbkFROEE5NnVSTWYzTkN6YjIyYmFDY1BvLVA?oc=5" target="_blank">Adnoc plans new UAE pipeline to bypass Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhDTENWNnQtWHZ1cUFYZ0RJTDFoVkpSNjRrR1Y4RTI4TC1oMUExOVBUZWhWbHJKOUd5UlZmVVhJMTc1UDNCT3Q3M2FZVlN6WkZKN0tkT1UwQ1FWVWtvQVI2R0w2bDJVeWZuZ3F1QkdISjVueG1CaG9LVUV2NUJRdTJoRVU?oc=5" target="_blank">A guide for the perplexed on AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Gold replaces US Treasuries as world’s top reserve asset, ECB says - Financial Times
+## OECD warns of ‘dark scenario’ if Gulf energy crisis drags on - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMThpekdhQXBSUU1iNmMweWtoZDJSLU0zTnJDN05sMi15aDJQZFBlVXMtNllGblFDdTJFd3o5MklEN245a2h6SXI4VFpaSGJVcEZSdy1kLXBZbFYySHBZWG1qbWlRaGNQTkdFWkM3d3VaVTJMNExkSDBtWk9ZMENJSVpLSFg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM2VlZWci1mZ2VvcTlLN1pkSVRyU2hZdjVFb3RqMEItejN4cFlXXzdOTXZkaDZfd2tmRnhlczZMWHEwX2VWZnd0ejVFaXI0UUxucGhqaS1zQlFmN1VQdnh4cEhhZGw3TTBWMDhfdzBsOXlTR1hyVzNnbkN0VXBnY09Ka3Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMThpekdhQXBSUU1iNmMweWtoZDJSLU0zTnJDN05sMi15aDJQZFBlVXMtNllGblFDdTJFd3o5MklEN245a2h6SXI4VFpaSGJVcEZSdy1kLXBZbFYySHBZWG1qbWlRaGNQTkdFWkM3d3VaVTJMNExkSDBtWk9ZMENJSVpLSFg?oc=5" target="_blank">Gold replaces US Treasuries as world’s top reserve asset, ECB says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM2VlZWci1mZ2VvcTlLN1pkSVRyU2hZdjVFb3RqMEItejN4cFlXXzdOTXZkaDZfd2tmRnhlczZMWHEwX2VWZnd0ejVFaXI0UUxucGhqaS1zQlFmN1VQdnh4cEhhZGw3TTBWMDhfdzBsOXlTR1hyVzNnbkN0VXBnY09Ka3Y?oc=5" target="_blank">OECD warns of ‘dark scenario’ if Gulf energy crisis drags on</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Top AI labs expand research into machine ‘consciousness’ - Financial Times
+## Kevin Warsh set to revamp Federal Reserve’s signalling to Wall Street - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lNOWphWDE5VlN3YlJXZVhnSnBVZFhPcVFBN1F5RTB4elJDUUEwZ2otdmtPV09FWGhMQkh4cnZYbjM2Q2NyM3BoRVprVlVsTDRYc1NhVWVGUHFPbklsWjh3UUkyR3NZTGJ5MHVOTzd2YWs5WlRjTWpKUHBfSjdnUDNlQTE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2E5aGtZZmdlekFmN0EwSUh2Z1pORTFiSnVRMGw3VC1tcHNKWnpDN04tTklPUEl4VnlBYVNrZkVaNFVzLUVkT2EwdGtzaTlPOEw3Y0twTTNRdExrYlNqMG1BZXQ1dVE5b1d5MHBRTE85VjBCT0hreFRzZlhqN3lfamJHU28?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lNOWphWDE5VlN3YlJXZVhnSnBVZFhPcVFBN1F5RTB4elJDUUEwZ2otdmtPV09FWGhMQkh4cnZYbjM2Q2NyM3BoRVprVlVsTDRYc1NhVWVGUHFPbklsWjh3UUkyR3NZTGJ5MHVOTzd2YWs5WlRjTWpKUHBfSjdnUDNlQTE?oc=5" target="_blank">Top AI labs expand research into machine ‘consciousness’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2E5aGtZZmdlekFmN0EwSUh2Z1pORTFiSnVRMGw3VC1tcHNKWnpDN04tTklPUEl4VnlBYVNrZkVaNFVzLUVkT2EwdGtzaTlPOEw3Y0twTTNRdExrYlNqMG1BZXQ1dVE5b1d5MHBRTE85VjBCT0hreFRzZlhqN3lfamJHU28?oc=5" target="_blank">Kevin Warsh set to revamp Federal Reserve’s signalling to Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US in talks to expand nuclear weapons deployments in Europe - Financial Times
+## Unilever CEO defends food deal saying staff ‘not paid to be lazy’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFA2WkhLWXg4SDgtRkp0WUwzYjdxQmlIUndNWWtDWXRaUDBlS2hOOC1uWFNla1JJd1p3NlcwTHJxSW5VRGpMU0JtU21jNjZUWWdHWVVRWXdaSjhGSHJGNjVFUEoyTWN6Tmp2QkdtUnNrdFc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjRfX25DdHgwbVNRdFZJS2Rjejg4am5HTHBQM1JObVRPN2VBRklhZ29NZXhFdEV0T1hkSm9HRFdhYUdkc0wzN2k4MEE1UFBWZVAtWXkyMEROT3pFZ2tRcUdfY19rQ3hvVGxqeTVpVzBLLVVmSlJ3OEpVTExOZzJfMEFxcUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFA2WkhLWXg4SDgtRkp0WUwzYjdxQmlIUndNWWtDWXRaUDBlS2hOOC1uWFNla1JJd1p3NlcwTHJxSW5VRGpMU0JtU21jNjZUWWdHWVVRWXdaSjhGSHJGNjVFUEoyTWN6Tmp2QkdtUnNrdFc?oc=5" target="_blank">US in talks to expand nuclear weapons deployments in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjRfX25DdHgwbVNRdFZJS2Rjejg4am5HTHBQM1JObVRPN2VBRklhZ29NZXhFdEV0T1hkSm9HRFdhYUdkc0wzN2k4MEE1UFBWZVAtWXkyMEROT3pFZ2tRcUdfY19rQ3hvVGxqeTVpVzBLLVVmSlJ3OEpVTExOZzJfMEFxcUU?oc=5" target="_blank">Unilever CEO defends food deal saying staff ‘not paid to be lazy’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil jumps on Mideast missiles while AI bulls carry stocks higher - Reuters
+## Meta enters enterprise AI race with new business agent - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0VmR0diTmJnejBXTlNDMTExQU9wWnh0U3ZWOXNOb0VHdTZScnFIR2w4dm8zcFNDdGk1ellycUpCUnh4NG51SVhOQ21RWGZtSlg0MHJtY0ZwU05ZbG5BR1V6b2hxeEJOTzR6VWEwZkwybWt1NC0wUl9qRHRXekM1RnM2VkxNR2M3OEtQQ0VKb3ZkUE95NEthYnR1eVZWczMtbWlMWTRyZ093dV9BamxIal91WXlhQXIyY21uU3ZR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5" target="_blank">Oil jumps on Mideast missiles while AI bulls carry stocks higher</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0VmR0diTmJnejBXTlNDMTExQU9wWnh0U3ZWOXNOb0VHdTZScnFIR2w4dm8zcFNDdGk1ellycUpCUnh4NG51SVhOQ21RWGZtSlg0MHJtY0ZwU05ZbG5BR1V6b2hxeEJOTzR6VWEwZkwybWt1NC0wUl9qRHRXekM1RnM2VkxNR2M3OEtQQ0VKb3ZkUE95NEthYnR1eVZWczMtbWlMWTRyZ093dV9BamxIal91WXlhQXIyY21uU3ZR?oc=5" target="_blank">Meta enters enterprise AI race with new business agent</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## CBS News fires Scott Pelley from 60 Minutes, sources say - Reuters
+## Trump confirms he called Netanyahu crazy in phone call - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEpWLVhFMzdJZnJwX19OdHBFb2F5SUVRQzM0WFZ6cUVtSE8wT2wzWFhCdDdKWUpOLUpBeF9VRmN5SE9JTlZvdGpsVEhtbjVZOWRPRDRfVXlSOVNIZGVHMlpVQmhZR3puVG5FLVJQMjlCX2FVeUhieE8tYUpRb0xMLWVuMjJhbzhvcDNDaVNxSlVYRnZDQ3gtZldaNTlicXNDMkQwS0sxaF94em9TWkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEpWLVhFMzdJZnJwX19OdHBFb2F5SUVRQzM0WFZ6cUVtSE8wT2wzWFhCdDdKWUpOLUpBeF9VRmN5SE9JTlZvdGpsVEhtbjVZOWRPRDRfVXlSOVNIZGVHMlpVQmhZR3puVG5FLVJQMjlCX2FVeUhieE8tYUpRb0xMLWVuMjJhbzhvcDNDaVNxSlVYRnZDQ3gtZldaNTlicXNDMkQwS0sxaF94em9TWkE?oc=5" target="_blank">CBS News fires Scott Pelley from 60 Minutes, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5" target="_blank">Trump confirms he called Netanyahu crazy in phone call</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Exclusive: SpaceX plans to set IPO price at $135 per share, targeting $75 billion raise, source says - Reuters
+## Shnaider stuns Sabalenka at windy French Open to make semi-finals - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGxqbWcwbFNSdnZhNURUaVl6YUhmNzUtbU9vOE5CeU1aejRnMlpxdTRPbm5QY0tUTmp5UWtzZGJ0TTVUTm91cXBBVzVINDZJdjVJLXE0eDQ4TzEtem8xWDdrOVNQeGMyOGRDN3lydHoxdFJZQUpNRWtwWWJidW42VURzMGFpQmV4b3IyTHdNbk9YQ3lSVzY5Tm1rMFAzSnlaUV90VGJRWWZDOUtvX2gtNVJXYVR2eTlfd3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGlXaDlMdDlGaGk3SXlsSE9zOEV5NmhRTlNteEVqX3p4T291T1lMNWNOY2s3QnJ6WWl4NzZ1d21NRmwwZmowdUN3Q1FFNU5STDVhZzd1bFh3bU9Ebk9nX3lYMFZ0OW83UUxXcWVjRXpQMzlWbC0tLXBTWnJkMmxLdDhLOUFQalhQemJLaEdhdk9FbnhNY1R5TmNjM3J3M0kwc19Yamtudzc3Wjk0Ti1SclhFclpvNVRLRWlZaFN6eVBwUlllZ2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGxqbWcwbFNSdnZhNURUaVl6YUhmNzUtbU9vOE5CeU1aejRnMlpxdTRPbm5QY0tUTmp5UWtzZGJ0TTVUTm91cXBBVzVINDZJdjVJLXE0eDQ4TzEtem8xWDdrOVNQeGMyOGRDN3lydHoxdFJZQUpNRWtwWWJidW42VURzMGFpQmV4b3IyTHdNbk9YQ3lSVzY5Tm1rMFAzSnlaUV90VGJRWWZDOUtvX2gtNVJXYVR2eTlfd3c?oc=5" target="_blank">Exclusive: SpaceX plans to set IPO price at $135 per share, targeting $75 billion raise, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGlXaDlMdDlGaGk3SXlsSE9zOEV5NmhRTlNteEVqX3p4T291T1lMNWNOY2s3QnJ6WWl4NzZ1d21NRmwwZmowdUN3Q1FFNU5STDVhZzd1bFh3bU9Ebk9nX3lYMFZ0OW83UUxXcWVjRXpQMzlWbC0tLXBTWnJkMmxLdDhLOUFQalhQemJLaEdhdk9FbnhNY1R5TmNjM3J3M0kwc19Yamtudzc3Wjk0Ti1SclhFclpvNVRLRWlZaFN6eVBwUlllZ2c?oc=5" target="_blank">Shnaider stuns Sabalenka at windy French Open to make semi-finals</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil extends gains as Middle East hostilities flare and talks stall - Reuters
+## EU targets Big Tech dependence with 'made-in-Europe' drive - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVpFUGJQUUo3Y2hCazliMW5HODV5N0NJY2t3YzF6cG55Vi0tWWNrM01hbU9hQnpUTU9Bc0kwdnJjQ2c0UDNjcWxPSm0yM2NGbVYzaFlCY2VDWjB5X1F5NGk3OGZwTk52TmZldVZjNUREenE0eXhMMGh5Z3pFX0J1UjcxOXR3ODIxLWhxYVpnYmdHaG80NzF2akhWbnIyODFpaDc0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5" target="_blank">Oil extends gains as Middle East hostilities flare and talks stall</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVpFUGJQUUo3Y2hCazliMW5HODV5N0NJY2t3YzF6cG55Vi0tWWNrM01hbU9hQnpUTU9Bc0kwdnJjQ2c0UDNjcWxPSm0yM2NGbVYzaFlCY2VDWjB5X1F5NGk3OGZwTk52TmZldVZjNUREenE0eXhMMGh5Z3pFX0J1UjcxOXR3ODIxLWhxYVpnYmdHaG80NzF2akhWbnIyODFpaDc0?oc=5" target="_blank">EU targets Big Tech dependence with 'made-in-Europe' drive</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters
+## Trump says Vance and Rubio teaming up for 2028 run would be unbeatable - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUg2VkpmQmZKcDFqQlp0LW11a0FuTVQxTW9pR3AzM1pnMThoWGNMTE03QUlwSmw4QnlrTFphcVJueXpSMGJUZ0hjaEdHM2lESHNrQUhmczNxN3BhZlNsRlFnZHJpdlZidWljRVZ0UGJIZy13ZW1oYV8zVW1sTEVLU1ZPWl81Ynd6Y0tzRkRKU2tRcHFObUNqWFF3dEVhMENrVVZQWmstYVVQVHQtQ1ptZ1NTVmdwdTFlc0lrLTVHMkZZSGJTR2pF?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHBwbHBfWExIb3JNV2MyQnRDZmtHZ0xld3U0ekdzcGtXMWJ2bDBmVkJ6X0FNVlRqZi1zT3dlVVo4cEFaUEsxS1RZNXlaTjhFNjliX2NyU3p4dzQxbVZOMjltSGJSclhodmQ3NjZEd0xpcFBVZjd2ZWxLTXpOVkV0TzVQNTBLZWFESWdiZlBKT0JQc3I0VkNyaHBIRVhQcVNBTVJMcXFjVXFHSEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUg2VkpmQmZKcDFqQlp0LW11a0FuTVQxTW9pR3AzM1pnMThoWGNMTE03QUlwSmw4QnlrTFphcVJueXpSMGJUZ0hjaEdHM2lESHNrQUhmczNxN3BhZlNsRlFnZHJpdlZidWljRVZ0UGJIZy13ZW1oYV8zVW1sTEVLU1ZPWl81Ynd6Y0tzRkRKU2tRcHFObUNqWFF3dEVhMENrVVZQWmstYVVQVHQtQ1ptZ1NTVmdwdTFlc0lrLTVHMkZZSGJTR2pF?oc=5" target="_blank">Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHBwbHBfWExIb3JNV2MyQnRDZmtHZ0xld3U0ekdzcGtXMWJ2bDBmVkJ6X0FNVlRqZi1zT3dlVVo4cEFaUEsxS1RZNXlaTjhFNjliX2NyU3p4dzQxbVZOMjltSGJSclhodmQ3NjZEd0xpcFBVZjd2ZWxLTXpOVkV0TzVQNTBLZWFESWdiZlBKT0JQc3I0VkNyaHBIRVhQcVNBTVJMcXFjVXFHSEE?oc=5" target="_blank">Trump says Vance and Rubio teaming up for 2028 run would be unbeatable</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
