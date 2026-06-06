@@ -1,47 +1,49 @@
 # 每日财经新闻
 
-更新时间：2026-06-06 04:00:58
+更新时间：2026-06-06 13:56:42
 
-## Indonesian Officials Vow Again to Stabilize Rupiah, Draw Inflows
+## Broadway Shows Eye London, NY Wooing With Tax Credits
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-06/indonesian-officials-vow-again-to-stabilize-rupiah-draw-inflows
+链接：https://www.bloomberg.com/news/videos/2026-06-06/broadway-shows-eye-london-ny-wooing-with-tax-credits-video
 
 正文长度：0
 
-摘要：Indonesia’s finance and central bank officials said they will step up efforts to stabilize the currency and attract inflows after a week where the nation’s stocks tumbled at the fastest pace worldwide and its currency sank to all-time lows.
+摘要：Catching a Broadway musical is a quintessential experience for many in New York City. But it’s not cheap, not for showgoers nor for show producers, who saw costs go up in the aftermath of the pandemic. Producers have been considering taking their next big hits somewhere else &mdash; to Atlanta, Chicago and even overseas to London, where it can be significantly cheaper to put on a good show.
+
+Bloomberg Tax, State Tax Policy Journalist Danielle Muoio Dunn joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)
 
 
 ---
 
-## Second US Screwworm Case Confirmed in Texas by USDA
+## US Proposes New Tariffs Over Forced Labor
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-06/usda-confirms-second-us-screwworm-case-in-texas
+链接：https://www.bloomberg.com/news/videos/2026-06-06/us-proposes-new-tariffs-over-forced-labor-video
 
 正文长度：0
 
-摘要：A second case of the deadly New World screwworm parasite has been confirmed in a Texas calf, heightening fears of a broader outbreak that could impact the US beef business.
+摘要：The Trump administration has hit on a new way to impose tariffs on 60 nations that supply almost all US imports &mdash; accuse them of failing to enforce bans on foreign goods made with forced labor. Bloomberg News Global Trade Editor Brendan Murray joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)
 
 
 ---
 
-## US Drops $300 Million Fraud Case That Spotlighted Brian Kahn
+## Macro Soothsayers, Stock Analysts See Vastly Different Markets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-06/us-drops-300-million-fraud-case-that-spotlighted-brian-kahn
+链接：https://www.bloomberg.com/news/articles/2026-06-06/macro-soothsayers-stock-analysts-see-vastly-different-markets
 
 正文长度：0
 
-摘要：US prosecutors dropped a $300 million fraud indictment against a former executive at Prophecy Asset Management accused of working with Brian Kahn, the disgraced founder of Franchise Group Inc., to cheat investors in their hedge fund.
+摘要：The strongest earnings season in years is coming to a close, and the Wall Street analysts who focus on individual companies have rarely been this bullish.
 
 
 ---
 
-## Raizen Inks $13 Billion Out-of-Court Debt Deal With Creditors
+## Raizen Inks $13 Billion Out-of-Court Deal With Creditors
 
 来源：彭博社
 
@@ -49,20 +51,57 @@
 
 正文长度：0
 
-摘要：Raizen SA reached an out-of-court restructuring agreement with the majority of its creditors, marking a key step in the Brazilian sugar-and-ethanol producer’s efforts to rework its debt, according to people familiar with the matter.
+摘要：Raizen SA reached an out-of-court restructuring agreement with the majority of its creditors, according to a regulatory filing, marking a key step in the Brazilian sugar-and-ethanol producer’s efforts to rework its debt.
 
 
 ---
 
-## KPMG Chief Economist Discusses Fed Rate Hike Expectations
+## Expensive Knicks Seats, Binge Drinking, Cake in a Cup  | BTW: Headlines You Should See
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-05/kpmg-chief-economist-discusses-fed-rate-hike-expectation-video
+链接：https://www.bloomberg.com/news/videos/2026-06-06/knicks-tickets-binge-drinking-cake-in-a-cup-btw-video
 
 正文长度：0
 
-摘要：Diane Swonk, KPMG Chief Economist, analyzed the current economic landscape, highlighting how improvements in the labor market and persistent service sector inflation are driving hawkish sentiment among Federal Reserve officials. She noted that bond market pricing reflects expectations of a 25 basis point rate hike in 2026, signaling a shift in monetary policy outlook. She speaks with Romaine Bostick & Katie Greifeld on "The Close." (Source: Bloomberg)
+摘要：Catch up on all the headlines with BTW. Lisa Mateo, Christina Ruffini and David Gura dive into the headlines you may have missed on Bloomberg This Weekend. Watch the show LIVE every Saturday and Sunday morning: (Source: Bloomberg)
+
+
+---
+
+## How ‘Backrooms’ producer Peter Chernin thinks Hollywood needs to change
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/06/backrooms-peter-chernin-hollywood.html
+
+正文长度：4595
+
+摘要：Franchise fatigue could drive an entertainment industry sea change as the appetite for fresh ideas grows and younger audiences make up more box office sales.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Over the past week, one conversation has dominated Hollywood executive lunches and studio staff meetings: What's the next "Backrooms"?
+The industry is scrambling to figure out how to replicate the phenomenon of "Obsession" and "Backrooms," low-budget psychological horror films directed by YouTube creators that have dominated the box office over the past two weeks.
+But "Backrooms" producer Peter Chernin, whose production company cofinanced the film, said he thinks the rush to sign deals with YouTube creators is a "big mistake."
+"It's no different than making sequels. It's jumping on an existing bandwagon," Chernin said in an interview. "I guarantee you 80% will be failures. It involves no originality, it involves no innovation. Your job is to innovate, and your job is to look for fresh IP [intellectual property] and fresh voices. It's not to just jump on a bandwagon."
+Chernin has a unique background spanning traditional Hollywood as well as the YouTube creator space. He ran Fox's movie and TV divisions from 1996 to 2009, overseeing box office juggernauts including "Titanic" and "Avatar."
+Chernin went on to found a private equity firm, The Chernin Group, in 2010, which backed a number of companies in the creator economy space, including Fullscreen and Tumblr. In 2022 he cofounded North Road, a global content studio. Its Chernin Entertainment division coproduced and cofinanced "Backrooms" with independent film studio A24.
+"We are consistently looking for what's new, what's interesting, and where the world is going," Chernin said. "I think that YouTube background gave us unique insights into doing this movie."
+"Backrooms," with a budget of just $10 million, has found particular success with younger audiences who were familiar with director Kane Parson's YouTube series, which inspired the film. In the film's first weekend in theaters, 86% of ticket buyers were under the age of 35, according to an audience survey by Comscore Movies and Screen Engine PostTrak.
+"Backrooms" crossed $100 million at the domestic box office in just six days, becoming the highest-grossing domestic film ever for A24.
+Basing a movie on established IP is a familiar strategy in Hollywood, where superheroes, popular book series or even toys like Barbie have proven to be a reliable way to draw audiences. Since 2010, most of the top performing domestic releases have been based on established IP, but box office experts warn audiences are getting franchise fatigue, and some high-profile sequels have fallen flat.
+While "Backrooms" and Parsons had an established fanbase, building a movie on YouTube content is unusual. Chernin said the concept feels authentic and fresh on the big screen, making it distinct from decades-old franchises.
+"Hollywood has been guilty of being a little bit cynical and essentially creating a brand management sort of manufacturing process, consistently feeding audiences a diet of sequels," Chernin said. "One of the things that really resonated is that this feels like a movie with young people's IP. What it says more than anything is that audiences are looking for freshness. They're looking for something that feels unique and original."
+While the box office still lags prepandemic levels, the phenomenon of "Backrooms" and "Obsession," which was shot for a budget of $750,000 and has also earned more than $100 million domestically, has Hollywood insiders and analysts asking how studios should change strategy.
+Eric Handler, a media and entertainment analyst at Roth, agrees that younger generations have growing fatigue with franchise films and sequels, as evidenced by the disappointing opening of Disney's latest Star Wars offshoot "The Mandalorian and Grogu."
+"Younger people still want to go to the movies. They like that communal experience, but they're looking for something a bit different," Handler said. "They're saying you don't need to make a $250 million movie to get me interested. Come up with an interesting concept that resonates with me and we'll go."
+Handler said he now expects studios to cast a wider net for content. "Clearly there's an opportunity here, especially if you can do these movies at a very low budget," he said.
+Chernin said the success of "Backrooms" is a sign that movie studios should take more risks.
+"Risk is ultimately the lifeblood of success. Hollywood has gotten itself into a mentality over the past 10 years where risk has been looked at as being reckless," Chernin said. "You have to try and figure out a way to do it at the right budget, but risk is important, and risk is the biggest upside in the world."
+
+</details>
 
 
 ---
@@ -212,84 +251,15 @@ Still, Lululemon has contended that O'Neill is the right person for the job. Whi
 
 ---
 
-## As the largest World Cup ever kicks off, health officials are focused on more than Ebola
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html
-
-正文长度：13361
-
-摘要：Officials are more concerned about highly contagious diseases like measles and respiratory viruses, which can spread quickly through large, fast-moving crowds.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> As athletes and millions of fans gear up for the FIFA World Cup starting next week, global health officials are preparing for a high-stakes challenge of their own: protecting against infectious diseases.
-For the first time, the tournament will span 16 host cities across three countries — the United States, Canada and Mexico — and feature 48 teams, making it the largest World Cup in history. The event also comes amid an Ebola outbreak in Congo and Uganda that the World Health Organization has designated a "public health emergency of international concern."
-Despite those worries, the risk of widespread Ebola transmission during the tournament is low, infectious disease experts told CNBC. Public health departments, hospitals and other partners are also well equipped to respond to a range of potential threats — even after sweeping cuts to critical federal agencies and the U.S. exiting from the WHO under the Trump administration.
-"Ebola and hantavirus, I worry about a lot less," Dr. Shruti Gohil, the associate medical director for University of California, Irvine Health Epidemiology and Infection Prevention, said in an interview. "The overall likelihood of risk is not nonzero, but it's low, very low, because it is not easy to transmit person to person."
-Instead, experts say more contagious threats could pose greater challenges during the tournament and other large events this summer, particularly because international visitors could move through multiple venues and cities in a matter of days.
-Those threats include measles — one of the world's most contagious diseases — as well as respiratory viruses such as Covid-19 and influenza. The concern comes after the U.S. recorded its highest number of measles cases in decades last year, driven in part by growing vaccine hesitancy and declining immunization rates.
-Some experts also pointed to arboviruses spread by infected insects, such as dengue, while others highlighted heat-related and foodborne illnesses as notable risks beyond infectious diseases.
-Preparing for the World Cup has involved scaling up existing programs, such as wastewater monitoring, and adding new tools to track infectious disease threats. Those systems will face their first major test when the tournament kicks off on June 11, but public health officials say they are ready to take on the challenge.
-"Public health prides itself in being the invisible shield, but I don't want that to get lost in the actual Herculean effort it takes to have an operational invisible shield, so that people can enjoy events like the World Cup and feel safe and secure in their public health when they're here," said Dr. Theresa Tran, director for the Houston Health Department.
-"That's a system that I'm extraordinarily proud about … we are absolutely working so hard every single day in preparation for things like this," said Tran, who is overseeing the response in a host city.
-Ebola risk is low despite current outbreak
-Ebola does not spread as easily as Covid and other respiratory diseases, making it less of a threat during the World Cup despite the growing outbreak, experts said.
-Global health authorities have confirmed more than 260 cases and are investigating 1,100 more possible infections in Congo and Uganda, according to the WHO. The current strain of Ebola, the Bundibugyo virus, is an often fatal form of the disease with no approved treatment or vaccine.
-But there were no cases of Ebola in the U.S. as of Wednesday. Virus transmission requires direct, close contact with the bodily fluids or blood of someone who is already showing symptoms, said Dr. Amesh Adalja, adjunct assistant professor at the Johns Hopkins Bloomberg School of Public Health, in an interview. Patients with Ebola are "going to be very sick" and will likely stay at home or in the hospital rather than attend large events with other people, he added.
-"It's not a respiratory virus; it's not something that thrives in crowds that don't have exposure to blood and body fluids, so I don't think that it poses an objective threat to the World Cup," Adalja said.
-Still, federal and local public health officials are gearing up to respond to Ebola risks.
-The Centers for Disease Control and Prevention has implemented enhanced entry measures for travelers from countries linked to the outbreak. Anyone arriving in the U.S. after spending time in Congo, Uganda or South Sudan within the previous 21 days is required to enter through designated airports in Atlanta, Houston, New York or the Washington area, where they will undergo public health screening.
-During those screenings, CDC staff will survey individuals about their travel history and symptoms, check their temperatures and collect contact information for follow-ups by state and local public authorities if needed, the agency's website says. Individuals are also monitored for Ebola's full incubation period of 21 days, not only the day they arrive in the U.S., UCI's Gohil said.
-The screening protocol extends beyond the airport. Local health departments are notified when travelers from affected regions arrive in their jurisdictions, enabling officials to monitor them for signs of illness, said Dr. Marvia Jones, director of the health department for Kansas City, a host city.
-In Dallas County, Texas, where World Cup games will also be played, the health department has coordinated with emergency responders and local hospitals to ensure any traveler who develops Ebola symptoms can be safely transported and treated, county health Director Dr. Phil Huang told CNBC. The plans include identifying which facilities would receive patients, preparing those places for infection-control protocols and arranging specialized transportation if needed.
-Huang said the county also held a session to educate local healthcare providers on the lessons learned from Dallas' 2014 Ebola case, including the importance of obtaining travel histories, recognizing symptoms and following established procedures for patient transport, isolation, contact tracing and the use of personal protective equipment.
-Ebola "is definitely top of mind as a heavy thing with our history," Huang said.
-In a statement to CNBC, FIFA said it is aware and monitoring the Ebola outbreak and continues to work with all three host countries' governments to "ensure a safe and secure tournament." FIFA is also informing ticket holders residing in Congo, South Sudan and Uganda of travel considerations ahead of the event.
-Measles, respiratory diseases raise concern
-Measles is "our biggest concern" in terms of infectious diseases at the World Cup since it is one of the most contagious viruses, said James Garrow, communications director for Philadelphia's Department of Public Health.
-"We're seeing outbreaks throughout the U.S. and overseas, and when you have a disease that's as infectious as this, people just have to be in the same plane for an hour or two and all of a sudden you have an outbreak that's transferred to somewhere else," Garrow told CNBC.
-Philadelphia health officials have focused on ensuring healthcare providers can quickly identify measles cases, share information and coordinate response efforts as the city prepares to host matches, he said. But international visitors pose a particular challenge because they often travel to numerous locations in a short period of time, increasing the number of potential exposures to the virus compared to a local.
-The U.S. had more measles cases in 2025 than in any other year since 1991, with more than 2,100 confirmed cases. Cases were reported in 45 jurisdictions in 2025, and there were 48 outbreaks, compared with 16 the previous year, according to the CDC.
-The U.S. eliminated measles in 2000, but cases have risen as misinformation spreads and vaccination rates decline. About 93% of confirmed measles cases last year were among people who were unvaccinated or whose vaccination status was unknown, CDC data shows.
-Besides measles, Houston's Tran said she's concerned about other diseases at risk of higher spread as vaccination rates drop in the U.S., such as Covid and the flu.
-"The transmissibility being airborne makes them so much more likely to cause a public health threat than Ebola," she said.
-But Houston, Tran said, has professional epidemiologists who are monitoring and contract-tracing individuals anytime there is a vaccine-preventable disease that could become an outbreak.
-Norovirus, food-borne and heat-related illnesses as well as sexually transmitted infectious could also pose challenges during the tournament, some public health officials told CNBC.
-But public health departments have been working to ensure that food vendors at the World Cup and related gatherings have the proper permits to sell to the public, said Dr. Monika Roy, the deputy health officer and infectious disease and response branch director for the County of Santa Clara, California. The county outside of San Francisco will also host matches.
-In addition to keeping an eye on permitting, Houston has teams of registered sanitarians ready to investigate any foodborne illnesses, and it has prepared public health campaigns related to heat-related illness and prevention given the high humidity in the city.
-Expanding surveillance efforts
-This year's World Cup brings "added layers of challenges," and not only because of the scale of the event, said Dr. Rebecca Katz, who leads Georgetown University's Center for Global Health Science and Security. She said the tournament comes after resource cuts to public health and the U.S. withdrawal from the WHO earlier this year, which has "strained" international mechanisms for disease sharing.
-Trump cut roughly 10% of the CDC's workforce in early 2025, leaving fewer epidemiologists and scientific staff to do boots-on-the-ground work or coordinate responses across governments. There is currently no permanent CDC director or U.S. surgeon general, both positions that play a critical role in responding to disease threats.
-Despite the cuts, the CDC said it is "actively engaged in World Cup preparedness as part of the federal coordination structure led by the White House FIFA World Cup 2026 Task Force" and is engaging with public health departments in host cities, other federal agencies and partner organizations. The CDC has also developed a World Cup data dashboard, which is in final development, to give state and local health departments greater visibility into disease trends across jurisdictions, an agency spokesperson said in a statement.
-Still, "there have been cuts to public health at all levels and the folks who are in those jobs are working really, really hard, often with a smaller budget and less personnel, so there's an opportunity for the rest of the community to help support that" and "try to jump in and fill some of those information gaps," Katz said.
-That's one reason why Katz in May launched the Health Security Operations Center, a hub for monitoring potential infectious disease threats that will distribute daily situation reports starting Thursday to hundreds of state and local health officials, federal agencies, tournament organizers and hospital emergency managers, among others. It's part of the National Center for Health Security and Resilience, a joint effort between Georgetown University and MedStar Health.
-Among the center's efforts is participating in daily stand-up calls hosted by the Pan American Health Organization, a regional office of the WHO, and sharing that information directly with local, state and federal jurisdictions, Katz said. PAHO is coordinating data between Mexico and Canada as well, she noted.
-At the local level, health departments are ramping up their surveillance efforts.
-Many World Cup host cities and counties are leaning on wastewater surveillance, a public health tool that gained prominence during the Covid pandemic. The approach enables officials to detect signs of disease spreading in a community through sewage samples, often before outbreaks are identified through traditional testing.
-For example, Dallas is increasing its wastewater sample sites to cover nearly the entire county, Huang said. The county is also implementing metagenomic testing, which is broadly extracting and sequencing sewage samples to identify every bacteria, virus and fungus rather than a specific one, he added.
-Huang said Dallas is also enhancing its mosquito surveillance by monitoring not only for West Nile virus, which is endemic in the region, but also diseases such as dengue, chikungunya and Zika.
-Meanwhile, Philadelphia is deploying a new mobile lab that can test samples on site, speeding up the detection of potential health threats and reducing the need to send specimens to specialized labs elsewhere in the state or country, Garrow said. He noted that the lab, which launched in June, aims to boost testing capacity and reach areas less centrally located.
-Dr. Margaret Aldrich, a pediatric epidemiologist at NYU Langone, said she believes in the U.S. "we're actually better prepared, honestly, than we ever have been for high-consequence infectious diseases."
-"There's a very robust system in the United States," Aldrich said. "The departments of health are really continuing to maintain that hard work and ensuring that, as we always say, if we're doing our job, you don't see it."
-— CNBC's Natalie Rice contributed to this report
-
-</details>
-
-
----
-
-## SpaceX signs $30bn deal to lease computing capacity to Google - Financial Times
+## Nasdaq tumbles 4% as shares in chip and memory groups sink - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWR6MFoxRE5mM3ZDV1lITGFxbEkxQ0hhVE1HUHk5bkh6LWtkZTN0SzRyODkwZmRnNGhFWWtXTDk5cVFSNkZmdWg1Ri0xdURRaGVvZXA0bldLdzcxUHZIWk1LWGY1QVMxZXZzTTJGXzR4ZnN5V1kxOFpNM2xUNC1Xa1pyTmk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzVBbjNRS1djb0pPeXBJOHZLSFBrRW9jWkJJUHBmT1dRdVpWMURqMDl4V01abnpwRlFVbzNxdjhITTFDVDVkMVVXTzNPSjV6Tlh2QVBzT2RkZ1ZSS1hQQ0pfMjhja1hoQmR5M0VUWVc2Q3R3OWYxQjdkVlJkRl9SZ090bno?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWR6MFoxRE5mM3ZDV1lITGFxbEkxQ0hhVE1HUHk5bkh6LWtkZTN0SzRyODkwZmRnNGhFWWtXTDk5cVFSNkZmdWg1Ri0xdURRaGVvZXA0bldLdzcxUHZIWk1LWGY1QVMxZXZzTTJGXzR4ZnN5V1kxOFpNM2xUNC1Xa1pyTmk?oc=5" target="_blank">SpaceX signs $30bn deal to lease computing capacity to Google</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzVBbjNRS1djb0pPeXBJOHZLSFBrRW9jWkJJUHBmT1dRdVpWMURqMDl4V01abnpwRlFVbzNxdjhITTFDVDVkMVVXTzNPSjV6Tlh2QVBzT2RkZ1ZSS1hQQ0pfMjhja1hoQmR5M0VUWVc2Q3R3OWYxQjdkVlJkRl9SZ090bno?oc=5" target="_blank">Nasdaq tumbles 4% as shares in chip and memory groups sink</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -307,106 +277,106 @@ Dr. Margaret Aldrich, a pediatric epidemiologist at NYU Langone, said she believ
 
 ---
 
-## Nasdaq tumbles 4% as shares in chip and memory groups sink - Financial Times
+## Why bother with university? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzVBbjNRS1djb0pPeXBJOHZLSFBrRW9jWkJJUHBmT1dRdVpWMURqMDl4V01abnpwRlFVbzNxdjhITTFDVDVkMVVXTzNPSjV6Tlh2QVBzT2RkZ1ZSS1hQQ0pfMjhja1hoQmR5M0VUWVc2Q3R3OWYxQjdkVlJkRl9SZ090bno?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHFDQTFjeXdQVHA2NGhoVE9QRjdkWVo0RlVfMlg1OVI3RXhSbFBWVXBzQmJwT2hxXzZKSnhMQjdQbjRLRTM3eGFyRjdHYmd0OEcwUU13NXJQRXhhcjdBRzRiWS1NRkpFV1hrN2h3MG1aZUZQd1dhLXlQY2pwMjE1MkN6Qkc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzVBbjNRS1djb0pPeXBJOHZLSFBrRW9jWkJJUHBmT1dRdVpWMURqMDl4V01abnpwRlFVbzNxdjhITTFDVDVkMVVXTzNPSjV6Tlh2QVBzT2RkZ1ZSS1hQQ0pfMjhja1hoQmR5M0VUWVc2Q3R3OWYxQjdkVlJkRl9SZ090bno?oc=5" target="_blank">Nasdaq tumbles 4% as shares in chip and memory groups sink</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHFDQTFjeXdQVHA2NGhoVE9QRjdkWVo0RlVfMlg1OVI3RXhSbFBWVXBzQmJwT2hxXzZKSnhMQjdQbjRLRTM3eGFyRjdHYmd0OEcwUU13NXJQRXhhcjdBRzRiWS1NRkpFV1hrN2h3MG1aZUZQd1dhLXlQY2pwMjE1MkN6Qkc?oc=5" target="_blank">Why bother with university?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX won’t make the S&P 500 - Financial Times
+## US demands tougher rules for car parts in Mexico trade talks - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE91OEctY0lORVFvd01VVjV5TnBOQkNtbEU2VFg5UVgwX1pmdXRkd0ZWVDFVVlBicWZXYU1VTS1fcGJybVNNR3ZLeVFjcEZkOUxGSjMtb3ZmWjF1SlBFRmxLeUhadVduZEwxbUpCeGRhOVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnNPZzFROXZER1pqaFgwbnlRNnJlR1paMGxsVThiTFV6MUdrbEJjUmNMX0FJazg3VEVyNDBDWUZFM29HRGNPTUxZZlBWSDdfRUh5U2dYN084eTJCNERaNXZBLTBwSGVkRUx2cEFFWE5ndFA3QXktakV1YkptR2RLZHg0U0c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE91OEctY0lORVFvd01VVjV5TnBOQkNtbEU2VFg5UVgwX1pmdXRkd0ZWVDFVVlBicWZXYU1VTS1fcGJybVNNR3ZLeVFjcEZkOUxGSjMtb3ZmWjF1SlBFRmxLeUhadVduZEwxbUpCeGRhOVA?oc=5" target="_blank">SpaceX won’t make the S&amp;P 500</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnNPZzFROXZER1pqaFgwbnlRNnJlR1paMGxsVThiTFV6MUdrbEJjUmNMX0FJazg3VEVyNDBDWUZFM29HRGNPTUxZZlBWSDdfRUh5U2dYN084eTJCNERaNXZBLTBwSGVkRUx2cEFFWE5ndFA3QXktakV1YkptR2RLZHg0U0c?oc=5" target="_blank">US demands tougher rules for car parts in Mexico trade talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Is Donald Trump’s aura of invincibility fading? - Financial Times
+## Parents force Starmer into embracing social media ban - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxON1hVSldKT1FaeW9WWTEyTXJtZDdrc0lsQzFPRllUMUJUTmxqR1Jyd25DbEhueHlKdzlYNXJrR2pFUTV3RXVneU81NFlCeFZDVWRQZHZxYW0zb2NLRmZkNHVfeVBjNWVVRkdYcGtWQ2ZqRnZKOUhFTllOcTgzX09sLXh3S0w?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUm5uOC11LWxxUW1QSHhDT0VkcG9sODVPMU0wMWdmVFJHYmlYV0hIM3VickRfdkIzX2lTVVZ3cU1zcnA3RHAxN1RpUjZxTUxXcnJoTm9WWG1QUjVLMUhEdDJpS3JLUjdCb2FadjFEdVBLZnhZc1ZuckNyZGtlUkRKNllmLUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxON1hVSldKT1FaeW9WWTEyTXJtZDdrc0lsQzFPRllUMUJUTmxqR1Jyd25DbEhueHlKdzlYNXJrR2pFUTV3RXVneU81NFlCeFZDVWRQZHZxYW0zb2NLRmZkNHVfeVBjNWVVRkdYcGtWQ2ZqRnZKOUhFTllOcTgzX09sLXh3S0w?oc=5" target="_blank">Is Donald Trump’s aura of invincibility fading?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUm5uOC11LWxxUW1QSHhDT0VkcG9sODVPMU0wMWdmVFJHYmlYV0hIM3VickRfdkIzX2lTVVZ3cU1zcnA3RHAxN1RpUjZxTUxXcnJoTm9WWG1QUjVLMUhEdDJpS3JLUjdCb2FadjFEdVBLZnhZc1ZuckNyZGtlUkRKNllmLUU?oc=5" target="_blank">Parents force Starmer into embracing social media ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up - Reuters
+## Hegseth, at D-Day event, says Europe faces 'invasion' of dangerous ideologies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3RDSkpOUzhsc0FkQXZVaHBJQlA2dHVKMDZrNTdjWXhsMmhvNlJ4Nm9TbkMwbjQxcGVBVGxmU0JkenZZTE11ZUxfWW92UTlydVg1b3l4ZG5aVzhvRHkwdzQzMWkxcG5tdURoazFzX0VsaE9kZHZPM1cxVncxbWdRNkR0dzJuM3lIdC12NnVLWWw4cU1rS0JzU2xnNndHVG5oUEdHejlIem1xYS1YSWloc1pKZ0EwZksxRENpNWZuamwwZl9Ndlg5UmJn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5" target="_blank">US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3RDSkpOUzhsc0FkQXZVaHBJQlA2dHVKMDZrNTdjWXhsMmhvNlJ4Nm9TbkMwbjQxcGVBVGxmU0JkenZZTE11ZUxfWW92UTlydVg1b3l4ZG5aVzhvRHkwdzQzMWkxcG5tdURoazFzX0VsaE9kZHZPM1cxVncxbWdRNkR0dzJuM3lIdC12NnVLWWw4cU1rS0JzU2xnNndHVG5oUEdHejlIem1xYS1YSWloc1pKZ0EwZksxRENpNWZuamwwZl9Ndlg5UmJn?oc=5" target="_blank">Hegseth, at D-Day event, says Europe faces 'invasion' of dangerous ideologies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran has launched multiple drones towards the Strait of Hormuz, CNN reports - Reuters
+## Russia's Sechin says US companies benefit from Strait of Hormuz closure - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNoMWljcEVLeTNSU09PSGdTTllERnBWUXVqRlNrSGI2S3I1Y1VZdlRBY05FbXNlX0tudmZlalJKYV9VaVpJZHBRTWFqTThMQ01TakJDVXVnTGJ2OVBmNmxNdVRRRXNKRThuWnFDUzRDZlFyQkt4Uy1EUDlqVzVMNW56U0tvZzAtYmNoby1tdnpTaGNrWkV3eHk4TGhTUWdaVGg4S3dHakNRaTNpR2tFTnNiYTFmaDl0cjk3eU9R?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHJyOUJ0WVpCMVZ2MFNmNWEtQ1JuZW1LUW5obFNZZTlEZDBmcWE3S3ZYYXI0Q0Y5MHJLNjdGSjI1RnVRYmdtdmtqWGFIWmRINy1RdWMzdGMxTEROWENRQnJlMUxma2FkTHVNN1BDLW83QjdWWHhhdG9nZ3ktU1dGQk5KMFFyR09wZXM4bHhXSGxnWFZEMUJkb3BoRDNkc3FjUW5NODJyR2tRZlB5Q1ltN3RUcjY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNoMWljcEVLeTNSU09PSGdTTllERnBWUXVqRlNrSGI2S3I1Y1VZdlRBY05FbXNlX0tudmZlalJKYV9VaVpJZHBRTWFqTThMQ01TakJDVXVnTGJ2OVBmNmxNdVRRRXNKRThuWnFDUzRDZlFyQkt4Uy1EUDlqVzVMNW56U0tvZzAtYmNoby1tdnpTaGNrWkV3eHk4TGhTUWdaVGg4S3dHakNRaTNpR2tFTnNiYTFmaDl0cjk3eU9R?oc=5" target="_blank">Iran has launched multiple drones towards the Strait of Hormuz, CNN reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHJyOUJ0WVpCMVZ2MFNmNWEtQ1JuZW1LUW5obFNZZTlEZDBmcWE3S3ZYYXI0Q0Y5MHJLNjdGSjI1RnVRYmdtdmtqWGFIWmRINy1RdWMzdGMxTEROWENRQnJlMUxma2FkTHVNN1BDLW83QjdWWHhhdG9nZ3ktU1dGQk5KMFFyR09wZXM4bHhXSGxnWFZEMUJkb3BoRDNkc3FjUW5NODJyR2tRZlB5Q1ltN3RUcjY?oc=5" target="_blank">Russia's Sechin says US companies benefit from Strait of Hormuz closure</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test - Reuters
+## Taiwan says Chinese coast guard, research ships near key S. China Sea islands - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFJMMHVDWFE3aVRBNDBIUEpjSkFmeGp1MWh4NnhnNDIxd2gwSzRnQ3g0NzllQ3BEdDhPdlJraWtqa3NoRVpMNElqQ1Q3V3lmYzV1bm0tU1F4VlFrRFI2Y3NUYWoxanBmLUhsSG1NRXlGb2hLOTI3Wnc3MXY3Z3VGQnU5VzIwalljTTNCcG1oV1AzRzh2bXRpdDNOU192VnF2c2ctZlREYmpqWndoMmRFS255QXNvUUhKTGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFTeVhDeGJPVmVhYzd6d0hJTXlPTE56LWlqLWI1N3pPMFB2dVNKOGZXZ0NuY05vbXFqcU5KRGJCU2JNUHhxRVRaRGh4V2Y5WEFwTlhDRGdkenZXVXNnalYwRmNnQm5fR29fQWRRZlNnRFVNc0Q2bENEbGhxZjdhWW04c1N6dVlkOHh4bF9BaVREaEhuaFI5NmZuQUQwSGEwQmZJRDNvN0ZydzNDV2hUSVVTVTZnbEVIWnBjOFI3ZUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFJMMHVDWFE3aVRBNDBIUEpjSkFmeGp1MWh4NnhnNDIxd2gwSzRnQ3g0NzllQ3BEdDhPdlJraWtqa3NoRVpMNElqQ1Q3V3lmYzV1bm0tU1F4VlFrRFI2Y3NUYWoxanBmLUhsSG1NRXlGb2hLOTI3Wnc3MXY3Z3VGQnU5VzIwalljTTNCcG1oV1AzRzh2bXRpdDNOU192VnF2c2ctZlREYmpqWndoMmRFS255QXNvUUhKTGc?oc=5" target="_blank">Marvell to join S&amp;P 500 after AI boom helps chipmaker pass profitability test</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFTeVhDeGJPVmVhYzd6d0hJTXlPTE56LWlqLWI1N3pPMFB2dVNKOGZXZ0NuY05vbXFqcU5KRGJCU2JNUHhxRVRaRGh4V2Y5WEFwTlhDRGdkenZXVXNnalYwRmNnQm5fR29fQWRRZlNnRFVNc0Q2bENEbGhxZjdhWW04c1N6dVlkOHh4bF9BaVREaEhuaFI5NmZuQUQwSGEwQmZJRDNvN0ZydzNDV2hUSVVTVTZnbEVIWnBjOFI3ZUc?oc=5" target="_blank">Taiwan says Chinese coast guard, research ships near key S. China Sea islands</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Chip slump erases $1.3 trillion in stock market value - Reuters
+## Airline chiefs grapple with fuel shock, fare test at Rio summit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1dxeHpfT3VRaWg4NVg2eW5SMmxTNGgzY0x2azZFQ1ItdVlEZjlPQjVtNzdxRGNLYThRRi1MNTRyVmZkQkpCZ18yZzkwbVRvNlBsVUdjVGVLN1VBVVcwOTZfU0NHYzV1MjFlbHFVb3RfenhQUlFqbW9BUlUtZ1lWV3RFblNMdmg1RW13YlU0aG82ZWVTM2tHOV9BcGdGWE9qVWROM1hYTWZCX3lSTHV5V1VQVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGVwQ1pwQzkwRmFFMG1fZDJfSmhUMGZxbmRrR3NnRVUyanJPVFo4YUwxcVdnUDN5ai1WdjVHWEVUcUZVZmdBNzRfeml3OHlFQlE0eW1CeDIyZmVDdXhqNjlmVUtHTDJiM2ZuYWxSdlY0LWVhbVZweEZaSlp5b0RSd2JueVBMODBhUEFlNS15QzkyWWF6QjlmRDduRFI2S2FEcE9iUXdEa0tHdnZpcDNNRg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1dxeHpfT3VRaWg4NVg2eW5SMmxTNGgzY0x2azZFQ1ItdVlEZjlPQjVtNzdxRGNLYThRRi1MNTRyVmZkQkpCZ18yZzkwbVRvNlBsVUdjVGVLN1VBVVcwOTZfU0NHYzV1MjFlbHFVb3RfenhQUlFqbW9BUlUtZ1lWV3RFblNMdmg1RW13YlU0aG82ZWVTM2tHOV9BcGdGWE9qVWROM1hYTWZCX3lSTHV5V1VQVQ?oc=5" target="_blank">Chip slump erases $1.3 trillion in stock market value</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGVwQ1pwQzkwRmFFMG1fZDJfSmhUMGZxbmRrR3NnRVUyanJPVFo4YUwxcVdnUDN5ai1WdjVHWEVUcUZVZmdBNzRfeml3OHlFQlE0eW1CeDIyZmVDdXhqNjlmVUtHTDJiM2ZuYWxSdlY0LWVhbVZweEZaSlp5b0RSd2JueVBMODBhUEFlNS15QzkyWWF6QjlmRDduRFI2S2FEcE9iUXdEa0tHdnZpcDNNRg?oc=5" target="_blank">Airline chiefs grapple with fuel shock, fare test at Rio summit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Second Texas screwworm case confirmed as outbreak fears grow - Reuters
+## Shark attack kills man off Western Australia coast - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxOblFxdFc0MEJ5OVd2VXZpQm5MMEhRQzlwS2lWb042ZGx0SFRTb1o3NnZnRjU5STNPR3ZpMk9tQi03MXVjbFBOSWlSeEVLQ0NDWkZLek9ZWGVNVjV5YzVVWmpaNUdWYlZfSlFDYjd3VlRzcVdDZTZ0UVdyWEc0alFVZEtGOVd6Z25fSENsLWdUV3FIR2lsR1Fxd0RFYm5iSEhGbVNyM3NDMl9yWXN2QVhhWWVhZUlmRmpxZmZuRWdLbGF0R1F1UUkzOUdR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTN2cExhaHZyTnZhRGlaS3phdFdFSU5aeTR6Vlk1cWtxYkN3Uk95NHNhc1pzaHZHUi1JcEowREE1SFYxRmJfTW1fU1NuWVBzcW9yUUlBNEpXNDF3T210MWE3dDRsSmxiWjZrTVpJQlU3SDB5U1ZiZTVra2hxcGFvR3Y0NmZaVUFudU1JR1VlUlFKY3dibm1CZXlDaU8tSnRqSlp2cThMcXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOblFxdFc0MEJ5OVd2VXZpQm5MMEhRQzlwS2lWb042ZGx0SFRTb1o3NnZnRjU5STNPR3ZpMk9tQi03MXVjbFBOSWlSeEVLQ0NDWkZLek9ZWGVNVjV5YzVVWmpaNUdWYlZfSlFDYjd3VlRzcVdDZTZ0UVdyWEc0alFVZEtGOVd6Z25fSENsLWdUV3FIR2lsR1Fxd0RFYm5iSEhGbVNyM3NDMl9yWXN2QVhhWWVhZUlmRmpxZmZuRWdLbGF0R1F1UUkzOUdR?oc=5" target="_blank">Second Texas screwworm case confirmed as outbreak fears grow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTN2cExhaHZyTnZhRGlaS3phdFdFSU5aeTR6Vlk1cWtxYkN3Uk95NHNhc1pzaHZHUi1JcEowREE1SFYxRmJfTW1fU1NuWVBzcW9yUUlBNEpXNDF3T210MWE3dDRsSmxiWjZrTVpJQlU3SDB5U1ZiZTVra2hxcGFvR3Y0NmZaVUFudU1JR1VlUlFKY3dibm1CZXlDaU8tSnRqSlp2cThMcXc?oc=5" target="_blank">Shark attack kills man off Western Australia coast</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
