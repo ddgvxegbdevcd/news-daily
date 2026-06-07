@@ -1,68 +1,111 @@
 # 每日财经新闻
 
-更新时间：2026-06-07 04:27:35
+更新时间：2026-06-07 14:13:42
 
-## China’s PBOC Adds Gold Again as Bullion Remains Under Pressure
+## Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-06-07/china-s-pboc-adds-gold-again-as-bullion-remains-under-pressure
+链接：https://www.cnbc.com/2026/06/07/harrys-coterie-owner-mammoth-brands-growth-ipo-rumors.html
 
-正文长度：0
+正文长度：18126
 
-摘要：China’s central bank extended its gold-buying streak in May, adding to holdings as prices of the precious metal remained under pressure.
+摘要：Mammoth's direct-to-consumer brands have helped upend the razor, diaper and deodorant categories.
 
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
----
+> Mammoth Brands wants to take on traditional consumer packaged goods companies, armed with a portfolio of disruptors in the personal and baby care categories that have won over consumers and retailers alike.
+For the last decade, upstarts like those owned by Mammoth have challenged the relevance and longstanding dominance of legacy giants like Procter & Gamble, Unilever and Kimberly-Clark. The trend has also played out across packaged food and beverage companies, like Poppi and Olipop taking on Coca-Cola and PepsiCo. Consumers' loyalty no longer draws on just brand recognition. Newcomers can offer shoppers something different: better prices, higher quality or fewer ingredients that scare them.
+"A lot of these companies call these smaller brands 'ankle biters' — tells you exactly what you need to know about how they view the threat," said Nik Modi, co-head of global consumer and retailer research for RBC Capital Markets. "But I think that they're taking it a lot more seriously. I think it's gotten to a tipping point."
+With brands like Harry's razors, Lume Deodorant and Coterie diapers, Mammoth is reshaping the consumer goods landscape, and it has ambitious plans.
+"We're trying to build a leading modern [consumer packaged goods] company, like if Procter & Gamble and Unilever were getting built today," Mammoth co-founder and co-CEO Andy Katz-Mayfield told CNBC.
+In 2024, Mammoth saw revenue of $835 million and almost $100 million in adjusted earnings before interest, taxes, depreciation and amortization, according to a statement from the company. While legacy consumer giants still dwarf the company with their tens of billions of dollars in annual revenue, Mammoth said it has seen a greater than 20% revenue compound annual growth rate over the prior five years through 2024.
+Soon, a wider swath of investors could bet on the company's vision. Mammoth is weighing an initial public offering as soon as the second half of this year, according to a Bloomberg report.
+"Today, our private company, we make money, which is great, and we have opportunity to continue to invest in the brands in our portfolio," said Mammoth's other co-founder and co-CEO Jeff Raider. "We'll continue to evaluate the right capital structure for the business over time to enable us to achieve that long-term outcome."
+In the meantime, Mammoth seems focused on challenging existing CPG giants.
+From start-up to Mammoth
+The early seeds of Mammoth began in 2013, when Katz-Mayfield and Raider founded Harry's. Katz-Mayfield came up with the idea for the startup based on his frustration with the status quo of buying $20 replacement razor blades.
+"I called up Jeff," Katz-Mayfield said. "We decided to build a men's grooming brand that was a really high quality product at great value, a better overall experience, online led, and I really do think that's really at the core of everything that guides Mammoth Brands."
+Katz-Mayfield and Raider had previously worked together at Charlesbank Capital Partners and Bain & Company. Before founding Harry's, Raider co-founded Warby Parker.
+Like the glasses startup, Harry's began online, becoming another disruptor during the era of direct-to-consumer brands. By 2016, it had gained enough customers to land on Target shelves.
+Harry's DTC origins allowed it to tweak its razors and win over customers who were previously loyal to the traditional grooming giants.
+Its DTC operating model also helped underscore who the company views as its core customer: the shopper. But traditional CPG companies typically view retailers as their customer, not the person that eventually buys and uses their products.
+That perspective influences those companies' innovation strategies, according to Katz-Mayfield. For example, a CPG company could make a few small tweaks to create a new SKU, or stock keeping unit, to replace an underperforming product SKU, allowing that brand to hold onto its existing shelf space and placate its retail customer, according to Katz-Mayfield.
+"It's not that some of those brands aren't great and some of those products aren't great, but ... the innovation was driven by a strategy which is, the only way we can grow is to increase prices, and so on," Katz-Mayfield said. "The only way we can justify price increases is to add bells and whistles that consumers don't actually want."
+Harry's made its way to more retailers after Target. The brand stuck to its DTC roots though, insisting on launching new products online first to get feedback from loyal customers.
+In 2018, Harry's launched Flamingo, a women's shaving and body care brand with the same ethos.
+Then the legacy giants came knocking.
+In 2019, Schick owner Edgewell Personal Care announced it was buying Harry's for $1.37 billion. Three years earlier, Unilever had bought Dollar Shave Club, another razor disruptor, for $1 billion. (In 2023, Unilever sold the razor brand to a private equity firm.)
+Edgewell offered Harry's the chance to use its expertise in the direct-to-consumer business model and apply it to the company's brands, according to Raider. But the Federal Trade Commission sued to block the deal on antitrust grounds, which led Edgewell to walk away from the acquisition.
+Still, Katz-Mayfield and Raider held onto their vision of helping other brands achieve success.
+"The barriers to starting a brand are lower than they've ever been," Katz-Mayfield said. "Our perspective is that really scaling and maintaining these brands is still really hard."
+Harry's created an incubator lab, launching cat care brand Cat Person and haircare brand Headquarters. It has since sold Cat Person to Weruva and wound down Headquarters, teaching the Harry's team the value of staying more focused on what it considers core personal care categories.
+Harry's Labs also invested in the seed round of Hims, but has since sold its minority stake.
+"Investing is not really part of the strategy," Katz-Mayfield said. "We did that at the time as we were testing and learning how we're going to build the platform. It was a great outcome for us, because [Hims] had a lot of success and the investment was worth a lot."
+In 2021, the company bought Lume Deodorant, which sells sticks, tubes and spray that can be used all over the body. The brand is widely credited with establishing the whole-body deodorant segment. Within two years of the deal, Lume's sales had more than doubled, according to Mammoth.
+The Lume acquisition helped Mammoth learn more about selling on Amazon, where the brand had more experience than Harry's and Flamingo did, according to Katz-Mayfield.
+Building off of the Lume acquisition, Harry's launched Mando deodorants in late 2022, marketing the same concept to men.
+In April 2025, Harry's Labs officially rebranded as Mammoth Brands. And its next acquisition further demonstrated its desire to be the next big CPG company.
+Growing with a baby business
+In late 2025, Mammoth bought Coterie, a high-end diaper brand founded in 2019 with celebrity investors like Karlie Kloss and Ashley Graham.
+The deal was reportedly valued at over $1 billion and involved a mix of cash and stock. Mammoth said in October that Coterie surpassed $200 million in net revenue over the previous 12 months, a nearly 60% jump from the prior-year period.
+Coterie's premium diapers can cost as much as $1 per unit, a steep price for some parents. But the brand has found many consumers are willing to pay more for the product, which promises high absorbency without added fragrance, latex, rubber, parabens, pesticides or chlorine bleaching. Coterie has been "very profitable" over the last three years, according to the brand's CEO Jess Jacobs.
+"Seventy-four percent of parents are willing to pay more for better-for-you products," she told CNBC. "Parents are looking for better and deserve better, and they're questioning the status quo, just like we are as a brand and as a company."
+Forty-three percent of the brand's new customers come from word of mouth alone, according to Coterie.
+Under Mammoth, Coterie now has the advantages of being a part of a bigger company; it can learn from e-commerce strategies for Amazon that currently work for Mammoth's brands. As Coterie broadens its retail exposure beyond higher-end grocers like Whole Foods and Erewhon, Mammoth can introduce it to more retailers. And diapers are complicated to manufacture, so Mammoth can help support that process as Coterie continues to create innovate on its diapers.
+For example, Coterie is currently in talks to add more retail partners. And Mammoth sees bigger potential for the brand, too.
+"Coterie is a brand that can really extend across baby care," Katz-Mayfield said. "It's not just a diaper brand."
+But Coterie's success has caught the attention of legacy players, who are eager to adapt some of the upstart's playbook.
+Threat to legacy players
+For decades, a handful of companies have dominated the household goods and family and personal care categories. Their portfolios are chock-full of iconic brands used every day by Americans, and their histories often stretch back more than a century.
+In 1837, soap maker James Gamble and candlemaker William Procter became business partners, creating the company that still carries their names today.
+Originally founded as a paper mill company in 1872, Kimberly-Clark now owns a host of brands like Kleenex, Huggies and Cottonelle. It went public nearly a century ago.
+In 1930, a merger between a Dutch margarine producer and a British soap maker gave birth to Unilever.
+While those massive companies competed with each other, it was nearly impossible for a newcomer to gain a foothold in their well-established categories. For a nascent company, launching a new product was pricey and difficult, as legacy brands held onto their shelf space with a death grip and retailers were reluctant to take a chance.
+But over the last decade, these consumer giants have faced a new threat from upstarts.
+"We are really seeing competition in CPG has fundamentally intensified, and it's coming everywhere," said Sally Lyons Wyatt, chief advisor for Circana's consumer goods and foodservice insights division. "Small manufacturers are gaining share. Digital and social platforms are lowering the barrier for entry for a lot of these smaller brands."
+The rise of e-commerce meant launching a new consumer packaged good was not the daunting task it used to be. A successful direct-to-consumer business often leads retailers to come knocking on the newcomers' doors.
+"The big retailers have also made the case that they want these culturally relevant brands in their stores to bring in consumers," RBC Capital Markets' Modi said.
+And social media has also transformed how consumers think about what products to buy.
+"Cultural relevance is now equal to or superseded brand equity," Modi said. "If you think about it, most of the big brands are not losing share to other big brands. They're losing share to the smaller disruptive brands."
+Look no further than diapers, a $5.43 billion market in the U.S., according to Euromonitor International data.
+In Procter & Gamble's fiscal second quarter, which ended in December, its U.S. diaper volume shrank 2%. Its Pampers had fallen to second place in U.S. diaper sales, trailing Kimberly-Clark's Huggies for the first time since 2021, according to Euromonitor data.
+"I don't want to gloss over the fact that we have work to do to recover share," P&G CFO Andre Schulten told analysts on the company's earnings conference call in January.
+While Coterie is growing fast, it remains a much smaller diaper brand than Huggies and Pampers. Still, it looks like P&G has taken note of its success.
+P&G had challenged Coterie's claim that its diapers were up to four times more absorbent than leading brands. A year ago, the Better Business Bureau's National Programs' National Advertising Division recommended that Coterie stop using the claim, which the diaper brand followed.
+In March, P&G launched Pampers Amore, a line of premium diapers that it touts as "microbiome compatible" and "hypoallergenic." Most tellingly, the line's own packaging directly pits it against Coterie; it claims that its liner keeps babies three times drier than Coterie.
+"The reality is, they are chasing something that is already gone," Coterie's Jacobs said. "We carved out that premium category, we've grown it. It's growing 20% since 2020 and 10% year over year. And they're late. So it's a question of, can they move faster? Can they be more nimble, and can they get ahead? And the reality is, at this point, and certainly in diaper, it does not seem like they can."
+Jacobs estimates that Coterie is roughly 18 months ahead of legacy diaper brands.
+But CPG giants still have some advantages, according to Modi. For example, the war with Iran is complicating supply chains for key components like packaging materials. While still a headache for legacy brands, they are able to navigate the challenge more nimbly thanks to their size and bargaining power.
+And then there is innovation. Modi said that he thinks that big brands still have better research and development teams, which should help them create the best product possible.
+And Kimberly-Clark's exposure to the very competitive Asian diaper market is fueling its innovation, CEO Michael Hsu said that Barclays Americas Select Conference in May.
+"We're going to go through these trial cycles where people are going to try these new things, and they're like 'Yeah, maybe I don't like this as much,'" Modi said. "And they start switching back to some of the bigger brands where the products actually work."
+Rather than trying to beat them, some legacy players have decided to join the upstarts instead. Procter & Gamble bought Native deodorant for $100 million and turned it into one of the company's dozens of billion dollar brands, by Modi's estimate. Unilever has snapped up a number of challenger brands, like Gruns, the DTC supplement gummy brand, and Squatch, which sells personal care products aimed at men.
+But those deals aren't always a success for the buyer — or the seller. Sometimes their corporate cultures don't mesh, or the new owner does not know how to incubate a smaller brand, according to Modi.
+For many legacy players, Modi thinks that the best strategy is to create new brands, rather than trying to bring existing lines up to speed.
+"It's about how quickly they can move and how willing they are to be patient and develop a brand," Modi said, adding that many companies lack the willingness to wait for a small brand to grow into one worth $1 billion.
+Becoming a giant?
+For its part, Mammoth is trying to prove itself as the kind of company with the ability to help upstarts become personal care powerhouses.
+"We would rather have a small portfolio of large brands than a large portfolio of small brands," Katz-Mayfield said.
+Going forward, he and Raider want to add more brands in what they call the "everyday care and wellness" categories. They are looking to add more products to their portfolio that are in "consumable consumer categories," barring human food and beverages.
+"We're really dogmatic about some of these things that we would never do M&A just to do M&A and buy scale and growth, because we're not trying to flip these things. We're trying to own them forever," Katz-Mayfield said.
+Unlike traditional consumer goods companies, Mammoth is less focused on entering specific categories to complement its overall portfolio and instead more interested in customer retention and its growth prospects across e-commerce and brick-and-mortar retail, according to Katz-Mayfield.
+"We have to believe that something is online-led but has big omnichannel potential," he said. "It can be a big $200, $300 million-plus brand because that's where we're going to add the most value, helping those brands scale on that journey."
+Mammoth has a team that tracks new brands, starting when they begin to gain traction on social media or Amazon. But every potential acquisition is likely also getting attention from legacy CPG companies or venture capital and private equity firms.
+To founders, Mammoth gives its pitch as an owner that offers independence and autonomy, with the infrastructure and corporate support that can introduce upstarts to big retailers like Target. Mammoth also wants the founders and executive teams to stay on for a while.
+"We kind of view ourselves as a little of a Goldilocks," Katz-Mayfield said.
+And a new acquisition is likely coming to Mammoth sooner rather than later. The company is primarily focused on growing its portfolio through dealmaking, according to Katz-Mayfield.
+"For us, I think like one or two deals a year is probably the right pace," he said, adding that he believes that Mammoth will have portfolio of eight to 10 brands within the next three or four years.
+For all the focus on M&A, innovation hasn't stopped at Mammoth's existing brands. For example, Harry's has been expanding its range of skincare for men.
+"The way we think about it, these brands are still pretty early in their journey," Katz-Mayfield said. "They all have tremendous potential."
+Mammoth still launches new products online first, demonstrating the company's continued belief in the DTC business model, despite rumors of its demise. About half of Mammoth's revenue still comes from online sales, according to the company.
+"I think DTC is the single greatest place on the planet to build products and brands," Raider said.
+But the buzziest news for Mammoth will likely be its initial public offering, although the co-CEOs played coy about those potential plans.
+"Don't know where that came from," Katz-Mayfield said when asked about the Bloomberg report about a potential IPO as soon as this year that identified four banks reportedly working on the deal.
+"We're fortunate that we make money as a company, and we're able to use some of that cash flow," he added. "We've always been sort of more agnostic to what the structure is, but we certainly want a set up that allows us to have access to capital, whether that's privately or publicly, at some point in the future to pursue that strategy."
 
-## Malaysian Police Finish Probe Into Ex Anti-Graft Chief, NST Says
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-07/malaysian-police-finish-probe-into-ex-anti-graft-chief-nst-says
-
-正文长度：0
-
-摘要：Malaysian police have completed a probe into two cases involving former anti-graft chief Azam Baki and referred the matter to the Attorney-General’s Chambers, according to the New Straits Times.
-
-
----
-
-## World’s Hottest Market Has Korea Bulls Reaching for Protection
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-07/world-s-hottest-market-korea-has-bulls-reaching-for-protection
-
-正文长度：0
-
-摘要：A wave of optimism over South Korean stocks is giving way to growing caution, as some investors hedge positions and pare back crowded trades on concerns that the rally has run too hot, too fast.
-
-
----
-
-## Delta President on Middle East Flights & Premium Travel
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-06/delta-president-on-middle-east-flights-premium-travel
-
-正文长度：0
-
-摘要：Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on Middle East, Rhiad flights and premium travel.  (Source: Bloomberg)
-
-
----
-
-## Delta's Peter Carter on Consumer Premium Travel Appetite
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-06/delta-s-peter-carter-on-consumer-premium-travel-appetite-video
-
-正文长度：0
-
-摘要：Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on consumers "insatiable appetite" for premium travel. (Source: Bloomberg)
+</details>
 
 
 ---
@@ -201,180 +244,132 @@ Adelman told CNBC that some teams in his portfolio use PlayerData products. Crys
 
 ---
 
-## Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html
-
-正文长度：7318
-
-摘要：Lululemon is expecting its situation to get a lot worse before it gets better, as it issued weak guidance for the full year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Lululemon's troubles are far from over.
-The athletic apparel retailer lowered its full-year guidance and issued a weak current-quarter outlook on Thursday as interim CEO Meghan Frank blamed "negative commentary in the media" and recent product launches that failed to wow shoppers.
-"We experienced spikes of negative commentary in the media and on social channels with regard to our brand, which had an impact on traffic and overall top line performance," Frank told analysts during the company's earnings call while explaining why the company's performance declined at the end of its fiscal first quarter. "And second, not all of our product launches have met our expectations. While we've had several successful launches so far this year, we've seen others as we start Q2 not generate the anticipated guest response."
-When pressed on what specific negative commentary led to a decline in sales, Frank pointed to Lululemon's proxy contest with founder Chip Wilson, who was outspoken in his criticism of the brand, as well as "questions about the composition" of some of its products.
-"These stories have died down and subsided," said Frank. "But we have not yet seen a return to our pre-disruption ... trends."
-She said the company is "not sitting still" and is "moving with urgency to make the necessary adjustments to reaccelerate momentum, particularly in North America."
-The company's shares dropped 11% in extended trading following the report. Lululemon's stock has plunged about 40% this year as of Thursday's close.
-Lululemon is now expecting fiscal 2026 sales to be between $11 billion and $11.15 billion, down from a previous range of between $11.35 billion and $11.50 billion. Analysts were expecting full-year sales of $11.48 billion, according to LSEG.
-Lululemon also cut its earnings guidance by more than $1 per share. It's now expecting earnings per share to be between $10.95 and $11.15 for the year, down from a previous range of $12.10 to $12.30. Analysts were expecting $12.30 per share, according to LSEG.
-The current quarter doesn't look much better. Lululemon is expecting sales to be between $2.45 billion and $2.48 billion, below expectations of $2.60 billion, according to LSEG. It's expecting earnings per share to be between $1.76 and $1.81, well below expectations of $2.68, according to LSEG.
-While Lululemon's guidance failed to meet forecasts, it did beat expectations on the top and bottom lines during its fiscal first quarter, albeit on expectations that have come down significantly since the retailer last reported earnings. Here's how the company performed compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
-- Earnings per share: $1.69 vs. $1.68 expected
-- Revenue: $2.47 billion vs. $2.43 billion expected
-The company's reported net income for the three-month period that ended May 3 was $195 million, or $1.69 per share, compared with $314.6 million, or $2.60 per share, a year earlier.
-Sales rose to $2.47 billion, up about 4% from $2.37 billion a year earlier. Comparable sales grew 1%, better than expectations of 0.4%, according to LSEG.
-Lululemon's woes have been centered on the Americas, its largest and most important region. During the quarter, comparable sales fell 5% in the market, marking the fifth straight quarter of declines. Lululemon's overall business is still growing, but it has primarily seen that expansion in China and in other international regions, which make up a fraction of overall revenue.
-During the quarter, international sales grew 22% while international comparable sales grew 13%.
-Lululemon said it expects its declines in North America to continue. It anticipates sales will fall by a low-double digit percentage in the current quarter and by a high-single digit percentage for the full year. Meanwhile, it expects China sales will rise by a mid-to-high teens percentage during the current quarter and by about 20% for the full year.
-Sales have been a sore spot for Lululemon, but profitability has been an even larger challenge. During the quarter, gross margin decreased a staggering 4.1 percentage points to 54.2%, worse than expectations of 54.6%, according to StreetAccount. The company was a large beneficiary of the now defunct de minimis exemption, which allowed it to ship packages duty free across the Canadian border into the U.S., and has also been hit hard by tariffs.
-With fewer people coming to its stores and website to buy workout clothes, the company has also leaned more on discounting to drive sales, which has hurt its bottom line and its reputation as a premium brand.
-It's also spent the last six months in a dramatic proxy contest with its founder, which was costly and took management's attention away from its turnaround.
-In addition to all of those struggles, Lululemon, like everyone else, has also had to contend with a new conflict in the Middle East and surging gas prices, which are also increasing costs.
-The company said the decline in its gross margin during the quarter was primarily attributable to tariffs, which impacted margins by 2.8 percentage points, and discounts, which grew 0.4 percentage points. The company expects gross margin to fall by another 4.1 percentage points during the current quarter, driven by higher tariffs and store investments. It anticipates markdowns will be 0.5 percentage points higher.
-"While we continue to expect markdowns to improve modestly year over year in the second half," said Frank. "The slower expected top line trends in Q2 will necessitate additional seasonal clearance."
-Lululemon expects its profitability challenges will moderate in the back half of the year. For the full year, the company anticipates gross margin will fall 0.9 percentage points, with markdowns flat to slightly higher. On a full-year basis, Lululemon expects to offset nearly all of its tariff impact, Frank said.
-In the three months since Lululemon last reported earnings, its made some progress on addressing some of its challenges. It hired longtime Nike veteran Heidi O'Neill to be its next CEO and settled its proxy battle with its founder. Investors are likely to be relieved Lululemon's management team no longer has to put its focus and cash behind the proxy contest, but some are still feeling sour over O'Neill's appointment, particularly because she won't be able to start until September.
-Under the direction of two interim CEOs, CFO Frank and Chief Commercial Officer André Maestrini, Lululemon has been working to rebuild its product assortment and address its domestic growth challenge. But the real strategy changes won't come until O'Neill starts.
-Given how long it takes for Lululemon to get from product idea to market, there's concern that it'll take even longer than expected to fix the challenges that have been weighing on its business.
-Still, Lululemon has contended that O'Neill is the right person for the job. While at Nike, O'Neill established and built Nike's women's business and grew it into a multibillion-dollar franchise. She also worked to reduce product lead times – experience that will serve her as Lululemon's chief executive. Already, the company has made progress in reducing lead times from 18-to-24 months to 15-to-16 months and is working to further bring it down to between 12 and 14 months, Frank said.
-
-</details>
-
-
----
-
-## One billion pints: beer giants prepare for booziest World Cup in history - Financial Times
+## Voters sour on Trump’s handling of inflation and grocery prices — FT poll - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2QtT18yQWl1MUduT1Y2OExBYU5zMDg4UW04UXJ5WkJXMUxmRjNWaUZaWnZVU1o1V0tmTlZHeXRFUzJGbl9DQ25MZXcyMlhSX1BTSkUwRzVxbEdWZkpnbEpSZmpFckJNRWZ1d0dVQUstTjFTSmVNSGQ4MjNjbWppWHZXaU0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2QtT18yQWl1MUduT1Y2OExBYU5zMDg4UW04UXJ5WkJXMUxmRjNWaUZaWnZVU1o1V0tmTlZHeXRFUzJGbl9DQ25MZXcyMlhSX1BTSkUwRzVxbEdWZkpnbEpSZmpFckJNRWZ1d0dVQUstTjFTSmVNSGQ4MjNjbWppWHZXaU0?oc=5" target="_blank">One billion pints: beer giants prepare for booziest World Cup in history</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5" target="_blank">Voters sour on Trump’s handling of inflation and grocery prices — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Why bother with university? - Financial Times
+## OpenAI plots biggest ChatGPT overhaul since launch - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHFDQTFjeXdQVHA2NGhoVE9QRjdkWVo0RlVfMlg1OVI3RXhSbFBWVXBzQmJwT2hxXzZKSnhMQjdQbjRLRTM3eGFyRjdHYmd0OEcwUU13NXJQRXhhcjdBRzRiWS1NRkpFV1hrN2h3MG1aZUZQd1dhLXlQY2pwMjE1MkN6Qkc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHFDQTFjeXdQVHA2NGhoVE9QRjdkWVo0RlVfMlg1OVI3RXhSbFBWVXBzQmJwT2hxXzZKSnhMQjdQbjRLRTM3eGFyRjdHYmd0OEcwUU13NXJQRXhhcjdBRzRiWS1NRkpFV1hrN2h3MG1aZUZQd1dhLXlQY2pwMjE1MkN6Qkc?oc=5" target="_blank">Why bother with university?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5" target="_blank">OpenAI plots biggest ChatGPT overhaul since launch</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chart of the Week: Pricing the oil inventory drawdown - Financial Times
+## US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmM1Qkx2bXljbU5IUEtCQ3JuVmo1aFRCOWpwR3E3QzQwX21qMktlWEhfTTV6a19aZWJLTi01N0V5SGZXT1ZSRlZVYkcyV2txWklZdENhUDcxNVFUbkVYYUpnczVoTk5MeTVDem5wb3NhdnpiYS1iNWl2UHBBV2lJVklpU1A?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmpJNXZQT1ZPcXdOaGxHaEx0eDFocjZJOFFfWTVCN1huaXliRTVmZDRIbko0Z2tDWW5uOGRQcmw0TG9oNUpsSlhhZkN1N3pPSUNZd1hHeWZEUlJGcWMzN2RRNzc0VXZqQUJNX1hacVYxOFJSb2RwWEE3WDRob200RXNpRU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmM1Qkx2bXljbU5IUEtCQ3JuVmo1aFRCOWpwR3E3QzQwX21qMktlWEhfTTV6a19aZWJLTi01N0V5SGZXT1ZSRlZVYkcyV2txWklZdENhUDcxNVFUbkVYYUpnczVoTk5MeTVDem5wb3NhdnpiYS1iNWl2UHBBV2lJVklpU1A?oc=5" target="_blank">Chart of the Week: Pricing the oil inventory drawdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmpJNXZQT1ZPcXdOaGxHaEx0eDFocjZJOFFfWTVCN1huaXliRTVmZDRIbko0Z2tDWW5uOGRQcmw0TG9oNUpsSlhhZkN1N3pPSUNZd1hHeWZEUlJGcWMzN2RRNzc0VXZqQUJNX1hacVYxOFJSb2RwWEE3WDRob200RXNpRU8?oc=5" target="_blank">US weighs using Iranian assets to compensate Gulf allies for war damage</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Wasting China’s solar panel surplus is madness - Financial Times
+## Britain’s questionable reliance on Palantir - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZR01DNFdFLVdRcmo5eGh5d01ja2xIaC0zUVd1NUgyUENfcHFHaE5rM3F0R1BXVTZ5SlFOdkdCSGY3bGlDVTQ3WnlVS0twTlUxRkdiOF9ZU0ZrUVdZNWhNdXNkVHo2eFh0a2NXemFITGk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVIzaUJmam91Uk83OFdlNnpUaTFTLTQyWnVNR3cyVERsX3pZR1NIb1lNMjBfTVE0d0VKQl9Xc2dpT2FmOVIwRjF0aTlBdUg1MzZYYTVzNmlSTnZJTWs5MHdZVnMwSUpsMngyWGtmYUcxQktBekU1ZE5xNWZzZHM5V1RUdU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZR01DNFdFLVdRcmo5eGh5d01ja2xIaC0zUVd1NUgyUENfcHFHaE5rM3F0R1BXVTZ5SlFOdkdCSGY3bGlDVTQ3WnlVS0twTlUxRkdiOF9ZU0ZrUVdZNWhNdXNkVHo2eFh0a2NXemFITGk?oc=5" target="_blank">Wasting China’s solar panel surplus is madness</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVIzaUJmam91Uk83OFdlNnpUaTFTLTQyWnVNR3cyVERsX3pZR1NIb1lNMjBfTVE0d0VKQl9Xc2dpT2FmOVIwRjF0aTlBdUg1MzZYYTVzNmlSTnZJTWs5MHdZVnMwSUpsMngyWGtmYUcxQktBekU1ZE5xNWZzZHM5V1RUdU0?oc=5" target="_blank">Britain’s questionable reliance on Palantir</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX signs $30bn deal to lease computing capacity to Google - Financial Times
+## What we know about the plan to give Americans an equity stake in AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWR6MFoxRE5mM3ZDV1lITGFxbEkxQ0hhVE1HUHk5bkh6LWtkZTN0SzRyODkwZmRnNGhFWWtXTDk5cVFSNkZmdWg1Ri0xdURRaGVvZXA0bldLdzcxUHZIWk1LWGY1QVMxZXZzTTJGXzR4ZnN5V1kxOFpNM2xUNC1Xa1pyTmk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhrYmRVMnB0V3cxYVh1em1oUjZ2bHVXWDIzWHN3VnE0RW9HeTczcVdNMjVyT1ZXVERQOGVIZ21lS1BIVVJFdnFGbmNnQmtUS0Q3N2dqU3RoWnhuSC1Sc1FUd045OENqRHg5LUYyLWJjbUNNbjRvZjVWRTNPMEFCS3p2X1Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWR6MFoxRE5mM3ZDV1lITGFxbEkxQ0hhVE1HUHk5bkh6LWtkZTN0SzRyODkwZmRnNGhFWWtXTDk5cVFSNkZmdWg1Ri0xdURRaGVvZXA0bldLdzcxUHZIWk1LWGY1QVMxZXZzTTJGXzR4ZnN5V1kxOFpNM2xUNC1Xa1pyTmk?oc=5" target="_blank">SpaceX signs $30bn deal to lease computing capacity to Google</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhrYmRVMnB0V3cxYVh1em1oUjZ2bHVXWDIzWHN3VnE0RW9HeTczcVdNMjVyT1ZXVERQOGVIZ21lS1BIVVJFdnFGbmNnQmtUS0Q3N2dqU3RoWnhuSC1Sc1FUd045OENqRHg5LUYyLWJjbUNNbjRvZjVWRTNPMEFCS3p2X1Y?oc=5" target="_blank">What we know about the plan to give Americans an equity stake in AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Hollywood workers rally against Paramount-Skydance deal - Reuters
+## Israeli military has struck 'terrorist' headquarters in Beirut, government says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRNOF9IOTBGTTNROTFvRm1hSlYxcE5DYlJ5b0VteXFzdkV6TTN6ano0SDRydm1QSGpCQ0RRaUxGV2s5cTJlNHZrR0tLWUpKaWF0YjlmaVdfZ25LTEFwZThCZm4tcHpfckFKdnhSMkdqMEhyODlueGhuOThiQnlDemdPak5UbXo3WWoxNmh2aVZNZV95U1Z4VUFwS0VUYThDaG8zampCbERoYUFlWU5Hemw5bDk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRNOF9IOTBGTTNROTFvRm1hSlYxcE5DYlJ5b0VteXFzdkV6TTN6ano0SDRydm1QSGpCQ0RRaUxGV2s5cTJlNHZrR0tLWUpKaWF0YjlmaVdfZ25LTEFwZThCZm4tcHpfckFKdnhSMkdqMEhyODlueGhuOThiQnlDemdPak5UbXo3WWoxNmh2aVZNZV95U1Z4VUFwS0VUYThDaG8zampCbERoYUFlWU5Hemw5bDk?oc=5" target="_blank">Hollywood workers rally against Paramount-Skydance deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5" target="_blank">Israeli military has struck 'terrorist' headquarters in Beirut, government says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US eyes Iranian assets for Gulf allies' reconstruction, source says - Reuters
+## US resolution draft at IAEA demands Iran open up on sites, uranium stocks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5" target="_blank">US eyes Iranian assets for Gulf allies' reconstruction, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5" target="_blank">US resolution draft at IAEA demands Iran open up on sites, uranium stocks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea reaffirms nuclear status a day before Chinese president's visit - Reuters
+## US Supreme Court poised to rule on gun laws and transgender athletes - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjIxc3JQdWJBUHNieVRPZjF0RUlyZjBBdVJjSFNrdEVJRTEwakEydDJjaEtNc0d6WE5BY3JhbkE5ZXlvc3ZkYUxzVW8tQzhoSklGNE9jMmZEcnk3dU1lZ0prd3ZBc2VqUGMtdlN2eUNVVFlvSkd0OHR4RlBvb05oaE9DbkRFT2JMaGVjQzRoTWYtcmdIdWM5TEJ4c3NicFFzZG5YdjVzODFJeUZ1TDR2d1otbVF4YXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEd2QWRlYk9ZaFZVU3ZGZnVoRXQxbkQzT0hpVHJhZjRHNVFmSWlNWkw3d2FYX0FsT3dfSzRIdUVxenpXYXZrLUdjcFBaRXdGd2JCbW93TFEzbTdNTWl4aVhxclVGYzBwdndGcFNkU3hld2NYWGRKc0JGSlBDOEVhS0ZremVLY21CLThBSUpKU3lWeTJYWlVyeG5FZGtKa0d5UlJCc0hOd2ZTQ21ORnRlSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjIxc3JQdWJBUHNieVRPZjF0RUlyZjBBdVJjSFNrdEVJRTEwakEydDJjaEtNc0d6WE5BY3JhbkE5ZXlvc3ZkYUxzVW8tQzhoSklGNE9jMmZEcnk3dU1lZ0prd3ZBc2VqUGMtdlN2eUNVVFlvSkd0OHR4RlBvb05oaE9DbkRFT2JMaGVjQzRoTWYtcmdIdWM5TEJ4c3NicFFzZG5YdjVzODFJeUZ1TDR2d1otbVF4YXM?oc=5" target="_blank">North Korea reaffirms nuclear status a day before Chinese president's visit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEd2QWRlYk9ZaFZVU3ZGZnVoRXQxbkQzT0hpVHJhZjRHNVFmSWlNWkw3d2FYX0FsT3dfSzRIdUVxenpXYXZrLUdjcFBaRXdGd2JCbW93TFEzbTdNTWl4aVhxclVGYzBwdndGcFNkU3hld2NYWGRKc0JGSlBDOEVhS0ZremVLY21CLThBSUpKU3lWeTJYWlVyeG5FZGtKa0d5UlJCc0hOd2ZTQ21ORnRlSQ?oc=5" target="_blank">US Supreme Court poised to rule on gun laws and transgender athletes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Missing US student found dead near Kyoto, Japan, mother says - Reuters
+## US troops, families adjust to new normal of Iran war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5vaklCN09yUjlLcEpjbTRuWnFxQkYzODBHZVA2S1JKU0ZESG11bndTdDQ0eDAwLXVUTWV5ZWtfTGtHaF9OZlM0MEx0YlRXU3MtVzAzZTBQRTF0VFNpLTA2amdWSkpKY2lLSEl2ZExVNVFaWFJaSWRNb29IUjZqMDhtZWU2M0NaSS1wTVNNbHFuZVBrNkNPRVg2dUJCZ05aRDR6eER3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5vaklCN09yUjlLcEpjbTRuWnFxQkYzODBHZVA2S1JKU0ZESG11bndTdDQ0eDAwLXVUTWV5ZWtfTGtHaF9OZlM0MEx0YlRXU3MtVzAzZTBQRTF0VFNpLTA2amdWSkpKY2lLSEl2ZExVNVFaWFJaSWRNb29IUjZqMDhtZWU2M0NaSS1wTVNNbHFuZVBrNkNPRVg2dUJCZ05aRDR6eER3?oc=5" target="_blank">Missing US student found dead near Kyoto, Japan, mother says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5" target="_blank">US troops, families adjust to new normal of Iran war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## France, allies eye national measures to pressure Israel over West Bank, diplomats say - Reuters
+## Gunman kills one, wounds five in drive-by attacks in Israel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1llRldYSEJqbHNldGlsTlg3WkFPY25fRG9sckxQR25PdFAtbWRIWkdDUXdIZXFrekF4TjVDeUF3NldFeDVuTG5YOGtWc3VVX0Z1SmZ2bTZJS0lOWVhEUEVqemNrVDlZbnUwNFFDMFVYTU1VajhZWGR2UUUxWTJUY0x3VlZtWlJkc0FJQVdueTZlcEE0RFN4MHJldC1LZzc4VlVxbjZLaTlna011QjZpaWN5aEFDMFBiNzNNQUtCUXRqOUt5ZmMwcWZUVmE0dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1llRldYSEJqbHNldGlsTlg3WkFPY25fRG9sckxQR25PdFAtbWRIWkdDUXdIZXFrekF4TjVDeUF3NldFeDVuTG5YOGtWc3VVX0Z1SmZ2bTZJS0lOWVhEUEVqemNrVDlZbnUwNFFDMFVYTU1VajhZWGR2UUUxWTJUY0x3VlZtWlJkc0FJQVdueTZlcEE0RFN4MHJldC1LZzc4VlVxbjZLaTlna011QjZpaWN5aEFDMFBiNzNNQUtCUXRqOUt5ZmMwcWZUVmE0dw?oc=5" target="_blank">France, allies eye national measures to pressure Israel over West Bank, diplomats say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5" target="_blank">Gunman kills one, wounds five in drive-by attacks in Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
