@@ -1,7 +1,57 @@
 {
-  "update_time": "2026-06-07 14:13:42",
-  "news_count": 15,
+  "update_time": "2026-06-08 04:43:21",
+  "news_count": 20,
   "news": [
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Danantara to Start US Bond Roadshow as Indonesia Rout Deepens",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/danantara-to-start-us-bond-roadshow-as-indonesia-rout-deepens",
+      "publish_time": "Mon, 08 Jun 2026 04:25:21 GMT",
+      "summary": "Indonesian sovereign wealth fund Danantara is poised to kick off the US leg of its planned dollar bond roadshow this week, as the nation’s policymakers step up efforts to halt a deepening selloff in the nation’s markets.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Goldman Sees Rupee Weakness Capped After Steps to Boost Inflows",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/goldman-sees-rupee-weakness-capped-after-steps-to-boost-inflows",
+      "publish_time": "Mon, 08 Jun 2026 04:21:06 GMT",
+      "summary": "The Indian rupee’s slide may be nearing a floor after authorities unveiled measures to boost foreign inflows, according to Goldman Sachs Group Inc.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "ECB Risks Repeating 2011 Mistake With Rate Hike, Economists Warn",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/ecb-risks-repeating-2011-mistake-with-rate-hike-economists-warn",
+      "publish_time": "Mon, 08 Jun 2026 04:15:00 GMT",
+      "summary": "The European Central Bank’s resolve to uphold its inflation-quashing reputation risks luring it into a damaging error when it meets this week, economists warn.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Indonesia Market Rout Deepens as Bonds, Currency, Stocks Slide",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/market-rout-puts-pressure-on-indonesia-to-deliver-concrete-steps",
+      "publish_time": "Sun, 07 Jun 2026 23:00:00 GMT",
+      "summary": "The rout in Indonesian markets deepened on Monday with the nation’s bonds, stocks and currency tumbling.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Stock Losses Build as AI Rally Cools, Oil Gains: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/us-stock-futures-drop-after-tech-selloff-oil-up-markets-wrap",
+      "publish_time": "Sun, 07 Jun 2026 22:07:28 GMT",
+      "summary": "Stocks and bonds dropped as investors faced a trio of headwinds with a pullback in the artificial-intelligence trade, mounting bets on a US interest rate hike and rising oil prices due to a worsening of the Middle East conflict.",
+      "content": "",
+      "content_length": 0
+    },
     {
       "source": "CNBC",
       "source_cn": "CNBC",
@@ -55,10 +105,40 @@
     {
       "source": "Financial Times",
       "source_cn": "金融时报",
+      "title": "Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnZ2bmE0OEdlcXM4bFdwX2JOU2ozeFpCblVGb0gzWGpEa0NQdE1NY18xcHF3UnBLZVM1S1o5V0dFSGx3elhCZEtxanNobUhyaUJadUxDYWlxYTJhREJnVE9Xbmgwc2IzbG0xMm9GWmdmdVI5dTRmMU9ZZGJESk5pZzY2T3Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sun, 07 Jun 2026 22:08:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnZ2bmE0OEdlcXM4bFdwX2JOU2ozeFpCblVGb0gzWGpEa0NQdE1NY18xcHF3UnBLZVM1S1o5V0dFSGx3elhCZEtxanNobUhyaUJadUxDYWlxYTJhREJnVE9Xbmgwc2IzbG0xMm9GWmdmdVI5dTRmMU9ZZGJESk5pZzY2T3Y?oc=5\" target=\"_blank\">Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
       "title": "Voters sour on Trump’s handling of inflation and grocery prices — FT poll - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publish_time": "Sun, 07 Jun 2026 10:00:04 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5\" target=\"_blank\">Voters sour on Trump’s handling of inflation and grocery prices — FT poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Zelenskyy used Abramovich to send message to Putin about peace talks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONFRTdUpIRHJUU1FpZ1ZldlFaTXJBS2k1enB4dUQ3QS0wTGY2bXlQeHRRVUtrT1UtSjFOTHBkdU4zMDI3alJnQTZMYzRKVEpoTDhoYlhtSDhONENhZFdLelBOUWNiYUVEdW9DbEJ3ckJCZ2c3RlgwajhnREp3YzZEcGtnNTY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sun, 07 Jun 2026 12:06:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONFRTdUpIRHJUU1FpZ1ZldlFaTXJBS2k1enB4dUQ3QS0wTGY2bXlQeHRRVUtrT1UtSjFOTHBkdU4zMDI3alJnQTZMYzRKVEpoTDhoYlhtSDhONENhZFdLelBOUWNiYUVEdW9DbEJ3ckJCZ2c3RlgwajhnREp3YzZEcGtnNTY?oc=5\" target=\"_blank\">Zelenskyy used Abramovich to send message to Putin about peace talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Israel launches retaliatory air strikes on Iran - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN2VXLS16SXR5NUVqNnlsaVRpbHFGT1dxVjJQZ3pfd2EzcnlEVENWWWl2VDViNTBFVkRsMWh6WkRzV3h1bnNlaWlEX0tHZFRqakIwOHRKVmNQM21UZ0NMVnZVc1NFT2RxRExtMU1RbUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 02:34:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN2VXLS16SXR5NUVqNnlsaVRpbHFGT1dxVjJQZ3pfd2EzcnlEVENWWWl2VDViNTBFVkRsMWh6WkRzV3h1bnNlaWlEX0tHZFRqakIwOHRKVmNQM21UZ0NMVnZVc1NFT2RxRExtMU1RbUQ?oc=5\" target=\"_blank\">Israel launches retaliatory air strikes on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "content": "",
       "content_length": 0
     },
@@ -73,82 +153,52 @@
       "content_length": 0
     },
     {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmpJNXZQT1ZPcXdOaGxHaEx0eDFocjZJOFFfWTVCN1huaXliRTVmZDRIbko0Z2tDWW5uOGRQcmw0TG9oNUpsSlhhZkN1N3pPSUNZd1hHeWZEUlJGcWMzN2RRNzc0VXZqQUJNX1hacVYxOFJSb2RwWEE3WDRob200RXNpRU8?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 02:52:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmpJNXZQT1ZPcXdOaGxHaEx0eDFocjZJOFFfWTVCN1huaXliRTVmZDRIbko0Z2tDWW5uOGRQcmw0TG9oNUpsSlhhZkN1N3pPSUNZd1hHeWZEUlJGcWMzN2RRNzc0VXZqQUJNX1hacVYxOFJSb2RwWEE3WDRob200RXNpRU8?oc=5\" target=\"_blank\">US weighs using Iranian assets to compensate Gulf allies for war damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Britain’s questionable reliance on Palantir - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVIzaUJmam91Uk83OFdlNnpUaTFTLTQyWnVNR3cyVERsX3pZR1NIb1lNMjBfTVE0d0VKQl9Xc2dpT2FmOVIwRjF0aTlBdUg1MzZYYTVzNmlSTnZJTWs5MHdZVnMwSUpsMngyWGtmYUcxQktBekU1ZE5xNWZzZHM5V1RUdU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 09:09:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVIzaUJmam91Uk83OFdlNnpUaTFTLTQyWnVNR3cyVERsX3pZR1NIb1lNMjBfTVE0d0VKQl9Xc2dpT2FmOVIwRjF0aTlBdUg1MzZYYTVzNmlSTnZJTWs5MHdZVnMwSUpsMngyWGtmYUcxQktBekU1ZE5xNWZzZHM5V1RUdU0?oc=5\" target=\"_blank\">Britain’s questionable reliance on Palantir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "What we know about the plan to give Americans an equity stake in AI - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhrYmRVMnB0V3cxYVh1em1oUjZ2bHVXWDIzWHN3VnE0RW9HeTczcVdNMjVyT1ZXVERQOGVIZ21lS1BIVVJFdnFGbmNnQmtUS0Q3N2dqU3RoWnhuSC1Sc1FUd045OENqRHg5LUYyLWJjbUNNbjRvZjVWRTNPMEFCS3p2X1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 06 Jun 2026 21:18:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhrYmRVMnB0V3cxYVh1em1oUjZ2bHVXWDIzWHN3VnE0RW9HeTczcVdNMjVyT1ZXVERQOGVIZ21lS1BIVVJFdnFGbmNnQmtUS0Q3N2dqU3RoWnhuSC1Sc1FUd045OENqRHg5LUYyLWJjbUNNbjRvZjVWRTNPMEFCS3p2X1Y?oc=5\" target=\"_blank\">What we know about the plan to give Americans an equity stake in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Philippines verifying reports of at least five deaths after magnitude 7.8 quake - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2tKM2RObUpaeEt5SWJoZWw1WG0yN3JjY3A2RXRrM1ZmcUZYUWkyQ0R0Rzc0c0UtdGtaVTRrc0NWelN0aWpXNWk2N1ZHaFFKcGpHZ3RwX0VDejlXSVVWRHZIZ3ZsMU8ydzJKR2wxMWxJby1FMGlzaFZvc3l6ZklsRURYb05Kdk1KVzJ0WHpTUnZpdEtQN2pMN2dpUUhXaW9qeHdJZFNuN2YtbHBQSnppMjE3M0QycVhuYUpQYVFqWW1HZDdrTjhzWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 02:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2tKM2RObUpaeEt5SWJoZWw1WG0yN3JjY3A2RXRrM1ZmcUZYUWkyQ0R0Rzc0c0UtdGtaVTRrc0NWelN0aWpXNWk2N1ZHaFFKcGpHZ3RwX0VDejlXSVVWRHZIZ3ZsMU8ydzJKR2wxMWxJby1FMGlzaFZvc3l6ZklsRURYb05Kdk1KVzJ0WHpTUnZpdEtQN2pMN2dpUUhXaW9qeHdJZFNuN2YtbHBQSnppMjE3M0QycVhuYUpQYVFqWW1HZDdrTjhzWQ?oc=5\" target=\"_blank\">Philippines verifying reports of at least five deaths after magnitude 7.8 quake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Israeli military has struck 'terrorist' headquarters in Beirut, government says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 12:25:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5\" target=\"_blank\">Israeli military has struck 'terrorist' headquarters in Beirut, government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Israel hits Iran with new strikes despite Trump admonition - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTR6aGlfWGhCWWdKS05SWUxZSDk0RU0zcVRxSDEzM3dYcWVubTExaTE4cTRpb3VnS2IxVFoyRUpqLTVhMEhXWkpCUjNDTmpCZUpra1lVMWY2X0xjel9xQmtIdnhMX1hWRmk1d09oZHd2MnlBNDhfaktHNEFRa1RqWmFZaW1aTlo1Sk8yM3NMaFYzeFNkRHU0aHlMRTU3RVBPOUlLVW9ydGY1ZEdxaHg5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 01:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTR6aGlfWGhCWWdKS05SWUxZSDk0RU0zcVRxSDEzM3dYcWVubTExaTE4cTRpb3VnS2IxVFoyRUpqLTVhMEhXWkpCUjNDTmpCZUpra1lVMWY2X0xjel9xQmtIdnhMX1hWRmk1d09oZHd2MnlBNDhfaktHNEFRa1RqWmFZaW1aTlo1Sk8yM3NMaFYzeFNkRHU0aHlMRTU3RVBPOUlLVW9ydGY1ZEdxaHg5ZQ?oc=5\" target=\"_blank\">Israel hits Iran with new strikes despite Trump admonition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "US resolution draft at IAEA demands Iran open up on sites, uranium stocks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 13:20:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5\" target=\"_blank\">US resolution draft at IAEA demands Iran open up on sites, uranium stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Ipsos quick count shows statistical tie in Peru's presidential race - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW15SlQ4bjFJQWtTOHRUcFRXUmZYY2xIbktTMjdrRXo5REoybDE4MUw0MHJLNWlOR2xxLXdVWWlfZUpkZ25FeWMxTHBaaVU0WTlUODJueWZ1d2JiWnEyMTJjMVp2UDVhd1E4ZTJ4dzBGSzV1SEZMREc1dFdyNi0zdUt3MlJNSmdEa21aSlJrNWEybG1OR2xzVzFjWXB3MUtQYnJCQ2RSdUhzSGFmNFZZZ0g1dUs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 02:16:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW15SlQ4bjFJQWtTOHRUcFRXUmZYY2xIbktTMjdrRXo5REoybDE4MUw0MHJLNWlOR2xxLXdVWWlfZUpkZ25FeWMxTHBaaVU0WTlUODJueWZ1d2JiWnEyMTJjMVp2UDVhd1E4ZTJ4dzBGSzV1SEZMREc1dFdyNi0zdUt3MlJNSmdEa21aSlJrNWEybG1OR2xzVzFjWXB3MUtQYnJCQ2RSdUhzSGFmNFZZZ0g1dUs?oc=5\" target=\"_blank\">Ipsos quick count shows statistical tie in Peru's presidential race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "US Supreme Court poised to rule on gun laws and transgender athletes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEd2QWRlYk9ZaFZVU3ZGZnVoRXQxbkQzT0hpVHJhZjRHNVFmSWlNWkw3d2FYX0FsT3dfSzRIdUVxenpXYXZrLUdjcFBaRXdGd2JCbW93TFEzbTdNTWl4aVhxclVGYzBwdndGcFNkU3hld2NYWGRKc0JGSlBDOEVhS0ZremVLY21CLThBSUpKU3lWeTJYWlVyeG5FZGtKa0d5UlJCc0hOd2ZTQ21ORnRlSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 12:36:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEd2QWRlYk9ZaFZVU3ZGZnVoRXQxbkQzT0hpVHJhZjRHNVFmSWlNWkw3d2FYX0FsT3dfSzRIdUVxenpXYXZrLUdjcFBaRXdGd2JCbW93TFEzbTdNTWl4aVhxclVGYzBwdndGcFNkU3hld2NYWGRKc0JGSlBDOEVhS0ZremVLY21CLThBSUpKU3lWeTJYWlVyeG5FZGtKa0d5UlJCc0hOd2ZTQ21ORnRlSQ?oc=5\" target=\"_blank\">US Supreme Court poised to rule on gun laws and transgender athletes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Nvidia CEO says company is working with LG on humanoid robots and data centers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVndmFsWlJzb2t1OHZmYk9LOHMzOWRNWkZ6WUw0V2ExUzRmdEdNQ3p6YTZkNG5yQ3lMcFNZT3VvVnotRFJJS3czTVpvWTU5dmhPQ1JJeWpXdDIxZm4zdThuTnBRSk9pUmE5aVVBNDhhR2cteGpYQWNrX1NqR01TLXJuY08yYzFfN2RtRlNSVTZKak14NENES2ZMQ3k0UjI2ZXc1UnlTYUREMmd6ZC0zUUJCVFQ5ZlhKTW5MVlNQNXJrbEdX?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 02:37:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVndmFsWlJzb2t1OHZmYk9LOHMzOWRNWkZ6WUw0V2ExUzRmdEdNQ3p6YTZkNG5yQ3lMcFNZT3VvVnotRFJJS3czTVpvWTU5dmhPQ1JJeWpXdDIxZm4zdThuTnBRSk9pUmE5aVVBNDhhR2cteGpYQWNrX1NqR01TLXJuY08yYzFfN2RtRlNSVTZKak14NENES2ZMQ3k0UjI2ZXc1UnlTYUREMmd6ZC0zUUJCVFQ5ZlhKTW5MVlNQNXJrbEdX?oc=5\" target=\"_blank\">Nvidia CEO says company is working with LG on humanoid robots and data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "US troops, families adjust to new normal of Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 10:37:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5\" target=\"_blank\">US troops, families adjust to new normal of Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Reuters",
-      "source_cn": "路透社",
-      "title": "Gunman kills one, wounds five in drive-by attacks in Israel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sun, 07 Jun 2026 13:19:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5\" target=\"_blank\">Gunman kills one, wounds five in drive-by attacks in Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "VIEW Tech stocks dive as Fed bets rattle AI rally - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDgtZ3Z4ZFBTLTd4X2RDZGpodnJvdzRfOGlSY3VOaFB6WXBVVklsbHhLLXJOQ183NmdKeDBMc1RsWW1VVC10OWRWWENReUUya0lMLWNmWjhZTGRjY21OQWE0cV95YVZNbDBPYUNGVm1hTWJrTG9wR1ZPdTY5aEdrd1hMN0s1Vms?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 08 Jun 2026 01:04:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDgtZ3Z4ZFBTLTd4X2RDZGpodnJvdzRfOGlSY3VOaFB6WXBVVklsbHhLLXJOQ183NmdKeDBMc1RsWW1VVC10OWRWWENReUUya0lMLWNmWjhZTGRjY21OQWE0cV95YVZNbDBPYUNGVm1hTWJrTG9wR1ZPdTY5aEdrd1hMN0s1Vms?oc=5\" target=\"_blank\">VIEW Tech stocks dive as Fed bets rattle AI rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     }
