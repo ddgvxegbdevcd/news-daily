@@ -1,60 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-06-08 04:43:21
+更新时间：2026-06-08 16:05:26
 
-## Danantara to Start US Bond Roadshow as Indonesia Rout Deepens
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-08/danantara-to-start-us-bond-roadshow-as-indonesia-rout-deepens
-
-正文长度：0
-
-摘要：Indonesian sovereign wealth fund Danantara is poised to kick off the US leg of its planned dollar bond roadshow this week, as the nation’s policymakers step up efforts to halt a deepening selloff in the nation’s markets.
-
-
----
-
-## Goldman Sees Rupee Weakness Capped After Steps to Boost Inflows
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-08/goldman-sees-rupee-weakness-capped-after-steps-to-boost-inflows
-
-正文长度：0
-
-摘要：The Indian rupee’s slide may be nearing a floor after authorities unveiled measures to boost foreign inflows, according to Goldman Sachs Group Inc.
-
-
----
-
-## ECB Risks Repeating 2011 Mistake With Rate Hike, Economists Warn
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-08/ecb-risks-repeating-2011-mistake-with-rate-hike-economists-warn
-
-正文长度：0
-
-摘要：The European Central Bank’s resolve to uphold its inflation-quashing reputation risks luring it into a damaging error when it meets this week, economists warn.
-
-
----
-
-## Indonesia Market Rout Deepens as Bonds, Currency, Stocks Slide
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-07/market-rout-puts-pressure-on-indonesia-to-deliver-concrete-steps
-
-正文长度：0
-
-摘要：The rout in Indonesian markets deepened on Monday with the nation’s bonds, stocks and currency tumbling.
-
-
----
-
-## Stock Losses Build as AI Rally Cools, Oil Gains: Markets Wrap
+## Stocks Gain as Buyers Step In After AI-Led Selloff: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +10,202 @@
 
 正文长度：0
 
-摘要：Stocks and bonds dropped as investors faced a trio of headwinds with a pullback in the artificial-intelligence trade, mounting bets on a US interest rate hike and rising oil prices due to a worsening of the Middle East conflict.
+摘要：Wall Street staged a comeback as dip buyers emerged, lifting stocks amid renewed enthusiasm over artificial intelligence and bets that a solid economy will keep powering Corporate America.
+
+
+---
+
+## Bitcoin’s $235 Billion Crash Masks a Bigger Shift Across Crypto
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto
+
+正文长度：0
+
+摘要：The easiest way to understand crypto used to be to look at Bitcoin.
+
+
+---
+
+## A 20-Year Real Estate “Super Cycle” Is Beginning: Rabil
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-08/a-20-year-real-estate-super-cycle-is-beginning-rabil-video
+
+正文长度：0
+
+摘要：Kayne Anderson CEO Al Rabil joins Bloomberg Open Interest to explain why he believes housing, medical offices, senior housing, and industrial real estate are entering a 20-year super cycle. He argues supply constraints, aging demographics, and AI-driven efficiencies will create powerful tailwinds, while operational expertise, not just capital, will separate winners from the competition. (Source: Bloomberg)
+
+
+---
+
+## European Stocks Fall on Mideast Tensions; Zealand Pharma Sinks
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-08/european-stock-futures-drop-as-oil-rises-on-war-retaliation
+
+正文长度：0
+
+摘要：European stocks fell after a choppy session as investors reacted to conflicting signals about the war in the Middle East.
+
+
+---
+
+## SpaceX IPO Is Said to Be Well Oversubscribed, Orders Close Wednesday
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed
+
+正文长度：0
+
+摘要：SpaceX’s initial public offering is well oversubscribed, according to people familiar with the matter, as demand builds for a potentially record-setting debut.
+
+
+---
+
+## Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/08/novo-nordisk-eli-lilly-obesity-pills-medicare-coverage.html
+
+正文长度：7174
+
+摘要：Novo Nordisk and Eli Lilly bring their longtime rivalry to GLP-1 pills and prepare to make their pitch to seniors with Medicare.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Novo Nordisk and Eli Lilly took their GLP-1 pill battle to the preeminent obesity meeting this weekend as they prepare for the next sea change in how patients receive their drugs.
+Novo Nordisk on Sunday announced that prescriptions of the Wegovy pill have topped 3 million since it entered the U.S. market about five months ago. The Danish drugmaker's CEO Mike Doustdar celebrated the milestone, saying in an interview with CNBC that Novo was able to accelerate prescriptions even as Lilly introduced its own GLP-1 pill in April.
+"If that's not acceleration, then I don't know what is," Doustdar told CNBC this weekend at the American Diabetes Association's Scientific Sessions.
+Meanwhile, Lilly CEO Dave Ricks told CNBC that prescriptions of its pill Foundayo are "markedly higher" than the 20,000 that Lilly reported about six weeks ago around its first-quarter earnings release, without giving a specific number. He said the number builds week over week and that Lilly is pleased with the progress.
+The competition for the weight loss pill market is only the latest for the longtime rivals. Signs of that tension were evident throughout the industry event this weekend. Cars drove around advertising Novo's Wegovy pill, while pictures of Lilly's Foundayo pill covered some of the floors of the convention center in New Orleans.
+And the two companies will soon make their case for their daily pills and their weekly shots to seniors. Starting in July, millions of people with Medicare will be able to access GLP-1 drugs for weight loss for $50 a month. Until now, Medicare beneficiaries have had to pay out of pocket for the obesity drugs, costing them potentially hundreds of dollars a month. Both companies say they're focused on raising awareness of the program, though they have different pitches.
+Doustdar thinks the program could be an opportunity to regain some of the ground Novo's Wegovy shot has lost to Lilly's Zepbound. The drugmaker plans to advertise Wegovy's other health benefits on its label, he said, like the fact that it can decrease the risk of cardiovascular problems like heart attacks and strokes. He said Novo should win with seniors "if common sense is to prevail, and I put myself in their shoes."
+"With the Wegovy high dose, why would you not take a product that has the same efficacy, percentage wise, than my competitor?" he said. "On top of it, you get kidney, liver, heart, stroke protection, let's say free of charge. I would take it if I was 10 years older."
+Lilly's pitch to seniors is convenience. The company's pill Foundayo can be taken at any time of day with food, water and other medicines, whereas Novo's pill needs to be taken on an empty stomach with little water and requires fasting for 30 minutes afterward.
+"The main thing is, it's easy," Ricks said. "This is something that can just go in your daily routine. Most seniors are on many other medications, and they've got their pill case, and they use that every day, and this will just fit right into that without any extra thought."
+Ricks said Lilly is working closely with the government to prepare, and he's confident that Humana, which will process prescription requests, will do a good job. He thinks the program will be popular with seniors and that longer term, the initiative could help prove that obesity care should be "regular health care."
+"We have to prove that in this pilot and prove cost effectiveness and then kind of reset what we expect from our health insurance, which is obesity care should be health care," Ricks said.
+Lilly and Novo are trying to increase insurance coverage of GLP-1 drugs for obesity. At least one analysis found the drugs to be cost effective, but employers have balked at paying for them because so many people could be eligible for the treatments and many patients stop them after achieving a weight loss goal. Health insurance company Cigna last week said it would stop covering the medicines for its own employees.
+At Lilly, less than 20% of the company's beneficiaries are using the drugs for weight loss, and people are staying on them, Ricks said. Lilly is conducting an internal study to measure its health costs and outcomes like hospitalization rate, progression to diabetes and cardiovascular events. Lilly plans to publish those results later this year, he said.
+The next stage in the GLP-1 race
+While they prepare for Medicare coverage, both companies are trying to introduce more drugs to treat obesity. At the conference this weekend, Lilly presented Phase 3 data for retatrutide, an experimental triple agonist that helped people lose an average of 28% of their body weight when they stayed on the drug. Nearly half of people lost more than 30% of their body weight, an amount that's similar to bariatric surgery. The drug also helped improve related conditions like knee osteoarthritis and sleep apnea.
+Initially, Ricks expects retatrutide to primarily be used to treat people with higher body mass indexes, or BMI. He also sees promise for the second-lowest strength of the drug. It helped people lose an average of 19% of their body weight with fewer side effects than the higher strengths.
+One question was whether Lilly would make retatrutide available on its direct-to-consumer sales platform LillyDirect once it's approved by the Food and Drug Administration because it's so powerful. Lilly "absolutely" plans to make the drug available there, Ricks said.
+For Novo, the next drug on the horizon is called CagriSema. It combines the main ingredient of Wegovy with another molecule called cagrilintide, which mimics another hormone called amylin. The drug's efficacy has underwhelmed investors since it has showed weight loss that is similar to Lilly's Zepbound and less than Lilly's retatrutide. Doustdar thinks the drug's edge in effectiveness over Wegovy, even if only a few percentage points, is meaningful, and said he's committed to launching CagriSema. Novo expects an approval decision from the U.S. Food and Drug Administration on the drug in the fourth quarter of this year.
+"If I have to forget about CagriSema, a lot of other products have to be forgotten about as well," Doustdar said. "I don't think it should work that way."
+Doustdar took over as chief executive almost one year ago after a major shakeup that led to the departure of the company's former leader and thousands of employees being laid off. He's tasked with reinvigorating sales of Wegovy, the company's pipeline and its stock price. Eventually, he said Novo will be more diversified within the area of cardiometabolic health — like diabetes and obesity — and some of the "adjacencies."
+In the meantime, Doustdar said the early success of the Wegovy pill has helped Novo regain some momentum.
+"The pill was a great example of people getting confident that we can do this, that at Novo Nordisk, better days are ahead of them and not just behind," he said. "So we also have to really make sure that we turn these positive moments that right now we're in into a longer term trend, so we gain the trust day by day and improve that both internally as well as, of course, externally, and I will work hard to make sure that this continues."
+
+</details>
+
+
+---
+
+## Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html
+
+正文长度：2489
+
+摘要：The U.S. will lean on the same playbook it did starting in the late 1950s, part of which involves releasing sterile insects to suppress the pest's population.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The U.S. food supply is "not at risk" from the return of the flesh-eating screwworm parasite to Texas, U.S. Department of Agriculture Secretary Brooke Rollins said on Monday.
+"This is not a virus, it's not a disease, it's just a little pest, a larva that lands in a calf's wound, for example, and it can be treated," Rollins said in an interview on CNBC's "Squawk Box."
+"We have boots on the ground … we'll be able to beat this back, but we're going to do everything we can, investing over a billion dollars to push this pest back into Mexico, then to eradicate, as we did about 50 years ago," she later added.
+Her comments came shortly before the USDA confirmed two additional cases of screwworm in Texas — one in a calf in La Salle County and another in a dog in Andrews County — bringing the total cases to four. The agency said more information will be released on the new cases, but that early reports indicate that the dog was recently in Mexico.
+The newest case in Zavala County, Texas, was detected on a ranch roughly 5 miles from the first positive case of screwworm in Texas, which the USDA confirmed on Wednesday. They are the first screwworm cases since the 1960s.
+The New World screwworm is a parasitic fly whose larvae burrow into the flesh of living warm-blooded animals, causing painful wounds that can become life-threatening without treatment. The pest poses a risk to livestock, wildlife, pets and, in uncommon cases, people.
+Screwworms do not infest meat, fruits, vegetables or other food products, according to the USDA. Still, the cases mark a troubling return of the parasite and raise questions about how to keep it from spreading further into the U.S., reviving a threat the country spent decades working to eliminate.
+Texas agriculture officials, including Commissioner Sid Miller, have criticized the USDA for a slow response that failed to halt the New World screwworm from crossing the border. In response, Rollins said Miller's recent comments are "disturbing and disruptive and so harmful to what we're trying to achieve."
+"He knows that we have been moving at Trump speed," Rollins said.
+She said the U.S. will lean on the same playbook it used starting in the late 1950s, part of which involves releasing sterile insects to suppress the pest's population. She said the U.S. is already dropping around 10 million sterile flies a week on the affected area, both from the air and the ground.
+"We've beaten it before, we've got to beat it again," Rollins said.
+
+</details>
+
+
+---
+
+## United CEO brushes off airline mergers after American rejection: 'There's nothing'
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/08/united-ceo-airline-mergers.html
+
+正文长度：2163
+
+摘要：When asked about a wave of consolidation among airlines, Kirby said further combination opportunities look unlikely: "There's nothing."
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> RIO DE JANEIRO — United Airlines CEO Scott Kirby said he doesn't expect more airline consolidation in the U.S. and he's not interested in pursuing a merger for his airline after American Airlines rejected the idea of a combination earlier this year.
+"United's not going to do a deal just to do a deal," Kirby told reporters Sunday on the sidelines of the International Air Transport Association's annual meeting.
+When asked about the wave of consolidation that has brought together Allegiant and Sun Country this year, and Alaska Airlines and Hawaiian Airlines in 2024, Kirby said further combination opportunities look unlikely: "There's nothing," he said.
+"It's a lot harder," he said. "I've been ... one of the primary architects of consolidation in the United States. I've been around a lot of these deals. It's hard, and you shouldn't do deals that don't make economic sense."
+Kirby has repeatedly dismissed the idea of buying its new partner, JetBlue Airways.
+But earlier this year Kirby discussed the possibility of combining with American, where Kirby used to work, floating the idea to the Trump administration, CNBC previously reported.
+Kirby later said in a statement that he had hoped a combined airline would compete with big foreign rivals, though some analysts said the tie-up would face insurmountable regulatory hurdles.
+A merger "requires support from everyone," Kirby told reporters at the IATA conference. "We would need the unions, we'd need the customers, the shareholders, the regulators and the management team."
+He said, however, regarding American's management team, "we don't have that, clearly, so we can't get it done without them."
+Delta Air Lines President Peter Carter similarly told CNBC on Saturday that he doesn't see a merger or acquisition in Delta's future. He said the carrier's longtime strategy has been partnerships and joint ventures, which include those in South Korea, Mexico and Europe.
+Because the U.S. domestic air travel market is so mature, international travel is the future, Carter said. He added he wants to take on United, the second most-profitable airline in the U.S., in the lucrative trans-Pacific market.
+
+</details>
+
+
+---
+
+## Italian coffee giant Lavazza launches single-serve tablets to make espresso in the U.S.
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/08/lavazza-launches-single-serve-tablets-to-make-espresso.html
+
+正文长度：4781
+
+摘要：With Tablì, Lavazza is betting that sustainability is still a top consideration for many coffee drinkers.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Lavazza is bringing its espresso tablets to the U.S., aiming to loosen Keurig Dr Pepper's grip on the single-serve coffee category.
+The Italian coffee giant unveiled Tablì last year and launched the new brewing system first in Italy. The tablets, made of compressed ground coffee without a coating, binder or gelatin, can only be used with a Tablì coffee machine made by Lavazza. Each tablet is marked with the words "100% coffee. At launch, the tabs will come in five varieties: espresso, double espresso, decaf espresso, super crema and lungo, or a "long shot" espresso brewed with more water.
+"The result that we've been able to achieve was through a very complicated industrial process in order to be able to have [the coffee tablet] very compact, to be able to deliver it without destroying it, to have it able to work in a coffee machine," Lavazza CEO Antonio Baravalle told CNBC.
+Tablì is the result of Lavazza's acquisition of the Italian startup Caffemotive in 2020. The new system took five years of development, more than 15 patents and a new production facility in Gattinara, Italy, to bring it to market.
+Its launch in the U.S. comes as the country becomes an increasingly important part of Lavazza's business. In 2025, the company's North American turnover — or revenue — jumped 26.9%, according to Lavazza.
+"We are strongly investing in the USA because we think it is an important space for us," Baravalle said, adding that Lavazza aims to eventually have a €1 billion ($1.15 billion) business in the U.S.
+"The brand is growing, in terms of equity, extremely well," Baravalle said. "We've spent a lot of money, for us, in the last two years, and we're going to do that for the next five years."
+More than 130 years after its founding, the Lavazza family still privately owns the Italian company. In 2025, it reported net profit of €92 million on net revenues of €3.9 billion, according to Lavazza's latest annual report.
+In the U.S., it generates more than $100 million in annual dollar sales through retailers like Target and Walmart. For context, Keurig reported annual net sales of $3.99 billion for its U.S. coffee segment in 2025.
+The majority of Keurig's coffee revenue comes from its K-cups. In the U.S., Keurig has dominated the single-serve coffee market for more than a decade, although Nestle's Nespresso has won over customers in recent years. Keurig holds about half of the total U.S. market share for fresh ground coffee pods, according to data from Euromonitor International. Nespresso holds a roughly 7% share.
+Of course, Lavazza sells K-cup pods in the U.S. through a partnership with Keurig.
+Baravalle said he does not expect to beat Keurig or Nespresso.
+"For us, it's important to find our own space, but we are talking about two giants, and one of them, we have an important contract with that we are very happy [with]," he said.
+A sustainability play
+Lavazza is betting that sustainability is still a top consideration for many coffee drinkers, although Baravalle said that can differ across countries.
+For years, Keurig's pods have been dogged by questions about waste, leaving an opening for a competitor with a more environmentally-friendly product. The company previously claimed that 100% of its K-cups have been recyclable since the end of 2020.
+In 2024, the Securities and Exchange Commission charged the beverage giant with making misleading statements over the recyclability of its pods. Keurig agreed to pay $1.5 million in penalties without admitting or denying the SEC's findings. The company's website now reads, "Check locally, not recycled in many communities."
+Nespresso's aluminum pods are more easily recycled through the brand's free mail-back service.
+As Lavazza launches a potential competitor, Keurig has its own plans for plastic- and aluminum-free coffee pods. This fall, the company plans to launch K-Rounds, which uses a plant-based coating to preserve the ground coffee inside the puck-shaped pod. The innovation is thanks to a multi-year partnership with Delica Switzerland, the maker of the CoffeeB system, which uses plastic-free coffee balls that have gained traction in parts of Europe.
+Lavazza will officially launch Tablì in the U.S. in August. A $99.99 bundle that includes the machine, a 60-count variety pack of tabs and a milk frother is available now to pre-order on the company's website.
+In May, Baravalle said the company was still determining its pricing strategy as it conducted consumer research to understand how much coffee drinkers were willing to pay.
+"We are also waiting to see how some big, huge competitors will move in the industry, trying to offer something similar," Baravalle said. "But, for sure, Lavazza has premium positioning, and we're not going to do something different from that."
+
+</details>
 
 
 ---
@@ -175,266 +318,132 @@ But the buzziest news for Mammoth will likely be its initial public offering, al
 
 ---
 
-## How ‘Backrooms’ producer Peter Chernin thinks Hollywood needs to change
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/06/backrooms-peter-chernin-hollywood.html
-
-正文长度：4595
-
-摘要：Franchise fatigue could drive an entertainment industry sea change as the appetite for fresh ideas grows and younger audiences make up more box office sales.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Over the past week, one conversation has dominated Hollywood executive lunches and studio staff meetings: What's the next "Backrooms"?
-The industry is scrambling to figure out how to replicate the phenomenon of "Obsession" and "Backrooms," low-budget psychological horror films directed by YouTube creators that have dominated the box office over the past two weeks.
-But "Backrooms" producer Peter Chernin, whose production company cofinanced the film, said he thinks the rush to sign deals with YouTube creators is a "big mistake."
-"It's no different than making sequels. It's jumping on an existing bandwagon," Chernin said in an interview. "I guarantee you 80% will be failures. It involves no originality, it involves no innovation. Your job is to innovate, and your job is to look for fresh IP [intellectual property] and fresh voices. It's not to just jump on a bandwagon."
-Chernin has a unique background spanning traditional Hollywood as well as the YouTube creator space. He ran Fox's movie and TV divisions from 1996 to 2009, overseeing box office juggernauts including "Titanic" and "Avatar."
-Chernin went on to found a private equity firm, The Chernin Group, in 2010, which backed a number of companies in the creator economy space, including Fullscreen and Tumblr. In 2022 he cofounded North Road, a global content studio. Its Chernin Entertainment division coproduced and cofinanced "Backrooms" with independent film studio A24.
-"We are consistently looking for what's new, what's interesting, and where the world is going," Chernin said. "I think that YouTube background gave us unique insights into doing this movie."
-"Backrooms," with a budget of just $10 million, has found particular success with younger audiences who were familiar with director Kane Parson's YouTube series, which inspired the film. In the film's first weekend in theaters, 86% of ticket buyers were under the age of 35, according to an audience survey by Comscore Movies and Screen Engine PostTrak.
-"Backrooms" crossed $100 million at the domestic box office in just six days, becoming the highest-grossing domestic film ever for A24.
-Basing a movie on established IP is a familiar strategy in Hollywood, where superheroes, popular book series or even toys like Barbie have proven to be a reliable way to draw audiences. Since 2010, most of the top performing domestic releases have been based on established IP, but box office experts warn audiences are getting franchise fatigue, and some high-profile sequels have fallen flat.
-While "Backrooms" and Parsons had an established fanbase, building a movie on YouTube content is unusual. Chernin said the concept feels authentic and fresh on the big screen, making it distinct from decades-old franchises.
-"Hollywood has been guilty of being a little bit cynical and essentially creating a brand management sort of manufacturing process, consistently feeding audiences a diet of sequels," Chernin said. "One of the things that really resonated is that this feels like a movie with young people's IP. What it says more than anything is that audiences are looking for freshness. They're looking for something that feels unique and original."
-While the box office still lags prepandemic levels, the phenomenon of "Backrooms" and "Obsession," which was shot for a budget of $750,000 and has also earned more than $100 million domestically, has Hollywood insiders and analysts asking how studios should change strategy.
-Eric Handler, a media and entertainment analyst at Roth, agrees that younger generations have growing fatigue with franchise films and sequels, as evidenced by the disappointing opening of Disney's latest Star Wars offshoot "The Mandalorian and Grogu."
-"Younger people still want to go to the movies. They like that communal experience, but they're looking for something a bit different," Handler said. "They're saying you don't need to make a $250 million movie to get me interested. Come up with an interesting concept that resonates with me and we'll go."
-Handler said he now expects studios to cast a wider net for content. "Clearly there's an opportunity here, especially if you can do these movies at a very low budget," he said.
-Chernin said the success of "Backrooms" is a sign that movie studios should take more risks.
-"Risk is ultimately the lifeblood of success. Hollywood has gotten itself into a mentality over the past 10 years where risk has been looked at as being reckless," Chernin said. "You have to try and figure out a way to do it at the right budget, but risk is important, and risk is the biggest upside in the world."
-
-</details>
-
-
----
-
-## Boeing to start 737 Max production on new assembly line July 6, CEO says
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html
-
-正文长度：1789
-
-摘要：The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> RENTON, Wash. — Boeing will begin building new 737 Max airplanes on July 6 at a final assembly line it's opening north of Seattle, CEO Kelly Ortberg told CNBC on Friday.
-"We're adding another production line, it's really a carbon copy of what you see here in Renton," Ortberg said. "We'll be loading our first airplane on July 6, so just about a month from now, we'll be bringing that [fourth] line alive."
-The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month — a pace that's expected to begin next year. Boeing is currently building 47 Maxes per month after ramping output from 42 a month earlier this year.
-While Boeing wants to build and deliver more 737 Max planes, its production is capped by the Federal Aviation Administration, which put limits on its manufacturing after a door plug blew out on an Alaska Airlines plane in January 2024.
-That incident prompted lengthy reviews of safety and quality issues in the manufacturing process at Boeing.
-"We're trying to reset that track record, and I think we've done a good job as we've come back up here in the last 18 months and increased rate, and we've done it differently," Ortberg said. "We've made sure that we're not moving until the production system is stable. We're not pushing work down the production line like we were before. So I think that gives us all optimism."
-Ortberg and Boeing leadership have set a long-term goal for Max production of 63 per month, if the supply chain can support the increase.
-The new assembly line will start with production of the 737 Max 10, a stretch version of the single aisle plane that is expected to be certified by the FAA before the end of the year, clearing the way for the first 737 Max 10 deliveries.
-
-</details>
-
-
----
-
-## Broadway's $1.9 billion season is the latest sign of consumers splurging on experiences
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html
-
-正文长度：4201
-
-摘要：Sunday's Tony Awards follow a record-breaking season on Broadway. The awards often lead to further ticket sales for winning shows.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Broadway just wrapped its highest-grossing season on record, offering another sign that consumers are willing to spend on experiences even as concerns about inflation and economic uncertainty linger.
-The 2025-2026 show season topped the prior year's record and generated nearly $1.91 billion in ticket sales, according to industry data from The Broadway League.
-"Even in a challenging economic environment, Broadway remained notably on par with last season, reflecting both the resilience of this industry and the connection audiences feel to these productions," said Jason Laks, president of The Broadway League, in a press release.
-Adjusting for the extra week that was included in the prior season, Broadway grosses this year rose 3.5%, attendance increased 1.8% and average ticket prices climbed 1.7%.
-This comes ahead of Sunday's Tony Awards, setting a high-stakes background for the industry's biggest night. The awards often lead to further ticket sales for winning shows.
-While consumers have pulled back in some discretionary categories, demand for live entertainment has remained remarkably strong — from concerts and sporting events to theater.
-The New York Fed's beige book has made explicit mentions of Broadway nearly a dozen times over the last two decades as an economic indicator, most recently in April saying "ticket sales remained strong."
-But Broadway's record year highlights a growing question: Have live performances become too expensive to balance rising production costs?
-The average Broadway ticket cost $131 this season. For a family of four attending a musical, tickets alone can easily exceed $500 before accounting for transportation, meals and other expenses. In many cases, premium seats cost significantly more. At higher rates, the total expenses start to rival a one-day trip to Disney World for a family of four.
-Rising Broadway prices
-The industry's growth is increasingly being driven by high-priced plays featuring major celebrities rather than traditional blockbuster musicals.
-The 2025-2026 season opened 35 new productions: 12 musicals, 21 plays, and two specials. Existing intellectual property counts for three of the four nominated best new musicals, including an adaptation of the Apple TV series "Schmigadoon," the 1980s cult-classic film "Lost Boys" and a parody of the Oscar-winning film "Titanic," titled "Titanique."
-"Producers are becoming far more selective about the economics of a project," said Broadway producer Jim Kierstead. "There's greater emphasis on recognizable titles, built-in audiences, limited runs, strategic casting, and productions that can generate additional life beyond Broadway through touring, licensing, or international productions."
-The final week of the current season, which ended May 24, brought in $40.7 million across 40 productions, according to The Broadway League. A revival of "Every Brilliant Thing" starring Tony-nominated Daniel Radcliffe led ticket sales.
-It's a similar trend to last season's box office, which was led by limited-run plays starring Hollywood names like George Clooney, Denzel Washington and Jake Gyllenhaal. The star-studded titles allow producers to charge premium prices while avoiding the massive costs and risks associated with launching a new musical.
-And it's the plays, rather than musicals, driving higher attendance. This season, attendance at plays surged almost 14%, while attendance at musicals fell 4.7%.
-That's good news for sales, since plays typically commanded higher average prices, at $139.55 per ticket compared to $128.83 for musicals.
-The 21 plays released this season grossed roughly $463 million combined, more than double the category's haul from just two seasons ago and the second consecutive year that plays topped $400 million in revenue.
-Experts say rising tickets prices are a reflection of not just demand, but also the costs to put on a good show.
-"The financial hurdles are significant," said Kierstead.
-"Ultimately, the industry understands that long-term sustainability depends on keeping Broadway both economically viable and culturally accessible. If audiences feel priced out, everyone loses," he added.
-— CNBC's Robert Hum contributed to this report.
-
-</details>
-
-
----
-
-## Family offices bet on sports, from pickleball leagues to smart soccer balls
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/05/family-office-sport-investments.html
-
-正文长度：2439
-
-摘要：While AI startups dominate deal-making news, investment firms of the ultra-rich are still keen on sports.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-Last month, investment firms of the ultra wealthy went all-in on sports and played on multiple fronts.
-At the beginning of May, billionaire Tom Dundon's namesake family office partnered with Apollo's new sports fund to invest $225 million in Pickleball Inc., the parent company of Major League Pickleball and the PPA Tour. Dundon is already an owner of the Portland Trail Blazers NBA team and the NHL's Carolina Hurricanes.
-As for the major leagues, Michael Dell, as part of an investor group led by Silver Lake's Egon Durban, bought a 25% stake in the Las Vegas Raiders football team. Dell is also a minority investor in the NBA's San Antonio Spurs and the Austin Gamblers, a professional bull riding team.
-Family offices made 51 direct investments in companies in May, holding steady from April's deal tally, according to data provided exclusively to CNBC by Fintrx, a private wealth intelligence platform.
-A Goldman Sachs survey released last fall found that 25% of family offices have invested in sports or related assets like ticketing or arenas and another quarter are interested in doing so. Asides from love of the game, many investors are drawn to the sector as an inflation hedge.
-Student housing mogul David Adelman has used his family office to extend his reach into the sports economy. Adelman is a part-owner of the NBA's Philadelphia 76ers, English Premier League club Crystal Palace and the New Jersey Devils ice hockey team and an investor in sports merchandise giant Fanatics.
-In May, his investment firm Darco Capital co-led a $12 million Series A round for PlayerData along with David Blitzer's family office Bolt Ventures and venture capital firm Pentland Ventures. The UK startup makes GPS-enabled vests and soccer balls that help athletes track their performance.
-Adelman told CNBC that some teams in his portfolio use PlayerData products. Crystal Palace, for instance, uses the vests and smart soccer balls in training its academy players. The technology's application for athletes at all levels, including youth sports, was part of the startup's draw, according to Adelman.
-"What stood out to me was the ability to take something complex and make it simple, practical, and accessible," Adelman said.
-
-</details>
-
-
----
-
-## Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran - Financial Times
+## Peru’s presidential rivals in neck-and-neck race after election run-off - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnZ2bmE0OEdlcXM4bFdwX2JOU2ozeFpCblVGb0gzWGpEa0NQdE1NY18xcHF3UnBLZVM1S1o5V0dFSGx3elhCZEtxanNobUhyaUJadUxDYWlxYTJhREJnVE9Xbmgwc2IzbG0xMm9GWmdmdVI5dTRmMU9ZZGJESk5pZzY2T3Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDUwaS05cHg2RzZKM1doOUZrLTBzcmEwM1FCNnQwN1FiTmdZZGlkSnVNS2ZtOERUOVZyeW5IYkVoY05kYndMVW5lbXBOdW5Vc19uTG5oTE9lM3dUd1FrUlRocFVRMWtXc0MzN1M3U1BkOXhXdnBxRFpVbGdSdWM4REhWUUI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnZ2bmE0OEdlcXM4bFdwX2JOU2ozeFpCblVGb0gzWGpEa0NQdE1NY18xcHF3UnBLZVM1S1o5V0dFSGx3elhCZEtxanNobUhyaUJadUxDYWlxYTJhREJnVE9Xbmgwc2IzbG0xMm9GWmdmdVI5dTRmMU9ZZGJESk5pZzY2T3Y?oc=5" target="_blank">Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDUwaS05cHg2RzZKM1doOUZrLTBzcmEwM1FCNnQwN1FiTmdZZGlkSnVNS2ZtOERUOVZyeW5IYkVoY05kYndMVW5lbXBOdW5Vc19uTG5oTE9lM3dUd1FrUlRocFVRMWtXc0MzN1M3U1BkOXhXdnBxRFpVbGdSdWM4REhWUUI?oc=5" target="_blank">Peru’s presidential rivals in neck-and-neck race after election run-off</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Voters sour on Trump’s handling of inflation and grocery prices — FT poll - Financial Times
+## New AI espionage powers trigger Putin camera scare - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2E1VHNueXVIcjZJY1VnS2VaN0V5SjBWc3Q0S252Wi12ckUzaWhXU2pOR1BfNjExMUxEOTJHUHhvY3BBcnI5QVBPWV9EQUJ0ZTNfZlE0QVpmLXhtV2lfcE83MWVKQ0VwTktPSUN3M3JTUWdObEZLdWhEUVhnUHRueG94elU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2pBTHBoTV90MDBZanlHcFpUWGdHNGZCSHI5MXBhVzhwcmVnUWlBLUdUVWdFd2ZNOUl6dFI2empZQWZkUnc2SllfaW43VXFzNkFwaWc1X1R0MnBlRjVVTkxwdFJubjFJSktjY2wzX1JyRXdqV0JoaUhkLUhfQWREa1lPMnE?oc=5" target="_blank">Voters sour on Trump’s handling of inflation and grocery prices — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2E1VHNueXVIcjZJY1VnS2VaN0V5SjBWc3Q0S252Wi12ckUzaWhXU2pOR1BfNjExMUxEOTJHUHhvY3BBcnI5QVBPWV9EQUJ0ZTNfZlE0QVpmLXhtV2lfcE83MWVKQ0VwTktPSUN3M3JTUWdObEZLdWhEUVhnUHRueG94elU?oc=5" target="_blank">New AI espionage powers trigger Putin camera scare</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Zelenskyy used Abramovich to send message to Putin about peace talks - Financial Times
+## Blackstone looks to sell $2bn of stakes in private investment funds - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONFRTdUpIRHJUU1FpZ1ZldlFaTXJBS2k1enB4dUQ3QS0wTGY2bXlQeHRRVUtrT1UtSjFOTHBkdU4zMDI3alJnQTZMYzRKVEpoTDhoYlhtSDhONENhZFdLelBOUWNiYUVEdW9DbEJ3ckJCZ2c3RlgwajhnREp3YzZEcGtnNTY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTZLRkJwbmlGSndrOFpVZ1Y5WTkyV29WNHdlX2pxblFiVDYxZThTNHlqYjlpTURSM0p4R3E4dF92SGtNb0ZxSlgwa3JVS0QyWUtoOThSaUpuZVNuMjgxdWFuLU91dUx2Ni0wQzMtUUQ4aHRLb2pFZ0hZRXBwNHFMNktWdjA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONFRTdUpIRHJUU1FpZ1ZldlFaTXJBS2k1enB4dUQ3QS0wTGY2bXlQeHRRVUtrT1UtSjFOTHBkdU4zMDI3alJnQTZMYzRKVEpoTDhoYlhtSDhONENhZFdLelBOUWNiYUVEdW9DbEJ3ckJCZ2c3RlgwajhnREp3YzZEcGtnNTY?oc=5" target="_blank">Zelenskyy used Abramovich to send message to Putin about peace talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTZLRkJwbmlGSndrOFpVZ1Y5WTkyV29WNHdlX2pxblFiVDYxZThTNHlqYjlpTURSM0p4R3E4dF92SGtNb0ZxSlgwa3JVS0QyWUtoOThSaUpuZVNuMjgxdWFuLU91dUx2Ni0wQzMtUUQ4aHRLb2pFZ0hZRXBwNHFMNktWdjA?oc=5" target="_blank">Blackstone looks to sell $2bn of stakes in private investment funds</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Israel launches retaliatory air strikes on Iran - Financial Times
+## SpaceX IPO will not break capital markets but add to strains - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN2VXLS16SXR5NUVqNnlsaVRpbHFGT1dxVjJQZ3pfd2EzcnlEVENWWWl2VDViNTBFVkRsMWh6WkRzV3h1bnNlaWlEX0tHZFRqakIwOHRKVmNQM21UZ0NMVnZVc1NFT2RxRExtMU1RbUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTdyVW9VTTJobTN6VTd3QXNWaHNPQ1hUUlNuVHhtNlZDV2NVQ2ZEVWl2c181NERCWC1CdzRqTDFsTHNGZTRQZGpGUjRtLXFMS2RMOHNhRGlWYjlnUXh1S3BMcFBDakcxWTRoZjhrajBkeE52ZWVOdUpiX2MtbTNYWHoxNWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1jN2VXLS16SXR5NUVqNnlsaVRpbHFGT1dxVjJQZ3pfd2EzcnlEVENWWWl2VDViNTBFVkRsMWh6WkRzV3h1bnNlaWlEX0tHZFRqakIwOHRKVmNQM21UZ0NMVnZVc1NFT2RxRExtMU1RbUQ?oc=5" target="_blank">Israel launches retaliatory air strikes on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTdyVW9VTTJobTN6VTd3QXNWaHNPQ1hUUlNuVHhtNlZDV2NVQ2ZEVWl2c181NERCWC1CdzRqTDFsTHNGZTRQZGpGUjRtLXFMS2RMOHNhRGlWYjlnUXh1S3BMcFBDakcxWTRoZjhrajBkeE52ZWVOdUpiX2MtbTNYWHoxNWc?oc=5" target="_blank">SpaceX IPO will not break capital markets but add to strains</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI plots biggest ChatGPT overhaul since launch - Financial Times
+## Software buyout deals collapse to lowest level since pandemic after AI rout - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5" target="_blank">OpenAI plots biggest ChatGPT overhaul since launch</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5" target="_blank">Software buyout deals collapse to lowest level since pandemic after AI rout</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Philippines verifying reports of at least five deaths after magnitude 7.8 quake - Reuters
+## German, French leaders unable to resolve FCAS fighter jet dispute, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2tKM2RObUpaeEt5SWJoZWw1WG0yN3JjY3A2RXRrM1ZmcUZYUWkyQ0R0Rzc0c0UtdGtaVTRrc0NWelN0aWpXNWk2N1ZHaFFKcGpHZ3RwX0VDejlXSVVWRHZIZ3ZsMU8ydzJKR2wxMWxJby1FMGlzaFZvc3l6ZklsRURYb05Kdk1KVzJ0WHpTUnZpdEtQN2pMN2dpUUhXaW9qeHdJZFNuN2YtbHBQSnppMjE3M0QycVhuYUpQYVFqWW1HZDdrTjhzWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEVlR0lobTBLX251amozdWRGQnRoQ2wzU1FrLUpNWGtGU0c0NjZPWEdjaDM0OS1USHJfdS1yQjVBM0hyZ2tnLVRPVmlsSnJSYVpVWEFUcWlLcmowUjhhRDVZRENvWHoybXFtbXZQb0o1RVZXYmZuSVBqWUdqVkVoRVZFRjltRzVxcGVYQWRaSk1zSy1xSGtUUEw4RXFrVDlsTTlCb0gwOW5VV0RhYlBDR0JIZndDckxzVDdNMzBjcXJUZ0puUVdfWjFMMDJ6V0p5eGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2tKM2RObUpaeEt5SWJoZWw1WG0yN3JjY3A2RXRrM1ZmcUZYUWkyQ0R0Rzc0c0UtdGtaVTRrc0NWelN0aWpXNWk2N1ZHaFFKcGpHZ3RwX0VDejlXSVVWRHZIZ3ZsMU8ydzJKR2wxMWxJby1FMGlzaFZvc3l6ZklsRURYb05Kdk1KVzJ0WHpTUnZpdEtQN2pMN2dpUUhXaW9qeHdJZFNuN2YtbHBQSnppMjE3M0QycVhuYUpQYVFqWW1HZDdrTjhzWQ?oc=5" target="_blank">Philippines verifying reports of at least five deaths after magnitude 7.8 quake</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEVlR0lobTBLX251amozdWRGQnRoQ2wzU1FrLUpNWGtGU0c0NjZPWEdjaDM0OS1USHJfdS1yQjVBM0hyZ2tnLVRPVmlsSnJSYVpVWEFUcWlLcmowUjhhRDVZRENvWHoybXFtbXZQb0o1RVZXYmZuSVBqWUdqVkVoRVZFRjltRzVxcGVYQWRaSk1zSy1xSGtUUEw4RXFrVDlsTTlCb0gwOW5VV0RhYlBDR0JIZndDckxzVDdNMzBjcXJUZ0puUVdfWjFMMDJ6V0p5eGc?oc=5" target="_blank">German, French leaders unable to resolve FCAS fighter jet dispute, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Israel hits Iran with new strikes despite Trump admonition - Reuters
+## Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTR6aGlfWGhCWWdKS05SWUxZSDk0RU0zcVRxSDEzM3dYcWVubTExaTE4cTRpb3VnS2IxVFoyRUpqLTVhMEhXWkpCUjNDTmpCZUpra1lVMWY2X0xjel9xQmtIdnhMX1hWRmk1d09oZHd2MnlBNDhfaktHNEFRa1RqWmFZaW1aTlo1Sk8yM3NMaFYzeFNkRHU0aHlMRTU3RVBPOUlLVW9ydGY1ZEdxaHg5ZQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTR6aGlfWGhCWWdKS05SWUxZSDk0RU0zcVRxSDEzM3dYcWVubTExaTE4cTRpb3VnS2IxVFoyRUpqLTVhMEhXWkpCUjNDTmpCZUpra1lVMWY2X0xjel9xQmtIdnhMX1hWRmk1d09oZHd2MnlBNDhfaktHNEFRa1RqWmFZaW1aTlo1Sk8yM3NMaFYzeFNkRHU0aHlMRTU3RVBPOUlLVW9ydGY1ZEdxaHg5ZQ?oc=5" target="_blank">Israel hits Iran with new strikes despite Trump admonition</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk?oc=5" target="_blank">Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ipsos quick count shows statistical tie in Peru's presidential race - Reuters
+## Alphabet taps Intel to make three million in-house chips, The Information reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW15SlQ4bjFJQWtTOHRUcFRXUmZYY2xIbktTMjdrRXo5REoybDE4MUw0MHJLNWlOR2xxLXdVWWlfZUpkZ25FeWMxTHBaaVU0WTlUODJueWZ1d2JiWnEyMTJjMVp2UDVhd1E4ZTJ4dzBGSzV1SEZMREc1dFdyNi0zdUt3MlJNSmdEa21aSlJrNWEybG1OR2xzVzFjWXB3MUtQYnJCQ2RSdUhzSGFmNFZZZ0g1dUs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW15SlQ4bjFJQWtTOHRUcFRXUmZYY2xIbktTMjdrRXo5REoybDE4MUw0MHJLNWlOR2xxLXdVWWlfZUpkZ25FeWMxTHBaaVU0WTlUODJueWZ1d2JiWnEyMTJjMVp2UDVhd1E4ZTJ4dzBGSzV1SEZMREc1dFdyNi0zdUt3MlJNSmdEa21aSlJrNWEybG1OR2xzVzFjWXB3MUtQYnJCQ2RSdUhzSGFmNFZZZ0g1dUs?oc=5" target="_blank">Ipsos quick count shows statistical tie in Peru's presidential race</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc?oc=5" target="_blank">Alphabet taps Intel to make three million in-house chips, The Information reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nvidia CEO says company is working with LG on humanoid robots and data centers - Reuters
+## Marvell shares jump after chipmaker wins spot in S&P 500 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVndmFsWlJzb2t1OHZmYk9LOHMzOWRNWkZ6WUw0V2ExUzRmdEdNQ3p6YTZkNG5yQ3lMcFNZT3VvVnotRFJJS3czTVpvWTU5dmhPQ1JJeWpXdDIxZm4zdThuTnBRSk9pUmE5aVVBNDhhR2cteGpYQWNrX1NqR01TLXJuY08yYzFfN2RtRlNSVTZKak14NENES2ZMQ3k0UjI2ZXc1UnlTYUREMmd6ZC0zUUJCVFQ5ZlhKTW5MVlNQNXJrbEdX?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxObmlpWmVTSXhfSVhVWXZybFF1aGZRTHlLSGQxdmQ4UTJDbHdVLUZwbkZXVEhBQWNpcXVCNGw3TVg2bW42dzk4eUdPaHFzYlE2aTZHSWxvYURvdlYyX3I5bFZaNkIydlFIZ29oN0dMYi1RRE0za1N4ZVM1TWNBdml5S1Q4eVB5bTV2NVAxc0FhTmo5Y25ZMjI3QmFFYjZ5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVndmFsWlJzb2t1OHZmYk9LOHMzOWRNWkZ6WUw0V2ExUzRmdEdNQ3p6YTZkNG5yQ3lMcFNZT3VvVnotRFJJS3czTVpvWTU5dmhPQ1JJeWpXdDIxZm4zdThuTnBRSk9pUmE5aVVBNDhhR2cteGpYQWNrX1NqR01TLXJuY08yYzFfN2RtRlNSVTZKak14NENES2ZMQ3k0UjI2ZXc1UnlTYUREMmd6ZC0zUUJCVFQ5ZlhKTW5MVlNQNXJrbEdX?oc=5" target="_blank">Nvidia CEO says company is working with LG on humanoid robots and data centers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxObmlpWmVTSXhfSVhVWXZybFF1aGZRTHlLSGQxdmQ4UTJDbHdVLUZwbkZXVEhBQWNpcXVCNGw3TVg2bW42dzk4eUdPaHFzYlE2aTZHSWxvYURvdlYyX3I5bFZaNkIydlFIZ29oN0dMYi1RRE0za1N4ZVM1TWNBdml5S1Q4eVB5bTV2NVAxc0FhTmo5Y25ZMjI3QmFFYjZ5QQ?oc=5" target="_blank">Marvell shares jump after chipmaker wins spot in S&amp;P 500</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## VIEW Tech stocks dive as Fed bets rattle AI rally - Reuters
+## Cerebras shares climb as Wall Street brokerages back AI chip strategy - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDgtZ3Z4ZFBTLTd4X2RDZGpodnJvdzRfOGlSY3VOaFB6WXBVVklsbHhLLXJOQ183NmdKeDBMc1RsWW1VVC10OWRWWENReUUya0lMLWNmWjhZTGRjY21OQWE0cV95YVZNbDBPYUNGVm1hTWJrTG9wR1ZPdTY5aEdrd1hMN0s1Vms?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDgtZ3Z4ZFBTLTd4X2RDZGpodnJvdzRfOGlSY3VOaFB6WXBVVklsbHhLLXJOQ183NmdKeDBMc1RsWW1VVC10OWRWWENReUUya0lMLWNmWjhZTGRjY21OQWE0cV95YVZNbDBPYUNGVm1hTWJrTG9wR1ZPdTY5aEdrd1hMN0s1Vms?oc=5" target="_blank">VIEW Tech stocks dive as Fed bets rattle AI rally</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5" target="_blank">Cerebras shares climb as Wall Street brokerages back AI chip strategy</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
