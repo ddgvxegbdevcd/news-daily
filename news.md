@@ -1,21 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-06-10 04:16:02
+更新时间：2026-06-10 15:51:42
 
-## Japan’s 30-Year Bond Sale Draws Weakest Demand Since June 2025
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-10/japan-s-30-year-bond-sale-sees-weakest-demand-in-a-year
-
-正文长度：0
-
-摘要：Japan’s 30-year government bond auction drew the weakest demand since June 2025 as a decline in yields dented investor appetite, with concerns over inflation and fiscal policy weighing on sentiment.
-
-
----
-
-## Stocks Decline Before CPI, Gold Drops on Fed Bets: Markets Wrap
+## Tech Giants Drive Stocks Lower as Oil Advances: Markets Wrap
 
 来源：彭博社
 
@@ -23,12 +10,38 @@
 
 正文长度：0
 
-摘要：Stocks resumed their slide as technology shares remained under pressure and investors trimmed positions ahead of a key inflation reading in the US. Gold dropped.
+摘要：A selloff in the world’s largest technology companies sent stocks lower, with the market also falling as oil climbed amid a flare-up in tensions in the Middle East that threatens a fragile ceasefire deal.
 
 
 ---
 
-## Oil Climbs After Fresh US Strikes on Iran Over Helicopter Attack
+## Commerzbank Raises More Concerns Tied to UniCredit Bid
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-10/commerzbank-says-it-raised-more-concerns-tied-to-unicredit-bid
+
+正文长度：0
+
+摘要：Commerzbank AG expressed fresh doubts whether the rising acceptance level of UniCredit SpA’s takeover bid is a full reflection of investor support.
+
+
+---
+
+## Trump Says Citi Is the Top M&A Adviser, But It's Not
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-10/trump-says-citi-is-the-top-m-a-adviser-but-it-s-not-video
+
+正文长度：0
+
+摘要：President Donald Trump congratulated Citigroup and CEO Jane Fraser for being the top adviser on mergers and acquisitions. But the bank is nowhere near the top of the list in the first quarter and has actually slipped. Todd Gillespie covers the bank for us.  (Source: Bloomberg)
+
+
+---
+
+## Oil Jumps on Another Sharp US Inventory Draw, Trump Iran Threats
 
 来源：彭博社
 
@@ -36,33 +49,64 @@
 
 正文长度：0
 
-摘要：Oil rebounded after the US launched fresh strikes against Iran following the downing of an American helicopter, posing a new threat to a fragile truce that’s been tested by recent attacks in the Middle East.
+摘要：Oil turned higher as US crude inventories posted another steep drop, and President Donald Trump criticized Iran over stalled peace deal negotiations, following an exchange of attacks from both sides in the last 24 hours.
 
 
 ---
 
-## Bouncing’s What Markets Do Best
+## Lula abre vantagem de 6 pontos sobre Flávio, diz Quaest
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-06-10/bouncing-s-what-stock-markets-do-best
+链接：https://www.bloomberg.com/news/videos/2026-06-10/lula-abre-vantagem-de-6-pontos-sobre-flavio-diz-quaest-video
 
 正文长度：0
 
-摘要：<p>But rebounds aside, red flags from BofA are warning of underlying danger in US stocks.</p>
+摘要：O presidente Luiz Inácio Lula da Silva ampliou sua vantagem sobre o senador Flávio Bolsonaro depois que o adversário foi envolvido em um escândalo de corrupção e os EUA aumentaram a pressão sobre o Brasil às vésperas da eleição de outubro, mostra a pesquisa Genial/Quaest. (Source: Bloomberg)
 
 
 ---
 
-## Indonesian Market Selloff Eases as Rupiah, Bonds, Stocks Rebound
+## How pandemic car shortages are still making new and used cars expensive
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-06-10/idr-usd-indonesia-market-selloff-eases-as-bonds-stocks-rupiah-rebound
+链接：https://www.cnbc.com/2026/06/10/car-prices-shortages.html
 
-正文长度：0
+正文长度：4230
 
-摘要：Indonesian assets rebounded after officials stepped up efforts to reassure foreign investors, driving the rupiah to its biggest gain in more than a year while easing pressure on bonds and lifting stocks.
+摘要：Pandemic-era shortages are still pushing up used car prices, and automakers learned lessons from that time that stands to keep supply tight
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The shockwaves of the Covid-19 pandemic are still hitting the U.S. car market and pushing prices up, even for exceptionally old cars.
+The pandemic dealt a severe blow to the total supply of new cars, which has rippled down to the used market.
+About 8 million vehicles that would have been made for U.S. buyers during those years never were, largely due to production shutdowns and supply shortages, said Jeremy Robb, chief economist for Cox Automotive. Automakers faced with curtailed production weighted their lineups toward money-making high-end vehicles, a strategy they have largely continued.
+These factors have been pushing up prices for everyone — even customers buying decade-old used vehicles.
+"I think it's kind of the new normal outside of a big economic impact," Robb said. "Supply is not getting a lot better over the next three to four years."
+About 16.2 million cars were sold in 2025, up from the pandemic-era low of 13.8 million in 2022, according to the U.S. Bureau of Economic Analysis. Cox is forecasting about 15.8 million vehicles will be sold in 2026, while JD Power is predicting 16.3 million.
+That's a significant drop from the record 17.55 million vehicles sold in 2016.
+Volumes were already dropping before the pandemic set in. The auto market is historically cyclical, so sales go up and down.
+But JD Power Senior Vice President Tyson Jominy said the U.S. auto industry has sold roughly 16 million fewer vehicles than it would have if annual sales had held at the 2016 record of 17.5 million. That is about a year's worth of volume gone — about half of it since the pandemic.
+Fewer vehicles coming to the new market have constrained supply in the used one.
+"A new vehicle sale is the marble at the top of the mousetrap game," Jominy said. "And when you drop that marble, it's going to go through all the chutes and ladders all the way down to the bottom."
+Leasing and incentives
+In addition to tighter supply, automakers and dealers have also cut back on industry practices like leasing and incentives because supply was so short.
+"Leasing is really expensive for an OEM," Robb said, referring to the acronym that stands for original equipment manufacturer, another name for automakers.
+Typically, payments are lower for leases, there can be lots of upfront costs for the manufacturer and when the car comes back it has to be flipped into the used market, among other things, he said.
+"The OEMs really leaned into building more profitable cars like trim levels, trucks, SUVs, things like that," Robb said. "And those, they're more expensive. They tend not to get leased as much."
+Off-lease vehicles are a big pipeline for the used market. Prior to the pandemic, leasing was roughly 30% of the new vehicle market, Robb said. In 2022, it hit a low of 18%.
+Because most leases are for three years, it has taken that long for the used market to feel the wave.
+Automakers also don't want to have to discount vehicles if they don't have to. During the pandemic, they didn't need to.
+Incentives — essentially discounts on new cars — averaged about 9.5% of vehicle prices across the new car market before the pandemic, according to Cox Automotive. During the pandemic, they fell to a fraction of that. They've climbed back up, averaging about 6.5% to 7% in 2026, Cox's Robb said. But that is still low compared with prepandemic levels, and they aren't represented evenly across the industry.
+All this means that used car prices have stayed relatively high.
+Meanwhile, consumers are facing high gas prices, inflation and increased expenses across the board.
+"Prices have gone up about a third and yet salaries and income have not nearly matched those increases," JD Power's Jominy said. "There's a smaller group of buyers that can afford new vehicles. The average new vehicle household income is over $150,000 a year versus about $80,000 for the U.S. economy as a whole."
+Data from Cox Automotive shows that demand for even 9- and 10-year-old used vehicles is much higher than it has historically been. That indicates that more consumers are trading down and seeking out ever-older and cheaper cars as prices rise.
+"We don't normally see this kind of pricing pressure in the lower end of the market," Robb said.
+
+</details>
 
 
 ---
@@ -207,64 +251,59 @@ Employees of Anthropic, which recently filed confidential plans to go public, ar
 
 ---
 
-## Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla
+## BYD to spend €2bn to build out 5-minute flash chargers in Europe - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/09/rivian-r2-suv-tesla-competition.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkxnOG5URFo0ZUh3Z1JVYXo1cUNNRjNLaDRLTGU4cGpleEI5enB3UUQyX2NJTk9CTzE3V3BTV19zbTgwaW1hb0NmWHlodFB0VzNUSXBGbkZKdVgwVkNjU3drQ21pUXZXRHRsWF9MTVV4b09qNjdqb2VVc2JjTXctdXowc0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：7734
+正文长度：0
 
-摘要：The R2 SUV is meant to transform Rivian from a niche EV manufacturer that sells luxury vehicles into a more mainstream brand like U.S. EV leader Tesla.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> PARK CITY, Utah — Rivian CEO RJ Scaringe is energetic as he makes his way through displays for the electric vehicle maker's new R2 SUV.
-The company founder moves quickly from the EV's suspension and software systems to different models of the R2 that will soon begin to reach American consumers, including a roughly $45,000 entry-level model that Rivian said Tuesday is being pulled ahead from late 2027 to next summer.
-But there's an anxiousness in Scaringe's voice as he talks to employees and media at the R2 launch event in western Utah and prepares to release the vehicle, starting Tuesday for current reservation holders, to the world.
-Scaringe founded the EV maker in 2009. He has grown Rivian into a company with a $22 billion market cap that ranked highest in Consumer Reports' most recent customer satisfaction survey, but lowest in predictive industry reliability due to consumer-reported problems with its early vehicles.
-That's unusual for an automotive brand. Typically, the more problems a brand has, the lower its customer satisfactions rank — but not Rivian.
-It's a testament to the brand Scaringe, a 43-year-old automotive enthusiast and tech entrepreneur, has built. That kind of customer satisfaction is also harder to maintain as a brand grows, which is Rivian's goal with the R2.
-The new SUV is meant to transform Rivian from a niche EV manufacturer that sells luxury vehicles — largely in California and states where electric vehicles sell well — to a more mainstream brand that can not only compete against U.S. EV leader Tesla but with broader mainstream automotive brands such as Jeep and Subaru.
-"Its goal is for it to be a high-volume product," Scaringe told CNBC. "Certainly, we're going to draw on some Tesla customers, but the market of non-Tesla customers is many, many times larger."
-Wall Street analysts have described the R2 as Rivian's make-or-break moment, comparable to Tesla moving from its pricey, first-generation EVs to the mainstream Model 3 and Model Y that currently dominate the U.S. market.
-Scaringe doesn't object to such a categorization.
-"When you build a company from scratch, everything is make or break. There is no company if things don't work," he said. "Saying that it's 'make or break,' it's like, of course, it is."
-Shares of Rivian were down by about 5% during intraday trading Tuesday following the new timing announcement for the entry-level model as well as expert reviews being released for the R2, which were largely positive.
-Rivian R2 will be cash-flow positive
-Rivian is also hoping to achieve its main goal with the R2: profitability. The EV maker lost $3.6 billion last year, while only delivering 42,247 vehicles.
-After promising investors it would be profitable on an adjusted basis by 2027, Rivian earlier this year withdrew that target without disclosing a new time frame to achieve the milestone. That comes as its automotive segment lost about $6,000 per vehicle it delivered during the first quarter of this year.
-Scaringe reconfirmed to CNBC that Rivian now expects to accomplish the target once a multibillion-dollar plant in Georgia ramps up. It's slated to begin production in late 2028 and could reach its full capacity by the end of this decade.
-Scaringe said Rivian will reach profitability on a per-unit production basis with the R2 this year. But he said the company needs more scale than the 160,000 units already planned for the vehicle at its current plant in Normal, Illinois, to achieve profitability.
-"Georgia brings the volume to generate the gross margin for the vehicle sales that covers everything," Scaringe said. "The good news is we start to really reduce our burn rate. That's the beauty of volume, and these vehicles all being cash flow positive at a vehicle level."
-Once the Georgia plant is fully operational, the company's production is expected to include the R1T pickup, R1 and R2 SUVs, R3 crossover, robotaxis and delivery vans. The company also has said it plans to offer additional vehicles based on the R2 platform.
-Despite the R2 looking similar to its nearly $80,000 R1S SUV, Rivian said it has cut the vehicle's build material costs in half, reduced production complexity and achieved other major efficiency gains.
-Scaringe said every R2 model — with starting prices ranging from roughly $45,000 to $58,000 — will be cash-flow positive for the company: "This is a requirement. Every single vehicle is gross margin positive," he said.
-That positive cash flow includes its $45,000 entry-level model that the company moved up after facing online backlash for the timing.
-Scaringe during a media roundtable said the change was made to address potential perception concerns about the R2 being a more expensive vehicle as well as a "desire to get it out there."
-"As much as the base trim gets a lot of attention, very few people actually end up buying it," Scaringe said. "It doesn't affect the economics of the business that much, but it generates so much noise."
-Tesla Model Y leads sales
-Once full production of R2 is online, Scaringe said, the company expects the sweet spot for sales to be in the low $50,000s, which Cox Automotive reports would put it slightly above the U.S. average selling price of $49,000 and below the average EV selling price of more than $55,000.
-That pricing and the vehicle's size place it in the heart of the compact and mid-size SUV markets, which Cox Automotive reports accounted for 45% of U.S. sales last year.
-For EVs especially, the Tesla Model Y dominates in the U.S. Cox Automotive estimates Tesla, which does not report sales by region, sold more than 357,500 Model Y units, or roughly 40% of the U.S. EV market, in 2025.
-"I think it'll do well. Rivian has a strong brand and there's room for another compelling vehicle, especially in that midsize segment," said Stephanie Valdez Streaty, director of industry insights at Cox Automotive, which is an investor in Rivian. "It's not just EV, they're going to try to compete and pull from [internal combustion engine] vehicles as well."
-Challenges for Rivian remain abundant, Valdez said. In addition to slower-than-expected EV adoption and lack of charging infrastructure, the company also needs to prove it can ramp up production quickly without quality issues.
-Of the non-EVs in the segments, the Toyota Rav4 and Honda CR-V lead the compact SUV segment, while the larger Ford Explorer and Jeep Grand Cherokee lead midsize SUVs.
-"We want people to look and just say ... 'it's the best car in that price range,' and by virtue of that, it'll draw new customers, non-EV customers," Scaringe said.
-To do so, Scaringe believes, Rivian will also need to become a leader in software and in-vehicle technologies such as automated driving and artificial intelligence.
-Rivian received outside validation for its emerging technology efforts in the form of a $5.8 billion deal with Volkswagen that includes putting Rivian's software and electrical architecture in the German automaker's future EVs.
-Volkswagen is now Rivian's largest shareholder, followed by longtime backer Amazon, which remains its largest customer for delivery vehicles.
-The R2 will launch with an advanced driver-assistance system, or ADAS, that will largely control itself under certain conditions with driver monitoring, but it will not have an AI voice assistant until later this year. Both systems will continue to be updated through over-the-air updates, according to Rivian.
-Scaringe said he views the company's emerging software services as being just as important as the vehicles.
-"You need them both. It's like asking is the heart or the brain more important in a human. You can't survive without both," Scaringe said. "It's a false binary. I don't see them as separate."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkxnOG5URFo0ZUh3Z1JVYXo1cUNNRjNLaDRLTGU4cGpleEI5enB3UUQyX2NJTk9CTzE3V3BTV19zbTgwaW1hb0NmWHlodFB0VzNUSXBGbkZKdVgwVkNjU3drQ21pUXZXRHRsWF9MTVV4b09qNjdqb2VVc2JjTXctdXowc0w?oc=5" target="_blank">BYD to spend €2bn to build out 5-minute flash chargers in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US launches strikes on Iran after downing of American helicopter - Financial Times
+## ‘You can’t fly planes that are empty’: Airlines draw up cuts for ‘ugly’ winter - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2hnVzVTOW5aeS1tTy1qRVFnemlpbVpoWHV1OXJ1Q1JmQzl0d3hidWd2dy1RcVFKMXMtdk5qOEpSYUVUR19FdFVxa1dXMGV5algtQ0thLTE0WC04bmk0dFpXM1hkNkQtaTBvdTNlWFlnWHEyN1ZOdGNvQndaRDcwTmVaYWg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2hnVzVTOW5aeS1tTy1qRVFnemlpbVpoWHV1OXJ1Q1JmQzl0d3hidWd2dy1RcVFKMXMtdk5qOEpSYUVUR19FdFVxa1dXMGV5algtQ0thLTE0WC04bmk0dFpXM1hkNkQtaTBvdTNlWFlnWHEyN1ZOdGNvQndaRDcwTmVaYWg?oc=5" target="_blank">‘You can’t fly planes that are empty’: Airlines draw up cuts for ‘ugly’ winter</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Ukraine builds cheap alternative to US Patriot missiles - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXpKM1hrMFBncS1ia0VkNk5UNmtrWTZOTDZUdG1sOXJrX1VBbGJfSnN1WnpUaUhxMmZvZzFXU3hlY25pdVRiU3VBalg2SFJEcnREMUhucFVTTnN6OUxhSGs2ckFSQ3JWdWIxcWNNOW1wa1pnMDZUUlQ3R2ZkNEQxaThCUWs?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXpKM1hrMFBncS1ia0VkNk5UNmtrWTZOTDZUdG1sOXJrX1VBbGJfSnN1WnpUaUhxMmZvZzFXU3hlY25pdVRiU3VBalg2SFJEcnREMUhucFVTTnN6OUxhSGs2ckFSQ3JWdWIxcWNNOW1wa1pnMDZUUlQ3R2ZkNEQxaThCUWs?oc=5" target="_blank">Ukraine builds cheap alternative to US Patriot missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1RvV0taTTFtd1ZwZWVMM2hrSWR1VlVtNXQ3bWhKMVRPOEx2VlpEY1BudzJCdk92OUxWYjNwbFVpN3dHVTlWYno5b3ZkMUJrVUlwRTdJN1ltTEYwMElSbml1S3ByelVORWFsNTZRcXBNZlNobTBrRVdkZVJnZV90OVkyUHI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1RvV0taTTFtd1ZwZWVMM2hrSWR1VlVtNXQ3bWhKMVRPOEx2VlpEY1BudzJCdk92OUxWYjNwbFVpN3dHVTlWYno5b3ZkMUJrVUlwRTdJN1ltTEYwMElSbml1S3ByelVORWFsNTZRcXBNZlNobTBrRVdkZVJnZV90OVkyUHI?oc=5" target="_blank">ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US and Iran exchange strikes after downing of American helicopter - Financial Times
 
 来源：金融时报
 
@@ -272,124 +311,72 @@ Scaringe said he views the company's emerging software services as being just as
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVyZUhXaE1vc1hFTEdkdXRMRzFKTzZENERiVUYxS0ZDN0lhUi1ZdG51Q2RxTnhRMWdrUnBMOU9nNUl4bnlVY3pRcWN0NVN2LVBUaks2eTRpMmpabldYWHBFRHZNMmZtR05WM3pLaklMS1hJMWJBZW5BTFZpQTVTRHprU24?oc=5" target="_blank">US launches strikes on Iran after downing of American helicopter</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVyZUhXaE1vc1hFTEdkdXRMRzFKTzZENERiVUYxS0ZDN0lhUi1ZdG51Q2RxTnhRMWdrUnBMOU9nNUl4bnlVY3pRcWN0NVN2LVBUaks2eTRpMmpabldYWHBFRHZNMmZtR05WM3pLaklMS1hJMWJBZW5BTFZpQTVTRHprU24?oc=5" target="_blank">US and Iran exchange strikes after downing of American helicopter</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Steve Hilton advances to general election for California governor - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGhFeXNYcEpYYXN2dDBsaVBqQ3FEUUpaZFRLTEp4TGZzZGhaWjBFLWJiUVZ6S3dMOGlaMXJiN1BlUXltaGl0NnpIZ05zV0phMi1iT0dOOXJQU1Vjcld1S0lFQzJjeWNjQ1VsUHZwcllOa1p1NmFsbWltM0xHUE9EQllQd2Y?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGhFeXNYcEpYYXN2dDBsaVBqQ3FEUUpaZFRLTEp4TGZzZGhaWjBFLWJiUVZ6S3dMOGlaMXJiN1BlUXltaGl0NnpIZ05zV0phMi1iT0dOOXJQU1Vjcld1S0lFQzJjeWNjQ1VsUHZwcllOa1p1NmFsbWltM0xHUE9EQllQd2Y?oc=5" target="_blank">Steve Hilton advances to general election for California governor</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Boots in talks over $10bn sale as owners look to ditch IPO plan - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxON0E5X21rOFNGWnJZdDcxSE13QzVTNzkwX0stOG5qSW1iMDJPaXlWZ1RWUVE3ZGdldGZWY0JPMFBWSzlIZFBjZHJzNWVSVXl0X1JHNlRBTzV1RnFFNlo2VUlCQzJ6VnpNWXBKR3pyUHhXY2JHOWpESDBfVDRaaktqZU81RXc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxON0E5X21rOFNGWnJZdDcxSE13QzVTNzkwX0stOG5qSW1iMDJPaXlWZ1RWUVE3ZGdldGZWY0JPMFBWSzlIZFBjZHJzNWVSVXl0X1JHNlRBTzV1RnFFNlo2VUlCQzJ6VnpNWXBKR3pyUHhXY2JHOWpESDBfVDRaaktqZU81RXc?oc=5" target="_blank">Boots in talks over $10bn sale as owners look to ditch IPO plan</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## GSK’s $10.6bn cancer deal will lead to more - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkY2YmVxVG8zcjhGbWlIZkdDanF4VUd1V2VWOG9SUWFxclNmbFBZdE91S2pQX2dTYWxid3RRcGdHQ21vdVIzRUZNb0ZVODNQZ3Vxd1EtMEllSGF4S19lcmZvN3o5My1SMlJISDRadXh5MjJFWXdFV0VuWVZQaDJneHB0VXk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkY2YmVxVG8zcjhGbWlIZkdDanF4VUd1V2VWOG9SUWFxclNmbFBZdE91S2pQX2dTYWxid3RRcGdHQ21vdVIzRUZNb0ZVODNQZ3Vxd1EtMEllSGF4S19lcmZvN3o5My1SMlJISDRadXh5MjJFWXdFV0VuWVZQaDJneHB0VXk?oc=5" target="_blank">GSK’s $10.6bn cancer deal will lead to more</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Who calls the shots? Trump and Netanyahu clash over diverging goals in Middle East war - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVg5ZTEydlYwUjFOQXlrMGRTUjVuNXF3bHJYLVM4Zi1QcEhNTURySVhUeGNhbHJkNkZQbUZ2eDNFQ3ZicUtWRWh0QnhYdURwOGhPUEZoMjhIbDBuWnJGNTZ3VWhqOWRWVzctZkcyaHhPd25ZcVI3b0UwZ1ZGOUd5eVFVZ2c?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVg5ZTEydlYwUjFOQXlrMGRTUjVuNXF3bHJYLVM4Zi1QcEhNTURySVhUeGNhbHJkNkZQbUZ2eDNFQ3ZicUtWRWh0QnhYdURwOGhPUEZoMjhIbDBuWnJGNTZ3VWhqOWRWVzctZkcyaHhPd25ZcVI3b0UwZ1ZGOUd5eVFVZ2c?oc=5" target="_blank">Who calls the shots? Trump and Netanyahu clash over diverging goals in Middle East war</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Gold drops as oil climbs on renewed US-Iran hostilities - Reuters
+## US consumer inflation posts largest increase in three years in May - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxOLXRCSURfSXlOd0d0SlowNm9hUTlYUGVqZ1hFTnRtY3pha2RQRktxVVd5MEpIaW54cWN4Y1ZrVGVCZGkyanRmb29DZnNMWHJHbnRhWkhISE9ZQk45RnZ1blR2V0dVUFUtSHF5amF6VnZ4UWY0RTJWYkhHOVJaV0xnZms1V1AxaUE1LTB2QWJzQlNlbTdyZU9wdndKUWVvZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWNSSWh5eDBlWmZCYkN5ZjVjSFNVaC1jVmUteC1pelBkR2ltcmpwYUhYa01sV3Y5dGpGUGNFMDZMeTFRT082Wk5yb1BiU3ZQMjZqR2ZpLV9zY25oOU5STURWR2xjZ0dDVTlhQnB4RFNuRTVxd3ZKbVlDVWpvT1pFMmp2Z2JNa2JlTGJsNFN3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOLXRCSURfSXlOd0d0SlowNm9hUTlYUGVqZ1hFTnRtY3pha2RQRktxVVd5MEpIaW54cWN4Y1ZrVGVCZGkyanRmb29DZnNMWHJHbnRhWkhISE9ZQk45RnZ1blR2V0dVUFUtSHF5amF6VnZ4UWY0RTJWYkhHOVJaV0xnZms1V1AxaUE1LTB2QWJzQlNlbTdyZU9wdndKUWVvZw?oc=5" target="_blank">Gold drops as oil climbs on renewed US-Iran hostilities</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWNSSWh5eDBlWmZCYkN5ZjVjSFNVaC1jVmUteC1pelBkR2ltcmpwYUhYa01sV3Y5dGpGUGNFMDZMeTFRT082Wk5yb1BiU3ZQMjZqR2ZpLV9zY25oOU5STURWR2xjZ0dDVTlhQnB4RFNuRTVxd3ZKbVlDVWpvT1pFMmp2Z2JNa2JlTGJsNFN3?oc=5" target="_blank">US consumer inflation posts largest increase in three years in May</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises nearly 1% as US launches new strikes against Iran, supply tightens - Reuters
+## Two crew missing after suspected US strike on tanker off Oman - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWRzWENKaDVOcTgwMVNLLVlhMVhzYXphRExOeXY1dFN1S1NSdUd0YnhYVkdCMFEzQ1B2TFdKNlhnM1Z3dmVuZlJYRU16ZTlGWDR5VFRfLW8zOVRuc2NBNnNKU1ZJX2g1VnRyakxNMFhmNWVsVGdSdTUxVm9GZWJKaUY3ZVF4eEpobFNjb2daWEVwd3gwM2pIVERFenlZMXowQlJUNU13RHpveGM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5" target="_blank">Oil rises nearly 1% as US launches new strikes against Iran, supply tightens</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWRzWENKaDVOcTgwMVNLLVlhMVhzYXphRExOeXY1dFN1S1NSdUd0YnhYVkdCMFEzQ1B2TFdKNlhnM1Z3dmVuZlJYRU16ZTlGWDR5VFRfLW8zOVRuc2NBNnNKU1ZJX2g1VnRyakxNMFhmNWVsVGdSdTUxVm9GZWJKaUY3ZVF4eEpobFNjb2daWEVwd3gwM2pIVERFenlZMXowQlJUNU13RHpveGM?oc=5" target="_blank">Two crew missing after suspected US strike on tanker off Oman</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## SpaceX aims to launch orbital AI computing tests by end of next year, sources say - Reuters
+## Hegseth travels to US base in Cuba as pressure on Havana mounts - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEJ0VnJacU5WYTU0emFkOGlLVi0xQ0E2ckhETkM1SjdFSlgzQzkwSGsxdVNsOFhQN2hCbE5WVy1OOFBDVE9yUHJTU3BwalZsdVdPOWJQRjFGTDFGQmxobXJhX2VkLVFzdWVpZ04td29HeXcxQzdxYVhwNlhhV2JCTVRDYm4zWTdOVjFHTnNjZDl2MjdybUtndlMzSGc5UVRucmdSU3FSbEUtaEZHZVhkMEVDRzZNd3h0TDNHTVdfOEJTRTdqZnB5dzlqMXlTZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVdtdXRSNzdTSFlpT3Q3aG81MklfN3BhalQyTlpab3lxNWxBUGhZT1dDczNxdVJTVkw3M1k5MTB3UC1YX0JiZjZfTTNVV00wT2VrVlRlRVFpck51VDNsRlFmQnlKUUFTRzM5VnEwSmwydXh4eUR0ZWpLbzkyUkJVVnlGZVJzYjFDLXk2Qmd4TEk2LVpqSkZzc0NMdnI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEJ0VnJacU5WYTU0emFkOGlLVi0xQ0E2ckhETkM1SjdFSlgzQzkwSGsxdVNsOFhQN2hCbE5WVy1OOFBDVE9yUHJTU3BwalZsdVdPOWJQRjFGTDFGQmxobXJhX2VkLVFzdWVpZ04td29HeXcxQzdxYVhwNlhhV2JCTVRDYm4zWTdOVjFHTnNjZDl2MjdybUtndlMzSGc5UVRucmdSU3FSbEUtaEZHZVhkMEVDRzZNd3h0TDNHTVdfOEJTRTdqZnB5dzlqMXlTZw?oc=5" target="_blank">SpaceX aims to launch orbital AI computing tests by end of next year, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVdtdXRSNzdTSFlpT3Q3aG81MklfN3BhalQyTlpab3lxNWxBUGhZT1dDczNxdVJTVkw3M1k5MTB3UC1YX0JiZjZfTTNVV00wT2VrVlRlRVFpck51VDNsRlFmQnlKUUFTRzM5VnEwSmwydXh4eUR0ZWpLbzkyUkJVVnlGZVJzYjFDLXk2Qmd4TEk2LVpqSkZzc0NMdnI?oc=5" target="_blank">Hegseth travels to US base in Cuba as pressure on Havana mounts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US military launches new strikes on Iran after Apache downing - Reuters
+## Trump says Iran has taken too long to negotiate, will 'pay the price' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5" target="_blank">US military launches new strikes on Iran after Apache downing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5" target="_blank">Trump says Iran has taken too long to negotiate, will 'pay the price'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian stocks slide, oil gains as Middle East tensions escalate - Reuters
+## Only 11% of Europeans view US as ally, survey shows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzdFYTBQUjA3YzBlRWNHdUp6OXBpbVlabUYwVWJXYzlJa0pHWTVuZ2M4YXlSeEtXZHJDMUotQUdUaXotdklnOXM5R0VEX3QwWVAybFdMSE1hQktPcU9Lc1czUjR0dlRwY1pvZFZDTndsUWRHWHhWOVhiVWs4SFdsVHdUcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxOckxkaG5vOHBkeDlSbjBCRWdTZXlfOTNBQkJ1SHBtNlFJaERsN3VHUlhaVGNZZkZxc05zcTE4cFZLdjRNWFpBNm5oSXB0cUVINlY0Z0R0VnlYSTJFVnNVemR5T09fcnJwLWttZ0ktV3l2OHBuRThUSjhNRkFHV1Z5NVpVLURWNDgtM3dfb2Q0VGZ0dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzdFYTBQUjA3YzBlRWNHdUp6OXBpbVlabUYwVWJXYzlJa0pHWTVuZ2M4YXlSeEtXZHJDMUotQUdUaXotdklnOXM5R0VEX3QwWVAybFdMSE1hQktPcU9Lc1czUjR0dlRwY1pvZFZDTndsUWRHWHhWOVhiVWs4SFdsVHdUcw?oc=5" target="_blank">Asian stocks slide, oil gains as Middle East tensions escalate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOckxkaG5vOHBkeDlSbjBCRWdTZXlfOTNBQkJ1SHBtNlFJaERsN3VHUlhaVGNZZkZxc05zcTE4cFZLdjRNWFpBNm5oSXB0cUVINlY0Z0R0VnlYSTJFVnNVemR5T09fcnJwLWttZ0ktV3l2OHBuRThUSjhNRkFHV1Z5NVpVLURWNDgtM3dfb2Q0VGZ0dw?oc=5" target="_blank">Only 11% of Europeans view US as ally, survey shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
