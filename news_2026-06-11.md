@@ -1,68 +1,184 @@
 # 每日财经新闻
 
-更新时间：2026-06-11 04:39:01
+更新时间：2026-06-11 16:13:14
 
-## ECB Set for First Hike Since 2023 as Prices Soar: Decision Guide
+## Oracle Bonds Rally as It Signals Disciplined Funding Outlook
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-11/ecb-set-for-first-hike-since-2023-as-prices-soar-decision-guide
+链接：https://www.bloomberg.com/news/articles/2026-06-11/oracle-bonds-rally-as-funding-plans-signal-borrowing-discipline
 
 正文长度：0
 
-摘要：The European Central Bank is set to raise interest rates for the first time since 2023, judging it can no longer ignore the upswing in inflation caused by the Iran war.
+摘要：Oracle Corp. bonds rallied on Thursday even as its shares tumbled, after the database giant calmed debt investors by saying it doesn’t expect additional bond issuance this calendar year and outlining plans to raise $40 billion of debt and equity in the current fiscal year.
 
 
 ---
 
-## Global Stocks Hit One-Month Low, Oil Gains on Iran: Markets Wrap
+## N.O.R.E. & DJ EFN Want To Become the Def Jam of Podcasts
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-10/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-06-11/n-o-r-e-dj-efn-want-to-become-the-def-jam-of-podcasts-video
 
 正文长度：0
 
-摘要：Global equities fell to a more than one-month low as a technology-led selloff deepened and the war in Iran showed little signs of ending. Oil rose.
+摘要：After hitting 500 episodes, Rapper N.O.R.E & DJ EFN, hosts of the show ‘Drink Champs,' discuss what they wanted from the show when it first started, and how it came to be. The two discuss their music careers, hip-hop culture, and their experience navigating the business side of it all. They speak with Romaine Bostick on “The Close.” (Source: Bloomberg)
 
 
 ---
 
-## Markets May Be a Bit Too Relaxed About Inflation
+## Oil Swings in Thin Trade as US Threatens Key Iranian Export Hub
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-06-11/markets-may-be-a-bit-too-relaxed-about-inflation
+链接：https://www.bloomberg.com/news/articles/2026-06-10/latest-oil-market-news-and-analysis-for-june-11
 
 正文长度：0
 
-摘要：<p>Belief is that the numbers aren’t bad enough to warrant a Fed rate hike.</p>
+摘要：Oil flipped between gains and losses in thin trading as traders weighed US President Donald Trump’s threats to step up attacks on key Iranian energy infrastructure.
 
 
 ---
 
-## SpaceX IPO Limits Investors' Rights: Legal Expert
+## What Will Be The Legacy of the 2026 World Cup?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-11/spacex-ipo-limits-investors-rights-legal-expert-video
+链接：https://www.bloomberg.com/news/videos/2026-06-11/what-will-be-the-legacy-of-the-2026-world-cup
 
 正文长度：0
 
-摘要：Ann Lipton, the Laurence W. Demuth Business Law Chair, cautions that the IPO structure of SpaceX strongly limits the rights of everyday investors. She speaks on Bloomberg TV's Insight With Haslinda Amin. (Source: Bloomberg)
+摘要：What is the legacy of the 2026 World Cup: expensive tickets or finally growing soccer in the US? On this week's episode of The Deal, Jason Kelly and Alex Rodriguez asked The Athletic's Henry Bushnell if ticket prices will ultimately drown out everything else. Listen to the full interview wherever you get your podcasts. (Source: Bloomberg)
 
 
 ---
 
-## Europe Is Finally, Slowly Getting Its Act Together
+## ECB Likely Needs to Keep Hiking After Thursday’s Move, IMF Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-11/europe-is-finally-slowly-getting-its-act-together-mq8yzfw8
+链接：https://www.bloomberg.com/news/articles/2026-06-11/ecb-may-need-to-keep-hiking-after-thursday-s-rate-move-imf-says
 
 正文长度：0
 
-摘要：Europe is shaking itself awake.
+摘要：The European Central Bank will need to raise borrowing costs again, the International Monetary Fund said just hours after officials in Frankfurt delivered a quarter-point hike.
+
+
+---
+
+## Elections advertising spend for 2026 expected to reach record high, outpacing presidential years
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html
+
+正文长度：3429
+
+摘要：High-profile 2026 midterm races in California, Texas and other key states are driving higher spend earlier in the cycle, AdImpact found.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The 2026 midterm election cycle could surpass the 2024 presidential cycle to reach record advertising spend for any U.S. election, according to a new report from advertising intelligence company AdImpact.
+This year's races are projected to reach $11.6 billion in ad spend, making it the most expensive cycle ever and eclipsing the $11.2 billion spent on ads for the 2024 election between now-President Donald Trump and former Vice President Kamala Harris, AdImpact estimates. The new projection is a $795 million increase from a previous projection made last year.
+The midterm cycle is set to be more intense than previous cycles, with Republicans controlling both chambers of Congress. The 2022 midterm cycle drew $8.9 billion in ad spend, according to AdImpact. If the projection holds, the 2026 ad spend would be 30% higher than the last midterm election.
+"From record-setting races and surging party committee war chests to a competitive landscape that continues to expand, all indicators point to 2026 being the most expensive political advertising cycle in history," the report read.
+AdImpact said it expects $5.6 billion to be spent on broadcast, $1.4 billion on cable, $2.6 billion on connected TV and $1.68 billion on digital.
+Advertising remains a key revenue driver for media companies, with sports, live events and news attracting the most spending. Elections, particularly those that are hotly contested or in battleground states, often bring in some of the highest ad revenue for the owners of local broadcast stations across the country.
+Broadcast TV remains one of the largest forces in political advertising, according to the report, comprising nearly half of the total cycle spending and driven almost entirely by state races.
+States seeing the largest spend overall include California, Texas, Michigan and Ohio. Michigan, Ohio and Texas all feature competitive Senate races, while California has an expensive governor's race.
+AdImpact estimated that through June 1, political ad spending has reached $4 billon, a 46% increase over the same point in the 2024 presidential election cycle.
+"Much of that surge is driven by a concentrated set of high-profile, high-dollar contests that materialized earlier in the cycle than is typical," the report read.
+Politicians are also relying more heavily on digital spending across platforms like Facebook, Google, Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact.
+Within the election categories, the Senate has seen a notable increase in projected political spend, expected to draw nearly $3.4 billion, with one of the most expensive races being Texas' Senate primary, the report said. Republicans hold 53 U.S. Senate seats compared with Democrats' 45. The Senate's two independents caucus with Democrats.
+In gubernatorial races, three of the four most expensive competitions on record are taking place in 2026 in California, New Jersey and Georgia, according to AdImpact.
+Even down ballot spending is expected to reach record levels this year, surpassing the record set in 2022 of $3.2 billion.
+The midterm election cycle's most expensive period is yet to come, according to AdImpact. The highest spending is between August and November, accounting for between 58% and 67% of all political ad spending for the cycle, with October itself accounting for between 28% and 36% of spend as the country nears Election Day.
+
+</details>
+
+
+---
+
+## SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html
+
+正文长度：5001
+
+摘要：SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+The SpaceX IPO is expected to mint thousands of new millionaires and multiple new billionaires. While current and former employees won't be able to sell their shares right away, some are already planning how to spend their windfall.
+That newfound wealth could have a ripple effect across the luxury property markets near SpaceX's office hubs and boost spending on watches, private jet charters and other status symbols, experts told CNBC.
+Real estate agent Gerard Bisignano said he has recently received inquiries from several longtime SpaceX employees looking for homes in the South Bay area of California. They range in age from their mid-30s to early 40s, he said.
+Tune in at 5 a.m. ET on Friday to hear from SpaceX President and COO Gwynne Shotwell in an exclusive discussion about the historic IPO. Watch in real time on CNBC+ or the CNBC Pro stream.
+"They seem to be in a state of disbelief themselves that they're suddenly going to be able to, in some examples, buy a home for their parents. They're going to have all this discretionary income that they can really do what they want," said Bisignano, a partner at Vista Sotheby's.
+SpaceX's California office is a short drive away from the wealthy coastal communities of Manhattan Beach, Redondo Beach, Hermosa Beach and Palos Verdes Estates. Bisignano said he expects many SpaceX employees to snap up high-end homes in the area. He noted there was a similar buying spree in the neighborhoods around the Facebook headquarters after that company's initial public offering in 2012, with home values there jumping 21%.
+Bisignano said he also anticipates an influx in interest for second homes in other scenic California locales like Mammoth Lakes, Palm Springs and Tahoe.
+Texas real estate agent Gary Dolch said he's seeing similar interest from SpaceX employees in the greater Austin area, with SpaceX's Bastrop campus located roughly 30 miles from downtown Austin. Some plan to buy soon after taking a margin loan, while others are waiting for the IPO lockup period to end, he said.
+Prospective homebuyers' tastes run the gamut from luxury condos on Lake Austin or Lake Travis to 1,000-acre ranches farther from the city, Dolch said. He added that he's optimistic that the IPO will boost the luxury market in Austin, which has softened over past three to four years.
+"It feels like we're on the verge of the next wave in Austin's expansion fueled by this tech run," he said.
+The newly wealthy rarely stop their spending spree at a dream home, Bisignano said. He expects buyers to vie for homes with four-car garages to fit their brand new Ferraris.
+And while sports cars are a popular choice, luxury watches are a more practical status symbol for every day use.
+Paul Altieri, founder and CEO of Bob's Watches, said a watch is often the first luxury purchase after a major liquidity event. He said customers usually opt for Rolexes as they are instantly recognizable. Models like the Daytona, GMT-Master II and Submariner are most popular, he added.
+"The watch becomes a reminder of that accomplishment every time they put it on," he said. "The stock certificate stays in a brokerage account. The watch goes on your wrist."
+John Shmerler, CEO of The 1916 Co., a luxury watch and jewelry retailer, said customers who have been waiting for years are often willing to pay a premium for preowned timepieces by trophy brands like Patek Philippe and F.P. Journe.
+The splurge doesn't stop there. While some SpaceX employees may have already flown first class, the IPO will enable many to fly private.
+D.J. Hanlon, executive vice president of sales at Flexjet, and Kolin Jones, founder and CEO of Amalfi Jets, said their private jet companies have seen recent inquiries specifically related to the SpaceX IPO.
+Jones said clients are already chartering jets to celebrate the occasion with a trip.
+The top choice for celebrating a liquidity event is Las Vegas, especially for younger fliers traveling without children, Jones said. Miami and Cabo San Lucas, Mexico, are also popular destinations.
+Fliers looking to take the entire family on vacation, however, lean toward Aspen, Colorado, and Yellowstone National Park, Jones said. And Disney World is a classic choice for local families with young children who want to avoid the hassle of airport security, he added.
+With newly wealthy customers, the Amalfi Jets sales team sometimes receives follow-up calls from wealth managers asking to cancel their clients' charter or downgrade to smaller jets, Jones said.
+"It is sometimes comical to see the clients arguing with their wealth manager, saying, 'No, it's my money, I want the Gulfstream,'" he said. "There's going to be a lot of people that are flying private for the first time, and I think it's going to be a really fun spending spree."
+
+</details>
+
+
+---
+
+## Beyond SpaceX: Here's where family offices see buying opportunities in the space economy
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html
+
+正文长度：5048
+
+摘要：Personal investment firms of the ultra-rich are interested in space startups even without Elon Musk's name attached.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+The investment firms of billionaires including ex-eBay President Jeff Skoll and AutoZone's Pitt Hyde are set to reap rewards from SpaceX's IPO this Friday.
+However, while SpaceX's profile eclipses that of nearly every other private space company, family office investors told CNBC that they see other opportunities in the sector even for companies without Elon Musk's name attached. Moreover, they said they view space-related startups as opportunities to invest in infrastructure and defense rather than flashy bets on space exploration.
+Tune in at 5 a.m. ET on Friday to hear from SpaceX President and COO Gwynne Shotwell in an exclusive discussion about the historic IPO. Watch in real time on CNBC+ or the CNBC Pro stream.
+Gary Lauder, a cosmetics heir turned venture capitalist, has invested in SpaceX through a special purpose vehicle and two venture funds. He told CNBC he was attracted to the strength of its Starlink satellite technology, not the prospect of space tourism.
+Much of Lauder's early investing was in telecommunications, and he took a seminar in satellite communications in the early '90s.
+"I never dreamed of being an astronaut," he said. "It's just an important mode of communication."
+Jason Blanck, an investor who started his namesake family office in 2024, said he is interested in the picks and shovels of space, like mission-critical hardware and data networks.
+"I think the public markets are focused heavily on debating rocket launch cadences, costs around flight development, but from my perspective and where I sit, managing permanent family capital, the real narrative has actually quite evolved," he said.
+Robin Lauber's Infinitas Capital invested in SpaceX in early 2025 through a secondary offering. He cited Musk's track record and the success of Starlink as reasons to put money in. Lauber also noted the valuation was "reasonable" compared with the more than $1.75 trillion expected now.
+He told CNBC that Infinitas would have sold some shares before the initial public offering had it found a willing buyer at the right discounted valuation. Lauber is open to selling locked-up shares at a discount to recover the initial cost of investment and seeing how the other shares fare.
+Looking forward, Lauber is weighing more investments in European space companies such as Isar Aerospace, a German launch service provider. He is also considering participating in a new fund by Alpine Space Ventures, which counts a SpaceX alum as a founding partner.
+"European sovereignty is a huge topic everywhere," he said.
+Investing in space-related firms was unpopular not so long ago, according to Jon Kutler of Admiralty Partners. He spent 10 years in the U.S. Navy before becoming an investment banker specializing in aerospace and defense in the early 1980s. He left Wasserstein Perella & Co. in 1992 to start his own investment firm in order to focus more on the sector to the chagrin of his then-boss, Bruce Wasserstein.
+""He told me I was an idiot because the Cold War was over and there was going to be no more spending in the defense industry," Kutler said. "People had extrapolated that to be the end of the defense industry, but if you look over the history of mankind, we're just not a very peaceful species. To me, it seemed ludicrous to declare an end to defense spending, and I was willing to bet against that with my own capital and my own time."
+Kutler sold that investment firm in 2002 to focus on his family office, Admiralty Partners. His investments include Firefly Aerospace, a rocket maker with clients including Lockheed Martin and the U.S. Space Force.
+Investing in aerospace firms pioneering new technologies requires patience, Kutler said. This is where family offices have an edge on traditional private equity firms since they aren't under pressure to realize returns on a fixed timeline.
+While the prospect of traveling to Mars is exciting, space exploration companies face a harder path to financial success because federal government spending is less consistent, he said.
+"Defense spending is going to be a recurring theme, It will have ups and downs based upon administration priorities, but there's always going to be an end market there," he said.
+Kutler said the enthusiasm around the SpaceX IPO belies considerable risks to investing in aerospace, such as swings in federal spending. He added that he is concerned federal cuts to research funding will endanger the pipeline of future startups.
+"There is a temptation because of what's going on right now to think that commercial space companies are the answer to everything," Kutler said. "Perhaps over time the commercial industry may able to do it cheaper, but if you amortize everything out, it takes a long time for that to happen, and these early investments by the government were key to making these things happen."
+
+</details>
 
 
 ---
@@ -168,110 +284,54 @@ Data from Cox Automotive shows that demand for even 9- and 10-year-old used vehi
 
 ---
 
-## GM eyes new battery chemistry to grow AI data center, energy storage business
+## ECB raises interest rates for first time since 2023 - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVDejVQbXlRX09uS0RHc3FxekVEVnEtcjk0Si1VbUNyU1pZSm1LVHF3a3JaZG44QVE3YzNLTEJFdHl2Y0lCXzFDeWNXY1FTUkFBY3oxbklSaHNCMm5DbzB0M0I2VDc2TDlVUHhXMUVJNmlYcTZLYkRTTElHb2d0ZTN5djE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4343
+正文长度：0
 
-摘要：GM is expanding efforts to capitalize on the expected growth of energy storage and data centers and the development of next-generation sodium-ion batteries.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> General Motors is expanding efforts to capitalize on the expected growth of energy storage and data centers by promoting different battery cell chemistries, while also offering more support for its electric vehicle owners to combat higher energy costs.
-The Detroit automaker detailed plans Tuesday to increase its vehicle-to-grid capabilities — in which a vehicle can provide energy to the electric grid — for its EV customers and develop next-generation sodium-ion batteries that GM's battery leader said "will reshape grid-scale energy storage."
-Both moves are meant to address concerns about rising energy costs amid an artificial intelligence boom. The stock market has speculated that vast sums of money will be spent on infrastructure to support a big data center buildout.
-"Sodium-ion-powered energy storage systems have the potential to operate without active cooling and with much less system complexity," Kurt Kelty, GM's vice president of battery and sustainability, said Tuesday in a blog post. "In large energy storage systems, that matters."
-Not having to cool the battery cells could lead to lower upfront costs as well as operating costs, the automaker said.
-GM is partnering with Denver-based startup Peak Energy on sodium-ion battery cell development, after the company already demonstrated how the chemistry can "translate into lower costs and greater reliability," Kelty said.
-The automaker expects the tie-up with Peak Energy will produce sodium-ion cells for customer use after 2028.
-The leadership team of Peak Energy — which was founded in 2023 — includes former employees of Tesla, Lockheed Martin and battery developer Northvolt, according to its website.
-A GM spokesman declined to comment on details or cost of the partnership with Peak Energy.
-Along with developing new sodium-ion battery cells, GM said it is continuing work on reusing its large EV batteries for energy storage systems with companies such as Redwood Materials and producing lower-cost lithium iron phosphate, or LFP, battery cells through a joint venture with LG Energy Solution.
-LFP batteries are viewed as a quick way for companies to take advantage of existing battery capacity, while GM said it sees the sodium-ion battery cells as a future solution for such systems.
-"Our next-generation sodium-ion cell development will drive energy density higher, with the potential to outperform more mature chemistries, including LFP, over time. In a market increasingly shaped by cost pressure, energy demand growth, and geopolitical risk, that's a real differentiator," Kelty said.
-GM has spent billions of dollars in recent years to increase its research and development as well as battery cell production for exponential growth of all-electric vehicles that did not materialize as planned.
-GM, through its Ultium Cells joint venture, currently has about 90 gigawatt hours of production capacity at two plants, one in Ohio and one in Tennessee. Ultium Cells in March announced a $70 million investment to begin producing LFP batteries for energy storage systems at the Tennessee plant.
-Other automakers, including GM crosstown rival Ford Motor, have shifted to focus on energy storage to assist in filling capacity at multibillion-dollar battery plants in the U.S.
-For GM customers, the ability to have an EV be capable of sending energy back to the grid during peak hours, or to power their home, through an energy storage system from the Detroit automaker could help with reducing energy costs and grid usage.
-GM said it is seeking partnerships with utility companies nationwide to assist in offering such vehicle-to-grid services for customers. It's already working with utility companies in California and Michigan.
-Residential electricity prices in the U.S. have risen by nearly 48% since January 2020, from 12.76 cents per kilowatt-hour to 18.83 cents per kilowatt-hour in March 2026, and are expected to rise to around 19 cents per kilowatt-hour starting in March 2027, according to a recent forecast by the U.S. Energy Information Administration.
-GM on Tuesday also announced an "Energy Pass" that targets more seamless public charging for its EV customers, including when using Tesla Superchargers, and said all of the all-electric vehicles it produces as of the 2027 model year will include a North American Charging Standard charging port.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVDejVQbXlRX09uS0RHc3FxekVEVnEtcjk0Si1VbUNyU1pZSm1LVHF3a3JaZG44QVE3YzNLTEJFdHl2Y0lCXzFDeWNXY1FTUkFBY3oxbklSaHNCMm5DbzB0M0I2VDc2TDlVUHhXMUVJNmlYcTZLYkRTTElHb2d0ZTN5djE?oc=5" target="_blank">ECB raises interest rates for first time since 2023</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'
+## Gold sinks to 6-month low as speculative investors exit - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/09/liv-golf-ceo-pif-funding-cliff.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPalR2TlF0T0ptQ1RmZnBtTzZCNnJ6eUtoYTM5emt6WkFObmxKdzlwejExUTUtSEJMaEtmNzVzTzlCVXpjWmM0LWxQMkFOeXN3SGxSeEdPblU3djAwNWxxVVZlRTZ1RzAwTVdJa0huaGw2UEM1R0NhWFJRT3lfTElOUkxNeXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1859
+正文长度：0
 
-摘要：PIF is set to stop funding the golf league after the 2026 season, though LIV's Scott O'Neil could not guarantee that the final four tournaments will take place.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> LIV Golf CEO Scott O'Neil told CNBC Tuesday that as a funding cliff approaches, the organization has to trust Saudi Arabia's Public Investment Fund will back the golf venture through the rest of the season as it has promised.
-"I can say they've been terrific partners so far, and you have to take an incredible organization like PIF at their word," O'Neil said. "They've been very public about funding us through the season, so we are full steam ahead."
-PIF is set to pull its funding from the golf league at the end of 2026 schedule, CNBC reported in late April. PIF Chairman Yasir Al-Rumayyan also stepped down from his position as LIV Golf chairman.
-The organization began an investor roadshow last month, seeking to raise up to $350 million from stakeholders to continue its operations.
-But recent media reports suggested PIF could pull its money earlier than planned, raising doubts about whether the league could even finish out its season.
-When asked about those reports, O'Neil said the players, management and advisors are "locked in."
-Asked if he can guarantee that the four remaining tournaments on this year's schedule will take place, O'Neil said that what he "can guarantee is a heck of a return if you come invest in this business."
-He added that the organization now needs to be "disciplined and very, very value-creative" in order to be sustainable.
-"I think we have a very, very special opportunity to create tremendous value," O'Neil said.
-So far, O'Neil said, he's had five formal meetings to discuss interest in funding the organization, with 18 more planned for this week. He said the response has "been positive" and that he hopes to end the fundraising process this summer.
-"While we have incredible business momentum, what we don't have is a lot of time, so we're very urgently out there talking to those who are interested," he said.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPalR2TlF0T0ptQ1RmZnBtTzZCNnJ6eUtoYTM5emt6WkFObmxKdzlwejExUTUtSEJMaEtmNzVzTzlCVXpjWmM0LWxQMkFOeXN3SGxSeEdPblU3djAwNWxxVVZlRTZ1RzAwTVdJa0huaGw2UEM1R0NhWFJRT3lfTElOUkxNeXM?oc=5" target="_blank">Gold sinks to 6-month low as speculative investors exit</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## JPMorgan Chase plans to deploy more powerful AI agents this year
+## Beijing online shopping warning hits shares in Chinese tech groups - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjZOZ1ZzNzJkTGhrdHVOeVBoSDI3S1JRbkpQZmFIRXdZRHl4amtCTnoxTUFOTnN0VkVqLWpaUzBEb1B5elduNmx2SHAtZmVuek0xcXlScXh6cDZVZ05jLUM1Sk9hTVRJWUhtUFNvVkJvLWNsakIyTWNXVTdsY1JOQTdlWUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3650
+正文长度：0
 
-摘要：JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjZOZ1ZzNzJkTGhrdHVOeVBoSDI3S1JRbkpQZmFIRXdZRHl4amtCTnoxTUFOTnN0VkVqLWpaUzBEb1B5elduNmx2SHAtZmVuek0xcXlScXh6cDZVZ05jLUM1Sk9hTVRJWUhtUFNvVkJvLWNsakIyTWNXVTdsY1JOQTdlWUw?oc=5" target="_blank">Beijing online shopping warning hits shares in Chinese tech groups</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> JPMorgan Chase plans to deploy artificial intelligence agents later this year that can work autonomously for far longer than existing versions, marking another milestone in the corporate adoption of AI, CNBC has learned exclusively.
-AI agents are evolving from tools that complete single tasks to digital workers that manage workflows across multiple steps and disparate software programs, Derek Waldron, JPMorgan chief analytics officer, told CNBC in an interview.
-"We've entered now the era of long-running autonomous agents," Waldron said. That "means that agents don't just run for two or three minutes to carry out a goal or some instructions of a human, they can run for an hour or two."
-Long-running agents have already emerged over the past year as examples including Anthropic's Claude Code and OpenClaw went viral. JPMorgan's planned deployment, however, suggests the technology is close to clearing the security and governance hurdles that have slowed adoption inside large companies.
-JPMorgan, run by CEO Jamie Dimon since 2006, is the biggest U.S. bank by assets and has a nearly $20 billion annual technology budget.
-While much of the conversation around generative AI has focused on model intelligence, tech leaders are increasingly focused on a different question, said Waldron: How long can AI systems operate effectively before requiring human intervention?
-That concept, which Waldron called "intellectual coherence," has been helped by improvements in how AI models reason, enabling them to be more of a "team manager than an individual worker," he said.
-"Just like how people function, team managers can parse out a problem and delegate activities, and teams can run for a lot longer to do more complex things," Waldron said.
-Other recent advances that have helped agents do more complex jobs include the ability to write code, control web browsers and interact directly with desktop software, he said.
-While long-running agents aren't yet ready for corporate use because of security concerns, their arrival isn't far off, Waldron said: "We will have those in 2026."
-Eventually, AI agents will remain coherent for "multiple hours, then days, then weeks," he said.
-'Diminished' moats
-AI-driven productivity gains have been most visible in software development and back-office type operations, but Waldron said it is increasingly boosting revenue-generating roles.
-In private banking, for example, AI systems screen market activity, client positions and research overnight, helping bankers focus on client interactions.
-The bank has seen a 20% increase in gross sales because of these tools, he said, and believes they could eventually allow individual bankers to expand client coverage by as much as 50%.
-Dimon has been clear that some of his workers will be displaced by AI, saying that the firm is preparing to train and redeploy employees impacted by the changes.
-But Waldron added that while many companies initially approached AI as a cost-cutting tool, they are increasingly recognizing its potential to expand revenue.
-"For enterprises to win with AI, it's not about cutting the maximum number of jobs," he said. "It's all about trying to create a sustainable competitive advantage."
-Waldron said that the bank's thinking around building versus buying software from outside vendors has also shifted. JPMorgan now looks more closely at whether it can build capabilities in-house, he said, possibly putting pressure on some traditional vendors.
-"The moat around certain types of software companies is most certainly diminished versus where it was in the past," he said.
-— CNBC's Gabrielle Fonrouge contributed to this report.
+---
 
-</details>
+## EU countries weigh ‘tearing apart’ bloc’s diplomatic service - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEROSlZRWlctaVJ3SGpjd2prOVNKYlI5d296TE54aUpXUHFyRF9yZDZQNFlGZGg0RDVsSV9xbk44SzVyMU05SGNJVDVuWU1oSUl6dDBFUGJzcnl4NzFLVjQtUG45cXV5UFNJMi1yOE9EVk03S3FQcmlWYk1faUxEck5NMUc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEROSlZRWlctaVJ3SGpjd2prOVNKYlI5d296TE54aUpXUHFyRF9yZDZQNFlGZGg0RDVsSV9xbk44SzVyMU05SGNJVDVuWU1oSUl6dDBFUGJzcnl4NzFLVjQtUG45cXV5UFNJMi1yOE9EVk03S3FQcmlWYk1faUxEck5NMUc?oc=5" target="_blank">EU countries weigh ‘tearing apart’ bloc’s diplomatic service</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -289,119 +349,67 @@ Waldron said that the bank's thinking around building versus buying software fro
 
 ---
 
-## Trump’s AI fund idea is good politics, but bad economics - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObE5yU0Z1eFVOTEVlQ1NEOHBZMEhtdlUtc3JrdFptRW5mQ09JUkR4R0xhRTFZX3VxaEFidFBLQW1FMHlKYlpBSW5CWkNqRUJsNS1pbmRrYWdMMlhNM2RSeVVvS19selNpcWFHLXVudDFjWlkzYlFsZ2ljUkFtSVhrWGYtWXc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObE5yU0Z1eFVOTEVlQ1NEOHBZMEhtdlUtc3JrdFptRW5mQ09JUkR4R0xhRTFZX3VxaEFidFBLQW1FMHlKYlpBSW5CWkNqRUJsNS1pbmRrYWdMMlhNM2RSeVVvS19selNpcWFHLXVudDFjWlkzYlFsZ2ljUkFtSVhrWGYtWXc?oc=5" target="_blank">Trump’s AI fund idea is good politics, but bad economics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US launches fresh wave of strikes on Iran - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFBvS3Nub2VpV29fYkJPeHQ4ek5YM181Rmx4QUdpb3pvaUx2T05MeUVDcWViUFM3UGl4TlBkSW5NekpRZUJHeTJoQVVwWmtJVnlKOEhnRkROTHRlVnBrSjhMYWlGNldPX2dHZzlVTS1XY2I1cG5rLU9FWm15dDRqcnRVR2M?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFBvS3Nub2VpV29fYkJPeHQ4ek5YM181Rmx4QUdpb3pvaUx2T05MeUVDcWViUFM3UGl4TlBkSW5NekpRZUJHeTJoQVVwWmtJVnlKOEhnRkROTHRlVnBrSjhMYWlGNldPX2dHZzlVTS1XY2I1cG5rLU9FWm15dDRqcnRVR2M?oc=5" target="_blank">US launches fresh wave of strikes on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Oil tankers increase ‘dark’ transits through Strait of Hormuz - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTlRRVJUOHRfR29hM3JXOEZxRjJzbm5PNTVrOVJEQzBTdm1tSVlSWXRlTWZfZ1g0MGZCSURzcDlieVhTTi1lRGFQRDFhLU5fQkF5MnBNTjBRcVBIeU1JSC1YR2p6LUtpQi03WGlTWmZQdXdlVlJuaThHWVZ0Q0R6c0JDSEQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTlRRVJUOHRfR29hM3JXOEZxRjJzbm5PNTVrOVJEQzBTdm1tSVlSWXRlTWZfZ1g0MGZCSURzcDlieVhTTi1lRGFQRDFhLU5fQkF5MnBNTjBRcVBIeU1JSC1YR2p6LUtpQi03WGlTWmZQdXdlVlJuaThHWVZ0Q0R6c0JDSEQ?oc=5" target="_blank">Oil tankers increase ‘dark’ transits through Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## BYD to spend €2bn to build out 5-minute flash chargers in Europe - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkxnOG5URFo0ZUh3Z1JVYXo1cUNNRjNLaDRLTGU4cGpleEI5enB3UUQyX2NJTk9CTzE3V3BTV19zbTgwaW1hb0NmWHlodFB0VzNUSXBGbkZKdVgwVkNjU3drQ21pUXZXRHRsWF9MTVV4b09qNjdqb2VVc2JjTXctdXowc0w?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkxnOG5URFo0ZUh3Z1JVYXo1cUNNRjNLaDRLTGU4cGpleEI5enB3UUQyX2NJTk9CTzE3V3BTV19zbTgwaW1hb0NmWHlodFB0VzNUSXBGbkZKdVgwVkNjU3drQ21pUXZXRHRsWF9MTVV4b09qNjdqb2VVc2JjTXctdXowc0w?oc=5" target="_blank">BYD to spend €2bn to build out 5-minute flash chargers in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters
+## Hazardous materials incident prompts Pentagon lockdown, officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUxaR1RVaTY0U3FJVnhLNzIyR3Zwb041R0pRT29YelJzRi1YOWhvYUlQNVV5RDBDZm9RQ1diaEFuV2x6MmFfUlNkc2lTYUFoSzI2ZFlUNDc4RXN0Sjk2bXpoU2xEeU5lS3lSRTZJTHo4MlctVV9ZRTUtd1U4MTgzZEN5Wm4zQnJtMHV5aTAwQ1FVYnotZ1ZSdVdIaGU3emRxdjNoQWM5S1dnYUh1c213UFd6Z2ZVMjltazRBS2FuZFM4QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQUno0WE5wTlRFVWhQYVF6dU9DZFMwQmRvc1YtTmQ0U0c0T2x4WjVBZHR3NjgySzBUNjg3OGliUFlIcE0tNGNuc3h0OGg2bGZwc0VKWlpQYUg4dVNudW1NcF92WWplUFk0ZGpCSW1wU2FTbG1uOU9hZEcxVHpfQk5tTjczaTEyUEQwQ2FhZmx2cXh4WFBsNlRNOVJPVlRJRktfRi0wa2E0UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUxaR1RVaTY0U3FJVnhLNzIyR3Zwb041R0pRT29YelJzRi1YOWhvYUlQNVV5RDBDZm9RQ1diaEFuV2x6MmFfUlNkc2lTYUFoSzI2ZFlUNDc4RXN0Sjk2bXpoU2xEeU5lS3lSRTZJTHo4MlctVV9ZRTUtd1U4MTgzZEN5Wm4zQnJtMHV5aTAwQ1FVYnotZ1ZSdVdIaGU3emRxdjNoQWM5S1dnYUh1c213UFd6Z2ZVMjltazRBS2FuZFM4QQ?oc=5" target="_blank">OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQUno0WE5wTlRFVWhQYVF6dU9DZFMwQmRvc1YtTmQ0U0c0T2x4WjVBZHR3NjgySzBUNjg3OGliUFlIcE0tNGNuc3h0OGg2bGZwc0VKWlpQYUg4dVNudW1NcF92WWplUFk0ZGpCSW1wU2FTbG1uOU9hZEcxVHpfQk5tTjczaTEyUEQwQ2FhZmx2cXh4WFBsNlRNOVJPVlRJRktfRi0wa2E0UQ?oc=5" target="_blank">Hazardous materials incident prompts Pentagon lockdown, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises more than $1 as escalation in US-Iran strikes unnerve traders - Reuters
+## Explainer: Taking Kharg Island would pose risks for US troops - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUJ5d0JtNmtjVVVwbXhZWS1PS0w4VFRteGVpci1WWnZsRWRKMjFuVWFIX21faGxETGNzZGdKQlhIZ3VLZ1ZFTzUxNWZVTlhXNFRwbmtCWjRvZVp3UG1Tc08teWd3SkgxRXBOc3l0TDlUS1NWdHBhRnlWNDdJMjZlYmJvU3RfVmdBMjgwRDA3U2EtUDdEeGNKNXkxazJuZGR1OWgyLU1qZmdjb1BSUWY3VmZNdEFCMDBTUl9YbnFR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVptY3pRQnZwZWticGdhV3dBc0hmZzlvanVBdXp0MFlmcVFDNWlOU2NubENld21zOXhRSm9IUWFFOUgtTWhGaDdaM180b09nN014V1Fnb0VuTDcwNVp5MWxxOHVoWVRqLVZWWGxuQ1luNEZ5LUd6aUtQcGEtTGppMWpXV3VjUVM2dFF3ZFRWY3FTTHlWSU5LNnVhNkxrNWVBN2M1S1ZhcmNkTG1jcmtTQzhjOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUJ5d0JtNmtjVVVwbXhZWS1PS0w4VFRteGVpci1WWnZsRWRKMjFuVWFIX21faGxETGNzZGdKQlhIZ3VLZ1ZFTzUxNWZVTlhXNFRwbmtCWjRvZVp3UG1Tc08teWd3SkgxRXBOc3l0TDlUS1NWdHBhRnlWNDdJMjZlYmJvU3RfVmdBMjgwRDA3U2EtUDdEeGNKNXkxazJuZGR1OWgyLU1qZmdjb1BSUWY3VmZNdEFCMDBTUl9YbnFR?oc=5" target="_blank">Oil rises more than $1 as escalation in US-Iran strikes unnerve traders</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVptY3pRQnZwZWticGdhV3dBc0hmZzlvanVBdXp0MFlmcVFDNWlOU2NubENld21zOXhRSm9IUWFFOUgtTWhGaDdaM180b09nN014V1Fnb0VuTDcwNVp5MWxxOHVoWVRqLVZWWGxuQ1luNEZ5LUd6aUtQcGEtTGppMWpXV3VjUVM2dFF3ZFRWY3FTTHlWSU5LNnVhNkxrNWVBN2M1S1ZhcmNkTG1jcmtTQzhjOA?oc=5" target="_blank">Explainer: Taking Kharg Island would pose risks for US troops</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold rebounds from six-month low on short-covering; PPI data in focus - Reuters
+## World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0RQOFgzZFBuaHBaZ2wzd3gxeHhzU0hSX2tKYzBKaGhzeEo1NWtPc0NQTERGQ09KLWI5bDNTUTIyemNXZjRrTzJfWEZZMlh1VDZ4YUl2WlBtVjBIbXg5YjlGTzRQV2NlUmVUSUFpOTJMME5JRWRjS0Z5ajByRy1jSE5OUjZ4VEtvTlpFODJWMVRqWC12TEd1aUREWkpfLVJvN3NXeUFaU3ViRElTX3dkT3FNM2dNZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXJMaXlUUXFZTmlXTUpicEs1RjdDaW81LW94d1dHZldGMEJWWmF2YjVRNTY1SFJucGQ1T2RLQ1kxQWpUN3F1bC1SajZQamVzUVUxQjBhOTNwYkhoZ19oMlBhVE02TzZCbFNjN0dCcktybEVVNDNYUGx5Tkd1WHZPVWNCSW9kaVZUZTNrWmk3ZWRuN01KLV9uSGM2MjVVWTJHUjRkdWFjUDh2NEhaeEVEMGtCa3BnWDFaTFRZeWJzbnFVdmM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0RQOFgzZFBuaHBaZ2wzd3gxeHhzU0hSX2tKYzBKaGhzeEo1NWtPc0NQTERGQ09KLWI5bDNTUTIyemNXZjRrTzJfWEZZMlh1VDZ4YUl2WlBtVjBIbXg5YjlGTzRQV2NlUmVUSUFpOTJMME5JRWRjS0Z5ajByRy1jSE5OUjZ4VEtvTlpFODJWMVRqWC12TEd1aUREWkpfLVJvN3NXeUFaU3ViRElTX3dkT3FNM2dNZw?oc=5" target="_blank">Gold rebounds from six-month low on short-covering; PPI data in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXJMaXlUUXFZTmlXTUpicEs1RjdDaW81LW94d1dHZldGMEJWWmF2YjVRNTY1SFJucGQ1T2RLQ1kxQWpUN3F1bC1SajZQamVzUVUxQjBhOTNwYkhoZ19oMlBhVE02TzZCbFNjN0dCcktybEVVNDNYUGx5Tkd1WHZPVWNCSW9kaVZUZTNrWmk3ZWRuN01KLV9uSGM2MjVVWTJHUjRkdWFjUDh2NEhaeEVEMGtCa3BnWDFaTFRZeWJzbnFVdmM?oc=5" target="_blank">World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran announces closure of Strait of Hormuz after US attacks - Reuters
+## Exclusive: Ukraine's drone commander wants to cut Crimea off from Russia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmpTVDJ1X0ZfVjgxckExb2VxOTN2QXFJam16RVhPSE9ZSFozY2ZIYU1MckpJRHI1ZDlVclNYUjM0TWh0Z3NWY1NmVUZPejFDV3ZYTjVwa1BmcF93TzJhQk9MOW5rTWsxMktNWGtBVUhiZUgtcWliUklDdGV5anJFSFVCSU1weTJ3UWliN0JfRjJraEh4VlZjaGJ2d2FWMEJzTTdFWk95YzVZaTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkF4TEJyNDhzQWNpZFNGdFc5RjdRcUpSNms4R3NNZTJmNXR2b014Y014aXBDVGx2cFdPX3AwcnBsOHBiYmFfSGk0alIyRkZwQW9TQWRfN21GUXZMLXJDaV9hUjQzQ0NJRUh2X2prOW91VDQyQjhxbmFxRE9uRHhKWDFLOTlkWHNMalI4QU5WYm9fWUdibTNLWGRkbVRmVHFGVFRn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmpTVDJ1X0ZfVjgxckExb2VxOTN2QXFJam16RVhPSE9ZSFozY2ZIYU1MckpJRHI1ZDlVclNYUjM0TWh0Z3NWY1NmVUZPejFDV3ZYTjVwa1BmcF93TzJhQk9MOW5rTWsxMktNWGtBVUhiZUgtcWliUklDdGV5anJFSFVCSU1weTJ3UWliN0JfRjJraEh4VlZjaGJ2d2FWMEJzTTdFWk95YzVZaTQ?oc=5" target="_blank">Iran announces closure of Strait of Hormuz after US attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkF4TEJyNDhzQWNpZFNGdFc5RjdRcUpSNms4R3NNZTJmNXR2b014Y014aXBDVGx2cFdPX3AwcnBsOHBiYmFfSGk0alIyRkZwQW9TQWRfN21GUXZMLXJDaV9hUjQzQ0NJRUh2X2prOW91VDQyQjhxbmFxRE9uRHhKWDFLOTlkWHNMalI4QU5WYm9fWUdibTNLWGRkbVRmVHFGVFRn?oc=5" target="_blank">Exclusive: Ukraine's drone commander wants to cut Crimea off from Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian-held Sevastopol suspends fuel distribution as Zelenskiy praises attacks on energy assets - Reuters
+## Google in talks with Samsung to make part of next-gen chip, The Information reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTdwVHNxRzlYMl9NZ0pQY1gza1BlbngtcWh0dWVQQ3BfTTAyNXJ2OFhBRXFWQW5kRUlOSDE2UkM2ZnhCR0liai03XzZfNExXbnFuT0M0NnVocUlabHVQTXg1YWgtWlo3YkdmR05VVy1yU2NRa2lNZXpFdzZWVjROLXRJUXFxZWIzMG1UcGc5S2l4R2E0cnR5cjI0XzBuY3I3Q3J2bGZkVTZRcWh5enJIRERaU0JHaU52N1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHMzSTA1X3lZZFJrOUlSYi1oOXpBQ0Q3M2pOSW43Q0hibWkzaE1ELXhfZjI4cHc4R25mLVlwNnFNM2ZQaXpicl9UdHRsbjVuNTU1bEszcldPQ3I0WmNJRWpKVFB2QThGLW5KVnVUUDhXVWFlVWxYZk1Jbm1UZDVyQXhjRzUtLVFtU0ROS1F5eFdjR0J2Q1JVWS02OW5EOXpNYndtd21IRGpYRTViNG1Zc25CbFZmU1RINjlR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTdwVHNxRzlYMl9NZ0pQY1gza1BlbngtcWh0dWVQQ3BfTTAyNXJ2OFhBRXFWQW5kRUlOSDE2UkM2ZnhCR0liai03XzZfNExXbnFuT0M0NnVocUlabHVQTXg1YWgtWlo3YkdmR05VVy1yU2NRa2lNZXpFdzZWVjROLXRJUXFxZWIzMG1UcGc5S2l4R2E0cnR5cjI0XzBuY3I3Q3J2bGZkVTZRcWh5enJIRERaU0JHaU52N1E?oc=5" target="_blank">Russian-held Sevastopol suspends fuel distribution as Zelenskiy praises attacks on energy assets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHMzSTA1X3lZZFJrOUlSYi1oOXpBQ0Q3M2pOSW43Q0hibWkzaE1ELXhfZjI4cHc4R25mLVlwNnFNM2ZQaXpicl9UdHRsbjVuNTU1bEszcldPQ3I0WmNJRWpKVFB2QThGLW5KVnVUUDhXVWFlVWxYZk1Jbm1UZDVyQXhjRzUtLVFtU0ROS1F5eFdjR0J2Q1JVWS02OW5EOXpNYndtd21IRGpYRTViNG1Zc25CbFZmU1RINjlR?oc=5" target="_blank">Google in talks with Samsung to make part of next-gen chip, The Information reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
