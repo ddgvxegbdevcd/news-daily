@@ -1,8 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-06-12 04:40:56
+更新时间：2026-06-12 15:28:55
 
-## Oil Extends Decline After Trump Says Deal With Iran Is Close
+## Oil and Gas Decline on Optimism US and Iran Are Close to a Deal
 
 来源：彭博社
 
@@ -10,38 +10,51 @@
 
 正文长度：0
 
-摘要：Oil extended declines after President Donald Trump said a peace deal with Iran could be signed as soon as the weekend following US military strikes that cast doubt over progress to end the war.
+摘要：Oil and gas prices tumbled on hopes that the US and Iran are nearing an interim peace deal to end a war that has roiled energy markets, though sticking points remain.
 
 
 ---
 
-## How to Trade the SpaceX IPO in Asia's Locked-Out Markets
+## Elon Musk Gave SpaceX Less Than 10% Chance of Succeeding
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex
+链接：https://www.bloomberg.com/news/videos/2026-06-12/elon-musk-gave-spacex-less-than-10-chance-of-succeeding-video
 
 正文长度：0
 
-摘要：Investors across Asia have been largely shut out of the world’s largest-ever initial public offering, which has forced them to find creative ways to make bets on SpaceX’s $75 billion global spectacle.
+摘要：Elon Musk said he only gave SpaceX a less than 10% chance of succeeding. He spoke from Starbase, Texas via livestream and addressed SpaceX employees. (Source: Bloomberg)
 
 
 ---
 
-## ECB Hike 'Just Enough For Now,' Says Slovenian Central Bank Governor
+## Exxon Studies Takeover Targets Including Woodside Energy
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-12/ecb-hike-just-enough-for-now-says-slovenia-s-dolenc-video
+链接：https://www.bloomberg.com/news/articles/2026-06-12/exxon-said-to-study-takeover-targets-including-woodside-energy
 
 正文长度：0
 
-摘要：The European Central Bank has hiked interest rates for the first time since September 2023 &mdash; becoming the first major central bank to react to the war in Iran. ECB Governing Council Member and Slovenia Central Bank Governor Primož Dolenc says the move is “just enough for now.” Dolenc spoke to Bloomberg's Oliver Crook in an exclusive interview just after the decision on Thursday. (Source: Bloomberg)
+摘要：Exxon Mobil Corp. is studying potential acquisition targets including Australia’s Woodside Energy Group, as the US giant eyes options to deepen its presence in liquefied natural gas and Asian markets, according to people with knowledge of the matter.
 
 
 ---
 
-## Stock Rally Builds on Iran Optimism, Oil Drops: Markets Wrap
+## S&amp;P 500 Extends Gain on Hopes for an Iran Deal, SpaceX Demand
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-12/us-futures-rally-with-all-eyes-on-spacex-iran-war-peace-hopes
+
+正文长度：0
+
+摘要：US stocks rose to a session high as investors eyed a potential interim peace deal in the Iran conflict and awaited pending trading in SpaceX, which made history with the biggest-ever IPO.
+
+
+---
+
+## Stocks Rise as Iran Signals Deal With US Is Near: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +62,7 @@
 
 正文长度：0
 
-摘要：Stocks extended gains and oil fell after President Donald Trump said the US was nearing an agreement with Iran, raising expectations for a diplomatic end to the conflict that’s triggered price swings across financial markets for more than 100 days.
-
-
----
-
-## Indonesia Says Export Agency Will Focus on Price, Not Trading
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-12/danantara-to-monitor-commodity-export-prices-not-sell-directly
-
-正文长度：0
-
-摘要：Indonesia’s commodity export agency will focus on monitoring the price of key raw-material exports instead of intervening in trade, according to a senior official, in an apparent effort to ease industry concerns over a radical natural-resource policy introduced last month.
+摘要：Wall Street traders drove stocks higher as oil fell after Iran signaled a deal with the US is approaching, fueling hopes for an end to the war that has roiled global markets.
 
 
 ---
@@ -107,7 +107,7 @@ The midterm election cycle's most expensive period is yet to come, according to 
 
 链接：https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html
 
-正文长度：5001
+正文长度：4813
 
 摘要：SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.
 
@@ -118,7 +118,6 @@ The midterm election cycle's most expensive period is yet to come, according to 
 The SpaceX IPO is expected to mint thousands of new millionaires and multiple new billionaires. While current and former employees won't be able to sell their shares right away, some are already planning how to spend their windfall.
 That newfound wealth could have a ripple effect across the luxury property markets near SpaceX's office hubs and boost spending on watches, private jet charters and other status symbols, experts told CNBC.
 Real estate agent Gerard Bisignano said he has recently received inquiries from several longtime SpaceX employees looking for homes in the South Bay area of California. They range in age from their mid-30s to early 40s, he said.
-Tune in at 5 a.m. ET on Friday to hear from SpaceX President and COO Gwynne Shotwell in an exclusive discussion about the historic IPO. Watch in real time on CNBC+ or the CNBC Pro stream.
 "They seem to be in a state of disbelief themselves that they're suddenly going to be able to, in some examples, buy a home for their parents. They're going to have all this discretionary income that they can really do what they want," said Bisignano, a partner at Vista Sotheby's.
 SpaceX's California office is a short drive away from the wealthy coastal communities of Manhattan Beach, Redondo Beach, Hermosa Beach and Palos Verdes Estates. Bisignano said he expects many SpaceX employees to snap up high-end homes in the area. He noted there was a similar buying spree in the neighborhoods around the Facebook headquarters after that company's initial public offering in 2012, with home values there jumping 21%.
 Bisignano said he also anticipates an influx in interest for second homes in other scenic California locales like Mammoth Lakes, Palm Springs and Tahoe.
@@ -149,7 +148,7 @@ With newly wealthy customers, the Amalfi Jets sales team sometimes receives foll
 
 链接：https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html
 
-正文长度：5048
+正文长度：4860
 
 摘要：Personal investment firms of the ultra-rich are interested in space startups even without Elon Musk's name attached.
 
@@ -159,7 +158,6 @@ With newly wealthy customers, the Amalfi Jets sales team sometimes receives foll
 > A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
 The investment firms of billionaires including ex-eBay President Jeff Skoll and AutoZone's Pitt Hyde are set to reap rewards from SpaceX's IPO this Friday.
 However, while SpaceX's profile eclipses that of nearly every other private space company, family office investors told CNBC that they see other opportunities in the sector even for companies without Elon Musk's name attached. Moreover, they said they view space-related startups as opportunities to invest in infrastructure and defense rather than flashy bets on space exploration.
-Tune in at 5 a.m. ET on Friday to hear from SpaceX President and COO Gwynne Shotwell in an exclusive discussion about the historic IPO. Watch in real time on CNBC+ or the CNBC Pro stream.
 Gary Lauder, a cosmetics heir turned venture capitalist, has invested in SpaceX through a special purpose vehicle and two venture funds. He told CNBC he was attracted to the strength of its Starlink satellite technology, not the prospect of space tourism.
 Much of Lauder's early investing was in telecommunications, and he took a seminar in satellite communications in the early '90s.
 "I never dreamed of being an astronaut," he said. "It's just an important mode of communication."
@@ -284,132 +282,132 @@ Data from Cox Automotive shows that demand for even 9- and 10-year-old used vehi
 
 ---
 
-## ECB raises interest rates for first time since 2023 - Financial Times
+## Swiss voters weigh world’s first population cap - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVDejVQbXlRX09uS0RHc3FxekVEVnEtcjk0Si1VbUNyU1pZSm1LVHF3a3JaZG44QVE3YzNLTEJFdHl2Y0lCXzFDeWNXY1FTUkFBY3oxbklSaHNCMm5DbzB0M0I2VDc2TDlVUHhXMUVJNmlYcTZLYkRTTElHb2d0ZTN5djE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmM4ZjBzX2FNZTZmRndlYzRRQ1o0U2ItaTl1cHFvZzY2VUx4bnVhYXFjVVV5YnRJTUtSbDRfeG9lWGtRUC13dEJ3ZXlNSzA4Y2E3RVJCOEp4MzNoOWZ0VzhDLWxDV256MWg2bjcxc0xSeTFycmREVTlZTGdFTElJZkJGWnA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVDejVQbXlRX09uS0RHc3FxekVEVnEtcjk0Si1VbUNyU1pZSm1LVHF3a3JaZG44QVE3YzNLTEJFdHl2Y0lCXzFDeWNXY1FTUkFBY3oxbklSaHNCMm5DbzB0M0I2VDc2TDlVUHhXMUVJNmlYcTZLYkRTTElHb2d0ZTN5djE?oc=5" target="_blank">ECB raises interest rates for first time since 2023</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmM4ZjBzX2FNZTZmRndlYzRRQ1o0U2ItaTl1cHFvZzY2VUx4bnVhYXFjVVV5YnRJTUtSbDRfeG9lWGtRUC13dEJ3ZXlNSzA4Y2E3RVJCOEp4MzNoOWZ0VzhDLWxDV256MWg2bjcxc0xSeTFycmREVTlZTGdFTElJZkJGWnA?oc=5" target="_blank">Swiss voters weigh world’s first population cap</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Gold sinks to 6-month low as speculative investors exit - Financial Times
+## David Hockney, painter, 1937-2026 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPalR2TlF0T0ptQ1RmZnBtTzZCNnJ6eUtoYTM5emt6WkFObmxKdzlwejExUTUtSEJMaEtmNzVzTzlCVXpjWmM0LWxQMkFOeXN3SGxSeEdPblU3djAwNWxxVVZlRTZ1RzAwTVdJa0huaGw2UEM1R0NhWFJRT3lfTElOUkxNeXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTjYyc0Z4QVdyR19aVldiNDFmRFZCNVZXb28tbmxxcTJFUkYtdW5BM0pwQjd5Ukh5clJDX3pjNUotWVhhQXZVTUtueVJZcHVnREF2Mi1Sak41enpCSkozZjd2b0hUeDAzVE5hVjFhQms?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPalR2TlF0T0ptQ1RmZnBtTzZCNnJ6eUtoYTM5emt6WkFObmxKdzlwejExUTUtSEJMaEtmNzVzTzlCVXpjWmM0LWxQMkFOeXN3SGxSeEdPblU3djAwNWxxVVZlRTZ1RzAwTVdJa0huaGw2UEM1R0NhWFJRT3lfTElOUkxNeXM?oc=5" target="_blank">Gold sinks to 6-month low as speculative investors exit</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTjYyc0Z4QVdyR19aVldiNDFmRFZCNVZXb28tbmxxcTJFUkYtdW5BM0pwQjd5Ukh5clJDX3pjNUotWVhhQXZVTUtueVJZcHVnREF2Mi1Sak41enpCSkozZjd2b0hUeDAzVE5hVjFhQms?oc=5" target="_blank">David Hockney, painter, 1937-2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Beijing online shopping warning hits shares in Chinese tech groups - Financial Times
+## The Iranian missile cities the US could not destroy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjZOZ1ZzNzJkTGhrdHVOeVBoSDI3S1JRbkpQZmFIRXdZRHl4amtCTnoxTUFOTnN0VkVqLWpaUzBEb1B5elduNmx2SHAtZmVuek0xcXlScXh6cDZVZ05jLUM1Sk9hTVRJWUhtUFNvVkJvLWNsakIyTWNXVTdsY1JOQTdlWUw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWFnTVZpS0dXR2VvdUtZdlZWRWpqQTBUT3Z6VjFkaXdXYXV6VVMwcjE4bVBZMlh6QzBZd181S2V5MmVCSW41X3RTRnc0NXRUVFI0TUZ0bDc1YTU3QUJqNXQ3NDhwQXV3VG1ySkZiVC1xVlhwT3pIbDVCaXAycGE4VTlrY0Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjZOZ1ZzNzJkTGhrdHVOeVBoSDI3S1JRbkpQZmFIRXdZRHl4amtCTnoxTUFOTnN0VkVqLWpaUzBEb1B5elduNmx2SHAtZmVuek0xcXlScXh6cDZVZ05jLUM1Sk9hTVRJWUhtUFNvVkJvLWNsakIyTWNXVTdsY1JOQTdlWUw?oc=5" target="_blank">Beijing online shopping warning hits shares in Chinese tech groups</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWFnTVZpS0dXR2VvdUtZdlZWRWpqQTBUT3Z6VjFkaXdXYXV6VVMwcjE4bVBZMlh6QzBZd181S2V5MmVCSW41X3RTRnc0NXRUVFI0TUZ0bDc1YTU3QUJqNXQ3NDhwQXV3VG1ySkZiVC1xVlhwT3pIbDVCaXAycGE4VTlrY0Y?oc=5" target="_blank">The Iranian missile cities the US could not destroy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Javier Milei’s top aide admits hiding $500,000 from Argentine tax agency - Financial Times
+## Elon Musk’s SpaceX raises $75bn in world’s biggest IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPa21aTlppZEVPSW1oazVCdWNQc1ozbERnVEVXWU5PbnhKYmlQVmxWTVhRVTVzZTFxVTZJdkNUb2lRT09RX2tJSkF5Sl9XNkZMODVhcEhUVkZaNXFoZnJHRXZtbVVfSEhxcTZKN0VJVmpLMFZKejZseHdQdEtGVFR2dG83S1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlJrb2hZZkNPU2pKRnVOeHcwN05kck9DbVQ5eEhzZjBVSlJQcnlydXVzcVl0bS1ZaHhMN2F2emhVYTBhZjM4cUFEUlM2XzZiOWM1aFhac1R2MmM4VUVybXV0R1hyN0tHNVZOaHVzT1FJVUdPMlY3NktuNXVLVHpuMjg1RkY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPa21aTlppZEVPSW1oazVCdWNQc1ozbERnVEVXWU5PbnhKYmlQVmxWTVhRVTVzZTFxVTZJdkNUb2lRT09RX2tJSkF5Sl9XNkZMODVhcEhUVkZaNXFoZnJHRXZtbVVfSEhxcTZKN0VJVmpLMFZKejZseHdQdEtGVFR2dG83S1Y?oc=5" target="_blank">Javier Milei’s top aide admits hiding $500,000 from Argentine tax agency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlJrb2hZZkNPU2pKRnVOeHcwN05kck9DbVQ5eEhzZjBVSlJQcnlydXVzcVl0bS1ZaHhMN2F2emhVYTBhZjM4cUFEUlM2XzZiOWM1aFhac1R2MmM4VUVybXV0R1hyN0tHNVZOaHVzT1FJVUdPMlY3NktuNXVLVHpuMjg1RkY?oc=5" target="_blank">Elon Musk’s SpaceX raises $75bn in world’s biggest IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EU countries weigh ‘tearing apart’ bloc’s diplomatic service - Financial Times
+## KPMG report contained AI hallucinations on benefits of . . . AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEROSlZRWlctaVJ3SGpjd2prOVNKYlI5d296TE54aUpXUHFyRF9yZDZQNFlGZGg0RDVsSV9xbk44SzVyMU05SGNJVDVuWU1oSUl6dDBFUGJzcnl4NzFLVjQtUG45cXV5UFNJMi1yOE9EVk03S3FQcmlWYk1faUxEck5NMUc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFFfazFTZ3pJWVAwNS01cFo5WEg2WVhhakR3TUh1MFgzVFg1dmlsQUtmUHlIT2ZnM0owekpjWGxoY3VBUG1acVpXRm9HdTlxUWJ3Y3ItSzMteTNvSGM5cWIyLWs2SGZkVTlmLWlGaUlGdlgzS2NnSmxBOGZLamdHVHhpdjA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEROSlZRWlctaVJ3SGpjd2prOVNKYlI5d296TE54aUpXUHFyRF9yZDZQNFlGZGg0RDVsSV9xbk44SzVyMU05SGNJVDVuWU1oSUl6dDBFUGJzcnl4NzFLVjQtUG45cXV5UFNJMi1yOE9EVk03S3FQcmlWYk1faUxEck5NMUc?oc=5" target="_blank">EU countries weigh ‘tearing apart’ bloc’s diplomatic service</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFFfazFTZ3pJWVAwNS01cFo5WEg2WVhhakR3TUh1MFgzVFg1dmlsQUtmUHlIT2ZnM0owekpjWGxoY3VBUG1acVpXRm9HdTlxUWJ3Y3ItSzMteTNvSGM5cWIyLWs2SGZkVTlmLWlGaUlGdlgzS2NnSmxBOGZLamdHVHhpdjA?oc=5" target="_blank">KPMG report contained AI hallucinations on benefits of . . . AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## South Korea court sentences ex-President Yoon to 30-year jail term over drone incursion - Reuters
+## Trump says Iran's leaked deal terms are untrue - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW4ycGpINUt3YmRLOTZyakJhTUFJdWplMkhheFJLRXRJSHBVU1lDMmJhZHJJWXBST3dEVnRKcndJRXY3RUVZeUM1bDM1ZEdRTHpKekl1R3V5N0hSYzB0dWZNbkJScDFlbzZNMDdGeWRwY2R1UjFQN3JOQ0FUZGtuMUhsc3RWNVJlYXVzX1I4cGU2YnFZYXdSdWYwbWc5YzJYV050Mm8yLXlFUFcwSmlQSzA4QlF6RlhHN215NHk4VTJqRURrMjRjaA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVNLdko5VzdSeXBlazJGaW0wQk8wMjFsT210VFB4OUdhd3ZpWTdocDllY2RwR1hWdlhoYzRZYkQ5OFc4TUE4WWJmN0ZrRlIyVllaeFBZMGwtdk52TU1wdkhFckd0cEFRVDBqalN3T2FhanpySWJWRzBTZmNCeHpHbk5FX1lsd09abWJBamVpVnFhMUxIWVpobjdiWHhOZWtW?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW4ycGpINUt3YmRLOTZyakJhTUFJdWplMkhheFJLRXRJSHBVU1lDMmJhZHJJWXBST3dEVnRKcndJRXY3RUVZeUM1bDM1ZEdRTHpKekl1R3V5N0hSYzB0dWZNbkJScDFlbzZNMDdGeWRwY2R1UjFQN3JOQ0FUZGtuMUhsc3RWNVJlYXVzX1I4cGU2YnFZYXdSdWYwbWc5YzJYV050Mm8yLXlFUFcwSmlQSzA4QlF6RlhHN215NHk4VTJqRURrMjRjaA?oc=5" target="_blank">South Korea court sentences ex-President Yoon to 30-year jail term over drone incursion</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVNLdko5VzdSeXBlazJGaW0wQk8wMjFsT210VFB4OUdhd3ZpWTdocDllY2RwR1hWdlhoYzRZYkQ5OFc4TUE4WWJmN0ZrRlIyVllaeFBZMGwtdk52TU1wdkhFckd0cEFRVDBqalN3T2FhanpySWJWRzBTZmNCeHpHbk5FX1lsd09abWJBamVpVnFhMUxIWVpobjdiWHhOZWtW?oc=5" target="_blank">Trump says Iran's leaked deal terms are untrue</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Thai king's eldest daughter dies, aged 47, after long illness, Royal Palace says - Reuters
+## Ebola outbreak spreads to crowded displacement camp in Congo - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQbi1GMGJFUHJvNXZ3WXpzZ1VhNV9pS3JOY2NzOUZTbDliRk5DTFVYMnluQ3J5WXNoQW55Mm5GYThpYU1rRXNZejUwcWxxdmxXLWZ5dFhDNTk4Wi1LWEZmUFYxS1lhYXdsMUZ4Tjh1NUtuQWpCbi1laDBUQXhGREJ2YXRtbnVHV3h3NUhkaXY2RUhiWUVfSExRSGpuSmRWcUhHZjVFN0tOY1pYRnl0WnV4SU1jakVraTJfWTZ6aGJueThqT3h4X3pHZWNXNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmFjZjl4WVIzdXh1dHBuVkoyLVp5ZVR6d0VXRnZMc0pmWFVLOXRsdUFRbEszN2k3dVpGZzEyZ3ZZcU1DUVYwRkxxaVQzclZkdEd5clAwaFpyQ1F2dFdZcElPams5Z3ZnWkFBOEQwTVBKVXlmNTVtbmFhNzdKYUxHNjhZSmszbnExUWxlMFJrdWZrVTBSdDltU2t2Q2pXRmFXNXdPTDlBd0pFdjRlUkhfazc4SkZJZlZxT3ExbnNEcVJCeHRC?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQbi1GMGJFUHJvNXZ3WXpzZ1VhNV9pS3JOY2NzOUZTbDliRk5DTFVYMnluQ3J5WXNoQW55Mm5GYThpYU1rRXNZejUwcWxxdmxXLWZ5dFhDNTk4Wi1LWEZmUFYxS1lhYXdsMUZ4Tjh1NUtuQWpCbi1laDBUQXhGREJ2YXRtbnVHV3h3NUhkaXY2RUhiWUVfSExRSGpuSmRWcUhHZjVFN0tOY1pYRnl0WnV4SU1jakVraTJfWTZ6aGJueThqT3h4X3pHZWNXNA?oc=5" target="_blank">Thai king's eldest daughter dies, aged 47, after long illness, Royal Palace says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmFjZjl4WVIzdXh1dHBuVkoyLVp5ZVR6d0VXRnZMc0pmWFVLOXRsdUFRbEszN2k3dVpGZzEyZ3ZZcU1DUVYwRkxxaVQzclZkdEd5clAwaFpyQ1F2dFdZcElPams5Z3ZnWkFBOEQwTVBKVXlmNTVtbmFhNzdKYUxHNjhZSmszbnExUWxlMFJrdWZrVTBSdDltU2t2Q2pXRmFXNXdPTDlBd0pFdjRlUkhfazc4SkZJZlZxT3ExbnNEcVJCeHRC?oc=5" target="_blank">Ebola outbreak spreads to crowded displacement camp in Congo</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil extends losses as Trump calls off planned strikes on Iran - Reuters
+## Shell pauses $3 billion share buyback ahead of ARC acquisition vote - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnpwaG1JelBPQlh0M2ZPVDFYenh6dVBxdmxEWi0yeXdjTU1PTmI0dXdWWmh4dFBXOFN1N1BNMHBNaHNBUTRPX0NOTlFfXzEyanJTbVRiVmRwcGdPNzdnM0l3SzgwOW5CVHZjdFhkUlBwVzFDM2RwTEVpb1NiX29yd0hEeHlWdGpF?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5" target="_blank">Oil extends losses as Trump calls off planned strikes on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnpwaG1JelBPQlh0M2ZPVDFYenh6dVBxdmxEWi0yeXdjTU1PTmI0dXdWWmh4dFBXOFN1N1BNMHBNaHNBUTRPX0NOTlFfXzEyanJTbVRiVmRwcGdPNzdnM0l3SzgwOW5CVHZjdFhkUlBwVzFDM2RwTEVpb1NiX29yd0hEeHlWdGpF?oc=5" target="_blank">Shell pauses $3 billion share buyback ahead of ARC acquisition vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters
+## Ukraine's defence AI chief predicts 'new paradigm' of warfare - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3R1eDMtV05CUk5TeFZEZDJnY1VMS29OUVVMU2lab3lxMHQ2Rk5LX0tsWTFjUDZacmVXbjJENEFYWVZsMmMxbGI2aW92ejhlUGUzc3lXamxpdGVjSmQ3TGxKV0hDc2lmdFJINm9EUkVMM0dBdHA5S1ota0NseHpzVUpoYjVGRjdLX2tVcU9CdWs3U1RCVGZwRU4zUnJ3MFVxczNXNXlkQ3FsQWJQVDRicWNGbUhGSjVOcnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA?oc=5" target="_blank">SpaceX IPO makes Elon Musk the world's first trillionaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3R1eDMtV05CUk5TeFZEZDJnY1VMS29OUVVMU2lab3lxMHQ2Rk5LX0tsWTFjUDZacmVXbjJENEFYWVZsMmMxbGI2aW92ejhlUGUzc3lXamxpdGVjSmQ3TGxKV0hDc2lmdFJINm9EUkVMM0dBdHA5S1ota0NseHpzVUpoYjVGRjdLX2tVcU9CdWs3U1RCVGZwRU4zUnJ3MFVxczNXNXlkQ3FsQWJQVDRicWNGbUhGSjVOcnc?oc=5" target="_blank">Ukraine's defence AI chief predicts 'new paradigm' of warfare</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ariana Grande to White House: Don't use my music for 'heinous nonsense' - Reuters
+## Indians grieve and call for action after US strike kills sailors - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVZ1OU56OHdsTnhSUXRZTFpsanZzRDRNNXRLVWMxUnlPYVNfbzBycDUwVTlfbUlGOHJLZTdvN0tFZzJheko1RVctUjJpUk4yTWE3X3hMN0FCNy05SzF1cVdXUGNxV0Jld1RRcnJYcGVYR2N5ZngzbmZGZGlrVG9lTUtQU0ZXR2pGV2FIdnR2cDdwT3dtb2NQaHpJNy1qejBYWGhDNGwtV25NMktRd2dFVFhyVmVONDI1QUZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDBYMkd0R3ZCN2RjU0FVcm16UHNGeElVUGhsaE5LM0F6OEFyUkFVRmllS0FmMkFfazJ3ZUxoVmxVZUFHcGF6VUVUekxtYkRsa3RzZzliVHdZbmVod2NIcllJWEV1aW1PUktPY0czSWxsQ2p0SF9TSGl6bjhvZHg5VXI4SHViNDRKajBMRWRTZjlHZzNOSF9lQ3pvUmplTHBFTWpoZjcyZFRBUW5zZFNFaGhTRjdXaTItZVhONnRCLVVCWG9nblE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVZ1OU56OHdsTnhSUXRZTFpsanZzRDRNNXRLVWMxUnlPYVNfbzBycDUwVTlfbUlGOHJLZTdvN0tFZzJheko1RVctUjJpUk4yTWE3X3hMN0FCNy05SzF1cVdXUGNxV0Jld1RRcnJYcGVYR2N5ZngzbmZGZGlrVG9lTUtQU0ZXR2pGV2FIdnR2cDdwT3dtb2NQaHpJNy1qejBYWGhDNGwtV25NMktRd2dFVFhyVmVONDI1QUZ3?oc=5" target="_blank">Ariana Grande to White House: Don't use my music for 'heinous nonsense'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDBYMkd0R3ZCN2RjU0FVcm16UHNGeElVUGhsaE5LM0F6OEFyUkFVRmllS0FmMkFfazJ3ZUxoVmxVZUFHcGF6VUVUekxtYkRsa3RzZzliVHdZbmVod2NIcllJWEV1aW1PUktPY0czSWxsQ2p0SF9TSGl6bjhvZHg5VXI4SHViNDRKajBMRWRTZjlHZzNOSF9lQ3pvUmplTHBFTWpoZjcyZFRBUW5zZFNFaGhTRjdXaTItZVhONnRCLVVCWG9nblE?oc=5" target="_blank">Indians grieve and call for action after US strike kills sailors</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
