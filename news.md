@@ -1,68 +1,152 @@
 # 每日财经新闻
 
-更新时间：2026-06-13 04:19:50
+更新时间：2026-06-13 14:12:29
 
-## US Kills Tren de Aragua Leader Guerrero in Strike on Compound
+## How Kalshi’s Lopes Lara Turned Kylie Jenner Gossip Into Billions
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-13/trump-says-us-killed-tren-de-aragua-leader-nino-guerrero
+链接：https://www.bloomberg.com/news/features/2026-06-13/how-kalshi-s-lopes-lara-turned-kylie-jenner-gossip-into-billions
 
 正文长度：0
 
-摘要：The US killed the leader of the Tren De Aragua drug cartel, Niño Guerrero, in a strike that was carried out with the assistance of Venezuela, President Donald Trump said.
+摘要：<p>The firm’s co-founder talks about the celebrity buzz that sparked her interest in prediction markets, the legal battles her firm faces and Jay-Z’s&nbsp;advice.</p>
 
 
 ---
 
-## China Rebukes US Over ‘Military’ Labeling of Its Top Firms
+## US’s Screwworm Fix Is Still a Year Away, Risking More Spread
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-13/china-rebukes-us-over-military-labeling-of-its-top-firms
+链接：https://www.bloomberg.com/news/articles/2026-06-13/us-s-screwworm-fix-is-still-a-year-away-risking-more-spread
 
 正文长度：0
 
-摘要：China’s Commerce Ministry said it firmly opposes the US decision to label additional firms as “military companies,” accusing Washington of using national security as a pretext to curb the development of Chinese firms.
+摘要：The US’s best weapon against a deadly cattle parasite threatening the beef industry is more than a year away from showing meaningful results, raising concerns over how far the outbreak could spread before then.
 
 
 ---
 
-## Inside SpaceX and Elon Musk’s $75 Billion IPO
+## US and Iran Move Closer to Deal Despite Hormuz Skirmishes
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-12/inside-spacex-and-elon-musk-s-75-billion-ipo-video
+链接：https://www.bloomberg.com/news/articles/2026-06-13/us-strikes-iranian-drones-while-talks-continue-for-interim-deal
 
 正文长度：0
 
-摘要：SpaceX’s first day on the stock market transformed the startup into one of the world’s most-valuable public companies, handed buyers of the IPO a 19% return and turned its founder Elon Musk into the world’s first trillionaire. Ed Ludlow reports. (Source: Bloomberg)
+摘要：Pakistan said an interim US-Iran deal to reopen the Strait of Hormuz could be finalized within 24 hours, raising expectations that the sides may be nearing a broader agreement after recent skirmishes near the strategic waterway.
 
 
 ---
 
-## Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO
+## Brazil’s World Cup Grilling Tradition Challenged by Beef Prices
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/features/2026-06-13/inside-the-spacex-ipo-why-elon-musk-raced-to-take-spacex-public
+链接：https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef
 
 正文长度：0
 
-摘要：<p>It was meant to happen once humans were regularly flying to Mars. Then the AI boom took off.&nbsp;</p>
+摘要：Soaring prices for the world’s largest beef producer, Brazil, mean households will be buying less red meat when they gather to watch Brazil’s first game of the FIFA World Cup this Saturday.
 
 
 ---
 
-## From London to Sydney, Traders Ready to Watch SpaceX’s Debut
+## Can Tech Justify a Trillion-Dollar Valuation?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-12/from-sydney-to-london-traders-ready-to-watch-spacex-s-debut
+链接：https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video
 
 正文长度：0
 
-摘要：Investors and retail traders from across the US and around the world were glued to their screens on Friday as Elon Musk’s SpaceX started trading in the stock market after the biggest initial public offering in Wall Street history.
+摘要：The long-awaited SpaceX IPO tested the limits of modern capital markets, and is expected to be followed by OpenAI and Anthropic. Investor Steve Rattner says the scale of the valuations and fundraising involved is unprecedented, simultaneously reflecting optimism about artificial intelligence and a belief that the technology could transform the economy. The offerings also raise broader questions about concentration in technology and whether retail investors will be able to participate. (Source: Bloomberg)
+
+
+---
+
+## Rivian CEO taking different approach than Elon Musk for humanoid robotics company
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html
+
+正文长度：4733
+
+摘要：Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> PARK CITY, Utah — Rivian Automotive CEO RJ Scaringe envisions a day in the not-so-distant future when the electric vehicle maker's manufacturing employees will have a new type of colleague: humanoid robots.
+"There's going to be thousands of people that are collaborating alongside these robots. They're going to be taking pictures, 'Hey, check this out! My co-worker's name is Phil, and he's a robot,'" Scaringe said during a media event for the launch of the Rivian R2 EV.
+The 43-year-old automotive enthusiast and tech entrepreneur started a robotics company last year called Mind Robotics. The company has raised more than $1 billion, according to Scaringe.
+Humanoid robots are designed to be shaped and move like people. Artificial intelligence algorithms power their abilities along with complex hardware like semiconductors. Proponents say they could be used in various settings, from factories to hospitality and even in the home, while others have raised concerns about the devices replacing human jobs.
+Scaringe said the company expects to reveal its first product in less than a year, with Rivian as a large minority shareholder and launch customer. Mind currently has roughly 20 open positions ranging from software and hardware engineers to data architects, according to its website.
+Scaringe, who is executive chair and acting CEO of Mind, told CNBC that the plan is to keep the robotics company separate from Rivian, as opposed to the automaker partially shifting to make humanoid robots, like Tesla CEO Elon Musk is doing with his company.
+"We have a deep relationship, and that was actually how we structured it," Scaringe said during an interview. "A big part of structuring the business was to allow me to be able to spend time on both."
+The robotics strategy adds to a narrative of Scaringe doing things differently than Musk, despite obvious similarities in their companies. There have been enough comparisons that Rivian has even been called the "anti-Tesla" and Scaringe has been referred to as the "anti-Elon."
+"I'd say there's a lot of alignment there, and I think that's because, obviously, I'm biased, but I think they're right ... that autonomy is a super important technology," Scaringe said about Tesla and Rivian. "But in terms of the products, they, in many ways, couldn't be more different."
+So far Rivian and Mind are assisting each other, though, much like Musk's companies have also done during developmental phases. That includes Musk's xAI company merging with SpaceX before the company's record-setting initial public offering on Friday as well as SpaceX purchasing vehicles from Tesla.
+Scaringe said Rivian will be a "huge beneficiary" of Mind, which is using data from Rivian for training its AI models. Along with Rivian's equity stake, the automaker will be Mind's first customer for the robots.
+"We realized it was such a big opportunity that deserved to be its own company," said Scaringe. He said he believes there is a multitrillion-dollar total addressable market for industrial labor.
+Scaringe was visibly excited when speaking with media about the potential for AI and humanoid robotics, calling it "one of the most exciting times, perhaps in human history."
+"One hundred years from now, they're going to be inheriting the work that we do over our lifetimes, and so I just think we're so lucky that we get to be alive at the birth of AI," Scaringe said.
+Despite the optimism for humanoid robots, Scaringe said he expects the devices to work alongside humans rather than replace them completely for the foreseeable future, saying it takes a "long time" for vehicle assembly plants to become so-called "dark factories" which can be almost entirely run by robots.
+"What I see happening is the simplest tasks will be taken on by robots. The more complex tasks that require higher levels of reasoning or more complex, more tactile levels of dexterity [will be done by humans]," he said.
+Scaringe said manufacturers are dealing with an "extreme lack of labor," from other automakers. Rivian currently has more than 30 open manufacturing and engineering jobs, according to the company's website.
+The need for such workers, as well as the rapid development of AI, Scaringe believes, will mean human employees will be working alongside a robot named "Phil" far sooner than they may expect.
+"The rate at which this is moving is far faster than I'd say — like an order of magnitude faster — than the average person in society understands," he said. "That's going to be a particularly big challenge in the short-term to just have the average person … realize how fast the models are learning and how capable they are at doing almost everything."
+— CNBC's Arjun Kharpal contributed to this report.
+
+</details>
+
+
+---
+
+## Drugmakers race to find a place in the next wave of obesity drugs
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html
+
+正文长度：6127
+
+摘要：Drugmakers are betting they can crack into the obesity drug market that Novo Nordisk and Eli Lilly currently dominate.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Drugmakers are only months into introducing GLP-1 pills and navigating huge changes in how patients pay for weight-loss drugs.
+Even so, they're already outlining their visions for the future of obesity drugs.
+At the American Diabetes Association's Scientific Sessions in New Orleans last week, drugmakers pitched doctors and investors on the idea of new shots and pills, drugs that can be taken less frequently, and new treatments beyond GLP-1s that could come with fewer side effects. The attendees debated where all these new treatments might fit in, especially with Eli Lilly currently dominating the market for shots and impressing attendees with data from its experimental triple-acting drug retatrutide that produced the most weight loss seen yet.
+Lilly and rival Novo Nordisk showcased new GLP-1 pills they each introduced earlier this year. Both companies made the case that oral options are bringing more people into the market for weight loss drugs, with Novo touting that prescriptions of its Wegovy pill reached more than 3 million just five months into the launch.
+Behind the two market leaders are a wave of new entrants hoping to get into the massive market in the coming years.
+Structure Therapeutics and AstraZeneca each shared mid-stage data from their respective GLP-1 pills. Should those oral drugs succeed in Phase 3 trials, they would likely come to the market around 2029, three years behind Lilly, which introduced its small molecule pill Foundayo earlier this year (the Wegovy pill is an oral peptide).
+Structure Therapeutics CEO Ray Stevens thinks there will still be plenty of room in the market by then.
+"Who wins at the end of the day with competition? Patients, and that's really what this is all about," Stevens said, adding that being the second small molecule drug will be important. "We're really pushing hard to get into that second position behind orforglipron, now Foundayo."
+Pfizer also unveiled mid-stage data from a shot it gained through its $10 billion acquisition of Metsera. The drug showed the potential to be given monthly, which Pfizer thinks would be more convenient than the currently weekly shots. Another drugmaker, Amgen, is testing a different drug that could be given monthly or possibly even quarterly.
+Susan Sweeney, Amgen's executive vice president of obesity and related conditions, said the company sees an advantage in people not needing to take a weekly injection and instead thinking about treatment as little as four times a year.
+"For somebody who's lived with obesity for a long time, it can be a major advantage in not remembering your disease," she said.
+Some companies are looking beyond GLP-1 and other hot targets like GIP and glucagon to emerging areas like amylin, another hormone produced in the pancreas that helps people feel full. One company is Zealand Pharma, which presented mid-stage data from a drug called petrelintide that it's developing with Roche.
+The experimental shot helped people lose almost 11% of their body weight -- less than the currently available injections Wegovy and Zepbound. But Zealand touted that fewer people taking the drug vomited than those in the placebo group.
+"I truly believe that when these amylin [drugs] launch, we can have that, what I've described as an iPhone moment, because patients are so aware of the experience they have on the GLP-1s, and once you launch a new modality that gives you a better experience, people will queue up to get access to that new weight loss medication rather than staying on the more cumbersome medicines," said Zealand CEO Adam Steensberg.
+Like the other potential new entrants, it will be years before Zealand's drug becomes available. Market leader Lilly is developing its own amylin analogue called eloralintide that's already in Phase 3 trials.
+At this year's ADA, Lilly also presented Phase 3 results from its triple agonist retatrutide. That drug activates the GLP-1, GIP and glucagon receptors, producing dramatic weight loss.
+At the highest dose, people lost an average of 28% of their body weight when they took retatrutide and stayed on it as prescribed in the trial. Lilly CEO Dave Ricks sees the drug a way to help people with a body mass index over 40, or the highest classification of obesity, achieve a healthy weight, something that's not possible if they have an average response to Lilly's current shot Zepbound.
+"We showed what's possible, which is meaningful: Almost half the people lose more than 30% of their body weight," Ricks said. "So if you do start at a higher level, you can really get to a more healthy state, which is everyone's goal, I think."
+Beyond Lilly and Novo?
+Investors are now trying to figure out whether the market will remain a duopoly between Lilly and Novo or whether the potential new entrants will become significant players. The newcomers point to the fact that about 2.5 billion people in the world are considered overweight, and 890 million are considered obese, according to statistics from the World Health Organization.
+"The big question is not the volume, it's really the pricing," said Goldman Sachs analyst Asad Haider. "Where does that end up?"
+Lilly and Novo have cut the price of their weight loss shots over the past year as they compete against one another and compounding pharmacies that sell less expensive knockoff versions of their drugs. Both Lilly and Novo are also trying to improve health insurance coverage of GLP-1 drugs for weight loss.
+In a few weeks, millions of seniors on Medicare will be able to access the medicines for $50 a month out of pocket.
+Novo Nordisk CEO Mike Doustdar thinks that in the coming years obesity will look like mental health once did, where people labeled it as one condition.
+"Today that's depression, to bipolar, to schizophrenia, to many, many different issues with very distinct, different medications, and support for the patients. We view obesity that way," he said.
+With so many drugs in the pipeline, the future of treating obesity, and who uses which treatment, could look very different. At least that's what drugmakers trying to gain a bigger share of the market hope.
+
+</details>
 
 
 ---
@@ -161,134 +245,54 @@ The midterm election cycle's most expensive period is yet to come, according to 
 
 ---
 
-## SpaceX millionaires are set to spend big on luxury homes, watches and private jet travel
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html
-
-正文长度：4800
-
-摘要：SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-The SpaceX IPO minted thousands of new millionaires and multiple new billionaires. While current and former employees won't be able to sell their shares right away, some are already planning how to spend their windfall.
-That newfound wealth could have a ripple effect across the luxury property markets near SpaceX's office hubs and boost spending on watches, private jet charters and other status symbols, experts told CNBC.
-Real estate agent Gerard Bisignano said he has recently received inquiries from several longtime SpaceX employees looking for homes in the South Bay area of California. They range in age from their mid-30s to early 40s, he said.
-"They seem to be in a state of disbelief themselves that they're suddenly going to be able to, in some examples, buy a home for their parents. They're going to have all this discretionary income that they can really do what they want," said Bisignano, a partner at Vista Sotheby's.
-SpaceX's California office is a short drive away from the wealthy coastal communities of Manhattan Beach, Redondo Beach, Hermosa Beach and Palos Verdes Estates. Bisignano said he expects many SpaceX employees to snap up high-end homes in the area. He noted there was a similar buying spree in the neighborhoods around the Facebook headquarters after that company's initial public offering in 2012, with home values there jumping 21%.
-Bisignano said he also anticipates an influx in interest for second homes in other scenic California locales like Mammoth Lakes, Palm Springs and Tahoe.
-Texas real estate agent Gary Dolch said he's seeing similar interest from SpaceX employees in the greater Austin area, with SpaceX's Bastrop campus located roughly 30 miles from downtown Austin. Some plan to buy soon after taking a margin loan, while others are waiting for the IPO lockup period to end, he said.
-Prospective homebuyers' tastes run the gamut from luxury condos on Lake Austin or Lake Travis to 1,000-acre ranches farther from the city, Dolch said. He added that he's optimistic that the IPO will boost the luxury market in Austin, which has softened over past three to four years.
-"It feels like we're on the verge of the next wave in Austin's expansion fueled by this tech run," he said.
-The newly wealthy rarely stop their spending spree at a dream home, Bisignano said. He expects buyers to vie for homes with four-car garages to fit their brand new Ferraris.
-And while sports cars are a popular choice, luxury watches are a more practical status symbol for every day use.
-Paul Altieri, founder and CEO of Bob's Watches, said a watch is often the first luxury purchase after a major liquidity event. He said customers usually opt for Rolexes as they are instantly recognizable. Models like the Daytona, GMT-Master II and Submariner are most popular, he added.
-"The watch becomes a reminder of that accomplishment every time they put it on," he said. "The stock certificate stays in a brokerage account. The watch goes on your wrist."
-John Shmerler, CEO of The 1916 Co., a luxury watch and jewelry retailer, said customers who have been waiting for years are often willing to pay a premium for preowned timepieces by trophy brands like Patek Philippe and F.P. Journe.
-The splurge doesn't stop there. While some SpaceX employees may have already flown first class, the IPO will enable many to fly private.
-D.J. Hanlon, executive vice president of sales at Flexjet, and Kolin Jones, founder and CEO of Amalfi Jets, said their private jet companies have seen recent inquiries specifically related to the SpaceX IPO.
-Jones said clients are already chartering jets to celebrate the occasion with a trip.
-The top choice for celebrating a liquidity event is Las Vegas, especially for younger fliers traveling without children, Jones said. Miami and Cabo San Lucas, Mexico, are also popular destinations.
-Fliers looking to take the entire family on vacation, however, lean toward Aspen, Colorado, and Yellowstone National Park, Jones said. And Disney World is a classic choice for local families with young children who want to avoid the hassle of airport security, he added.
-With newly wealthy customers, the Amalfi Jets sales team sometimes receives follow-up calls from wealth managers asking to cancel their clients' charter or downgrade to smaller jets, Jones said.
-"It is sometimes comical to see the clients arguing with their wealth manager, saying, 'No, it's my money, I want the Gulfstream,'" he said. "There's going to be a lot of people that are flying private for the first time, and I think it's going to be a really fun spending spree."
-
-</details>
-
-
----
-
-## Beyond SpaceX: Here's where family offices see buying opportunities in the space economy
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html
-
-正文长度：4860
-
-摘要：Personal investment firms of the ultra-rich are interested in space startups even without Elon Musk's name attached.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-The investment firms of billionaires including ex-eBay President Jeff Skoll and AutoZone's Pitt Hyde are set to reap rewards from SpaceX's IPO this Friday.
-However, while SpaceX's profile eclipses that of nearly every other private space company, family office investors told CNBC that they see other opportunities in the sector even for companies without Elon Musk's name attached. Moreover, they said they view space-related startups as opportunities to invest in infrastructure and defense rather than flashy bets on space exploration.
-Gary Lauder, a cosmetics heir turned venture capitalist, has invested in SpaceX through a special purpose vehicle and two venture funds. He told CNBC he was attracted to the strength of its Starlink satellite technology, not the prospect of space tourism.
-Much of Lauder's early investing was in telecommunications, and he took a seminar in satellite communications in the early '90s.
-"I never dreamed of being an astronaut," he said. "It's just an important mode of communication."
-Jason Blanck, an investor who started his namesake family office in 2024, said he is interested in the picks and shovels of space, like mission-critical hardware and data networks.
-"I think the public markets are focused heavily on debating rocket launch cadences, costs around flight development, but from my perspective and where I sit, managing permanent family capital, the real narrative has actually quite evolved," he said.
-Robin Lauber's Infinitas Capital invested in SpaceX in early 2025 through a secondary offering. He cited Musk's track record and the success of Starlink as reasons to put money in. Lauber also noted the valuation was "reasonable" compared with the more than $1.75 trillion expected now.
-He told CNBC that Infinitas would have sold some shares before the initial public offering had it found a willing buyer at the right discounted valuation. Lauber is open to selling locked-up shares at a discount to recover the initial cost of investment and seeing how the other shares fare.
-Looking forward, Lauber is weighing more investments in European space companies such as Isar Aerospace, a German launch service provider. He is also considering participating in a new fund by Alpine Space Ventures, which counts a SpaceX alum as a founding partner.
-"European sovereignty is a huge topic everywhere," he said.
-Investing in space-related firms was unpopular not so long ago, according to Jon Kutler of Admiralty Partners. He spent 10 years in the U.S. Navy before becoming an investment banker specializing in aerospace and defense in the early 1980s. He left Wasserstein Perella & Co. in 1992 to start his own investment firm in order to focus more on the sector to the chagrin of his then-boss, Bruce Wasserstein.
-""He told me I was an idiot because the Cold War was over and there was going to be no more spending in the defense industry," Kutler said. "People had extrapolated that to be the end of the defense industry, but if you look over the history of mankind, we're just not a very peaceful species. To me, it seemed ludicrous to declare an end to defense spending, and I was willing to bet against that with my own capital and my own time."
-Kutler sold that investment firm in 2002 to focus on his family office, Admiralty Partners. His investments include Firefly Aerospace, a rocket maker with clients including Lockheed Martin and the U.S. Space Force.
-Investing in aerospace firms pioneering new technologies requires patience, Kutler said. This is where family offices have an edge on traditional private equity firms since they aren't under pressure to realize returns on a fixed timeline.
-While the prospect of traveling to Mars is exciting, space exploration companies face a harder path to financial success because federal government spending is less consistent, he said.
-"Defense spending is going to be a recurring theme, It will have ups and downs based upon administration priorities, but there's always going to be an end market there," he said.
-Kutler said the enthusiasm around the SpaceX IPO belies considerable risks to investing in aerospace, such as swings in federal spending. He added that he is concerned federal cuts to research funding will endanger the pipeline of future startups.
-"There is a temptation because of what's going on right now to think that commercial space companies are the answer to everything," Kutler said. "Perhaps over time the commercial industry may able to do it cheaper, but if you amortize everything out, it takes a long time for that to happen, and these early investments by the government were key to making these things happen."
-
-</details>
-
-
----
-
-## David Hockney, painter, 1937-2026 - Financial Times
+## US kills leader of Venezuelan Tren de Aragua gang in air strike - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTjYyc0Z4QVdyR19aVldiNDFmRFZCNVZXb28tbmxxcTJFUkYtdW5BM0pwQjd5Ukh5clJDX3pjNUotWVhhQXZVTUtueVJZcHVnREF2Mi1Sak41enpCSkozZjd2b0hUeDAzVE5hVjFhQms?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZ0xsVU56UTZlZW11My1oQ3NhWWRMaTFSeVZjSmFaT1RjZUVla09aRUJJZ2dNYU0tOGhmYnYyZ2tkclRpSUJjd3h4SWtSRHc4cWZsTF9Fc0ZZVUtrd3ZGTjV5NzdQTzFiNHZGQk1OUkI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTjYyc0Z4QVdyR19aVldiNDFmRFZCNVZXb28tbmxxcTJFUkYtdW5BM0pwQjd5Ukh5clJDX3pjNUotWVhhQXZVTUtueVJZcHVnREF2Mi1Sak41enpCSkozZjd2b0hUeDAzVE5hVjFhQms?oc=5" target="_blank">David Hockney, painter, 1937-2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZ0xsVU56UTZlZW11My1oQ3NhWWRMaTFSeVZjSmFaT1RjZUVla09aRUJJZ2dNYU0tOGhmYnYyZ2tkclRpSUJjd3h4SWtSRHc4cWZsTF9Fc0ZZVUtrd3ZGTjV5NzdQTzFiNHZGQk1OUkI?oc=5" target="_blank">US kills leader of Venezuelan Tren de Aragua gang in air strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Swiss voters weigh world’s first population cap - Financial Times
+## Anthropic suspends latest AI models after US blocks access to foreigners - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmM4ZjBzX2FNZTZmRndlYzRRQ1o0U2ItaTl1cHFvZzY2VUx4bnVhYXFjVVV5YnRJTUtSbDRfeG9lWGtRUC13dEJ3ZXlNSzA4Y2E3RVJCOEp4MzNoOWZ0VzhDLWxDV256MWg2bjcxc0xSeTFycmREVTlZTGdFTElJZkJGWnA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEFMYlljV2xiMUUtVkNfY21WRGhNNjNuZS1HVUNwYlVScUVHWkRUU3g1VzJZUEVWX3pfWGppYmVLX2xhSVZ4VmtYMVE0Wjd0X0VuaW51b2VIN2RNOGVtbGxLNEhOQjBIclhiMlhmODAzOHJ4ZXExbU1uQnM3NzdnMmxoY1k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmM4ZjBzX2FNZTZmRndlYzRRQ1o0U2ItaTl1cHFvZzY2VUx4bnVhYXFjVVV5YnRJTUtSbDRfeG9lWGtRUC13dEJ3ZXlNSzA4Y2E3RVJCOEp4MzNoOWZ0VzhDLWxDV256MWg2bjcxc0xSeTFycmREVTlZTGdFTElJZkJGWnA?oc=5" target="_blank">Swiss voters weigh world’s first population cap</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEFMYlljV2xiMUUtVkNfY21WRGhNNjNuZS1HVUNwYlVScUVHWkRUU3g1VzJZUEVWX3pfWGppYmVLX2xhSVZ4VmtYMVE0Wjd0X0VuaW51b2VIN2RNOGVtbGxLNEhOQjBIclhiMlhmODAzOHJ4ZXExbU1uQnM3NzdnMmxoY1k?oc=5" target="_blank">Anthropic suspends latest AI models after US blocks access to foreigners</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The Iranian missile cities the US could not destroy - Financial Times
+## SpaceX is cheap on a price-to-cosmos ratio - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWFnTVZpS0dXR2VvdUtZdlZWRWpqQTBUT3Z6VjFkaXdXYXV6VVMwcjE4bVBZMlh6QzBZd181S2V5MmVCSW41X3RTRnc0NXRUVFI0TUZ0bDc1YTU3QUJqNXQ3NDhwQXV3VG1ySkZiVC1xVlhwT3pIbDVCaXAycGE4VTlrY0Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWFtWXlUb3dmeUI3VDk4WWo5NzVpZVl5QWVxZ1ZaRWtxSzFaaU9FM0tUVHJ5LVdoMzA4dl9hYXhnVEJpQS1mQjFxZUZtWngzWGxSUS1EVWlMeFhKekJuZmhkTlNsNWd3SERSSXdnZjM0eWdzVTBEN2NlQXl5eDdGVThtNm4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWFnTVZpS0dXR2VvdUtZdlZWRWpqQTBUT3Z6VjFkaXdXYXV6VVMwcjE4bVBZMlh6QzBZd181S2V5MmVCSW41X3RTRnc0NXRUVFI0TUZ0bDc1YTU3QUJqNXQ3NDhwQXV3VG1ySkZiVC1xVlhwT3pIbDVCaXAycGE4VTlrY0Y?oc=5" target="_blank">The Iranian missile cities the US could not destroy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWFtWXlUb3dmeUI3VDk4WWo5NzVpZVl5QWVxZ1ZaRWtxSzFaaU9FM0tUVHJ5LVdoMzA4dl9hYXhnVEJpQS1mQjFxZUZtWngzWGxSUS1EVWlMeFhKekJuZmhkTlNsNWd3SERSSXdnZjM0eWdzVTBEN2NlQXl5eDdGVThtNm4?oc=5" target="_blank">SpaceX is cheap on a price-to-cosmos ratio</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chinese investors rush to open Hong Kong accounts amid Beijing crackdown - Financial Times
+## Palantir loses legal challenge against Swiss investigative magazine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmFJbmZGd09DWkVUdkVrZTV1VzNLdUhJQjN5b1d4TERoeVUtLTg2cmZJeUYzX1JYdVR5Q0cyY1k3blFvbnJhYlY2YTlUNlAtUjhja2QtcjR4bnVxWF9vdUlaaEJqZHg2UTZpbG84OXJQMU9JV09kVzhPMDlseUE1Rm1TVHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEZyc0ljbFV3eGVOSkhMa01HSW5Ocmg2WGF1ZVRQT3NsU2RnMjFPczA3LUZVQlJNYWJ0NGliUW03YlNNUG4xcVh5VWJTMmV6Y3ZIZ0JRSjVscXR3aWh5ZW9VcWFYZWZnSGVRQThIdjVfYy03Y1FWcGhRelVQOXc3aUFRNVM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmFJbmZGd09DWkVUdkVrZTV1VzNLdUhJQjN5b1d4TERoeVUtLTg2cmZJeUYzX1JYdVR5Q0cyY1k3blFvbnJhYlY2YTlUNlAtUjhja2QtcjR4bnVxWF9vdUlaaEJqZHg2UTZpbG84OXJQMU9JV09kVzhPMDlseUE1Rm1TVHA?oc=5" target="_blank">Chinese investors rush to open Hong Kong accounts amid Beijing crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEZyc0ljbFV3eGVOSkhMa01HSW5Ocmg2WGF1ZVRQT3NsU2RnMjFPczA3LUZVQlJNYWJ0NGliUW03YlNNUG4xcVh5VWJTMmV6Y3ZIZ0JRSjVscXR3aWh5ZW9VcWFYZWZnSGVRQThIdjVfYy03Y1FWcGhRelVQOXc3aUFRNVM?oc=5" target="_blank">Palantir loses legal challenge against Swiss investigative magazine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -306,67 +310,67 @@ Kutler said the enthusiasm around the SpaceX IPO belies considerable risks to in
 
 ---
 
-## Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters
+## Iran says signing of Islamabad memorandum will not take place on Sunday - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0FOaVdWWXA2X0NZYllFaWc5NURHYURjYi1RTzNBc2R1VVVDTHhLVDdHWThXSjkwX3BhbkU1Mm50aFMtb3F1Rng4UU5OQzc3aXJ6THFMYWNxUHBTU2F5RXFqU2JoT1Z3MU5nMVYwM3pYS0tXU3pDWGtDRDcyaDktNjBmODdsZFBRYU52akRvbnBLdUZybm9pSFdRZWx5bTFMQkNldU4zQ0Z4cWdnN1BzRFg1V1M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0QyenI2aldGY2QzNVRVbnJ5ejkxZmY3VXpTa2o4QkM5dDRTVVoyeEZMampXN3BVc1A2ODIzUmt3cGdVbl9XVkRJam5tVHl4c0xtbkdEcFo0QzdDemZEaEd0dWtSWjM2RG95YmI2bG5Zc2o1SlpKNTI2SDdvMzd3eDV6QkJiamFBUjBVblZ1dm5XS0ZIRDRnOVRQZGEzRURmMm1mM3psMmQ0bXZPUU9oeklCNDREc2hMeXRv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0FOaVdWWXA2X0NZYllFaWc5NURHYURjYi1RTzNBc2R1VVVDTHhLVDdHWThXSjkwX3BhbkU1Mm50aFMtb3F1Rng4UU5OQzc3aXJ6THFMYWNxUHBTU2F5RXFqU2JoT1Z3MU5nMVYwM3pYS0tXU3pDWGtDRDcyaDktNjBmODdsZFBRYU52akRvbnBLdUZybm9pSFdRZWx5bTFMQkNldU4zQ0Z4cWdnN1BzRFg1V1M?oc=5" target="_blank">Trump says US military strike killed leader of Venezuela's Tren de Aragua gang</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0QyenI2aldGY2QzNVRVbnJ5ejkxZmY3VXpTa2o4QkM5dDRTVVoyeEZMampXN3BVc1A2ODIzUmt3cGdVbl9XVkRJam5tVHl4c0xtbkdEcFo0QzdDemZEaEd0dWtSWjM2RG95YmI2bG5Zc2o1SlpKNTI2SDdvMzd3eDV6QkJiamFBUjBVblZ1dm5XS0ZIRDRnOVRQZGEzRURmMm1mM3psMmQ0bXZPUU9oeklCNDREc2hMeXRv?oc=5" target="_blank">Iran says signing of Islamabad memorandum will not take place on Sunday</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Exclusive: US forces shoot down Iranian attack drones, source says - Reuters
+## Pakistan PM says US-Iran peace deal signing expected within 24 hours - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkRJSW8xc3RxTVJ0QnN0VnpIcHNGQUFnNGtKbDQ0bXY3b0F0TWs5U1ZoTVFvMnlQeHlWdDVHRjJobjl0RHd4RGd5LW1US3E5aWs1THNRRTRFbnVzTjZiUUMwb0gzZFlOTU0wWFI2SmRtVm1XcHJRQkR6QkxldVBnS01wclpLb01FMU9xOENLazdEdjdGWWwwYU9TRmUxUnpDRnlodU9qNzZEWXBHMjVQdTFEM29mWER1MUVhcl9Ic3g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5" target="_blank">Exclusive: US forces shoot down Iranian attack drones, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkRJSW8xc3RxTVJ0QnN0VnpIcHNGQUFnNGtKbDQ0bXY3b0F0TWs5U1ZoTVFvMnlQeHlWdDVHRjJobjl0RHd4RGd5LW1US3E5aWs1THNRRTRFbnVzTjZiUUMwb0gzZFlOTU0wWFI2SmRtVm1XcHJRQkR6QkxldVBnS01wclpLb01FMU9xOENLazdEdjdGWWwwYU9TRmUxUnpDRnlodU9qNzZEWXBHMjVQdTFEM29mWER1MUVhcl9Ic3g?oc=5" target="_blank">Pakistan PM says US-Iran peace deal signing expected within 24 hours</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic disables most advanced AI models after US order limiting foreign access - Reuters
+## Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWljdFRvWXh3cEM0ODgyOFF1LUVuSTJFSklLNXlPVWxyZks4d0pKQmVVY1RBX0lNSHZ3Vzk1MlZOZHl0bTRRdFAteDEtLWptUnpiMEY2djh4cDNYZHFheFUwaFVCa0hpdU1YMWd4UDFwTnc1Z1kzcGZQNF9SUDVTZGI0VUE3VzRzQWM1OFU0RXJKQXBpMjQxZDNoMldScWNYQnlzaGE4aGtxaFo3RlY3RmJyMnJGdG4xTW9nSHJKM2tPZDN2UUZaX0QzYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5" target="_blank">Anthropic disables most advanced AI models after US order limiting foreign access</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWljdFRvWXh3cEM0ODgyOFF1LUVuSTJFSklLNXlPVWxyZks4d0pKQmVVY1RBX0lNSHZ3Vzk1MlZOZHl0bTRRdFAteDEtLWptUnpiMEY2djh4cDNYZHFheFUwaFVCa0hpdU1YMWd4UDFwTnc1Z1kzcGZQNF9SUDVTZGI0VUE3VzRzQWM1OFU0RXJKQXBpMjQxZDNoMldScWNYQnlzaGE4aGtxaFo3RlY3RmJyMnJGdG4xTW9nSHJKM2tPZDN2UUZaX0QzYw?oc=5" target="_blank">Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms - Reuters
+## Ukrainian military hits Russia's oil infrastructure in Volgograd region, Kyiv says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRTZ2ZEV6X0JtcmxKMGo0aFdEWWFGX1NMSmhpZEJuWTBLMHJCQWxMc3dscHl6b0ZRcVBKN25ycnBUeDhocmV6YlNCaTZaZzJvY2ZVamM3LVo3VmxJVVJRc0hvU0ZCYjVmZkhBRmN4OFdZYk1rakEzdG1XeXNfdGdSU0dyTENKQXZqRU9wWGVLSkxhN0tCcXltaGN3S1dvOEJreS1JUGZQVWg2ZFZUV1Q4SmhiN1c0V2NpQUdCcHAwTnczdFFCaFF6eGd2ODRfS0s5N1ZDcE1mS1ZCeTg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGRzQkVTRzBRZ1VSNE5FVEVrc1BKRkRObDZtVHAyeDdNMmx6YUF2aEtRM2Vpekpydm80QkZzeTcyZkR0X2JwWWNuUXphU0IzemR4VC1kYktwQWtETzBlR0VEaVlZbFoxRWpvbG52NThLaC1mVndMUENQMGlMdWhyOTZNaWlkcEZBenpJYUh4ZlFUdmlTZ0tyN2theXVvN01OOGp5SnZrZEltUWx4bEtIcnk0NnFUM3huYnctTkJ1Nk5MNzZYSWlORg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRTZ2ZEV6X0JtcmxKMGo0aFdEWWFGX1NMSmhpZEJuWTBLMHJCQWxMc3dscHl6b0ZRcVBKN25ycnBUeDhocmV6YlNCaTZaZzJvY2ZVamM3LVo3VmxJVVJRc0hvU0ZCYjVmZkhBRmN4OFdZYk1rakEzdG1XeXNfdGdSU0dyTENKQXZqRU9wWGVLSkxhN0tCcXltaGN3S1dvOEJreS1JUGZQVWg2ZFZUV1Q4SmhiN1c0V2NpQUdCcHAwTnczdFFCaFF6eGd2ODRfS0s5N1ZDcE1mS1ZCeTg?oc=5" target="_blank">China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGRzQkVTRzBRZ1VSNE5FVEVrc1BKRkRObDZtVHAyeDdNMmx6YUF2aEtRM2Vpekpydm80QkZzeTcyZkR0X2JwWWNuUXphU0IzemR4VC1kYktwQWtETzBlR0VEaVlZbFoxRWpvbG52NThLaC1mVndMUENQMGlMdWhyOTZNaWlkcEZBenpJYUh4ZlFUdmlTZ0tyN2theXVvN01OOGp5SnZrZEltUWx4bEtIcnk0NnFUM3huYnctTkJ1Nk5MNzZYSWlORg?oc=5" target="_blank">Ukrainian military hits Russia's oil infrastructure in Volgograd region, Kyiv says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US judge orders halt to Trump administration's 'censorship' of park exhibits - Reuters
+## Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkpoTDRmU2xUa1NDalBRVTR3a2hEUzFfdzZOLU9keGVkdXVFVmVpU3poeXUzZUZUSVFyRTlPNFBzSndBaHBsSHA4ZUlEcDBjUVN1QURQaHpOOGxmRElqRlg4VWx3andkX05pX01SejdET3Y1c3hiZDJwelI5VWh4c2NyZHB5cUU2a1VWY2tWTXVkcXRVQ0RXdENucUFoVUstX2hHeDJZSktpcFVSTTFQMTVLM0JuNVBkek1SRkozcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFh2RmJuX1poQlE4QVhNMG1kYjNaeUVhQmx3T2lEU002bTluMC1kbmhIUWR0eG5EYnRycEVvc2NWUGM5WFNDY3BwM3hhZzdzc2pzQW1pMHlsaHpkYVBteHZKSDAxajF5UVNXV0ZIdlpLcWFjSlM2ZFg3YlFscDRseHpMdURVOEJicWRtdVdGUXEtYVR0dklLbzN4bjV5XzBfeHl5VEVmaWN1OXFMUzVNQVdlRWlqNGNZUXRlS1dGQllFSTlrRUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkpoTDRmU2xUa1NDalBRVTR3a2hEUzFfdzZOLU9keGVkdXVFVmVpU3poeXUzZUZUSVFyRTlPNFBzSndBaHBsSHA4ZUlEcDBjUVN1QURQaHpOOGxmRElqRlg4VWx3andkX05pX01SejdET3Y1c3hiZDJwelI5VWh4c2NyZHB5cUU2a1VWY2tWTXVkcXRVQ0RXdENucUFoVUstX2hHeDJZSktpcFVSTTFQMTVLM0JuNVBkek1SRkozcw?oc=5" target="_blank">US judge orders halt to Trump administration's 'censorship' of park exhibits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFh2RmJuX1poQlE4QVhNMG1kYjNaeUVhQmx3T2lEU002bTluMC1kbmhIUWR0eG5EYnRycEVvc2NWUGM5WFNDY3BwM3hhZzdzc2pzQW1pMHlsaHpkYVBteHZKSDAxajF5UVNXV0ZIdlpLcWFjSlM2ZFg3YlFscDRseHpMdURVOEJicWRtdVdGUXEtYVR0dklLbzN4bjV5XzBfeHl5VEVmaWN1OXFMUzVNQVdlRWlqNGNZUXRlS1dGQllFSTlrRUE?oc=5" target="_blank">Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
