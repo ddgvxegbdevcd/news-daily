@@ -1,25 +1,55 @@
 # 每日财经新闻
 
-更新时间：2026-06-14 04:47:15
+更新时间：2026-06-14 14:17:54
 
-## South Korea’s World-Beating Stock Market Eyes Its MSCI Moment
+## FIFA’s American Dream: How the World Cup Cashed In
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-14/world-s-hottest-stock-market-turns-attention-to-msci-moment
+链接：https://www.bloomberg.com/news/videos/2026-06-14/fifa-s-american-dream-how-the-world-cup-cashed-in-video
 
-正文长度：648
+正文长度：0
 
-摘要：After one of its most volatile weeks in years, South Korea’s stock market is approaching a milestone it has long been chasing: a potential path into MSCI Inc.’s developed-market status.
+摘要：The 2026 World Cup is set to generate more than $11 billion in revenue, making it the richest tournament in football history. But soaring ticket prices, dynamic pricing models, and a booming resale market are raising concerns that many longtime supporters are being priced out. Veteran England fan Andy Milne says attending his tenth World Cup will be by far his most expensive, while former Liverpool CEO Peter Moore argues that FIFA risks sacrificing atmosphere and accessibility in pursuit of record revenues. Former LA28 CEO Kathy Carter counters that the money generated from sports events like the World Cup helps fund growth of the sport worldwide, highlighting the growing tension between commercialization and the fan experience.  (Source: Bloomberg)
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> South Korea’s World-Beating Stock Market Eyes Its MSCI Moment
-After one of its most volatile weeks in years, South Korea’s stock market is approaching a milestone it has long been chasing: a potential path into MSCI Inc.’s developed-market status.
-The Kospi has become the world’s best-performing major equity benchmark this year, surging more than 90% as investors piled into artificial-intelligence winners. Yet the rally has also turned Korea into one of the world’s most volatile stock markets. The benchmark has repeatedly triggered exchange safeguards in recent days, while swings have surged to levels rarely seen among major global indexes.
+---
 
-</details>
+## Fed Chair Warsh Faces Challenging Debut
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-14/fed-chair-warsh-faces-challenging-debut-video
+
+正文长度：0
+
+摘要：New Federal Reserve Chair Kevin Warsh will have his first press conference amid inflation and uncertainty over interest rates. Bloomberg Intelligence Chief US Interest Rate Strategist Ira Jersey joins David Gura and Christina Ruffini on Bloomberg This Weekend to examine the current division within the Fed and what Warsh may do going forward. (Source: Bloomberg)
+
+
+---
+
+## Switzerland Looks Set to Reject 10-Million Population Cap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows
+
+正文长度：0
+
+摘要：Switzerland looks set to reject capping its population at 10 million people, a radical proposal that would have marked an escalation in efforts by wealthy nations around the world to put strict curbs on immigration.
+
+
+---
+
+## Compressed Timeline for US-Iran Nuclear Deal Could Lead to Later Unraveling
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-14/timeline-for-us-iran-deal-could-lead-to-later-unraveling-video
+
+正文长度：0
+
+摘要：Principal Deputy National Security Advisor under President Biden and former State Department Chief of Staff under President Obama Jonathan Finer joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss his concerns over the rushed timeline on such a complex issue that took the Obama administration two years to reach a deal on.  (Source: Bloomberg)
 
 
 ---
@@ -30,83 +60,44 @@ The Kospi has become the world’s best-performing major equity benchmark this y
 
 链接：https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal
 
-正文长度：397
+正文长度：0
 
 摘要：For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Eco Week Ahead
-Fed and BOE Stay Guarded After 100 Days of Iran War
-For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.
-Officials responsible for monetary policy in seven of the world’s most-traded currency jurisdictions are mostly anticipated to keep settings steady again.
-
-</details>
-
 
 ---
 
-## CLO ETFs Boom on Higher Rates, Private Debt Woes
+## JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-06-13/clo-etfs-boom-on-higher-rates-private-debt-woes-credit-weekly
+链接：https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html
 
-正文长度：596
+正文长度：3831
 
-摘要：Wall Street has an answer for retail investors seeking to profit from elevated interest rates and dodge defaults in private credit: funds that buy collateralized loan obligations.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> CLO ETFs Boom on Higher Rates, Private Debt Woes
-Wall Street has an answer for retail investors seeking to profit from elevated interest rates and dodge defaults in private credit: funds that buy collateralized loan obligations.
-Firms including Franklin Templeton, Barings, Fidelity Investments and Janus Henderson have recently announced exchange traded funds that buy higher-rated portions of the vehicles known as CLOs. Collateralized loan obligations are backed by hundreds of risky corporate loans, and are set up so top-level investors in the deals are last to take losses if defaults rise.
-
-</details>
-
-
----
-
-## Bloomberg This Weekend 6/13/2026
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-13/bloomberg-this-weekend-6-13-2026-video
-
-正文长度：417
-
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Swarovski CEO Alexis Nasard, Johns Hopkins Center for Health Security Senior Scholar Dr. Amesh Adalja, and Pacific University Political Science Professor Jules Boykoff.  (Source: Bloomberg)
+摘要：JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Jun 13th, 2026
-Bloomberg This Weekend 6/13/2026
-The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Swarovski CEO Alexis Nasard, Johns Hopkins Center for Health Security Senior Scholar Dr. Amesh Adalja, and Pacific University Political Science Professor Jules Boykoff.
-
-</details>
-
-
----
-
-## Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-13/consumers-embrace-caffeine-minimalism-video
-
-正文长度：698
-
-摘要：While plenty of Americans are emphatically unready to give up caffeine, many are experimenting with a new range of options beyond the traditional cup of hot java, paying heed to caffeine’s impact on their sleep, mood and energy level. Consumers are becoming more cognizant of “energy management” in their beverage choices, says Daniel Jhung, president of the coffee and beverage division of Nestlé USA. For many, this might mean drinking coffee in the morning, but going easy on caffeine in the afternoon. Bloomberg reporter Kristina Peterson joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Jun 13th, 2026
-Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters
-While plenty of Americans are emphatically unready to give up caffeine, many are experimenting with a new range of options beyond the traditional cup of hot java, paying heed to caffeine’s impact on their sleep, mood and energy level. Consumers are becoming more cognizant of “energy management” in their beverage choices, says Daniel Jhung, president of the coffee and beverage division of Nestlé USA. For many, this might mean drinking coffee in the morning, but going easy on caffeine in the afternoon. Bloomberg reporter Kristina Peterson joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss.
+> JetBlue Airways is already the biggest airline in Fort Lauderdale, Florida, and it wants to get even bigger.
+"Lauderdale has been a star for us," JetBlue President Marty St. George said this month about Fort Lauderdale-Hollywood International Airport.
+Capitalizing on growth at the Broward County airport is key for JetBlue as it revamps its network and rolls out more high-end options like a domestic first-class cabin to return to profitability. Its last profitable quarter was two years ago.
+JetBlue was looking to expand in Fort Lauderdale even before Spirit Airlines, the South Florida-based discounter that was No. 1 at the airport, collapsed on May 2 under the weight of debt and years of snowballing problems.
+JetBlue is now the top carrier with 36% market share by capacity at the airport, according to a Cirium tally of 2026 capacity, up from about 24% a year earlier. From May to June of this year, JetBlue added 5% more capacity, while big competitors pulled back in the Florida offseason, according to Cirium.
+The carrier has about 106 flights scheduled a day for this year on average, up from about 68 a day last year, Cirium data shows.
+Just hours after Spirit's collapse, JetBlue and other airlines laid out their own travel plans, adding flights to fill the void at Fort Lauderdale.
+JetBlue raised its revenue forecast for the year on June 1, citing strong demand.
+"I'm feeling very, very bullish about how customers have responded to JetBlue's growth," St. George said.
+JetBlue says it's planning for even more growth as additional gates become available after Spirit's demise. Some of those gates are still tied up in bankruptcy court.
+JetBlue's plan is to operate about 150 daily flights at Fort Lauderdale in the peak winter months, which include Presidents Day weekend and some school breaks, a schedule that will put it on par with JetBlue's Boston Logan International Airport hub, its largest after New York.
+The plan includes more international destinations leaving from Fort Lauderdale and a focus on premium air travel.
+St. George said the carrier has been reviewing sites for a lounge — which would be the third in its network — at Fort Lauderdale to cater to those customers. It already has lounges at New York's John F. Kennedy International Airport and in Boston.
+"It is unclear right now where we would put a lounge," he said. "The airport folks, I think, are equally motivated to have a lounge down there. Certainly, given the size of our operation and the number of premium customers going in and out of Fort Lauderdale, I think [it makes] a lot of sense, we just have to find the right location."
+The big competitive threat lies about 26 miles south, at Miami International Airport, an American Airlines hub that dwarfs Fort Lauderdale. Both airports, though Miami is much larger, are major hubs for leisure customers as well as those visiting friends and relatives in Latin America and the Caribbean.
+"There's a good number of customers for [whom] Miami is the right airport, who will never leave Miami, and we're not planning on converting those customers," St. George said. "I do think that as we get more service in Fort Lauderdale as a bigger breadth of destinations, that utility of Lauderdale Airport will go up."
+American on Friday said it plans to operate a record 100 destinations to the Caribbean, Mexico and other airports in Latin America from the U.S., with 77 of them leaving from Miami, including a new flight to Maracaibo, Venezuela, from July 14 and to Cap-Haitien, Haiti, starting Nov. 1.
+JetBlue, for its part, announced Fort Lauderdale to Caracas service recently, as carriers build up flights. American in January announced it would resume resume service to Venezuela from the United States for the first time since 2019, weeks after the U.S. captured Venezuela's president.
 
 </details>
 
@@ -257,36 +248,15 @@ That said, Gates' fortune would be a whopping $464 billion had he not given so m
 
 ---
 
-## Elections advertising spend for 2026 expected to reach record high, outpacing presidential years
+## Wall Street digests record fundraising haul as AI race intensifies - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVpHVTNkSGhjRGs1eXA1VVB1MTNDR1hocU8zQzNqZEVRMUhSLTNtd29LSDJad1JQNEtPaDVleWM1anBRUXJLMHFYZm9jdVNmM25lTUtfcGJHbk85S1lxSGNnVzZWYU1fbFprTHE4TDRxeVdhOGZsRVJQYWVhMEhrcUU4RlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3429
+正文长度：0
 
-摘要：High-profile 2026 midterm races in California, Texas and other key states are driving higher spend earlier in the cycle, AdImpact found.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The 2026 midterm election cycle could surpass the 2024 presidential cycle to reach record advertising spend for any U.S. election, according to a new report from advertising intelligence company AdImpact.
-This year's races are projected to reach $11.6 billion in ad spend, making it the most expensive cycle ever and eclipsing the $11.2 billion spent on ads for the 2024 election between now-President Donald Trump and former Vice President Kamala Harris, AdImpact estimates. The new projection is a $795 million increase from a previous projection made last year.
-The midterm cycle is set to be more intense than previous cycles, with Republicans controlling both chambers of Congress. The 2022 midterm cycle drew $8.9 billion in ad spend, according to AdImpact. If the projection holds, the 2026 ad spend would be 30% higher than the last midterm election.
-"From record-setting races and surging party committee war chests to a competitive landscape that continues to expand, all indicators point to 2026 being the most expensive political advertising cycle in history," the report read.
-AdImpact said it expects $5.6 billion to be spent on broadcast, $1.4 billion on cable, $2.6 billion on connected TV and $1.68 billion on digital.
-Advertising remains a key revenue driver for media companies, with sports, live events and news attracting the most spending. Elections, particularly those that are hotly contested or in battleground states, often bring in some of the highest ad revenue for the owners of local broadcast stations across the country.
-Broadcast TV remains one of the largest forces in political advertising, according to the report, comprising nearly half of the total cycle spending and driven almost entirely by state races.
-States seeing the largest spend overall include California, Texas, Michigan and Ohio. Michigan, Ohio and Texas all feature competitive Senate races, while California has an expensive governor's race.
-AdImpact estimated that through June 1, political ad spending has reached $4 billon, a 46% increase over the same point in the 2024 presidential election cycle.
-"Much of that surge is driven by a concentrated set of high-profile, high-dollar contests that materialized earlier in the cycle than is typical," the report read.
-Politicians are also relying more heavily on digital spending across platforms like Facebook, Google, Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact.
-Within the election categories, the Senate has seen a notable increase in projected political spend, expected to draw nearly $3.4 billion, with one of the most expensive races being Texas' Senate primary, the report said. Republicans hold 53 U.S. Senate seats compared with Democrats' 45. The Senate's two independents caucus with Democrats.
-In gubernatorial races, three of the four most expensive competitions on record are taking place in 2026 in California, New Jersey and Georgia, according to AdImpact.
-Even down ballot spending is expected to reach record levels this year, surpassing the record set in 2022 of $3.2 billion.
-The midterm election cycle's most expensive period is yet to come, according to AdImpact. The highest spending is between August and November, accounting for between 58% and 67% of all political ad spending for the cycle, with October itself accounting for between 28% and 36% of spend as the country nears Election Day.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVpHVTNkSGhjRGs1eXA1VVB1MTNDR1hocU8zQzNqZEVRMUhSLTNtd29LSDJad1JQNEtPaDVleWM1anBRUXJLMHFYZm9jdVNmM25lTUtfcGJHbk85S1lxSGNnVzZWYU1fbFprTHE4TDRxeVdhOGZsRVJQYWVhMEhrcUU4RlE?oc=5" target="_blank">Wall Street digests record fundraising haul as AI race intensifies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -304,119 +274,106 @@ The midterm election cycle's most expensive period is yet to come, according to 
 
 ---
 
-## SpaceX’s surge on debut makes Elon Musk world’s first trillionaire - Financial Times
+## Far-right activist Tommy Robinson detained under terrorism legislation - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVpTQUIwQ2J4QUVia0NRQVdnX0RmYlRXNVo2TG9rdTU5WmlNV0pOV21VNUtGNnpRNmlHQWhYWU9hRE5RcjNaUmk5N1VpU01tRmhsbzhlbENKQmJRVl9RcWxzTVdBZE9yUGdyTDFhZExVMG5adnNzelhBMTRoZS1ZT3U0cWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2VtS1VnUlhCT2p6UF96eHFmNlpWUDBxdlVtUGdxQXVNLUhsZFQ0SldjTTkwT2tQMHk5bjRwMXNGUERicDBMejBMWGJjZXNBckxvc3haZGM2TFk2cGFDRDRYb0IxWEFSZjlKYzlUNkJrVEJ2bVlOZkZPbmg5eTVRaEFhS3Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVpTQUIwQ2J4QUVia0NRQVdnX0RmYlRXNVo2TG9rdTU5WmlNV0pOV21VNUtGNnpRNmlHQWhYWU9hRE5RcjNaUmk5N1VpU01tRmhsbzhlbENKQmJRVl9RcWxzTVdBZE9yUGdyTDFhZExVMG5adnNzelhBMTRoZS1ZT3U0cWg?oc=5" target="_blank">SpaceX’s surge on debut makes Elon Musk world’s first trillionaire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2VtS1VnUlhCT2p6UF96eHFmNlpWUDBxdlVtUGdxQXVNLUhsZFQ0SldjTTkwT2tQMHk5bjRwMXNGUERicDBMejBMWGJjZXNBckxvc3haZGM2TFk2cGFDRDRYb0IxWEFSZjlKYzlUNkJrVEJ2bVlOZkZPbmg5eTVRaEFhS3Y?oc=5" target="_blank">Far-right activist Tommy Robinson detained under terrorism legislation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX is cheap on a price-to-cosmos ratio - Financial Times
+## Germany seeks Deutsche Börse exemption from EU supervision - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWFtWXlUb3dmeUI3VDk4WWo5NzVpZVl5QWVxZ1ZaRWtxSzFaaU9FM0tUVHJ5LVdoMzA4dl9hYXhnVEJpQS1mQjFxZUZtWngzWGxSUS1EVWlMeFhKekJuZmhkTlNsNWd3SERSSXdnZjM0eWdzVTBEN2NlQXl5eDdGVThtNm4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmhkSGp0TUVTX0t0ZjBDcFdYWThkalQtbWE2a3JnbUZnT2ZLNlFaVlVFWVpHWV93ellsNTVmY2J4cTBNd2VscjkyR2FUX01hV1BDbFRsS1ZZaFlZX3FNUWZDMjJxR1JCTG43UC1LRkhMX3gxS1EwbTFpRk9ILTBxd0t6SHI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWFtWXlUb3dmeUI3VDk4WWo5NzVpZVl5QWVxZ1ZaRWtxSzFaaU9FM0tUVHJ5LVdoMzA4dl9hYXhnVEJpQS1mQjFxZUZtWngzWGxSUS1EVWlMeFhKekJuZmhkTlNsNWd3SERSSXdnZjM0eWdzVTBEN2NlQXl5eDdGVThtNm4?oc=5" target="_blank">SpaceX is cheap on a price-to-cosmos ratio</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmhkSGp0TUVTX0t0ZjBDcFdYWThkalQtbWE2a3JnbUZnT2ZLNlFaVlVFWVpHWV93ellsNTVmY2J4cTBNd2VscjkyR2FUX01hV1BDbFRsS1ZZaFlZX3FNUWZDMjJxR1JCTG43UC1LRkhMX3gxS1EwbTFpRk9ILTBxd0t6SHI?oc=5" target="_blank">Germany seeks Deutsche Börse exemption from EU supervision</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Elon Musk is a real-life Bond villain - Financial Times
+## Wes Streeting: This is what progressive capitalism should look like - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWtUeVl6SURvS016RVJIdEIzemlhRk1tNy04bXR6WUJZcjY5WWxMcVMybDZTWkcyQkljX0w1ODRCN0xYcTljamF0eG1kYXBrdDhCbUlUb3dIQmxVQzJFZ3d5T1ZIWllfckc1WEs0U3g0MEJucURsdXFBcHdZalFuZWZMNHI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBsaXBrQlI4QkU1WXp1VXQ4SW1XZzliOTQ4YV9uQjZBTHlJSWR5N09TRHlKQ1NhMURvaGhrN3dJRy1XU1lIQ2FCdVVuWDI3OWVuT0xiRjR0aDFJV3IwbGoyc0RWTUJycVhPYkFLaXowN0k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWtUeVl6SURvS016RVJIdEIzemlhRk1tNy04bXR6WUJZcjY5WWxMcVMybDZTWkcyQkljX0w1ODRCN0xYcTljamF0eG1kYXBrdDhCbUlUb3dIQmxVQzJFZ3d5T1ZIWllfckc1WEs0U3g0MEJucURsdXFBcHdZalFuZWZMNHI?oc=5" target="_blank">Elon Musk is a real-life Bond villain</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBsaXBrQlI4QkU1WXp1VXQ4SW1XZzliOTQ4YV9uQjZBTHlJSWR5N09TRHlKQ1NhMURvaGhrN3dJRy1XU1lIQ2FCdVVuWDI3OWVuT0xiRjR0aDFJV3IwbGoyc0RWTUJycVhPYkFLaXowN0k?oc=5" target="_blank">Wes Streeting: This is what progressive capitalism should look like</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic suspends latest AI models after US blocks access to foreigners - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEFMYlljV2xiMUUtVkNfY21WRGhNNjNuZS1HVUNwYlVScUVHWkRUU3g1VzJZUEVWX3pfWGppYmVLX2xhSVZ4VmtYMVE0Wjd0X0VuaW51b2VIN2RNOGVtbGxLNEhOQjBIclhiMlhmODAzOHJ4ZXExbU1uQnM3NzdnMmxoY1k?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEFMYlljV2xiMUUtVkNfY21WRGhNNjNuZS1HVUNwYlVScUVHWkRUU3g1VzJZUEVWX3pfWGppYmVLX2xhSVZ4VmtYMVE0Wjd0X0VuaW51b2VIN2RNOGVtbGxLNEhOQjBIclhiMlhmODAzOHJ4ZXExbU1uQnM3NzdnMmxoY1k?oc=5" target="_blank">Anthropic suspends latest AI models after US blocks access to foreigners</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US, Iran inch closer to deal, timing remains unclear - Reuters
+## Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXA2RmM1Y0lOSlBJSHJpd285cFViUGlLNFRUa0FTZWxBbC1DdUdVM1hSbUY5Z1A4R3poZEI3QjNGbFFzSlZpalRkbnVGWVFMNzYzQXlJbXhMTjdaRjFLQlk0b3FXZVIzcVVDbm9YVmd4RmtRTWVGcndQN1VJaEZRUEppeGlUZWJGaUx6WEI1OUtoeDRpbGdNbF8xRVFRTlY3Tk9Fcg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXA2RmM1Y0lOSlBJSHJpd285cFViUGlLNFRUa0FTZWxBbC1DdUdVM1hSbUY5Z1A4R3poZEI3QjNGbFFzSlZpalRkbnVGWVFMNzYzQXlJbXhMTjdaRjFLQlk0b3FXZVIzcVVDbm9YVmd4RmtRTWVGcndQN1VJaEZRUEppeGlUZWJGaUx6WEI1OUtoeDRpbGdNbF8xRVFRTlY3Tk9Fcg?oc=5" target="_blank">US, Iran inch closer to deal, timing remains unclear</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5" target="_blank">Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea says 'denuclearisation' is a matter terminated irreversibly - Reuters
+## Trump hosts White House cage fights amid war and political scrutiny - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHdvNmVfYWxaeGpRVVpDT0FqUEk4Um0taURDRzNnMkxBalBNdllmamVkRWx1aGI0aVhMR2VpQXNVVHlyN05oUWMzYkdKLTFZTzBWdnRkYjZjcExtaTRJTkxuTzd4aGQ1d0hwWjJLeGRVNmt2cmlBeUw1eW5SLTlvVEJJWlNUOHFYT0tfUXZxWWFzT245X0pDczBfVEJWc2cyeHpfbnN5OWY1TG5hOXVzclJ5YTV6aDhlcDg5Rm5rbw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQbURqMUlOeHFrRzB0WFZYbUxfeTY0YWc1S3h5MTZveE4zYlVGQnVyczFzV0x5YUtINHZDaUxIX0J0N0tDZ0FHczFsdGxhaUpxTGt2VmtQN0trcVlDVkFXdk9vczF1Nm1nWlpxbW55bDhXUjNsblVRUDIwLXprT3U0ODZkUW53Nlk0ZEtEU2ZkSjJ5d3VJLUt2N25lamtMY2hvLTZlZG5YaXJ5b3RqbkJtd1prUHgyNVhpbWtfTlhlOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHdvNmVfYWxaeGpRVVpDT0FqUEk4Um0taURDRzNnMkxBalBNdllmamVkRWx1aGI0aVhMR2VpQXNVVHlyN05oUWMzYkdKLTFZTzBWdnRkYjZjcExtaTRJTkxuTzd4aGQ1d0hwWjJLeGRVNmt2cmlBeUw1eW5SLTlvVEJJWlNUOHFYT0tfUXZxWWFzT245X0pDczBfVEJWc2cyeHpfbnN5OWY1TG5hOXVzclJ5YTV6aDhlcDg5Rm5rbw?oc=5" target="_blank">North Korea says 'denuclearisation' is a matter terminated irreversibly</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQbURqMUlOeHFrRzB0WFZYbUxfeTY0YWc1S3h5MTZveE4zYlVGQnVyczFzV0x5YUtINHZDaUxIX0J0N0tDZ0FHczFsdGxhaUpxTGt2VmtQN0trcVlDVkFXdk9vczF1Nm1nWlpxbW55bDhXUjNsblVRUDIwLXprT3U0ODZkUW53Nlk0ZEtEU2ZkSjJ5d3VJLUt2N25lamtMY2hvLTZlZG5YaXJ5b3RqbkJtd1prUHgyNVhpbWtfTlhlOA?oc=5" target="_blank">Trump hosts White House cage fights amid war and political scrutiny</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Amazon voiced concerns about Anthropic AI models before US crackdown, source says​ - Reuters
+## Trump's support in rural America slips as fuel and food prices climb, Reuters/Ipsos poll shows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGNGbW1FWnpRa3BkcF9tUW90bzlmQVprRlVsRmRWZThFM0toVmJ2RFJTTDJmS3dfYXF4M25EZzRsQThpeTZQMnVoOURXekJYQkhPTmxTUk5pTkMybjF0d2VSUC13aV9Kd3JGOGoyUl9QUC1ubzNzR2NaSVlfQjNyTjNtaVZuRkoyVTJiSGwxZVdiSzAxblhVV0Q0dUkyb1Q3WldGVU5xVmR3VThRbDFFR1VqMlB0dVBZWGpsVw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5" target="_blank">Amazon voiced concerns about Anthropic AI models before US crackdown, source says​</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGNGbW1FWnpRa3BkcF9tUW90bzlmQVprRlVsRmRWZThFM0toVmJ2RFJTTDJmS3dfYXF4M25EZzRsQThpeTZQMnVoOURXekJYQkhPTmxTUk5pTkMybjF0d2VSUC13aV9Kd3JGOGoyUl9QUC1ubzNzR2NaSVlfQjNyTjNtaVZuRkoyVTJiSGwxZVdiSzAxblhVV0Q0dUkyb1Q3WldGVU5xVmR3VThRbDFFR1VqMlB0dVBZWGpsVw?oc=5" target="_blank">Trump's support in rural America slips as fuel and food prices climb, Reuters/Ipsos poll shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Qatar hail first World Cup point after late goal stuns Switzerland​ in 1-1 draw ​ - Reuters
+## Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTJRLUxsakdfZFBXNVphQ09hci0teGFBOVFhUDZBMmgtMGlqNURoWGtnSjY5Y1BXYjZpb3czOUdMMUxPOUpTc0R4Yy1vQnMzYmhOU0RpSW1oVGR1VXZjay1zWjFESVZvMTgxazB2T1NObGh2U3BrcjF5RkVfcjJQMVJ4WDdfTDQ3SV9lXzg4Y3ZGSk1lekZlY0VQZkw5R21XUnROeU53?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTJRLUxsakdfZFBXNVphQ09hci0teGFBOVFhUDZBMmgtMGlqNURoWGtnSjY5Y1BXYjZpb3czOUdMMUxPOUpTc0R4Yy1vQnMzYmhOU0RpSW1oVGR1VXZjay1zWjFESVZvMTgxazB2T1NObGh2U3BrcjF5RkVfcjJQMVJ4WDdfTDQ3SV9lXzg4Y3ZGSk1lekZlY0VQZkw5R21XUnROeU53?oc=5" target="_blank">Qatar hail first World Cup point after late goal stuns Switzerland​ in 1-1 draw ​</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5" target="_blank">Israel attacks Hezbollah targets in Beirut's southern suburbs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Orban re-elected as Fidesz party leader in Hungary despite election loss - Reuters
+## World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnVhbGF0c0pXYnZVd2FSemMzOEc1Q1lDa1JKclI1eG5tZHM3T0lGZ1VYc05UM1k1WWUtSkxRLTUzLU91R0poV191dGUxWDNmbU9NX1I2SmxxSkthOGZleFFEQVNkX3NpcndnUEo5bFp4azFoYmc0bFJvVVppdFA4WEFSWkp3emtNaThweUEzUnNybHpBX2FBVUUyWnhjY1Z0S1hUcHg1SHlzeDZM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQb21BeFJWX0VOR29aUGJJa0hSclAzSHlSazhMT05QeTFYLXFGbmFNVWF4NEdkbGl1ZHRzTV95NVNzaUZ5YkhYWHY2bWhJOGtUblZjb0EwNjV2amtETk9FbjVOanBnRW92Y3JuN3pyRjJxcWZoRVV0azhGOHowNHctRF9mYVZuNHd5WlpzYjZIV1VDbTZzT1R3VGxPLU90VDF6bGY5Q3haOUJEaGlVRGVMUkgzOWg4bW9uZzZPa193?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnVhbGF0c0pXYnZVd2FSemMzOEc1Q1lDa1JKclI1eG5tZHM3T0lGZ1VYc05UM1k1WWUtSkxRLTUzLU91R0poV191dGUxWDNmbU9NX1I2SmxxSkthOGZleFFEQVNkX3NpcndnUEo5bFp4azFoYmc0bFJvVVppdFA4WEFSWkp3emtNaThweUEzUnNybHpBX2FBVUUyWnhjY1Z0S1hUcHg1SHlzeDZM?oc=5" target="_blank">Orban re-elected as Fidesz party leader in Hungary despite election loss</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQb21BeFJWX0VOR29aUGJJa0hSclAzSHlSazhMT05QeTFYLXFGbmFNVWF4NEdkbGl1ZHRzTV95NVNzaUZ5YkhYWHY2bWhJOGtUblZjb0EwNjV2amtETk9FbjVOanBnRW92Y3JuN3pyRjJxcWZoRVV0azhGOHowNHctRF9mYVZuNHd5WlpzYjZIV1VDbTZzT1R3VGxPLU90VDF6bGY5Q3haOUJEaGlVRGVMUkgzOWg4bW9uZzZPa193?oc=5" target="_blank">World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
