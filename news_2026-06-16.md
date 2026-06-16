@@ -1,34 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-06-16 05:05:56
+更新时间：2026-06-16 17:06:46
 
-## Strait of Hormuz to Reopen by Friday, Trump Says
+## Brightline Bondholders Grant Extension on Debt Payment
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-16/strait-of-hormuz-to-reopen-by-friday-trump-says-video
+链接：https://www.bloomberg.com/news/articles/2026-06-16/brightline-bondholders-grant-two-week-extension-on-debt-payment
 
 正文长度：0
 
-摘要：US President Donald Trump says the Strait of Hormuz will reopen by Friday, but his European allies don't share his optimism. Bloomberg's Dan Williams and Stephen Stapczynski report on what we know so far. (Source: Bloomberg)
+摘要：Brightline Trains Florida LLC, the struggling $6 billion private railroad between Miami and Orlando, struck a deal with holders of $985 million of municipal bonds to extend a debt payment due Monday through the end of the month, according to a securities filing.
 
 
 ---
 
-## Sify Infinit Is Said to Put $391 Million India IPO on Hold
+## Philippines Set to Raise $2.5 Billion in Its Second Deal of Year
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-16/sify-infinit-is-said-to-put-391-million-india-ipo-on-hold
+链接：https://www.bloomberg.com/news/articles/2026-06-16/philippines-returns-to-global-bond-market-as-oil-pressure-eases
 
 正文长度：0
 
-摘要：Sify Infinit Spaces Ltd. has put its planned 37 billion rupee ($391 million) initial public offering on hold, according to people familiar with the matter, adding to a growing list of companies delaying share sales because of India’s weak stock market.
+摘要：The Philippines is returning to the international bond market for a second time this year, seizing the opportunity to finance government spending as borrowing costs ease amid optimism about a potential US-Iran peace agreement.
 
 
 ---
 
-## Global Stock Rally Cools, BOJ Hikes as Expected: Markets Wrap
+## Tech Stocks Halt S&amp;P 500 Rally While SpaceX Surges: Markets Wrap
 
 来源：彭博社
 
@@ -36,33 +36,160 @@
 
 正文长度：0
 
-摘要：Global stocks wavered as investors paused to assess the durability of the relief rally fueled by the US-Iran deal to reopen the Strait of Hormuz, while parsing policy decisions by central banks in Japan and Australia.
+摘要：A rally that sent the US stock benchmark to the brink of a record faltered ahead of the first Federal Reserve rate decision under Kevin Warsh, with a another slide in oil prices driving bond yields lower.
 
 
 ---
 
-## Wall Street Majors Cut Oil Forecasts on Deal to Reopen Hormuz
+## ECB’s Makhlouf Sees Lingering Price Pressures Despite Iran Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-16/morgan-stanley-cuts-oil-forecasts-as-hormuz-deal-revives-supply
+链接：https://www.bloomberg.com/news/articles/2026-06-16/ecb-s-makhlouf-sees-lingering-price-pressures-despite-iran-deal
 
 正文长度：0
 
-摘要：Wall Street’s biggest banks are cutting their oil-price forecasts for the coming quarters, as optimism grows over a revival of Middle East crude output following an interim deal to reopen the Strait of Hormuz.
+摘要：European Central Bank Governing Council member Gabriel Makhlouf played down the idea that a peace deal between the US and Iran would quickly change the trajectory of euro-area inflation.
 
 
 ---
 
-## AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates
+## I Will Hold My SpaceX Shares Forever, Says Sequoia's Maguire
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates
+链接：https://www.bloomberg.com/news/videos/2026-06-16/i-will-hold-my-spacex-shares-forever-sequoia-s-maguire-video
 
 正文长度：0
 
-摘要：Kingboard Laminates Holdings Ltd. has rallied more than sixfold this year as investors bet the Chinese supplier to the printed circuit board industry will emerge as a key beneficiary of the AI buildout.
+摘要：Shaun Maguire, Sequoia Capital Partner and SpaceX investor, joins to discuss SpaceX's IPO and what it means for venture capital investing, SpaceX's plans for orbital data centers and his thoughts on upcoming mega-AI IPOs. Sequoia owns just under 1.5% of Elon Musk's company. He sits down with Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)
+
+
+---
+
+## General Motors announces new defense partnership with Lockheed Martin
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html
+
+正文长度：2766
+
+摘要：General Motors announced a new defense partnership with Lockheed Martin as the country ramps up its production of weapons.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Automaker General Motors on Tuesday announced a new partnership with defense company Lockheed Martin to scale manufacturing and expand production capabilities.
+The deal was facilitated by the U.S. Department of Defense, according to Bruce Brown, GM's vice president of strategy at GM Defense, and will focus on munitions.
+"What makes this moment especially important is that the country needs more than great technology. It also needs the capacity to build, scale and deliver reliably," Brown said on a call with reporters. "This is where GM can help. Across our company, we bring deep experience in advanced engineering, digital development, supply chain discipline and manufacturing at scale."
+Lockheed COO Frank St. John said it was too early to say what projects it would invest in with GM Defense.
+Executives from both companies said on the call that the collaboration will allow for more growth at a time when the country is ramping up its production of defense parts.
+"Together, we will explore opportunities across three important areas: improving production readiness and scalable manufacturing environments, strengthening supply chains and identifying ways to increase resilience, and applying advanced manufacturing and design approaches [that] can help improve efficiency and accelerate delivery," St. John said.
+Lockheed Martin is investing $9 billion through 2030 to modernize 20 of its facilities and supply bases, St. John added. GM said it will spend $7 billion on research and development in the U.S., according to Bruce.
+The executives said the partnership will be focused on "high-rate manufacturing" at scale and expanding production capacity. They added that the collaboration is still in early stages and that they need to further define what the potential for future contracts may be. They are working under a memorandum of understanding.
+The automaker once built tanks for the country during World War II. Its GM Defense unit is one of the company's newer but fast-growing business segments, reestablished in 2017 with customers including the U.S. Army, Secret Service and NASA.
+"America is stronger when two companies with deep manufacturing roots come together to help expand speed, scale and resilience in the defense industrial base. That is why Lockheed Martin and GM are announcing this collaboration," Brown said on the call.
+The partnership comes as President Donald Trump has been pushing for more American manufacturing to bring more production and reshoring into the country. The U.S. has also seen its defense stockpiles fall because of the wars in Ukraine and Iran.
+The White House has held discussions with Ford and GM about better supporting the country's defense industry.
+— CNBC's Michael Wayland contributed to this report.
+
+</details>
+
+
+---
+
+## Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html
+
+正文长度：10036
+
+摘要：Carvana has bought seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> After growing to become one of the largest used car retailers in the U.S., Carvana is expanding into the new vehicle market.
+The company has quietly purchased seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands, including a location in Arizona that has become the automaker's largest volume store in the U.S.
+Dealers and industry experts said they believe the move could significantly disrupt, if not reshape, the century-old new vehicle franchised dealer system.
+"Carvana entering the new vehicle franchise business may be one of the most disruptive forces that auto retailing has seen in the U.S. market in decades," John Murphy, a longtime Wall Street analyst and automotive consultant, told CNBC.
+The U.S. franchised dealership system — which includes 16,990 retailers that topped $1.3 trillion in sales last year, according to the National Automobile Dealers Association — has historically been reluctant to change. However, dealers have grown more adaptable in recent years as a means of survival, including during the pandemic and with the rise of publicly traded dealership groups.
+Carvana's first new car dealership for Stellantis in Casa Grande, Arizona, has grown quickly. It sold more than 700 new vehicles last month, according to Stellantis figures shared with dealers and provided to CNBC.
+That made it the bestselling store nationally and compares with an average of roughly 30 to 50 monthly sales the store was doing before Carvana purchasing it early last year, as first reported by The Wall Street Journal.
+Carvana and its CEO, Ernie Garcia, have declined to comment about the franchised stores or details of the businesses ahead of a media event this week at which the retailer is expected to disclose its plans.
+Carvana: From vending machines to online used car leader
+Carvana's locations, many of which feature its signature large car vending machines, have historically acted as delivery and drop-off points where customers can pick up vehicles they purchased online or turn in a vehicle they sell to the company. And up until last year, those vehicles had been used cars, trucks and SUVs that were largely bought from auctions and individual consumers.
+Adding the new vehicle business not only provides additional revenue for the company, it opens up other avenues for Carvana to more easily purchase used vehicles from their new vehicle customers and through exclusive auctions only open to franchised dealers.
+"That is a significant game changer in the secondary market," Murphy said regarding the private auctions. "If that expands to other brands, that is going to be an advantage."
+It also helps Carvana better capitalize on the complete lifecycle of a vehicle. The dealership model is comprised of four main areas of growth: new, used, parts and service, and finance and insurance.
+Carvana has previously covered used sales and F&I, including selling consumer auto loans it originates to institutional investors and partner banks, such as Ally Financial, to maintain liquidity. Adding the new franchises is expected to bring Carvana into the other areas as well.
+"After stabilizing their core business, I think they realized, by looking at the franchise model, that there was a significant amount of revenue and gross profit opportunity that their business model didn't even contemplate," said Brian Gordon, president of dealer advisor and broker Dave Cantin Group.
+Dealers adapt or 'be irrelevant'
+Despite Carvana's current status, which includes a market cap of more than $70 billion, significantly higher than that of Stellantis, there are challenges to selling new cars compared with used.
+Unlike used vehicles, which Carvana has specialized in selling online, the sales of new vehicles are more regulated state by state. The franchised owners also act as a business partner to most automakers operating in the U.S.
+In some states, such as Michigan, the only way to legally purchase a new vehicle is through a franchised dealer — something direct-to-consumer companies such as Tesla and Rivian have battled with varying results.
+An annual study by Cox Automotive, which supports franchised auto dealers, found that most buyers don't want an all-online purchase or a fully in-person transaction. They want a blend of online convenience with in-store interaction.
+Franchised dealers also must adhere to far more regulations and rules from the automakers. They range from showroom layouts and what brands they can sell at certain stores to automaker-defined allocations of vehicles and service and repair requirements, which Carvana does not currently offer for customers.
+Not all are mandates, but many automakers incentivize retailers through vehicle allocation as well as financial incentives for offering such services and meeting their requirements.
+Carvana is already operating a bit differently though than most dealers, as Stellantis has approved it as a certified website provider for the automaker, which means it doesn't need to go through an approved third-party company, according to four people familiar with the decision, who requested anonymity to speak about matters that have not been made public.
+"It's bred out of desperation," said a Stellantis dealer who asked for anonymity to be able to speak freely about the automaker, which has drastically lost U.S. market share in recent years. "It's given Carvana an opportunity to come into the new car space."
+Stellantis, in an statement to CNBC, said Carvana operates as a "corporate owner" of its brands, similar to other large publicly traded companies such as Lithia and AutoNation.
+"We apply the same consistent standards and criteria to all dealer partners, and any organization that meets our qualifications is eligible to operate as a franchisee," the company said, adding that Stellantis "certifies tools and services that will enhance our program and be beneficial to our network. All certified providers must complete a rigorous onboarding process and meet program standards and requirement."
+Carvana's foray into new vehicles and its rapid growth have been a discussion between Stellantis' current dealers and the company, according to Stellantis National Dealer Council Chairman Sean Hogan.
+He said competition is always good for the consumer, which is why the franchised dealer model was created, but there are a lot of outstanding questions about Carvana's new vehicle strategy.
+"I'm curious to see what their strategy is and, in the long run, I think competition is good. So, if they're doing something better than we are, then we will need to adapt, or we're going to be irrelevant," said Hogan, vice president of Sierra Auto Group in California.
+In JD Power's annual U.S. Sales Satisfaction Index for franchised dealers that ranks purchase experiences, three out of four of Stellantis' main brands — Chrysler, Dodge and Ram — were under the industry average.
+An Amazon of used and new vehicles?
+Although Stellantis said it is treating it like other dealers, Carvana is not a traditional auto retailer like other large publicly traded dealers such as Lithia or AutoNation. It almost exclusively operates online, with a vast network of physical facilities supporting it.
+Carvana has built a nationwide logistics and processing company for vehicles similar to Amazon and its back-end operations for processing and shipping consumer goods.
+"They have a pre-built out infrastructure, digitally, physically, logistically, that probably gives them an advantage over those big, multibranded public companies," said Larry Dominique, a longtime automotive executive turned industry consultant.
+The business concept of Carvana is simple: buy and sell used cars. But the process behind it has proven to be complicated, labor-intensive and expensive.
+Carvana puts each vehicle it intends to sell through a lengthy inspection, repair and sale preparation process. It ranges from fixing scratches, dents and other imperfections to working on engine and powertrain components. There are also significant logistical costs and processes for delivering vehicles to consumers' homes.
+The other new vehicle Stellantis franchises for Carvana are in Sacramento and San Diego, California; Dallas; Atlanta; Cleveland; and Boston. The new dealerships are in addition to more than 100 other Carvana locations, mainly consisting of vending machines and processing centers.
+While large dealers have stores across the country that they can utilize for used and new vehicle inventories, they have traditionally sold regionally to avoid additional shipping costs as well as sales and registration complexities due to selling across state lines.
+"Carvana is showing the franchise dealer community how the power of digital can be applied to make a future direction retail model," Dominique said. "There's nothing stopping any dealer in the United States from doing that today."
+The company's vending machine locations do not have parts and service departments, like traditional franchised dealers have, which represent significant profits and customer touch points. That's one of the main questions surrounding Carvana's plans: Will it expand into parts and services or leave that for current dealers?
+"If they're going to just be an outlet for new cars, then does that change the dynamic of the dealership model? Who's going to be responsible for taking care of the customer after the sale?" Hogan said.
+Murphy said he believes Carvana may be able to use locations of Adesa, an auction company it purchased in 2022, in addition to the new dealer franchises to potentially service its vehicles.
+Carvana has reported it has the capacity to recondition approximately 1.5 million vehicles per year. That compares with its sales of less than 600,000 vehicles last year.
+"They do have tremendous capacity to recondition, potentially significantly ramp up their service capability in a way that is not present in other large consolidators," Murphy said. "I think that problem potentially gets cured."
+
+</details>
+
+
+---
+
+## Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/16/yum-brands-sells-pizza-hut-to-private-equity-firm-longrange-capital-for-2point7-billion.html
+
+正文长度：2753
+
+摘要：Yum Brands is selling Pizza Hut, capping off years of struggles for the pizza chain.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Yum Brands on Tuesday announced it is selling Pizza Hut to private equity firm LongRange Capital for roughly $1.5 billion.
+The deal excludes the pizza chain's locations in mainland China; Yum China will acquire those in a separate transaction for about $1.2 billion.
+The deals cap off years of struggles for Pizza Hut, which has weighed on Yum's overall financial performance. In the U.S., the pizza chain has transitioned from the sit-down format and salad bars of yore to focus on delivery and carryout — far behind the curve. Rival Domino's Pizza has gobbled up market share from Pizza Hut for years; third-party delivery apps like DoorDash have further stolen sales from the chain.
+Shares of Yum were up nearly 2% in morning trading Tuesday.
+In November, Yum said it was exploring strategic options for Pizza Hut. On Tuesday, the company said its leadership team and board determined that selling Pizza Hut would provide "the strongest path" to maximize shareholder value and give the pizza chain an ownership structure "tailored to its distinct markets, competitive strengths and long-term priorities."
+Across both deals, Yum expects to receive about $2.3 billion in net proceeds after taxes, closing adjustments and fees, excluding a possible earnout of $75 million by 2030 from LongRange. Yum also anticipates one-time expenses of about $85 million during the rest of 2026 tied to the transactions.
+The company's management will provide more details about the financial impact of the transactions during Yum's second-quarter conference call on July 30. Yum expects the sales to close in the third quarter, subject to regulatory approval.
+Brothers Dan and Frank Carney founded Pizza Hut in 1958 in Wichita, Kansas. A year later, they were franchising the concept.
+In 1969, Pizza Hut went public. Just two years later, it was the biggest pizza chain in the world, although it lost that title in 2017 to Domino's.
+The deal severs Pizza Hut's decades-long ties to Taco Bell and KFC, its sister brands in Yum's portfolio.
+PepsiCo bought Pizza Hut in 1977, marking the beverage giant's entry into the restaurant business. By 1986, it also owned Taco Bell and KFC. When Pepsi spun off its restaurant unit in 1997, the holding company was dubbed Tricon Global Restaurants — later renamed to Yum.
+At the end of 2025, Pizza Hut had nearly 20,000 locations across 108 countries and territories and reported $12.8 billion in annual system sales, according to regulatory filings from Yum. The U.S. is its biggest market, representing about 40% of its system sales, followed by China with roughly 20% of its system sales.
+Correction: The headline was updated to reflect that the $2.7 billion sale value includes deals with both LongRange Capital and Yum China.
+
+</details>
 
 
 ---
@@ -130,251 +257,132 @@ The deal, which has already been approved by the boards of directors of both com
 
 ---
 
-## KFC leans into boneless chicken, new drinks as chain tries to regain market share
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html
-
-正文长度：4884
-
-摘要：KFC is facing more competition from legacy giants and upstarts alike, thanks to the growing global popularity of chicken.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> To win over today's diners, KFC is prioritizing boneless chicken menu items, expanding its sauce options and designing its restaurants to keep customers' attention.
-These days, the Yum Brands unit is facing stiff competition, both from upstart chicken chains and legacy giants like McDonald's that are betting big on the growing global popularity of chicken. While KFC claims to have invented the chicken quick-service restaurant category, being the first isn't the same as being No. 1, particularly in the U.S., where its sales have slumped in recent years.
-"In an increasingly crowded category, we have a clear opportunity to set the standard for modern chicken in QSR," KFC Global CEO Scott Mezvinsky said Monday in a statement announcing the chain's "next chapter."
-Tenders and drinks
-A focal point of the strategy is what KFC calls a "bold menu revamp."
-As part of that, the chain plans to expand its boneless chicken options and improve its recipe for its existing tenders.
-"We are moving from chicken-on-the bone to more and more boneless chicken," KFC Chief Concept Officer Christophe Poirier told CNBC.
-"We are evolving our tenders to make sure that, nonnegotiable, we're going to have the biggest, the juiciest and the crispiest," he added.
-KFC is also expanding its available sauces to appeal to consumers who like dunking, drenching or drizzling their chicken tenders. The chain's "global sauce pantry" has more than 20 varieties that often mix classic sauces with new flavors, like its chimichurri ranch. (KFC's tender- and sauce-centric spinoff restaurant chain Saucy, meanwhile, has grown to nearly a dozen locations, all in Florida.)
-This month, restaurants in the United Kingdom and Ireland will begin rolling out the new tenders as well as nine new sauces. Australia and the United States will follow later this summer, with more global markets expected throughout the rest of the year.
-KFC is also launching a menu line called "Dunked," which features tenders, wings and sandwiches drenched in sauce. The menu items are already available in South Africa and India.
-Like many fast-food restaurants, KFC is also expanding its range of drink options to include boba refreshers, sparkling lemonades and iced coffees under a new sub-brand called Kwench by KFC. Select Irish and British restaurants already sell Kwench drinks, but Australia and Canada will add them to their permanent menus this year.
-"We can rapidly cascade a lot of initiatives that we're leading from the center," Poirier said, crediting the chain's nimble supply chain.
-The chain's own restaurants will also look different as it rolls out new store designs. This summer, an "open-concept" restaurant in McKinney, Texas, will open its doors; an "immersive," two-story location in Dubai, United Arab Emirates, will follow in September.
-Poirier compared the experience of visiting its upcoming "immersive" restaurant with seeing a concert at the Sphere in Las Vegas. KFC designed the store to distract diners from their phones and keep them engaged with the in-person experience.
-Fresh branding is also part of the strategy. The chain's new logo features its Colonel Sanders mascot bookended on either side with "KFC," resembling the shape of its famous chicken buckets. KFC said the bucket will be "refreshed," while Sanders will receive a "subtle evolution," according to the chain.
-Challenges
-With more than 34,000 locations worldwide, KFC is one of the largest global restaurant chains. It is also an important part of Yum's portfolio, particularly as its parent company seeks a sale of its struggling sister chain Pizza Hut.
-But KFC has its own challenges.
-In the U.S., the chain has been ceding share for years to newcomers like Raising Cane's. In 2021, KFC held 16% of the U.S. market share for chicken quick-service restaurants, putting it in second place behind Chick-fil-A, according to Barclays. By 2024, its market share had slipped to 9.4%, and Popeyes and Raising Cane's had leapfrogged KFC, dragging the chain down to the fourth spot.
-Outside the U.S., KFC has been more successful. Yum considers KFC International to be one of its two "growth engines," along with top performer Taco Bell.
-In its latest quarter, KFC reported same-store sales growth of 2%. Yum no longer shares the same-store sales of the chain's domestic business, implying that the segment is now considered immaterial to the company's broader results. China and Europe are KFC's two largest regions by system sales, with the U.S. in third place.
-To revive its flagging U.S. business, Yum tapped Catherine Tan-Gillespie as KFC's new U.S. president more than a year ago. So far, her turnaround efforts have involved offering more value meals and bringing back Col. Sanders.
-KFC U.S. has seen same-store sales growth in its last three quarters, Tan-Gillespie told trade publication Restaurant Business earlier this month.
-
-</details>
-
-
----
-
-## JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html
-
-正文长度：3831
-
-摘要：JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> JetBlue Airways is already the biggest airline in Fort Lauderdale, Florida, and it wants to get even bigger.
-"Lauderdale has been a star for us," JetBlue President Marty St. George said this month about Fort Lauderdale-Hollywood International Airport.
-Capitalizing on growth at the Broward County airport is key for JetBlue as it revamps its network and rolls out more high-end options like a domestic first-class cabin to return to profitability. Its last profitable quarter was two years ago.
-JetBlue was looking to expand in Fort Lauderdale even before Spirit Airlines, the South Florida-based discounter that was No. 1 at the airport, collapsed on May 2 under the weight of debt and years of snowballing problems.
-JetBlue is now the top carrier with 36% market share by capacity at the airport, according to a Cirium tally of 2026 capacity, up from about 24% a year earlier. From May to June of this year, JetBlue added 5% more capacity, while big competitors pulled back in the Florida offseason, according to Cirium.
-The carrier has about 106 flights scheduled a day for this year on average, up from about 68 a day last year, Cirium data shows.
-Just hours after Spirit's collapse, JetBlue and other airlines laid out their own travel plans, adding flights to fill the void at Fort Lauderdale.
-JetBlue raised its revenue forecast for the year on June 1, citing strong demand.
-"I'm feeling very, very bullish about how customers have responded to JetBlue's growth," St. George said.
-JetBlue says it's planning for even more growth as additional gates become available after Spirit's demise. Some of those gates are still tied up in bankruptcy court.
-JetBlue's plan is to operate about 150 daily flights at Fort Lauderdale in the peak winter months, which include Presidents Day weekend and some school breaks, a schedule that will put it on par with JetBlue's Boston Logan International Airport hub, its largest after New York.
-The plan includes more international destinations leaving from Fort Lauderdale and a focus on premium air travel.
-St. George said the carrier has been reviewing sites for a lounge — which would be the third in its network — at Fort Lauderdale to cater to those customers. It already has lounges at New York's John F. Kennedy International Airport and in Boston.
-"It is unclear right now where we would put a lounge," he said. "The airport folks, I think, are equally motivated to have a lounge down there. Certainly, given the size of our operation and the number of premium customers going in and out of Fort Lauderdale, I think [it makes] a lot of sense, we just have to find the right location."
-The big competitive threat lies about 26 miles south, at Miami International Airport, an American Airlines hub that dwarfs Fort Lauderdale. Both airports, though Miami is much larger, are major hubs for leisure customers as well as those visiting friends and relatives in Latin America and the Caribbean.
-"There's a good number of customers for [whom] Miami is the right airport, who will never leave Miami, and we're not planning on converting those customers," St. George said. "I do think that as we get more service in Fort Lauderdale as a bigger breadth of destinations, that utility of Lauderdale Airport will go up."
-American on Friday said it plans to operate a record 100 destinations to the Caribbean, Mexico and other airports in Latin America from the U.S., with 77 of them leaving from Miami, including a new flight to Maracaibo, Venezuela, from July 14 and to Cap-Haitien, Haiti, starting Nov. 1.
-JetBlue, for its part, announced Fort Lauderdale to Caracas service recently, as carriers build up flights. American in January announced it would resume resume service to Venezuela from the United States for the first time since 2019, weeks after the U.S. captured Venezuela's president.
-
-</details>
-
-
----
-
-## Rivian CEO taking different approach than Elon Musk for humanoid robotics company
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html
-
-正文长度：4733
-
-摘要：Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> PARK CITY, Utah — Rivian Automotive CEO RJ Scaringe envisions a day in the not-so-distant future when the electric vehicle maker's manufacturing employees will have a new type of colleague: humanoid robots.
-"There's going to be thousands of people that are collaborating alongside these robots. They're going to be taking pictures, 'Hey, check this out! My co-worker's name is Phil, and he's a robot,'" Scaringe said during a media event for the launch of the Rivian R2 EV.
-The 43-year-old automotive enthusiast and tech entrepreneur started a robotics company last year called Mind Robotics. The company has raised more than $1 billion, according to Scaringe.
-Humanoid robots are designed to be shaped and move like people. Artificial intelligence algorithms power their abilities along with complex hardware like semiconductors. Proponents say they could be used in various settings, from factories to hospitality and even in the home, while others have raised concerns about the devices replacing human jobs.
-Scaringe said the company expects to reveal its first product in less than a year, with Rivian as a large minority shareholder and launch customer. Mind currently has roughly 20 open positions ranging from software and hardware engineers to data architects, according to its website.
-Scaringe, who is executive chair and acting CEO of Mind, told CNBC that the plan is to keep the robotics company separate from Rivian, as opposed to the automaker partially shifting to make humanoid robots, like Tesla CEO Elon Musk is doing with his company.
-"We have a deep relationship, and that was actually how we structured it," Scaringe said during an interview. "A big part of structuring the business was to allow me to be able to spend time on both."
-The robotics strategy adds to a narrative of Scaringe doing things differently than Musk, despite obvious similarities in their companies. There have been enough comparisons that Rivian has even been called the "anti-Tesla" and Scaringe has been referred to as the "anti-Elon."
-"I'd say there's a lot of alignment there, and I think that's because, obviously, I'm biased, but I think they're right ... that autonomy is a super important technology," Scaringe said about Tesla and Rivian. "But in terms of the products, they, in many ways, couldn't be more different."
-So far Rivian and Mind are assisting each other, though, much like Musk's companies have also done during developmental phases. That includes Musk's xAI company merging with SpaceX before the company's record-setting initial public offering on Friday as well as SpaceX purchasing vehicles from Tesla.
-Scaringe said Rivian will be a "huge beneficiary" of Mind, which is using data from Rivian for training its AI models. Along with Rivian's equity stake, the automaker will be Mind's first customer for the robots.
-"We realized it was such a big opportunity that deserved to be its own company," said Scaringe. He said he believes there is a multitrillion-dollar total addressable market for industrial labor.
-Scaringe was visibly excited when speaking with media about the potential for AI and humanoid robotics, calling it "one of the most exciting times, perhaps in human history."
-"One hundred years from now, they're going to be inheriting the work that we do over our lifetimes, and so I just think we're so lucky that we get to be alive at the birth of AI," Scaringe said.
-Despite the optimism for humanoid robots, Scaringe said he expects the devices to work alongside humans rather than replace them completely for the foreseeable future, saying it takes a "long time" for vehicle assembly plants to become so-called "dark factories" which can be almost entirely run by robots.
-"What I see happening is the simplest tasks will be taken on by robots. The more complex tasks that require higher levels of reasoning or more complex, more tactile levels of dexterity [will be done by humans]," he said.
-Scaringe said manufacturers are dealing with an "extreme lack of labor," from other automakers. Rivian currently has more than 30 open manufacturing and engineering jobs, according to the company's website.
-The need for such workers, as well as the rapid development of AI, Scaringe believes, will mean human employees will be working alongside a robot named "Phil" far sooner than they may expect.
-"The rate at which this is moving is far faster than I'd say — like an order of magnitude faster — than the average person in society understands," he said. "That's going to be a particularly big challenge in the short-term to just have the average person … realize how fast the models are learning and how capable they are at doing almost everything."
-— CNBC's Arjun Kharpal contributed to this report.
-
-</details>
-
-
----
-
-## SpaceX shares gain for second day after blockbuster debut - Financial Times
+## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnFNOTBrOTFlWnNqdjYxR2dwU2U2S245SnMzNVJOTkg1MlNieEhjaFN5Z1dKcFotSXM3OVNteXNUaEgybzA2eW5mcjJaYkpYT3VCQnpSNEpRM2pNNktyZ2FEOFRPNkh5eDZlU0V4d3J3ZEtQcW9wUTkzYVRZeVJtb2Zaa1A?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk92TWc1T2Nyb3g3LXZPRjQwM3B3OVlmcjcwWWtOOWhZRUx4LVRCYnBXaFUyc2NvaThRalRaeWtxT3RFckZWYWRpYlV0ZjRiWjNNdTQ3QzNYcGR2WlFmLXY1eEpkZWhaU1UzMUljVGh3V1UtSXlud0t4ZnpIR0x0eGRWMGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnFNOTBrOTFlWnNqdjYxR2dwU2U2S245SnMzNVJOTkg1MlNieEhjaFN5Z1dKcFotSXM3OVNteXNUaEgybzA2eW5mcjJaYkpYT3VCQnpSNEpRM2pNNktyZ2FEOFRPNkh5eDZlU0V4d3J3ZEtQcW9wUTkzYVRZeVJtb2Zaa1A?oc=5" target="_blank">SpaceX shares gain for second day after blockbuster debut</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk92TWc1T2Nyb3g3LXZPRjQwM3B3OVlmcjcwWWtOOWhZRUx4LVRCYnBXaFUyc2NvaThRalRaeWtxT3RFckZWYWRpYlV0ZjRiWjNNdTQ3QzNYcGR2WlFmLXY1eEpkZWhaU1UzMUljVGh3V1UtSXlud0t4ZnpIR0x0eGRWMGk?oc=5" target="_blank">SpaceX leapfrogs Amazon to become world’s fifth-most valuable company</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Cutting access to Anthropic’s Mythos is a gift to China - Financial Times
+## HR must manage AI bots as well as humans, says Accenture executive - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9aeHNuR0ZUS0x6QzE4NUpWVXAzOV9STXpnVGxEVDR0ZzNiWU02V2hBU09ick9kQmc2bkNpV1ZQaVpJOUtxR2RkTHk5Mi00em9wbjZvVFU5SDRsWmVHZFp5SkVyUGZFeS1aLXROQjBKcm4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVozU3JybUFBYTVpaHJieEpOeG9sdk9wYVBmcmw4WlJSQ2VCWXdHRFdLZzFLM1pzb2RVNDN2TkpWRlBPTFlTeWxlYUFoU0tYZE5tN0U0M25XdXJTd1AyMDNKekZVa0RRZVN3elY3c0I3RXhBTGotdS1jWWhrSHYwTDZQdjU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9aeHNuR0ZUS0x6QzE4NUpWVXAzOV9STXpnVGxEVDR0ZzNiWU02V2hBU09ick9kQmc2bkNpV1ZQaVpJOUtxR2RkTHk5Mi00em9wbjZvVFU5SDRsWmVHZFp5SkVyUGZFeS1aLXROQjBKcm4?oc=5" target="_blank">Cutting access to Anthropic’s Mythos is a gift to China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVozU3JybUFBYTVpaHJieEpOeG9sdk9wYVBmcmw4WlJSQ2VCWXdHRFdLZzFLM1pzb2RVNDN2TkpWRlBPTFlTeWxlYUFoU0tYZE5tN0U0M25XdXJTd1AyMDNKekZVa0RRZVN3elY3c0I3RXhBTGotdS1jWWhrSHYwTDZQdjU?oc=5" target="_blank">HR must manage AI bots as well as humans, says Accenture executive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US kills leader of Venezuelan Tren de Aragua gang in air strike - Financial Times
+## Will there be a peace dividend for markets? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUtqQjBNRi11TW4yQ3IxcjZneFFVajFPOW1KMFdBQ3dqWGpxdHZidW1Tam9Ib3Y1UWZUU2FMOFRlVTJVbU5kaGllVFdGdGxNempzNVN3TDVFX0VETy1jV3lfcVRzWWs1SkZBRTdkRUFFOEg5NjVfZjdIVEdSUXZQbzZrOEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFdJM29oaTk4WnlIcVA5cFN4X1BtYW40MEN1UmxvRzZiYlczaS1UVkpVcnhxRXdPcUlmREx4RklmYW9aMTZQMDFfajRJLTVwOUM0RFpqZGtVenhKUTZGZU9qSVNGNXFrSmo4QkM4blBnQkUyUUFMaUhtaGRMSGpzWDA4blU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUtqQjBNRi11TW4yQ3IxcjZneFFVajFPOW1KMFdBQ3dqWGpxdHZidW1Tam9Ib3Y1UWZUU2FMOFRlVTJVbU5kaGllVFdGdGxNempzNVN3TDVFX0VETy1jV3lfcVRzWWs1SkZBRTdkRUFFOEg5NjVfZjdIVEdSUXZQbzZrOEE?oc=5" target="_blank">US kills leader of Venezuelan Tren de Aragua gang in air strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFdJM29oaTk4WnlIcVA5cFN4X1BtYW40MEN1UmxvRzZiYlczaS1UVkpVcnhxRXdPcUlmREx4RklmYW9aMTZQMDFfajRJLTVwOUM0RFpqZGtVenhKUTZGZU9qSVNGNXFrSmo4QkM4blBnQkUyUUFMaUhtaGRMSGpzWDA4blU?oc=5" target="_blank">Will there be a peace dividend for markets?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic scrambles after Trump administration freezes its top AI models - Financial Times
+## JPMorgan plans Chase expansion into Europe’s largest markets - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPd082R3dYYTZMZ2tMSlFGSHZSS19ZOGpweE9nTEZpMFJxTzctNF9fNDA5NnBlTzhZMGhKdnFYb0w5czJzbU1iMXZHc0x0cTBxeTRaUURLR2NLYW8zOC1lRHVRd25vZnBBM1BwVWpmOVBXa1ZVY3Ywa3BvaFhkSXJ2STlVWkQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmo0LXFVVWl0VjFBNWdTTDlpRVJzcElYNjVzZlhHbjItcmliaHZoUzQzRXdkbFRMR3JOcl9sNWxUYzQ3bzFMaUZ4UVduSDdtZnYwV0ZoMk9RNldHSWwybkR0aEhZY09hd28zUXB5eFhzZndpVWNMRks0QTJjWlJDaVpaM2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPd082R3dYYTZMZ2tMSlFGSHZSS19ZOGpweE9nTEZpMFJxTzctNF9fNDA5NnBlTzhZMGhKdnFYb0w5czJzbU1iMXZHc0x0cTBxeTRaUURLR2NLYW8zOC1lRHVRd25vZnBBM1BwVWpmOVBXa1ZVY3Ywa3BvaFhkSXJ2STlVWkQ?oc=5" target="_blank">Anthropic scrambles after Trump administration freezes its top AI models</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmo0LXFVVWl0VjFBNWdTTDlpRVJzcElYNjVzZlhHbjItcmliaHZoUzQzRXdkbFRMR3JOcl9sNWxUYzQ3bzFMaUZ4UVduSDdtZnYwV0ZoMk9RNldHSWwybkR0aEhZY09hd28zUXB5eFhzZndpVWNMRks0QTJjWlJDaVpaM2Y?oc=5" target="_blank">JPMorgan plans Chase expansion into Europe’s largest markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX: no crying at the casino - Financial Times
+## OpenAI spending hit $34bn last year ahead of planned IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWZuV052Nkt6TUw4YTZfRkhCbzBUd3lUZ19XbUJaZTlTWkpRLWJUODU2cjFjQ3dsTVdKWWZGMWM4UE8tMFNCWkptZXIySmF3bFVmQzAxWDdzTjFaSmoxZUY5eWVBVzQzQkRhQTl6MkFUZjIzWklJLXI4U3l0ZzFGMWJMSDA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWZuV052Nkt6TUw4YTZfRkhCbzBUd3lUZ19XbUJaZTlTWkpRLWJUODU2cjFjQ3dsTVdKWWZGMWM4UE8tMFNCWkptZXIySmF3bFVmQzAxWDdzTjFaSmoxZUY5eWVBVzQzQkRhQTl6MkFUZjIzWklJLXI4U3l0ZzFGMWJMSDA?oc=5" target="_blank">SpaceX: no crying at the casino</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5" target="_blank">OpenAI spending hit $34bn last year ahead of planned IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China's May retail sales fall for first time in over three years - Reuters
+## Sailors on Russian frigate fired warning shots at a yacht near UK waters - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3JGYmVKZHJaWGJOM0hRU3hoRm5GWWhIN3NhS1pib29oMlR6UlJhMzM4Y2R0UWt0SG9BdUgwZmYxX3hxSVpwT0JiUDN2bmNLdno0TW1QNVh4MUw4OThfWE5PTUNqQVY3czBOdHZDMGxZQktGdVQ0RER1MlB0TFB6MFB0VldBMHdRS2JhVlJRTWdfZUVZZFNYMlFXcV9iaHBnTXRlNXpmWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPSVpXOVJQeHJXOTUyeXlSRmE4RGNGRkJ5cHlVXzNyQjM2aktxRTJ0Q1p0cGl1cHIyem1jSEIyajY2YnRNOXBaNkJjZDMtWUlnZG80YU1YTGZDT1NTczcxUGt2V2V5OHNkRkFGLUE5Q1B3b18xdE9scmdvNXl5bXEtRVJHcUpPdnp2eUFEc1lzMjZUeHIzY3puLVlNOGJqRVc5dG9nZmtocUNPWUlNTW5sQlBkZFU0UnFyRmw0UXNhT0h6VHZ6M0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3JGYmVKZHJaWGJOM0hRU3hoRm5GWWhIN3NhS1pib29oMlR6UlJhMzM4Y2R0UWt0SG9BdUgwZmYxX3hxSVpwT0JiUDN2bmNLdno0TW1QNVh4MUw4OThfWE5PTUNqQVY3czBOdHZDMGxZQktGdVQ0RER1MlB0TFB6MFB0VldBMHdRS2JhVlJRTWdfZUVZZFNYMlFXcV9iaHBnTXRlNXpmWQ?oc=5" target="_blank">China's May retail sales fall for first time in over three years</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPSVpXOVJQeHJXOTUyeXlSRmE4RGNGRkJ5cHlVXzNyQjM2aktxRTJ0Q1p0cGl1cHIyem1jSEIyajY2YnRNOXBaNkJjZDMtWUlnZG80YU1YTGZDT1NTczcxUGt2V2V5OHNkRkFGLUE5Q1B3b18xdE9scmdvNXl5bXEtRVJHcUpPdnp2eUFEc1lzMjZUeHIzY3puLVlNOGJqRVc5dG9nZmtocUNPWUlNTW5sQlBkZFU0UnFyRmw0UXNhT0h6VHZ6M0E?oc=5" target="_blank">Sailors on Russian frigate fired warning shots at a yacht near UK waters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil falls as markets weigh return of supply, US-Iran peace deal - Reuters
+## Databricks strikes deal to buy Panther Labs in cybersecurity push - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNaZ3hMTUtLaHREempZTks1ZXhITFZYMldIODNpcm1mQWRoQkY4MGdET0JUYW5QX241THNNams3UnFiYVdMV0llMUNCbzFORWtwNkdDcHpkeEJmVDRkVVJTYWFTTldqc0JJRFZpX3JzdEtVeG5DcUZXRGVnSnN1bkRBV1JvaWsxSUNnemszLXBxOHJER3hTTURUUUJ4RDRHdmNLZUZQNXFuLUR4alJkR0xRdGFkdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5" target="_blank">Oil falls as markets weigh return of supply, US-Iran peace deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNaZ3hMTUtLaHREempZTks1ZXhITFZYMldIODNpcm1mQWRoQkY4MGdET0JUYW5QX241THNNams3UnFiYVdMV0llMUNCbzFORWtwNkdDcHpkeEJmVDRkVVJTYWFTTldqc0JJRFZpX3JzdEtVeG5DcUZXRGVnSnN1bkRBV1JvaWsxSUNnemszLXBxOHJER3hTTURUUUJ4RDRHdmNLZUZQNXFuLUR4alJkR0xRdGFkdw?oc=5" target="_blank">Databricks strikes deal to buy Panther Labs in cybersecurity push</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Eight crew believed dead in California B-52 bomber crash, CNN reports - Reuters
+## Exclusive: Binance set to lose permission to operate in EU, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3Etb0VsZjJwdlRaakREQU1MbzA2ZmM4UGs2cG14Z0NvRTFRQVB4cVVqT3g0SFdZcW93a2pMRW5PbzJZM3JqX0p5clpQM2VnUG80ZFNWa1hFaTNEb21sU2FDaEtVNmRpQ1l1LWJsVFRQOVBua052QlRJVThfRzV0WjlSR0EwakVGYkE3WnlnUE1yOVFMaGp4Vnp6dnFqcUdWVUtZV0g5R3pWdk1HSGpj?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3Etb0VsZjJwdlRaakREQU1MbzA2ZmM4UGs2cG14Z0NvRTFRQVB4cVVqT3g0SFdZcW93a2pMRW5PbzJZM3JqX0p5clpQM2VnUG80ZFNWa1hFaTNEb21sU2FDaEtVNmRpQ1l1LWJsVFRQOVBua052QlRJVThfRzV0WjlSR0EwakVGYkE3WnlnUE1yOVFMaGp4Vnp6dnFqcUdWVUtZV0g5R3pWdk1HSGpj?oc=5" target="_blank">Eight crew believed dead in California B-52 bomber crash, CNN reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5" target="_blank">Exclusive: Binance set to lose permission to operate in EU, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Venezuela, General Electric sign cooperation agreement on power supply - Reuters
+## Yum Brands to sell struggling Pizza Hut chain for $2.7 billion as demand slumps - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1pSckR1czM1Ry1mbFJTNDV5blVkRVI2NUs5YVgwS1p4a2NHSlJYTzZnbnlEMW4tQ1JKbUszQnczUktNRTRmX3FISTg1cGk1cW5ET3g2TkNCQnk1ZW1HYk0wbGRtb0ktM3QxWU9ZSVJPaDQ1ZWx6MEQ5WDVHVkNrVmt4UmxiYmRLc05yM3JUWnpkMzhzVGhvRWl1Q2ZQcGFaUHhkS1F5M29Oc3lqdWxqRlRxWk41cGtBdHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlSYlctdTZ4eDQ0dVBnb3lLX2VDRWF6OWl0blVsVzNNVkdIdW9pNzhEWURZbXZQTF9rMllVa0tOWTdJQ2hvbTMzSTFwSEdLMGpTTFZEUHlxaklWMzVqamt6SW5zMzhqUE56empXbHZxcnVIN1UxcDBHNWhnN01ZRERCS2dEa1B5UjBqVEpBR2YxbHFXQ0FEeEhYOHhaX2JBWVR4QUZ5a1BIUDBaeUFR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1pSckR1czM1Ry1mbFJTNDV5blVkRVI2NUs5YVgwS1p4a2NHSlJYTzZnbnlEMW4tQ1JKbUszQnczUktNRTRmX3FISTg1cGk1cW5ET3g2TkNCQnk1ZW1HYk0wbGRtb0ktM3QxWU9ZSVJPaDQ1ZWx6MEQ5WDVHVkNrVmt4UmxiYmRLc05yM3JUWnpkMzhzVGhvRWl1Q2ZQcGFaUHhkS1F5M29Oc3lqdWxqRlRxWk41cGtBdHc?oc=5" target="_blank">Venezuela, General Electric sign cooperation agreement on power supply</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlSYlctdTZ4eDQ0dVBnb3lLX2VDRWF6OWl0blVsVzNNVkdIdW9pNzhEWURZbXZQTF9rMllVa0tOWTdJQ2hvbTMzSTFwSEdLMGpTTFZEUHlxaklWMzVqamt6SW5zMzhqUE56empXbHZxcnVIN1UxcDBHNWhnN01ZRERCS2dEa1B5UjBqVEpBR2YxbHFXQ0FEeEhYOHhaX2JBWVR4QUZ5a1BIUDBaeUFR?oc=5" target="_blank">Yum Brands to sell struggling Pizza Hut chain for $2.7 billion as demand slumps</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asia markets temper Iran deal optimism, BOJ hikes rates - Reuters
+## SpaceX options debut draws record volume as investors chase rocket stock - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVF6U090N2VRcHpUM1Q4bWxKeFFaNjRLejhFVFptazZZeWpFNHE5c3BYT0JMYWhmNjF0bjU1ZDhuWUw3RVM1OUdxZGc1d0hjTUhVSWpSakhyMVhOZ3VhOHdiRE1ERXNtSzR0QWQ2X3pHaHI5enk3SHBDdTFoNU9wTFkzZjIwNDA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5" target="_blank">Asia markets temper Iran deal optimism, BOJ hikes rates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVF6U090N2VRcHpUM1Q4bWxKeFFaNjRLejhFVFptazZZeWpFNHE5c3BYT0JMYWhmNjF0bjU1ZDhuWUw3RVM1OUdxZGc1d0hjTUhVSWpSakhyMVhOZ3VhOHdiRE1ERXNtSzR0QWQ2X3pHaHI5enk3SHBDdTFoNU9wTFkzZjIwNDA?oc=5" target="_blank">SpaceX options debut draws record volume as investors chase rocket stock</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
