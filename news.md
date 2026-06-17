@@ -1,68 +1,200 @@
 # 每日财经新闻
 
-更新时间：2026-06-17 04:47:30
+更新时间：2026-06-17 15:51:02
 
-## Oil Tankers U-Turn, Rush to Middle East Before Hormuz Reopening
+## Oil Rebounds as Traders Await Signing of US-Iran Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-17/oil-tankers-u-turn-rush-to-middle-east-before-hormuz-reopening
+链接：https://www.bloomberg.com/news/articles/2026-06-16/latest-oil-market-news-and-analysis-for-june-17
 
 正文长度：0
 
-摘要：Two oil tankers heading toward Africa have u-turned in the Indian Ocean this week, switching their destinations to the Middle East as shipowners race to re-position vessels ahead of the possible reopening of the Strait of Hormuz.
+摘要：Oil recovered after two days of stark declines, with prices still broadly pressured by a pending US-Iran interim peace deal that could send barrels gushing back onto the market.
 
 
 ---
 
-## PBOC Launches Tool to Boost Yuan Use by Other Central Banks
+## ASML CEO Warns of Possible Supply Constraints on Musk’s Terafab
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-17/pboc-announces-tool-to-boost-yuan-usage-by-foreign-central-banks
+链接：https://www.bloomberg.com/news/articles/2026-06-17/asml-ceo-warns-of-possible-supply-constraints-on-musk-s-terafab
 
 正文长度：0
 
-摘要：China announced new money-market measures to broaden the use of its currency among entities like foreign central banks and sovereign wealth funds.
+摘要：ASML Holding NV Chief Executive Officer Christophe Fouquet said the chip equipment maker has to make sure it doesn’t experience supply constraints when servicing new projects such as Elon Musk’s Terafab.
 
 
 ---
 
-## Iron Ore Sinks Back Below $100 as Abundant Supplies Hurt Outlook
+## Billions in SpaceX Trades Jolt ETFs Including Cathie Wood’s ARKK
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-17/iron-ore-sinks-back-below-100-as-abundant-supplies-hurt-outlook
+链接：https://www.bloomberg.com/news/articles/2026-06-17/billions-in-spacex-trades-jolt-etfs-including-cathie-wood-s-arkk
 
 正文长度：0
 
-摘要：Iron ore sank below $100 a ton for the first time since March on signs of abundant seaborne supplies just as demand in China faces headwinds.
+摘要：A series of unusual multibillion-dollar flows has rippled through the exchange-traded fund market in the past week, suggesting some major investors used a contentious method to get exposure to the initial public offering of SpaceX. At least one fund manager placed temporary restrictions on its product in a bid to curb the practice.
 
 
 ---
 
-## SNB Reviews Franc Alert Level Before Middle East Peace Deal
+## Warsh Faces First Big Test as Fed Chair
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-17/snb-reviews-franc-alert-level-before-middle-east-peace-deal
+链接：https://www.bloomberg.com/news/videos/2026-06-17/warsh-faces-first-big-test-as-fed-chair-video
 
 正文长度：0
 
-摘要：The Swiss National Bank will this week reveal if it’s too soon to dial down its franc rhetoric before a prospective Middle East peace deal becomes reality.
+摘要：Federal Reserve policymakers are expected to hold interest rates steady on Wednesday, posing an early test for new chairman Kevin Warsh as rising inflation erodes households’ purchasing power and President Donald Trump continues to press for lower borrowing costs.  
+Robert Kaplan, Vice Chairman at Goldman Sachs, discusses what to expect from Kevin Warsh's first meeting as Fed chair and his outlook for markets after the FOMC decision. (Source: Bloomberg)
 
 
 ---
 
-## ECB Officials Say Peace in Iran Isn’t Enough to Fix Energy Shock
+## Starmer’s Hot Mic Moment Scoops UK-India Announcement on Trade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-17/ecb-officials-say-peace-in-iran-isn-t-enough-to-fix-energy-shock
+链接：https://www.bloomberg.com/news/articles/2026-06-17/starmer-hot-mic-moment-suggests-breakthrough-in-india-trade-row
 
 正文长度：0
 
-摘要：European Central Bank officials are signaling that a US-Iran peace accord won’t necessarily stop them lifting interest rates further, even if it prevents a more pronounced overshoot in inflation.
+摘要：UK Prime Minister Keir Starmer inadvertently revealed Britain had resolved a trade impasse with India, after he and counterpart Narendra Modi were overheard at the Group of Seven summit saying an agreement had been reached.
+
+
+---
+
+## Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/17/target-walmart-amazon-lgbtq-consumer-spending.html
+
+正文长度：3781
+
+摘要：LGBTQ+ consumers are shifting spending toward companies they view as supporting DEI and away from those seen as retreating, HRC survey finds.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> LGBTQ+ consumers are shifting their brand loyalties based on companies' diversity, equity and inclusion policies, according to new research from the Human Rights Campaign Foundation.
+The findings released Wednesday found that nearly 72% of LGBTQ+ consumers say they buy fewer products from companies they perceive as "reducing diversity and inclusion commitments." Nearly 70% also said they have refused purchases from those businesses at least some of the time.
+The five companies those respondents most frequently linked to reduced spending were Target, Walmart, Amazon, Chick-Fil-A and Home Depot.
+On the other hand, HRC's survey found nearly 70% of LGBTQ+ consumers are also rewarding companies they view as supportive of diversity and inclusion. Costco, Apple, Ben & Jerry's, Delta Air Lines and Kroger were the five companies most frequently cited as recipients of higher spending.
+"Consumers aren't asking the brand to be perfect they're asking them to be transparent and clear on where they stand," said Human Rights Campaign spokesman Jonathan Lovitz.
+"There is a gap to close between perception and what you're doing inside," he added.
+HRC's survey comes as a growing number of companies have scaled back diversity initiatives, modified public-facing DEI programs or ended participation in the organization's annual Corporate Equality Index. Earlier this year, HRC reported a sharp decline in participation in the index, a benchmark that has long measured workplace policies and benefits for LGBTQ+ employees. Participation among Fortune 500 companies fell 65% from 377 companies in 2025 to 131 in 2026.
+The National LGBT Chamber of Commerce estimates LGBTQ+ consumers represent more than $1.7 trillion to the U.S. economy.
+In response to the survey, Amazon told CNBC it is fostering opportunities for employees and serving a diverse customer base.
+"We've continued to support our employees with opportunities that allow them to grow, thrive, and connect internally and in their communities," said a company spokesperson.
+The other companies mentioned in the survey did not immediately comment.
+U.S. shoppers have increasingly mobilized for or against companies based on their DEI policies. Target, for instance, has faced consumer backlash from both sides of the political spectrum over its approach and was the most cited company among survey respondents who said they reduced their spending.
+Self-identified Republicans reduced spending at Target during the summer of 2023 following controversy surrounding the retailer's Pride Month merchandise display, according to spending data from Consumer Edge. In early 2025, spending among self-identified Democrats also declined after the company rolled back several DEI initiatives.
+In the company's most recent quarter, however, the retailer reported its first positive same-store sales number in five quarters.
+Target also continues to maintain some publicly visible LGBTQ+ partnerships, including serving as a platinum sponsor of NYC Pride's 2026 celebration.
+Costco was the most frequently cited company among consumers who said they increased their spending, according to the HRC survey. The retailer has remained one of the more vocal corporate defenders of diversity initiatives, and earlier this year shareholders overwhelmingly voted against a proposal that would have required the company to evaluate risks associated with its diversity, equity and inclusion programs.
+"Companies who have the longest run of trust with customers in the [LGBTQ+] community is they didn't change anything about what they were doing but remained consistent," said Lovitz.
+Consumer Edge data showed Costco posted the strongest year-over-year spending growth among self-identified Democratic consumers in the months following that vote.
+
+</details>
+
+
+---
+
+## Carvana’s new vehicle strategy turns dealership into ‘playground,’ test-drive center with sales all online
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html
+
+正文长度：10072
+
+摘要：But don't expect Carvana to sell you a vehicle at one of its seven Stellantis stores, marking a stark contrast from typical franchised dealers.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DALLAS — Carvana is aiming to bring its online strategy for selling used vehicles to sales of new cars and trucks.
+But don't expect the company to actually sell you a vehicle at one of its seven Stellantis franchised dealerships.
+Instead, the online vehicle retailer said it intends to use such dealerships as service locations, test-drive centers and potentially "playgrounds" for consumers to decide what vehicle they would like to buy through Carvana's online platforms, marking a stark contrast from how traditional franchised dealers handle new products.
+"Every single car that we sell, whether it's used or new, is online," Tom Taira, Carvana president of special projects who's leading the new vehicle operations, told CNBC during an interview at its franchise in Texas. "That's a very inherent difference. Even coming into the store, you're buying it online, and that's a big difference in how people think about it."
+Shares of Carvana fell 6% during early trading Wednesday, which coincided with CarMax, the company's largest rival, beating Wall Street's quarterly expectations but reporting margin pressure and declining gross profit per retail used vehicle.
+Through its used vehicle sales, Carvana has become the most valuable auto retailer in the U.S. with a more than $70 billion market cap. Carvana's target with the new vehicle business is to grow its market share and customer base as well as assist used vehicle sales through trade-ins and other means, according to Taira.
+If the company is successful, the strategy could cause a ripple effect across the U.S. franchised dealership model, which the National Automobile Dealers Association says includes 16,990 retailers that topped $1.3 trillion in sales last year.
+This week marks the first time Carvana has publicly talked about its plans for new vehicles since it purchased its first Chrysler-Dodge-Jeep-Ram franchised store for Stellantis early last year in Arizona. Its network has since grown to other Carvana-popular markets in Sacramento and San Diego, California; Dallas; Atlanta; Cleveland; and Boston.
+"When we got into new cars, we said the only way we're going to make this happen is to ensure that it goes the Carvana way. That we actually sell cars exactly the same way that we do to used car customers," Taira said during a media event at its Dallas location. "Why break something that already works?"
+Carvana spent roughly $171 million on its acquisitions of new Stellantis vehicle franchised dealerships, excluding its most recent purchase of a retailer in Ohio, according to public filings. The company declined to disclose any further investments in the stores to implement its strategy.
+Taira and the company also declined to disclose Carvana's new vehicle sales so far or its future expansion plans for additional brands or other Stellantis dealerships. CNBC previously confirmed that the company has quickly grown its new vehicle sales, including a location in Arizona becoming the top-selling dealer in the country for Stellantis.
+"We believe that this was worth it to us, as long as we could go out and increase share and increase the pie," Taira said. He declined to comment on whether the new vehicle business is profitable.
+To be able to integrate its new vehicle sales into its current website, as first reported by CNBC, Carvana was approved as a certified website provider for Stellantis instead of utilizing mandated third-party companies. Several franchised dealers said they believed that was a unique benefit for Carvana.
+Stellantis, in an statement to CNBC, said Carvana operates as a "corporate owner" of its brands, similarly to other large publicly traded companies such as Lithia and AutoNation.
+"We apply the same consistent standards and criteria to all dealer partners, and any organization that meets our qualifications is eligible to operate as a franchisee," the automaker said, adding that Stellantis "certifies tools and services that will enhance our program and be beneficial to our network. All certified providers must complete a rigorous onboarding process and meet program standards and requirement."
+Test-drives, vehicle 'playground'
+Carvana is using a location in Dallas as a test center for its foray into new vehicle sales. The facility looks like a traditional Stellantis dealership from the outside, but the consumer process for purchasing a vehicle and the responsibilities of its employees are unprecedented.
+Couches and chairs replace cubicles and sales offices. There are no finance and insurance departments, and instead of an army of commission-based employees, the facility has associates that are paid hourly to assist customers — if they want the help.
+The experience is meant to be as self-guided as a customer wants. By scanning QR codes located on 10-foot-by-10-foot screens inside the building or on vehicles and displays outside, shoppers can customize a vehicle, learn about a product's features and conduct test-drives before deciding whether to purchase anything. If they do decide to buy something, it's online and not originated from a sales person, the company said.
+The playground has roughly 50 vehicles divided by brand, with each having a theme. Jeep has an off-road display. Dodge has race tracks, including a Carvana-themed Charger pace car and part of a traditional track fence barrier. Chrysler minivans, meanwhile, have a soccer net and Ram's area is truck-centric.
+Carvana is not committing to expanding the exact experience to its other franchised dealer locations, but Taira told CNBC that the overall process of online sales, vehicle testing and service are expected to be consistent throughout the locations.
+"I think the business case and the case for additional stores comes out through this location first," he told CNBC, adding that it built out the store in weeks. "Is it important for us to launch a second? No, I think what's important is that we get this right. … There's no giant plan to build test-drive centers everywhere."
+Vehicle inventory constraints
+Once a customer decides to test-drive or even purchases a vehicle from the location, that's where the process can get more complex, depending on what model a consumer wants.
+Taira said the company chose to purchase Stellantis dealerships for the automaker's breadth of brands as well as its variety of products, which can be a double-edged sword when it comes to consumers actually finding the exact vehicle they want to test-drive or purchase.
+Unlike a traditional dealership that stockpiles vehicles for customers to test-drive before purchasing, at the Texas facility, Carvana has roughly 50 display cars on its playground, with twin vehicles for test-drives. It had roughly 3,000 new vehicles for sale nationwide compared with more than 60,000 used models as of Wednesday morning, according to its website.
+This means that a customer may not be able to test-drive the exact vehicle or even model they're purchasing, but the online process tries to match the best test-drive vehicle possible with what they want. It also describes what's the same and what's different.
+Looking at the Texas location's system for vehicles such as an $87,000 Ram 1500 RHO performance model, the closest thing on-site for a test-drive was a roughly $61,000 Ram 1500 Big Horn with the same interior and four-door configuration but no other feature matches, including its performance engine.
+It's why traditional automotive dealers have large vehicle inventories, especially for pickup trucks that have a litany of build options and wide bandwidth of performance specs.
+Taira said Carvana is continuing to take lessons learned from its year-plus experience of selling new vehicles into its day-to-day operations. He said the company is learning what vehicles to keep in stock and is working to ensure customers know they are buying a new vehicle rather than a used one.
+"We're going through all this technology. This is brand new," Taira said. "All these things are active, meaning the amount of progression we're going to make over the course of the next days to weeks to months."
+Taira said the company prioritizes new vehicle sales to local customers, much like it does for used vehicles, to avoid additional costs, but it does use its nationwide logistics network and more than 100 U.S. Carvana locations when necessary.
+Carvana will service vehicles
+A major question of Stellantis franchised dealers and Wall Street analysts before Carvana revealed its new vehicle plans was how the company planned to service the new products it sells.
+Taira said the company, for the time being, will operationally run its service departments like a traditional franchised dealer, but with its guiding strategy of transparent, nonhaggling pricing and "hassle-free" customer experience.
+"As it relates to how you actually do service, they're traditional. It's a traditional setup in that way," he told CNBC. "In that way, what we're doing … as it relates to service, we believe the same principles that we have with selling cars."
+At the end of the day, selling cars is Carvana's core business, but servicing vehicles has historically been a lucrative market for franchised dealers, along with customer financing, which Carvana has always focused on for its business.
+Much like its used vehicles, Carvana is currently only accepting cash or offering financing through the company itself, including selling consumer auto loans it originates to institutional investors and partner banks, such as Ally Financial, to maintain liquidity.
+Taira did not dismiss the possibility of Carvana offering leasing or using Stellantis' financial services, which have been highly profitable for automakers, but said the offerings would need to seamlessly integrate into its current online selling platforms.
+"Part of what makes this great, this experience, is what we already know. What we already know is the system that we have in place," he said. "That does not mean that integration isn't something that we're going to be [doing] as part of our learning and experimentation going forward."
+
+</details>
+
+
+---
+
+## CNBC to wade further into live sports with 11 simulcast WNBA games
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/17/cnbc-versant-wnba-games.html
+
+正文长度：2525
+
+摘要：The simulcasts will expose the WNBA to an affluent audience on CNBC and marks a new chapter for the business news network after it spun out from Comcast.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The WNBA is expanding its footprint to CNBC.
+CNBC parent Versant announced Wednesday that the business news network will simulcast 11 WNBA games this season. The matchups will also air on Versant's USA Network.
+Last September, Versant and the WNBA announced an 11-year media rights agreement that includes both regular-season and postseason games. As part of that deal, USA Network will air at least 50 games annually.
+Coverage on CNBC begins Wednesday night with the defending champion Las Vegas Aces taking on the Phoenix Mercury at 10 p.m. ET. That game is the second of a doubleheader that kicks off with the New York Liberty and Chicago Sky at 8 p.m. ET on USA Network.
+The goal of the simulcasts is to ensure that fans don't miss any of the action, according to USA Sports President Matt Hong. As doubleheaders can occasionally run long, the simulcast will allow viewers to choose which game to tune into if they overlap.
+The simulcast will also expose the WNBA to an affluent audience on CNBC as the league seeks to capitalize on booming popularity.
+"It's really a promise that we make to not only the WNBA, but all our league partners that we'll look for new audiences for them," Hong said Wednesday on CNBC's "Squawk Box."
+Wednesday also marks the debut of Indiana Fever guard Sophie Cunningham as an athlete contributor for Versant. She will be involved in studio coverage for both games of the doubleheader on both networks.
+The simulcast agreement marks a fresh chapter for CNBC as it explores new revenue streams and navigates a corporate spinout from its former parent, Comcast.
+While CNBC has previously carried Olympic events and occasional golf events, the WNBA simulcast represents a further push into live sports for the cable channel.
+"Sports is obviously must-see television. I'd put live news and live financial news in that category as well," said Hong.
+That could help Versant in future distribution deals with pay TV providers. Versant is now negotiating these carriage deals on its own after previously tying its programming to NBCUniversal when it was part of Comcast.
+Versant's brands also include MS NOW, E!, SyFy and Oxygen, in addition to digital platforms Fandango, Rotten Tomatoes, GolfNow and GolfPass.
+Since news of Versant's spin-off, Hong has signed five new, expanded or extended rights deals.
+The company has deals with several other professional sports leagues including NASCAR, the PGA Tour, LPGA, and Pac-12 football and basketball.
+Disclosure: Versant is the parent company of CNBC.
+
+</details>
 
 
 ---
@@ -151,259 +283,132 @@ Rivian laid off more than 600 workers in October, or roughly 4.5% of its workfor
 
 ---
 
-## General Motors announces new defense partnership with Lockheed Martin
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html
-
-正文长度：2790
-
-摘要：General Motors announced a new defense partnership with Lockheed Martin as the country ramps up its production of weapons.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Automaker General Motors on Tuesday announced a new partnership with defense company Lockheed Martin to scale manufacturing and expand production capabilities.
-The deal was facilitated by the U.S. Department of Defense, according to Bruce Brown, GM's vice president of strategy at GM Defense, and will focus on munitions and more.
-"What makes this moment especially important is that the country needs more than great technology. It also needs the capacity to build, scale and deliver reliably," Brown said on a call with reporters. "This is where GM can help. Across our company, we bring deep experience in advanced engineering, digital development, supply chain discipline and manufacturing at scale."
-Lockheed Chief Operating Officer Frank St. John said it was too early to say what projects it would invest in with GM Defense.
-Executives from both companies said on the call that the collaboration will allow for more growth at a time when the country is ramping up its production of defense parts.
-"Together, we will explore opportunities across three important areas: improving production readiness and scalable manufacturing environments; strengthening supply chains and identifying ways to increase resilience; and applying advanced manufacturing and design approaches [that] can help improve efficiency and accelerate delivery," St. John said.
-Lockheed Martin is investing $9 billion through 2030 to modernize 20 of its facilities and supply bases, St. John added. GM said it will spend $7 billion on research and development in the U.S., according to Brown.
-The executives said the partnership will be focused on "high-rate manufacturing" at scale and expanding production capacity. They added that the collaboration is still in early stages and that they need to further define what the potential for future contracts may be. They are working under a memorandum of understanding.
-The automaker built tanks for the country during World War II. Its GM Defense unit is one of the company's newer but fast-growing business segments, reestablished in 2017 with customers including the U.S. Army, Secret Service and NASA.
-"America is stronger when two companies with deep manufacturing roots come together to help expand speed, scale and resilience in the defense industrial base. That is why Lockheed Martin and GM are announcing this collaboration," Brown said on the call.
-The partnership comes as President Donald Trump has been pushing for more American manufacturing to bring more production and reshoring into the country. The U.S. has also seen its defense stockpiles fall because of the wars in Ukraine and Iran.
-The White House has held discussions with Ford and GM about better supporting the country's defense industry.
-— CNBC's Michael Wayland contributed to this report.
-
-</details>
-
-
----
-
-## Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html
-
-正文长度：10036
-
-摘要：Carvana has bought seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> After growing to become one of the largest used car retailers in the U.S., Carvana is expanding into the new vehicle market.
-The company has quietly purchased seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands, including a location in Arizona that has become the automaker's largest volume store in the U.S.
-Dealers and industry experts said they believe the move could significantly disrupt, if not reshape, the century-old new vehicle franchised dealer system.
-"Carvana entering the new vehicle franchise business may be one of the most disruptive forces that auto retailing has seen in the U.S. market in decades," John Murphy, a longtime Wall Street analyst and automotive consultant, told CNBC.
-The U.S. franchised dealership system — which includes 16,990 retailers that topped $1.3 trillion in sales last year, according to the National Automobile Dealers Association — has historically been reluctant to change. However, dealers have grown more adaptable in recent years as a means of survival, including during the pandemic and with the rise of publicly traded dealership groups.
-Carvana's first new car dealership for Stellantis in Casa Grande, Arizona, has grown quickly. It sold more than 700 new vehicles last month, according to Stellantis figures shared with dealers and provided to CNBC.
-That made it the bestselling store nationally and compares with an average of roughly 30 to 50 monthly sales the store was doing before Carvana purchasing it early last year, as first reported by The Wall Street Journal.
-Carvana and its CEO, Ernie Garcia, have declined to comment about the franchised stores or details of the businesses ahead of a media event this week at which the retailer is expected to disclose its plans.
-Carvana: From vending machines to online used car leader
-Carvana's locations, many of which feature its signature large car vending machines, have historically acted as delivery and drop-off points where customers can pick up vehicles they purchased online or turn in a vehicle they sell to the company. And up until last year, those vehicles had been used cars, trucks and SUVs that were largely bought from auctions and individual consumers.
-Adding the new vehicle business not only provides additional revenue for the company, it opens up other avenues for Carvana to more easily purchase used vehicles from their new vehicle customers and through exclusive auctions only open to franchised dealers.
-"That is a significant game changer in the secondary market," Murphy said regarding the private auctions. "If that expands to other brands, that is going to be an advantage."
-It also helps Carvana better capitalize on the complete lifecycle of a vehicle. The dealership model is comprised of four main areas of growth: new, used, parts and service, and finance and insurance.
-Carvana has previously covered used sales and F&I, including selling consumer auto loans it originates to institutional investors and partner banks, such as Ally Financial, to maintain liquidity. Adding the new franchises is expected to bring Carvana into the other areas as well.
-"After stabilizing their core business, I think they realized, by looking at the franchise model, that there was a significant amount of revenue and gross profit opportunity that their business model didn't even contemplate," said Brian Gordon, president of dealer advisor and broker Dave Cantin Group.
-Dealers adapt or 'be irrelevant'
-Despite Carvana's current status, which includes a market cap of more than $70 billion, significantly higher than that of Stellantis, there are challenges to selling new cars compared with used.
-Unlike used vehicles, which Carvana has specialized in selling online, the sales of new vehicles are more regulated state by state. The franchised owners also act as a business partner to most automakers operating in the U.S.
-In some states, such as Michigan, the only way to legally purchase a new vehicle is through a franchised dealer — something direct-to-consumer companies such as Tesla and Rivian have battled with varying results.
-An annual study by Cox Automotive, which supports franchised auto dealers, found that most buyers don't want an all-online purchase or a fully in-person transaction. They want a blend of online convenience with in-store interaction.
-Franchised dealers also must adhere to far more regulations and rules from the automakers. They range from showroom layouts and what brands they can sell at certain stores to automaker-defined allocations of vehicles and service and repair requirements, which Carvana does not currently offer for customers.
-Not all are mandates, but many automakers incentivize retailers through vehicle allocation as well as financial incentives for offering such services and meeting their requirements.
-Carvana is already operating a bit differently though than most dealers, as Stellantis has approved it as a certified website provider for the automaker, which means it doesn't need to go through an approved third-party company, according to four people familiar with the decision, who requested anonymity to speak about matters that have not been made public.
-"It's bred out of desperation," said a Stellantis dealer who asked for anonymity to be able to speak freely about the automaker, which has drastically lost U.S. market share in recent years. "It's given Carvana an opportunity to come into the new car space."
-Stellantis, in an statement to CNBC, said Carvana operates as a "corporate owner" of its brands, similar to other large publicly traded companies such as Lithia and AutoNation.
-"We apply the same consistent standards and criteria to all dealer partners, and any organization that meets our qualifications is eligible to operate as a franchisee," the company said, adding that Stellantis "certifies tools and services that will enhance our program and be beneficial to our network. All certified providers must complete a rigorous onboarding process and meet program standards and requirement."
-Carvana's foray into new vehicles and its rapid growth have been a discussion between Stellantis' current dealers and the company, according to Stellantis National Dealer Council Chairman Sean Hogan.
-He said competition is always good for the consumer, which is why the franchised dealer model was created, but there are a lot of outstanding questions about Carvana's new vehicle strategy.
-"I'm curious to see what their strategy is and, in the long run, I think competition is good. So, if they're doing something better than we are, then we will need to adapt, or we're going to be irrelevant," said Hogan, vice president of Sierra Auto Group in California.
-In JD Power's annual U.S. Sales Satisfaction Index for franchised dealers that ranks purchase experiences, three out of four of Stellantis' main brands — Chrysler, Dodge and Ram — were under the industry average.
-An Amazon of used and new vehicles?
-Although Stellantis said it is treating it like other dealers, Carvana is not a traditional auto retailer like other large publicly traded dealers such as Lithia or AutoNation. It almost exclusively operates online, with a vast network of physical facilities supporting it.
-Carvana has built a nationwide logistics and processing company for vehicles similar to Amazon and its back-end operations for processing and shipping consumer goods.
-"They have a pre-built out infrastructure, digitally, physically, logistically, that probably gives them an advantage over those big, multibranded public companies," said Larry Dominique, a longtime automotive executive turned industry consultant.
-The business concept of Carvana is simple: buy and sell used cars. But the process behind it has proven to be complicated, labor-intensive and expensive.
-Carvana puts each vehicle it intends to sell through a lengthy inspection, repair and sale preparation process. It ranges from fixing scratches, dents and other imperfections to working on engine and powertrain components. There are also significant logistical costs and processes for delivering vehicles to consumers' homes.
-The other new vehicle Stellantis franchises for Carvana are in Sacramento and San Diego, California; Dallas; Atlanta; Cleveland; and Boston. The new dealerships are in addition to more than 100 other Carvana locations, mainly consisting of vending machines and processing centers.
-While large dealers have stores across the country that they can utilize for used and new vehicle inventories, they have traditionally sold regionally to avoid additional shipping costs as well as sales and registration complexities due to selling across state lines.
-"Carvana is showing the franchise dealer community how the power of digital can be applied to make a future direction retail model," Dominique said. "There's nothing stopping any dealer in the United States from doing that today."
-The company's vending machine locations do not have parts and service departments, like traditional franchised dealers have, which represent significant profits and customer touch points. That's one of the main questions surrounding Carvana's plans: Will it expand into parts and services or leave that for current dealers?
-"If they're going to just be an outlet for new cars, then does that change the dynamic of the dealership model? Who's going to be responsible for taking care of the customer after the sale?" Hogan said.
-Murphy said he believes Carvana may be able to use locations of Adesa, an auction company it purchased in 2022, in addition to the new dealer franchises to potentially service its vehicles.
-Carvana has reported it has the capacity to recondition approximately 1.5 million vehicles per year. That compares with its sales of less than 600,000 vehicles last year.
-"They do have tremendous capacity to recondition, potentially significantly ramp up their service capability in a way that is not present in other large consolidators," Murphy said. "I think that problem potentially gets cured."
-
-</details>
-
-
----
-
-## Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/16/yum-brands-sells-pizza-hut-to-private-equity-firm-longrange-capital-for-2point7-billion.html
-
-正文长度：2753
-
-摘要：Yum Brands is selling Pizza Hut, capping off years of struggles for the pizza chain.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Yum Brands on Tuesday announced it is selling Pizza Hut to private equity firm LongRange Capital for roughly $1.5 billion.
-The deal excludes the pizza chain's locations in mainland China; Yum China will acquire those in a separate transaction for about $1.2 billion.
-The deals cap off years of struggles for Pizza Hut, which has weighed on Yum's overall financial performance. In the U.S., the pizza chain has transitioned from the sit-down format and salad bars of yore to focus on delivery and carryout — far behind the curve. Rival Domino's Pizza has gobbled up market share from Pizza Hut for years; third-party delivery apps like DoorDash have further stolen sales from the chain.
-Shares of Yum were up nearly 2% in morning trading Tuesday.
-In November, Yum said it was exploring strategic options for Pizza Hut. On Tuesday, the company said its leadership team and board determined that selling Pizza Hut would provide "the strongest path" to maximize shareholder value and give the pizza chain an ownership structure "tailored to its distinct markets, competitive strengths and long-term priorities."
-Across both deals, Yum expects to receive about $2.3 billion in net proceeds after taxes, closing adjustments and fees, excluding a possible earnout of $75 million by 2030 from LongRange. Yum also anticipates one-time expenses of about $85 million during the rest of 2026 tied to the transactions.
-The company's management will provide more details about the financial impact of the transactions during Yum's second-quarter conference call on July 30. Yum expects the sales to close in the third quarter, subject to regulatory approval.
-Brothers Dan and Frank Carney founded Pizza Hut in 1958 in Wichita, Kansas. A year later, they were franchising the concept.
-In 1969, Pizza Hut went public. Just two years later, it was the biggest pizza chain in the world, although it lost that title in 2017 to Domino's.
-The deal severs Pizza Hut's decades-long ties to Taco Bell and KFC, its sister brands in Yum's portfolio.
-PepsiCo bought Pizza Hut in 1977, marking the beverage giant's entry into the restaurant business. By 1986, it also owned Taco Bell and KFC. When Pepsi spun off its restaurant unit in 1997, the holding company was dubbed Tricon Global Restaurants — later renamed to Yum.
-At the end of 2025, Pizza Hut had nearly 20,000 locations across 108 countries and territories and reported $12.8 billion in annual system sales, according to regulatory filings from Yum. The U.S. is its biggest market, representing about 40% of its system sales, followed by China with roughly 20% of its system sales.
-Correction: The headline was updated to reflect that the $2.7 billion sale value includes deals with both LongRange Capital and Yum China.
-
-</details>
-
-
----
-
-## Oil sinks below $80 as traders bet Strait of Hormuz flows will return - Financial Times
+## Middle East peace deal could herald oil glut next year, says IEA - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVNkLVExcnNjUVNOSmlrOS1qa2xsenpBNGluRGRmcTZmak9IMy14bFZ1ZWwyS3BqQ3U1NUxnZm5HQ3g2ZFJNNjFUZGx6Q0ZPOUtSZDR5VVE4NzRlQmI2VzhHeHVWUFNKeHZJQjZZUEVHcjB6cGQ3em96WnJQT2YxdzRHTDM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0VYS1NjUVlJcHRzQlk1RnRrRTZqN19vNWd1WF9DSUlGay01OUxNTVdHei1nM2dCRjZOcTk2LXM3UEpTbzlBVUlzb3F2Mm5yREVhN0VoX185Vm05NkNXV2tZcXFyMG8yNUcza1pjQ3BzbzQ5YjRjYTF3dE0zaWpPZHdQM0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVNkLVExcnNjUVNOSmlrOS1qa2xsenpBNGluRGRmcTZmak9IMy14bFZ1ZWwyS3BqQ3U1NUxnZm5HQ3g2ZFJNNjFUZGx6Q0ZPOUtSZDR5VVE4NzRlQmI2VzhHeHVWUFNKeHZJQjZZUEVHcjB6cGQ3em96WnJQT2YxdzRHTDM?oc=5" target="_blank">Oil sinks below $80 as traders bet Strait of Hormuz flows will return</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0VYS1NjUVlJcHRzQlk1RnRrRTZqN19vNWd1WF9DSUlGay01OUxNTVdHei1nM2dCRjZOcTk2LXM3UEpTbzlBVUlzb3F2Mm5yREVhN0VoX185Vm05NkNXV2tZcXFyMG8yNUcza1pjQ3BzbzQ5YjRjYTF3dE0zaWpPZHdQM0w?oc=5" target="_blank">Middle East peace deal could herald oil glut next year, says IEA</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company - Financial Times
+## Lululemon apologises after Japanese drum controversy at Great Wall yoga event - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk92TWc1T2Nyb3g3LXZPRjQwM3B3OVlmcjcwWWtOOWhZRUx4LVRCYnBXaFUyc2NvaThRalRaeWtxT3RFckZWYWRpYlV0ZjRiWjNNdTQ3QzNYcGR2WlFmLXY1eEpkZWhaU1UzMUljVGh3V1UtSXlud0t4ZnpIR0x0eGRWMGk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVZRNVlCQk53dm9WbU0tek9BTWJNVm1ZVUJzajdMaTBRYUEzeTFieTU1OURIYWlyT2tOXzVoR25mMjZaRmYyLXRHUHBaX2FKMzdQVWRuNzU5dzhYenVzbkxUNGhwRFhfdEpUczRYN2ZvTHBaT0U4NlJJR1NGX2pxZmtpTUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk92TWc1T2Nyb3g3LXZPRjQwM3B3OVlmcjcwWWtOOWhZRUx4LVRCYnBXaFUyc2NvaThRalRaeWtxT3RFckZWYWRpYlV0ZjRiWjNNdTQ3QzNYcGR2WlFmLXY1eEpkZWhaU1UzMUljVGh3V1UtSXlud0t4ZnpIR0x0eGRWMGk?oc=5" target="_blank">SpaceX leapfrogs Amazon to become world’s fifth-most valuable company</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVZRNVlCQk53dm9WbU0tek9BTWJNVm1ZVUJzajdMaTBRYUEzeTFieTU1OURIYWlyT2tOXzVoR25mMjZaRmYyLXRHUHBaX2FKMzdQVWRuNzU5dzhYenVzbkxUNGhwRFhfdEpUczRYN2ZvTHBaT0U4NlJJR1NGX2pxZmtpTUg?oc=5" target="_blank">Lululemon apologises after Japanese drum controversy at Great Wall yoga event</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russian dissident artist shot dead in Poland - Financial Times
+## Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFN6aGl3aTByWVBzMnBybVMtcTVFYjR4UEhoSlBhSThKd2wzYVFrVFkyQjlIdkxJSm14X0xxWmpVOG9sMFh2T1phOHlUTjlrLUtxcmhRSTVBbDRzXzhWeUNLRjlOZFFWZ3lXdjRkSmltbXFxM3BSYVBKNnliM1hCcV9EWXA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk9NLTU4bXFIU0UxVFBqeVc0LWZKZ2JXd1VMbF9MS2x6M3d0d3NnR0hiWjJJcGdyNGdVYU12UjFaRTE2UmJWTnNHRkViT1BOQ29DY0dzbU5vcDR0ZzVPNml4ZkRFVUZsb043akVwVVJrb3NmNHl2T09XOEtDM3Y5UWtXNHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFN6aGl3aTByWVBzMnBybVMtcTVFYjR4UEhoSlBhSThKd2wzYVFrVFkyQjlIdkxJSm14X0xxWmpVOG9sMFh2T1phOHlUTjlrLUtxcmhRSTVBbDRzXzhWeUNLRjlOZFFWZ3lXdjRkSmltbXFxM3BSYVBKNnliM1hCcV9EWXA?oc=5" target="_blank">Russian dissident artist shot dead in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk9NLTU4bXFIU0UxVFBqeVc0LWZKZ2JXd1VMbF9MS2x6M3d0d3NnR0hiWjJJcGdyNGdVYU12UjFaRTE2UmJWTnNHRkViT1BOQ29DY0dzbU5vcDR0ZzVPNml4ZkRFVUZsb043akVwVVJrb3NmNHl2T09XOEtDM3Y5UWtXNHc?oc=5" target="_blank">Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Economists bet on higher rates as Kevin Warsh takes reins at the Fed - Financial Times
+## What is behind the new boom in Colombian cocaine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2pQelNBdnA3c3JMY3FTcFlXeXBhNUFrZGRWMkZGM3h2THdlQVZET2JaVmNvRVhrdzRYdE02VVMtOVVIdV9WS0VZc2dud3Rac0toVFZrMnlDODJnOGJqWlZnMm41VjNsSUNidno1NWUxY3hZUWtRRjBvbGpxQjAzY1pOWUo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlVOcTRjLWEyVllDR0ZTRDZ6X2hYRXJqRVhsWk9LTVNDY2xuU1NkeUxweXpyenZSc1UtVWxpQWNlUTk1MWtxSC1jR0ZUdXNST0x2M2c2TzNQV0hwakVKT2U5QWc3UWJrTi1keEcxY3dzMk5Sc09VVkRveVIzQWFTLXdvOU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2pQelNBdnA3c3JMY3FTcFlXeXBhNUFrZGRWMkZGM3h2THdlQVZET2JaVmNvRVhrdzRYdE02VVMtOVVIdV9WS0VZc2dud3Rac0toVFZrMnlDODJnOGJqWlZnMm41VjNsSUNidno1NWUxY3hZUWtRRjBvbGpxQjAzY1pOWUo?oc=5" target="_blank">Economists bet on higher rates as Kevin Warsh takes reins at the Fed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlVOcTRjLWEyVllDR0ZTRDZ6X2hYRXJqRVhsWk9LTVNDY2xuU1NkeUxweXpyenZSc1UtVWxpQWNlUTk1MWtxSC1jR0ZUdXNST0x2M2c2TzNQV0hwakVKT2U5QWc3UWJrTi1keEcxY3dzMk5Sc09VVkRveVIzQWFTLXdvOU8?oc=5" target="_blank">What is behind the new boom in Colombian cocaine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI spending hit $34bn last year ahead of planned IPO - Financial Times
+## EU readies trade relief for Armenia after Russian import bans - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdEck1mSDlDMTJBWGpVOEwzQXhtazBSZkpzX2tPWXJ1Q3BZUER2blo0T1pweEctQnI4WHd5OGo2RUFCdlBOcTFGZm5Ld2lkTFNqRUhBODFWcERSZDFGek10aU9BanU5UENyOGFLemN2QUZtRDFOOXJFalhvTzFWVGJvRkY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5" target="_blank">OpenAI spending hit $34bn last year ahead of planned IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdEck1mSDlDMTJBWGpVOEwzQXhtazBSZkpzX2tPWXJ1Q3BZUER2blo0T1pweEctQnI4WHd5OGo2RUFCdlBOcTFGZm5Ld2lkTFNqRUhBODFWcERSZDFGek10aU9BanU5UENyOGFLemN2QUZtRDFOOXJFalhvTzFWVGJvRkY?oc=5" target="_blank">EU readies trade relief for Armenia after Russian import bans</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Messi equals World Cup scoring record with hat-trick - Reuters
+## Trump on Iran deal: 'If I don't like it, we'll go back to shooting' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPVURsOHg1NEtwd2lCcFQxOEJMeVZMeGVVVHpiaWVBNS1qcmxoZ3lFUGlYNWdIWU1weEN1YmRjOEZIcEhkY2Q5OEZIVHJXcXV6bktqeXozWjFBOUZYcE1abHJvbHN0aXVFSXdWNWhEMG5UcFV2dl9iaVhGM2NLQmFJVm1ocHlKUlZlV3JBck9NTjh2Y1JEbkpoeVRqOG5zN3B3ZnRibg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPVURsOHg1NEtwd2lCcFQxOEJMeVZMeGVVVHpiaWVBNS1qcmxoZ3lFUGlYNWdIWU1weEN1YmRjOEZIcEhkY2Q5OEZIVHJXcXV6bktqeXozWjFBOUZYcE1abHJvbHN0aXVFSXdWNWhEMG5UcFV2dl9iaVhGM2NLQmFJVm1ocHlKUlZlV3JBck9NTjh2Y1JEbkpoeVRqOG5zN3B3ZnRibg?oc=5" target="_blank">Messi equals World Cup scoring record with hat-trick</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5" target="_blank">Trump on Iran deal: 'If I don't like it, we'll go back to shooting'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil slides on Iran supply prospects as traders wait on Warsh - Reuters
+## AI will lead to labour shortages, Bezos says in optimistic talk - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5DMTRIOHpLY0VUdlJ6RW1fcEhveWNmVmZaNFo0YkdfNmN0a0VZN1JHMDcxVFdlMl81aVpWQV8td2hxb1dZcldhVE5USmVqeEhDNDA4Yk5RSDBpWnBuN3FTblFLMUxEa3poLTZsR3pfMmNfUENaOVZDRjVFNGl5V0l6MA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlkwRUFpc0wyN2lIMllKdm9rWkw3cDE2WHpCZVFtZkN6bnBRNmdyTTQ3SVpKR3VPVEozSXlQc3RWOE9xejNYRUU5QlMwVGtQUVlVZmxPMXBOT3hFQ3V3ekFJYzZiN2hLNWxGVmxTU1BqQlRaVmJtRENXS01hTHl5WGNFdW81MnFtV09YYjFxeDJqUXlIRkhELWRYMWZlcFZPUnV3bDhKLTBrRENaa09COHg1QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5DMTRIOHpLY0VUdlJ6RW1fcEhveWNmVmZaNFo0YkdfNmN0a0VZN1JHMDcxVFdlMl81aVpWQV8td2hxb1dZcldhVE5USmVqeEhDNDA4Yk5RSDBpWnBuN3FTblFLMUxEa3poLTZsR3pfMmNfUENaOVZDRjVFNGl5V0l6MA?oc=5" target="_blank">Oil slides on Iran supply prospects as traders wait on Warsh</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlkwRUFpc0wyN2lIMllKdm9rWkw3cDE2WHpCZVFtZkN6bnBRNmdyTTQ3SVpKR3VPVEozSXlQc3RWOE9xejNYRUU5QlMwVGtQUVlVZmxPMXBOT3hFQ3V3ekFJYzZiN2hLNWxGVmxTU1BqQlRaVmJtRENXS01hTHl5WGNFdW81MnFtV09YYjFxeDJqUXlIRkhELWRYMWZlcFZPUnV3bDhKLTBrRENaa09COHg1QQ?oc=5" target="_blank">AI will lead to labour shortages, Bezos says in optimistic talk</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices stabilise as investors weigh Iran war end, Hormuz reopening uncertainty - Reuters
+## British presenter Jeremy Clarkson reveals he has cancer on TV show - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFpia2Z2MlBJbldjU3k3Z0IwaFhZa2c1ZGNLWlJYcWc0Q1B6SGx1cFR0Nl9CMk1QOUM3ZGxrdno3OTlBMFBlYWlqeURwRTJYcXdNeThOWXphSE9tNnlUbTFaRWdrcTdWOVdsRkFQOU9Da3Y0Y3V3cjVXb3RIMTJQMUVWbWFTcHUtYVlibzluc28wT2gybVFCdzY5MFVDaG9PQjZMNUhPTmh0al80aHhsYXl6Zjg2UlRzV18xSDYtWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5" target="_blank">Oil prices stabilise as investors weigh Iran war end, Hormuz reopening uncertainty</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFpia2Z2MlBJbldjU3k3Z0IwaFhZa2c1ZGNLWlJYcWc0Q1B6SGx1cFR0Nl9CMk1QOUM3ZGxrdno3OTlBMFBlYWlqeURwRTJYcXdNeThOWXphSE9tNnlUbTFaRWdrcTdWOVdsRkFQOU9Da3Y0Y3V3cjVXb3RIMTJQMUVWbWFTcHUtYVlibzluc28wT2gybVFCdzY5MFVDaG9PQjZMNUhPTmh0al80aHhsYXl6Zjg2UlRzV18xSDYtWQ?oc=5" target="_blank">British presenter Jeremy Clarkson reveals he has cancer on TV show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters
+## IEA sees significant 2027 oil surplus after Hormuz recovery - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5" target="_blank">Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5" target="_blank">IEA sees significant 2027 oil surplus after Hormuz recovery</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Norway's Haaland sparkles on World Cup debut with two goals for 4-1 victory over Iraq - Reuters
+## Norway's crown princess undergoes successful lung transplant, palace says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXFSY0o2RVZQSjRPU0gzcklhYUhtS3NyU29nX1VJc0pLSUE0Zlhldkp4VldYS0FoUldaR3NtSGhreEJUZVA0LXdock92dUxQNHpjMlJ3djU0NU5fV1RPRmowbmJoR1FaRjB6Nk03UnNwMmR0MzZIQ3NObzhxQ3IyY1RDZm56ODduczR1bmVCbXV4RVRqYS1DZVY2YjNkeEoxV0hVLVVIQkl3Sk0y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2ZNbDQ2RzNpOU5ObFpMY0JYbDlyRmpqNnVXbnJsWlhUN0p4dC1xN1lGZFlYaGVMVzlDaVE0VDNpeHM0SmFuOXFVSlNfc1FoT2hBcnd3ZC00V1FkejdLYUhDVGU3QW10Qi1zX0ZSRW1aQnBST2Z3WnVSaHRPTk9JMkkyVlZnODVWbzFFVUVFamRDVzVZZ05iN1d2NWo2R3lJcURRN1ZwWjMtSGpabE55SmdzeWFaLUtNWUtYag?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXFSY0o2RVZQSjRPU0gzcklhYUhtS3NyU29nX1VJc0pLSUE0Zlhldkp4VldYS0FoUldaR3NtSGhreEJUZVA0LXdock92dUxQNHpjMlJ3djU0NU5fV1RPRmowbmJoR1FaRjB6Nk03UnNwMmR0MzZIQ3NObzhxQ3IyY1RDZm56ODduczR1bmVCbXV4RVRqYS1DZVY2YjNkeEoxV0hVLVVIQkl3Sk0y?oc=5" target="_blank">Norway's Haaland sparkles on World Cup debut with two goals for 4-1 victory over Iraq</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2ZNbDQ2RzNpOU5ObFpMY0JYbDlyRmpqNnVXbnJsWlhUN0p4dC1xN1lGZFlYaGVMVzlDaVE0VDNpeHM0SmFuOXFVSlNfc1FoT2hBcnd3ZC00V1FkejdLYUhDVGU3QW10Qi1zX0ZSRW1aQnBST2Z3WnVSaHRPTk9JMkkyVlZnODVWbzFFVUVFamRDVzVZZ05iN1d2NWo2R3lJcURRN1ZwWjMtSGpabE55SmdzeWFaLUtNWUtYag?oc=5" target="_blank">Norway's crown princess undergoes successful lung transplant, palace says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
