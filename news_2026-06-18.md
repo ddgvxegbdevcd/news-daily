@@ -1,60 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-06-18 04:41:02
+更新时间：2026-06-18 15:39:27
 
-## WeRide to Accelerate European Expansion
+## Iran Deal Leaves Questions: Paggi
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-18/weride-to-accelerate-european-expansion-video
+链接：https://www.bloomberg.com/news/videos/2026-06-18/iran-deal-leaves-questions-paggi-video
 
 正文长度：0
 
-摘要：Tony Han, Founder & CEO of WeRide, says the company is planning to launch in more European cities after starting joint programs with Uber in Madrid and Zurich. He adds that he is optimistic that China will resume issuing new autonomous driving permits. He speaks exclusively on “Bloomberg: The China Show.” (Source: Bloomberg)
+摘要：Livia Paggi, Senior Managing Director and Head of Political Risk at J.S. Held joined Bloomberg Open Interest to break down President Trump’s Iran deal, warning that while markets welcomed lower oil prices and an open Strait of Hormuz, the agreement leaves major questions unresolved on Iran’s nuclear program, sanctions relief, ballistic missiles and Israel’s role in Lebanon. (Source: Bloomberg)
 
 
 ---
 
-## Copper Falls After Fed Chairman Warsh Positions as Inflation Hawk
+## Knicks Championship Parade Takes Over NYC
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-18/copper-falls-after-fed-chair-warsh-positions-as-inflation-hawk
+链接：https://www.bloomberg.com/news/videos/2026-06-18/knicks-championship-parade-takes-over-nyc-video
 
 正文长度：0
 
-摘要：Copper fell more than 1% to wipe out the gains of earlier this week after US Federal Reserve Chair Kevin Warsh sparked speculation about rate hikes in comments at his debut press conference.
+摘要：A ticker-tape parade celebrating the Knicks' NBA Championship kicked off Thursday morning in New York City in the "Canyon of Heroes." Millions of fans are on hand. Mayor Zohran Mamdani will present the team with keys to the city at City Hall. Bloomberg Senior Reporter Randall Williams joined Bloomberg Open Interest from the festivities in lower Manhattan with the latest on the celebration. (Source: Bloomberg)
 
 
 ---
 
-## Mukesh Ambani’s Promise to Investors on Jio IPO Will Be Tested This Week
+## Polymarket Insider Trading Fears Grow
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-18/mukesh-ambani-s-promise-to-investors-on-jio-ipo-will-be-tested-this-week
+链接：https://www.bloomberg.com/news/videos/2026-06-18/polymarket-insider-trading-fears-grow-video
 
 正文长度：0
 
-摘要：The long-running saga over the listing of Reliance Industries Ltd.’s digital unit comes to a head this week, as investors watch whether its billionaire chairman Mukesh Ambani can walk the talk from last year.
+摘要：Polymarket is putting insider trading fears in plain sight. Bloomberg's Denitsa Tsekova joins Bloomberg Open Interest to explain how prediction markets have opened a new frontier for betting on geopolitics, from Iran strikes to peace deals, while transparent wallet activity makes suspicious trades easier to track than in traditional markets. (Source: Bloomberg)
 
 
 ---
 
-## US Futures Rally, Oil Slips as Trump Signs Deal: Markets Wrap
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap
-
-正文长度：0
-
-摘要：US equity futures climbed and oil prices retreated as President Donald Trump signed an interim deal to end the war with Iran and reopen the Strait of Hormuz, helping improve risk sentiment after the Federal Reserve’s hawkish hold.
-
-
----
-
-## Oil Slides as Trump’s Hormuz Agreement Lifts Outlook for Supply
+## Oil Falls as Iran Deal Gets Tankers Moving Through Hormuz
 
 来源：彭博社
 
@@ -62,7 +49,99 @@
 
 正文长度：0
 
-摘要：Oil fell as an interim US-Iran peace deal went into effect, putting the focus on how quickly transits through the Strait of Hormuz can be ramped up as Persian Gulf producers restart shut-in fields.
+摘要：Oil futures and retail gasoline prices fell as the US and Iran agreed to an interim deal to end their months-long conflict and reopen the Strait of Hormuz, spurring a flurry of ships to cross the critical chokepoint.
+
+
+---
+
+## Pimco Made $2 Billion Bet on Colombia Ahead of First Round Vote
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-18/pimco-made-2-billion-bet-on-colombia-ahead-of-first-round-vote
+
+正文长度：0
+
+摘要：Funds managed by Pacific Investment Management Co. made a $2 billion bet on Colombia’s local government debt last month, ahead of the first round of a presidential election that is likely to reshape the nation’s economic model.
+
+
+---
+
+## California’s counting on an IPO tax windfall. Several factors are complicating the equation
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html
+
+正文长度：7959
+
+摘要：The IPOs of SpaceX, OpenAI and Anthropic could create a tax windfall for the state of California. But experts say the revenue impact may be blunted.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+The blockbuster SpaceX IPO and potential upcoming public offerings for OpenAI and Anthropic could create a tax windfall for the state of California. Yet the revenue boost may fall short of previous tech IPOs – at least relative to the firms' valuations – given the specific nature and tax treatment of today's tech compensation.
+Following its IPO last week, SpaceX is now valued at $2.5 trillion, minting many of its employees who live and work near its Hawthorne, California, office as millionaires, at least on paper. California-based Anthropic and OpenAI are also expected to go public later this year at valuations that could approach $1 trillion.
+The burst of tech wealth has drawn comparison to the 2012 IPO of Menlo Park-based Facebook, which generated $1.3 billion in taxes for the Golden State, per the California Department of Finance's estimate. Facebook's valuation at the time was just $104 billion, suggesting the new crop of super-IPOs could theoretically generate billions more.
+But the revenue impact may be blunted, due to how these employees' stock compensation was structured and because tech employees today have more tools at their disposal to mitigate their tax burden, experts and financial advisors told CNBC.
+As companies have stayed private for longer and reached sky-high valuations, financial institutions have increasingly catered to equity-rich, cash-poor startup employees with tax strategies that were traditionally only available to founders.
+For instance, employees at some startups can get a tax deduction by donating private, pre-IPO stock to a donor-advised fund, according to Richard Lowry of wealth manager Cresset. He said such donations were generally limited to the ultra-wealthy as recently as a decade ago, since few charitable organizations were equipped to accept or manage those assets.
+"Historically, the only people who had equity in a private company and were certainly in a position to give it away were millionaire or billionaire founders who already had their own controlled structures, like a private foundation, where they could decide what they accepted," said Lowry, managing director and head of tax strategy at Cresset. "Now there is a cottage industry around allowing people to avail themselves of this."
+There's also a timing consideration on the SpaceX windfall.
+Tax revenue generated by an IPO largely comes from two sources: ordinary income taxes on employees' restricted stock units, or RSUs, when they vest and capital gains taxes paid when shareholders sell appreciated stock.
+SpaceX uses a unique stock-pay structure that may have pulled forward the tax revenue on the vesting of employees' shares. At most private companies, RSUs vest after two conditions are met: continued employment with the company and a liquidity event like an IPO or acquisition. This dual-trigger RSU structure leads to a boom in taxable income on IPO day.
+Many SpaceX employees, however, have been paying income taxes on their RSUs for years as share vesting was only tied to employment, not a liquidity event.
+This stock-pay structure has made it challenging to estimate tax revenue associated with the SpaceX IPO, according to the California Legislative Analyst's Office.
+"Revenue totals will depend more on financial decisions made by employees and investors who hold pre-IPO SpaceX shares and stock options," the LAO wrote in a statement. "Relative to past IPOs, tax revenues from the SpaceX IPO are likely to be less immediate and more unpredictable."
+The LAO, which advises state lawmakers on budget and fiscal policy, has not published tax revenue estimates for the IPOs of SpaceX, Anthropic or OpenAI. That said, the LAO's statement to CNBC was cautiously optimistic that the market debuts would pad the state's coffers.
+"Past major tech IPOs have generated significant income tax revenue for the state and these upcoming IPOs certainly have the potential to do the same," the statement reads.
+The California Department of Finance also has not published revenue estimates for the IPOs, citing the risk that companies frequently delay their IPOs in the event of a market downturn. OpenAI and Anthropic, which each filed confidential S-1s in recent weeks, could do the same.
+The Department has reason to be conservative as market swings have undermined its revenue forecasts before. It had to revise its revenue estimate from the Facebook IPO from $1.9 billion to $1.3 billion after the social media giant's share slump.
+The Department's budget report noted another factor that could limit the upside from IPOs: the growing trend of private companies allowing employees to sell stock before going public, reducing the backlog of stock taxed upon IPO.
+Employees at SpaceX, Anthropic and OpenAI have had ample opportunity to take some chips off the table well before a public offering. In October, OpenAI finalized a secondary share sale totaling $6.6 billion in which current and former employees could sell their shares at a $500 billion valuation. CNBC previously reported that OpenAI plans to facilitate a tender offer at a $852 billion post-money valuation.
+Tender offers have grown in popularity as a way to reward employees and investors as the timeline to exit has grown longer, according to Hamza Shad, insights manager at startup equity management firm Carta.
+Gains on these sales are still taxed, but selling earlier pulls that tax revenue forward and makes it less predictable for regulators, he said.
+"In the past, when early pre-public liquidity wasn't as prevalent, the tax revenue would come all at once on the IPO and after," Shad said. "But now it's kind of up to each company, whether or not they want to do tender offers, how large they want them to be, how often they want to do them."
+Still, tender offers come with a lot of strings attached, such as a percentage cap on how much equity employees can sell. And wildly lucrative tender offers and secondary sales are largely limited to the "best of the best startups," according to Michael Ewens, professor of finance at Columbia Business School.
+What's more likely to eat into potential tax revenue is employees choosing not to sell at all but rather to take loans instead, said Will Gornall, associate professor of finance at the University of British Columbia.
+By taking a loan against their shares instead of selling them, shareholders save money by paying interest rather than capital gains taxes. This so-called "buy, borrow, die" strategy is employed by SpaceX founder and world's first trillionaire Elon Musk, who has taken out loans against billions of dollars' worth of Tesla shares. This strategy also has the benefit of allowing employees to stay invested and benefit from future stock appreciation.
+While financial maneuvers to avoid taxes have grown more sophisticated, so, too, have the auditing methods of the California Franchise Tax Board, according to Robert Willens, longtime tax and accounting analyst, who added the agency is notoriously aggressive.
+"It really comes down to when the shares are earned. The taxable event is the vesting of the shares, and if you're a California resident, there's not much you can do about it," he said. "I would think that California is looking forward to a really great infusion of funds."
+Of course, IPOs are one-time revenue boosts, and there's a potential downside to lobbing hefty bills. Ewens told CNBC that he worries a big tax burden may drive these newly wealthy and often entrepreneurial employees away from the state.
+"That's not a point that California should lower its taxes now, but I think it has to keep in mind that taxes have longer-term consequences for people's entrepreneurial decision-making, and that's a big wealth driver in the state," he said.
+
+</details>
+
+
+---
+
+## Hollister partners with Target to tap into $89 billion back-to-college shopping market
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/18/hollister-partners-with-target-to-sell-dorm-bedding-apparel.html
+
+正文长度：3280
+
+摘要：Hollister's partnership with Target comes as both companies look to capitalize on the lucrative back-to-college shopping market.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Abercrombie & Fitch's Hollister is branching out of its apparel roots and partnering with Target to start selling home and dorm decor for the first time as both brands look to new categories to drive growth.
+The collaboration, dubbed The Hollister Collection at Target, will launch online, in most Target stores and select Hollister locations on June 28 and will feature almost 60 items across men's and women's apparel and bedding.
+Hollister's tie-up with Target comes as both companies contend with declines in discretionary spending and waning consumer confidence, which have forced retailers to get creative to entice shoppers to spend.
+Hollister, Abercrombie's brand targeting shoppers ages 13 to 22, has been comfortably growing for much of the past year but is looking to become more of a lifestyle brand that sells more than clothes. By offering a wider assortment, especially across a larger footprint, Hollister can acquire new customers, encourage existing shoppers to spend more and create a new pipeline for organic growth.
+On the other hand, Target already has a large home and dorm decor department but has long leaned on brand collaborations as a competitive differentiator, especially because they're not as common at rival Walmart. Across the business, it has regularly brought in buzzy names like Kendra Scott, Diane von Furstenberg, Bombas and Champion, even before it was dealing with sluggish sales and shrinking profits.
+For both companies, the collaboration offers access to the lucrative back-to-college shopping market, which reached $88.8 billion last year, or about $1,325 in spending per person that participates, according to data from the National Retail Federation.
+Within that market, spending on dorm or apartment furnishings has been steadily growing for more than a decade. In 2025, it reached $12.8 billion, second only to electronics or computer-related equipment.
+Hollister's expansion into home and dorm decor comes as sister brand Abercrombie & Fitch expands into outside footwear brands like Puma, Sperry and Hunter as a means to drive growth. In interviews with CNBC, executives said category expansion across the business can both draw in new customers and entice existing shoppers to spend more.
+With Target's "brick-and-mortar presence, we should be able to expose the Hollister brand to people who aren't shopping with us today," said Corey Robinson, the company's chief product officer, overseeing both the Abercrombie and Hollister brands. "And then with those customers who love us so much today, to be able to be an even bigger part of their lives is something we're looking forward to."
+Under the terms of the collaboration, Hollister and Target are working together to design the products while Target, given its expertise in the space, will handle manufacturing, Robinson said. The collaboration will last at least through next year with drops expected during the fall, holiday and spring 2027 shopping seasons.
+"Moving beyond just bedding and thinking about blankets, wearable blankets, plush, that's how we will evolve the partnership," Robinson said. "With our target age, dorm is top of mind. From a seasonality perspective, there's a lot of ways you can refresh your dorm, and decorate with newness based on seasonality."
+
+</details>
 
 
 ---
@@ -164,229 +243,132 @@ UniQure isn't the only company to see its fortunes reverse following the departu
 
 ---
 
-## Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/17/target-walmart-amazon-lgbtq-consumer-spending.html
-
-正文长度：3924
-
-摘要：LGBTQ+ consumers are shifting spending toward companies they view as supporting DEI and away from those seen as retreating, HRC survey finds.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> LGBTQ+ consumers are shifting their brand loyalties based on companies' diversity, equity and inclusion policies, according to new research from the Human Rights Campaign Foundation.
-The findings released Wednesday found that nearly 72% of LGBTQ+ consumers say they buy fewer products from companies they perceive as "reducing diversity and inclusion commitments." Nearly 70% also said they have refused purchases from those businesses at least some of the time.
-The five companies those respondents most frequently linked to reduced spending were Target, Walmart, Amazon, Chick-Fil-A and Home Depot.
-On the other hand, HRC's survey found nearly 70% of LGBTQ+ consumers are also rewarding companies they view as supportive of diversity and inclusion. Costco, Apple, Ben & Jerry's, Delta Air Lines and Kroger were the five companies most frequently cited as recipients of higher spending.
-"Consumers aren't asking the brand to be perfect they're asking them to be transparent and clear on where they stand," said Human Rights Campaign spokesman Jonathan Lovitz.
-"There is a gap to close between perception and what you're doing inside," he said.
-HRC's survey was conducted online from Sept. 29 through Oct. 27, among roughly 15,000 U.S. adults, including about 10,000 LGBTQ+ respondents and 5,000 non-LGBTQ+ respondents.
-The survey comes as a growing number of companies have scaled back diversity initiatives, modified public-facing DEI programs or ended participation in the organization's annual Corporate Equality Index. Earlier this year, HRC reported a sharp decline in participation in the index, a benchmark that has long measured workplace policies and benefits for LGBTQ+ employees. Participation among Fortune 500 companies fell 65% from 377 companies in 2025 to 131 in 2026.
-The National LGBT Chamber of Commerce estimates LGBTQ+ consumers represent more than $1.7 trillion to the U.S. economy.
-In response to the survey, Amazon told CNBC it is fostering opportunities for employees and serving a diverse customer base.
-"We've continued to support our employees with opportunities that allow them to grow, thrive and connect internally and in their communities," said a company spokesperson.
-The other companies mentioned in the survey did not immediately comment.
-U.S. shoppers have increasingly mobilized for or against companies based on their DEI policies. Target, for instance, has faced consumer backlash from both sides of the political spectrum over its approach and was the most cited company among survey respondents who said they reduced their spending.
-Self-identified Republicans reduced spending at Target during the summer of 2023 following controversy surrounding the retailer's Pride Month merchandise display, according to spending data from Consumer Edge. In early 2025, spending among self-identified Democrats also declined after the company rolled back several DEI initiatives.
-In the company's most recent quarter, however, the retailer reported its first positive same-store sales number in five quarters.
-Target also continues to maintain some publicly visible LGBTQ+ partnerships, including serving as a platinum sponsor of NYC Pride's 2026 celebration.
-Costco was the most frequently cited company among consumers who said they increased their spending, according to the HRC survey. The retailer has remained one of the more vocal corporate defenders of diversity initiatives, and earlier this year shareholders overwhelmingly voted against a proposal that would have required the company to evaluate risks associated with its DEI programs.
-"Companies who have the longest run of trust with customers in the [LGBTQ+] community is they didn't change anything about what they were doing but remained consistent," said Lovitz.
-Consumer Edge data showed Costco posted the strongest year-over-year spending growth among self-identified Democratic consumers in the months following that vote.
-
-</details>
-
-
----
-
-## Carvana’s new vehicle strategy turns dealership into ‘playground,’ test-drive center with sales all online
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html
-
-正文长度：10067
-
-摘要：But don't expect Carvana to sell you a vehicle at one of its seven Stellantis stores, marking a stark contrast from typical franchised dealers.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DALLAS — Carvana is aiming to bring its online strategy for selling used vehicles to sales of new cars and trucks.
-But don't expect the company to actually sell you a vehicle at one of its seven Stellantis franchised dealerships.
-Instead, the online vehicle retailer said it intends to use such dealerships as service locations, test-drive centers and potentially "playgrounds" for consumers to decide what vehicle they would like to buy through Carvana's online platforms, marking a stark contrast from how traditional franchised dealers handle new products.
-"Every single car that we sell, whether it's used or new, is online," Tom Taira, Carvana president of special projects who's leading the new vehicle operations, told CNBC during an interview at its franchise in Texas. "That's a very inherent difference. Even coming into the store, you're buying it online, and that's a big difference in how people think about it."
-Shares of Carvana fell 10% during trading Wednesday, which coincided with CarMax, the company's largest rival, beating Wall Street's quarterly expectations but reporting margin pressure and declining gross profit per retail used vehicle.
-Through its used vehicle sales, Carvana has become the most valuable auto retailer in the U.S. with a more than $70 billion market cap. Carvana's target with the new vehicle business is to grow its market share and customer base as well as assist used vehicle sales through trade-ins and other means, according to Taira.
-If the company is successful, the strategy could cause a ripple effect across the U.S. franchised dealership model, which the National Automobile Dealers Association says includes 16,990 retailers that topped $1.3 trillion in sales last year.
-This week marks the first time Carvana has publicly talked about its plans for new vehicles since it purchased its first Chrysler-Dodge-Jeep-Ram franchised store for Stellantis early last year in Arizona. Its network has since grown to other Carvana-popular markets in Sacramento and San Diego, California; Dallas; Atlanta; Cleveland; and Boston.
-"When we got into new cars, we said the only way we're going to make this happen is to ensure that it goes the Carvana way. That we actually sell cars exactly the same way that we do to used car customers," Taira said during a media event at its Dallas location. "Why break something that already works?"
-Carvana spent roughly $171 million on its acquisitions of new Stellantis vehicle franchised dealerships, excluding its most recent purchase of a retailer in Ohio, according to public filings. The company declined to disclose any further investments in the stores to implement its strategy.
-Taira and the company also declined to disclose Carvana's new vehicle sales so far or its future expansion plans for additional brands or other Stellantis dealerships. CNBC previously confirmed that the company has quickly grown its new vehicle sales, including a location in Arizona becoming the top-selling dealer in the country for Stellantis.
-"We believe that this was worth it to us, as long as we could go out and increase share and increase the pie," Taira said. He declined to comment on whether the new vehicle business is profitable.
-To be able to integrate its new vehicle sales into its current website, as first reported by CNBC, Carvana was approved as a certified website provider for Stellantis instead of utilizing mandated third-party companies. Several franchised dealers said they believed that was a unique benefit for Carvana.
-Stellantis, in an statement to CNBC, said Carvana operates as a "corporate owner" of its brands, similarly to other large publicly traded companies such as Lithia and AutoNation.
-"We apply the same consistent standards and criteria to all dealer partners, and any organization that meets our qualifications is eligible to operate as a franchisee," the automaker said, adding that Stellantis "certifies tools and services that will enhance our program and be beneficial to our network. All certified providers must complete a rigorous onboarding process and meet program standards and requirement."
-Test-drives, vehicle 'playground'
-Carvana is using a location in Dallas as a test center for its foray into new vehicle sales. The facility looks like a traditional Stellantis dealership from the outside, but the consumer process for purchasing a vehicle and the responsibilities of its employees are unprecedented.
-Couches and chairs replace cubicles and sales offices. There are no finance and insurance departments, and instead of an army of commission-based employees, the facility has associates that are paid hourly to assist customers — if they want the help.
-The experience is meant to be as self-guided as a customer wants. By scanning QR codes located on 10-foot-by-10-foot screens inside the building or on vehicles and displays outside, shoppers can customize a vehicle, learn about a product's features and conduct test-drives before deciding whether to purchase anything. If they do decide to buy something, it's online and not originated from a sales person, the company said.
-The playground has roughly 50 vehicles divided by brand, with each having a theme. Jeep has an off-road display. Dodge has race tracks, including a Carvana-themed Charger pace car and part of a traditional track fence barrier. Chrysler minivans, meanwhile, have a soccer net and Ram's area is truck-centric.
-Carvana is not committing to expanding the exact experience to its other franchised dealer locations, but Taira told CNBC that the overall process of online sales, vehicle testing and service are expected to be consistent throughout the locations.
-"I think the business case and the case for additional stores comes out through this location first," he told CNBC, adding that it built out the store in weeks. "Is it important for us to launch a second? No, I think what's important is that we get this right. … There's no giant plan to build test-drive centers everywhere."
-Vehicle inventory constraints
-Once a customer decides to test-drive or even purchases a vehicle from the location, that's where the process can get more complex, depending on what model a consumer wants.
-Taira said the company chose to purchase Stellantis dealerships for the automaker's breadth of brands as well as its variety of products, which can be a double-edged sword when it comes to consumers actually finding the exact vehicle they want to test-drive or purchase.
-Unlike a traditional dealership that stockpiles vehicles for customers to test-drive before purchasing, at the Texas facility, Carvana has roughly 50 display cars on its playground, with twin vehicles for test-drives. It had roughly 3,000 new vehicles for sale nationwide compared with more than 60,000 used models as of Wednesday morning, according to its website.
-This means that a customer may not be able to test-drive the exact vehicle or even model they're purchasing, but the online process tries to match the best test-drive vehicle possible with what they want. It also describes what's the same and what's different.
-Looking at the Texas location's system for vehicles such as an $87,000 Ram 1500 RHO performance model, the closest thing on-site for a test-drive was a roughly $61,000 Ram 1500 Big Horn with the same interior and four-door configuration but no other feature matches, including its performance engine.
-It's why traditional automotive dealers have large vehicle inventories, especially for pickup trucks that have a litany of build options and wide bandwidth of performance specs.
-Taira said Carvana is continuing to take lessons learned from its year-plus experience of selling new vehicles into its day-to-day operations. He said the company is learning what vehicles to keep in stock and is working to ensure customers know they are buying a new vehicle rather than a used one.
-"We're going through all this technology. This is brand new," Taira said. "All these things are active, meaning the amount of progression we're going to make over the course of the next days to weeks to months."
-Taira said the company prioritizes new vehicle sales to local customers, much like it does for used vehicles, to avoid additional costs, but it does use its nationwide logistics network and more than 100 U.S. Carvana locations when necessary.
-Carvana will service vehicles
-A major question of Stellantis franchised dealers and Wall Street analysts before Carvana revealed its new vehicle plans was how the company planned to service the new products it sells.
-Taira said the company, for the time being, will operationally run its service departments like a traditional franchised dealer, but with its guiding strategy of transparent, nonhaggling pricing and "hassle-free" customer experience.
-"As it relates to how you actually do service, they're traditional. It's a traditional setup in that way," he told CNBC. "In that way, what we're doing … as it relates to service, we believe the same principles that we have with selling cars."
-At the end of the day, selling cars is Carvana's core business, but servicing vehicles has historically been a lucrative market for franchised dealers, along with customer financing, which Carvana has always focused on for its business.
-Much like its used vehicles, Carvana is currently only accepting cash or offering financing through the company itself, including selling consumer auto loans it originates to institutional investors and partner banks, such as Ally Financial, to maintain liquidity.
-Taira did not dismiss the possibility of Carvana offering leasing or using Stellantis' financial services, which have been highly profitable for automakers, but said the offerings would need to seamlessly integrate into its current online selling platforms.
-"Part of what makes this great, this experience, is what we already know. What we already know is the system that we have in place," he said. "That does not mean that integration isn't something that we're going to be [doing] as part of our learning and experimentation going forward."
-
-</details>
-
-
----
-
-## Middle East peace deal could herald oil glut next year, says IEA - Financial Times
+## Pete Hegseth unveils six-month review of US military presence in Europe - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0VYS1NjUVlJcHRzQlk1RnRrRTZqN19vNWd1WF9DSUlGay01OUxNTVdHei1nM2dCRjZOcTk2LXM3UEpTbzlBVUlzb3F2Mm5yREVhN0VoX185Vm05NkNXV2tZcXFyMG8yNUcza1pjQ3BzbzQ5YjRjYTF3dE0zaWpPZHdQM0w?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONzBzUEFhVzhPVFlzZ3JtdTNjNWE1cFhQejFiN0dad3h2UWZuV2VSYm44R3Bnc1BtSUVNZ1FFWDZHV3NGUTVES3l6NjhpODhXQVFNWHdWanZGRkJFeU1lNGNENTRwV1JiY3MteXRLZ1g1bDFmS0h0WDlQUHJGNWhsQzRXbW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0VYS1NjUVlJcHRzQlk1RnRrRTZqN19vNWd1WF9DSUlGay01OUxNTVdHei1nM2dCRjZOcTk2LXM3UEpTbzlBVUlzb3F2Mm5yREVhN0VoX185Vm05NkNXV2tZcXFyMG8yNUcza1pjQ3BzbzQ5YjRjYTF3dE0zaWpPZHdQM0w?oc=5" target="_blank">Middle East peace deal could herald oil glut next year, says IEA</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONzBzUEFhVzhPVFlzZ3JtdTNjNWE1cFhQejFiN0dad3h2UWZuV2VSYm44R3Bnc1BtSUVNZ1FFWDZHV3NGUTVES3l6NjhpODhXQVFNWHdWanZGRkJFeU1lNGNENTRwV1JiY3MteXRLZ1g1bDFmS0h0WDlQUHJGNWhsQzRXbW8?oc=5" target="_blank">Pete Hegseth unveils six-month review of US military presence in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Lululemon apologises after Japanese drum controversy at Great Wall yoga event - Financial Times
+## Netanyahu and Modi: the making of an unlikely alliance - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVZRNVlCQk53dm9WbU0tek9BTWJNVm1ZVUJzajdMaTBRYUEzeTFieTU1OURIYWlyT2tOXzVoR25mMjZaRmYyLXRHUHBaX2FKMzdQVWRuNzU5dzhYenVzbkxUNGhwRFhfdEpUczRYN2ZvTHBaT0U4NlJJR1NGX2pxZmtpTUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVBFYzBuNWtGTFBwbDZHakV5bFQwREpYenh3anMyWVo1Y3lBalBlX0V1d3VBbGhBQWF5b0hFTFllZGlQcFBtS0lYeFRTakVqRGo1ZXpadkY5UDdoTHpjZFZxeExqeFREM3ZwOG51Sk1IbFN4WEtqRHh5WFY3eDJhWV9TOHI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVZRNVlCQk53dm9WbU0tek9BTWJNVm1ZVUJzajdMaTBRYUEzeTFieTU1OURIYWlyT2tOXzVoR25mMjZaRmYyLXRHUHBaX2FKMzdQVWRuNzU5dzhYenVzbkxUNGhwRFhfdEpUczRYN2ZvTHBaT0U4NlJJR1NGX2pxZmtpTUg?oc=5" target="_blank">Lululemon apologises after Japanese drum controversy at Great Wall yoga event</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVBFYzBuNWtGTFBwbDZHakV5bFQwREpYenh3anMyWVo1Y3lBalBlX0V1d3VBbGhBQWF5b0hFTFllZGlQcFBtS0lYeFRTakVqRGo1ZXpadkY5UDdoTHpjZFZxeExqeFREM3ZwOG51Sk1IbFN4WEtqRHh5WFY3eDJhWV9TOHI?oc=5" target="_blank">Netanyahu and Modi: the making of an unlikely alliance</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## What lies behind the new boom in Colombian cocaine - Financial Times
+## JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlVOcTRjLWEyVllDR0ZTRDZ6X2hYRXJqRVhsWk9LTVNDY2xuU1NkeUxweXpyenZSc1UtVWxpQWNlUTk1MWtxSC1jR0ZUdXNST0x2M2c2TzNQV0hwakVKT2U5QWc3UWJrTi1keEcxY3dzMk5Sc09VVkRveVIzQWFTLXdvOU8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm9uWTJqZWE3R1FTQmprVlJSdWYzU21KSmVRd25RSVkwSlBNNmRYT08yZUNsRzdTVVFzYTFCX0VQVUN5dDNxa1hnYnE2Z1NBZjNTYy1VdnhaeERSazV4VzBpNlRvaTF6SGZQdHoxMWVpeXJBcU5CMHVMX0p2RTZqaFEtcWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlVOcTRjLWEyVllDR0ZTRDZ6X2hYRXJqRVhsWk9LTVNDY2xuU1NkeUxweXpyenZSc1UtVWxpQWNlUTk1MWtxSC1jR0ZUdXNST0x2M2c2TzNQV0hwakVKT2U5QWc3UWJrTi1keEcxY3dzMk5Sc09VVkRveVIzQWFTLXdvOU8?oc=5" target="_blank">What lies behind the new boom in Colombian cocaine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm9uWTJqZWE3R1FTQmprVlJSdWYzU21KSmVRd25RSVkwSlBNNmRYT08yZUNsRzdTVVFzYTFCX0VQVUN5dDNxa1hnYnE2Z1NBZjNTYy1VdnhaeERSazV4VzBpNlRvaTF6SGZQdHoxMWVpeXJBcU5CMHVMX0p2RTZqaFEtcWQ?oc=5" target="_blank">JPMorgan Chase cuts off Anthropic access for its Hong Kong staff</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump adviser pushes power-sharing plan for oil-rich Libya - Financial Times
+## Wall Street pushes US regulators to further ease Basel capital rules - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOR05hNkZYcVF5d2N6UGxZWEd2YlRQaEdsZUVUXzZRZTh3WDk0QjQ3WDk1cGRQUzJveGJoUWlRVlNQd3psUmNDS0NJNkJFYVBOaFQxVjNsSTBMam01a281MzRwUWVGU09lT3M2eE05VE5kZVIwVXljM1JYTmszeWpzaVlRZlY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEsxMlZXbUM3dFpDbnVoZUFia2FWOUJTZ3dLcm1uOGVaM182Xy1zNTdrd0tsaVJmMWlkTWUzUTU1SFRwMnZMOWt4UEJ5b3VyTkdDeFRnLXJJU2V0VDlFRFJIekFvdmFjVkNJQjU0OXhQSVdka09LZmxfbDY3TUtnNHFxWUo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR05hNkZYcVF5d2N6UGxZWEd2YlRQaEdsZUVUXzZRZTh3WDk0QjQ3WDk1cGRQUzJveGJoUWlRVlNQd3psUmNDS0NJNkJFYVBOaFQxVjNsSTBMam01a281MzRwUWVGU09lT3M2eE05VE5kZVIwVXljM1JYTmszeWpzaVlRZlY?oc=5" target="_blank">Trump adviser pushes power-sharing plan for oil-rich Libya</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEsxMlZXbUM3dFpDbnVoZUFia2FWOUJTZ3dLcm1uOGVaM182Xy1zNTdrd0tsaVJmMWlkTWUzUTU1SFRwMnZMOWt4UEJ5b3VyTkdDeFRnLXJJU2V0VDlFRFJIekFvdmFjVkNJQjU0OXhQSVdka09LZmxfbDY3TUtnNHFxWUo?oc=5" target="_blank">Wall Street pushes US regulators to further ease Basel capital rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The oil shortage is ending — and now comes the glut - Financial Times
+## Trump’s ‘nuclear bros’: young entrepreneurs race to deliver US atomic revival - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOejRqdkRaZ2tfVWh6MHQ5WGZOVmlhMU9maXdtclhEYVQ3OEt5ZjNEalY3RGd5c2RsRUtqWGcwOGdtRzBBS1hOcHlMdXBYaGRDaVJYdV9pZktRVFRQVF9rQ05mUmh5eVNhZGMxaWZDb3lFM1pISHc3cUVxTmtkODdPZHBsdlM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFAwMkxob2xPWXBVMHVOZEdkMlJWQlNDeWNiZ1FUeDlGUm1sc2VCVmU5Vm5MWW83SHowbHQ5WlY2MnBwcldsbllTVk9kbkczVVVOdHRzb00zVVFXQXE1ajZ2ODF4NXBmRTdhWmxtUUNVNDhQOFllT2QzYkZGbnRCTkxxR0Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOejRqdkRaZ2tfVWh6MHQ5WGZOVmlhMU9maXdtclhEYVQ3OEt5ZjNEalY3RGd5c2RsRUtqWGcwOGdtRzBBS1hOcHlMdXBYaGRDaVJYdV9pZktRVFRQVF9rQ05mUmh5eVNhZGMxaWZDb3lFM1pISHc3cUVxTmtkODdPZHBsdlM?oc=5" target="_blank">The oil shortage is ending — and now comes the glut</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFAwMkxob2xPWXBVMHVOZEdkMlJWQlNDeWNiZ1FUeDlGUm1sc2VCVmU5Vm5MWW83SHowbHQ5WlY2MnBwcldsbllTVk9kbkczVVVOdHRzb00zVVFXQXE1ajZ2ODF4NXBmRTdhWmxtUUNVNDhQOFllT2QzYkZGbnRCTkxxR0Q?oc=5" target="_blank">Trump’s ‘nuclear bros’: young entrepreneurs race to deliver US atomic revival</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil slips again as US, Iran sign peace deal - Reuters
+## US Supreme Court backs challenge to ban on gun ownership by drug users - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3Z4S3pqZi1uNC11eXVpcmczWEp4bnZaaEtXQ2ZqY19qQVFEWi1ieEQ4M3Rabmk0SDFqR0JwRjRUUXVDS2JqQWl5M1pERWU1WHN5VXZ2dGlqY1RiaVFMU3hpeWpvN1lIRFBqdVBXN3lKNVQyaXdlemwwTUNjdjJjaFNtMDM0a3pMeDRWaU84dEp3NDBDMERpeXNqd0F3b1RSVjdOR3dkZG9OOUVEUUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5" target="_blank">Oil slips again as US, Iran sign peace deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3Z4S3pqZi1uNC11eXVpcmczWEp4bnZaaEtXQ2ZqY19qQVFEWi1ieEQ4M3Rabmk0SDFqR0JwRjRUUXVDS2JqQWl5M1pERWU1WHN5VXZ2dGlqY1RiaVFMU3hpeWpvN1lIRFBqdVBXN3lKNVQyaXdlemwwTUNjdjJjaFNtMDM0a3pMeDRWaU84dEp3NDBDMERpeXNqd0F3b1RSVjdOR3dkZG9OOUVEUUE?oc=5" target="_blank">US Supreme Court backs challenge to ban on gun ownership by drug users</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters
+## Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxOelJsYzdzc05CeUJiTkFiMWJlOWFVdHNhQ3QwbkpOc1dBLU1qOWp1Wk42R1lHcy11bHNBMUtrMmFMRnVXT0E3alh5bTlPbkRSV3NIUzhobWpHd3BsY1d5YWNTZUdQLTFyZkljdGIwaFpPY0hUeE01RDZCOGlWM2VvdjZTaXJvaVloYVo0U2dDd0RDMjN4WF9KQnZCN09MdHUwQ1lv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5" target="_blank">Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOelJsYzdzc05CeUJiTkFiMWJlOWFVdHNhQ3QwbkpOc1dBLU1qOWp1Wk42R1lHcy11bHNBMUtrMmFMRnVXT0E3alh5bTlPbkRSV3NIUzhobWpHd3BsY1d5YWNTZUdQLTFyZkljdGIwaFpPY0hUeE01RDZCOGlWM2VvdjZTaXJvaVloYVo0U2dDd0RDMjN4WF9KQnZCN09MdHUwQ1lv?oc=5" target="_blank">Ukraine brings the war to Moscow as huge blasts shake refinery</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Apple to raise prices due to memory chip shortage, CEO Cook tells WSJ - Reuters
+## First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5" target="_blank">Apple to raise prices due to memory chip shortage, CEO Cook tells WSJ</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5" target="_blank">First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump signs memo aimed at ending Iran war, White House official says - Reuters
+## Two men jailed in Britain for spying for China - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckM0TE4tcWU4eXF5amFvMFo5REU1TDNLYVF6ZHQ4UHk5akkwMEg4Q0J3WVQ2SXlQaWtfc1h5SXFjS2Fqdm1mY3FRWnktbHFUeDAwUUVXRzF4M3Uwa1hhN25CZ0JsTVFxR0NZUTkxamszeWstVm9NSE9xcGFyYVJFN1VGeEU3OTNzcDJ2R0xRcmFKWHZzNnYwZWxDdk5wT01IcFBCeVpld0R0dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0E3VnZHU1VXS1VIdUYwUUlGbm5ucl9STVkwU3hsNFdfVktSRVI3eUNlNmZvbGRIWnhpc0EyMGdITmU4OG9tN3ljN1JFX2cwMjkzeUFzcENiNFVtM0pEQ0ZqMVdNQk1XQTl3dk1GdlNHbGJXejNjZl9tVWROWDBvMkNjZHYzaEU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckM0TE4tcWU4eXF5amFvMFo5REU1TDNLYVF6ZHQ4UHk5akkwMEg4Q0J3WVQ2SXlQaWtfc1h5SXFjS2Fqdm1mY3FRWnktbHFUeDAwUUVXRzF4M3Uwa1hhN25CZ0JsTVFxR0NZUTkxamszeWstVm9NSE9xcGFyYVJFN1VGeEU3OTNzcDJ2R0xRcmFKWHZzNnYwZWxDdk5wT01IcFBCeVpld0R0dw?oc=5" target="_blank">Trump signs memo aimed at ending Iran war, White House official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0E3VnZHU1VXS1VIdUYwUUlGbm5ucl9STVkwU3hsNFdfVktSRVI3eUNlNmZvbGRIWnhpc0EyMGdITmU4OG9tN3ljN1JFX2cwMjkzeUFzcENiNFVtM0pEQ0ZqMVdNQk1XQTl3dk1GdlNHbGJXejNjZl9tVWROWDBvMkNjZHYzaEU?oc=5" target="_blank">Two men jailed in Britain for spying for China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Soccer Taiwan criticises China's 'irrelevant' World Cup viewing offer - Reuters
+## UK to provide 150,000 drones to Ukraine as part of $996 million package - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hPWVM4M0syRW5CMnpRSDV5azdnM0FkbkdEMmcxX2NDbzFrZDdEMEY4ajY5VXJhM013NGdUc25JRnpaMk9TV1c1OVdJTkFhZTZWN2lyamxiS3NtMjZlcTBTMklLZURiaFhsSXdObVg2Y3ROdkJ2SVZacGtnVGJjWElOLUtacGtwNGJZYW5nb1pHMG9DblNrTkdPLWp0bjVmUHNkWXBoa3loQ2lYcWlVZHFlSVprZDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNallfM2YzN093eDNSRDl5ZUZoTlR6aV96YVZNTTlfbGRuclNzWmNYeEpwS3V2REtGUy1JX3p1U0p4TkRGTF9DWWFCd0c2Uk1DNG5FcE1lVHFPdHRSZFBUYjVNb3hPbXRHYzM5dkRXN1FRdWFyRURRQnpuVkdjWnNsZXZqdnBYLWJIaHh2bjhJOVk0Qk9NeGdOU2JVaGlKU0ZOVmhBZEhpWDUwUFZtck9rWWlEcVF6cFpaTXRoaQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hPWVM4M0syRW5CMnpRSDV5azdnM0FkbkdEMmcxX2NDbzFrZDdEMEY4ajY5VXJhM013NGdUc25JRnpaMk9TV1c1OVdJTkFhZTZWN2lyamxiS3NtMjZlcTBTMklLZURiaFhsSXdObVg2Y3ROdkJ2SVZacGtnVGJjWElOLUtacGtwNGJZYW5nb1pHMG9DblNrTkdPLWp0bjVmUHNkWXBoa3loQ2lYcWlVZHFlSVprZDg?oc=5" target="_blank">Soccer Taiwan criticises China's 'irrelevant' World Cup viewing offer</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNallfM2YzN093eDNSRDl5ZUZoTlR6aV96YVZNTTlfbGRuclNzWmNYeEpwS3V2REtGUy1JX3p1U0p4TkRGTF9DWWFCd0c2Uk1DNG5FcE1lVHFPdHRSZFBUYjVNb3hPbXRHYzM5dkRXN1FRdWFyRURRQnpuVkdjWnNsZXZqdnBYLWJIaHh2bjhJOVk0Qk9NeGdOU2JVaGlKU0ZOVmhBZEhpWDUwUFZtck9rWWlEcVF6cFpaTXRoaQ?oc=5" target="_blank">UK to provide 150,000 drones to Ukraine as part of $996 million package</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
