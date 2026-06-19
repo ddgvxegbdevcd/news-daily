@@ -1,56 +1,66 @@
 {
-  "update_time": "2026-06-19 04:59:44",
+  "update_time": "2026-06-19 15:32:27",
   "news_count": 20,
   "news": [
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Supertankers With 80 Million Barrels of Oil Ready to Pass Hormuz",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/supertankers-with-80-million-barrels-of-oil-ready-to-pass-hormuz",
-      "publish_time": "Fri, 19 Jun 2026 04:45:01 GMT",
-      "summary": "Supertankers laden with almost 80 million barrels of oil are sitting in the Persian Gulf and ready to cross the Strait of Hormuz at a moment’s notice, if traders and shipowners give the go-ahead.",
+      "title": "Ghana Is Weighing Local Control of Gold Fields’ Biggest Mine",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/ghana-is-weighing-local-control-of-gold-fields-biggest-mine",
+      "publish_time": "Fri, 19 Jun 2026 08:19:04 GMT",
+      "summary": "Ghana is considering transferring control of Gold Fields Ltd.’s Tarkwa mine to local firms when its leases expire in April, part of a push to increase control of its gold industry and benefit more from high bullion prices. The company’s shares plunged.",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Stocks Retreat, Dollar Gains as Traders Shun Risk: Markets Wrap",
+      "title": "Vitol Won Emergency Zambia Fuel Deal That Drew IMF Scrutiny",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/vitol-won-emergency-zambia-fuel-supply-deal-that-imf-questioned",
+      "publish_time": "Fri, 19 Jun 2026 12:09:43 GMT",
+      "summary": "Vitol Group is supplying diesel to Zambia via exclusive access to a pipeline that lasts through September, in an emergency arrangement the International Monetary Fund has urged authorities to end.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "UK Bonds Fall as Burnham Win Leaves Markets Speculating on Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/uk-bonds-fall-as-burnham-win-oil-prices-renew-fiscal-concerns",
+      "publish_time": "Fri, 19 Jun 2026 07:36:09 GMT",
+      "summary": "The UK’s government bonds fell after Andy Burnham’s victory in a special election renewed political uncertainty, prompting investors to demand a higher premium to hold the country’s debt.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Absa to Lift Kenya Unit Stake to 85% in $239 Million Tender",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/absa-to-lift-kenya-unit-stake-to-85-in-239-million-tender",
+      "publish_time": "Thu, 18 Jun 2026 17:29:11 GMT",
+      "summary": "South Africa’s Absa Group Ltd. plans to raise its stake in its Kenyan unit to 85% through a $238.7 million tender offer, underscoring its confidence in East Africa’s growth prospects.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-06-18/asian-stocks-to-rise-as-us-iran-deal-lifts-mood-markets-wrap",
       "publish_time": "Thu, 18 Jun 2026 22:05:20 GMT",
-      "summary": "Global stocks fell in holiday-thinned trading as investors weighed whether a 60-day diplomatic push between the US and Iran could yield a nuclear accord and a more durable peace agreement.",
+      "summary": "Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.",
       "content": "",
       "content_length": 0
     },
     {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Indonesia Widens Probe to Foundations Tied to Free-Meal Kitchens",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/indonesia-widens-probe-to-foundations-tied-to-free-meal-kitchens",
-      "publish_time": "Fri, 19 Jun 2026 04:28:01 GMT",
-      "summary": "Indonesia expanded its corruption probe into President Prabowo Subianto’s flagship, $15-billion free-meals program into foundations involved in the nationwide rollout of kitchens.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Labour's Andy Burnham Wins UK Seat",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-19/labour-s-andy-burnham-wins-uk-seat",
-      "publish_time": "Fri, 19 Jun 2026 04:15:21 GMT",
-      "summary": "Andy Burnham has won a historic contest for an open UK parliamentary seat, paving the way for the Greater Manchester mayor to challenge Prime Minister Keir Starmer for his job. (Source: Bloomberg)",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "India Seen Making Slow Return to Mideast Oil as Hormuz Reopens",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/india-seen-making-slow-return-to-mideast-oil-as-hormuz-reopens",
-      "publish_time": "Fri, 19 Jun 2026 04:11:12 GMT",
-      "summary": "India’s state-run refiners have already secured enough crude for the next two months and are in no rush to resume purchases from the Middle East even if the Strait of Hormuz reopens to commercial traffic.",
-      "content": "",
-      "content_length": 0
+      "source": "CNBC",
+      "source_cn": "CNBC",
+      "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
+      "url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
+      "publish_time": "Fri, 19 Jun 2026 11:00:01 GMT",
+      "summary": "Shanghai Disneyland hit 100 million cumulative visitors in 2025, according to the company. It's a relatively new but important foothold in Disney's history.",
+      "content": "Spend a day at Shanghai Disneyland and you wouldn't know Chinese consumers are struggling.\nWang Jiandong and his girlfriend Yan Xu said they have been skipping meals out and scrimping on day-to-day necessities so they could afford to enjoy the park.\n\"We save in our daily lives so we can spend more on trips,\" Wang explained while taking photos with Yan in front of Disney's iconic castle. \"This is a romantic place.\"\nShanghai Disneyland celebrated its 10th anniversary this week, with former Disney CEO Bob Iger flying in for the festivities.\n\"I'm feeling filled with pride really,\" Iger told CNBC during an interview at the park. \"I've been involved in this project from the very beginning in the late '90s.\"\nIger said the occasion carried extra significance \"knowing not only how successful it's been, but really how important it is in many respects, not just to the Walt Disney Co. but to the people of China.\"\nShanghai Disneyland hit 100 million cumulative visitors in 2025, according to the company. It's a relatively new but important foothold in Disney's more than 100-year history.\nDisney's experiences division, which includes its theme parks, resorts, cruises and merchandise, reported nearly $9.5 billion in revenue during the company's most recent quarter, ended in March, a 7% increase year over year. The division is the second largest at Disney's, accounting for almost 40% of the company's overall revenue and nearly 60% of its operating income.\nWhile Disney executives have noted recent softness in international visitors to the company's U.S. parks, its outposts in other countries are faring better.\nAccording to the Themed Entertainment Association, which tracks global theme park data, the Shanghai park attracted 14.7 million visitors in 2024 — a 5% year-on-year increase — making it the fifth most-visited theme park in the world behind Disney parks in Orlando, Florida; Anaheim, California; and Tokyo as well as Universal Studios Japan.\nUnder newly appointed CEO Josh D'Amaro, Disney is eyeing further global expansion, with a new cruise ship berthed in Singapore and a forthcoming park and resort in Abu Dhabi, United Arab Emirates. The company announced a 10-year, $60 billion investment into its parks in 2023.\n\"Because of the available property and because of the properties, the intellectual property that Disney has, the opportunities to expand are limitless,\" Iger told CNBC this week. \"As long as the business is successful, which it has been, there is no reason why it won't continue to expand over time.\"\nIger, who stepped down from his second stint as CEO in March and is still a member of its board of directors, declined to comment on reports that Disney is considering another theme park for China.\nA cautious Chinese consumer\nShanghai Disneyland is bucking a bigger trend in China: consumption broadly is poor.\nRetail sales dropped in May for the first time in three years. Car sales are down by double digits. People are downgrading their consumption, but they haven't cut back altogether.\n\"Young people in China today are not refusing to consume. Rather, they care more about 'value for money,'\" Lin Huanjie, president of the Institute for Theme Park Studies in China, said in written comments to CNBC.\n\"If a Disney trip delivers strong memories, compelling social content, and high emotional value, they are still willing to pay,\" Lin said. \"If it is just an ordinary visit, they will tighten their budgets. The popularity of characters like LinaBell in China also shows that young consumers, even under economic pressure, are still willing to pay for emotionally comforting consumption.\"\nUniversity student Smile Wei is one such parkgoer.\nWei traveled with a friend for a vacation to Shanghai and told CNBC their budget was 5,000 yuan ($735) for the five-day trip. They already spent a fifth of that at the park, Wei said.\n\"My friend and I planned to book a hotel room with two beds,\" Wei said. \"But we downsized to a single to buy more souvenirs here.\"\nShanghai resident Wang Lu told CNBC she specifically wanted to be at the park on June 16.\n\"It's both my birthday and the park's 10th anniversary,\" she said. \"There is nowhere else I would rather spend this special day.\"",
+      "content_length": 4217
     },
     {
       "source": "CNBC",
@@ -93,14 +103,44 @@
       "content_length": 3190
     },
     {
-      "source": "CNBC",
-      "source_cn": "CNBC",
-      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
-      "url": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
-      "publish_time": "Wed, 17 Jun 2026 21:20:34 GMT",
-      "summary": "JetBlue is planning to cut some employee bases at Newark Liberty International Airport in New Jersey and tech bases at New York's LaGuardia Airport.",
-      "content": "JetBlue Airways told CNBC on Wednesday that it will close its flight attendant base at Newark Liberty International Airport in New Jersey and tech operations bases there and at LaGuardia Airport in New York this fall as it seeks to reduce costs and beef up service in Fort Lauderdale, Florida, though it noted that no staff will lose their jobs.\nJetBlue said it is ending seasonal service between Newark and Los Angeles and Las Vegas. It said staff could bid or transfer to other bases.\n\"We're operating in a fast-changing landscape where competitors are constantly adding, reducing and shifting flying in response to market conditions,\" JetBlue President Marty St. George and COO Warren Christie said in a staff note, which was seen by CNBC. \"We have to be just as agile, entering markets where we see opportunity and exiting those that no longer support our long-term goals. Standing still while competitors make moves isn't an option.\"\nThe airline is already the top carrier at Fort Lauderdale, though it was previously second to Spirit Airlines, the South Florida-based discounter that collapsed on May 2. Competitors have also added service to the region.\nJetBlue earlier Wednesday said it would expand daily, cross-country flights with its lie-flat business class, Mint, from Fort Lauderdale, Florida, to San Diego on Nov. 19 and will add more Mint-equipped flights this winter to San Francisco and Los Angeles.\nThat will include up to eight daily Fort Lauderdale to Los Angeles flights and three a day to San Francisco.\nJetBlue has spent years trimming unprofitable routes and cutting costs to return to steady profitability. Its last profitable quarter was two years ago, and the Fort Lauderdale-Hollywood International Airport push is a big part of its strategy, St. George told CNBC earlier this month. The airline is scouting space for a high-end airport lounge there, too, he said.\nMint-equipped planes are lucrative and those seats carry a big premium. A one-way Mint seat from Fort Lauderdale to Los Angeles on Jan. 10 topped $3,000 and went as high as $4,522 while a basic coach ticket on that route was going for as little as $244.\nThe JetBlue executives told staff Wednesday that they know the Newark reductions raise questions about their plans at LaGuardia Airport, where JetBlue's one-time acquisition target, Spirit, operated out of the Marine Air Terminal until it shut down.\n\"Any future opportunities that could come from the LGA slot auction process remain uncertain and would take time to develop,\" they said. \"We must make decisions based on the operation we know we will fly, not on potential outcomes that may or may not materialize in the future.\"\nJetBlue executives have called out the high costs of operating at airports like LaGuardia.\n\"We are much, much smaller at LaGuardia than we were four years ago because it's a $40 [enplanement fee] airport for us. And the fountain is really pretty, but ... I think people would rather have low fares than a really nice fountain,\" St. George said at a JPMorgan industry conference in March, referring to the 25-foot-tall water feature in the airport's Terminal B.\nThe Port Authority of New York and New Jersey, which operates LaGuardia and Newark airports, did not immediately comment.",
-      "content_length": 3259
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmZGTkd6eUlGT3g0XzJxdzhOa2M2LTI3X01tQXk2RjUydjYzNllCcnZUTkE3TDJCLTZfanpBaEIwa19kMW9WT21KeWs1MlM1T2FuMGJsZ0lxbzhseExTR3dDSkNCeDFKbzNwN2FUenV1V1ZkSktqMVFFWnc0ODllNEE4LUY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 08:59:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmZGTkd6eUlGT3g0XzJxdzhOa2M2LTI3X01tQXk2RjUydjYzNllCcnZUTkE3TDJCLTZfanpBaEIwa19kMW9WT21KeWs1MlM1T2FuMGJsZ0lxbzhseExTR3dDSkNCeDFKbzNwN2FUenV1V1ZkSktqMVFFWnc0ODllNEE4LUY?oc=5\" target=\"_blank\">Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Israel and Hizbollah agree ceasefire, says US official - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOVRzYXN3dDBVNV95OTg0NERibjFDbXZzOTUzR1hLMjNydWNSdlFhSEV4S0JDUnJlbG5mcHRLTWhTLXZVZGxsVFhyZ09pdHhOSVFEdGt1dXNhVUlVOGZ0Rjlwa2ZxcU40TjhwLUpSQWE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 13:11:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOVRzYXN3dDBVNV95OTg0NERibjFDbXZzOTUzR1hLMjNydWNSdlFhSEV4S0JDUnJlbG5mcHRLTWhTLXZVZGxsVFhyZ09pdHhOSVFEdGt1dXNhVUlVOGZ0Rjlwa2ZxcU40TjhwLUpSQWE?oc=5\" target=\"_blank\">Israel and Hizbollah agree ceasefire, says US official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlVanBsbzA2N1NHUGc1QkQtM0U0N0t1eEthbXhRNTdtbmlFQmRFY0hpd2VLcElUUzdsU2VVRFNhSXZDVnBVVVBqUFlhaXZpaUJONDNvdTJ2dTVyN2RFNkJ6QlJwc3ppanh6dnNqWGRxT2tNM0xnYlA5cEdxejRpT3dJbmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 04:02:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlVanBsbzA2N1NHUGc1QkQtM0U0N0t1eEthbXhRNTdtbmlFQmRFY0hpd2VLcElUUzdsU2VVRFNhSXZDVnBVVVBqUFlhaXZpaUJONDNvdTJ2dTVyN2RFNkJ6QlJwc3ppanh6dnNqWGRxT2tNM0xnYlA5cEdxejRpT3dJbmM?oc=5\" target=\"_blank\">‘We created a monster’: companies rein in AI usage as costs strain budgets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "EU set to remove barriers to banks’ cross-border capital flows - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmt0MkZWeF94S3VFRTE3UVNCZzdmb1R2aEVLQ0tvWkJkRnZiRk9XRms1eTY2ekpocVVEM1U1SHc1WHVFdWJ1cWNYRm95dmZqVkdrc0FLOEZaaWZWZDBWUUNxZ1VmM18wU3VhaEhBbVpFZDFGTF9yamw4VFhuaXBhSHZodjI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 18 Jun 2026 22:04:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmt0MkZWeF94S3VFRTE3UVNCZzdmb1R2aEVLQ0tvWkJkRnZiRk9XRms1eTY2ekpocVVEM1U1SHc1WHVFdWJ1cWNYRm95dmZqVkdrc0FLOEZaaWZWZDBWUUNxZ1VmM18wU3VhaEhBbVpFZDFGTF9yamw4VFhuaXBhSHZodjI?oc=5\" target=\"_blank\">EU set to remove barriers to banks’ cross-border capital flows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
     },
     {
       "source": "Financial Times",
@@ -113,92 +153,52 @@
       "content_length": 0
     },
     {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "The world may not like Trump’s Gaza plan — but there is no alternative - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZDdOLWhVS0hQOUtlQ0YxYndMam85cFdVVHU1UmR3ekp1RjVyR3hjT2c0Yjg1azczdVlOaHZqankwT1h6d2I1ZEZJamhwcWFPU0k3RW5naVBFM3k5b1BtWGZxX2kwcEtHSUVQazVvbXk?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 17:00:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZDdOLWhVS0hQOUtlQ0YxYndMam85cFdVVHU1UmR3ekp1RjVyR3hjT2c0Yjg1azczdVlOaHZqankwT1h6d2I1ZEZJamhwcWFPU0k3RW5naVBFM3k5b1BtWGZxX2kwcEtHSUVQazVvbXk?oc=5\" target=\"_blank\">The world may not like Trump’s Gaza plan — but there is no alternative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Accenture shares fall to lowest since 2017 as AI threat mounts - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2JndFhuY2lNeWIydWp4cVFnQVlhbzd6UEwySmNvd1NaZG1rU0ItQ2I2am1ZMUhOMDhUVk5PaDJsNUJ2dXVfSzVmbC1NS1l3Nlg2R3RqX3hPWHhMZnVuSTB6ckNtd2JDY01VbjVNVUtrRVdzOTdGUzJUN01xcldDaHdFU3A?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 11:49:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2JndFhuY2lNeWIydWp4cVFnQVlhbzd6UEwySmNvd1NaZG1rU0ItQ2I2am1ZMUhOMDhUVk5PaDJsNUJ2dXVfSzVmbC1NS1l3Nlg2R3RqX3hPWHhMZnVuSTB6ckNtd2JDY01VbjVNVUtrRVdzOTdGUzJUN01xcldDaHdFU3A?oc=5\" target=\"_blank\">Accenture shares fall to lowest since 2017 as AI threat mounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Pete Hegseth unveils six-month review of US military presence in Europe - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzBzUEFhVzhPVFlzZ3JtdTNjNWE1cFhQejFiN0dad3h2UWZuV2VSYm44R3Bnc1BtSUVNZ1FFWDZHV3NGUTVES3l6NjhpODhXQVFNWHdWanZGRkJFeU1lNGNENTRwV1JiY3MteXRLZ1g1bDFmS0h0WDlQUHJGNWhsQzRXbW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 11:17:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONzBzUEFhVzhPVFlzZ3JtdTNjNWE1cFhQejFiN0dad3h2UWZuV2VSYm44R3Bnc1BtSUVNZ1FFWDZHV3NGUTVES3l6NjhpODhXQVFNWHdWanZGRkJFeU1lNGNENTRwV1JiY3MteXRLZ1g1bDFmS0h0WDlQUHJGNWhsQzRXbW8?oc=5\" target=\"_blank\">Pete Hegseth unveils six-month review of US military presence in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Netanyahu and Modi: the making of an unlikely alliance - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVBFYzBuNWtGTFBwbDZHakV5bFQwREpYenh3anMyWVo1Y3lBalBlX0V1d3VBbGhBQWF5b0hFTFllZGlQcFBtS0lYeFRTakVqRGo1ZXpadkY5UDdoTHpjZFZxeExqeFREM3ZwOG51Sk1IbFN4WEtqRHh5WFY3eDJhWV9TOHI?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 04:01:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVBFYzBuNWtGTFBwbDZHakV5bFQwREpYenh3anMyWVo1Y3lBalBlX0V1d3VBbGhBQWF5b0hFTFllZGlQcFBtS0lYeFRTakVqRGo1ZXpadkY5UDdoTHpjZFZxeExqeFREM3ZwOG51Sk1IbFN4WEtqRHh5WFY3eDJhWV9TOHI?oc=5\" target=\"_blank\">Netanyahu and Modi: the making of an unlikely alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Israel, Hezbollah agree to ceasefire starting on Friday -U.S. official - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVlqdUp2WDdfZkNqcDlJbkVnTTh5aTZITlJaYkVUd0NEQl81b3ZodFZleFV3em5mRldLdWUySURpd2N5ZGlQREdRWDlUcUZCVHdmQnhNN3VvS21NRDFuQmZMb3UtSEFSaHY2YVlxV2NkMGRQVTA4SllfczlrVGVCaE1ibkhXNmlsZl9xQlcwTG1vYXRIQmp4bFpoZkFkZDNRTk9KdDlsbGg3NWs5cFFoVUk0NWZZUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 13:18:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVlqdUp2WDdfZkNqcDlJbkVnTTh5aTZITlJaYkVUd0NEQl81b3ZodFZleFV3em5mRldLdWUySURpd2N5ZGlQREdRWDlUcUZCVHdmQnhNN3VvS21NRDFuQmZMb3UtSEFSaHY2YVlxV2NkMGRQVTA4SllfczlrVGVCaE1ibkhXNmlsZl9xQlcwTG1vYXRIQmp4bFpoZkFkZDNRTk9KdDlsbGg3NWs5cFFoVUk0NWZZUQ?oc=5\" target=\"_blank\">Israel, Hezbollah agree to ceasefire starting on Friday -U.S. official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Oil falls as supply starts moving through Strait of Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Fri, 19 Jun 2026 02:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5\" target=\"_blank\">Oil falls as supply starts moving through Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "For Vance, Iran talks could shape political rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 13:47:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5\" target=\"_blank\">For Vance, Iran talks could shape political rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "US tells ASML it's concerned one of its chipmaking tools may be in China, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQllteEt4Z3JReDBDS3Y0M1JlWVM1TGE0ZTRzNnNzdXdmaFZkYk44NVNTU2paWC1ULU9oNERFUC12cE9rYk00STF5eFV6cDFSbW5FdVcxc0F0TElTZ2pmVkU1WERPM1c4RlBteGxFTDRkM3d2X05JOHYxWHVDdFJTT1lkV1V3bHlqWlozRFFEZktOcm9PRmVIWVVBbXZ2QUNYc1VsN0ZSUldFQ2JvRVZaVHlVWW9rY3JKMjhlaHFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Fri, 19 Jun 2026 01:12:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNQllteEt4Z3JReDBDS3Y0M1JlWVM1TGE0ZTRzNnNzdXdmaFZkYk44NVNTU2paWC1ULU9oNERFUC12cE9rYk00STF5eFV6cDFSbW5FdVcxc0F0TElTZ2pmVkU1WERPM1c4RlBteGxFTDRkM3d2X05JOHYxWHVDdFJTT1lkV1V3bHlqWlozRFFEZktOcm9PRmVIWVVBbXZ2QUNYc1VsN0ZSUldFQ2JvRVZaVHlVWW9rY3JKMjhlaHFB?oc=5\" target=\"_blank\">US tells ASML it's concerned one of its chipmaking tools may be in China, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzhVeU1xWmpmQWhzWkRoZHI0N2prXzRuV2ZWZkNYZDBrVjhlZlZkdEpCUFlreDRvV01MTVpwVmpvNmozUFktaGdrV2FuektZcFY4ZUptZS00U3R6cklqQkpKUDdZS01kYTJtSWs0U2djSEgwM3BBYjc0NTRWWHBQUjJBNTBLdjRrdTVhX0d6eS1rcjlzcFQ0VUpXZ01tWVZSeFFacy1sQXlwTDJ3bVVxemxQQU83ZUtROW1aNVBYWXBDenk4YUJDTThhNHJMODVy?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 11:53:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzhVeU1xWmpmQWhzWkRoZHI0N2prXzRuV2ZWZkNYZDBrVjhlZlZkdEpCUFlreDRvV01MTVpwVmpvNmozUFktaGdrV2FuektZcFY4ZUptZS00U3R6cklqQkpKUDdZS01kYTJtSWs0U2djSEgwM3BBYjc0NTRWWHBQUjJBNTBLdjRrdTVhX0d6eS1rcjlzcFQ0VUpXZ01tWVZSeFFacy1sQXlwTDJ3bVVxemxQQU83ZUtROW1aNVBYWXBDenk4YUJDTThhNHJMODVy?oc=5\" target=\"_blank\">Italy's Meloni says Trump 'totally invented' story that she begged him for photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Mangione, accused CEO killer, withdraws mental health defense plans for now - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLU1OaG9MbTVsRDEwZ0RyQ1gxQ2wyLW03aGVPb2JDcnJDOG51eno2SWVIaGg1bkR3NkVMak9uVWtJSE9ZR092QVRsSDhfQmlVSkVLRmRLOE53R2NRaUlMOGZsMHJldXFNSl9jb3lnczdVNFFVb0lnUEg2SEQwQTRYWXVTODRLNV9ZU1ZTbnFTSkFTbDU2djk4TmFBXzVybE11OW1fZG5nZlMzN3V4cXAwN09XSWU?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 23:52:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLU1OaG9MbTVsRDEwZ0RyQ1gxQ2wyLW03aGVPb2JDcnJDOG51eno2SWVIaGg1bkR3NkVMak9uVWtJSE9ZR092QVRsSDhfQmlVSkVLRmRLOE53R2NRaUlMOGZsMHJldXFNSl9jb3lnczdVNFFVb0lnUEg2SEQwQTRYWXVTODRLNV9ZU1ZTbnFTSkFTbDU2djk4TmFBXzVybE11OW1fZG5nZlMzN3V4cXAwN09XSWU?oc=5\" target=\"_blank\">Mangione, accused CEO killer, withdraws mental health defense plans for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Russia tells Europe: Yes to talks, no to ultimatums - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNU9WQ1BtUTI3UktJT2VIVDZvODJ5U3ViNlZtbW9JNDh6TjJOZnY1WmdZdlNpSWVZT2lCMnVEbm9GTjBWZzhsWGVScXUtd0ZvbEVEd09HTXNrc0ppbm90a2ZvYlBfd2ZpRk9lb3g2MXc5WkRLVnNMMjhlZVlYSklfaDEwYTJNdy1oX3ZtRXJVRG85RkxXN3Zv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 11:42:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNU9WQ1BtUTI3UktJT2VIVDZvODJ5U3ViNlZtbW9JNDh6TjJOZnY1WmdZdlNpSWVZT2lCMnVEbm9GTjBWZzhsWGVScXUtd0ZvbEVEd09HTXNrc0ppbm90a2ZvYlBfd2ZpRk9lb3g2MXc5WkRLVnNMMjhlZVlYSklfaDEwYTJNdy1oX3ZtRXJVRG85RkxXN3Zv?oc=5\" target=\"_blank\">Russia tells Europe: Yes to talks, no to ultimatums</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Yen teeters near 40-year low as BOJ hike fails to stem rout - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3R3dDYza1RSMXJDQ1NSLWRjaEthY0FzVDVIN1VXRlE2SnNmeENBNURzWXhOYVk2Y0Nrc1VIY1YyZ3RDbmtCcFFEZGFQQ0lSOUhGcEdMZGJHNkFSdFpQMklqOHpLenBkZVQ3RWMtY2IzSW1TWG0tMkRmZGF6bGZpbERFNk5EbnpOdEVfMzNBZjZRMHNKekJ1U1N0akhNRTE1Q3YteXhOazFOdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Fri, 19 Jun 2026 03:11:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3R3dDYza1RSMXJDQ1NSLWRjaEthY0FzVDVIN1VXRlE2SnNmeENBNURzWXhOYVk2Y0Nrc1VIY1YyZ3RDbmtCcFFEZGFQQ0lSOUhGcEdMZGJHNkFSdFpQMklqOHpLenBkZVQ3RWMtY2IzSW1TWG0tMkRmZGF6bGZpbERFNk5EbnpOdEVfMzNBZjZRMHNKekJ1U1N0akhNRTE1Q3YteXhOazFOdw?oc=5\" target=\"_blank\">Yen teeters near 40-year low as BOJ hike fails to stem rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Reuters",
-      "source_cn": "路透社",
-      "title": "The paint is already peeling in Trump's renovated Washington Reflecting Pool - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExLTTVSLW0tVXRLNlEwRENxMjNPNEFpQ0dvMnhFNEdhcUxsSVdhaWZ6Zm81Y19JTGJpN2lWd3Rtd2haOG01M2I0VFpOV1FGRDdBSmt5ME1uY1NORHVOdFBXb0ZyOXpRYkI1enJuT29ob1ZNM2JOOWlMRndNRk5walB2Rm1IVlI2bjVtcnF0dDFXZzhDZW9xYnJrTnRxSExuczltVUZvblRaQkFzdVBiMDVOMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Thu, 18 Jun 2026 23:59:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExLTTVSLW0tVXRLNlEwRENxMjNPNEFpQ0dvMnhFNEdhcUxsSVdhaWZ6Zm81Y19JTGJpN2lWd3Rtd2haOG01M2I0VFpOV1FGRDdBSmt5ME1uY1NORHVOdFBXb0ZyOXpRYkI1enJuT29ob1ZNM2JOOWlMRndNRk5walB2Rm1IVlI2bjVtcnF0dDFXZzhDZW9xYnJrTnRxSExuczltVUZvblRaQkFzdVBiMDVOMA?oc=5\" target=\"_blank\">The paint is already peeling in Trump's renovated Washington Reflecting Pool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "EXCLUSIVE: White House delays release of US voting machine study as midterms near - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdKZTh6WVhBclJwYXlNZ3NUNkZoTlpldEt1TGlpZzZMdjNzeGZaQUdXWXZPaHNUcloxRWhxY1N4anNvUUkxOUZtaTdkY2Z5RDhoRmh6enlCMXIzdHdta0FVb09RNTgzLVhtTlNaeXRENmtBZ1NYSU1SV3B0cmZaZndQUUV5WkdQNGlDYW9GMmhiakV3bGN4OXZZakZCTHpaYTBzWnNCeEptZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 19 Jun 2026 10:31:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdKZTh6WVhBclJwYXlNZ3NUNkZoTlpldEt1TGlpZzZMdjNzeGZaQUdXWXZPaHNUcloxRWhxY1N4anNvUUkxOUZtaTdkY2Z5RDhoRmh6enlCMXIzdHdta0FVb09RNTgzLVhtTlNaeXRENmtBZ1NYSU1SV3B0cmZaZndQUUV5WkdQNGlDYW9GMmhiakV3bGN4OXZZakZCTHpaYTBzWnNCeEptZw?oc=5\" target=\"_blank\">EXCLUSIVE: White House delays release of US voting machine study as midterms near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     }
