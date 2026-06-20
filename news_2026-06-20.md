@@ -1,68 +1,114 @@
 # 每日财经新闻
 
-更新时间：2026-06-20 04:12:49
+更新时间：2026-06-20 14:16:24
 
-## Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak
+## MOU Gives US and Iran Breathing Room
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-20/australia-detects-h5-bird-flu-as-virus-reaches-every-continent
+链接：https://www.bloomberg.com/news/videos/2026-06-20/mou-gives-us-and-iran-breathing-room-video
 
 正文长度：0
 
-摘要：Australia reported its first mainland case of H5 bird flu, marking the spread of the deadly virus to every continent on the planet.
+摘要：Georgetown University School of Foreign Service Adjunct Professor Ali Vaez joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains his cautious optimism for the recent Memorandum of Understanding (MOU) involving the US, Israel, and Iran. While Vaez acknowledges a deal within the 60 day timeframe is unlikely, the MOU allows for that timeframe to be extended and should be viewed as a starting place. (Source: Bloomberg)
 
 
 ---
 
-## Value Investing Legend Seth Klarman: Masters in Business
+## SpaceX IPO Sparks Anticipation for OpenAI and Anthropic
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-19/value-investing-legend-seth-klarman-masters-in-business-video
+链接：https://www.bloomberg.com/news/videos/2026-06-20/spacex-ipo-sparks-anticipation-for-openai-and-anthropic-video
 
 正文长度：0
 
-摘要：Barry sits down with Munger disciple Seth Klarman, CEO of Baupost Group, a Boston-based investment manager with a multi-strategy approach. They discuss Seth's start as a 25 year-old and journey to CEO. They also discuss his approach to risk, IPOs, and sectors along with his sports passions including a smaller ownership in the Boston Red Sox, horse racing, and his feelings about the Boston Celtics' 2026 season. (Source: Bloomberg)
+摘要：The capital influx from the SpaceX IPO, which ended its first week of trading up 37% from its IPO price, highlights strong investor enthusiasm. Bloomberg Radio host of "Masters in Business" Barry Ritholtz comes on Bloomberg This Weekend to discuss the potential impact of this enthusiasm on the upcoming IPOs of OpenAI and Anthropic, expected to go public in the near future. (Source: Bloomberg)
 
 
 ---
 
-## 米イラン和平合意、日銀1％に利上げ、東証終値で初の7万円台に─1週間のニュース5選
+## Burnham May Yet Rewrite UK Fiscal Playbook If He Becomes PM
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/jp/news/newsletters/2026-06-19/TGWD01KGZB4S00
+链接：https://www.bloomberg.com/news/articles/2026-06-20/burnham-may-yet-rewrite-uk-fiscal-rules-if-he-becomes-premier
 
 正文长度：0
 
-摘要：国際政治もマーケットも新たな局面へ踏み出した1週間。五つのニュースを厳選して振り返ります。
+摘要：After Andy Burnham took a giant leap toward becoming the UK’s next leader, focus is turning to how the team he’s assembling could shape the country’s economic policies.
 
 
 ---
 
-## Latin American FX Edge Higher With Markets in ‘Holding Pattern’
+## Fed Governor Bowman Spoke at Private Dinner After Policy Meeting
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-19/emerging-equities-touch-record-high-as-iran-deal-takes-effect
+链接：https://www.bloomberg.com/news/articles/2026-06-20/fed-s-bowman-attended-private-dinner-during-quietblackout-window
 
 正文长度：0
 
-摘要：Most Latin American currencies advanced in a quiet session for global markets amid holidays in the US and parts of Asia, leaving assets in a holding pattern as traders await fresh news out of the Middle East.
+摘要：Michelle Bowman, the Federal Reserve’s vice chair for supervision, spoke at a private dinner in New York hours after attending the central bank’s policy meeting, the Wall Street Journal reported, a period when officials are restricted from commenting on monetary policy.
 
 
 ---
 
-## Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap
+## Trump Seeks Iran Offramp
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-18/asian-stocks-to-rise-as-us-iran-deal-lifts-mood-markets-wrap
+链接：https://www.bloomberg.com/news/videos/2026-06-20/trump-seeks-iran-offramp-video
 
 正文长度：0
 
-摘要：Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.
+摘要：President and Founder of Eurasia Group and GZERO Media Ian Bremmer joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss how in the face of the United States failing to achieve any of the war goals given at the beginning of the conflict, President Trump is looking to put Iran behind him. (Source: Bloomberg)
+
+
+---
+
+## SNAP restrictions could change what shoppers buy — and food giants are watching
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html
+
+正文长度：5522
+
+摘要：SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The growing push to restrict Americans from using federal food aid to buy certain processed or sugary products is creating a new challenge for some of the biggest U.S. food and beverage companies.
+The U.S. Department of Agriculture as of May had approved food restriction waivers for Supplemental Nutrition Assistance Program benefits in 23 states, affecting roughly one-third of all SNAP participants, according to Numerator. The research firm estimates the restrictions could reduce food and beverage sales by as much as $830 million this year as consumers either shift spending to approved products or cut back overall.
+Kroger CEO Greg Foran said on the company's first-quarter earnings call on Thursday that customers remain under pressure in part due to reduced SNAP benefits, as well as higher gas prices, "squeezing budgets."
+"Customers are managing spend carefully and shopping with real intent," Foran said.
+Most waivers focus on limiting consumption of sugar-sweetened beverages and confectionery products, signaling a targeted approach rather than broad food restrictions. As the movement spreads, it's forcing major packaged food companies to monitor shopper behavior and assess whether they need to remake product lines — though many of them have already been changing what they offer after consumer habits shifted in recent years.
+Iowa recently became the first state to codify elements of the "Make America Healthy Again," or MAHA, movement into law, approving legislation that targets artificial food dyes, ultra-processed foods in school and purchases made through SNAP.
+"Altogether, this bill advances the health and wellness for every Iowan today and for generations to come," said Iowa Gov. Kim Reynolds when she signed the measure last month.
+She added the law helps "refocus federal food assistance programs on the actual purpose for which they were created: helping low-income families afford nutritious food."
+The law bans several synthetic dyes, including Red 40 and Yellow 5, from most K-12 school meals and vending machines, while also restricting SNAP recipients from using benefits to buy products such as soda and candy.
+Navigating the MAHA era
+Many food companies aren't waiting to see how policies evolve.
+At a Goldman Sachs conference in May, Hershey said it has researchers in Texas conducting in-store interviews with shoppers who receive SNAP benefits to understand how purchasing behavior is shifting under new restrictions in the state.
+"We've observed some consumer uncertainty at the register as new restrictions take effect," a Hershey spokesperson told CNBC. "We anticipate this will improve as store execution improves, rules become clearer, and SNAP users can plan and budget with more certainty."
+The company is studying everything from product substitutions to budget tradeoffs, offering an early glimpse into how major food manufacturers are preparing for a potentially significant shift in consumer demand.
+Many of the products most exposed to the changes are produced by some of the largest companies in the industry like Kraft Heinz, PepsiCo, Coca-Cola, General Mills, Nestle and others.
+J.M. Smucker CEO Mark Smucker, however, told CNBC he expects the SNAP policy changes to have a more muted impact.
+"I would say the current environment isn't really that different than what we've seen over time, and thus far some of the modifications have really had no meaningful impact to our business," he said.
+Still, the company's Hostess products like Twinkies and Donettes — the latter of which saw net sales grow 13% in the latest quarter, according to the company — may be impacted under broader state restrictions on "highly processed snacks."
+Current SNAP waivers in states like Texas focus primarily on candy and sugary drinks, not snack cakes. However, some states have proposed broader definitions that could eventually encompass packaged desserts and sweet baked goods.
+At the same time, fewer Americans are even receiving the benefits. One analysis estimates 3.5 million people have lost their SNAP aid since President Donald Trump last year signed a sweeping bill that restricts eligibility for SNAP, among other changes.
+Many U.S. households have found it harder to pay for groceries following the changes. The restrictions have also meant fewer dollars flowing to major businesses.
+Walmart is particularly exposed to SNAP spending, capturing roughly a quarter of all SNAP grocery dollars nationwide, according to Numerator. Kroger, Costco and Amazon follow at about 8%, 6% and 5%, respectively.
+The curbs on what consumers can buy with federal assistance are only one shift food companies are watching.
+At a hearing of the Senate Committee on Health, Education, Labor and Pensions in April, Health and Human Services Secretary Robert F. Kennedy Jr. went as far as to say he "would support" a ban on junk-food television advertising. The department has not yet taken steps to introduce such a ban.
+Responding both to Kennedy's MAHA initiative and shifting consumer tastes, food manufacturers have also accelerated efforts to reformulate products and reduce synthetic ingredients in products like Kool-Aid, Fanta, Doritos and Flamin' Hot Cheetos, which contain dyes like Red 40 and Yellow 5.
+General Mills, Kraft Heinz and Target have all pledged to phase out certain artificial colors and additives by 2027 or sooner.
+Nestle announced Monday it achieved its commitment on time to fully eliminate Food, Drug & Cosmetic colors from its U.S. food and beverage portfolio.
+
+</details>
 
 
 ---
@@ -219,37 +265,54 @@ Under the terms of the collaboration, Hollister and Target are working together 
 
 ---
 
-## CarMax shares fall after used car retailer reports earnings beats, CEO details turnaround plan
+## Harry Potter has ruined Britain - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/17/carmax-kmx-q1-earnings.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWRHYU5vMkJvckVKMGRpQ3dhbnNjMlQ3Q3FUNmZ4RTc0aE0wTlNkS012SEhHYVBjRDBzcFhVZEFoOEhRSHlxRUZaTkdUNnJ2aDFFbXFLM2RWQ1FUbEpXTFVhRVYtbmRSNk8zQk1OWGVKMEJUMG5HdGxSR3k1SHNlMzUwNGQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3190
+正文长度：0
 
-摘要：Despite the beats, questions remain about the company's ability to grow and cut costs under the plan amid tougher market conditions, including margin pressure.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWRHYU5vMkJvckVKMGRpQ3dhbnNjMlQ3Q3FUNmZ4RTc0aE0wTlNkS012SEhHYVBjRDBzcFhVZEFoOEhRSHlxRUZaTkdUNnJ2aDFFbXFLM2RWQ1FUbEpXTFVhRVYtbmRSNk8zQk1OWGVKMEJUMG5HdGxSR3k1SHNlMzUwNGQ?oc=5" target="_blank">Harry Potter has ruined Britain</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Shares of CarMax fell 9% Wednesday after the company beat Wall Street's quarterly earnings expectations and its new CEO detailed a high-level turnaround strategy for the company.
-Here's how the company performed in its first fiscal quarter, compared with average estimates compiled by LSEG:
-- Earnings per share: $1.31 vs. 95 cents expected
-- Revenue: $8.01 billion vs. $7.42 billion expected
-Despite the beats, questions remain about the company's ability to grow and cut costs under the plan as it faces tougher market conditions. The used-vehicle retailer reported margin pressure and declining gross profit per retail used vehicle.
-CarMax's total gross profit was $854.4 million, down 4.4% compared with last year's first fiscal quarter. Retail used vehicle gross profit decreased 9.5% and retail gross profit per used unit was $2,177, down $230 from last year's all-time record, the company said. Its net revenue was up 6.2% compared with nearly $7.6 billion a year earlier.
-CarMax reported net earnings of $185.6 million, down 11.8% from $210.4 million in the same period last year.
-Shares of CarMax are still up roughly 25% this year, including a roughly 16% increase since Keith Barr, a former CEO of InterContinental Hotels Group, began leading the company on March 16.
-Barr said he will release more details of his plan — which is expected to take multiple years to execute — in late fall, but he noted that leadership is "super confident about it."
-"Our new strategy is focused on great offerings, easy experience, adding value, running lean, all of which, again, will drive sustainable long-term growth, which will create value for our shareholders," he told CNBC during an interview.
-Barr said he has spent his first three months at CarMax better learning the car business, understanding the company's operations and determining potential growth and cost-cutting areas, while aiming to streamline the car-buying processes for customers.
-"There's definitely significant opportunity for growth here by having a really integrated, growth-oriented strategy that leverages technology, that leverages our scale, that leverages our stores, that will provide sustainable growth, too," he said.
-His initial quick changes have included making tweaks to CarMax's website, such as showing monthly payments; implementing an artificial intelligence call agent service; and trying to better streamline a customer's experience from online to in-store.
-Barr was brought in following massive share declines that led to pressure for former CEO Bill Nash to step down in November.
-Shares of CarMax's largest competitor, Carvana, also were more than 7% lower during midday trading Wednesday, which coincided with the online vehicle retailer disclosing plans for its new franchised Stellantis stores. Carvana's plan includes using the franchise stores to service vehicles and offer test drives, but it will still exclusively sell its vehicles online, even if customers are at the stores.
-Barr declined to comment on Carvana's plans, but said CarMax has found the vast majority of its used-vehicle customers still like to visit stores and see the vehicle they're planning to purchase before doing so.
+---
 
-</details>
+## Best summer books of 2026: Roula Khalaf, Tim Harford and other FT journalists pick their favourites - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1hXzJOOTVyUVhHQTM2a0ZBUlBia2ZhNWNqZG4zdWJidWROVmlERThEWWFWenRKczhoMzhlUkpjbVB2cTBNb1Byb09xdE96X2c4M0FCcnVZM3VuT3diRDR2RG5BNmUtdjJCa3k4REZtelA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1hXzJOOTVyUVhHQTM2a0ZBUlBia2ZhNWNqZG4zdWJidWROVmlERThEWWFWenRKczhoMzhlUkpjbVB2cTBNb1Byb09xdE96X2c4M0FCcnVZM3VuT3diRDR2RG5BNmUtdjJCa3k4REZtelA?oc=5" target="_blank">Best summer books of 2026: Roula Khalaf, Tim Harford and other FT journalists pick their favourites</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## ChatGPT moved my cheese: AI is unsettling the self-help shelf - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEROVjBLZHlmRElXVkM5NHVsT0U1WHZUMlN2azlDMlhsVFVfMjE3dm12SGZHcjVPVGlRclpYOVFMbV9NeDd4WDJTRjA0bXEtVjgzekhvTFRyaURVSjJwSTB1dmhPU09Qb2VTdFNXc014ZnEyZVR2WjgyYlZJQmdKMENQejA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEROVjBLZHlmRElXVkM5NHVsT0U1WHZUMlN2azlDMlhsVFVfMjE3dm12SGZHcjVPVGlRclpYOVFMbV9NeDd4WDJTRjA0bXEtVjgzekhvTFRyaURVSjJwSTB1dmhPU09Qb2VTdFNXc014ZnEyZVR2WjgyYlZJQmdKMENQejA?oc=5" target="_blank">ChatGPT moved my cheese: AI is unsettling the self-help shelf</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Markets get the measure of Trump - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUl0ZFluN3NpSFRKRnNlYjFiZ2NtTW80X09QWUs2cXJpZE53dlZJTFc2MThZd0ktcTlwWV95dnJNSFNLNFZXLWJTOEk0SXFoSUhYRlotRE9aN2hpU3EyNXdBRDVqOHJlakJYUzQzQ25wYWx3WUlDS1ZzVElYWE5hSGF3VTM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUl0ZFluN3NpSFRKRnNlYjFiZ2NtTW80X09QWUs2cXJpZE53dlZJTFc2MThZd0ktcTlwWV95dnJNSFNLNFZXLWJTOEk0SXFoSUhYRlotRE9aN2hpU3EyNXdBRDVqOHJlakJYUzQzQ25wYWx3WUlDS1ZzVElYWE5hSGF3VTM?oc=5" target="_blank">Markets get the measure of Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -267,119 +330,67 @@ Barr declined to comment on Carvana's plans, but said CarMax has found the vast 
 
 ---
 
-## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWlQaFAxMGsxVk5HTFYtc0taSWY2WFZXeVl4Ulc1Q29rZFI5REU0Qk12N2VGMFRXVmJXZFZNbXNaNUhsNXRlRlR2OU1CV28zbGdvMU9UcjdDMERLOEJXbE9hNGEwdUZwSnVHN1JGOXNYajkwd0tKeW9FdmIwVlBOMEhxSF8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWlQaFAxMGsxVk5HTFYtc0taSWY2WFZXeVl4Ulc1Q29rZFI5REU0Qk12N2VGMFRXVmJXZFZNbXNaNUhsNXRlRlR2OU1CV28zbGdvMU9UcjdDMERLOEJXbE9hNGEwdUZwSnVHN1JGOXNYajkwd0tKeW9FdmIwVlBOMEhxSF8?oc=5" target="_blank">AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## ‘We created a monster’: companies rein in AI usage as costs strain budgets - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlVanBsbzA2N1NHUGc1QkQtM0U0N0t1eEthbXhRNTdtbmlFQmRFY0hpd2VLcElUUzdsU2VVRFNhSXZDVnBVVVBqUFlhaXZpaUJONDNvdTJ2dTVyN2RFNkJ6QlJwc3ppanh6dnNqWGRxT2tNM0xnYlA5cEdxejRpT3dJbmM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlVanBsbzA2N1NHUGc1QkQtM0U0N0t1eEthbXhRNTdtbmlFQmRFY0hpd2VLcElUUzdsU2VVRFNhSXZDVnBVVVBqUFlhaXZpaUJONDNvdTJ2dTVyN2RFNkJ6QlJwc3ppanh6dnNqWGRxT2tNM0xnYlA5cEdxejRpT3dJbmM?oc=5" target="_blank">‘We created a monster’: companies rein in AI usage as costs strain budgets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EU delays trade confrontation with China - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHNTTldXV290MnFyb3JNN0ItcG80SzZiZmtuVGU0dDNxSVdtd3ptYlpJNzBCTFZkZUNmdnN0N2k4RzQ4Qld0YnJSbmNSaUx5OXgzVFhqSFF6UjRWZnRhTHFpYUpOVTVlQnlZTzY1OWVwclJkSGVhb05KSWFFaTNqUUFaSWQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHNTTldXV290MnFyb3JNN0ItcG80SzZiZmtuVGU0dDNxSVdtd3ptYlpJNzBCTFZkZUNmdnN0N2k4RzQ4Qld0YnJSbmNSaUx5OXgzVFhqSFF6UjRWZnRhTHFpYUpOVTVlQnlZTzY1OWVwclJkSGVhb05KSWFFaTNqUUFaSWQ?oc=5" target="_blank">EU delays trade confrontation with China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Giorgia Meloni accuses Donald Trump of pandering to west’s enemies - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnRpMGhVUnFONFVDN3ZHNGExQ1U4dWdmckRjR0dxMmZINUkyQWZUM3ZsbDViUlA0WUdlQS1JdnZaZXhjdHN0Uk8zbWpZNUNNQ3Fzby1GQ3g5SmxFZjlrUjlTcTBLa25EYlVXZUZDU2RWS2wtWFZmRGJmVHc0OFV2MFlQOU8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnRpMGhVUnFONFVDN3ZHNGExQ1U4dWdmckRjR0dxMmZINUkyQWZUM3ZsbDViUlA0WUdlQS1JdnZaZXhjdHN0Uk8zbWpZNUNNQ3Fzby1GQ3g5SmxFZjlrUjlTcTBLa25EYlVXZUZDU2RWS2wtWFZmRGJmVHc0OFV2MFlQOU8?oc=5" target="_blank">Giorgia Meloni accuses Donald Trump of pandering to west’s enemies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic - Reuters
+## Iran closes Strait of Hormuz over ceasefire violations - MEHR - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUNmdTBLY09Fa09sLVpWYXg4dEhPQTNiOEI2cHFEY1JxX1RBNVVlUkVfUFRMbnctejZWeWJ0QmowdDdGNmpmRmNMS1FJUTB4RlFKOFNpcXdwbldJRTV0WFpRTmlJM0UtanJLU20tUnNoZXV5SHc0WEVvYTU1Ynl3LTQ1dGppS2U3bU9LMi14bUg4aHZGY0lhT05iUDV1c2VmNzFYREU4cVc0ck4tRmc5ZHpzX00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUNmdTBLY09Fa09sLVpWYXg4dEhPQTNiOEI2cHFEY1JxX1RBNVVlUkVfUFRMbnctejZWeWJ0QmowdDdGNmpmRmNMS1FJUTB4RlFKOFNpcXdwbldJRTV0WFpRTmlJM0UtanJLU20tUnNoZXV5SHc0WEVvYTU1Ynl3LTQ1dGppS2U3bU9LMi14bUg4aHZGY0lhT05iUDV1c2VmNzFYREU4cVc0ck4tRmc5ZHpzX00?oc=5" target="_blank">Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5" target="_blank">Iran closes Strait of Hormuz over ceasefire violations - MEHR</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters
+## Spanish PM's wife must stand trial on corruption charges, judge rules - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJNjNtbk1wb0l5aXZZNzMwOHNJNnFnam1NTWY0dFFES1o0VG15ZDVuYTB1dGs4dlQtUnp6RWM2U19kcVRZOHJ3NEh3RTk1clIta3hQX0pKampSdHo5bnNrNmhoWUJtbEswamhoOXVxRXNOdnRKM2pVeUZjN3gtWVZZN0JWbXAxcHZMYUNSRUlVR1g1UmFtaHRleUJKNXNmOEhmQkhR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkFtd3hHY3ZvTzRmTTFoc2pMV1N3djRHeG8zX3gtZEVnbzNENjBMcmhIa3loblJ5bnJxZ2FITEMtbFpGSWxJMlRRZnZJdjNLR2puOG5OTzJnQ3NlUEp4RllXSm1KWUFOTjVrbTVkUWZKUmxOQkRiSWg5cS1USXpZSjh3S2QycHJITGh5WndCcGJqSG95YVI2RGdtWHZqQm83ejAyZzNjcXM4Zw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJNjNtbk1wb0l5aXZZNzMwOHNJNnFnam1NTWY0dFFES1o0VG15ZDVuYTB1dGs4dlQtUnp6RWM2U19kcVRZOHJ3NEh3RTk1clIta3hQX0pKampSdHo5bnNrNmhoWUJtbEswamhoOXVxRXNOdnRKM2pVeUZjN3gtWVZZN0JWbXAxcHZMYUNSRUlVR1g1UmFtaHRleUJKNXNmOEhmQkhR?oc=5" target="_blank">US scientist John Jumper to leave Google DeepMind for Anthropic</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkFtd3hHY3ZvTzRmTTFoc2pMV1N3djRHeG8zX3gtZEVnbzNENjBMcmhIa3loblJ5bnJxZ2FITEMtbFpGSWxJMlRRZnZJdjNLR2puOG5OTzJnQ3NlUEp4RllXSm1KWUFOTjVrbTVkUWZKUmxOQkRiSWg5cS1USXpZSjh3S2QycHJITGh5WndCcGJqSG95YVI2RGdtWHZqQm83ejAyZzNjcXM4Zw?oc=5" target="_blank">Spanish PM's wife must stand trial on corruption charges, judge rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump unveils Qatari 747 ahead of joining Air Force One fleet - Reuters
+## One dead after freight trains collide in Munich - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQUi0wQWlGd2hac1VoSFdQUTNfQWU2akoxU0JWOTNRM1NUNTNIMlhtaGNKRktDbmdWZGg5UWJsUmJIV0xNTkRWOWJMb012STh6N0NxVEZ5ZnltZE1iWGx6RUhBd0ZYZnlRMjE0YmZoQjhmaFFva2VwclNaNXhSNG1KWGNmdXV0a3F3OUVOLXR4RDhrSHdad2ZzeDJzbldkUlJkdFAxNHkyYWdiWmtiTkRsRnVIUlZUcVlGdWhvNnVn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGx5dHdPbnRzRmYxbl83SllFdGEwMm9CMFpKOXFYazIyODVQZ3BtdE1pY285d0ZVTU1UQXljcjVUMVk4dUhoVUhpYXRkUjhQRU9TTGh0N1FYS2kwNVlQOWI4Y0tyUXlUc2NiMHZ4VjJJR3ZRVWhzM0FkQ25TLWN6VzRGNlNaOGZuSk9DU0xYYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQUi0wQWlGd2hac1VoSFdQUTNfQWU2akoxU0JWOTNRM1NUNTNIMlhtaGNKRktDbmdWZGg5UWJsUmJIV0xNTkRWOWJMb012STh6N0NxVEZ5ZnltZE1iWGx6RUhBd0ZYZnlRMjE0YmZoQjhmaFFva2VwclNaNXhSNG1KWGNmdXV0a3F3OUVOLXR4RDhrSHdad2ZzeDJzbldkUlJkdFAxNHkyYWdiWmtiTkRsRnVIUlZUcVlGdWhvNnVn?oc=5" target="_blank">Trump unveils Qatari 747 ahead of joining Air Force One fleet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGx5dHdPbnRzRmYxbl83SllFdGEwMm9CMFpKOXFYazIyODVQZ3BtdE1pY285d0ZVTU1UQXljcjVUMVk4dUhoVUhpYXRkUjhQRU9TTGh0N1FYS2kwNVlQOWI4Y0tyUXlUc2NiMHZ4VjJJR3ZRVWhzM0FkQ25TLWN6VzRGNlNaOGZuSk9DU0xYYw?oc=5" target="_blank">One dead after freight trains collide in Munich</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he is going to Turkey, China this year - Reuters
+## Europe swelters under heatwave, prompting crisis talks in France - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2tNRFVNVEdDTGpSbVY0OXRWdVBiZ2hyQnF4ZHV2V2IxdmFsWXVnZElURjdOZUN1NTh2Z0QwYVRjMlRZY1NfWmd1VXBLQVpVYmlQNC0tY012dnhnSVp2LXc4MGZwaTMwbXVNdFI2LWYxLWR5Z05sbE1PNHdPbXZ1MktGLTVzZDhYRUdtUHVJZFplWldoWExQLQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtVZWxoSnhzR3BkMnRVbjVlZ0tjdGduQXNpWDR1cVhXeDhsR21iUS1oT2pKS2dnYTRNaDg1TjJqSm42eURTRjB5dDZZZ2pxZzhXQVdsRVhVV180MHlJX3F4LWVDQjhHMmJjaXNud3d6NE5ENlBBd25LTmhhaG80ZEE0ZDU5U1M4VWgxdzM0N0NtaEZvaEtQWEdEVU53YWlkVnZrUE9NelYtaURsWW5SQ18wRHBxQ1RL?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2tNRFVNVEdDTGpSbVY0OXRWdVBiZ2hyQnF4ZHV2V2IxdmFsWXVnZElURjdOZUN1NTh2Z0QwYVRjMlRZY1NfWmd1VXBLQVpVYmlQNC0tY012dnhnSVp2LXc4MGZwaTMwbXVNdFI2LWYxLWR5Z05sbE1PNHdPbXZ1MktGLTVzZDhYRUdtUHVJZFplWldoWExQLQ?oc=5" target="_blank">Trump says he is going to Turkey, China this year</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtVZWxoSnhzR3BkMnRVbjVlZ0tjdGduQXNpWDR1cVhXeDhsR21iUS1oT2pKS2dnYTRNaDg1TjJqSm42eURTRjB5dDZZZ2pxZzhXQVdsRVhVV180MHlJX3F4LWVDQjhHMmJjaXNud3d6NE5ENlBBd25LTmhhaG80ZEE0ZDU5U1M4VWgxdzM0N0NtaEZvaEtQWEdEVU53YWlkVnZrUE9NelYtaURsWW5SQ18wRHBxQ1RL?oc=5" target="_blank">Europe swelters under heatwave, prompting crisis talks in France</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Canadian lender TD tells some employees it will use software to monitor their work - Reuters
+## Two Syrian soldiers killed in northeast Aleppo attack, state TV says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXVCRUROZmNpakU1RTRqTWs3cnpIdU5PYW1KRHdjZ1U4MWtISW52NG1ac2owNTVxenpWNEFudFFGMi1pdVE4OTVUX1dUbFF1Qmsxcmg1cjBPUU0wa1BWa2NGUzd4VGo0VXBFOHVqdVk5V25QWVpCMWlzeUNmUGR4RW1qdjRRMTFoYzYtLVBjUnRJNE1QRWFrQ29ONnlFR0RyRDU5YWJnTnRZQThMbUhTU2xhcW9iX1RmZ1ZlTURR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXVCRUROZmNpakU1RTRqTWs3cnpIdU5PYW1KRHdjZ1U4MWtISW52NG1ac2owNTVxenpWNEFudFFGMi1pdVE4OTVUX1dUbFF1Qmsxcmg1cjBPUU0wa1BWa2NGUzd4VGo0VXBFOHVqdVk5V25QWVpCMWlzeUNmUGR4RW1qdjRRMTFoYzYtLVBjUnRJNE1QRWFrQ29ONnlFR0RyRDU5YWJnTnRZQThMbUhTU2xhcW9iX1RmZ1ZlTURR?oc=5" target="_blank">EXCLUSIVE: Canadian lender TD tells some employees it will use software to monitor their work</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5" target="_blank">Two Syrian soldiers killed in northeast Aleppo attack, state TV says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
