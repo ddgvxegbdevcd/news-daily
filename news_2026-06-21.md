@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-06-21 04:55:54
+更新时间：2026-06-21 14:23:36
 
-## Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows
+## Oil Stockpiles Near Danger Zone
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-21/swiss-voters-set-to-reject-stricter-neutrality-early-poll-shows
+链接：https://www.bloomberg.com/news/videos/2026-06-21/oil-stockpiles-near-danger-zone-video
 
 正文长度：0
 
-摘要：Swiss voters are set to reject an initiative to strengthen neutrality, according to an early poll, a result that could support keeping up sanctions against Russia.
+摘要：Energy markets expert and author of Oil's Endless Bid Dan Dicker says oil markets are underestimating the impact of ongoing supply disruptions, warning that global stockpiles have been drawn down significantly as millions of barrels per day remain unable to reach end markets. Dicker warns hosts of Bloomberg This Weekend David Gura and Christina Ruffini if inventories continue to fall, crude prices could surge from current levels to as high as $135 a barrel.  (Source: Bloomberg)
 
 
 ---
 
-## A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’
+## UK's Starmer Faces Growing Pressure to Step Down
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino
+链接：https://www.bloomberg.com/news/videos/2026-06-21/uk-s-starmer-faces-growing-pressure-to-step-down-video
 
 正文长度：0
 
-摘要：As concerns over the Iran war recede, stock investors are confronting another threat: climate risk, which is prompting a reassessment of bets across sectors from agriculture to insurance.
+摘要：With escalating political turmoil surrounding the the UK's Prime Minister Keir Starmer, the PM has reportedly contacted cabinet ministers amid mounting speculation about his potential departure. Anchor of Bloomberg's Daybreak Europe Lizzy Burden explains to David Gura and Christina Ruffini on Bloomberg This Weekend how the situation appears to be reaching a tipping point. (Source: Bloomberg)
 
 
 ---
 
-## Fed’s Favorite Gauge Is Seen Showing Faster Inflation
+## Guinea’s President Doumbouya Announces Ban on Raw Gold Exports
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-20/fed-s-favorite-gauge-is-seen-showing-faster-inflation
+链接：https://www.bloomberg.com/news/articles/2026-06-21/guinea-s-president-doumbouya-announces-ban-on-raw-gold-exports
 
 正文长度：0
 
-摘要：The latest update to the Federal Reserve’s favorite inflation gauge is unlikely to challenge a growing consensus at the US central bank around the need for interest-rate hikes this year.
+摘要：Guinean President Mamadi Doumbouya announced a ban on raw gold exports, in an effort to boost local processing of the metal and help the domestic economy.
 
 
 ---
 
-## Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal
+## Efforts Underway for Safe Evacuation of Strait of Hormuz
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal
+链接：https://www.bloomberg.com/news/videos/2026-06-21/efforts-underway-for-safe-evacuation-of-strait-of-hormuz-video
 
 正文长度：0
 
-摘要：President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in the country’s biggest bank fraud scandal.
+摘要：Secretary-General of the International Maritime Organization Arsenio Dominguez joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the ongoing coordination efforts to establish a safe evacuation route for vessels through in the Strait of Hormuz. (Source: Bloomberg)
 
 
 ---
 
-## Pointed News Quiz | Bonds, Streaming, Yogurt
+## Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-20/pointed-news-quiz-bonds-streaming-yogurt-video
+链接：https://www.bloomberg.com/news/articles/2026-06-21/oil-glut-bets-are-back-in-play-as-crude-sinks-after-us-iran-deal
 
 正文长度：0
 
-摘要：David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)
+摘要：A slew of all-but-forgotten niche option positions betting on an oil glut are coming back into play as crude futures slump following a peace deal between the US and Iran.
 
 
 ---
@@ -265,15 +265,28 @@ Under the terms of the collaboration, Hollister and Target are working together 
 
 ---
 
-## Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal - Financial Times
+## ‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWhteDhpWG9wLUNPeV9QaXdQa1R0RDBYTnVDYlgtZ0hnamJTNHRydUtYN01rTE94YU1uS3QxNENKY0t5SUdIelczcHd6Zkg1YnplQ3BaNUFqSjJVeFFZSlpMNFg1eVd3QVBmb2FDbDdDM3BhOXlsM1ppYTg1OEFnZGR5cjE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjNJeUhGR2h6RC1fT2FpU3JHbUlOa0pJRjFxVjNlYnR2TDJxWUdMTHBHblp3WVZyRDg3dE05Sk5Qc2JTdmUxclRoMjhrNFJXUTlLbUEtblVmWlVJWTNhSHJVall1Z0I0ZmFSZl9fVnFKeVdfdEZFMUlfeWNGdGsydWcxY08?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWhteDhpWG9wLUNPeV9QaXdQa1R0RDBYTnVDYlgtZ0hnamJTNHRydUtYN01rTE94YU1uS3QxNENKY0t5SUdIelczcHd6Zkg1YnplQ3BaNUFqSjJVeFFZSlpMNFg1eVd3QVBmb2FDbDdDM3BhOXlsM1ppYTg1OEFnZGR5cjE?oc=5" target="_blank">Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjNJeUhGR2h6RC1fT2FpU3JHbUlOa0pJRjFxVjNlYnR2TDJxWUdMTHBHblp3WVZyRDg3dE05Sk5Qc2JTdmUxclRoMjhrNFJXUTlLbUEtblVmWlVJWTNhSHJVall1Z0I0ZmFSZl9fVnFKeVdfdEZFMUlfeWNGdGsydWcxY08?oc=5" target="_blank">‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## SpaceX handed lowest possible ESG rating by MSCI - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFMwZTdZb3VKRGc1NWNIZGxOTkdqVWQ4QURNal9BTy1scm5fX3g3dktIUnAyckM1SmEzUGZoZjIzT2dRaW5rVWhBdmY3T3ZRR2pIaWg0YURDWExGSEJnMEpLQ3NmOUsyNjVCajdVRGd4TERqaDJhVTJiSjFlTklNWVZrbTU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFMwZTdZb3VKRGc1NWNIZGxOTkdqVWQ4QURNal9BTy1scm5fX3g3dktIUnAyckM1SmEzUGZoZjIzT2dRaW5rVWhBdmY3T3ZRR2pIaWg0YURDWExGSEJnMEpLQ3NmOUsyNjVCajdVRGd4TERqaDJhVTJiSjFlTklNWVZrbTU?oc=5" target="_blank">SpaceX handed lowest possible ESG rating by MSCI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -291,7 +304,7 @@ Under the terms of the collaboration, Hollister and Target are working together 
 
 ---
 
-## Best summer books of 2026: Roula Khalaf, Tim Harford and other FT journalists pick their favourites - Financial Times
+## Best summer books of 2026: Roula Khalaf and other FT journalists pick their favourites - Financial Times
 
 来源：金融时报
 
@@ -299,98 +312,85 @@ Under the terms of the collaboration, Hollister and Target are working together 
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1hXzJOOTVyUVhHQTM2a0ZBUlBia2ZhNWNqZG4zdWJidWROVmlERThEWWFWenRKczhoMzhlUkpjbVB2cTBNb1Byb09xdE96X2c4M0FCcnVZM3VuT3diRDR2RG5BNmUtdjJCa3k4REZtelA?oc=5" target="_blank">Best summer books of 2026: Roula Khalaf, Tim Harford and other FT journalists pick their favourites</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1hXzJOOTVyUVhHQTM2a0ZBUlBia2ZhNWNqZG4zdWJidWROVmlERThEWWFWenRKczhoMzhlUkpjbVB2cTBNb1Byb09xdE96X2c4M0FCcnVZM3VuT3diRDR2RG5BNmUtdjJCa3k4REZtelA?oc=5" target="_blank">Best summer books of 2026: Roula Khalaf and other FT journalists pick their favourites</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump accepts Qatar jet as new Air Force One despite ethics concerns - Financial Times
+## Bob Iger’s long goodbye - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3VpT0UtdmhyN2hzZ19FaGFZZEo0MXZKUmk1azgtUW1WNm9fOGRaWHlaNnlSLVhnZEVpQkFKR0V2Qkg4bjA3QmZzRTNPRUthcHRUQ2xocy00RDhRZnRrR3lnNTVjZmkyRGFBZ3VlWDlKSk5PWmVSNXZTTTFNSW5Dd2h1eGE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmhUY2ZsZlA3VFRFc0psdjhMaGF3cGl1SGZFWHVFNF9iUVd4RUVTQXp4SXExZXNWNU40a0pkbTZtaU14RWJTWFNSNl82eUVXb3hpdjlpXzdPTU9zdWlhR1RkaGZUTDAzZm5XTmowcnRjTk5yWEZaeldRZGtXX3JheGlKbGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3VpT0UtdmhyN2hzZ19FaGFZZEo0MXZKUmk1azgtUW1WNm9fOGRaWHlaNnlSLVhnZEVpQkFKR0V2Qkg4bjA3QmZzRTNPRUthcHRUQ2xocy00RDhRZnRrR3lnNTVjZmkyRGFBZ3VlWDlKSk5PWmVSNXZTTTFNSW5Dd2h1eGE?oc=5" target="_blank">Trump accepts Qatar jet as new Air Force One despite ethics concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmhUY2ZsZlA3VFRFc0psdjhMaGF3cGl1SGZFWHVFNF9iUVd4RUVTQXp4SXExZXNWNU40a0pkbTZtaU14RWJTWFNSNl82eUVXb3hpdjlpXzdPTU9zdWlhR1RkaGZUTDAzZm5XTmowcnRjTk5yWEZaeldRZGtXX3JheGlKbGc?oc=5" target="_blank">Bob Iger’s long goodbye</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## How to lose a war in three easy steps - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVZTQ0lTVk43T3pRbGp3QUJmMGR3TVBiMGFNbF9SUHhZX3A3UzVzSXhkUWFqekNZRTlHZHlLb1hIOTlOQWNnUGRZMDlEdUhkcExlUDd3aTRFMm9ZMGpsekxLSWtfc2ZtMl83UmRqbmZVS3hfSHhhNjFYMU1aNTF1UzgtWVE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVZTQ0lTVk43T3pRbGp3QUJmMGR3TVBiMGFNbF9SUHhZX3A3UzVzSXhkUWFqekNZRTlHZHlLb1hIOTlOQWNnUGRZMDlEdUhkcExlUDd3aTRFMm9ZMGpsekxLSWtfc2ZtMl83UmRqbmZVS3hfSHhhNjFYMU1aNTF1UzgtWVE?oc=5" target="_blank">How to lose a war in three easy steps</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump, blaming alleged vandals, says Washington Reflecting Pool needs repairs - Reuters
+## Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQcURQcERoeDhRczUtdWRBOWdsZmxWS0xlS19BQmhfeVRZRE5uNmJkSEQxRm1NQURPRFBlNlhUMEhhdGRBVm9YV3pLM2dWclp3alNCc0UtZUxYeUtrakg5VGlSdV81bDRMYnFwTk1jNFhaMlpNQVBKRjBPZVN2LV9Bb0YzSjVwTXFKemxrcjBJbUhDZTRZbHZIU3V1NFhtcE1sXzcyR1dsUm9WWFJhczlhUkNYUzMxanhGMFpVTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkdWNzR5aWg1SW1EZEJJOFdvZXdfa1JaVG9CcnpOUWtfREI4LUpld2JNNnQ3MEtXT1JMNTFMS3d4UHRKWC1CSm1QV1pCQ19La2U5QWlpcGNwNDV4ZnN5UlJ3TVVVbllwT0xTTjllZjIzaDFvVWxqQWZKQWJKNzAxOW55ak1uczhOV0t4UEJIekpKdWtrWjdQdGZGdUlSajNJM19ZQllzaGZldVh0TEdFS1FhSmE2M3d0dHBubzloR2tYUUotQVdxa2hZeS1mUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQcURQcERoeDhRczUtdWRBOWdsZmxWS0xlS19BQmhfeVRZRE5uNmJkSEQxRm1NQURPRFBlNlhUMEhhdGRBVm9YV3pLM2dWclp3alNCc0UtZUxYeUtrakg5VGlSdV81bDRMYnFwTk1jNFhaMlpNQVBKRjBPZVN2LV9Bb0YzSjVwTXFKemxrcjBJbUhDZTRZbHZIU3V1NFhtcE1sXzcyR1dsUm9WWFJhczlhUkNYUzMxanhGMFpVTQ?oc=5" target="_blank">Trump, blaming alleged vandals, says Washington Reflecting Pool needs repairs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkdWNzR5aWg1SW1EZEJJOFdvZXdfa1JaVG9CcnpOUWtfREI4LUpld2JNNnQ3MEtXT1JMNTFMS3d4UHRKWC1CSm1QV1pCQ19La2U5QWlpcGNwNDV4ZnN5UlJ3TVVVbllwT0xTTjllZjIzaDFvVWxqQWZKQWJKNzAxOW55ak1uczhOV0t4UEJIekpKdWtrWjdQdGZGdUlSajNJM19ZQllzaGZldVh0TEdFS1FhSmE2M3d0dHBubzloR2tYUUotQVdxa2hZeS1mUQ?oc=5" target="_blank">Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland - Reuters
+## Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5" target="_blank">US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5" target="_blank">Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Report says UK PM Starmer ready to quit, but source says he is still focused on the job - Reuters
+## No-fly zone for Iran talks disrupted flights at Zurich airport, authorities say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPREhONU9SaTJfdDI3cTdCRnVwcUtHRjhEVWdFRktCV1l3MXR6Z3FKRVU0TGZ3UlN0VFREY053a2FYQ3dQRmxsSE93QjRjVTVzTzBNOVQ2ZnZnY1NMUFh2ZTcxcW42Ui1rS3I4VHhCYk9FbXNnSWI4ckFSbW12QnBzY2s4WGRrS2tSNDMwM3RtbXV6TFVUTmZaaDcxMkk3Qk82V1N1eGFrS3JxRFpLMDFta2RrRzctNmJkdmtfMTJn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3Y0aFE0VW1lYXZYRERxU3ZYcWFQSlQyTHcyaUhfQ3BiSlJ3cGhWOWxMNTFjNGh2SFNRTUxNLTh5MWZ4aEtlZGs1M0JfZU9ONlFzcDdGaFlISTRZVktPMmo2MS1jYlRmb25NNEk2Yk9oQWczSkVHVkczR2RwMkVFVVhsLVJzb3VXRVJ1QnljMHU2NmRoajk3TGROWkhiRGxOMHU4bHh6QkpfUE1VYjhaa0RHV1MyTnVHTExLbQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPREhONU9SaTJfdDI3cTdCRnVwcUtHRjhEVWdFRktCV1l3MXR6Z3FKRVU0TGZ3UlN0VFREY053a2FYQ3dQRmxsSE93QjRjVTVzTzBNOVQ2ZnZnY1NMUFh2ZTcxcW42Ui1rS3I4VHhCYk9FbXNnSWI4ckFSbW12QnBzY2s4WGRrS2tSNDMwM3RtbXV6TFVUTmZaaDcxMkk3Qk82V1N1eGFrS3JxRFpLMDFta2RrRzctNmJkdmtfMTJn?oc=5" target="_blank">Report says UK PM Starmer ready to quit, but source says he is still focused on the job</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3Y0aFE0VW1lYXZYRERxU3ZYcWFQSlQyTHcyaUhfQ3BiSlJ3cGhWOWxMNTFjNGh2SFNRTUxNLTh5MWZ4aEtlZGs1M0JfZU9ONlFzcDdGaFlISTRZVktPMmo2MS1jYlRmb25NNEk2Yk9oQWczSkVHVkczR2RwMkVFVVhsLVJzb3VXRVJ1QnljMHU2NmRoajk3TGROWkhiRGxOMHU4bHh6QkpfUE1VYjhaa0RHV1MyTnVHTExLbQ?oc=5" target="_blank">No-fly zone for Iran talks disrupted flights at Zurich airport, authorities say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## U.S. defends Iran World Cup travel restrictions, says discussions ongoing - Reuters
+## King Charles to reveal tax details for the first time, palace says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZKd3Rfc2FkZHhCTEc1WWk1cjBmbm95d2xObktVdTJ4S2JtUnd1ZzMydmltY3B0SUszd3BSN25PMHdPLXBOTlEtbnJ1c1ROV21zT0tZT3RTeTFHczIxRlhUNTI3RXNmSVhNaVVwUWJEcy1BT1ZLTnhXd0sxTXB6MW9qVUFuYXlpSVI2Ni1lb3doTnA2aW9jNG9CQWxZLUc2TnVIQ21TUGdjWkZ6SElKMDhOM2UxeXJfRGVhbg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEhyNEtTZWE3N203UFlaVzJyT2JyWmN2ZldGcVVSME5pclp4cEhUR0o3Y1RpYUFFVE9uRXQxeEhBanNSOXRXRVlOU1B3MTNoYXcyQWtfSzVWQ09zRTBnSnNVeC13SUJyc0NvaGtRUTB6bUZSVlgxTzFHSDZHbV9HbVRDTktYQ1BuQXMtdVl3VkZEVDU0eTZabGREUVJQMTlJ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZKd3Rfc2FkZHhCTEc1WWk1cjBmbm95d2xObktVdTJ4S2JtUnd1ZzMydmltY3B0SUszd3BSN25PMHdPLXBOTlEtbnJ1c1ROV21zT0tZT3RTeTFHczIxRlhUNTI3RXNmSVhNaVVwUWJEcy1BT1ZLTnhXd0sxTXB6MW9qVUFuYXlpSVI2Ni1lb3doTnA2aW9jNG9CQWxZLUc2TnVIQ21TUGdjWkZ6SElKMDhOM2UxeXJfRGVhbg?oc=5" target="_blank">U.S. defends Iran World Cup travel restrictions, says discussions ongoing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEhyNEtTZWE3N203UFlaVzJyT2JyWmN2ZldGcVVSME5pclp4cEhUR0o3Y1RpYUFFVE9uRXQxeEhBanNSOXRXRVlOU1B3MTNoYXcyQWtfSzVWQ09zRTBnSnNVeC13SUJyc0NvaGtRUTB6bUZSVlgxTzFHSDZHbV9HbVRDTktYQ1BuQXMtdVl3VkZEVDU0eTZabGREUVJQMTlJ?oc=5" target="_blank">King Charles to reveal tax details for the first time, palace says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters
+## Ukraine attack kills five as Crimea halts public fuel sales - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2lETTF4SURGUjlOREdfMDVFQXlFWlhWZ20zWW1DaVJsVzVwT1ZHRTdiNDBqbDJyX2x4c3Rqcm05TTJZU0pJWjA3VXIxbjNzRVJvb2pRTlhDenBmNjhWZTJPTW5wMGNhMXN6REFHTmxQcG9DY2lvUG54Rnp5dFY2cURXSzRSSmQ5cE5UbUdsaGJBSW1nTWZldGx5a1RCelFxUzBzR3l4by0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5" target="_blank">Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2lETTF4SURGUjlOREdfMDVFQXlFWlhWZ20zWW1DaVJsVzVwT1ZHRTdiNDBqbDJyX2x4c3Rqcm05TTJZU0pJWjA3VXIxbjNzRVJvb2pRTlhDenBmNjhWZTJPTW5wMGNhMXN6REFHTmxQcG9DY2lvUG54Rnp5dFY2cURXSzRSSmQ5cE5UbUdsaGJBSW1nTWZldGx5a1RCelFxUzBzR3l4by0?oc=5" target="_blank">Ukraine attack kills five as Crimea halts public fuel sales</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
