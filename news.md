@@ -1,60 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-06-22 05:03:39
+更新时间：2026-06-22 17:06:29
 
-## How Mike Henry Reshaped the World's Largest Mining Company
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-22/how-mike-henry-reshaped-the-world-s-largest-mining-company
-
-正文长度：0
-
-摘要：As he prepares to step down after six years at the helm of BHP, Mike Henry joins Francine Lacqua to discuss the future of mining, the race for critical minerals and leadership lessons that shaped his tenure. Henry explains why copper has become one of the most strategic resources, how artificial intelligence and the energy transition are transforming demand and why BHP walked away from its pursuit of Anglo American. (Source: Bloomberg)
-
-
----
-
-## China Targets US Rare Earths Firms in Response to Pentagon List
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-22/china-places-two-us-rare-earths-producers-on-export-control-list
-
-正文长度：0
-
-摘要：China has imposed export controls against two US rare earth producers that are part of Washington’s effort to reduce its dependence on Beijing by establishing an alternative supply chain for the critical minerals.
-
-
----
-
-## US and Iran Make ‘Progress’, Aim to Keep Hormuz Open
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-06-22/us-and-iran-make-progress-aim-to-keep-hormuz-open-video
-
-正文长度：0
-
-摘要：The US and Iran made “encouraging progress” in talks on a peace deal and will continue technical-level discussions this week, according to mediators Qatar and Pakistan. Bloomberg's Stuart Livingstone-Wallace breaks down what we know so far. (Source: Bloomberg)
-
-
----
-
-## Qatar Domestic Gas Plant Malfunction Blast Leaves 18 Missing
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-06-22/qatar-says-malfunction-causes-blast-at-domestic-gas-plant
-
-正文长度：0
-
-摘要：Qatar said an incident during the startup of the Ras Laffan industrial complex resulted in a blast that has injured dozens, underscoring the risks to Middle East energy facilities as they ramp up production after the US-Iran ceasefire.
-
-
----
-
-## Oil Falls, Asia Stocks Rise as Iran Talks Progress: Markets Wrap
+## Stocks Fall as SpaceX’s Rout Offsets US-Iran Hopes: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +10,172 @@
 
 正文长度：0
 
-摘要：Oil gave up early gains and Asian stocks advanced as investors welcomed signs of progress in diplomatic talks between the US and Iran.
+摘要：Wall Street traders drove stocks down from the brink of record highs as a slide in several tech giants overshadowed optimism about progress in peace talks between the US and Iran. Oil dropped.
+
+
+---
+
+## Alamos Shares Plunge on Output Cut After Seismic Event
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-19/alamos-gold-shares-plunge-on-output-cut-after-earthquake-at-mine
+
+正文长度：0
+
+摘要：Alamos Gold Inc. shares fell the most since 2020 after the Canadian company cut second-quarter production guidance following seismic events that damaged a key mine.
+
+
+---
+
+## Morgan Stanley's Gower: Fed Holding Rates Through '26
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-06-22/morgan-stanley-s-gower-fed-holding-rates-through-26-video
+
+正文长度：0
+
+摘要：Amy Gower, Morgan Stanley Lead Metals & Mining Strategist, discussed the firm's house view on interest rates and its implications for gold. Morgan Stanley expects the Federal Reserve to keep rates on hold through 2026, contrasting with market expectations of approximately 1.6 rate hikes by year-end. Gower emphasized that the Fed's policy decisions will be crucial for gold's trajectory, particularly given the significant role of exchange traded funds (ETFs) in gold demand, which closely track Fed actions. A stable rate environment would support gold, while further rate hikes could trigger increased ETF selling, potentially weighing on gold prices. (Source: Bloomberg)
+
+
+---
+
+## Lagarde Says China Should Be Part of Any Talks on FX Imbalances
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-22/lagarde-says-china-should-be-part-of-any-talks-on-fx-imbalances
+
+正文长度：0
+
+摘要：Any Group of Seven talks on currency valuations need to include China, according to European Central Bank President Christine Lagarde.
+
+
+---
+
+## Citadel Says Fed’s New Regime Could Stabilize Treasury Long End
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-06-22/citadel-says-fed-s-new-regime-could-stabilize-treasury-long-end
+
+正文长度：0
+
+摘要：Federal Reserve Chairman Kevin Warsh’s commitment to lowering inflation bolsters the Fed’s credibility, supporting long-dated Treasury yields and a lower term-premium, according to Citadel Securities.
+
+
+---
+
+## 'Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html
+
+正文长度：8529
+
+摘要：Target Chair Brian Cornell built the retailer into a $100 billion-plus giant, but recent struggles and underperformance have fueled investor calls for change.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Target has promised investors that it's pursuing an aggressive turnaround with a new CEO at the helm, but its longtime former top executive Brian Cornell still leads the retailer's board of directors — and some major investors are signaling they're hungry for change.
+Shareholder backing for Target's former CEO and current Executive Chairman Cornell fell to its lowest level ever during the company's annual general meeting this month.
+While Cornell, 67, was comfortably reelected to his position on Target's board of directors, he saw the steepest drop in support since he joined the retailer's board more than a decade ago, when he was hired as its CEO.
+In all, 87.2% of shareholders voted to reelect him to the board — a 4% decline from the year-ago period and a material drop from his historical average of 95% support. It's also well below the average level of support directors have received across the S&P 500 this year, which Harvard Law puts at 96.6%.
+"Getting over 95% is normal. Getting under 95% is poor, and getting under 90 is very poor. It means people are going out of their way to say they don't want you there anymore," said Kevin Kaiser, an adjunct full professor of finance at The Wharton School of the University of Pennsylvania who teaches a course on shareholder activism.
+Given how many investors automatically approve what major proxy firms or boards suggest they vote for, "anything below 90 is considered a very bad result" and is rare to see, Kaiser said.
+Cornell's drop in support comes after he stepped down from his CEO role and transitioned to be Target's executive chairman in February as the company contended with dwindling profits, a falling share price and three straight years of annual sales declines.
+Neil Saunders, retail analyst and GlobalData managing director, said some analysts and investors viewed Cornell's appointment to executive chair as a "reward for failure" and wanted a clean break from the management team that oversaw so many of Target's issues.
+"If you don't do a good job as CEO, then arguably you should be cleared out of the boardroom and I think that's how most people view it," Saunders said. "I don't think that that is unreasonable. To get rewarded for delivering a decline in the share price and causing problems for the company, it just doesn't sit well with a lot of people."
+A Target spokesperson declined to comment and instead referred CNBC to its 2026 proxy statement and a press release it issued announcing the voting results of its annual general meeting. In its proxy statement, the company said keeping the roles of board chair and CEO separate "is appropriate given the company's immediate strategic and operational priorities" as the positions have "distinct roles and responsibilities."
+"The separated structure allows [CEO Michael Fiddelke] to focus on the business, including implementation of key initiatives, during the initial phase of his CEO tenure, while Mr. Cornell's service as Executive Chair allows the Board to continue to leverage his in-depth knowledge of our business and industry during this transitional phase," the statement reads.
+Critiquing Cornell
+Since joining Target as the retailer's CEO in 2014, Cornell grew sales by more than 44% and helped transform it into a $100 billion-plus juggernaut as he oversaw the expansion of its digital presence, grew stores and steered the company through the Covid-19 pandemic.
+But over the past few years, he's faced rising criticism as the company has underperformed expectations and lost share to competitors like Costco, Walmart and Amazon. Target has been criticized for mismanaging inventory, under-investing in stores and falling behind on the trendy, eye-catching merchandise the retailer built its name on.
+Target has also been the subject of backlash over its actions on a number of social justice issues, and the brunt of that has fallen on Cornell. The retailer reduced certain LGBTQ-themed pride merchandise in stores several summers ago and rolled back diversity, equity and inclusion programs, which led to nationwide boycotts and preceded weeks of foot traffic declines.
+Combined, these issues have contributed to a precipitous drop in Target's share price, which is up about 33% year to date but still down by roughly 50% since its all-time high in 2021.
+When the company announced that Cornell would be stepping down as CEO earlier this year, Wall Street had favored an outside candidate to succeed him, according to a June survey of 51 investors by Mizuho Securities, an equity research firm.
+When it said two insiders would continue to lead the company — Cornell as executive chair and company veteran Fiddelke as CEO— the same day that it forecast another annual sales decline, investors were disappointed, leading shares to fall. However, since then, it appears as if analysts and investors are warming up to Fiddelke, who received 99% of the vote during the company's meeting.
+"It feels like they're doing a lot of things better in terms of merchandising," Michael Baker, a senior research analyst at investment bank D.A. Davidson, said in an interview. "To me that would be a sign of continued progress under Michael Fiddelke."
+During the company's fiscal first quarter, which ended May 2, Target saw comparable sales grow 5.6% — its first positive same-store sales number in five quarters, with strength across all six of its core merchandising categories. While Target said its turnaround efforts are showing signs of early progress, finance chief James Lee acknowledged higher tax refunds helped to fuel spending, a benefit he expects to fade over the rest of the year.
+Losing shareholder support
+The exact investors who voted against Cornell, and their reasons, aren't clear since complete voting records haven't been released yet, but two of the nation's largest public pension fund managers turned against him.
+The Florida State Board of Administration, which manages the Florida Retirement System Pension Plan, the sixth-largest pension plan in the nation with about $277 billion in assets under management, voted against Cornell after supporting him for the past nine years, proxy records show.
+The fund manager didn't return CNBC's request for comment, but proxy records show it voted against Cornell because of "poor long-term company performance."
+New York's comptroller, which manages the $295 billion New York State Common Retirement Fund, supported Cornell from 2017 through 2024 but voted against him at the last two meetings, state records show.
+In a statement to CNBC, State Comptroller Thomas DiNapoli said "Cornell and others should not be rewarded for poor performance."
+"Investors are not supporting Target's leadership because it mismanaged the company's workforce, hurt the brand, and damaged shareholder value," DiNapoli said. "It's why New York state's pension fund and other shareholders voted against board directors and Target's executive pay plan."
+While influential, the pension funds are not among Target's top 50 shareholders. It's not clear how Target's largest investors voted at the meeting.
+A number of left-leaning activists — including SOC Investment Group, Trillium Asset Management and Mercy Investment Services — called on investors to vote against Cornell. The activists have also urged investors to vote against Lead Independent Director Christine Leahy, who received 88.5% of the vote during the most recent meeting, an 8% decline in support from last year.
+"Let's suppose somebody is being criticized and it's damaging our reputation with our customers and our employees, and as a solution to that, we promote this person to the executive chair role at the board level," said Wharton's Kaiser. "It just doesn't smell right, and the person who would have had the primary role in stopping that from happening would have been the lead independent board member."
+In its proxy statement, Target called Leahy a strong director "supported by a governance structure designed to further promote independence" as it recommended shareholders vote in her favor.
+It's unclear whether or not the investor pressure will have an impact on Target's board, but Kaiser said change at that level typically happens when directors see such dramatic drops in support during annual meetings.
+"It means there's a lot of pressure now on the board and on the individuals on the board and they clearly are losing the support of the shareholders," Kaiser said. "If they don't do something, the next [annual general meeting] won't go well for them."
+
+</details>
+
+
+---
+
+## Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html
+
+正文长度：2461
+
+摘要：Lucid Group is cutting its U.S. workforce by 18% as part of a cost-savings plan. It also said COO Marc Winterhoff is departing effective immediately.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Lucid Group said Monday it is cutting its U.S. workforce by approximately 18% as part of a cost-savings plan.
+The all-electric vehicle maker said its plan would give it annualized cost savings of approximately $158 million.
+The company also said Monday that its chief operating officer, Marc Winterhoff, is leaving the company effective immediately. Winterhoff was interim CEO at the company until Silvio Napoli took over the top job on June 1. The role of COO has been eliminated, Lucid said.
+Lucid's workforce reductions include full-time employees, contractors and hourly production workers in manufacturing, according to a filing with the Securities and Exchange Commission. The automaker had about 9,000 employees globally as of Dec. 31.
+"These are difficult decisions taken to align production with demand, reduce inventory, and adapt to declining market conditions," a Lucid spokesperson said in a statement. "They are part of a broader effort to simplify the company, sharpen execution, and position Lucid to become more competitive over time."
+In February, Lucid laid off about 12% of its U.S. workforce in a push for profitability.
+Lucid said Monday it expects to incur cash charges of approximately $32 million related to severance, employee benefits and employee transition associated with the latest cuts, according to its filing.
+The automaker also said it would be eliminating the second shift of production at its AMP-1 factory in Arizona.
+Lucid said last month that Napoli would be evaluating the company's business operations. It suspended its guidance as a result, adding that it needs to lower its "elevated inventory" of vehicles, which for automakers has historically meant decreasing or idling vehicle production.
+Lucid held its first investor day in nearly five years in March. It said at the time that it expects to be cash-flow positive by later this decade.
+While Lucid has been able to increase sales and narrow losses, the company lost $2.7 billion on revenue of $1.35 billion in 2025. It had negative free cash flow of $3.8 billion last year, roughly 31% larger than the year earlier.
+Lucid and its electric vehicle peers are increasingly facing a more challenging market than they did in recent years amid slower-than-expected adoption of EVs and changing regulations under the Trump administration, including the elimination of a $7,500 federal incentive for purchasing an EV.
+— CNBC's Michael Wayland contributed to this report.
+
+</details>
+
+
+---
+
+## UPS to invest $48 million in temperature-controlled facilities amid healthcare boom
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html
+
+正文长度：2585
+
+摘要：UPS is announcing a new investment in healthcare logistics as demand for the temperature-controlled category booms, CNBC has learned exclusively.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Parcel Service is investing $48 million in 27 temperature‑controlled facilities as the industry sees a boom in healthcare logistics, CNBC has learned exclusively.
+The facilities, located across the Americas, Europe and Asia, are optimized for moving around shipments that need to be kept at certain temperatures. The company said the investment will help it stay ahead of a boom in medicines and pharmaceuticals — like some GLP-1s — that have to be kept at certain temperatures by improving speed and end-to-end chain of custody.
+"Our global cross-dock facilities strengthen our end-to-end cold-chain capabilities to ensure critical treatments are delivered safely and reliably to patients around the world," said Kate Gutmann, UPS' president of international, healthcare and supply chain solutions. "This effort – and all of our work in healthcare logistics – extends from a deep understanding that we're doing more than moving packages."
+The demand for temperature-sensitive biologics is projected to grow at an 8.3% compound annual growth rate through 2033 and reach a market value of roughly $39.1 billion, according to Growth Market Reports. Many new medicines are required to be stored at specific temperatures to maintain efficacy, UPS said, making healthcare logistics more crucial than before.
+According to the World Health Organization, up to 50% of global vaccines are wasted every year, with a significant portion of that coming from cold-chain storage issues.
+"These investments reflect our commitment to continue to align our leading end-to-end supply chain to protect innovative treatments and diagnostics, supporting better patient outcomes," UPS Healthcare President John Bolla said in a statement.
+UPS' move comes as the industry overall has seen growing investments in the space, especially with the meteoric rise of GLP-1 drugs. Medicines like Novo Nordisk's Wegovy and Ozempic require strict refrigeration and temperature control during transit. A November KFF poll found that 1 in 8 Americans are taking GLP-1s.
+UPS CEO Carol Tomé said on the company's first-quarter earnings call in April that healthcare remains one of the company's top priorities and biggest areas of growth.
+"Our global healthcare portfolio has gained market share every year since 2021," she said on the call. "And in the first quarter of this year, we generated our first $3 billion healthcare revenue quarter ever, with all three of our segments delivering year-over-year revenue growth."
+Tomé added that UPS is committed to continuing to "lean into that space in a meaningful way."
+
+</details>
 
 
 ---
@@ -155,117 +268,46 @@ Shanghai resident Wang Lu told CNBC she specifically wanted to be at the park on
 
 ---
 
-## NBA to begin naming winning bids for Europe teams in the coming months, deputy commissioner says
+## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/18/nba-europe-bids-mark-tatum.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWo2WWlnVEdMMVJmNnRZYS1qdGFyMURmT0ptQ1NTc05YcHJFd2NhYW5tUnZtdWplYzZEMWFKUk0yS2pISk8zQlZpY2RYRTg0ek1qNkRlWnVabXlONk0yQmIyQTZPWXJublI0blMwUTRsTUt2ZWl5SEtVUkVkZ01wM291QUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3201
+正文长度：0
 
-摘要：The NBA plans to begin naming winning bidders for 12 permanent European teams in the next 60 to 90 days, Deputy Commissioner Mark Tatum told CNBC.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The NBA plans to begin naming winning bidders for 12 permanent European teams in the next 60 to 90 days, Deputy Commissioner Mark Tatum said in an exclusive CNBC interview.
-The European league remains on track to debut in October 2027, he said.
-The 12 new teams will be located in Rome, Milan, London, Manchester, Paris, Lyon, Madrid, Barcelona, Berlin, Munich, Athens and Istanbul. They'll be joined by four rotating clubs available to any FIBA-affiliated team in Europe on an annual basis depending on performance. FIBA is the sport's international governing body in Europe.
-Bids for teams are due at the end of June, Tatum told CNBC Sport. The league is looking for "great operators" who will invest in new stadiums, said Tatum, who added there are only "two to three world-class" basketball arenas in all of Europe.
-"We're on a very, very quick timeline here," Tatum said. "We're going to identify the right partners in the right cities, and we're going to take as much time as we need in order to identify those right partners. We're talking not only existing basketball teams in the ecosystem, but we're talking to soccer teams that currently don't have basketball teams that are interested, and we're also talking to individuals and other entities who don't have a basketball team but want to invest in a basketball team."
-Tatum noted basketball is the second-most popular sport in Europe but gets "less than 1% of the commercial market share there." He estimated Europe has about 300 million basketball fans.
-The NBA is considering how to intermingle NBA Europe teams with its existing North American teams. In the short term, NBA Europe teams could play teams based in the U.S. and Canada in the preseason, Tatum said. Then, over time, teams across the two leagues could meet up in the Emirates NBA Cup — the midseason tournament that the league debuted in 2023.
-NBA officials are having "a ton" of conversations with potential media partners for NBA Europe, including "some of the big global streaming partners," Tatum said. The value of the league will be in its global interest, even though it's based in Europe, he said.
-"There has been an incredible amount of inbound interest on taking those games and distributing them not only throughout Europe but globally," Tatum said. "We have no doubt that it will create some global interest, and therefore media partners are very interested in carrying that content."
-Tatum also pitched investors on the NBA's Basketball Africa League. While the league has been operating for six seasons, the NBA has only recently begun selling individual teams to investors.
-The BAL currently contributes $250 million in GDP to the African continent, said Tatum, who estimated that could grow to $5.4 billion by 2034.
-"Eleven of the top 20 fastest growing economies in the world are in Africa, and Africa is expected to account for more than 40% of the world's youth in the next five years," Tatum said. "So, what I would say to those investors is, 'What a great market opportunity.' Basketball is now turning into a business and creating jobs and economic growth, and now it's the opportunity to get in at the ground level and take advantage of that growth."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWo2WWlnVEdMMVJmNnRZYS1qdGFyMURmT0ptQ1NTc05YcHJFd2NhYW5tUnZtdWplYzZEMWFKUk0yS2pISk8zQlZpY2RYRTg0ek1qNkRlWnVabXlONk0yQmIyQTZPWXJublI0blMwUTRsTUt2ZWl5SEtVUkVkZ01wM291QUc?oc=5" target="_blank">AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## California’s counting on an IPO tax windfall. Several factors are complicating the equation
+## China’s CATL bets battery swapping will cut costs for Europe’s electric trucks - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0xTeVU1UDdFTHY5dWtlR2dnWnNFNmNrSWZ6TURoa0RzT1JRTlYtWnRILWJwUnU5MXhIRzVnd1NhZFY4UDY1ZzB4alh0ckx4T2RSc2NLQUR0Qm84Y2hvVHRQeGtldm55MzhKUS15ZWJVV20zcTRmYjBsdGRhX3JoRWdIXzQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：7959
+正文长度：0
 
-摘要：The IPOs of SpaceX, OpenAI and Anthropic could create a tax windfall for the state of California. But experts say the revenue impact may be blunted.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-The blockbuster SpaceX IPO and potential upcoming public offerings for OpenAI and Anthropic could create a tax windfall for the state of California. Yet the revenue boost may fall short of previous tech IPOs – at least relative to the firms' valuations – given the specific nature and tax treatment of today's tech compensation.
-Following its IPO last week, SpaceX is now valued at $2.5 trillion, minting many of its employees who live and work near its Hawthorne, California, office as millionaires, at least on paper. California-based Anthropic and OpenAI are also expected to go public later this year at valuations that could approach $1 trillion.
-The burst of tech wealth has drawn comparison to the 2012 IPO of Menlo Park-based Facebook, which generated $1.3 billion in taxes for the Golden State, per the California Department of Finance's estimate. Facebook's valuation at the time was just $104 billion, suggesting the new crop of super-IPOs could theoretically generate billions more.
-But the revenue impact may be blunted, due to how these employees' stock compensation was structured and because tech employees today have more tools at their disposal to mitigate their tax burden, experts and financial advisors told CNBC.
-As companies have stayed private for longer and reached sky-high valuations, financial institutions have increasingly catered to equity-rich, cash-poor startup employees with tax strategies that were traditionally only available to founders.
-For instance, employees at some startups can get a tax deduction by donating private, pre-IPO stock to a donor-advised fund, according to Richard Lowry of wealth manager Cresset. He said such donations were generally limited to the ultra-wealthy as recently as a decade ago, since few charitable organizations were equipped to accept or manage those assets.
-"Historically, the only people who had equity in a private company and were certainly in a position to give it away were millionaire or billionaire founders who already had their own controlled structures, like a private foundation, where they could decide what they accepted," said Lowry, managing director and head of tax strategy at Cresset. "Now there is a cottage industry around allowing people to avail themselves of this."
-There's also a timing consideration on the SpaceX windfall.
-Tax revenue generated by an IPO largely comes from two sources: ordinary income taxes on employees' restricted stock units, or RSUs, when they vest and capital gains taxes paid when shareholders sell appreciated stock.
-SpaceX uses a unique stock-pay structure that may have pulled forward the tax revenue on the vesting of employees' shares. At most private companies, RSUs vest after two conditions are met: continued employment with the company and a liquidity event like an IPO or acquisition. This dual-trigger RSU structure leads to a boom in taxable income on IPO day.
-Many SpaceX employees, however, have been paying income taxes on their RSUs for years as share vesting was only tied to employment, not a liquidity event.
-This stock-pay structure has made it challenging to estimate tax revenue associated with the SpaceX IPO, according to the California Legislative Analyst's Office.
-"Revenue totals will depend more on financial decisions made by employees and investors who hold pre-IPO SpaceX shares and stock options," the LAO wrote in a statement. "Relative to past IPOs, tax revenues from the SpaceX IPO are likely to be less immediate and more unpredictable."
-The LAO, which advises state lawmakers on budget and fiscal policy, has not published tax revenue estimates for the IPOs of SpaceX, Anthropic or OpenAI. That said, the LAO's statement to CNBC was cautiously optimistic that the market debuts would pad the state's coffers.
-"Past major tech IPOs have generated significant income tax revenue for the state and these upcoming IPOs certainly have the potential to do the same," the statement reads.
-The California Department of Finance also has not published revenue estimates for the IPOs, citing the risk that companies frequently delay their IPOs in the event of a market downturn. OpenAI and Anthropic, which each filed confidential S-1s in recent weeks, could do the same.
-The Department has reason to be conservative as market swings have undermined its revenue forecasts before. It had to revise its revenue estimate from the Facebook IPO from $1.9 billion to $1.3 billion after the social media giant's share slump.
-The Department's budget report noted another factor that could limit the upside from IPOs: the growing trend of private companies allowing employees to sell stock before going public, reducing the backlog of stock taxed upon IPO.
-Employees at SpaceX, Anthropic and OpenAI have had ample opportunity to take some chips off the table well before a public offering. In October, OpenAI finalized a secondary share sale totaling $6.6 billion in which current and former employees could sell their shares at a $500 billion valuation. CNBC previously reported that OpenAI plans to facilitate a tender offer at a $852 billion post-money valuation.
-Tender offers have grown in popularity as a way to reward employees and investors as the timeline to exit has grown longer, according to Hamza Shad, insights manager at startup equity management firm Carta.
-Gains on these sales are still taxed, but selling earlier pulls that tax revenue forward and makes it less predictable for regulators, he said.
-"In the past, when early pre-public liquidity wasn't as prevalent, the tax revenue would come all at once on the IPO and after," Shad said. "But now it's kind of up to each company, whether or not they want to do tender offers, how large they want them to be, how often they want to do them."
-Still, tender offers come with a lot of strings attached, such as a percentage cap on how much equity employees can sell. And wildly lucrative tender offers and secondary sales are largely limited to the "best of the best startups," according to Michael Ewens, professor of finance at Columbia Business School.
-What's more likely to eat into potential tax revenue is employees choosing not to sell at all but rather to take loans instead, said Will Gornall, associate professor of finance at the University of British Columbia.
-By taking a loan against their shares instead of selling them, shareholders save money by paying interest rather than capital gains taxes. This so-called "buy, borrow, die" strategy is employed by SpaceX founder and world's first trillionaire Elon Musk, who has taken out loans against billions of dollars' worth of Tesla shares. This strategy also has the benefit of allowing employees to stay invested and benefit from future stock appreciation.
-While financial maneuvers to avoid taxes have grown more sophisticated, so, too, have the auditing methods of the California Franchise Tax Board, according to Robert Willens, longtime tax and accounting analyst, who added the agency is notoriously aggressive.
-"It really comes down to when the shares are earned. The taxable event is the vesting of the shares, and if you're a California resident, there's not much you can do about it," he said. "I would think that California is looking forward to a really great infusion of funds."
-Of course, IPOs are one-time revenue boosts, and there's a potential downside to lobbing hefty bills. Ewens told CNBC that he worries a big tax burden may drive these newly wealthy and often entrepreneurial employees away from the state.
-"That's not a point that California should lower its taxes now, but I think it has to keep in mind that taxes have longer-term consequences for people's entrepreneurial decision-making, and that's a big wealth driver in the state," he said.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0xTeVU1UDdFTHY5dWtlR2dnWnNFNmNrSWZ6TURoa0RzT1JRTlYtWnRILWJwUnU5MXhIRzVnd1NhZFY4UDY1ZzB4alh0ckx4T2RSc2NLQUR0Qm84Y2hvVHRQeGtldm55MzhKUS15ZWJVV20zcTRmYjBsdGRhX3JoRWdIXzQ?oc=5" target="_blank">China’s CATL bets battery swapping will cut costs for Europe’s electric trucks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Hollister partners with Target to tap into $89 billion back-to-college shopping market
+## Bain tests software takeover targets by vibecoding AI replicas - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/18/hollister-partners-with-target-to-sell-dorm-bedding-apparel.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMURwcHRUbXF0UHhnaW1KSG1Cd2F2U0NXMEFxYWlxb0N5V0haZ1cxZG1hOVJBeEp3UUV1bkozMDJuZFhSTEROY0dDdmdLSk9DaFNVdGN4SktwSE1UbmpQdU9DR1BHYzhqc0ZZdW93TVVLcDBBRmFGUzFnQVc0STdpQURSdWw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3280
+正文长度：0
 
-摘要：Hollister's partnership with Target comes as both companies look to capitalize on the lucrative back-to-college shopping market.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Abercrombie & Fitch's Hollister is branching out of its apparel roots and partnering with Target to start selling home and dorm decor for the first time as both brands look to new categories to drive growth.
-The collaboration, dubbed The Hollister Collection at Target, will launch online, in most Target stores and select Hollister locations on June 28 and will feature almost 60 items across men's and women's apparel and bedding.
-Hollister's tie-up with Target comes as both companies contend with declines in discretionary spending and waning consumer confidence, which have forced retailers to get creative to entice shoppers to spend.
-Hollister, Abercrombie's brand targeting shoppers ages 13 to 22, has been comfortably growing for much of the past year but is looking to become more of a lifestyle brand that sells more than clothes. By offering a wider assortment, especially across a larger footprint, Hollister can acquire new customers, encourage existing shoppers to spend more and create a new pipeline for organic growth.
-On the other hand, Target already has a large home and dorm decor department but has long leaned on brand collaborations as a competitive differentiator, especially because they're not as common at rival Walmart. Across the business, it has regularly brought in buzzy names like Kendra Scott, Diane von Furstenberg, Bombas and Champion, even before it was dealing with sluggish sales and shrinking profits.
-For both companies, the collaboration offers access to the lucrative back-to-college shopping market, which reached $88.8 billion last year, or about $1,325 in spending per person that participates, according to data from the National Retail Federation.
-Within that market, spending on dorm or apartment furnishings has been steadily growing for more than a decade. In 2025, it reached $12.8 billion, second only to electronics or computer-related equipment.
-Hollister's expansion into home and dorm decor comes as sister brand Abercrombie & Fitch expands into outside footwear brands like Puma, Sperry and Hunter as a means to drive growth. In interviews with CNBC, executives said category expansion across the business can both draw in new customers and entice existing shoppers to spend more.
-With Target's "brick-and-mortar presence, we should be able to expose the Hollister brand to people who aren't shopping with us today," said Corey Robinson, the company's chief product officer, overseeing both the Abercrombie and Hollister brands. "And then with those customers who love us so much today, to be able to be an even bigger part of their lives is something we're looking forward to."
-Under the terms of the collaboration, Hollister and Target are working together to design the products while Target, given its expertise in the space, will handle manufacturing, Robinson said. The collaboration will last at least through next year with drops expected during the fall, holiday and spring 2027 shopping seasons.
-"Moving beyond just bedding and thinking about blankets, wearable blankets, plush, that's how we will evolve the partnership," Robinson said. "With our target age, dorm is top of mind. From a seasonality perspective, there's a lot of ways you can refresh your dorm, and decorate with newness based on seasonality."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMURwcHRUbXF0UHhnaW1KSG1Cd2F2U0NXMEFxYWlxb0N5V0haZ1cxZG1hOVJBeEp3UUV1bkozMDJuZFhSTEROY0dDdmdLSk9DaFNVdGN4SktwSE1UbmpQdU9DR1BHYzhqc0ZZdW93TVVLcDBBRmFGUzFnQVc0STdpQURSdWw?oc=5" target="_blank">Bain tests software takeover targets by vibecoding AI replicas</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran hails ‘progress’ to end Lebanon war - Financial Times
+## US and Iran make ‘progress’ in talks - Financial Times
 
 来源：金融时报
 
@@ -273,124 +315,85 @@ Under the terms of the collaboration, Hollister and Target are working together 
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5IbGdmbG5zYTRLYkVMZTdaSHNBX0ZObTloS0RwSEFfYzBpZk94SHR4dWtROXkwVy1UR3FUNlJmOEkwUWFpT0hoZWMyS2dKcXJTLUFLbzNaZzZESmp3N0VfYTNLLXptSG4tX0Q1U0xqT1I?oc=5" target="_blank">Iran hails ‘progress’ to end Lebanon war</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5IbGdmbG5zYTRLYkVMZTdaSHNBX0ZObTloS0RwSEFfYzBpZk94SHR4dWtROXkwVy1UR3FUNlJmOEkwUWFpT0hoZWMyS2dKcXJTLUFLbzNaZzZESmp3N0VfYTNLLXptSG4tX0Q1U0xqT1I?oc=5" target="_blank">US and Iran make ‘progress’ in talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX handed lowest possible ESG rating by MSCI - Financial Times
+## Germany reaches deal to buy 40% of Europe’s biggest tank maker - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFMwZTdZb3VKRGc1NWNIZGxOTkdqVWQ4QURNal9BTy1scm5fX3g3dktIUnAyckM1SmEzUGZoZjIzT2dRaW5rVWhBdmY3T3ZRR2pIaWg0YURDWExGSEJnMEpLQ3NmOUsyNjVCajdVRGd4TERqaDJhVTJiSjFlTklNWVZrbTU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmZfTmhRbzhHMUxkQjVGeXBPTEhkWHFDTkRLVjZVcWZjc3BSS1NOSl9IWkR5YkNRNHBtT3ZiMHdudFctVnNSSTZ2N3k1S3g1NDF4THVNUmNOdGJwSDIwWGRFUGNWYk5DSnRYck5YeldsejBnQ0F3ZWtiSkpqWTNEaU10bEw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFMwZTdZb3VKRGc1NWNIZGxOTkdqVWQ4QURNal9BTy1scm5fX3g3dktIUnAyckM1SmEzUGZoZjIzT2dRaW5rVWhBdmY3T3ZRR2pIaWg0YURDWExGSEJnMEpLQ3NmOUsyNjVCajdVRGd4TERqaDJhVTJiSjFlTklNWVZrbTU?oc=5" target="_blank">SpaceX handed lowest possible ESG rating by MSCI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmZfTmhRbzhHMUxkQjVGeXBPTEhkWHFDTkRLVjZVcWZjc3BSS1NOSl9IWkR5YkNRNHBtT3ZiMHdudFctVnNSSTZ2N3k1S3g1NDF4THVNUmNOdGJwSDIwWGRFUGNWYk5DSnRYck5YeldsejBnQ0F3ZWtiSkpqWTNEaU10bEw?oc=5" target="_blank">Germany reaches deal to buy 40% of Europe’s biggest tank maker</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Why Giorgia Meloni turned on Donald Trump - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2FaQjJzblFnOF9qOFEzZko0UG5qMm5MWUxLc3JnRDgxRjI4Xzd6Q2o5VnJ1dGg0a0g0TTRXTEdXemswQUVrR2NGaDN3SHdrNHd5X3hYUVlqenBuVENHQVZ3OFhuQ0hHY0JDSm9ISWI4SklKb1pSaXZ5ZEQ3aGs1eDBtR2E?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2FaQjJzblFnOF9qOFEzZko0UG5qMm5MWUxLc3JnRDgxRjI4Xzd6Q2o5VnJ1dGg0a0g0TTRXTEdXemswQUVrR2NGaDN3SHdrNHd5X3hYUVlqenBuVENHQVZ3OFhuQ0hHY0JDSm9ISWI4SklKb1pSaXZ5ZEQ3aGs1eDBtR2E?oc=5" target="_blank">Why Giorgia Meloni turned on Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Philippines fears China may move to seize full control of disputed atoll - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWFxQUhZZGkyQXd5dkVLcElITjFUTXdwSzhsTXNRZDdLa1NnNHlMaV81bFZLTnllV2tJQ3hiZDh2OUhCMnNnakhpR2hYaDFzZ1JoSDBjcElmb1RXNG9CZWNCTEh1d0tyMXd0ZHJfdlV2U2NXaVBodS1ycTdpbzFHV2NFWGY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWFxQUhZZGkyQXd5dkVLcElITjFUTXdwSzhsTXNRZDdLa1NnNHlMaV81bFZLTnllV2tJQ3hiZDh2OUhCMnNnakhpR2hYaDFzZ1JoSDBjcElmb1RXNG9CZWNCTEh1d0tyMXd0ZHJfdlV2U2NXaVBodS1ycTdpbzFHV2NFWGY?oc=5" target="_blank">Philippines fears China may move to seize full control of disputed atoll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Rightwing populist ‘El Tigre’ wins Colombia election - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYUYtaGpOTUNpb1pYT1JXVVBkNWR1bkxZUU9nUkFUWlhocU5ad2k4SFllYTNER1RWUW9HWEFpSHNyTWEwLUdVTVlnaG5BSFNTeWQ5dUw1RnE4Y3hycXVQemFyUFV0TWdnZEJudTRXd2I?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYUYtaGpOTUNpb1pYT1JXVVBkNWR1bkxZUU9nUkFUWlhocU5ad2k4SFllYTNER1RWUW9HWEFpSHNyTWEwLUdVTVlnaG5BSFNTeWQ5dUw1RnE4Y3hycXVQemFyUFV0TWdnZEJudTRXd2I?oc=5" target="_blank">Rightwing populist ‘El Tigre’ wins Colombia election</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## China targets US rare earth and other firms with export controls - Reuters
+## US authorizes Iranian oil sales amid talks on final peace deal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5" target="_blank">China targets US rare earth and other firms with export controls</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5" target="_blank">US authorizes Iranian oil sales amid talks on final peace deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold rebounds from one-week low as Iran cites progress in peace talks - Reuters
+## India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWG14bzR3eVBkdmFpZ0VoT0tBUzRBbG0wZVUzWW9wN0hqbDV5SDlYUl9WRWxSZE9sZGsxc2ZCVEhHVDdhQUp0LW5MME0zOTRQM2NCb0h0eGlzZzFNODFVc1NBSFdVYkZCNzg3UnZiYUhpOWRCb0tfUFZaNVlrRDFRX0c2c1M1b3B2U3BROWwwQnlXT2N4LTZJOTRpbUVxdFhycXhQNkp5MzYyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHRnOGVKZXFxVV9uVlMzMWtWeHlnMUhnVy1TclhMZ1VMQkxaZ3NwWXhnODhkYWhSSUNsSV93SEJLQ3FnSk9vZnVFeWFfcG1aNlpMUjJaV2dKbkJ0WTlWWGl4OVd2Zm05REV3MUhnczhZZDlwbUxMM1JUVTRZU0R4QWRmN3IyUWZlckJtd3JKSmlaS0RyYzJHU3BJTWlTTlFLNlhHcDlUQWZicW9OZ3RxVGFaTFRuekpabF9kM2xKd2hIYnRrVkJqMi1Od1lXLXV5OWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWG14bzR3eVBkdmFpZ0VoT0tBUzRBbG0wZVUzWW9wN0hqbDV5SDlYUl9WRWxSZE9sZGsxc2ZCVEhHVDdhQUp0LW5MME0zOTRQM2NCb0h0eGlzZzFNODFVc1NBSFdVYkZCNzg3UnZiYUhpOWRCb0tfUFZaNVlrRDFRX0c2c1M1b3B2U3BROWwwQnlXT2N4LTZJOTRpbUVxdFhycXhQNkp5MzYyQQ?oc=5" target="_blank">Gold rebounds from one-week low as Iran cites progress in peace talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHRnOGVKZXFxVV9uVlMzMWtWeHlnMUhnVy1TclhMZ1VMQkxaZ3NwWXhnODhkYWhSSUNsSV93SEJLQ3FnSk9vZnVFeWFfcG1aNlpMUjJaV2dKbkJ0WTlWWGl4OVd2Zm05REV3MUhnczhZZDlwbUxMM1JUVTRZU0R4QWRmN3IyUWZlckJtd3JKSmlaS0RyYzJHU3BJTWlTTlFLNlhHcDlUQWZicW9OZ3RxVGFaTFRuekpabF9kM2xKd2hIYnRrVkJqMi1Od1lXLXV5OWc?oc=5" target="_blank">India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US and Iran conclude high-level talks in Switzerland, mediators say - Reuters
+## Meta's WhatsApp to be led by Indian startup founder Kunal Shah - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWY0di1pSncycGtYTEtHQm9lQXhCWUxRSnlhMHlKdnJIdzdxYWlCcjdPVF9TeWJ6YXZQYU1oVjh0d1hRajdRaklhYU9CMHROR3VIbnNnSTFSaHJHYk1iNUJmLWhpVWU3VDN0cEE0UVZXTmFFQjYzUFZ1eUNNUFh0MmtDWmxWaUhFTjN0aWxMNGlCQ3Uyb0hBSk1Bd1h5cm9lN0RtOEdZSHdRdUlILVJueXJIQTBoMHMy?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPc05XcTduNWViSmxvQ01JM3FJRUItOWhMd2tWYm92ZXBzRWx4aXBiMnpTb1VhS3JTektSd2VSLUJhNktzSWtfd3NDUkxxa1RFdnFaS29WRjdLOGFvZXg2YWV6MU1xSUk2UUlvQ2MzX3g5c285QkY3ZEd2ZEhxTnEwZ25OeTJ5NnVVWkYtZ2t2cFR2NWtMY2pTU3dHd042SHFoUHY4VjFn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWY0di1pSncycGtYTEtHQm9lQXhCWUxRSnlhMHlKdnJIdzdxYWlCcjdPVF9TeWJ6YXZQYU1oVjh0d1hRajdRaklhYU9CMHROR3VIbnNnSTFSaHJHYk1iNUJmLWhpVWU3VDN0cEE0UVZXTmFFQjYzUFZ1eUNNUFh0MmtDWmxWaUhFTjN0aWxMNGlCQ3Uyb0hBSk1Bd1h5cm9lN0RtOEdZSHdRdUlILVJueXJIQTBoMHMy?oc=5" target="_blank">US and Iran conclude high-level talks in Switzerland, mediators say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPc05XcTduNWViSmxvQ01JM3FJRUItOWhMd2tWYm92ZXBzRWx4aXBiMnpTb1VhS3JTektSd2VSLUJhNktzSWtfd3NDUkxxa1RFdnFaS29WRjdLOGFvZXg2YWV6MU1xSUk2UUlvQ2MzX3g5c285QkY3ZEd2ZEhxTnEwZ25OeTJ5NnVVWkYtZ2t2cFR2NWtMY2pTU3dHd042SHFoUHY4VjFn?oc=5" target="_blank">Meta's WhatsApp to be led by Indian startup founder Kunal Shah</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Indian shares open higher as US-Iran talks progress, oil eases - Reuters
+## EV maker Lucid to cut about 18% of US workforce, COO Winterhoff exits - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnl3WUZuRzA2cHZxX3Bsal8yQlJxUEtFM2NDUk9NcXVXNWZfdVVTazhJTkEzd0k1S3hCc0x2U0dDbnBsQlNPaE9hRFZwV3RzVkJId3UxVmJYbjBPci1hU1JJMTF6M1Njd3dJOEdTVndxcXRINFFLMzVaaHhNMUcweFl5bEZkNExuUXl6OGZLRzA2ZXhxdTNQeFFKaTdEWDI4U0FDOHRB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXhPRzl5b1VSdFYwaldiOUV2LTZ1VDdQbVpvTUttX2VVVWNHTlBEYmZSZXFBcjlSN21MbXpCSlZsN21KWVI4SW5ZSXlybTBEaHM5YklnMXU0R2lIcC02b3JpT25EZVhIOExMT2JsZV9wRlJObS1Xc3VobGZjUndxemdlbmxBNWI0VnFQdWp4dGl2Y2Z5MWxkbnoweHFJUWQ4bHNnNC13?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnl3WUZuRzA2cHZxX3Bsal8yQlJxUEtFM2NDUk9NcXVXNWZfdVVTazhJTkEzd0k1S3hCc0x2U0dDbnBsQlNPaE9hRFZwV3RzVkJId3UxVmJYbjBPci1hU1JJMTF6M1Njd3dJOEdTVndxcXRINFFLMzVaaHhNMUcweFl5bEZkNExuUXl6OGZLRzA2ZXhxdTNQeFFKaTdEWDI4U0FDOHRB?oc=5" target="_blank">Indian shares open higher as US-Iran talks progress, oil eases</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXhPRzl5b1VSdFYwaldiOUV2LTZ1VDdQbVpvTUttX2VVVWNHTlBEYmZSZXFBcjlSN21MbXpCSlZsN21KWVI4SW5ZSXlybTBEaHM5YklnMXU0R2lIcC02b3JpT25EZVhIOExMT2JsZV9wRlJObS1Xc3VobGZjUndxemdlbmxBNWI0VnFQdWp4dGl2Y2Z5MWxkbnoweHFJUWQ4bHNnNC13?oc=5" target="_blank">EV maker Lucid to cut about 18% of US workforce, COO Winterhoff exits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Stocks rally in Asia as Iran cites progress in talks - Reuters
+## Shares of Russia's Gazprom fall below 100 roubles, lowest since 2009 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW1xZmdsbE9reXJpakNieWVWeFg0T2ZOcFpXX1NtdDl3N3dKUHVfQk5QQUV0SzN4ZldRQkRoRGFLcTBVM3hvd04tY0RrNTdMOGNaOUdqUFNaM3pXSFltVlJSSld5dzNpTnBNYlRFczhGQm1PTXVjWHMyS1dsakpQenZ6bWVNemVQYURYOERVdWFjNERPNFJWRkpuS24wMllsd0trMnFzU0MwV2lfZmNZckdyYlBhUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5" target="_blank">Stocks rally in Asia as Iran cites progress in talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW1xZmdsbE9reXJpakNieWVWeFg0T2ZOcFpXX1NtdDl3N3dKUHVfQk5QQUV0SzN4ZldRQkRoRGFLcTBVM3hvd04tY0RrNTdMOGNaOUdqUFNaM3pXSFltVlJSSld5dzNpTnBNYlRFczhGQm1PTXVjWHMyS1dsakpQenZ6bWVNemVQYURYOERVdWFjNERPNFJWRkpuS24wMllsd0trMnFzU0MwV2lfZmNZckdyYlBhUQ?oc=5" target="_blank">Shares of Russia's Gazprom fall below 100 roubles, lowest since 2009</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
