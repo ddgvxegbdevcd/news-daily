@@ -1,68 +1,72 @@
 # 每日财经新闻
 
-更新时间：2026-06-23 04:02:47
+更新时间：2026-06-23 15:13:48
 
-## Greenspan’s Legacy Is as Convoluted as His Words
+## EU Sees 6 Billion Reasons for New Levy on Online Shoppers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+链接：https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers
 
 正文长度：0
 
-摘要：<p>His reputation no longer lies in post-crisis tatters, but should it&nbsp;inspire&nbsp;Trump 2.0?</p>
+摘要：Bargain-hunting consumers across the European Union will start feeling the pinch of higher online shopping costs next week when a new levy primarily targeting China comes into force, adding a layer of trade friction between the two economies.
 
 
 ---
 
-## Tech Selloff Drags Asian Stocks Lower From Record: Markets Wrap
+## SpaceX Slides Amid Tech Selloff; AMC Tumbles on Share Sale | Stock Movers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap
+链接：https://www.bloomberg.com/news/videos/2026-06-23/spacex-slides-amid-tech-selloff-amc-down-on-share-sale-video
 
 正文长度：0
 
-摘要：Asian stocks slumped as investors rotated out of some of this year’s best-performing technology shares while awaiting further developments in US-Iran peace talks.
+摘要：On this episode of Stock Movers with Nathan Hager:
+
+- SpaceX (SPCX) is heading towards its fourth day of losses, and is currently above its lowest trading price ($149.34 on its IPO) as it continues to approaching that figure.
+- IBM (IBM) shares are climbing on news that the company and OpenAI are bringing AI to cyber defense.
+- AMC Entertainment (AMC) shares are lower after the movie theater operator entered into a definitive agreement with institutional investors to sell 95.25 million shares of its common stock for gross proceeds of around $200 million. (Source: Bloomberg)
 
 
 ---
 
-## SBP Group Eyes Innovation as It Shifts Beyond Generics
+## America's Nuclear Buildout Gains Speed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-23/sbp-group-eyes-innovation-as-it-shifts-beyond-generics-video
+链接：https://www.bloomberg.com/news/videos/2026-06-23/america-s-nuclear-buildout-gains-speed-video
 
 正文长度：0
 
-摘要：SBP Group CEO Eric Tse discusses his outlook for China's healthcare sector and how one of China's old-guard pharmaceutical players aims to transition from generics focused model to drug development. He speaks with Stephen Engle from the sidelines of 'The World Economic Forum's Annual Meeting of the New Champions' in Dalian. (Source: Bloomberg)
+摘要：Oklo Co-Founder and CEO Jake DeWitte joined Bloomberg Open Interest to talk about how America's nuclear resurgence is accelerating as government support, fuel supply improvements, and private capital unlock new reactor development. He reveals Oklo is targeting power production in roughly two years and argues the AI-driven data center boom is creating a market large enough for both large-scale and advanced modular nuclear reactors to thrive. (Source: Bloomberg)
 
 
 ---
 
-## Japan’s 5-Year Bond Sale Demand Weaker Than 12-Month Average
+## Warsh Fed Will Rely on Supply Side Indicators, Says Morgan Stanley's Jim Caron
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-23/japan-s-5-year-bond-sale-demand-weaker-than-12-month-average
+链接：https://www.bloomberg.com/news/videos/2026-06-23/warsh-fed-to-rely-on-supply-side-indicators-says-caron-video
 
 正文长度：0
 
-摘要：Japan’s five-year government bond auction Tuesday saw lower demand than the 12-month average, as yen weakness added to expectations that the Bank of Japan may need to raise rates faster.
+摘要：Jim Caron, CIO of portfolio solutions at Morgan Stanley Investment Management, said that new Fed chair Kevin Warsh is a 'supply side economist' will rely more on supply indicators than 'traditional' demand side economic data.  (Source: Bloomberg)
 
 
 ---
 
-## US-Iran Talks Continue as Trump Administration Allows Oil Sales
+## Massachusetts Court Kills Proposal for Toughest US Rent Control
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-23/us-iran-talks-continue-as-white-house-allows-oil-sales-video
+链接：https://www.bloomberg.com/news/articles/2026-06-23/massachusetts-court-kills-proposal-for-toughest-us-rent-control
 
 正文长度：0
 
-摘要：The US issued a 60-day license allowing Iran to sell oil on the international market, giving Tehran an economic lifeline as the two adversaries continued talks for a permanent peace deal. Bloomberg's Abeer Abu Omar reports from Dubai. (Source: Bloomberg)
+摘要：The Massachusetts Supreme Judicial Court struck down a ballot proposal that would have imposed the strictest statewide rent control in the US.
 
 
 ---
@@ -268,132 +272,132 @@ Shanghai resident Wang Lu told CNBC she specifically wanted to be at the park on
 
 ---
 
-## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug - Financial Times
+## Hedge fund to pay Avis $650mn in settlement after wild stock swings - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWo2WWlnVEdMMVJmNnRZYS1qdGFyMURmT0ptQ1NTc05YcHJFd2NhYW5tUnZtdWplYzZEMWFKUk0yS2pISk8zQlZpY2RYRTg0ek1qNkRlWnVabXlONk0yQmIyQTZPWXJublI0blMwUTRsTUt2ZWl5SEtVUkVkZ01wM291QUc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjZjOWxoc3M3dENCRDQ3c2l1THFhc2pZSTQyQmFMbV9nQmNLTzVkSHFUdWdUWGVIeDZyNC1aTndWSi01RjJBMkNRV25HdkN6V3oyQlFZZS1ZcmJOQVU2ZFNfaEZ2VDNlMzJQRjVhV0FGeWdoV3B3R2xIV0hIZmY2NERkNXQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWo2WWlnVEdMMVJmNnRZYS1qdGFyMURmT0ptQ1NTc05YcHJFd2NhYW5tUnZtdWplYzZEMWFKUk0yS2pISk8zQlZpY2RYRTg0ek1qNkRlWnVabXlONk0yQmIyQTZPWXJublI0blMwUTRsTUt2ZWl5SEtVUkVkZ01wM291QUc?oc=5" target="_blank">AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjZjOWxoc3M3dENCRDQ3c2l1THFhc2pZSTQyQmFMbV9nQmNLTzVkSHFUdWdUWGVIeDZyNC1aTndWSi01RjJBMkNRV25HdkN6V3oyQlFZZS1ZcmJOQVU2ZFNfaEZ2VDNlMzJQRjVhV0FGeWdoV3B3R2xIV0hIZmY2NERkNXQ?oc=5" target="_blank">Hedge fund to pay Avis $650mn in settlement after wild stock swings</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## America’s allies look to declare independence from the US - Financial Times
+## Heineken taps coffee executive to tackle sliding beer sales - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXctTzE5YXB5UFhXLWxVUUtUSHlNV3BlOEg3aXRsSW1OSzdXTHdnY3hBMWJMRmM0MldKa3RrMEp4dERkdmlvWmNWNXNIUGtvdGlIeXdQUHFJWlduWWJKTXJ6NnRCNDRDZFFiZGltQ1FnTjI2QkZObzNxcWFNVnBmR3FWblA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUNRLUw4QzQtRm0wNDJ2NHZOM005MUxCY3VwOHVFQWpPT2k0dS0tVlA1XzFfMk5nd0prYTdMZ2ZVa09lOEVUckwzN3g5N1A1MUhUWS16OW9PNzZzVjBJazl6QWFnRi1UXzhOSGpnMmFlU3piT0ozN2pSMVNzazhRbENNWFg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXctTzE5YXB5UFhXLWxVUUtUSHlNV3BlOEg3aXRsSW1OSzdXTHdnY3hBMWJMRmM0MldKa3RrMEp4dERkdmlvWmNWNXNIUGtvdGlIeXdQUHFJWlduWWJKTXJ6NnRCNDRDZFFiZGltQ1FnTjI2QkZObzNxcWFNVnBmR3FWblA?oc=5" target="_blank">America’s allies look to declare independence from the US</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUNRLUw4QzQtRm0wNDJ2NHZOM005MUxCY3VwOHVFQWpPT2k0dS0tVlA1XzFfMk5nd0prYTdMZ2ZVa09lOEVUckwzN3g5N1A1MUhUWS16OW9PNzZzVjBJazl6QWFnRi1UXzhOSGpnMmFlU3piT0ozN2pSMVNzazhRbENNWFg?oc=5" target="_blank">Heineken taps coffee executive to tackle sliding beer sales</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s CATL bets battery swapping will cut costs for Europe’s electric trucks - Financial Times
+## Big Tech leads sell-off in global stocks - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0xTeVU1UDdFTHY5dWtlR2dnWnNFNmNrSWZ6TURoa0RzT1JRTlYtWnRILWJwUnU5MXhIRzVnd1NhZFY4UDY1ZzB4alh0ckx4T2RSc2NLQUR0Qm84Y2hvVHRQeGtldm55MzhKUS15ZWJVV20zcTRmYjBsdGRhX3JoRWdIXzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPekt4U2xCdjFCNlVtZW1ZWWVBSXAtWGdrZ3AzT3RObG44VjZNZWNJZTU5Yll6MWNITWdWcDkzRUZqUmFhMGxvdGp2cEt4Um1WN3B4aDgyamZJM1hnbnJiMDcyYTlSYW9PVF9paHRqOGJvaXdWN0ZSa2lIa3RKT1FzVnFVM1g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0xTeVU1UDdFTHY5dWtlR2dnWnNFNmNrSWZ6TURoa0RzT1JRTlYtWnRILWJwUnU5MXhIRzVnd1NhZFY4UDY1ZzB4alh0ckx4T2RSc2NLQUR0Qm84Y2hvVHRQeGtldm55MzhKUS15ZWJVV20zcTRmYjBsdGRhX3JoRWdIXzQ?oc=5" target="_blank">China’s CATL bets battery swapping will cut costs for Europe’s electric trucks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPekt4U2xCdjFCNlVtZW1ZWWVBSXAtWGdrZ3AzT3RObG44VjZNZWNJZTU5Yll6MWNITWdWcDkzRUZqUmFhMGxvdGp2cEt4Um1WN3B4aDgyamZJM1hnbnJiMDcyYTlSYW9PVF9paHRqOGJvaXdWN0ZSa2lIa3RKT1FzVnFVM1g?oc=5" target="_blank">Big Tech leads sell-off in global stocks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alan Greenspan dies aged 100 - Financial Times
+## Private equity bosses turn to carried interest loans as payouts stall - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2hONVU4QVJIYldXZi1YWVdYclM5SWsyLUNFUmpRdkVCNjlPUVNFNTJXTEpseU5reDRvMURmLTNzc0dOQXdiSkczZTZSUlp6SE4zMlRZQTF5dFBZampzNFZmbi1qTi1zclg3ZXhUUEtLcnVsaDNka3JlX002eEdlRTBoTlY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUE3aEEwLTdPbFN4UnA2VUZ3QlVJckhrM1NPRlh6Nk0yWkdoNmFFcVpvbFRhbU1PWlNfNzJzNzVBcFRFTTZCMEN4SDlmemNqQ0VvUnJ0dkdDTEF6SndJTjdaVmQxRmMxX0lNRW9WbXlsVFJZc19LVFR5b1daY2gwbEpoNU4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2hONVU4QVJIYldXZi1YWVdYclM5SWsyLUNFUmpRdkVCNjlPUVNFNTJXTEpseU5reDRvMURmLTNzc0dOQXdiSkczZTZSUlp6SE4zMlRZQTF5dFBZampzNFZmbi1qTi1zclg3ZXhUUEtLcnVsaDNka3JlX002eEdlRTBoTlY?oc=5" target="_blank">Alan Greenspan dies aged 100</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUE3aEEwLTdPbFN4UnA2VUZ3QlVJckhrM1NPRlh6Nk0yWkdoNmFFcVpvbFRhbU1PWlNfNzJzNzVBcFRFTTZCMEN4SDlmemNqQ0VvUnJ0dkdDTEF6SndJTjdaVmQxRmMxX0lNRW9WbXlsVFJZc19LVFR5b1daY2gwbEpoNU4?oc=5" target="_blank">Private equity bosses turn to carried interest loans as payouts stall</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bain tests software takeover targets by vibecoding AI replicas - Financial Times
+## ‘I’m not the Godfather’, Albanian PM says - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMURwcHRUbXF0UHhnaW1KSG1Cd2F2U0NXMEFxYWlxb0N5V0haZ1cxZG1hOVJBeEp3UUV1bkozMDJuZFhSTEROY0dDdmdLSk9DaFNVdGN4SktwSE1UbmpQdU9DR1BHYzhqc0ZZdW93TVVLcDBBRmFGUzFnQVc0STdpQURSdWw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2lBY2hNZzEyaXdXSGlXa2tqWVI1ZnV2Q0F5bDd6VW9LOW8wN183V0U2MWZTc0hGV0trOXk2RS1EdFJWUGtfUWFrcTVGR2loMWdRMmZlbmhjdmczWjNVTGtlOWk3UzdVYnpqMHZyWWJYYlZHLXJ2MjFNTWJRbEhKcTQtN24?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMURwcHRUbXF0UHhnaW1KSG1Cd2F2U0NXMEFxYWlxb0N5V0haZ1cxZG1hOVJBeEp3UUV1bkozMDJuZFhSTEROY0dDdmdLSk9DaFNVdGN4SktwSE1UbmpQdU9DR1BHYzhqc0ZZdW93TVVLcDBBRmFGUzFnQVc0STdpQURSdWw?oc=5" target="_blank">Bain tests software takeover targets by vibecoding AI replicas</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2lBY2hNZzEyaXdXSGlXa2tqWVI1ZnV2Q0F5bDd6VW9LOW8wN183V0U2MWZTc0hGV0trOXk2RS1EdFJWUGtfUWFrcTVGR2loMWdRMmZlbmhjdmczWjNVTGtlOWk3UzdVYnpqMHZyWWJYYlZHLXJ2MjFNTWJRbEhKcTQtN24?oc=5" target="_blank">‘I’m not the Godfather’, Albanian PM says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil gains after selloff, awaits progress on Strait of Hormuz flows - Reuters
+## Trump insists Iran has agreed to nuclear inspections - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUplWC1jT3VodGprdkwtVkhQYk85R296T0hCZFVkOWJhYWUwRzkwbjlxcFByeEM2eUFjRXRMRVB2Y25XblFSTHlHeHZPdUMtU3BIaXNjczdOa044NHAyaVNJTlBseG5idkV3cmQyREZrMXlEeFRGUzAyNThSRXBpLVN4dWxSajFqeVJVaTlZdzdReXRPWnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5" target="_blank">Oil gains after selloff, awaits progress on Strait of Hormuz flows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUplWC1jT3VodGprdkwtVkhQYk85R296T0hCZFVkOWJhYWUwRzkwbjlxcFByeEM2eUFjRXRMRVB2Y25XblFSTHlHeHZPdUMtU3BIaXNjczdOa044NHAyaVNJTlBseG5idkV3cmQyREZrMXlEeFRGUzAyNThSRXBpLVN4dWxSajFqeVJVaTlZdzdReXRPWnc?oc=5" target="_blank">Trump insists Iran has agreed to nuclear inspections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US judge blocks Trump administration SNAP restrictions on soda, candy​ - Reuters
+## Chip stocks plunge, but bargain-hunters stem losses in other tech names - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOVW50Vjc1VWdIM185SlgxN2p2VXBZZGdLc1YtUWZOYklaR3h0dWhyYTJlM0RTQ1JldGJtclEtWTJZT19ZT2JKdlBkWjJ1R3Q0bFpGamkzeWNLbElQSV9zeGtqT3VaZmUwVjl6MEJLcEZCV3ZlZktvQlF1LUxib0x1Z1d3bHZ3RTVjX1ZDYUdfWFhwUUJVdkYwUkpBYkZid0ZSek0zcjFUV05GQ0lfblFWOWFWeVFGY2xOOXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOVW50Vjc1VWdIM185SlgxN2p2VXBZZGdLc1YtUWZOYklaR3h0dWhyYTJlM0RTQ1JldGJtclEtWTJZT19ZT2JKdlBkWjJ1R3Q0bFpGamkzeWNLbElQSV9zeGtqT3VaZmUwVjl6MEJLcEZCV3ZlZktvQlF1LUxib0x1Z1d3bHZ3RTVjX1ZDYUdfWFhwUUJVdkYwUkpBYkZid0ZSek0zcjFUV05GQ0lfblFWOWFWeVFGY2xOOXc?oc=5" target="_blank">US judge blocks Trump administration SNAP restrictions on soda, candy​</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5" target="_blank">Chip stocks plunge, but bargain-hunters stem losses in other tech names</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump signs orders calling for powerful quantum computer, targeting 2028 - Reuters
+## US Supreme Court boosts Exxon's bid to get compensation from Cuba - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQak5yNVlXRHEwdDlkeGVaMnVQZFYwXzQybXJ4eE10b2ZlcnVHOUlxMERKcUV5ckxFUkdlbHJ3VDNFY3FDaUNrWXFOYVMtUHc4cXQxRjN1NExMcDJoX0FCQ2R5X2NOMnd0ZTJsYzZuSG5uUzBfWk1RWlRJZjRabVZCYml0YXpQTklpYzRScmxLUUZyTWRxTmZVLVQ5Nzd3OFpzMWo2ZWpEYW9MVjQtRHNULU1CR1ZyaDV3dHBQeQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDc3bnpwVGVkTGlCa01Ja2picUxvbjBKSnVCSnFGZlpBMWF6YnkyZ2pWdlJGZnR5aTVqOW1uQU53c01vNnhkZC1oS1k5Ym1OMXE0UFc3Zy1WTmFlVW1wTmRkcTVDOWJ3SFJMZk5obGxJZVBnY2RlLVlyZHNnNVpRTlp6MWNkVFQtWkFNd0F4cFdsSi13bFQwWDlVZFRCT2dlTldLMWtKbXBPWTdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQak5yNVlXRHEwdDlkeGVaMnVQZFYwXzQybXJ4eE10b2ZlcnVHOUlxMERKcUV5ckxFUkdlbHJ3VDNFY3FDaUNrWXFOYVMtUHc4cXQxRjN1NExMcDJoX0FCQ2R5X2NOMnd0ZTJsYzZuSG5uUzBfWk1RWlRJZjRabVZCYml0YXpQTklpYzRScmxLUUZyTWRxTmZVLVQ5Nzd3OFpzMWo2ZWpEYW9MVjQtRHNULU1CR1ZyaDV3dHBQeQ?oc=5" target="_blank">Trump signs orders calling for powerful quantum computer, targeting 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDc3bnpwVGVkTGlCa01Ja2picUxvbjBKSnVCSnFGZlpBMWF6YnkyZ2pWdlJGZnR5aTVqOW1uQU53c01vNnhkZC1oS1k5Ym1OMXE0UFc3Zy1WTmFlVW1wTmRkcTVDOWJ3SFJMZk5obGxJZVBnY2RlLVlyZHNnNVpRTlp6MWNkVFQtWkFNd0F4cFdsSi13bFQwWDlVZFRCT2dlTldLMWtKbXBPWTdw?oc=5" target="_blank">US Supreme Court boosts Exxon's bid to get compensation from Cuba</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters
+## Ebola cases in Congo reach highest first-month total of any outbreak, WHO says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXU0QzJaVG02TFBIM29McmY0MXdHYTNDVGFrTEt4RkZxYmg5R3BaM2htRlFIZDY3WXJUTk1UR1NkY1dlMzJzaG1CUTB1ek5GMkZKcTdXTEs4NWh4TzZKVUZIQ2pWR05HU1JhVHJNeEVXUDNUVzRwYUF3emxhN1g5aUdoa1MtUDI0SFFTcER6Qjd1NTZhTXJZV2lVSDFIN0tGZ0pIclA0a2k0eHNpWUhjbmlQSFdJdEVjUEk1RTB0WWNpOGx2aDQ3SXpwUzlaWEFSb2pxWnMwN2UwekU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5" target="_blank">Oracle workforce shrinks by about 21,000 employees amid AI adoption</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXU0QzJaVG02TFBIM29McmY0MXdHYTNDVGFrTEt4RkZxYmg5R3BaM2htRlFIZDY3WXJUTk1UR1NkY1dlMzJzaG1CUTB1ek5GMkZKcTdXTEs4NWh4TzZKVUZIQ2pWR05HU1JhVHJNeEVXUDNUVzRwYUF3emxhN1g5aUdoa1MtUDI0SFFTcER6Qjd1NTZhTXJZV2lVSDFIN0tGZ0pIclA0a2k0eHNpWUhjbmlQSFdJdEVjUEk1RTB0WWNpOGx2aDQ3SXpwUzlaWEFSb2pxWnMwN2UwekU?oc=5" target="_blank">Ebola cases in Congo reach highest first-month total of any outbreak, WHO says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters
+## Israel smuggled Starlink systems into Iran, former PM says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQai1DN2ktaXF3TEJzaFE4U1hfa1dQUXV3MUtqT0ZwRTJ4amJqVGMybFFLWDhtaEtMNG9TN3dLMnZfY2JLcVdSbk1VQ2hjUU5ELUtsSFdhVlhHRE9DOXRQYXZjNFFTY2xtS3FibWZ0aWRMcmZfRmx0ME9VX0ZfbFIxWUVwNmtNalVSNmFsODV3anpUQmU0cl8zZ2VSTExValAxUDRUZmRaQ3N0aXpqZk5FYUk1TEI0Mkk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5" target="_blank">BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQai1DN2ktaXF3TEJzaFE4U1hfa1dQUXV3MUtqT0ZwRTJ4amJqVGMybFFLWDhtaEtMNG9TN3dLMnZfY2JLcVdSbk1VQ2hjUU5ELUtsSFdhVlhHRE9DOXRQYXZjNFFTY2xtS3FibWZ0aWRMcmZfRmx0ME9VX0ZfbFIxWUVwNmtNalVSNmFsODV3anpUQmU0cl8zZ2VSTExValAxUDRUZmRaQ3N0aXpqZk5FYUk1TEI0Mkk?oc=5" target="_blank">Israel smuggled Starlink systems into Iran, former PM says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
