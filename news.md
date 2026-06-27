@@ -1,69 +1,167 @@
 # 每日财经新闻
 
-更新时间：2026-06-27 03:58:33
+更新时间：2026-06-27 13:55:03
 
-## Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy
+## US Pet Market Set to Surpass $250 Billion
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy
+链接：https://www.bloomberg.com/news/videos/2026-06-27/us-pet-market-set-to-surpass-250-billion-video
 
 正文长度：0
 
-摘要：Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.
+摘要：Americans are increasing spending on their pets beyond traditional preventative care, with the US pet market projected to grow from approximately $150 billion today to over $250 billion in the next decade. Bloomberg Intelligence consumer staples analyst Diana Rosero-Pena joins Bloomberg This Weekend with David Gura, Christina Ruffini, and special dog correspondent Brutus to provide insights into the future of pet retail. (Source: Bloomberg)
 
 
 ---
 
-## Philippine Government Plans to Raise Budget by 6% Next Year
+## Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/philippine-government-plans-to-raise-budget-by-6-next-year
+链接：https://www.bloomberg.com/news/videos/2026-06-27/venezuela-struggles-with-earthquake-rescue-efforts-video
 
 正文长度：0
 
-摘要：The Philippines plans to increase the budget by 6% next year to 7.2 trillion pesos ($117 billion), according to the budget department.
+摘要：Bloomberg News Andean Bureau Reporter Andreina Itriago is on Bloomberg This Weekend explaining concerns that the official casualty figures in Venezuela after the earthquake are likely underreported, with many more deaths expected as rescue efforts continue and bodies are recovered. Itriago explains to hosts David Gura and Christina Ruffini that the government’s capacity to conduct search and rescue operations is described as very limited, with much of the initial response carried out by local citizens rather than state forces. (Source: Bloomberg)
 
 
 ---
 
-## Bolivia Moves to Flexible Exchange-Rate System After 15 Years
+## AI’s Energy Crunch Has Investors Searching for Next IPO Winners
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/bolivia-moves-to-flexible-exchange-rate-system-after-15-years
+链接：https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush
 
 正文长度：0
 
-摘要：Bolivia is moving to a flexible exchange-rate system to strengthen macroeconomic stability, its Finance Ministry announced Friday.
+摘要：The artificial intelligence boom has a power problem, and Wall Street is betting billions on companies that promise to solve it &mdash; even if some of the technology hasn’t been fully developed yet.
 
 
 ---
 
-## Wall Street Week | USMCA: Can North America’s Trade Deal Survive?
+## Schrödinger's Strait of Hormuz: Open or Closed?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-26/wall-street-week-north-american-trade-showdown-video
+链接：https://www.bloomberg.com/news/videos/2026-06-27/schrodinger-s-strait-of-hormuz-open-or-closed-video
 
 正文长度：0
 
-摘要：This week, a special edition of Wall Street Week on the USMCA trade deal. The renegotiations are testing the future of an auto industry built on decades of cross-border integration. And, American farmers increasingly depend on exports to Canada and Mexico as other overseas markets become more difficult to access. Plus, years of infrastructure investment have created an energy market that crosses borders more easily than political narratives suggest. Later, can three countries with different priorities still agree on a common economic vision? (Source: Bloomberg)
+摘要：Despite a ship being struck in the Strait of Hormuz on Thursday and another incident over the weekend, some vessels continue to travel the strait on both the Iranian and Omani sides. However, overall traffic remains significantly reduced compared to pre-conflict levels, with daily ship movements down from over 140 in February to approximately 30-40 currently. Bloomberg News Energy & Commodities Reporter Stephen Stapczynski joins Bloomberg This Weekend to explain to hosts David Gura and Christina Ruffini that safety concerns persist, causing ship owners, captains, and energy exporters to reassess the risks of passage through this critical waterway. (Source: Bloomberg)
 
 
 ---
 
-## Earn Your Leisure Co-Founders on Financial Literacy
+## MSG Mystery Event, Ranch Dressing Love | BTW: Headlines You Should See
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-26/earn-your-leisure-co-founders-on-financial-literacy-video
+链接：https://www.bloomberg.com/news/videos/2026-06-27/msg-mystery-event-ranch-dressing-love-btw-video
 
 正文长度：0
 
-摘要：The CEOs and co-founders of Earn Your Leisure, Rashad Bilal and Troy Millings, explain their educational platform that looks to help individuals gain 
- financial freedom and generational wealth. They discuss how to ride the tech stock wave with Romaine Bostick and Katie Greifeld on Bloomberg's "The Close." (Source: Bloomberg)
+摘要：Catch up on all the headlines with BTW. Lisa Mateo, Christina Ruffini and David Gura dive into the headlines you may have missed on Bloomberg This Weekend. Watch the show LIVE every Saturday and Sunday morning. (Source: Bloomberg)
+
+
+---
+
+## How Kohl's lost its way — and is trying to become relevant again
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html
+
+正文长度：9533
+
+摘要：Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Kohl's was once a retail darling, carving out market share as a department store catering to the middle-income American consumer with coupons and deals that drove loyalty.
+But over the past five years, Kohl's stock has lost nearly 70% of its value, plummeting as the retailer reported weak sales.
+As department stores struggle to stay relevant and middle-income consumers face budget pressure, Kohl's is now trying to reinvigorate sales by leaning back into its core value proposition and investing in the store experience to ensure customers find what they need and keep coming back for more. Though Wall Street analysts believe the retailer has more work to do, investors have started to take notice: Kohl's shares have climbed more than 130% in the past year.
+"For us, it's really about making sure that we are picking a lane," CEO Michael Bender told CNBC. "Sitting in the middle of the retail landscape like we do, selling the products like we do, that are admittedly more discretionary than others, means that you have to pick a lane and decide who you're serving, and that you understand that customer really, really well."
+The company, which went public in 1992, saw its peak in the early 2000s as department stores gained traction around the U.S. Kohl's was known for its value, proprietary brands, coupons and Kohl's cash rewards, enjoying success along with other department store chains like Macy's and Bloomingdale's.
+At its height, Kohl's commanded major market share, with its stock reaching an all-time high of $82 per share in late 2018 and the company reporting revenue of $20.23 billion for the fiscal year ended February 2019.
+But soon after, the retailer began to lose traction. While department stores have broadly struggled during that time, Kohl's also faced specific issues that contributed to revenue declines.
+"As a department store, they've kind of been struggling for a number of years," Chuck Grom, an analyst at Gordon Haskett, told CNBC.
+Now, the company is working to stabilize its business, return to growth and win back a customer base that Bender said Kohl's never completely lost.
+Losing its core
+Through changing its assortment, limiting coupon usage and leaning into off-price retail instead of proprietary brands, Kohl's "alienated" its core customers, forcing them to go elsewhere, Grom said.
+Grom, who has been covering Kohl's for years, said the retailer went wrong when it leaned into being an off-price retailer.
+"I think companies need to realize who their customer bases are and not try to become somebody they're not," he said. "I think too often retailers want to become what somebody else is, and that often can backfire on you."
+It's a move that Bender said set Kohl's down the wrong path, leading to years of stagnant sales, declining foot traffic and "drifting" business strategies. The company saw rapid executive turnover and changes to its credit card and promotional offerings, which also came as it dealt with increased competition.
+"We made some decisions where we took away categories, for example, petites and jewelry, we've spoken about that in previous earnings calls and other public discussions, those are categories, as an example, that are not substitutable," Bender said. "We stopped listening to the customer."
+Kohl's paid the price. Wall Street lost confidence in the retailer, which posted quarter after quarter of slumping sales. At the same time, competitors like Walmart and T.J. Maxx were snatching up market share left behind by Kohl's, and online retailers such as Amazon were growing.
+Winning over cost-conscious consumers hit by elevated inflation in recent years also became more difficult as more retailers put a premium on value.
+"There always is this concern that can department stores actually grow for any meaningful period of time? There's lots of competition in terms of off-price specialty brands going direct-to-consumer," said Blake Anderson, an analyst covering Kohl's at Jefferies. "The space has really evolved over time, and I think the way that Kohl's has competed has been significantly tied to value, and so winning that customer based on value is becoming very difficult."
+Sonia Lapinsky, managing director of retail at consulting firm AlixPartners, said a pressured consumer coupled with the fall of the traditional department store model meant the broader economy wasn't on Kohl's side, either.
+"They're looking for options that are giving them their best bang for their buck," she said. "They want value, they want brands, they want the cheapest price they can get it. And there's a lot of compelling propositions out there from these other retailers."
+Lapinsky added that priorities at Kohl's changed multiple times after the company's peak, which led in part to its decline.
+"Over the years, we've seen a lot of shifting strategies at Kohl's, specifically whether they're getting into athletic and athleisure, or they're doubling down on fashion, or now they're growing private label, and it's a constant kind of shift of what the customer can expect when they walk into the store," Lapinsky told CNBC. "I think that's caused some confusion."
+Turning the page
+Since Bender took over as CEO in late 2025, he said he's been focused on returning to what always worked for Kohl's: proprietary brands, value, coupons and assurance customers will reliably find the products they want at the right prices.
+"In those periods of time, Kohl's was known for taking care of families and making sure that there was assurance that what they were looking for, added value, was going to be available to them," Bender said. "Some of the restoration of that theme that made Kohl's great back then, we think is still relevant today. Customers want convenience."
+In its most recent earnings report last month, Kohl's posted its best comparable sales growth in four years, even as it saw revenue decline. The retailer reported revenue of $3 billion, topping Wall Street estimates, and projected full-year net sales and comparable sales to be in a range of down 2% to flat.
+At the time, Bender said the quarter marked Kohl's "knocking on the door of growth." The stock spiked 20% following the report.
+Grom, the Gordon Haskett analyst, said he believes if Kohl's hadn't returned to its core identity, it would have been "problematic" for the retailer.
+"I think their strategy actually makes a lot of sense right now," Grom said. "I think getting back to who they are is going to be important for their success."
+Kohl's, which has traditionally catered to older shoppers, has also been trying to capture younger consumers, especially through its Sephora shop-in-shops, designed to draw Generation Z into the store.
+Though the Sephora shops struggled slightly in the retailer's most recent quarter — with Bender saying on a call with analysts that the business "underperformed" and declined by a low-single digit percentage — it's historically delivered billions in sales and growing momentum.
+"What's been a really interesting development for them is a creative use of their square feet and a way to try to drive not only sales, but new and younger customers," Anderson, the Jefferies analyst, said. "There's often some pushback on department stores, that they were established during a different generation and some of the customers do skew older, so ensuring they maintain relevancy for younger consumers is important."
+Bender said the younger generation is "who we can grow with in the future," as Kohl's works to convert that customer to buy deeper in the store after coming in for Sephora.
+Despite Kohl's progress, Wall Street may not be convinced yet that the company is making its return to being a household name.
+In a June note, TD Cowen analysts wrote that they believe the company is "making the right strategic decisions" but rated the stock at hold due to underperformance in the apparel and footwear businesses.
+"Kohl's remains a 'show-me' story, but results appear better than feared with [comparable sales]," the analysts wrote after the most recent earnings report. "We continue to view simplified promotions, rebalanced inventory and leveraging success in juniors as keys to the turnaround. On first look, progress in product and inventory is encouraging, though pressure on the core credit consumer and 'other revenue' remains a key question."
+Lapinsky said because of its reputation for deals and promotions, Kohl's has to offer a strong value proposition in addition to a worthwhile in-store experience, which sets it apart from other retailers.
+"They have to have a compelling product offering, they have to have the right prices, they have to have the product that consumers want to go into the store and to know that they're getting the best deal — that's really what the consumer is looking for, and that's where they've gone other places for," she said.
+Lapinsky added that while Kohl's is clearly trying to improve its balance sheet and bottom line, the market will have to wait and see how it fares against rising competition as it tries to win back customers.
+Still, Bender said while the signs toward recovery are encouraging, it's only the first step in a longer road into the "neighborhood" of growth.
+"We have not arrived yet," Bender said. "I don't want anyone to feel like we planted that flag and said, 'We're done.' We're still in the early innings, quite honestly, but we are moving in a direction that is much more positive and aligned with a lot more clarity about the direction that we want to take the company."
+
+</details>
+
+
+---
+
+## A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/27/strong-summer-box-office.html
+
+正文长度：4423
+
+摘要：Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Hollywood is having its best summer since before the pandemic, and that hot streak is putting the annual box office on pace to cross $10 billion for the first time in seven years.
+The season, which runs from the first weekend in May through Labor Day, has tallied $1.8 billion so far through Sunday. That's down less than 2% from 2019 levels, or just about a $30 million lag. Industry analysts keep a close eye on this period of the year because it typically accounts for about 40% of the total annual domestic box office.
+"The summer box office is incredibly important," said Paul Dergarabedian, head of marketplace trends at movie data company Rentrak. "It's vitally important in terms of what the overall health of the industry looks like and what that portends for the entire year."
+What sets this summer apart is that it didn't kick off with a blockbuster action film or superhero team-up. Instead, the first major hit of the season came with the release of Disney's "The Devil Wears Prada 2," followed by Universal's "Obsession" and A24's "Backrooms," two low-budget horror films from YouTube creators-turned-filmmakers.
+It was further fueled by residual ticket sales of Lionsgate's "Michael," the Michael Jackson biopic, which debuted in late April.
+Together, those four films have contributed nearly $850 million to the domestic summer box office since the start of May, according to data from Rentrak. Notably, that's about how much Disney and Marvel's "Avengers: Endgame" had tallied for the 2019 box office during the same period.
+Last week's release of Disney and Pixar's "Toy Story 5" delivered another boost, posting a franchise-best opening of $160 million.
+Combined, the handful of upside surprises is making for a stronger-than-expected domestic box office and a promising foundation for the second half of the year as the industry chases pre-pandemic levels.
+As of Sunday, the 2026 box office has tallied $4.4 billion domestically, about 15% behind the $5.2 billion the 2019 box office had collected during the same time period.
+Currently playing in theaters
+Contributing to the surprisingly strong ticket sales is movies like "Michael," "Obsession" and even Amazon MGM's "Project Hail Mary," which was released in March, that are holding strong at the box office week after week.
+Typically, after opening weekend, a title will see sales drop anywhere from 50% to 70%. But these films were seeing drops of between 20% to 40% each week.
+"Obsession" has pulled off an even rarer box office feat as ticket sales actually increased in its second and third weekend in theaters, up 39% and 14%, respectively, according to data from The Numbers.
+That success is a sign that films are getting solid word of mouth from audiences and that it's driving new moviegoers to cinemas.
+"It's just been one after another after another," said Alex DelVecchio, general manager of Rutgers Cinema in Piscataway, New Jersey. "I always said this whole year was about getting to June 19. Because once you get to June 19 you hit this six weeks in a row. It's Toy Story, 'Supergirl,' Minions, 'Moana,' ['The Odyssey'] and Spider-Man."
+The combined efforts of those six films could boost the summer box office to $4.2 billion, Dergarabedian said. The summer box office has only surpassed $4 billion once since 2019, and that was thanks to the dual efforts of Warner Bros. "Barbie" and Universal's "Oppenheimer" in 2023, according to Rentrak data.
+That threshold would mark a return to normal cadence for the summer box office, which collected more than $4 billion practically every year between 2013 and 2019 before Covid shut down cinemas.
+Universal's "The Odyssey," directed by Christopher Nolan, is currently tracking for a $100 million-plus opening weekend and is expected to benefit significantly from premium large format screenings.
+Sony's "Spider-Man: Brand New Day," which was made in collaboration with Disney's Marvel Studios, could perform even better, with some analysts predicting between $200 million and $250 million for its opening weekend.
+"'Spider-Man: Brand New Day' could be the biggest opening weekend of the year," Dergarabedian said. "And that opens on July 31st. What's that going to mean for August? Well, a lot, because that's going to add and contribute a lot of box office to the month. Then that sets up a fall and a holiday period [where] I think we're not going to see really that much of a slowdown."
+
+</details>
 
 
 ---
@@ -204,210 +302,132 @@ Gold said that if consumers begin to hold on to devices for longer because of pr
 
 ---
 
-## Estrogen patches are hard to find, and it may not be resolved any time soon
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html
-
-正文长度：7679
-
-摘要：Estrogen patches are in short supply as demand for menopause treatments skyrockets, and it could take at least a year for manufacturers to catch up.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Estrogen patches are in short supply as demand for the menopause medications skyrockets, and it could take at least a year for manufacturers to catch up.
-Prescriptions of estrogen patches have increased 162% over the past two years, according to data from HealthVerity. Already rising demand was turbocharged last fall when the Food and Drug Administration removed a more than 20-year-old black box warning discouraging women from taking hormone replacement therapy.
-Manufacturers are struggling to keep pace. Three types of patches are in shortage, according to data from the American Society of Health-System Pharmacists, which relies on reports from healthcare providers. The FDA, using a different methodology, hasn't declared a shortage of estradiol.
-"You can get them, but it takes a lot of time and effort when we're all so busy at this time of our lives," said Dr. Susan Loeb-Zeitlin, director of the Women's Midlife Center at Weill Cornell Medicine.
-Doctors across the country describe the difficulty their patients are experiencing to find hormone replacement therapies, particularly estrogen patches. When asked how much time she spends trying to help people find the medication, Dr. Francesca Turner, a doctor in Iowa, just laughs.
-"Between my nurse, patients' pharmacists and myself, we are doing this pretty much every day trying to figure out how to navigate this for our patients," Turner said.
-Doctors prescribe estrogen to treat the symptoms of menopause, including hot flashes and brain fog, which occur when a woman's body produce less of the hormone. Estradiol is the most potent type and is commonly administered through a patch that gradually releases the hormone on the skin to help ease physical and mental symptoms of menopause. Doctors prefer giving estrogen topically because it's considered a safer option than orally, Loeb-Zeitlin said.
-For more than two decades, the FDA advised women to avoid treating menopause with estrogen because a 2002 study called the Women's Health Initiative suggested it could put women at greater risk of breast cancer and other conditions like dementia. Later analyses found the participants in the study were older than most women starting hormone replacement therapy and the risks of taking it were overstated. The FDA reversed course last fall and said it would work with companies to remove references to the risks in the labels of the medications.
-By then, interest had already rebounded. Doctors credit prominent voices like Oprah Winfrey and social media users for shining a light on menopause, the life-altering symptoms that some women experience and how hormone replacement therapies can help.
-"The demand has actually come from more of the community of women saying within their groups or communities that they are still suffering," said Dr. Jessica Shepherd, chief medical officer of Hers. "This was much more brought about by social media, where people are really able to air their voice, and you see a lot of celebrities that were talking about their journey as well."
-Seeing the momentum, Hers, part of the telehealth provider Hims & Hers that's best known for offering erectile dysfunction drugs and GLP-1s, about a year and a half ago decided to get into the perimenopause and menopause business, Shepherd said. Interest in the program has tripled since the company introduced it in October, the company said.
-Prescriptions of all types of estrogen have risen 78% over the past two years, according to data from HealthVerity. The patches have proven particularly popular, with prescriptions more than doubling to 1.6 million in May from 594,000 in June of 2024, HealthVerity found. They now account for 44% of all estrogen prescriptions.
-That popularity has strained supply.
-Three types of estradiol patches are now facing shortages, according to the ASHP database. Two of the affected manufacturers – Zydus and Noven – didn't respond to CNBC's request for comment.
-The third drugmaker, Amneal, said it's working to increase production to help meet growing demand. The company said it doesn't provide specific production details or timelines but remains focused on continuity of care for patients.
-Other manufacturers of estrogen products said they are seeing similar trends. Sandoz in a statement said recent changes in prescribing behavior have "created an unprecedented demand that cannot be fully met at present." The company said it's working to increase manufacturing of estradiol patches, but it's challenging to do so because the patches are "highly complex" to manufacture.
-The heightened demand could explain why the FDA hasn't declared a shortage, according to drug industry experts. The agency evaluates whether supply from all manufacturers of a drug meets historical demand of a drug.
-And while the ASHP's shortage database is driven entirely by public reports, the FDA's data comes from manufacturers, said Michael Ganio, senior director of pharmacy practice and quality at the ASHP. That leaves the FDA trying to quantify new demand for a drug without being able to easily track prescriptions that go unfilled.
-"It's really, really hard to understand how much demand is out there because you don't know how many physicians, nurse practitioners and prescribers in general are switching patients to alternate products, so it's always challenging for the FDA to put a label on yes, there's a shortage, without really being able to quantify the true market demand," Ganio said.
-An FDA spokesperson said estradiol patches are currently not in shortage and all six manufacturers report manufacturing at full capacity while working to keep up with increased demand. The agency said it continues to monitor supply and is offering assistance to manufacturers to increase supply.
-It could take time to see the result of that effort. Making transdermal patches involves more complex manufacturing than treatments like pills.
-Generic manufacturers typically switch lines throughout the year, Ganio said, meaning they might dedicate a line to making an estradiol product for the first three months then be done for the year. And in order to increase output, they would either need to wait until the following year or run another batch. It's a harder calculation for generic drugmakers to make since the products carry lower profit margins than brand-name drugs, he said.
-The strain already appears to be spreading to other hormone replacement therapies, with ASHP recently listing several estradiol creams and progesterone pills, which are given alongside estrogen, as being in shortage.
-In the meantime, some people are looking for alternatives. Loeb-Zeitlin suggests her patients try estrogen gels if they can't find patches. Some doctors are turning to creams from compounding pharmacies.
-Jenn Burch, a pharmacist in Durham, North Carolina, started marketing creams to doctors in her area earlier this year when she started struggling to stock the patches. She's finding that some patients are preferring them because she can customize them to combine estrogen with other hormones like progesterone or testosterone.
-Insurers rarely cover compounded medicines, meaning patients need to pay out of pocket. Burch says she charges about $50 for a month's supply of cream, a price she says helps cover the investment she has made to comply with a recent regulation about compounding hazardous substances. The special handling requirements could be another factor limiting manufacturers' ability to quickly ramp up production, Ganio said.
-He predicts it will take a year or two for manufacturers to find the sweet spot between supply and demand. That means women could be left scrambling for some time.
-
-</details>
-
-
----
-
-## GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html
-
-正文长度：3232
-
-摘要：The new GMC Sierra trucks are crucial to GM's sales and earnings, especially highly profitable luxury Denali and off-road AT4 models.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT – General Motors revealed its 2027 GMC Sierra 1500 pickup truck lineup on Thursday with new V-8 engine options and redesigned interior and exterior styling.
-The new GMC trucks are crucial to the automaker's sales and earnings, especially the highly profitable Denali luxury models and off-road AT4 models that represent roughly half of the vehicle's current sales, according to GM. Such models feature unique parts, accessories and amenities to boost pricing and profits for the company.
-GM said Thursday it's narrowing its model lineup for the next-generation Sierra to the Pro, Elevation, AT4, AT4X, Denali and Denali Ultimate. It's removing the mid-level SLE and SLT trims, which currently start at about $51,500 and $57,900, respectively.
-GM said pricing details as well as performance specifications will be released closer to when the vehicles go on sale late this year. Starting prices for the current Sierra 1500 lineup ranges from roughly $41,000 for an entry-level Pro to more than $86,000 for a Denali Ultimate.
-"With the next-generation Sierra 1500, we're bringing together a new generation of Small Block V8 power, precise off-road capability, and our most immersive cabin experience to date," said Michael MacPhee, vice president of GM's GMC and Buick brands, in a release. "The next-generation Sierra is the truck all others will be measured against."
-The new trucks come a week after the Detroit automaker unveiled updates to its Chevrolet Silverado 1500 pickup trucks, which are mechanical siblings to the GMC models.
-Most noticeably the GMC pickups are styled far differently than their Chevy brethren, including taking styling cues from the brand's all-electric Sierra pickup truck and featuring a new interior.
-The interior cabin comes with more storage, a sliding center console and a folding table or work surface — all made possible by moving the gear shifter from the center console to behind the steering wheel. It also features new technologies and more than 60 inches of available screens, including an 11.5-inch passenger-side screen that includes media and entertainment functions.
-Other significant changes are found under the hood. Like the Silverado models, the GMC pickups will include a new generation of the automaker's small block V-8 gas engines, available in 5.7-liter and 6.6-liter options.
-In addition to the V-8 engines, the GMC trucks will offer two six-cylinder engines, including a GM-exclusive diesel variant.
-GM's U.S. sales through the first half of this year are forecast to decline by roughly 7%, according to Cox Automotive. The overall market is expected to see sales fall roughly 3%, Cox said Wednesday.
-GM reported first-quarter sales were down 9.7% compared with a year earlier, with its GMC brand about level. Sales of the Sierra 1500 were down about 2% to nearly 51,900 units, while larger, heavy-duty models were off about 8% to roughly 24,500 units. Sales of the electric Sierra were up 3%, but remained under 1,300 units.
-Correction: This article has been updated to correct that in addition to the V-8 engines, the GMC Sierra 1500 trucks will offer two six-cylinder engines, including a GM-exclusive diesel variant. A previous version mischaracterized the options.
-
-</details>
-
-
----
-
-## OpenAI releases GPT-5.6 to select users vetted by US government - Financial Times
+## Tower crash calls Beijing’s air security into question - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUdrTUhNLThfS05iaW9FOHhNcjhTR1BlVzdSY1NuTU1mV0V2dmJOdFFSY04wR29OMDNZdTJBRWVlVElkWGFuekFKTGdKNlBOR09kZVoxUkN0SkZ6bUlEbFMzZXZ5S2h5V09NTE50dE8yOEoxTklxcnVIYlFmYjg0WGhJR0M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUR3SU9tWGZZellzc3J0dkV4RkRhTmZhdjZIcFhMNWFxaVE1VVhtNXl5RkE5aFdHMWJMb2VLWXpKcFpYOUxxRUFWMDhyMWhSMmIwS0xXSERhdUIxNXVTY0tLOEJKaGtnZU94d3BiSk5JTVd6WTlzNDNFdW5odDU4aU9kRGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUdrTUhNLThfS05iaW9FOHhNcjhTR1BlVzdSY1NuTU1mV0V2dmJOdFFSY04wR29OMDNZdTJBRWVlVElkWGFuekFKTGdKNlBOR09kZVoxUkN0SkZ6bUlEbFMzZXZ5S2h5V09NTE50dE8yOEoxTklxcnVIYlFmYjg0WGhJR0M?oc=5" target="_blank">OpenAI releases GPT-5.6 to select users vetted by US government</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUR3SU9tWGZZellzc3J0dkV4RkRhTmZhdjZIcFhMNWFxaVE1VVhtNXl5RkE5aFdHMWJMb2VLWXpKcFpYOUxxRUFWMDhyMWhSMmIwS0xXSERhdUIxNXVTY0tLOEJKaGtnZU94d3BiSk5JTVd6WTlzNDNFdW5odDU4aU9kRGc?oc=5" target="_blank">Tower crash calls Beijing’s air security into question</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chinese carmakers ‘knocking at US gate’ from Mexico and Canada - Financial Times
+## Apple seeks to buy memory chips from blacklisted Chinese company - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkpsNkVLcFhVV2oyTUtOa3VBRnNFOEg0cFZ4a18wUzlDNWE0ME1COFNWQWNRUGk1RkZTT3JreGpzdUpHUVVVaXlGR3R2UEo3dzUybElrQ2ZHLVMwS0hINVFnaDZCNFRNSGVtTFZESHNmS0plS0w2ZDZRQ3RKZktaRTRic3E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPalQ5cWMxOW1UMFN6MXF6cXNvTUZRYmduSW9NVDVsNjVad3ZHeHhLY0FSTXhqaGdZMHQ5X0U1T2FxUFZnakgya3hZWUdoRFUxMlJvYzIyTkMxTndjREdETWszT3RoTHB4Nlktalkwd0NrX1phUi1iTXhVS3Vkb0xJaGhGRFY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkpsNkVLcFhVV2oyTUtOa3VBRnNFOEg0cFZ4a18wUzlDNWE0ME1COFNWQWNRUGk1RkZTT3JreGpzdUpHUVVVaXlGR3R2UEo3dzUybElrQ2ZHLVMwS0hINVFnaDZCNFRNSGVtTFZESHNmS0plS0w2ZDZRQ3RKZktaRTRic3E?oc=5" target="_blank">Chinese carmakers ‘knocking at US gate’ from Mexico and Canada</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPalQ5cWMxOW1UMFN6MXF6cXNvTUZRYmduSW9NVDVsNjVad3ZHeHhLY0FSTXhqaGdZMHQ5X0U1T2FxUFZnakgya3hZWUdoRFUxMlJvYzIyTkMxTndjREdETWszT3RoTHB4Nlktalkwd0NrX1phUi1iTXhVS3Vkb0xJaGhGRFY?oc=5" target="_blank">Apple seeks to buy memory chips from blacklisted Chinese company</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Elon Musk’s SpaceX plans Starlink mobile push into US consumer market - Financial Times
+## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWFZLVl1aXBxOUpDaHhDSU5icFBWd0NHd0N0eHR4VlBsZ3RhSW11SzdzcGpMY0hIbzdsbU51WXR1UG8ycHQ1bDJIVDg0a1ZjdnI4UnZOcEoxVUtlUGRwQlM5d1hwTE5vcjJYWFNKdXZpYUJaaHJieFVzNVNqVFlwRVZ2Mzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2haSXB1a2RTWi1reUkyY3JGd0E5RnFqVjlXN2xLVEdELUc1aWg1cEo3UnNFTVZJaVEyUTNrVGhES295eFREOXlSODlmTDVMUDRsaW43amxGdUhoc2VwQzFQRjV6T2NKNFdGaURGWlVsd2ZzQ25xSHVoUVNPMlpDZzFXdWs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWFZLVl1aXBxOUpDaHhDSU5icFBWd0NHd0N0eHR4VlBsZ3RhSW11SzdzcGpMY0hIbzdsbU51WXR1UG8ycHQ1bDJIVDg0a1ZjdnI4UnZOcEoxVUtlUGRwQlM5d1hwTE5vcjJYWFNKdXZpYUJaaHJieFVzNVNqVFlwRVZ2Mzg?oc=5" target="_blank">Elon Musk’s SpaceX plans Starlink mobile push into US consumer market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2haSXB1a2RTWi1reUkyY3JGd0E5RnFqVjlXN2xLVEdELUc1aWg1cEo3UnNFTVZJaVEyUTNrVGhES295eFREOXlSODlmTDVMUDRsaW43amxGdUhoc2VwQzFQRjV6T2NKNFdGaURGWlVsd2ZzQ25xSHVoUVNPMlpDZzFXdWs?oc=5" target="_blank">EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive - Financial Times
+## Donald Trump warns of 100% tariff on countries implementing digital services tax - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3NWMG1kZVdzTkJRVG9KQkw0ZC1CaUUwSFVFY0RuUjhRY2Y1YVhFRjlkNGNkZGxuTGJJQm9DUk9zLUhXZjVwQlVTcFZrWVBnTjhiV0VfTFVnd29oNDh3aHBZMmNDWTlNUHRhVG5HOERMM2JHbkVoSFhadnNUampWZTliR2I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXJmZWZKdFVRZWdvNW5JSXVTbDh0NTg4TWoxTEY5WVNBRVFqS2NzeTlxdTg3c0lzSGpzTmI5X2FYMjhJVzU1WmdEQ044SHFVenZpd0dkT2NmcURSZ1lyXzZLZ3dWeGN2cHh5RnU4VUdZVkpCZGhaZFVBQ0k5QlZCQzBya1M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3NWMG1kZVdzTkJRVG9KQkw0ZC1CaUUwSFVFY0RuUjhRY2Y1YVhFRjlkNGNkZGxuTGJJQm9DUk9zLUhXZjVwQlVTcFZrWVBnTjhiV0VfTFVnd29oNDh3aHBZMmNDWTlNUHRhVG5HOERMM2JHbkVoSFhadnNUampWZTliR2I?oc=5" target="_blank">Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXJmZWZKdFVRZWdvNW5JSXVTbDh0NTg4TWoxTEY5WVNBRVFqS2NzeTlxdTg3c0lzSGpzTmI5X2FYMjhJVzU1WmdEQ044SHFVenZpd0dkT2NmcURSZ1lyXzZLZ3dWeGN2cHh5RnU4VUdZVkpCZGhaZFVBQ0k5QlZCQzBya1M?oc=5" target="_blank">Donald Trump warns of 100% tariff on countries implementing digital services tax</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Italy’s Meloni accused of ‘authoritarian’ election overhaul - Financial Times
+## Blackwater founder Erik Prince: Trump was ‘badly advised’ on Iran - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUw2WDN6N1YteVdSbnNmN2NsdjFieGRZX2dzVHdmMmVudUs3bjctZ09qeG9fbVJDV25uc1Y2SE02UDhZT2ZHMVBXVXp5eFdBTi00d2JkMkIwaklmM0NvLXg5R1NHNHRSN3gxM0pmMHBlRk5aZXhXcm9vMlRqcDJRZDZuN2k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RyZjJaVU05eHp1TDJUQWRrcEtmc2VVQXN1VWVuU2VrMDdwLTJTclNZMDcxV1JaV3A5RTRqeDZ3REk1T3dOTDk2UG5fTFFmN3llbC1HZU5WcnJHYWdCNjdPOTZhbGxXbXhCNWhSNnlGcGJwbkFaVlc3T2Q5VWFJMHpYY1I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUw2WDN6N1YteVdSbnNmN2NsdjFieGRZX2dzVHdmMmVudUs3bjctZ09qeG9fbVJDV25uc1Y2SE02UDhZT2ZHMVBXVXp5eFdBTi00d2JkMkIwaklmM0NvLXg5R1NHNHRSN3gxM0pmMHBlRk5aZXhXcm9vMlRqcDJRZDZuN2k?oc=5" target="_blank">Italy’s Meloni accused of ‘authoritarian’ election overhaul</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RyZjJaVU05eHp1TDJUQWRrcEtmc2VVQXN1VWVuU2VrMDdwLTJTclNZMDcxV1JaV3A5RTRqeDZ3REk1T3dOTDk2UG5fTFFmN3llbC1HZU5WcnJHYWdCNjdPOTZhbGxXbXhCNWhSNnlGcGJwbkFaVlc3T2Q5VWFJMHpYY1I?oc=5" target="_blank">Blackwater founder Erik Prince: Trump was ‘badly advised’ on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran's Revolutionary Guards say it targeted US positions in the region in response to attack - Reuters
+## France considers measures after Burkina Faso breaks off relations - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1oeUhDR095WDJqeFZzTHByY052ZVM3V0NYN3NIbUlpU2pMd05mclEzejVObDZnWkhQWjF6d2dvY2VXT2JiUjkxZW1sVkk2czBCeWlqMjk2T19SdHM4bzFPRlVGZV9UQkZudENpNUNYbGplWDM1NG54RnZ0SXVJdFlLZ1lfRUN4aExqZkxuUFdBcnpydGtoN2RPeXBiLWJxWlBDcDVMMEdZQTJpd0MxcWl2QU5sSkFPemVKVEhQRVpBSmpod1haYjF0Zy0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVkzd25wT0xoa2RFR04xcUxtaXpYOTN4OUNRNGEyQ3hzQ1lkeW5Pazk0WWNQOTJneVNVTHotTVViOG9rUE53b3BFMS0ya0NiNDFaTXMtMWt3OER5bjc3YjFPNXVnbVpaU19UdlFLckd6ay1DVlVDVGk2Ql9IZFVsSzNhYlF0OV85UVUzMThscnlLSENHbUJILVVlS0RmZGI1ellubjJFQkprQWdIUUhFT1BQeUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1oeUhDR095WDJqeFZzTHByY052ZVM3V0NYN3NIbUlpU2pMd05mclEzejVObDZnWkhQWjF6d2dvY2VXT2JiUjkxZW1sVkk2czBCeWlqMjk2T19SdHM4bzFPRlVGZV9UQkZudENpNUNYbGplWDM1NG54RnZ0SXVJdFlLZ1lfRUN4aExqZkxuUFdBcnpydGtoN2RPeXBiLWJxWlBDcDVMMEdZQTJpd0MxcWl2QU5sSkFPemVKVEhQRVpBSmpod1haYjF0Zy0?oc=5" target="_blank">Iran's Revolutionary Guards say it targeted US positions in the region in response to attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVkzd25wT0xoa2RFR04xcUxtaXpYOTN4OUNRNGEyQ3hzQ1lkeW5Pazk0WWNQOTJneVNVTHotTVViOG9rUE53b3BFMS0ya0NiNDFaTXMtMWt3OER5bjc3YjFPNXVnbVpaU19UdlFLckd6ay1DVlVDVGk2Ql9IZFVsSzNhYlF0OV85UVUzMThscnlLSENHbUJILVVlS0RmZGI1ellubjJFQkprQWdIUUhFT1BQeUg?oc=5" target="_blank">France considers measures after Burkina Faso breaks off relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters
+## Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5" target="_blank">US allows Anthropic to release Mythos AI to 'trusted' US organizations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5" target="_blank">Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## New 4.9 quake felt in Venezuela, days after major earthquakes - Reuters
+## Beijing investigating rare light aircraft crash which killed pilot, injured 13 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnQ3Y1FLOGFYSi1LUTRIWTJvdVQ2T0I0NENEMk02MkZyakhyU2lxYlRaMXVLS3dIVW9WSFJGdjFQaWdQTFZrYXNmRl9vSnZiWDJtSERpN1AwbXVpdTN3UmtscXFsYVR3VEtkM05zVm1zUHlhT2QyYUlJeEM0cDU4N2pIdlZyOGlYbHBraHYxZTZZZGtWdjNkTklLS3Z1UFNFemRqLW9uWkhFWVgwbVFrTDNUNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzZXdWIwc2loSUVXTU1LeHB2UGNoajNtYm45enRxV1cwTFlEUldKeWFwSW1ralA2QnpvSDlZR013SGtVaWJqRjVVZk9SeEtneU1jUEhOZVJrekFiYnV1eFpyUFpXOWtsNmhhRHJhcU9YeXA3Mks1TVYyRDNJQWJwcEV6LTRJemNIM3g0RGF3LTJhd0Qzd2gta3Y2alpMUTZSUVhJTVZUY29nR1J3MVoydVFHdG9MRDJMNHgwaQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnQ3Y1FLOGFYSi1LUTRIWTJvdVQ2T0I0NENEMk02MkZyakhyU2lxYlRaMXVLS3dIVW9WSFJGdjFQaWdQTFZrYXNmRl9vSnZiWDJtSERpN1AwbXVpdTN3UmtscXFsYVR3VEtkM05zVm1zUHlhT2QyYUlJeEM0cDU4N2pIdlZyOGlYbHBraHYxZTZZZGtWdjNkTklLS3Z1UFNFemRqLW9uWkhFWVgwbVFrTDNUNA?oc=5" target="_blank">New 4.9 quake felt in Venezuela, days after major earthquakes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzZXdWIwc2loSUVXTU1LeHB2UGNoajNtYm45enRxV1cwTFlEUldKeWFwSW1ralA2QnpvSDlZR013SGtVaWJqRjVVZk9SeEtneU1jUEhOZVJrekFiYnV1eFpyUFpXOWtsNmhhRHJhcU9YeXA3Mks1TVYyRDNJQWJwcEV6LTRJemNIM3g0RGF3LTJhd0Qzd2gta3Y2alpMUTZSUVhJTVZUY29nR1J3MVoydVFHdG9MRDJMNHgwaQ?oc=5" target="_blank">Beijing investigating rare light aircraft crash which killed pilot, injured 13</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## SpaceX, Charter discuss mobile phone partnership in US, Bloomberg News says - Reuters
+## Ukraine hits defence plant in Russia's Volgograd region, Zelenskiy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDNBdC1sZHpLeXFhWk5nTHdaRy1IcXVNZkQ5Umk4SXU3UTRYb3I1RGhRZEFkemY0M1huaTM3TEwtdnZFelRGcE9idF9pdExFa21KT1Q5eE01X0lUMFM5VXVBRml6R3h6eDBhX3hKWVB1dFBTSll6RmtpaTZvSEdSVENoNFhWNTc4SE9KeUk5NGRmOXJrb0pOWFBBYkVZVWpTZnY3MDFxdDN5TEloSkpkZXByUXFkSGNvbllraVMybFhqNU5CTkk4MFBjRUV1ek0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnpzc0lONVV0bEpIUXhSNUpGZXFzYzhSQnZNX2ZlbmE5ZjVWZnFJVHhXbmhHYW9aZkcxYm5kRlJIZmtwbWNMUWhBYkFzNy04MjBodjhBRnBmMHpQcFhTVGVVSzdsQTc3eFgwTm40MVlFZUJTR2tqUzd6dEQ1Y3BoZFFhQmFvWU9aazFCSTZJeDdFTnQ1N3FOMzZ4bktGQVRoVFdlc252aWtXTXpIOVpYbk43cUFOX3ZVZGtPeTR2ODU4RXN3QkxORA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDNBdC1sZHpLeXFhWk5nTHdaRy1IcXVNZkQ5Umk4SXU3UTRYb3I1RGhRZEFkemY0M1huaTM3TEwtdnZFelRGcE9idF9pdExFa21KT1Q5eE01X0lUMFM5VXVBRml6R3h6eDBhX3hKWVB1dFBTSll6RmtpaTZvSEdSVENoNFhWNTc4SE9KeUk5NGRmOXJrb0pOWFBBYkVZVWpTZnY3MDFxdDN5TEloSkpkZXByUXFkSGNvbllraVMybFhqNU5CTkk4MFBjRUV1ek0?oc=5" target="_blank">SpaceX, Charter discuss mobile phone partnership in US, Bloomberg News says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnpzc0lONVV0bEpIUXhSNUpGZXFzYzhSQnZNX2ZlbmE5ZjVWZnFJVHhXbmhHYW9aZkcxYm5kRlJIZmtwbWNMUWhBYkFzNy04MjBodjhBRnBmMHpQcFhTVGVVSzdsQTc3eFgwTm40MVlFZUJTR2tqUzd6dEQ1Y3BoZFFhQmFvWU9aazFCSTZJeDdFTnQ1N3FOMzZ4bktGQVRoVFdlc252aWtXTXpIOVpYbk43cUFOX3ZVZGtPeTR2ODU4RXN3QkxORA?oc=5" target="_blank">Ukraine hits defence plant in Russia's Volgograd region, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US bans imports of more Chinese technology goods - Reuters
+## Iran says it struck US-linked targets in response to US attacks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmxEN05XYWJVbXpZUlJPTzZHOXhHa3BIcWdGS2F3YnhodnY4eEI3N2Z0NEgzdmd2MTJfQm51SHZDU2FHcnBGOU5FeTY2cE9oYWI1Vzc0UlAzcldGZzRET1BTNGtUeHpmbDZnWEN0Tm1rVUQwMGJwSVVIUVJWRW5lNkwwWkdLYlF1QXYzWU9qT2RQTHQ1QWoxLUNJMEJqZmFLbVg2dXc3ei03QkhDcmNRY0lLMUdEdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmxEN05XYWJVbXpZUlJPTzZHOXhHa3BIcWdGS2F3YnhodnY4eEI3N2Z0NEgzdmd2MTJfQm51SHZDU2FHcnBGOU5FeTY2cE9oYWI1Vzc0UlAzcldGZzRET1BTNGtUeHpmbDZnWEN0Tm1rVUQwMGJwSVVIUVJWRW5lNkwwWkdLYlF1QXYzWU9qT2RQTHQ1QWoxLUNJMEJqZmFLbVg2dXc3ei03QkhDcmNRY0lLMUdEdw?oc=5" target="_blank">US bans imports of more Chinese technology goods</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5" target="_blank">Iran says it struck US-linked targets in response to US attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
