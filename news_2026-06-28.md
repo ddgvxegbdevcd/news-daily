@@ -1,68 +1,159 @@
 # 每日财经新闻
 
-更新时间：2026-06-28 04:21:11
+更新时间：2026-06-28 14:01:23
 
-## Warsh Makes Debut on the Global Stage With the Class of 2008
+## By The Way: Interesting Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008
+链接：https://www.bloomberg.com/news/videos/2026-06-28/by-the-way-interesting-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.
+摘要：Hacky sack makes a comeback, the US Men's National soccer team plays with some puppies, Doctors vs Podcast advise, and Robotaxi rules easing. Lisa Mateo, Christina Ruffini and David Gura dive into the headlines you may have missed on Bloomberg This Weekend. (Source: Bloomberg)
 
 
 ---
 
-## Tech Equity Sales Renew AI Debt-Binge Worries
+## Aramco Helicopter Crash in Ras Tanura Kills All 14 on Board
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly
+链接：https://www.bloomberg.com/news/articles/2026-06-28/aramco-helicopter-crash-in-ras-tanura-kills-all-14-passengers
 
 正文长度：0
 
-摘要：Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.
+摘要：A helicopter operated by Saudi Aramco crashed Sunday in the Saudi city of Ras Tanura, killing all 14 passengers on board, the state-owned SPA news agency reported.
 
 
 ---
 
-## Bloomberg This Weekend 6/27/2026
+## Hawkish Fed Throws Down Challenge for Emerging-Market Bond Rally
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-27/bloomberg-this-weekend-6-27-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-06-28/hawkish-fed-throws-down-challenge-for-emerging-market-bond-rally
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. UN Ambassador and Fmr. USAID Administrator Samantha Power and Oklahoma Senator Alan Armstrong. (Source: Bloomberg)
+摘要：Just when it looked like emerging-market bonds would catch a break from falling energy prices, along came Federal Reserve Chairman Kevin Warsh to spoil the party.
 
 
 ---
 
-## Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy
+## Fmr. Deputy National Security Advisor Warns Trump Rhetoric Risks Iran Talks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy
+链接：https://www.bloomberg.com/news/videos/2026-06-28/ben-rhodes-warns-trump-rhetoric-risks-iran-talks-video
 
 正文长度：0
 
-摘要：Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.
+摘要：While the Iran ceasefire remains intact despite recent exchanges of fire, Former Deputy National Security Advisor Ben Rhodes warned it could unravel if tit-for-tat strikes escalate or hardliners on either side gain the upper hand. He argued to hosts of Bloomberg This Weekend David Gura and Christina Ruffini that President Donald Trump's public threats and rhetoric risk undermining negotiations by strengthening Iranian hardliners and making it harder for negotiators to secure a nuclear agreement. (Source: Bloomberg)
 
 
 ---
 
-## Pointed News Quiz | Reddit, Music, YA Novels
+## Why the US Needs its Neighbors for Energy
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-06-27/pointed-news-quiz-reddit-music-ya-novels-video
+链接：https://www.bloomberg.com/news/videos/2026-06-28/why-the-us-needs-its-neighbors-for-energy-video
 
 正文长度：0
 
-摘要：David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com  (Source: Bloomberg)
+摘要：Unlike autos or agriculture, North America’s energy trade does not function as a single, integrated three-country system. Instead, it operates through two powerful bilateral relationships: Canadian oil flowing south into US refineries and American natural gas powering Mexico’s economy. Howard Energy Partners CEO Mike Howard says roughly 70% of Mexico’s energy comes from the United States, while former Canada Energy Regulator CEO Gitane De Silva notes that about 60% of US oil imports originate in Canada. As USMCA negotiations approach, energy executives, regulators, and policy experts largely agree on one thing: the current arrangement works remarkably well, and the best outcome may be to leave it largely untouched. (Source: Bloomberg)
+
+
+---
+
+## Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html
+
+正文长度：6875
+
+摘要：Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Millions of older Americans in Medicare are about to gain access to obesity drugs for the first time — but that landmark shift may be flying under the radar for many of them.
+Starting Wednesday, eligible beneficiaries can get obesity drugs through Medicare's new Bridge demonstration program for a monthly copay of just $50. The coverage marks a long-sought victory for patients, physicians and obesity advocates who have pushed for broader access to the blockbuster treatments from Novo Nordisk and Eli Lilly, which have remained out of reach for many Americans.
+But a staggering 82% of all older Americans — including 79% of Republicans and 84% of Democrats — say they are unaware that Medicare is about to begin covering obesity drugs, according to a survey released in early June by the Obesity Care Advocacy Network. The survey, conducted in late March among more than 2,100 adults ages 65 and older, was completed weeks before the government announced it would extend the Bridge program through 2027.
+That data may not come as a surprise: While the government has done robust outreach to healthcare providers and pharmacists, some physicians and other experts told CNBC that they have noticed limited advertising of the new coverage to the general public from the Centers for Medicare & Medicaid Services or Novo and Lilly.
+There may be good reasons for it. CMS has done limited public outreach on the program ahead of July 1 because beneficiaries are "most moved to take action" when a benefit is actually available to them, an agency official told reporters on Thursday. They added that CMS will put out more promotions after the launch, "in the interest of being good stewards of our taxpayer dollars."
+Other experts also told CNBC that it may come down to making sure providers and pharmacies are prepared and resources are in place before pursuing broad public outreach.
+Still, some experts say the lack of awareness may delay some eligible adults from taking advantage of the new coverage and getting on the treatments immediately.
+"I have not seen a lot of information out there for the public, and I think there are going to be plenty of people who have zero knowledge of the Bridge program," said Dr. Shauna Levy, medical director of the Tulane Bariatric and Weight Loss Center. "And I think for patients, it's just going to take even longer for them to find out about it, and then see if they're eligible."
+Unlike traditional Medicare drug coverage, enrollment in the Bridge program is not automatic. Patients must meet eligibility requirements, obtain a prescription and receive prior authorization approval through CMS before coverage begins.
+A quiet lead-up to launch
+The relatively quiet lead-up to the rollout stands in contrast to the marketing campaigns Novo and Lilly have historically deployed for their obesity and diabetes medicines, which have appeared everywhere from television commercials to subway advertisements.
+Novo spent nearly $500 million on U.S. advertising for its obesity drug Wegovy and its diabetes counterpart Ozempic in the first 9 months of 2025, more than double the just over $200 million Lilly spent promoting its rival injections, Zepbound and Mounjaro, Reuters reported, citing data from the ad-tracking firm MediaRadar.
+"I was a little surprised that there hasn't been more advertising by Lilly and Novo for seniors to be ready to get their prescription," said Leerink Partners analyst David Risinger, adding that it takes time to book an appointment with a provider to obtain one.
+Medicare beneficiaries must be enrolled in Part D, a prescription drug plan, to qualify for the new coverage. But because the Bridge program is administered directly by CMS rather than through Part D plans, private insurers don't need to play a role in educating beneficiaries about the new coverage.
+"All of that marketing advantage of having it run through the Part D plans doesn't exist," said Kenneth Thorpe, health policy professor at Emory University.
+He said "getting the word out" about the program and who is eligible will likely be among the largest challenges of the rollout.
+The eligibility for the program is broad, but certain patients will not qualify. That includes those already receiving coverage of a GLP-1 from their Part D plan for a use already covered by Medicare, such as Type 2 diabetes, cardiovascular disease risk reduction or sleep apnea.
+While advertising of the GLP-1 coverage may not mirror previous rollouts, there has been some promotion ahead of the launch.
+Targeted mentions on social media and Novo's website are advertising the Bridge program, said Jamey Millar, the company's executive vice president of U.S. operations, in an interview on Wednesday.
+He acknowledged that no linear TV ads are promoting the new coverage, but said he believes awareness among patients will come from providers and pharmacies. CMS has done comprehensive outreach to both about the upcoming program, according to some physicians.
+Millar likened the dynamic to the annual flu vaccine or shingles shot for older adults.
+"Any seniors that walk into a retail pharmacy post-July 1, on average, they're on eight medications, most of them oral, so the pharmacist has an opportunity to say, did you know about Bridge?" he told CNBC. "So they're equipped to do it, and then [health-care providers] as well."
+The move may be intentional
+The limited public outreach ahead of July 1 may be by design. A slower rollout could give physicians, pharmacies and CMS time to prepare before a potentially large number of beneficiaries begin seeking treatment.
+"We typically take the view that let's make sure that the physicians are prepared, similar to what we did with Foundayo, before getting broad awareness for consumers," Ilya Yuffa, president of Lilly USA and global customer capabilities, said in an interview on Wednesday.
+Yuffa was referring to the recent launch of Lilly's obesity pill, Foundayo. Building awareness among providers and the broader healthcare system first helps avoid "friction" between patients and physicians, he said.
+Still, Yuffa said consumers should expect to see broader marketing efforts from Lilly around the availability of Foundayo and one form of Zepbound through the Bridge program.
+Some experts suggested CMS may also be trying to ensure the program can handle an influx of interest. Beneficiaries must obtain prior authorization before receiving coverage, and processing those requests could become a significant undertaking if demand surges immediately after launch.
+"It may be, let's get the first month down and see what mistakes we make, so we can fix it, rather than everything crashes and burns within a month or two," said Dr. Holly Lofton, director of the Medical Weight Management Program at NYU Langone.
+"The thing is, the access is there, and hopefully the world will get around," she said.
+
+</details>
+
+
+---
+
+## A 'perfect storm' points to a much smaller U.S. auto market by 2040
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/06/28/us-auto-market.html
+
+正文长度：5719
+
+摘要：The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Ten years ago, a record 17.6 million cars, trucks and SUVs were sold in the U.S. Some forecasts say the country might not come close to that number again.
+Analysts at consulting firm Bain & Company said several signs indicate the market is about to shrink even more. Falling birth rates, behavioral changes, high car prices and a growing array of alternatives could drive sales down by more than 2 million units by 2040, according to their analysis.
+These indications point to a future where automakers fiercely compete for a shrinking number of customers, said Mark Gottfredson, a partner at Bain & Company.
+The auto industry has historically depended on an annual 1% growth rate that tracks the increase of the overall population, Gottfredson said. But all over the world, government statistics show population growth has slowed, and some countries are already seeing declines.
+"It is the perfect storm, isn't it," Gottfredson said. "It starts with the population declines. You're no longer a growth industry. You're a declining industry. You're a declining industry at a time when the technology is disrupting everything."
+The U.S. fertility rate in 2025 was about 1.6 births per woman. While not as low as some countries in Europe or Asia, it's considered below the replacement rate of 2.1, according to the Centers for Disease Control.
+Bain said that has been offset by relatively high immigration — about a million people coming to the U.S., according to the historical average it cited. But the firm said it expects restrictive immigration policies will last for the next 15 years, cutting historical net migration rates of the past 20 years in half, which means it could again reach low levels seen in 2019.
+That remaining population's behavior has changed — in part due to high prices and affordable alternatives, according to Bain. Half of 16-year-olds today don't have a driver's license, compared with nearly 70% of 16-year-olds between the years of 1966 and 1984, Gottfredson said. The stat might reflect a mere delay rather than a total refusal — Bain's research suggests most people still get licenses by age 25.
+Still, the share of new vehicle registrations among people aged 18 to 34 fell from 12% in the first quarter of 2021 to under 10% by mid-2025, according to S&P Global Mobility. Buyers 55 and older account for nearly half of all new registrations and have held the largest share for eight straight quarters, the firm said.
+"The engine behind it is affordability," said Craig Daitch, founder and president of Telemetry, a firm that does market research for the auto industry. New vehicle monthly payments are up 30% over four years, and nearly one in five new vehicles now carries a payment over $1,000 a month, he added.
+AutoForecast Solutions, a forecasting firm, expects U.S. new car sales to stay relatively flat at around 16 million through 2033, the furthest year in the future for which the company issues estimates.
+"When you look into the future, younger people are more likely to use Uber or Lyft when they're going somewhere," Sam Fiorani, vice president of global vehicle forecasting for the company. "We're still seeing groups of young people who enjoy driving and want a new car, but fewer can afford it."
+If robotaxis become widely available and affordable in the next 15 years, the share of the licensed population could drop around 2 to 3 percentage points, to 85%, according to Bain research. The number of vehicles per driver could drop from 1.2 to 1.1, which would be equivalent to 10% to 20% of U.S. households shedding one vehicle.
+The projections Gottfredson shared with CNBC are revisions. He had earlier targeted 2030 as the year when volumes would dip below 14 million, but said he changed those assumptions because autonomous vehicles are taking longer than expected to arrive.
+The population numbers though, are baked in.
+"We already know how many people have been born and how many people will be of vehicle driving age at age 16 in 16 years from now. And so we can say with quite a bit of certainty that when we get to 2040, we're going to see we're going to see some decline in the U.S. That decline is even worse in places like Europe and in places like most of the countries in Asia."
+Gottfredson said the most direct indicator of a potential of a future decline is the rate at which vehicles are "deregistered," which is when they're taken off the road and either scrapped or exported to another market, as happens with used vehicles.
+In 2000, the rate of deregistration was about 6%, according to the Bain report. As of 2025, the rate was about 5%. Gottfredson said that rate could fall to 4.4% by 2040. This is primarily because vehicles are lasting longer — hitting a record 12.8 years on the road in 2025, according to S&P Global Mobility.
+This could reverse. The longevity of electric vehicle batteries is still uncertain. It is also unclear how long automakers will be willing or able to update the software that is increasingly vital to new cars.
+However, auto forecasters say that with vehicle prices as high as they are, the industry will have to find a way to keep cars in service.
+"Today's vehicles can't have a limitation of five to 10 years," Fiorani said. "It's not practical for a person who's spending $50,000 or $100,000 that it's going to be junk in less than a decade."
+Should these trends hold, the auto industry in the U.S. is liable to become ever more competitive. Consumers have their choice of about 450 nameplates in the country already.
+"The competition in the U.S. is going to be ferocious," Gottfredson said. "There's too many automakers and too many brands competing for the consumers. The market is going to have to consolidate."
+
+</details>
 
 
 ---
@@ -194,115 +285,33 @@ Lukas Walton's uncle, Rob Walton, bought the NFL's Denver Broncos in 2022 and al
 
 ---
 
-## The brands winning with World Cup advertising may not be the sponsors
+## Mines will hold back Strait of Hormuz shipping for months, CEO warns - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDAyUzVMTnBfYkJ2bjlNemxEMVUtc2IxVjlHaWpIRXZCdnN3TEhQYjZrNXFWYkN0YU1BWDN5WU1qVGRlSUVIdkVhY3A2d3dTalhrTS1hNjhpZEZFam9XVXQza2ZKamdzT1A1cmp0QmNfbFFGVmtRU3VaSi14eERuc3BBakc?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：9237
+正文长度：0
 
-摘要：The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> As people around the world tune into this summer's World Cup, some of the brands generating the most buzz aren't even official sponsors of the tournament.
-The list of official sponsors for this year's World Cup, hosted in cities across the U.S., Canada and Mexico, include global household names like Adidas, Coca-Cola and Qatar Airways.
-But even before the tournament began, the spotlight fell on companies like Levi Strauss & Co., Taco Bell and Texas-based convenience store chain Buc-ee's. Some have garnered traction on social media for their creative marketing strategies, while others have benefited from organic customer response with the influx of international players and fans.
-McDonald's celebrated the tournament with limited-time menu items and cups. Taco Bell leaned into a new campaign to support fans in celebration or support depending on the outcome of a match.
-According to marketing research firm WARC Media, advertising spending on this year's World Cup tournament is expected to reach $10.5 billion. That's just below spending for the 2018 World Cup, hosted by Russia, which totaled roughly $12.6 billion.
-Market intelligence firm Sensor Tower told CNBC that World Cup advertising spend increased 42% week over week in the days leading up to the first game. The firm tracked that Taco Bell and Duracell have both increased their advertising spend in the past few weeks, though the top 10 World Cup advertisers by spend over the past three months have been sponsors or broadcast partners of the event.
-According to market research firm Meltwater, in the ramp-up to the World Cup, non-sponsor brand collaborations generated nearly double the engagement of official sponsors, reaching roughly 61 million engagements versus just 33 million.
-The firm told CNBC that while sponsored advertisements led in volume, distribution and creative quality helped propel non-sponsors to higher engagement, with the most social media engagement coming from TikTok.
-Since the tournament began, non-sponsor brands have surpassed 57,000 mentions on social media versus just over 43,000 for official sponsors, the company said.
-"A big takeaway from this World Cup is that you don't need an official sponsorship to own the cultural moment anymore," Meltwater CEO John Box told CNBC. "The brands that will win the next tournament aren't necessarily the ones with the biggest budgets, but instead the ones who are set up to see what's trending in real time, the creativity to connect it back to your brand, and the speed to act before the moment passes."
-World Cup results
-According to Meltwater, Coca-Cola and Adidas accounted for half of all sponsor mentions in the buildup to the tournament. But in the final 11 days before the first match on June 11, McDonald's became the clear winner, with engagement share rising from 2.6% to 23%.
-Of the non-sponsors, Lego accounted for 82% of the top 50 most engaging non-sponsor posts across social media platforms, Meltwater said. The construction toy company's World Cup campaign delivered 12 times the sponsor average in the days leading up to the tournament.
-Nike, who is not an official tournament sponsor, saw its World Cup advertisement — featuring celebrities like Kim Kardashian, Travis Scott and Lebron James as well as scores of World Cup stars like Norway breakout Erling Haaland and Portugal captain Cristiano Ronaldo — rake in more than 70 million views on YouTube.
-Sneaker rival Adidas counts roughly 7 million views for its advertisement featuring actor Timothée Chalamet, Argentina captain Lionel Messi and more.
-That gap is indicative of the winners and losers of the off-pitch advertising battle during the tournament, according to Andrew Rohm, a professor of marketing at Loyola Marymount University.
-"It was just interesting how those two brands took totally different approaches to their four- to five-minute pieces of content, and I loved the Nike approach because it was totally on-brand, irreverent, unexpected, in your face," Rohm told CNBC. "You don't have to be an official sponsor to tie back into the cultural social importance of a worldwide global event like the World Cup, especially if you have assets like Nike has that you can deploy towards that."
-When it comes to the advertising winners of this year's World Cup, Rohm said it's a battle between "the expected and the unexpected." The companies that aren't official sponsors and are therefore not restricted by FIFA are able to have the most fun with their marketing, he said.
-One brand making the most of its non-sponsor status is denim brand Levi's.
-Because the company isn't an official backer of the tournament, its branding on the host stadium in Santa Clara, California, had to be removed before matches.
-The Levi's logo, loosely shaped like a jeans pant pocket, was shrouded in a white covering — but the move counterintuitively generated buzz for the company on social media from amused fans. In a similar move, razor brand Gillette's cover for its logo on the stadium in Massachusetts mimicked shaving cream foam to make light of the situation.
-"What started as a naming rights sponsorship restriction at the Levi's Stadium became the most commented and shared post in Levi's history," Kenneth Mitchell, Levi's chief marketing officer, wrote last week. "Leaning fully into it with a profile change on our social channels sealed the deal."
-Mitchell added that "strong brand iconography" worked on the company's side, as its distinctive logo remained recognizable even under the covering.
-According to Meltwater, Levi's led the strongest example of non-sponsor visibility through its marketing, with its mentions increasing by 44% since the start of the World Cup. Engagement with the company increased nearly four times after it leaned into the stadium covering marketing, the research firm found.
-A shifting ad strategy
-Jared Watson, an assistant professor of marketing at New York University's Stern School of Business, said he's seen brands having more fun in their marketing during this year's tournament.
-"I think what you're seeing play out, especially this year, is these brands that are taking sort of a rebellious or a cheeky approach to where they're not officially being aligned with FIFA, and so a lot of consumers are in support of these marketing initiatives, in part because it feels somewhat adversarial to what's happening," Watson told CNBC. "It's kind of stripping away that capitalistic intention from FIFA."
-Watson said brand success has not come from the marketing alone, but also that some companies are picking up on the frustration consumers feel with the commercialization of global soccer.
-FIFA introduced mandatory hydration breaks during matches, for example, baking in more time for ads without breaking up the game. The breaks have drawn criticism from fans who say they're unnecessary and a money grab.
-"There's a little bit of a stick-it-to-the-man mentality of we like to see these brands that are rebelling and pushing back because it's kind of in the spirit of what the World Cup is, which is unity and meritocracy," Watson said.
-FIFA said in December the three-minute breaks were intended to prioritize "player welfare" and "part of a focused attempt to ensure the best possible conditions for players."
-Some brands have also found more organic success as fans around the world experience the culture of the World Cup host cities, posting about their newfound affinity for American general store chain Buc-ee's and salad dressing company Hidden Valley Ranch.
-"One of the things that we've seen, which I think has helped a lot of brands that maybe hadn't proactively decided to jump into the advertising fray, is we've seen the delight with sort of basic American things," Watson said. "That has allowed a lot of these brands to kind of slipstream or somewhat reactively jump on these trends and gain some earned media."
-And in an age of artificial intelligence, marketing that creates an emotional connection and has a human appeal stands out, according to Kelly Cutler, an associate professor of marketing at Northwestern University.
-"I think it's particularly timely, because I think people feel a little bit sensitive right now with all of the media around AI and all the discussions around AI," Cutler said. "So that understanding at that human level of how important it is when your team wins or loses is so basic and fundamental and creates such a connection."
-Cutler also said the marketing cuts through generations — younger consumers are more aware of when they're being sold to and are more often resistant. Companies that can develop a deeper bond with Generation Z will find the "golden goose of marketing," she said.
-For sponsor companies constrained by FIFA regulations, she added, the World Cup may have broader implications for future brand partnerships.
-"The organizations, obviously they want those sponsorship dollars, and they don't want to experience this type of situation where the brands that are paying nothing are getting a lot of traction and hitting all the headlines and having these really interesting outcomes," Cutler said. "So I do think that it's going to be interesting to watch how this impacts future sponsorship programming."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDAyUzVMTnBfYkJ2bjlNemxEMVUtc2IxVjlHaWpIRXZCdnN3TEhQYjZrNXFWYkN0YU1BWDN5WU1qVGRlSUVIdkVhY3A2d3dTalhrTS1hNjhpZEZFam9XVXQza2ZKamdzT1A1cmp0QmNfbFFGVmtRU3VaSi14eERuc3BBakc?oc=5" target="_blank">Mines will hold back Strait of Hormuz shipping for months, CEO warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Rise in memory chip costs puts pressure on retailers of laptops and smartphones
+## US and Iran exchange strikes as ceasefire falters - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUktVTzRjaS1yRmlaSnNzSG1tWFhRdHNxRVhOUEFNV25QSEZGSUJPN3Y2UXJqY2FPZ0pFQVRucjBKNnM2WDhOclJQMU91YnJuUlkxWWlkV3RNZUM4NHpvaDB5VDlXS25FNnBhdjdLUzFyWVZSM2h1SWFxNFV3VG5wY0Rrb18?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：7334
+正文长度：0
 
-摘要：As the global race for AI moves forward, a shortage of memory chips has begun to drive up prices of consumer electronics and may lead to product shortages.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> As the global artificial intelligence race accelerates, memory chips are getting more expensive. As a result, costs of some consumer electronics are beginning to rise for retailers and consumers alike.
-Memory storage, known as RAM, is crucial for all computing devices, including phones, tablets and laptops. The cost of chips has been rising due to a supply shortage driven largely by massive demand for AI data centers. Companies such as Nvidia, Advanced Micro Devices and Google have been scrambling to secure RAM for their chips.
-Apple on Thursday announced it's raising its prices on MacBooks and iPads — passing along the rising cost of memory to consumers — with the potential for more price hikes down the road. The memory shortage is an "unprecedented challenge," the company said in a statement.
-Incoming Best Buy CEO Jason Bonfig said on a call with reporters earlier this month that the company expects its computing division will be the most affected by price hikes.
-"We did see some staggered price increases in Q1, so moving to Q2, we do expect [average sale prices] to increase and units from an elasticity perspective to be impacted," Bonfig said. "We did bring in more inventory in Q1, which you can see on our balance sheet, which does help us to mitigate it."
-Memory costs
-Soaring memory costs are expected to reduce global personal computer shipments by 10.4% and smartphone shipments by 8.4% in 2026, according to Ranjit Atwal, a senior director analyst at Gartner, citing February research. Gartner also projected that PC prices will increase by 17% and smartphone prices will grow by 13%, compared with 2025 levels.
-"What's happening this time around, compared to previous times that memory prices have gone up, is the extent with which prices of memory is increasing," Atwal said. "Secondly is the length of time that we think prices will remain high. ... This one is looking like it won't be until the end of 2027 before we get to any type of regional pricing."
-While the price increases may not be immediately apparent in stores, Atwal said, it's inevitable that the demand will outpace the supply. Some retailers pulled forward inventory in the first quarter in anticipation of the rising prices, he added, but that cushion can only last so long.
-"It will catch up with everyone," he said. "You end up in a point where you just have no control over what you can do. You have to pass it on, and that's the difference now versus where we were before. The market's more mature as well, so there's an expectation that people are going to buy up anyway."
-Consumers might not even be aware of the price hikes, Atwal said. Most people upgrade their laptops after four or five years and may not even remember what they previously paid or what the specifications of their old models were, he said.
-That gap may lead to a somewhat "delayed impact" on consumer behavior, Atwal said, but the eventual effect is bound to hit them soon.
-Customers still spending
-So far, Bonfig said, Best Buy isn't seeing any indication that consumers are pulling forward purchases or even that the rising memory costs are affecting their budgets.
-"What we do with that customer is talk about what they're replacing, talk about what their needs are and talk about how to get them into technology that is going to be substantially better in so many different ways," Bonfig said. "That's really the focus that we will continue to have, to make sure we have that broadness and assortment."
-A Best Buy spokesperson told CNBC that the company still sees its customers spending and that very few of them are worried about memory. In the first quarter, Best Buy said it saw its ninth consecutive quarter of positive comparable sales in computing.
-Anthony Chukumba, an analyst at Loop Capital who covers Best Buy, told CNBC he thinks larger retailers such as Best Buy will fare better than smaller ones, because of the market share they hold. As suppliers navigate passing along the added costs, Chukumba said major retailers will have more "leverage" to avoid price hikes for as long as they can.
-"A lot of times, investors think about things too simplistically, like, 'Oh, rising memory costs because of AI, that must be very bad for Best Buy,'" Chukumba said. "There's just nothing that Best Buy can do about it. ... This is their business, they're always managing these changes, and they're seeing the same stuff that you're seeing, probably before you're seeing it, and in much more detail, and so they manage."
-Chukumba said he believes the long-term impacts of memory costs won't be as significant as they may seem at the moment.
-"Because technology is constantly evolving, constantly becoming cheaper, you can have this headwind of higher memory prices, but if you're buying something relative to what you would have bought a year ago, much less two years ago, it's still going to have vastly superior capabilities, and the consumers are none the wiser," he said.
-It could also hit other retailers, such as Target, Amazon, Costco and Walmart. Target declined to comment on rising memory costs, and Amazon also declined to comment. Costco and Walmart did not respond to requests for comment.
-Shortages and hikes
-Still, the broader risks posed by the memory chip shortage could spell trouble.
-According to Atwal, the Gartner analyst, the rising costs could lead to consumers holding onto their devices longer, leading to fundamental changes to upgrade cycles for products such as smartphones.
-"Consumers ... will compromise on what they need, and the vendors are going to find it more difficult to push AI features, which are kind of dependent on this, and typically want a premium for them," Atwal said.
-Earlier this month, a coalition of organizations including the National Retail Federation wrote a letter to the U.S. Treasury and Commerce departments asking the government to examine the "urgent imbalance" of memory chips and the potential for "significant and sustained near-term price increases" for consumers.
-"The real-world impacts of these trends have already begun to show themselves and threaten to deteriorate rapidly if the situation is not remedied," the letter said.
-The organizations urged the government to work with memory chipmakers and chip buyers to "protect against harm to consumers, workers, and businesses of all sizes."
-Jon Gold, NRF's vice president of supply chain and customs policy, told CNBC the trend could lead to a shortage of consumer electronics, in addition to the potential price hikes.
-"There's always only so much impact that retailers can take on their own, so they've got to work with their vendors the best they can to try and minimize price increases and the impact that's having on consumers," Gold said. "But the bigger impact is the lack of those memory chips is a lack of products potentially."
-Gold said that if consumers begin to hold on to devices for longer because of price increases and the cost difference for upgrading, it will affect both retailers and suppliers as the consumer electronics market stagnates.
-"Unfortunately, it's one more complicated factor for a retailer and others who are making long-term plans and who are making contracts six, nine, 12 months in advance," Gold said. "It's very complicated and very complex and more pressure on retailers and manufacturers."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUktVTzRjaS1yRmlaSnNzSG1tWFhRdHNxRVhOUEFNV25QSEZGSUJPN3Y2UXJqY2FPZ0pFQVRucjBKNnM2WDhOclJQMU91YnJuUlkxWWlkV3RNZUM4NHpvaDB5VDlXS25FNnBhdjdLUzFyWVZSM2h1SWFxNFV3VG5wY0Rrb18?oc=5" target="_blank">US and Iran exchange strikes as ceasefire falters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tower crash calls Beijing’s air security into question - Financial Times
+## Beijing police say pilot who crashed into China’s Citic Tower was killed - Financial Times
 
 来源：金融时报
 
@@ -310,7 +319,7 @@ Gold said that if consumers begin to hold on to devices for longer because of pr
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUR3SU9tWGZZellzc3J0dkV4RkRhTmZhdjZIcFhMNWFxaVE1VVhtNXl5RkE5aFdHMWJMb2VLWXpKcFpYOUxxRUFWMDhyMWhSMmIwS0xXSERhdUIxNXVTY0tLOEJKaGtnZU94d3BiSk5JTVd6WTlzNDNFdW5odDU4aU9kRGc?oc=5" target="_blank">Tower crash calls Beijing’s air security into question</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUR3SU9tWGZZellzc3J0dkV4RkRhTmZhdjZIcFhMNWFxaVE1VVhtNXl5RkE5aFdHMWJMb2VLWXpKcFpYOUxxRUFWMDhyMWhSMmIwS0xXSERhdUIxNXVTY0tLOEJKaGtnZU94d3BiSk5JTVd6WTlzNDNFdW5odDU4aU9kRGc?oc=5" target="_blank">Beijing police say pilot who crashed into China’s Citic Tower was killed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -328,106 +337,80 @@ Gold said that if consumers begin to hold on to devices for longer because of pr
 
 ---
 
-## Argentina plots ‘golden passport’ scheme to pay down debts - Financial Times
+## Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNa21kTjZVQWc2aTZIVlEtSXRCRGhQdmdnWVJyZlZ5azYwZnVReEhBNXJBd2dPdjZpRVlvamZWWE9UTXBzY0VjaXBpNDRrSlc1RWd1SDlCTnNmZmEwV1RvN1FlbVhqOVUwbjNBeC01OGpmd1B2T0ZWdXdVenhLZUljNTRZeVc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNa21kTjZVQWc2aTZIVlEtSXRCRGhQdmdnWVJyZlZ5azYwZnVReEhBNXJBd2dPdjZpRVlvamZWWE9UTXBzY0VjaXBpNDRrSlc1RWd1SDlCTnNmZmEwV1RvN1FlbVhqOVUwbjNBeC01OGpmd1B2T0ZWdXdVenhLZUljNTRZeVc?oc=5" target="_blank">Argentina plots ‘golden passport’ scheme to pay down debts</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5" target="_blank">Google caps Meta’s Gemini use as AI demand strains capacity</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chart of the Week: Chipmakers are expensive globally - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRU9DazVBWUxHSDhYMm9zV3VpbHI2bC1YQ3BkZTJ5QmNScHFyMGVJZFdsSXJqalROT01NMVBGTVp5bjU3OUNXc0hiNVVWTllVLXVSUENneGZoZnVoZHp4UTROcjdMbzEtY3p3RElmTlBCMHNoaTlSX1p3YnRWaTZ1cGhiS3U?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRU9DazVBWUxHSDhYMm9zV3VpbHI2bC1YQ3BkZTJ5QmNScHFyMGVJZFdsSXJqalROT01NMVBGTVp5bjU3OUNXc0hiNVVWTllVLXVSUENneGZoZnVoZHp4UTROcjdMbzEtY3p3RElmTlBCMHNoaTlSX1p3YnRWaTZ1cGhiS3U?oc=5" target="_blank">Chart of the Week: Chipmakers are expensive globally</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Blackwater founder Erik Prince: Trump was ‘badly advised’ on Iran - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RyZjJaVU05eHp1TDJUQWRrcEtmc2VVQXN1VWVuU2VrMDdwLTJTclNZMDcxV1JaV3A5RTRqeDZ3REk1T3dOTDk2UG5fTFFmN3llbC1HZU5WcnJHYWdCNjdPOTZhbGxXbXhCNWhSNnlGcGJwbkFaVlc3T2Q5VWFJMHpYY1I?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RyZjJaVU05eHp1TDJUQWRrcEtmc2VVQXN1VWVuU2VrMDdwLTJTclNZMDcxV1JaV3A5RTRqeDZ3REk1T3dOTDk2UG5fTFFmN3llbC1HZU5WcnJHYWdCNjdPOTZhbGxXbXhCNWhSNnlGcGJwbkFaVlc3T2Q5VWFJMHpYY1I?oc=5" target="_blank">Blackwater founder Erik Prince: Trump was ‘badly advised’ on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Iran, US continue escalating attacks, recriminations over peace deal - Reuters
+## Saudi Aramco helicopter crash kills 14 nationals, state news agency says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQTl9QcUZ1VHdxdmRSYXhWRC0yWkdKMFhJYXNlM0JVMFEwR1BTeDA4djNxVjgtTnJPcVlTT0xGTDBlRE5FSllaLTdjcnFidVkwdDZKdlB6SmhKazhabUlvckNEaTF3VUdLTkgzUnZXbzB6MUZ3QkFBV09NVEZDSFpJTkkxUTlsekhMdlNsb0oxbl9QcEp3ZFZWYktvZ3dhTUNDVEJHSg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5" target="_blank">Iran, US continue escalating attacks, recriminations over peace deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQTl9QcUZ1VHdxdmRSYXhWRC0yWkdKMFhJYXNlM0JVMFEwR1BTeDA4djNxVjgtTnJPcVlTT0xGTDBlRE5FSllaLTdjcnFidVkwdDZKdlB6SmhKazhabUlvckNEaTF3VUdLTkgzUnZXbzB6MUZ3QkFBV09NVEZDSFpJTkkxUTlsekhMdlNsb0oxbl9QcEp3ZFZWYktvZ3dhTUNDVEJHSg?oc=5" target="_blank">Saudi Aramco helicopter crash kills 14 nationals, state news agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## DR Congo superfan denied US visa to support team at World Cup - Reuters
+## Eleven people killed in plane crash in northeastern France, officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzZTclVYaUE1aUlab2lnMjlHbmRRaVRxbUFrUDk3UmgyQXRCSGNpcEFGNTR0dnRmTzE4d0dJeVZkUG5fRnFsOXd1SjZ6cU9WenZHM3kxaU16X2F6ekhjNzlucWFPdk41YlBuaENRZGMzM2VWVW1zYUxfZnVTOXBFTUdOUnJhT3NLd2NSVHdTTGpHSnhiVTBCRUtJMzdNSnlRNFZWSG85bFQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZMNHNzVl9SVGxoSFJ1U1JGZWZpTzlUeEhuaVhMUUlzSkdGTHAwUUJoLWF4dEl1LVFnTXhRME5ib25na3dzcnN3N0RqMHNHUmJHbnlyNUZwY2dUbXh5Vm9PSUhaM09kOThUazFCQ25KX3NYdk10dG1ET3lHSnR1SXJTeldHRFZ1RGVNZ2ZCV3NUUGdMbmZrWm5BWk5qLTJZVzBuRkhxaHQ0V2FFX0M1dV9pRHBSZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzZTclVYaUE1aUlab2lnMjlHbmRRaVRxbUFrUDk3UmgyQXRCSGNpcEFGNTR0dnRmTzE4d0dJeVZkUG5fRnFsOXd1SjZ6cU9WenZHM3kxaU16X2F6ekhjNzlucWFPdk41YlBuaENRZGMzM2VWVW1zYUxfZnVTOXBFTUdOUnJhT3NLd2NSVHdTTGpHSnhiVTBCRUtJMzdNSnlRNFZWSG85bFQ?oc=5" target="_blank">DR Congo superfan denied US visa to support team at World Cup</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZMNHNzVl9SVGxoSFJ1U1JGZWZpTzlUeEhuaVhMUUlzSkdGTHAwUUJoLWF4dEl1LVFnTXhRME5ib25na3dzcnN3N0RqMHNHUmJHbnlyNUZwY2dUbXh5Vm9PSUhaM09kOThUazFCQ25KX3NYdk10dG1ET3lHSnR1SXJTeldHRFZ1RGVNZ2ZCV3NUUGdMbmZrWm5BWk5qLTJZVzBuRkhxaHQ0V2FFX0M1dV9pRHBSZw?oc=5" target="_blank">Eleven people killed in plane crash in northeastern France, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Serbian President Vucic says he will resign within weeks - Reuters
+## Record heatwave disrupts Europe as France warns death toll set to rise - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajRQNTlFVUtNb1ItSGkyUTQ4WUE0VkcyUWtBRHdQQk1FeUNOQmJSbFJoRFdWV3IyX0Qtb0JyOFZ3YkxxOEZ1WjNpSFRDWF8xZFJCYklNRWYyRjFfUnNaaUNZc1EyeDg3LUFEMXdWTnc4UmdEdDhHWlpscE1felVGQVVJaWZCVXlZb0lTM1UyamRlMk50SElvQ25fSTRQZUh3Q1pTMzhqaXpJYmF1ZHp3eUpxdTNXalgt?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajRQNTlFVUtNb1ItSGkyUTQ4WUE0VkcyUWtBRHdQQk1FeUNOQmJSbFJoRFdWV3IyX0Qtb0JyOFZ3YkxxOEZ1WjNpSFRDWF8xZFJCYklNRWYyRjFfUnNaaUNZc1EyeDg3LUFEMXdWTnc4UmdEdDhHWlpscE1felVGQVVJaWZCVXlZb0lTM1UyamRlMk50SElvQ25fSTRQZUh3Q1pTMzhqaXpJYmF1ZHp3eUpxdTNXalgt?oc=5" target="_blank">Serbian President Vucic says he will resign within weeks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5" target="_blank">Record heatwave disrupts Europe as France warns death toll set to rise</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Amazon Prime Day offers a glimpse into U.S. consumer as shoppers navigate with pinched wallets - Reuters
+## Iraq arrests politicians and government officials in anti-corruption crackdown - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHUyM0NkZ1RsMWg1RDVkMW9WTjVEQW9rOGc2cmVYY1hRR2dTWVFISFJJYXBUeHhubWZKM0FkNHVQaTlucHl3VzlWVks1cXAwRE5wWkpPcDJfdkIwODdSZlVBaHhVOHFMbHdMeXlGWDFJXy1tMW9YUHNOLXZyYklMYVhmbGxCaDYwdDdKRnBDTTJhM2tJYkdib1FFWkU0dGxuWkhkUG9aMXJGZm9KUXVab2JxblFDaTFCXzI4dDZSYk5ONHlfMHZpTjJZeEI0MmxDZjhvRlpDQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxObjhiREF4Z2I3aFhFRG1DTVJEaDlpcERlMWRmd19NRks1T05nYVUtcS05N1p6NmNZeWsyeEl0c3lRMkFsYnBfQmU5TU1kR0FnQ3ZaNTJNcGhtRmE1ODBLd1dCS0NHNkRYLTVCZ1duX052Mmw2a2l3WW9Cb3NkeHlrYXNqcnFFZU5LSUJwZnlqUVhWY2haeFBIU20zYk4xd25rUFhqY3F4NlBqUEJMWXZlZHh5UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHUyM0NkZ1RsMWg1RDVkMW9WTjVEQW9rOGc2cmVYY1hRR2dTWVFISFJJYXBUeHhubWZKM0FkNHVQaTlucHl3VzlWVks1cXAwRE5wWkpPcDJfdkIwODdSZlVBaHhVOHFMbHdMeXlGWDFJXy1tMW9YUHNOLXZyYklMYVhmbGxCaDYwdDdKRnBDTTJhM2tJYkdib1FFWkU0dGxuWkhkUG9aMXJGZm9KUXVab2JxblFDaTFCXzI4dDZSYk5ONHlfMHZpTjJZeEI0MmxDZjhvRlpDQQ?oc=5" target="_blank">Amazon Prime Day offers a glimpse into U.S. consumer as shoppers navigate with pinched wallets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxObjhiREF4Z2I3aFhFRG1DTVJEaDlpcERlMWRmd19NRks1T05nYVUtcS05N1p6NmNZeWsyeEl0c3lRMkFsYnBfQmU5TU1kR0FnQ3ZaNTJNcGhtRmE1ODBLd1dCS0NHNkRYLTVCZ1duX052Mmw2a2l3WW9Cb3NkeHlrYXNqcnFFZU5LSUJwZnlqUVhWY2haeFBIU20zYk4xd25rUFhqY3F4NlBqUEJMWXZlZHh5UQ?oc=5" target="_blank">Iraq arrests politicians and government officials in anti-corruption crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Senior US officials frustrated by Machado bid to return to Venezuela after quakes, White House official says - Reuters
+## Uganda's military chief orders shutdown of two major media outlets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXM4VjRQS203cTk3YmJEVkZSQ0JnLURjY1RiS0hMbE10Vmtua2hKNnhvWFkwVEZtbVRfZ2NwRExyN3FJaFgxOVhiQ2tlWmlOYWQ2MWJZZGlVeXhHV3lRbGlYSjN3Y19HeWtyRlg3QkpuY2lsM2xUbGZ1aFFaVHYwbGhseVZ0TndtZjJTdVVDeGVCZzl5YldaaVZQQWdjc05lR280SG1zWnYyaVExR3NoWHZkWmY4TUI3eEhqTi1GOGhVUDZr?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQeENkZGlpMDNCZjQ0TVdqWmNIemlIRHZlMGh0cEREMlpjVEVSeW5XQzh6c3pROGE4RmFLWGliUHBXOVc4aFZfeHBSS0toQlk0aXZDRXRvT0s5SmN0NVNpaGIxNDczVmV6NU9yOHEzSk9jb2lUUjZvOTBKOUNpRkVuWFhXX1BOcGFSVV9UaDhheTFFelUzOFhyemIydW9UNzBYQkJub1VRYk1wdFZ3YWlPbg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXM4VjRQS203cTk3YmJEVkZSQ0JnLURjY1RiS0hMbE10Vmtua2hKNnhvWFkwVEZtbVRfZ2NwRExyN3FJaFgxOVhiQ2tlWmlOYWQ2MWJZZGlVeXhHV3lRbGlYSjN3Y19HeWtyRlg3QkpuY2lsM2xUbGZ1aFFaVHYwbGhseVZ0TndtZjJTdVVDeGVCZzl5YldaaVZQQWdjc05lR280SG1zWnYyaVExR3NoWHZkWmY4TUI3eEhqTi1GOGhVUDZr?oc=5" target="_blank">Senior US officials frustrated by Machado bid to return to Venezuela after quakes, White House official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQeENkZGlpMDNCZjQ0TVdqWmNIemlIRHZlMGh0cEREMlpjVEVSeW5XQzh6c3pROGE4RmFLWGliUHBXOVc4aFZfeHBSS0toQlk0aXZDRXRvT0s5SmN0NVNpaGIxNDczVmV6NU9yOHEzSk9jb2lUUjZvOTBKOUNpRkVuWFhXX1BOcGFSVV9UaDhheTFFelUzOFhyemIydW9UNzBYQkJub1VRYk1wdFZ3YWlPbg?oc=5" target="_blank">Uganda's military chief orders shutdown of two major media outlets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
