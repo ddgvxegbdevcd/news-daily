@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-06-29 04:40:34
+更新时间：2026-06-29 15:56:47
 
-## PBOC’s New Overnight Rate Said Below Forecasts in Hint at Easing
+## US Stocks Gain as Dip Buyers Lift Tech, Mideast Fighting Eases
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released
+链接：https://www.bloomberg.com/news/articles/2026-06-29/us-futures-up-as-dip-buyers-lift-tech-us-iran-hostilities-fade
 
 正文长度：0
 
-摘要：China’s central bank set the interest rate on its new overnight liquidity tool at a level that was below expectations, according to people familiar with the matter, in what some economists see as a de facto rate cut that could push down market borrowing costs.
+摘要：Bargain hunters emerged to pick up beaten-down technology stocks on Monday, helping US stocks rally from last week’s declines.
 
 
 ---
 
-## Markets Are Looking Past the Ceasefire. Then What?
+## Cook Stays at Fed But Trump Wins More Power Over Other Agencies
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-06-29/markets-are-looking-past-the-ceasefire-then-what
+链接：https://www.bloomberg.com/news/articles/2026-06-29/supreme-court-lets-fed-s-lisa-cook-stay-in-job-for-now
 
 正文长度：0
 
-摘要：<p>Rates and currency volatility could dominate the second half of the year.</p>
+摘要：The US Supreme Court reinforced the Federal Reserve’s independence from the White House, protecting governors from being fired by the president without proof of wrongdoing.
 
 
 ---
 
-## US Stock Futures Advance on Iran, Oil Pares Gain: Markets Wrap
+## Rocket Lab to Buy Iridium in Challenge to SpaceX
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap
+链接：https://www.bloomberg.com/news/videos/2026-06-29/rocket-lab-to-buy-iridium-in-challenge-to-spacex-video
 
 正文长度：0
 
-摘要：US equity-index futures rose after reports the US and Iran backed away from a fresh escalation of their conflict, easing concerns over the fragile ceasefire underpinning peace talks.
+摘要：Rocket Lab will acquire Iridium, a pioneer in satellite telephones, for $54 a share in a cash-and-stock transaction as smaller players in the orbital economy try to catch up with market leader SpaceX. Rocket Lab CEO Peter Beck explains how the deal came together with Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)
 
 
 ---
 
-## Oil Pares Early Gains as US, Iran Halt Attacks After Flare-Up
+## Corn Drops With USDA Set to Show Biggest US Supply Since 1988
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-28/latest-oil-market-news-and-analysis-for-june-29
+链接：https://www.bloomberg.com/news/articles/2026-06-29/corn-drops-with-usda-set-to-show-biggest-us-supply-since-1988
 
 正文长度：0
 
-摘要：Oil pared early gains after the US and Iran agreed to stop attacking each other, following flare-ups over the weekend that saw a supertanker hit near the Strait of Hormuz.
+摘要：Corn tumbled as traders looked past potential crop stress from the building heat dome to a US Department of Agriculture report due Tuesday that’s expected to show the largest American stockpile since 1988.
 
 
 ---
 
-## GM-Backed Self-Driving Firm Momenta Seeks $752 Million From Hong Kong Listing
+## Yen Hits 40-Year Low in Historic Slide That’s Rattled Japan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+链接：https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan
 
 正文长度：0
 
-摘要：Autonomous-driving firm Momenta Global Ltd. started taking investor orders for its Hong Kong initial public offering to raise HK$5.9 billion ($752 million), pouncing on a multiyear high for share sales in the city.
+摘要：The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.
 
 
 ---
@@ -285,132 +285,132 @@ Lukas Walton's uncle, Rob Walton, bought the NFL's Denver Broncos in 2022 and al
 
 ---
 
-## AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns - Financial Times
+## The new AI-based world order - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjdqbVZkVWRMR1o0M2dBal9ENFoxSWRWVVdKZm9GeG5PRWIweVNZaTgtQkNJcVJTak1HOUhVai1uN180T0FJMlFhaXNtdVI4LVRXZ2dOMFZ0WGdnZm40aG5GcHF6Snc5SUFhWlJlQnJ6Qkl0dFBSZWV5b3oxMEg5SG5ld2w?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVk9oeW12Q0JFX1g2aVd1Z3lha1VFc3NRRTRkUlVKaDYyV2Q1UTlrZ3JCUDQ2UGNycVhrWnFTd1JYRUp1RW1fNFE3TjFaQUU2c1JSVWNQanlrd2RDbnI3X294ZzZYS0swTUl2WWsxc010U0tzTXpMNmZJVDFyRGhkNms1Vm0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjdqbVZkVWRMR1o0M2dBal9ENFoxSWRWVVdKZm9GeG5PRWIweVNZaTgtQkNJcVJTak1HOUhVai1uN180T0FJMlFhaXNtdVI4LVRXZ2dOMFZ0WGdnZm40aG5GcHF6Snc5SUFhWlJlQnJ6Qkl0dFBSZWV5b3oxMEg5SG5ld2w?oc=5" target="_blank">AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVk9oeW12Q0JFX1g2aVd1Z3lha1VFc3NRRTRkUlVKaDYyV2Q1UTlrZ3JCUDQ2UGNycVhrWnFTd1JYRUp1RW1fNFE3TjFaQUU2c1JSVWNQanlrd2RDbnI3X294ZzZYS0swTUl2WWsxc010U0tzTXpMNmZJVDFyRGhkNms1Vm0?oc=5" target="_blank">The new AI-based world order</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times
+## BT and Verizon to combine international operations in joint venture - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTU5QV3JKengtaThZOWhadFJiR1I5RGRRUzVJNDN1V0VwYU1VeTh3NE9xYkQ0SmtRWE15Z1ZOS3g3Tk41N19ldXprRkdfaHdEZWFTQW9zeWNHTVFudW1XLWtJeHduOUdRa2ctbXh4ZGpHeDZxMXZsLXd4UlRTYzg5VHhGclo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5" target="_blank">Google caps Meta’s Gemini use as AI demand strains capacity</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTU5QV3JKengtaThZOWhadFJiR1I5RGRRUzVJNDN1V0VwYU1VeTh3NE9xYkQ0SmtRWE15Z1ZOS3g3Tk41N19ldXprRkdfaHdEZWFTQW9zeWNHTVFudW1XLWtJeHduOUdRa2ctbXh4ZGpHeDZxMXZsLXd4UlRTYzg5VHhGclo?oc=5" target="_blank">BT and Verizon to combine international operations in joint venture</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Mines will hold back Strait of Hormuz shipping for months, CEO warns - Financial Times
+## Europe risks starting winter with gas stocks at 15-year low - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDAyUzVMTnBfYkJ2bjlNemxEMVUtc2IxVjlHaWpIRXZCdnN3TEhQYjZrNXFWYkN0YU1BWDN5WU1qVGRlSUVIdkVhY3A2d3dTalhrTS1hNjhpZEZFam9XVXQza2ZKamdzT1A1cmp0QmNfbFFGVmtRU3VaSi14eERuc3BBakc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXlJOER1cGxUQ2lrUDRvOXBwSHBLbHZUWVNiVzJ3dzZCSThqTUk1by14d3J0VXlCR0hkMFZQR1J4ckFZRHRfTHRvQjJzeFZmb1haZWNoSm80MndIUEVIeEhBemxFdnlMTFF0WUlva1JENlNOQTRBMFZrZV9XeGRPT0tsWGQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDAyUzVMTnBfYkJ2bjlNemxEMVUtc2IxVjlHaWpIRXZCdnN3TEhQYjZrNXFWYkN0YU1BWDN5WU1qVGRlSUVIdkVhY3A2d3dTalhrTS1hNjhpZEZFam9XVXQza2ZKamdzT1A1cmp0QmNfbFFGVmtRU3VaSi14eERuc3BBakc?oc=5" target="_blank">Mines will hold back Strait of Hormuz shipping for months, CEO warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXlJOER1cGxUQ2lrUDRvOXBwSHBLbHZUWVNiVzJ3dzZCSThqTUk1by14d3J0VXlCR0hkMFZQR1J4ckFZRHRfTHRvQjJzeFZmb1haZWNoSm80MndIUEVIeEhBemxFdnlMTFF0WUlva1JENlNOQTRBMFZrZV9XeGRPT0tsWGQ?oc=5" target="_blank">Europe risks starting winter with gas stocks at 15-year low</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Apple to fight $500mn patent bill at UK Supreme Court - Financial Times
+## European producers press Brussels to shut Russian aluminium loophole - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQXpLRzFHUDhWMUE4a0ttc3liZmtRX0I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnp4VXZvRGxObjBKdVNHSGtKTlJjQTFLNUtaUUxYMVJKMjhSVVc3MEFsYjZIck9RcjFmM1EzWEtpaTl6U24waUdhWmxoUGJsbWVfSlJWR0EwNl9fSm1YSjJyYlp3N2hDSzNtcTZyR0xhbDUwMGpoZHhlUlZORzJOVGs3VXA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQXpLRzFHUDhWMUE4a0ttc3liZmtRX0I?oc=5" target="_blank">Apple to fight $500mn patent bill at UK Supreme Court</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnp4VXZvRGxObjBKdVNHSGtKTlJjQTFLNUtaUUxYMVJKMjhSVVc3MEFsYjZIck9RcjFmM1EzWEtpaTl6U24waUdhWmxoUGJsbWVfSlJWR0EwNl9fSm1YSjJyYlp3N2hDSzNtcTZyR0xhbDUwMGpoZHhlUlZORzJOVGs3VXA?oc=5" target="_blank">European producers press Brussels to shut Russian aluminium loophole</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Don’t allow Congo’s leaders to trample its constitution - Financial Times
+## Volkswagen’s brutal jobs cull sparks prospect of sale of crown jewels - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBSb2J0enZMb1djUm5SSVV1dFB1c002WjdSTTJ1aEFBank0M2E3bDRUd0JjOTdqR2N2S1R2VWFGNFRLTzJyTGJoYVluT3lhU1ZrX1V6Rm0tTUFwWkJZNExrd0dHMEVLcmVSQnVUMkVXN2Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU82RUNiYVZ6c2w0MnZ0SDQ3QjdvWV9SR0h2c0VqeFZ2Z0tRZnhrLVE2ZUtCWmluam1CdW9XU2lKUjE0aGgtTmRYWmFaMUFQanRBWElsWjhiZExiY1VvdS1zMlJVcGR0VVJwWE5Yc3BpSVc1UjNLSW0zcGlleE1xcnpaUFg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBSb2J0enZMb1djUm5SSVV1dFB1c002WjdSTTJ1aEFBank0M2E3bDRUd0JjOTdqR2N2S1R2VWFGNFRLTzJyTGJoYVluT3lhU1ZrX1V6Rm0tTUFwWkJZNExrd0dHMEVLcmVSQnVUMkVXN2Y?oc=5" target="_blank">Don’t allow Congo’s leaders to trample its constitution</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU82RUNiYVZ6c2w0MnZ0SDQ3QjdvWV9SR0h2c0VqeFZ2Z0tRZnhrLVE2ZUtCWmluam1CdW9XU2lKUjE0aGgtTmRYWmFaMUFQanRBWElsWjhiZExiY1VvdS1zMlJVcGR0VVJwWE5Yc3BpSVc1UjNLSW0zcGlleE1xcnpaUFg?oc=5" target="_blank">Volkswagen’s brutal jobs cull sparks prospect of sale of crown jewels</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## South Korean president to unveil massive AI and chip investment drive - Reuters
+## Supreme Court backs Trump's firing of FTC member, overturns precedent - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2Q4WW4xekI0cWU3SVJSOWh4VFV3TnZkNkdkcUdsbXlSTU9LR0JGLVY5NU5CejJOYmxvRHF3V0VjcTU1QTlxZHE0blR6UUZqSXM4aGdDdE5zbWkyX001dHF6N20yZ1RydEVLMnN4a1JFazdwbWRaV2ZJdFpSeXdUcmR2emk4VEp3amxwdEp5d2pPRGM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5" target="_blank">South Korean president to unveil massive AI and chip investment drive</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2Q4WW4xekI0cWU3SVJSOWh4VFV3TnZkNkdkcUdsbXlSTU9LR0JGLVY5NU5CejJOYmxvRHF3V0VjcTU1QTlxZHE0blR6UUZqSXM4aGdDdE5zbWkyX001dHF6N20yZ1RydEVLMnN4a1JFazdwbWRaV2ZJdFpSeXdUcmR2emk4VEp3amxwdEp5d2pPRGM?oc=5" target="_blank">Supreme Court backs Trump's firing of FTC member, overturns precedent</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Stocks adrift, oil up as US-Iran halt renewed attacks - Reuters
+## US Supreme Court rejects Trump's unprecedented bid to fire Fed's Cook - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUFwVXVYYUk3ZXZGYUhac1BmQjhYN1JiSHM5SlhvWW9taHVTRkFZeVlrNFVfTl8wQVY0VTc3ekNEd1EyX2NMYjdNZXFwWi1WMFJWTHVIaE8yNTNNVWR4NkFHelBmSFlwYWdjRTZQREo4elhtYnNhZ3RMMjg2ckttSw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1JHcW4zcGozWE9wcl9IM2FnczFEbHBaRVVvdDRhQm9DTXVEOVJYaVJoS3hIakhvQjE1RWNRU182N3FNRmNMbkJhZFQtbXI1Zlh1M1M5R054QnNid1ZNdmFKbnVjX1h2M2xNR0M3eXJGM29pNVR6Zkh2R0IyU2ZpNDZ0OXJFVFJ3dnd4c3NZVGc1bnhuaWJtM2hLVVlWUVQtZDM1UFAxd1dqUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUFwVXVYYUk3ZXZGYUhac1BmQjhYN1JiSHM5SlhvWW9taHVTRkFZeVlrNFVfTl8wQVY0VTc3ekNEd1EyX2NMYjdNZXFwWi1WMFJWTHVIaE8yNTNNVWR4NkFHelBmSFlwYWdjRTZQREo4elhtYnNhZ3RMMjg2ckttSw?oc=5" target="_blank">Stocks adrift, oil up as US-Iran halt renewed attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1JHcW4zcGozWE9wcl9IM2FnczFEbHBaRVVvdDRhQm9DTXVEOVJYaVJoS3hIakhvQjE1RWNRU182N3FNRmNMbkJhZFQtbXI1Zlh1M1M5R054QnNid1ZNdmFKbnVjX1h2M2xNR0M3eXJGM29pNVR6Zkh2R0IyU2ZpNDZ0OXJFVFJ3dnd4c3NZVGc1bnhuaWJtM2hLVVlWUVQtZDM1UFAxd1dqUQ?oc=5" target="_blank">US Supreme Court rejects Trump's unprecedented bid to fire Fed's Cook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil climbs following renewed US, Iran strikes in Middle East - Reuters
+## US Supreme Court rebuffs Trump's appeal in E. Jean Carroll case - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVE4MTEtZkdxUjFqY0VNeW1uZ09lM01DRkRxcVRkTzNFajVCMmx6QWVLdG9NQmRaMFBIdmswQ09GaExRMnNvV1lvS044S3oxQXVOSjYtcmhVelkxbmxJZ0JxOXRJOWNQbmhmSFNpalZUTVEzRldFZ01XdTdtYlhOZDdCazRjeHlJUi1ReEctQ1hfQ2toMnpZQjJXd3BJOWRBNWR4NDczX0diZ09D?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQWG1Gdm5YX2N0ZWlxZ2c4cU5Gb0NCdl9aZlRQY3UyZnR3WU9UQUhaN19qb3V2WkFWTjFjS0dVVmFHeFRVdFkyRXV6VmNseDNLWUo0UVB0emctajg4X1NpZjMxZHItTjBJUUQ1OUgwQUJIQU8teUdQSEROUm5US1BpVHZrSXFXU2E5aWticTh5YnQxNjhUV0hvU2xsdkhBbnVYOVlSV2Jn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVE4MTEtZkdxUjFqY0VNeW1uZ09lM01DRkRxcVRkTzNFajVCMmx6QWVLdG9NQmRaMFBIdmswQ09GaExRMnNvV1lvS044S3oxQXVOSjYtcmhVelkxbmxJZ0JxOXRJOWNQbmhmSFNpalZUTVEzRldFZ01XdTdtYlhOZDdCazRjeHlJUi1ReEctQ1hfQ2toMnpZQjJXd3BJOWRBNWR4NDczX0diZ09D?oc=5" target="_blank">Oil climbs following renewed US, Iran strikes in Middle East</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQWG1Gdm5YX2N0ZWlxZ2c4cU5Gb0NCdl9aZlRQY3UyZnR3WU9UQUhaN19qb3V2WkFWTjFjS0dVVmFHeFRVdFkyRXV6VmNseDNLWUo0UVB0emctajg4X1NpZjMxZHItTjBJUUQ1OUgwQUJIQU8teUdQSEROUm5US1BpVHZrSXFXU2E5aWticTh5YnQxNjhUV0hvU2xsdkhBbnVYOVlSV2Jn?oc=5" target="_blank">US Supreme Court rebuffs Trump's appeal in E. Jean Carroll case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China's Momenta kicks off Hong Kong IPO, targets up to $751 million - Reuters
+## Five people killed in shooting in northern Germany, two suspects detained - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMXBzSS1FRWtWeG11bWxfQXNvNlNKckJSQmdzanRtalNmVmFHb25EYVFGRUNvTGpvRzM2cEYyRDNkdWgzQzJ2Z2h5UHNKcDZGS241RmoxRkFJQTRHT1lPTDY2RFI1UFAyS0laaHc2ZFpFOUoycl9LYWFnZDZDa3EwdkFzOFZiSzFCRmRvMzFMWTlERnRVam5CbnRNUHN2WWdQaWhVTGl3elpQbW0wSmFYRnhEck5mZVQ1bUlMYnN2SmFUMDQ0RW5PdTBLZW5GZUZTOUNFb09SdmdzZlk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjh1ZkR3d0VldldxMEFSNDBSWEx5Y1RUZHNLbEVqMWc4dHR4MVZ2QlhFZ1h4LVc0eE5RNENRR2xDWGlDdFo5VF80aGtXbEFLZGh2UlB1NTE5amY4TkdreHVBMEhLb3E4VVZ1UUFyMWtHb0ZRTUNRMTVmVWtSazVFOVFRV1pRX0NxNjRhdWxFZjB2SUVKN253NmhZQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMXBzSS1FRWtWeG11bWxfQXNvNlNKckJSQmdzanRtalNmVmFHb25EYVFGRUNvTGpvRzM2cEYyRDNkdWgzQzJ2Z2h5UHNKcDZGS241RmoxRkFJQTRHT1lPTDY2RFI1UFAyS0laaHc2ZFpFOUoycl9LYWFnZDZDa3EwdkFzOFZiSzFCRmRvMzFMWTlERnRVam5CbnRNUHN2WWdQaWhVTGl3elpQbW0wSmFYRnhEck5mZVQ1bUlMYnN2SmFUMDQ0RW5PdTBLZW5GZUZTOUNFb09SdmdzZlk?oc=5" target="_blank">China's Momenta kicks off Hong Kong IPO, targets up to $751 million</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjh1ZkR3d0VldldxMEFSNDBSWEx5Y1RUZHNLbEVqMWc4dHR4MVZ2QlhFZ1h4LVc0eE5RNENRR2xDWGlDdFo5VF80aGtXbEFLZGh2UlB1NTE5amY4TkdreHVBMEhLb3E4VVZ1UUFyMWtHb0ZRTUNRMTVmVWtSazVFOVFRV1pRX0NxNjRhdWxFZjB2SUVKN253NmhZQQ?oc=5" target="_blank">Five people killed in shooting in northern Germany, two suspects detained</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Eustaquio’s stoppage-time strike sends Canada into World Cup last 16 - Reuters
+## Rocket Lab buys Iridium in $8 billion deal, to expand beyond launches - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxORXl1YmQ2Y2hFNWxoc0FISk1DcHdnV0dsQkwzRFJkYk5YVmk4SjJVLUtiWU1XQ1NnQkpSZXFDa1dubkRCaVJVQXlOWlkwQXNTRDZhak90Nlpzck1nSFRMMXJuaHU2d1dpazVmSmhMeHRpRTl4OXAyMmZrdkJ2WS1rZHZtSlFmUTFzQzZFQVR1ZHhXbDd0Yy1Kb1c5SnRzZVF3QWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQejk2T29RQV9nS05KV205R1FobVVPcFFySVdTaEhkYzV4djZNVDlPaEpOQTF5bGYxMUVxTG1LekJabG5PZ2w0TUsxRjRrQm1EVzdBdHZ2dkZSNEVCS0toS2ROV1dBWk1OSkI3Qk9hRjB2bnlNcXdjNV9PYlJyaDNzbmhFM3otb2hQc2FpWUt2YWdjRGN2dDZPZWZVSExvdDFPcWdHYUJRMEs5eVFQT1ZoYnkyUGhSMVUzQzJZZDRmeWxCZWlj?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxORXl1YmQ2Y2hFNWxoc0FISk1DcHdnV0dsQkwzRFJkYk5YVmk4SjJVLUtiWU1XQ1NnQkpSZXFDa1dubkRCaVJVQXlOWlkwQXNTRDZhak90Nlpzck1nSFRMMXJuaHU2d1dpazVmSmhMeHRpRTl4OXAyMmZrdkJ2WS1rZHZtSlFmUTFzQzZFQVR1ZHhXbDd0Yy1Kb1c5SnRzZVF3QWc?oc=5" target="_blank">Eustaquio’s stoppage-time strike sends Canada into World Cup last 16</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQejk2T29RQV9nS05KV205R1FobVVPcFFySVdTaEhkYzV4djZNVDlPaEpOQTF5bGYxMUVxTG1LekJabG5PZ2w0TUsxRjRrQm1EVzdBdHZ2dkZSNEVCS0toS2ROV1dBWk1OSkI3Qk9hRjB2bnlNcXdjNV9PYlJyaDNzbmhFM3otb2hQc2FpWUt2YWdjRGN2dDZPZWZVSExvdDFPcWdHYUJRMEs5eVFQT1ZoYnkyUGhSMVUzQzJZZDRmeWxCZWlj?oc=5" target="_blank">Rocket Lab buys Iridium in $8 billion deal, to expand beyond launches</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
