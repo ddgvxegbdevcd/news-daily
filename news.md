@@ -1,34 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-07-01 04:23:31
+更新时间：2026-07-01 14:48:21
 
-## Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers
+## US Stocks Fall as Traders Evaluate Warsh Comments, New Data
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1
+链接：https://www.bloomberg.com/news/articles/2026-07-01/us-stocks-decline-as-traders-await-warsh-comments-fresh-data
 
 正文长度：0
 
-摘要：Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.
+摘要：US stocks pared earlier losses as fresh economic data painted a picture of resilience, while traders assessed commentary from Federal Reserve Chairman Kevin Warsh.
 
 
 ---
 
-## India’s Below-Normal July Rain Forecast Risks Crop Outlook
+## ECB’s Kaasik Says One More Rate Hike Is Reasonable Expectation
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-06-30/indian-farmers-await-early-july-rains-to-catch-up-on-planting
+链接：https://www.bloomberg.com/news/articles/2026-07-01/ecb-s-kaasik-says-one-more-rate-hike-is-reasonable-expectation
 
 正文长度：0
 
-摘要：India is likely to receive below-normal rainfall in July, the monsoon’s wettest month, after its driest June in 12 years, threatening to further delay crop planting across large parts of the country.
+摘要：European Central Bank Governing Council member Ulo Kaasik said further moentary tightening may be needed to ensure inflation returns to target after the Iran war.
 
 
 ---
 
-## Dollar Gains Ahead of Warsh Speech, Stocks Waver: Markets Wrap
+## US Manufacturing Expands at Slower Pace, Costs Gauge Drops
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-01/us-manufacturing-expands-for-a-sixth-month-costs-gauge-drops
+
+正文长度：0
+
+摘要：US manufacturing activity expanded for a sixth straight month in June as a war-driven surge in input costs eased.
+
+
+---
+
+## Stocks Pare Losses After Strong Manufacturing Data: Markets Wrap
 
 来源：彭博社
 
@@ -36,35 +49,105 @@
 
 正文长度：0
 
-摘要：The dollar strengthened against all its Group-of-10 peers as traders awaited key speeches from a swath of central bankers, including Federal Reserve Chairman Kevin Warsh, and bets increased for an interest-rate hike.
+摘要：Signs of economic strength spurred a bounce in stocks from session lows, with sentiment also buoyed by Federal Reserve Chair Kevin Warsh’s remarks that inflation risks have come down.
 
 
 ---
 
-## In Hindsight, Will a Coming Crash Seem Obvious?
+## Gold Rises as Traders Weigh Fed Rate Path After Warsh Remarks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-07-01/2008-template-in-hindsight-will-a-coming-crash-seem-obvious
+链接：https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook
 
 正文长度：0
 
-摘要：<p>The template for 2008 holds&nbsp;up after a midyear check on our imaginary hedge fund.</p>
-
-<p>&nbsp;</p>
+摘要：Gold rose as traders weighed the outlook for US monetary policy following Federal Reserve Chairman Kevin Warsh’s remarks at an annual central banker gathering.
 
 
 ---
 
-## Perpetual Shares Surge as Company Reveals Potential Takeover Bid
+## U.S. auto industry faces increased uncertainty without extension of USMCA trade deal
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-07-01/perpetual-shares-surge-as-company-reveals-potential-takeover-bid
+链接：https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html
 
-正文长度：0
+正文长度：8493
 
-摘要：Perpetual Ltd shares jumped before the company requested a pause in trading citing an approach over a potential takeover deal.
+摘要：A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The U.S. automotive industry is entering a new phase of uncertainty as the USMCA trade agreement between the United States, Mexico and Canada is not expected to be extended by Wednesday, triggering what could be a yearslong review process or an expiration of the pact if no deal is reached by 2036.
+The United States-Mexico-Canada Agreement, which replaced the North American Free Trade Agreement, was established during President Donald Trump's first term in 2020, but the administration has soured on the deal that governs roughly $2 trillion annually in goods and services between the three countries.
+The auto industry represented about 18% of America's trading with its neighboring countries last year, according to industry data, making it one of the key sectors in the discussions. Automakers and others watching the talks are concerned that reopening the deal could create additional trade uncertainty that leads to lower investments and fewer jobs.
+"If we let this go on for a very long time, it's very painful for everyone," said Diego Marroquín Bitar, a fellow at the Washington, D.C.-based think tank Center for Strategic and International Studies. "That's the last thing that the region needs."
+There's also concern that the U.S. could pull out of the deal amid aggressive negotiation tactics by the Trump administration involving tariffs, trade and other issues.
+The United States, Mexico and Canada could have agreed to a 16-year extension by Wednesday, but are not expected to meet that deadline. That opens up an annual review process instead.
+U.S. officials had previously said they did not plan to extend the pact, as American representatives push for additional domestic investment and benefits under the deal.
+U.S. Trade Representative Jamieson Greer in May said the U.S. wants to strengthen North American rules of origin "in a way that enhances U.S. content in these goods" to boost domestic manufacturing.
+Bitar also said the Trump administration's public discussions have been wide-ranging, touching on nontrade issues such as immigration, crime and other connections, which could make this round of talks more challenging than when USMCA was established.
+"Everything is on the table. Not just the trade issues," Bitar said. "The more things on the table, the longer it takes to negotiate and the more uncertainty it will generate."
+USMCA 2.0 auto expectations
+The U.S. automotive industry has already dealt with a lot of uncertainty this decade, from pandemic production stoppages and supply chain shortages to ongoing changes to tariffs and other regulations. Now it's bracing for the expected reopening of USMCA talks.
+It's not clear whether vehicles that meet compliance measures for the U.S. would continue to face tariffs, which Trump has used aggressively during his presidency as leverage in negotiations and to promote domestic production.
+"All chips are on the table," Aakash Arora, an automotive expert, partner and managing director at Boston Consulting Group, told CNBC. "But what is clear across all scenarios being discussed is No. 1: higher content from the U.S."
+Automakers operating in the U.S. would like the deal to remain an agreement between the three countries that "strengthens, rather than fragments, this critical economic foundation" for North American trade, according to a letter to Greer from leaders of the largest automotive trade groups in the U.S.
+"We support U.S.-Mexico bilateral engagement and encourage trilateral discussions to support an efficient and effective review that will ultimately extend USMCA as a trilateral agreement," the organizations that represent the vast majority of U.S. automakers, suppliers and dealers wrote May 7.
+The trade groups have argued that companies have spent billions of dollars to address current USMCA standards and that many auto companies are already investing more in the U.S.
+USMCA has driven $182 billion in North American investment, 86% of which has been announced for the U.S., according to U.S. automotive lobbying group data.
+Across the northern border, Flavio Volpe, president of Canada's Automotive Parts Manufacturers' Association and a member of the Canadian prime minister's council on Canada-U.S. relations, said he is optimistic a deal could be hammered out by fall.
+"I'm bullish on where we're headed," he told CNBC during a phone interview Monday, citing increased discussions and public comments. "There are real issues on the table but, in my opinion, none of [those] are insurmountable."
+Rules of origin
+One major issue for automakers and others in the industry is the deal's rules of origin, which determine what country a product comes from and which goods are eligible for preferential treatment, such as reduced tariffs or duty-free trade.
+The U.S. automotive market has expanded into Canada and grown its presence strongly in Mexico on the basis of free trade in North America since NAFTA was initiated in 1994. That has led to a large proportion of parts and vehicles traversing borders before being assembled in one of the countries.
+USMCA currently requires 75% "regional value content" for passenger vehicles and light trucks be sourced from North America. The Trump administration reportedly wants to increase that level to 82%, with 50% of that value produced in the U.S.
+There is currently no requirement to separate the parts content between what's made in the U.S. and what's made in Canada. The new rules would require such a distinction, which would mean setting up new processes.
+"The regional value content is what people are talking about a lot, but really it's the U.S. content that's going to matter," said Mark Wakefield, a partner and global automotive market lead at consulting firm AlixPartners. "Some of these don't even really have a plan as to how to even do them, and so it's going to be a bumpy road, and a fairly expensive road."
+AlixPartners estimate there's an up to 20% premium to move a product from Mexico to Canada and up to 50% increase in costs for moving some parts from China into the U.S.
+BCG also argues that setting the standards too high could cause some companies to actually produce less in the U.S. Instead of striving to meet the standards, it said automakers could instead focus on producing vehicles with the least expensive parts outside of the U.S. to reduce the declared value of the vehicles for import to a level where paying tariffs on a less expensive product would still be financially beneficial.
+"In that case, we do not get additional U.S. content," Arora said. "It's not a small lift, and because it's not a small lift, there might be some unintended consequences."
+Roughly a dozen vehicles, including some single models, meet the current 75% threshold. None are at 80%, with the Volkswagen ID.4 all-wheel-drive Pro at 76% U.S./Canadian content topping the 2026 model year list of parts content published by the National Highway Traffic Safety Administration.
+Automotive executives have said it would take years and billions of dollars in investments to onshore production to ensure vehicles sold in the U.S. have more American content. They've also argued that the U.S. may not be equipped to handle the collection and processing of some parts and raw materials.
+S&P Global Mobility has said there are on average 20,000 parts in a vehicle when it's torn down to its nuts and bolts. Parts may originate in anywhere from 50 to 120 countries.
+BCG's Arora noted one way to potentially boost the U.S. content could be to include the origin software, which is a growing part of new vehicles, in the rules of origin. That would help increase the percentage of a vehicle that qualifies as U.S. content, he said.
+One of the U.S. government's main goals is to improve production in the states, but also it's looking to move the American automobile supply chain away from China. China has been rapidly expanding outside of its home base to flood markets with more affordable, subsidized vehicles in South America and Europe.
+AlixPartners said it believes the ideal outcome for USMCA 2.0 would be to focus on competitiveness with China rather than Mexico or Canada, minimize the costs added to U.S. vehicles and support company investments, among other things.
+"People have talked about sort of 'fortress America' and ... it really needs to be North America," Wakefield said. "[If] really the goal is to face off against China, then it doesn't really make sense to be focusing so much on U.S. versus Mexico and Canada."
+
+</details>
+
+
+---
+
+## Lamborghini reveals new Urus performance hybrid SUV after ditching EVs
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html
+
+正文长度：2383
+
+摘要：Lamborghini is calling the new Urus SE Performante the "fastest Super SUV in the world."
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Lamborghini on Wednesday revealed a new hybrid performance model of its Urus SUV, as the Italian auto manufacturer continues to lean into gas-electric vehicles after abandoning plans for pure EVs.
+The Urus SE Performante features a more aggressive exterior design, including a larger grille and hood scoops, as well as interior improvements compared with current models of the SUV.
+Lamborghini is calling the new Urus SE Performante the "fastest Super SUV in the world," capable of reaching 0-100 kph, or roughly 0-60 mph, in 3.3 seconds and hitting a top speed of 312 kph, or 194 mph.
+The vehicle is a plug-in hybrid electric vehicle, which means it has a gas-powered engine as well as a plug to charge a battery pack for improved electric performance. It is powered by an electric motor and a 4-liter twin-turbo V-8 engine, delivering 812 horsepower and roughly 738 foot-pounds of torque, Lamborghini said.
+"It is very important. It's a game changer," Lamborghini CEO Stephan Winkelmann told CNBC.
+Lamborghini, which is owned by Volkswagen AG, said it would release pricing for the Urus SE Performante closer to the vehicle arriving for U.S. customers. The 2026 Urus SE starts at about $250,00 to $280,000, depending on the model.
+The Urus has been crucial to Lamborghini's success since its introduction nearly a decade ago. The vehicle represents about 50% of the brand's global sales annually, according to Winkelmann, with total Lamborghini sales nearing 11,000 vehicles last year.
+The reveal of the new performance PHEV comes months the company confirmed plans to scrap EVs to continue focusing on hybrid models. Winkelmann declined to comment on if Lamborghini would return to gas-only models, but said "never say never" when asked about such vehicles by CNBC.
+Lamborghini canceled its EV plans before rival Ferrari revealed its first all-electric vehicle, the Luce, in late May. The Luce was met with intense backlash.
+Winkelmann previously declined to comment directly on the Luce or the responses it has received, but said "innovation is paramount" to success. However, he said innovation should not be made for innovation's sake or forced upon customers.
+"By observing the market ... we saw that the acceptance curve [of EVs] for our type of customers is not increasing, and that therefore we decided to move away from a full-electric car into a plug-in hybrid," he said.
+
+</details>
 
 
 ---
@@ -221,238 +304,132 @@ In the near term, the government will need to ensure that it's clear which Medic
 
 ---
 
-## Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html
-
-正文长度：10094
-
-摘要：Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&amp;A, but there might not be any good options.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Analysts think Comcast is priming for deals. Comcast leadership says they're wrong.
-The company announced Monday it plans to separate its two primary businesses — cable broadband and the media units of NBCUniversal and Sky. It's the second major structural change for the decades-old company in recent months, and it's raising questions of potential future deals for either half of the company.
-But on a call with investors to discuss the split, Comcast executives came ready with cold water:
-"Absolutely not," Comcast co-CEO Brian Roberts said Monday, when asked if investors should view the separation as a potential setup for future deals.
-Roberts, son of founder Ralph Roberts and Comcast's controlling shareholder, won't be CEO of either company after the separation but will continue to be "actively involved" in the leadership of both companies, Comcast said.
-"This is the right move to put each company in the strongest position to create value, fully monetize its assets, and aggressively pursue its own organic growth strategies," Roberts said.
-Co-CEO Mike Cavanagh echoed that denial: "On the NBCUniversal side and [with] Sky, definitely not."
-A reason Comcast is squashing deal speculation? There may not be many good ones left.
-Splitting before M&A
-Wall Street and industry onlookers have called for a split of Comcast for years, motivated by the rise of streaming and severe competition in the media industry.
-While company leaders have discussed a separation at various points since at least 2019, executives have never seriously considered it until now, according to a person close to the situation who asked not to be named because the discussions are private.
-When Comcast decided to siphon off its cable TV networks into a separate publicly traded company less than two years ago — the spinoff that would ultimately become CNBC-parent Versant Media Group — the prospect of carving out NBCUniversal as a whole never came up, the person said.
-Instead, the move to sever NBCUniversal and Sky from the Xfinity cable business came together rather quickly in recent months, the person said.
-Wall Street just witnessed a large media deal following an announced spin, noted Mike Proulx, research director at Forrester. Before Warner Bros. Discovery launched a sale process that resulted in dueling bids from Netflix and Paramount Skydance, WBD said it planned to separate its assets into two companies.
-"Comcast is following a playbook we have already seen. Warner Bros. Discovery split itself apart as it moved into a deal with Paramount. Now Comcast is doing the same with NBCUniversal. History matters here because Peacock increases NBCUniversal's acquisition potential," Proulx said.
-The spinoff comes against the backdrop of widespread consolidation. Paramount Skydance itself is the product of a merger that closed just about a year ago. Soon after closing, it fought off streaming giant Netflix for the WBD assets.
-Smaller deals have come to market too, as the media industry grapples with shifting consumption habits. Earlier this month, Fox agreed to buy streaming platform company Roku for $22 billion. And broadcast station owners have been desperate to combine to gain scale.
-With the exception of bidding on WBD, Comcast has stayed away from M&A and has focused on its own businesses.
-"There's no surprise that both the media and telecom landscapes have become increasingly competitive and that pace of change continues to accelerate. We simply don't see these conditions changing anytime soon," Cavanagh said on Monday's call.
-Cavanagh will be CEO of the media businesses post-spin, Comcast said.
-"Our plan for NBCUniversal and Sky is to build and invest for growth. We have the ambition that's big to pursue opportunities that keep us ahead of evolving consumer behavior and audience demands, and we have the freedom now to explore adjacent business where we have the right to play," Cavanagh said.
-Deal hurdles
-The motivation behind splitting a company apart is often to open up more deal opportunities. Still, it's not clear what deals the newly created company of NBCUniversal and Sky assets could explore without serious regulatory challenges.
-For one, housing broadcast network NBC creates various obstacles. The company wouldn't be able to merge with a company that has another national network, effectively taking Disney, the owner of ABC, and CBS owner Paramount Skydance off the table.
-Even eliminating the broadcasters from the equation, a deal with Paramount Skydance — which has been on something of a shopping spree under new CEO David Ellison — would be a stretch following the completion of its deal with WBD.
-Fox, the remaining major player in linear TV, has stayed away from traditional media after hiving off its entertainment assets years ago and likely doesn't have the appetite for another deal after its Roku agreement.
-With the WBD sale process, Netflix showed it was open to doing deals — for the right assets.
-But Netflix's interest in WBD was in its film studio and streaming assets, casting aside WBD's linear networks. Even with major sports properties like the NFL's Sunday Ticket, the NBA and top film content, it's hard to imagine Netflix would make such a shift and get into linear TV via a hypothetical deal with NBCUniversal.
-That leaves little else on the table when it comes to media deals, with the largest players all pretty much spoken for. Comcast didn't specify Monday what it expects either company to be valued at post-spin, but between the Universal theme parks business, a substantial, albeit small, streamer and a respected content library, NBCUniversal would likely be too large for a smaller player to swallow.
-On the cable side, it may be a similar scenario.
-Cord keepers
-The remaining Comcast assets after the spin-off — broadband, mobile and pay TV under the Xfinity brand — have gone from gangbusters growth to stagnation and often quarterly losses of broadband customers as competition has ramped up from wireless and satellite providers.
-The market immediately rewarded the stock of Charter Communications, another cable giant in the midst of completing a different acquisition, on Monday after Comcast's announcement.
-Charter shares soared 10%, signaling investors could be favoring a possible Comcast and Charter merger, tying up the two largest U.S. cable companies.
-Charter and Comcast have both invested heavily in their broadband networks and mobile businesses, even as competition has intensified. They are part of a joint venture in which Charter cable TV customers can use Comcast's Xumo streaming devices.
-They've also each aggressively changed pricing packages to go after and retain customers. But such moves have done little for either company's stock price.
-There's some historical precedent driving Wall Street's anticipation of a potential deal. Comcast attempted to acquire Time Warner Cable in 2014. When Comcast dropped its bid amid regulatory opposition, Charter scooped up the asset — then the nation's second-largest U.S. provider. The majority of modern-day Charter used to be Time Warner Cable.
-Still, there's reason for skepticism, according to MoffettNathanson analyst Craig Moffett. The Department of Justice had been prepared to block a Comcast-Time Warner Cable deal. Even if a hypothetical Comcast-Charter deal got federal approval, it would need state-by-state acceptance, which may not be easy in Democrat-controlled states such as Massachusetts, Illinois and Maryland, Moffett said in an interview.
-"You'd have to go through a gauntlet of individual state public service commissions," Moffett said. "There would likely be pretty staunch opposition in blue states that are traditionally opposed to mergers like this."
-There's also the enormous debt load that would come with such a combination, according to the person close to the matter.
-Charter is in the midst of closing its merger with Cox, which would leave it with a debt load of more than $100 billion after taking on Cox's debt. Assuming Comcast shoulders much of the debt load post-spin in a move to alleviate NBCUniversal — a hallmark of the Versant spinoff was a low amount of debt on the new company — combining the two cable companies would create a hefty debt burden, the person said.
-There are also strategic questions about a Charter-Comcast deal. In 2014, when Comcast tried to buy Time Warner Cable, one of the driving forces of that transaction was the ability to gain leverage over media programmers in TV carriage disputes by adding subscribers. More than a decade later, the cable TV business has become a far smaller component of both Charter and Comcast, diminishing the value of this potential synergy.
-There are few broadband synergies by simply owning more customers, Moffett said. Cable businesses are local operations that are largely unaffected by adding scale, he said.
-"Your cost structure in Chicago isn't meaningfully affected if you own systems in North Carolina," Moffett said.
-Former Comcast chief financial officer and incoming CEO of the cable assets post-spin, Michael Angelakis, said Monday he believes the company has the network assets it needs to compete.
-Future transactions
-Rather than an immediate transaction, Comcast may be looking years ahead.
-"It may not be imminent. But I think it probably sets the stage on the M&A front," said Jonathan Miller, a media industry veteran who currently serves as chief executive of Integrated Media, which specializes in digital media investments.
-"This is literally done for the purpose of having more optionality around different opportunities," Miller said.
-Timing of a future deal may also come down to technicalities. Comcast estimated a one-year timeline to close the split. After that, standard U.S. tax regulation compels potential acquiring companies to wait even longer before acquiring a recently spun-off target. However, depending on details such as the kind of deal and timing, there are varying degrees to just how long a company has to wait, the person familiar said.
-Disclosure: Versant Media Group is the parent company of CNBC.
-
-</details>
-
-
----
-
-## Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html
-
-正文长度：3872
-
-摘要：Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Eli Lilly and Regeneron are among the first seven companies the U.S. Food and Drug Administration selected for a pilot program designed to accelerate reviews of new domestic pharmaceutical manufacturing facilities, CNBC has learned.
-Lilly, Regeneron, Amneal, Cellares, Fujifilm Biotechnologies, Kriya Therapeutics and Kyowa Kirin are the first companies that will participate in the FDA's PreCheck pilot program, according to FDA spokesperson Benjamin Nichols. The initiative will allow regulators to start reviewing new manufacturing facilities while they're under construction to catch and correct any issues, which the FDA estimates could save companies up to 14 months.
-Producing more drugs domestically has been a priority for the Trump administration. The initial recipients range from the most valuable healthcare company in the world to closely held biotechs developing gene therapies. The majority of them plan to make biologic drugs or genetic medicines, which involve more complex manufacturing.
-To be eligible for the PreCheck program, companies needed to build a new manufacturing facility capable of making drugs that would address a market supply gap or improve access to therapies for unmet medical needs. Only drugs that rely on the facility will be covered by the program.
-For example, the FDA selected Lilly's Lebanon, Indiana, facility that will make the main ingredients of GLP-1 pills and shots. Lilly said it's "evaluating how PreCheck and related regulatory improvements may impact the facility's timeline and will continue to work closely with FDA to support the program's success."
-The $2 billion Saratoga Springs, New York, site that Regeneron announced last fall was also chosen. In a statement, Regeneron CEO Leonard Schleifer said Regeneron has invested in U.S. biologics manufacturing and advocated for increased focus on domestic production of medicines.
-"We're pleased to see programs like the FDA's PreCheck Pilot Program that encourage collaboration between innovators and regulators to build next generation manufacturing capabilities and strengthen America's biopharmaceutical industry," he said.
-Another recipient is Fujfilm Biotechnologies' new facility in Holly Springs, North Carolina. The contract manufacturer opened the site last year. It's already making monoclonal antibodies for customers Regeneron and Johnson & Johnson, and will produce them for other customers as more parts of the site open in 2027 and 2028.
-The PreCheck program includes two components: facility readiness, where the FDA gives the companies technical guidance before the site opens, and application submission, where participants can get more hands-on feedback from the FDA and expedited inspections and facility evaluation.
-Fujifilm said it expects the operational readiness review before the end of the year thanks to the expedited process. And it expects the program will allow its customers to explore faster approval pathways with the FDA.
-- Amneal Pharmaceuticals: Amneal's facility in New York that will make small molecule sterile liquid products for pain management, respiratory and ophthalmic diseases.
-- Cellares: Cellares' facility in New Jersey that will manufacture cell-based gene therapies for oncology and hematology diseases.
-- Eli Lilly: Eli Lilly's Indiana facility that will make the main ingredients of GLP-1 pills and shots
-- Fujifilm Biotechnologies: Fujifilm's facility in North Carolina that will produce monoclonal antibodies.
-- Kriya Therapeutics: Kriya's facility North Carolina that will manufacture adeno-associated virus-based gene therapies for chronic diseases.
-- Kyowa Kirin: Kyowa's facility in North Carolina that will manufacture biologics for rare diseases.
-- Regeneron: Regeneron's facility in New York that will produce biologic drug substance, sterile injectables and protein therapeutics for multiple diseases.
-
-</details>
-
-
----
-
-## World Bank to phase out China lending - Financial Times
+## Germany woos Trump with plan to make US weapons in Europe - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa19aWURaNVBrTm5Ja2ZsMzhUOFV3RmpNUERVZ1hWa2gxUmRkNWlfV09pSmtMQUdvb29EdmtWS0hSeThUVzdYcXZieldIRmhNTWxiYzVpV1NNMWdwZkN5dTRIWTN6Q0s4Z1RFNVM4dmZ6MmZYdnlHa2lUNkFMbEFabTdxX1c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNllRTU9QTjFYTGxKczVJQ1FYbkdWdE4tMUJNSDFYRjZYZDRUN1dWRlVFWjlMZl96dWRCMkc3elVkcjNDYm91V3pTbUFjLVVFcUN5SlFLaDNoa3cyd0l0NHNNdkRYYVM3YUdoZGltRm81X1d1WkRBSjhqa3ZVWkZSQ2VoeFM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa19aWURaNVBrTm5Ja2ZsMzhUOFV3RmpNUERVZ1hWa2gxUmRkNWlfV09pSmtMQUdvb29EdmtWS0hSeThUVzdYcXZieldIRmhNTWxiYzVpV1NNMWdwZkN5dTRIWTN6Q0s4Z1RFNVM4dmZ6MmZYdnlHa2lUNkFMbEFabTdxX1c?oc=5" target="_blank">World Bank to phase out China lending</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNllRTU9QTjFYTGxKczVJQ1FYbkdWdE4tMUJNSDFYRjZYZDRUN1dWRlVFWjlMZl96dWRCMkc3elVkcjNDYm91V3pTbUFjLVVFcUN5SlFLaDNoa3cyd0l0NHNNdkRYYVM3YUdoZGltRm81X1d1WkRBSjhqa3ZVWkZSQ2VoeFM?oc=5" target="_blank">Germany woos Trump with plan to make US weapons in Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump ally seeks to emulate Putin to stay in power in Serbia - Financial Times
+## Eurozone inflation falls more than expected to 2.8% in June - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDFrd3F4SThiYXlBZTlHUWxEbnRTRV9kTEF0S25HZnRoQXBJQW5qMU1NdlhVbHVEZlZqWGlfUGw2UmJRTFJ3dmwzQnZtQ2dCSklvTzllWHlPX0pFdFJzbGtjclMzdUpqY0dnYmNNaVVLVllxNl81R1otWUNqQUdtTVNEejA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTg0WjZjdHlvb3ZuT3o1bFJ6WDl2TUhfNlVIMXIwN0RoSElOQXZVWHpzSjNkN3hCdXRQalFVLTNNUm5iWUxxeW9mRjlvYlNiWGdPLVltNzV6VW1uSTJXY1JQSUUwNUV4WFRRdzhPbzI4STZTSlZDWEI1cnhTTm5CaDNtNHo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDFrd3F4SThiYXlBZTlHUWxEbnRTRV9kTEF0S25HZnRoQXBJQW5qMU1NdlhVbHVEZlZqWGlfUGw2UmJRTFJ3dmwzQnZtQ2dCSklvTzllWHlPX0pFdFJzbGtjclMzdUpqY0dnYmNNaVVLVllxNl81R1otWUNqQUdtTVNEejA?oc=5" target="_blank">Trump ally seeks to emulate Putin to stay in power in Serbia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTg0WjZjdHlvb3ZuT3o1bFJ6WDl2TUhfNlVIMXIwN0RoSElOQXZVWHpzSjNkN3hCdXRQalFVLTNNUm5iWUxxeW9mRjlvYlNiWGdPLVltNzV6VW1uSTJXY1JQSUUwNUV4WFRRdzhPbzI4STZTSlZDWEI1cnhTTm5CaDNtNHo?oc=5" target="_blank">Eurozone inflation falls more than expected to 2.8% in June</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Gold heads for worst quarter in more than a decade as retail frenzy fades - Financial Times
+## FedEx nears $1.4bn deal to sell logistics unit to CMA CGM - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVpyYVp0RmlxR3VrRVNkcDZDMy1HcXVyTEZXVEpzUk1fbnprSkxONW4wdU1UeFNscktnajlfbjF4VjdTODZoaTlmRWphNVRqN3k1S2VieHlkMlpVR202YUNqZkZWNkVLRDMxUWk5SDJ6ZzNfR2lmMjhoVW1zU1ByNXpwSW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmpTdXdNMjlBQWExQ0FqMmJMREtKUmlOaU16UTIzMVFxZnFZNDBnNkxBWHEzOVdfRGVZcVdqQXEwaW1idXNNdXdIZVNJWTFQR2I0dkhVNFpqaHNYVFM3dXN5WWlSMDlBWlRMZGVfZWJnd29yUFl2SjNyOEtGQWNjX3kySEY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVpyYVp0RmlxR3VrRVNkcDZDMy1HcXVyTEZXVEpzUk1fbnprSkxONW4wdU1UeFNscktnajlfbjF4VjdTODZoaTlmRWphNVRqN3k1S2VieHlkMlpVR202YUNqZkZWNkVLRDMxUWk5SDJ6ZzNfR2lmMjhoVW1zU1ByNXpwSW8?oc=5" target="_blank">Gold heads for worst quarter in more than a decade as retail frenzy fades</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmpTdXdNMjlBQWExQ0FqMmJMREtKUmlOaU16UTIzMVFxZnFZNDBnNkxBWHEzOVdfRGVZcVdqQXEwaW1idXNNdXdIZVNJWTFQR2I0dkhVNFpqaHNYVFM3dXN5WWlSMDlBWlRMZGVfZWJnd29yUFl2SjNyOEtGQWNjX3kySEY?oc=5" target="_blank">FedEx nears $1.4bn deal to sell logistics unit to CMA CGM</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times
+## Uniqlo’s plan to dominate global fashion - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRWV3F4bnhCOElySXg0ZzNFZE5ETVhyT2dLX0VoOWJsdncxTDNVYW52dVNyb3RvR0gteGFveHVMbk1CVmxsYWtTbk9aazlZYmFfNzJ0VUpySllTZnZfZTVJaHNHaHhVN1htaWo1V1cxbC1kUEVVSVU4VGtHU0FNLTBXLV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEQ5eGFNZG5KMnNucVZyWDl4SDJCTm9rWHdVaVFMM0g4UjdmcnNhMm5GNnIzZ19YNklSOVJ0elpTRWd5Y2RaN1RaOUFzbGlTWkFVbWZPeXJOdXBwTGNLcm9Pbkdyd1IzT0lqMlJSSHJwWTFOc05pU05WMlNzVVdtcHhWeXQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRWV3F4bnhCOElySXg0ZzNFZE5ETVhyT2dLX0VoOWJsdncxTDNVYW52dVNyb3RvR0gteGFveHVMbk1CVmxsYWtTbk9aazlZYmFfNzJ0VUpySllTZnZfZTVJaHNHaHhVN1htaWo1V1cxbC1kUEVVSVU4VGtHU0FNLTBXLV8?oc=5" target="_blank">Rio Tinto agrees new financial terms for $18bn copper mine project</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEQ5eGFNZG5KMnNucVZyWDl4SDJCTm9rWHdVaVFMM0g4UjdmcnNhMm5GNnIzZ19YNklSOVJ0elpTRWd5Y2RaN1RaOUFzbGlTWkFVbWZPeXJOdXBwTGNLcm9Pbkdyd1IzT0lqMlJSSHJwWTFOc05pU05WMlNzVVdtcHhWeXQ?oc=5" target="_blank">Uniqlo’s plan to dominate global fashion</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Businesses face up to budget-busting AI bills - Financial Times
+## Donald Trump made more than $1bn last year in return to presidency - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHJvSEFYRW1KMUVQZk1jUXNsRUhIeVAtYV90NTMwMjNNd3c2TlpYN2NONXAzZWRPQ2NoelR3UmYtX2wzSVVIT25tZHcwSEJGc3dJc2xOM1RvbThOdGF0RWdPZTI2Z3lhOGVoNGpzT2ExLW92S1Z3Nnp0MHJVZ1hiaTdORVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONXdZSnAyUTJjczZVVm9lanZjSVpRTDlRNGczTDVZTlVxZkNQWjU2OHluQndjN28tVU1nSnRZaVJ3OFRueXAtT005bk9KX2wwdmxXak5VcWY0YkhYelExcThuZ2x4dXJMemo4eVA1REZ2ZEZ1UGVRdDBhRkFiTTdBelhsZHg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHJvSEFYRW1KMUVQZk1jUXNsRUhIeVAtYV90NTMwMjNNd3c2TlpYN2NONXAzZWRPQ2NoelR3UmYtX2wzSVVIT25tZHcwSEJGc3dJc2xOM1RvbThOdGF0RWdPZTI2Z3lhOGVoNGpzT2ExLW92S1Z3Nnp0MHJVZ1hiaTdORVQ?oc=5" target="_blank">Businesses face up to budget-busting AI bills</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONXdZSnAyUTJjczZVVm9lanZjSVpRTDlRNGczTDVZTlVxZkNQWjU2OHluQndjN28tVU1nSnRZaVJ3OFRueXAtT005bk9KX2wwdmxXak5VcWY0YkhYelExcThuZ2x4dXJMemo4eVA1REZ2ZEZ1UGVRdDBhRkFiTTdBelhsZHg?oc=5" target="_blank">Donald Trump made more than $1bn last year in return to presidency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EXCLUSIVE: FBI determines Nancy Guthrie kidnapping notes to be fakes, source says - Reuters
+## Swedish court says Google is to pay $1.5 billion to Klarna in antitrust damages - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjM2UFlJOXVsVVpJaUM2cmtxYzRvbEhKNzctemcxR2VkSWxuaWxlTUcxRkZoYV9xV0hZeWhVRkFaU09LU0pQdFFTRksyaHJBMHBZaG9TZEEtTWNqVnJwNmJpSDVQRWpJbi1MaGVoeEZuYlFEandQMEdHMkZ0VW8yV21EejBBdFZ5WlVLbEM1QzhTc1lyWHN3dURzcGhjZDhfR1ZTUHc3Q3FUM1BtMXN6X1JKYnBNR0w1b21hRjhPeXBObDQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUR2WFBXY0dxNVhUYnNOUDF2OWRvZTB2SDU3a2djdHF6NWRkRm1Fc1JTUDl2NENKQ0ZKaC15N1V5QzRLWXo0OGNLT2h4LU1fbWpCODBNMTh3VVJqcFlyTXA0ektubGxMQWx3NzFvblJ4SG1wcXpRQm93OVpmdkZ1cXowUk5yd3lnUjdMS2I1QldWa3NYdzEyaFV1YldrVWhqN3kzVnl3QjNhTktkaVkwNVl1Yw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjM2UFlJOXVsVVpJaUM2cmtxYzRvbEhKNzctemcxR2VkSWxuaWxlTUcxRkZoYV9xV0hZeWhVRkFaU09LU0pQdFFTRksyaHJBMHBZaG9TZEEtTWNqVnJwNmJpSDVQRWpJbi1MaGVoeEZuYlFEandQMEdHMkZ0VW8yV21EejBBdFZ5WlVLbEM1QzhTc1lyWHN3dURzcGhjZDhfR1ZTUHc3Q3FUM1BtMXN6X1JKYnBNR0w1b21hRjhPeXBObDQ?oc=5" target="_blank">EXCLUSIVE: FBI determines Nancy Guthrie kidnapping notes to be fakes, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUR2WFBXY0dxNVhUYnNOUDF2OWRvZTB2SDU3a2djdHF6NWRkRm1Fc1JTUDl2NENKQ0ZKaC15N1V5QzRLWXo0OGNLT2h4LU1fbWpCODBNMTh3VVJqcFlyTXA0ektubGxMQWx3NzFvblJ4SG1wcXpRQm93OVpmdkZ1cXowUk5yd3lnUjdMS2I1QldWa3NYdzEyaFV1YldrVWhqN3kzVnl3QjNhTktkaVkwNVl1Yw?oc=5" target="_blank">Swedish court says Google is to pay $1.5 billion to Klarna in antitrust damages</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices rise as breakdown in Iran-US talks raises supply concerns - Reuters
+## Kroger to buy grocer Giant Eagle in $1.65 billion deal as competition heats up - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xTcWNLdGw2QWFGbUtjLTBIcjFtQXIybUdxTlRJdE9lV0F4ZlZsWkxndjgxek5UWVRuX1ZtVEFMbHRSaC1LaV9jd2IxNGphblY3X1NjZWtKbEtfalM3VzJxX2R1anJYM2JMS0NpSzM0S0MzSGZsSjVXTEx5R1FsOU1pMkZWTURwYl9IT2g0Tk9SenMyeFFfd2Z3dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5" target="_blank">Oil prices rise as breakdown in Iran-US talks raises supply concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xTcWNLdGw2QWFGbUtjLTBIcjFtQXIybUdxTlRJdE9lV0F4ZlZsWkxndjgxek5UWVRuX1ZtVEFMbHRSaC1LaV9jd2IxNGphblY3X1NjZWtKbEtfalM3VzJxX2R1anJYM2JMS0NpSzM0S0MzSGZsSjVXTEx5R1FsOU1pMkZWTURwYl9IT2g0Tk9SenMyeFFfd2Z3dw?oc=5" target="_blank">Kroger to buy grocer Giant Eagle in $1.65 billion deal as competition heats up</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Mexico v Ecuador World Cup last-32 match to kick off one hour late - Reuters
+## US June private payrolls growth misses expectations; layoffs decline - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOdF9WNlVNTGpLVl96dmhGM0xzWURqWGZPU0ZfQjY5dGwtZHB5bVVlRlBzWEl5LUl5ZGphbXhMeFA2YzNiSnhqSG40QklJVGpTWVE5RzNEc0RtQmRIS2ZvU1V2SlNHeWNVSmVDT0lYdlU4QllVVkVhOTJCQXZlbk42WHF3bjlEM2JCQUQ3bUM1aXdnazBnald4d2d6WVdrSlMwU3ZHS3ZWNGlpSVFK?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOdF9WNlVNTGpLVl96dmhGM0xzWURqWGZPU0ZfQjY5dGwtZHB5bVVlRlBzWEl5LUl5ZGphbXhMeFA2YzNiSnhqSG40QklJVGpTWVE5RzNEc0RtQmRIS2ZvU1V2SlNHeWNVSmVDT0lYdlU4QllVVkVhOTJCQXZlbk42WHF3bjlEM2JCQUQ3bUM1aXdnazBnald4d2d6WVdrSlMwU3ZHS3ZWNGlpSVFK?oc=5" target="_blank">Mexico v Ecuador World Cup last-32 match to kick off one hour late</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5" target="_blank">US June private payrolls growth misses expectations; layoffs decline</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response - Reuters
+## US and Iran enter technical talks to secure peace deal, shipping restart - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSENIWDQtZWZzZE9SenJGVU5xWE0tYS1pQUN4SGFkZ0xCYUdET29ON1pwSWppaEdMZW5yZnJKVXlBTENHTXV5RFVUV3NURURydmxIVTc1UTZ6bnpXa0dOTlVITkVmQzBaOFdwZFBfZ1hqNGR3Vlk0YUNWeHE0QTlJRVRQZUVfRGlMejl6QnNzdmg5VGdGUi1WVS1xV1Fwc3VYTjI5d0hSQzFjRHp4X21uYzR5a2JOUC1ENTI0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSENIWDQtZWZzZE9SenJGVU5xWE0tYS1pQUN4SGFkZ0xCYUdET29ON1pwSWppaEdMZW5yZnJKVXlBTENHTXV5RFVUV3NURURydmxIVTc1UTZ6bnpXa0dOTlVITkVmQzBaOFdwZFBfZ1hqNGR3Vlk0YUNWeHE0QTlJRVRQZUVfRGlMejl6QnNzdmg5VGdGUi1WVS1xV1Fwc3VYTjI5d0hSQzFjRHp4X21uYzR5a2JOUC1ENTI0?oc=5" target="_blank">EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5" target="_blank">US and Iran enter technical talks to secure peace deal, shipping restart</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US lifts curbs on Anthropic's Fable, Mythos AI models - Reuters
+## Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUF5Q0pZdzR1UV9XT1dZMVE1ZUpUd1lDbDVzUXlyV0pYUTFwdmFueTIxc3B5QjR6TjFjVXJDS1BIWm9yMi15eGh0aWVaa0ZMeExhM2llbG5IQTBKZlFQZUphY3ZjR2lkZTRGNWNneGdvc3lJQXBoM21RWnlVajVRWGtUbENnZ3ZsU25QNGVDY1FuWjhXV0VrVkVSUU9EMU82OFdJa1hSdTljNUE1b1BHZXRUZEdmMk9WaWpN?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5" target="_blank">US lifts curbs on Anthropic's Fable, Mythos AI models</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUF5Q0pZdzR1UV9XT1dZMVE1ZUpUd1lDbDVzUXlyV0pYUTFwdmFueTIxc3B5QjR6TjFjVXJDS1BIWm9yMi15eGh0aWVaa0ZMeExhM2llbG5IQTBKZlFQZUphY3ZjR2lkZTRGNWNneGdvc3lJQXBoM21RWnlVajVRWGtUbENnZ3ZsU25QNGVDY1FuWjhXV0VrVkVSUU9EMU82OFdJa1hSdTljNUE1b1BHZXRUZEdmMk9WaWpN?oc=5" target="_blank">Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
