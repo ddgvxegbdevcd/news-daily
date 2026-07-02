@@ -1,394 +1,363 @@
 # 每日财经新闻
 
-更新时间：2026-07-02 04:02:55
+更新时间：2026-07-02 14:15:47
 
-## Warsh Must Beware of Curves Flattening to Deceive
+## Fed's Daly Sees Inflation Slowing, Warns of Uncertainties
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/opinion/newsletters/2026-07-02/warsh-must-beware-of-yield-curves-flattening-to-deceive
+链接：https://www.bloomberg.com/news/videos/2026-07-02/fed-s-daly-sees-slower-inflation-warns-of-uncertainties-video
 
 正文长度：0
 
-摘要：<p>The bond market is taking him seriously, but that’s not necessarily great news.</p>
+摘要：Federal Reserve Bank of San Francisco President Mary Daly says inflation should start to slow but the economic outlook remains uncertain during a Bank of Spain event in Santander, Spain. (Source: Bloomberg)
 
 
 ---
 
-## Citi's Luet: China's Franchise Has Grown Very Strongly
+## US Employment Picture ‘Just OK,’ BlackRock’s Rieder Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-02/citi-s-luet-china-s-franchise-has-grown-very-strongly-video
+链接：https://www.bloomberg.com/news/videos/2026-07-02/us-employment-picture-just-ok-blackrock-s-rieder-says-video
 
 正文长度：0
 
-摘要：Marc Luet, Head of Japan, Asia North & Australia and Banking at Citi, says the bank has seen the role of the yuan grow and is hopeful of obtaining a securities license in China. He speaks exclusively on "Bloomberg: The China Show." (Source: Bloomberg)
+摘要：Rick Rieder, global fixed income CIO at BlackRock, says “hiring is stable, but I would say, broadly unimpressive,” as he examines the June US jobs report. (Source: Bloomberg)
 
 
 ---
 
-## Chip Selloff Extends to South Korea, Oil Declines: Markets Wrap
+## Adani Flagship Seeks $1 Billion Via Placement, Terms Show
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-01/asian-stocks-to-decline-as-traders-weigh-ai-warsh-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-07-02/adani-flagship-seeks-1-billion-via-share-placement-terms-show
 
 正文长度：0
 
-摘要：A selloff in semiconductor stocks spread to South Korea, reviving concerns that the blistering rally in artificial intelligence shares this year may have gone too far, too fast. Brent fell to the lowest since before the start of the Middle East war.
+摘要：Adani Enterprises Ltd. is seeking to raise as much as 100 billion rupees ($1 billion) through a sale of shares to institutional investors as the ports-to-power conglomerate led by billionaire Gautam Adani overcomes legal challenges in the US.
 
 
 ---
 
-## Japan 10-Year Bond Sale Sees Weaker Demand Than 12-Month Average
+## CoreWeave Junk Bonds Drop as Investors Question AI Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-02/japan-10-year-bond-sale-sees-weaker-demand-than-12-month-average-mr2ykbqe
+链接：https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom
 
 正文长度：0
 
-摘要：Japan’s 10-year government bond auction drew weaker demand than the average for the past year on concerns the Bank of Japan isn’t raising rates quickly enough to contain inflation.
+摘要：Bonds issued last month by AI infrastructure firm CoreWeave Inc. fell for a second day running on Meta Platforms Inc.’s plans for a competing cloud business.
 
 
 ---
 
-## Iran’s Floating Oil Stockpile Swells as Major Buyers Stay Away
+## India Plans to Expand Oil Reserves to Guard Against Price Spikes
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-02/iran-s-floating-oil-stockpile-swells-as-major-buyers-stay-away
+链接：https://www.bloomberg.com/news/articles/2026-07-02/india-plans-to-expand-oil-reserves-to-guard-against-price-spikes
 
 正文长度：0
 
-摘要：A hoard of Iranian oil is building up at sea, as the Islamic Republic struggles to find buyers before the expiry of a 60-day window granted by Washington.
+摘要：India plans to build larger oil inventories, expand storage capacity and deepen supply partnerships to hedge against the kind of price volatility seen during the Iran war.
 
 
 ---
 
-## Automakers report mixed U.S. sales results as hybrid vehicles drive market
+## Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html
+链接：https://www.cnbc.com/2026/07/02/ford-q2-sales.html
 
-正文长度：5418
+正文长度：2093
 
-摘要：Second-quarter U.S. new vehicle sales show a sharp divide, with automakers offering hybrid models largely outperforming those without  them.
+摘要：Ford said its EV sales fell by 40.7% during the quarter compared with a year earlier, while sales of its F-Series trucks, including the F-150, fell 11%.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> DETROIT — Second-quarter U.S. vehicle sales are turning into a tale of haves and have nots, as automakers that have hybrid models are outperforming those that don't amid high gas prices and a decline in demand for all-electric vehicles.
-Global hybrid leader Toyota Motor on Wednesday reported a 1.1% increase in its second-quarter sales, led by a roughly 20% increase in sales of electrified vehicles.
-Hyundai Motor, up 4% during the last quarter, reported a 67% increase in hybrids during the first half of the year, while Honda Motor reported that record electrified sales helped it notch an 8.4% increase in overall sales during the second quarter. Kia, up about 3%, also reported a 152% increase in hybrid sales during the second quarter.
-"Hybrids are definitely our growth engine right now," Hyundai and Genesis North America CEO Randy Parker said Wednesday during a call. "Hybrids are really, really taking off right now as consumers, I think, are prioritizing fuel efficiency and lower operating costs due to high gas prices."
-Gas prices are up more than 20% from the same period last year, according to AAA.
-Meanwhile, General Motors, which offers a broad EV lineup but only one hybrid, a low-volume Corvette, reported a 4.2% decline in second quarter sales.
-The juxtaposition of hybrids between GM, the top-selling automaker in the U.S., and No. 2 Toyota caused Cox Automotive last week to note that the Japanese automaker is closing its gap in sales with the Detroit carmaker.
-"At these rates, and what we're seeing right now in the selling rates, GM may be looking over their shoulder here when we get to the year's end, that Toyota could potentially overtake them as the top selling manufacturer here in the U.S. market," Charlie Chesbrough, senior economist and senior director of industry insights at Cox Automotive, said during a media event.
-Cox Automotive and J.D. Power expect second-quarter sales to be roughly level compared with a year earlier. Cox forecast industry sales to be off 0.5%, while JDP expected a 0.7% increase in vehicles sold.
+> DETROIT — Ford Motor on Thursday reported a 10.3% decline in its second-quarter U.S. new vehicle sales as the company battled a supplier issue for its F-Series pickup trucks and a significant decline in all-electric vehicles.
+The Detroit automaker said its pure EV sales fell by 40.7% during the quarter compared with a year earlier. Sales of its F-Series trucks, including the F-150, fell 11% as Ford began ramping up production after its top aluminum supplier restarted production following two fires late last year.
+"Although customer demand remains high, first-half F-Series sales reflect a retiming of commercial production following last year's aluminum supply shortages. Ford expects supply to recover more fully in the second half of the year," Ford said in a release.
+Ford sold 549,200 vehicles during the second quarter compared to 612,095 units a year earlier. While that's among the largest expected industry declines, the results slightly beat Cox Automotive's expectations for Ford sales to fall 11.5%.
+The automaker has sold 1 million vehicles year-to-date through June, down 9.6% from 1.1 million during the first half of last year.
+Ford noted that despite the declines, the F-Series remained America's top-selling truck. The company also estimates its U.S. retail market share to end the quarter was up 0.2 percent points compared with a year earlier, to 12.3%.
+Ford's sales come a day after most major automakers reported second-quarter numbers that were better than expected, largely driven by increased demand for hybrid vehicles. Cross-town rival General Motors saw its sales fall 4.2%, however, as its EV sales dropped.
 Automotive data firm Motor Intelligence on Wednesday estimated U.S. industry sales for June were up 7.5% compared to a year ago, leading to a monthly adjusted selling pace of 16.67 million units, which was higher than many forecasters had expected.
 As of last week, Cox Automotive expected U.S. auto sales to be down 2.9% to 15.8 million vehicles, including a 3.4% decline in retail sales. That included a 16.1 adjusted selling rate forecast for June.
-Non-hybrids
-Outliers in the second quarter include Chrysler parent Stellantis, which was up 5.9%, and Nissan Motor, up 9.6%. Both offer limited electrified models, including hybrids and/or EVs, but are in the midst of sales-focused turnaround plans.
-"At a time when customers are focused on maximizing the value of every dollar they spend, our lineup is delivering with strong quality, capability and the right mix of products," Tiago Castro, Nissan Americas senior vice president of sales and marketing, said Wednesday in a release.
-Having the right mix of products is key for automakers. Right now, aside from hybrids the right mix increasingly means having affordable vehicles, as many Americans grapple with inflation, high gas prices and other issues have been pushed out of the new vehicle market.
-Expectations for U.S. new vehicle sales this year are relatively flat to down, according to several forecasts from analysts and companies.
-Ford Motor, which reports sales results Thursday, also is expected to be an outlier. Cox Automotive expects the company, which has been grappling with lost pickup truck production, to be down 11.5% during the second quarter.
-Cox also expects Tesla, which does not report regional sales, to be off more than 20% during the second quarter, as EV demand last year began to spike ahead of expectations of the Trump administration ending up to $7,500 in incentives for consumers to purchase an EV.
-GM
-GM said its EV sales during the second quarter were off 33% compared to last year.
-Each of GM's brands saw year-over-year sales declines during the second quarter, led by a 19.2% decline in Cadillac. Buick was down 7.5%, Chevrolet fell 3.9% and GMC reported a 0.3% decline.
-Despite the declines, including its crucial Chevrolet Silverado pickup truck, a GM executive described the company's business as "performing well," included remaining disciplined regarding sales incentives and highly profitable full-size pickup trucks.
-"Our business is performing well, and customer demand is resilient, especially for our trucks and SUVs. The depth, breadth and appeal of our vehicle portfolio allows us to lead the market in sales, while maintaining discipline on inventory, pricing and incentives to deliver strong margins," GM North America President Duncan Aldred said in a release.
-GM said that despite a 7.7% decline in its Silverado pickups for the quarter, including a 25.9% drop for its electric truck, the company still expects to have gained market share in the full-size truck segment during the period.
-Its GMC Sierra pickup trucks did better, with a 5% increase in sales, including double-digit increases for its electric and light-duty 1500 models amid tough comparisons. GM recorded its best combined sales of Silverado and Sierra full-size pickup trucks in 20 years in 2025, leading to a sixth straight year of leading that highly profitable U.S. segment.
 
 </details>
 
 
 ---
 
-## U.S. auto industry faces increased uncertainty without extension of USMCA trade deal
+## Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html
+链接：https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html
 
-正文长度：8302
+正文长度：2499
 
-摘要：A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.
+摘要：Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> The U.S. automotive industry is entering a new phase of uncertainty as the Trump administration said the USMCA trade agreement between the United States, Mexico and Canada will not be extended by Wednesday, triggering what could be a yearslong review process or an expiration of the pact if no deal is reached by 2036.
-The United States-Mexico-Canada Agreement, which replaced the North American Free Trade Agreement, was established during President Donald Trump's first term in 2020, but the administration has soured on the deal that governs roughly $2 trillion annually in goods and services between the three countries.
+> Electric vehicle makers Rivian Automotive and Lucid Group reported second-quarter delivery results Thursday with mixed results.
+Rivian raised its 2026 delivery guidance range after seeing stronger-than-expected demand for its electric vehicles during the second quarter, while Lucid missed Wall Street expectations and its new CEO Silvio Napoli announced a shakeup of the company's leadership team.
+Rivian said it now expects to deliver between 65,000 and 70,000 vehicles this year, up from a prior forecast of between 62,000 and 67,000 units.
+Rivian stock rose roughly 6% in early trading Thursday.
+Rivian also said Thursday it produced 12,613 vehicles and delivered 12,194 units during the second quarter. The second quarter deliveries are higher than FactSet's analyst consensus of 11,0000 units and the company's previous outlook, which called for delivering between 9,000 and 11,000 EVs.
+Rivian, which will report its second-quarter financial results July 30, said higher deliveries during the second quarter were driven by its electric delivery van and flagship R1 products.
+The company also started delivering its midsize R2 SUV during the quarter. It's ramping up production of that vehicle at its sole production plant in Normal, Illinois, which has capacity to produce 160,000 of the vehicles annually.
+Lucid reported producing 4,774 vehicles and delivering 3,953 vehicles during the second quarter. The deliveries were below Wall Street's expectations of 5,000 units, according to FactSet.
+Along with the deliveries, the company announced a new leadership team under Napoli, who started overseeing the company in June. Lucid said the new format is meant to "simplify the company's structure" and cuts the number of direct reports to the CEO in half.
+Most notably, Lucid CFO Taoufiq Boussaid will leave the company after a handover to his successor Alexander De Bock, who most recently served as CFO of automotive supplier TI Automotive.
+"We are simplifying the organization, strengthening leadership, enforcing accountability and aligning our structure with the priorities that matter most: customers, quality, and innovation," Napoli said in a release.
+EV leader Tesla, meanwhile, reported 480,126 vehicle deliveries for second quarter, topping expectations. The company doesn't break out exact delivery numbers by region or individual model, but it said its entry-level Model 3 sedan and most popular Model Y SUVs accounted for 467,762.
+— CNBC's Lora Kolodny contributed to this report.
+
+</details>
+
+
+---
+
+## Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html
+
+正文长度：3010
+
+摘要：Ford reports it assembled more than 2 million vehicles in the U.S. last year – more than any other auto manufacturer, including 311,000 units for export.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — As negotiations officially reopen for the USMCA North American trade deal, Ford Motor CEO Jim Farley is clear about what the automaker wants under the new talks: a more level playing field.
+He told CNBC he wants automakers such as Ford that largely produce their vehicles domestically to be awarded under the deal. Along with that, Farley said other automakers — such as General Motors and Toyota Motor — that may produce here but also heavily rely on imported vehicles should get more penalties.
+"It's imperative that any new agreement makes it easier, not harder, to compete with U.S. makers who import from Japan, South Korea and global competitors that import from those locations," Farley told CNBC during a phone interview Wednesday. "That's the key for us."
+Producing in such countries is typically less expensive due to labor costs.
+GM and Toyota are No. 1 and No. 2 in U.S. sales, respectively, while also being the top two importers of vehicles in 2025.
+GM imported 1.17 million vehicles, or 41% of its U.S. sales, while Toyota imported more than 1.19 million units, or 47%, of its domestic sales, according to industry data.
+Hyundai Motor, which plans to roughly double its amount of U.S.-produced domestic sales to 80% by 2030, was the largest importer of vehicles from South Korea, followed by GM.
+Ford, meanwhile, reports it assembled more than 2 million vehicles in the U.S. last year — more than any other auto manufacturer, including 311,000 units for export to more than 60 international markets. It imported 378,000 vehicles, or 17%, of its 2.2 million sales last year.
+"Ford's a leader of U.S. auto production with the most U.S.-built vehicles but, more importantly, we import very few, and we export the most, and we have the most UAW [union] workers here," Farley said. "So we're very proud, especially of the ratio between what we build here and what we import."
+Farley's comments come as the Trump administration has decided not to renew its trilateral trade pact with Canada and Mexico, instead opting to conduct annual reviews of the treaty that could eventually lead to an end to the agreement by 2036.
 The auto industry represented about 18% of America's trading with its neighboring countries last year, according to industry data, making it one of the key sectors in the discussions. Automakers and others watching the talks are concerned that reopening the deal could create additional trade uncertainty that leads to lower investments and fewer jobs.
-"If we let this go on for a very long time, it's very painful for everyone," said Diego Marroquín Bitar, a fellow at the Washington, D.C.-based think tank Center for Strategic and International Studies. "That's the last thing that the region needs."
-There's also concern that the U.S. could pull out of the deal amid aggressive negotiation tactics by the Trump administration involving tariffs, trade and other issues.
-The United States, Mexico and Canada could have agreed to a 16-year extension by Wednesday but will go to an annual review process instead.
-U.S. Trade Representative Jamieson Greer in May said the U.S. wants to strengthen North American rules of origin "in a way that enhances U.S. content in these goods" to boost domestic manufacturing.
-Bitar also said the Trump administration's public discussions have been wide-ranging, touching on nontrade issues such as immigration, crime and other connections, which could make this round of talks more challenging than when USMCA was established.
-"Everything is on the table. Not just the trade issues," Bitar said. "The more things on the table, the longer it takes to negotiate and the more uncertainty it will generate."
-USMCA 2.0 auto expectations
-The U.S. automotive industry has already dealt with a lot of uncertainty this decade, from pandemic production stoppages and supply chain shortages to ongoing changes to tariffs and other regulations. Now it's bracing for the reopening of USMCA talks.
-It's not clear whether vehicles that meet compliance measures for the U.S. would continue to face tariffs, which Trump has used aggressively during his presidency as leverage in negotiations and to promote domestic production.
-"All chips are on the table," Aakash Arora, an automotive expert, partner and managing director at Boston Consulting Group, told CNBC. "But what is clear across all scenarios being discussed is No. 1: higher content from the U.S."
-Automakers operating in the U.S. would like the deal to remain an agreement between the three countries that "strengthens, rather than fragments, this critical economic foundation" for North American trade, according to a letter to Greer from leaders of the largest automotive trade groups in the U.S.
-"We support U.S.-Mexico bilateral engagement and encourage trilateral discussions to support an efficient and effective review that will ultimately extend USMCA as a trilateral agreement," the organizations that represent the vast majority of U.S. automakers, suppliers and dealers wrote May 7.
-The trade groups have argued that companies have spent billions of dollars to address current USMCA standards and that many auto companies are already investing more in the U.S.
-USMCA has driven $182 billion in North American investment, 86% of which has been announced for the U.S., according to U.S. automotive lobbying group data.
-Across the northern border, Flavio Volpe, president of Canada's Automotive Parts Manufacturers' Association and a member of the Canadian prime minister's council on Canada-U.S. relations, said he is optimistic a deal could be hammered out by fall.
-"I'm bullish on where we're headed," he told CNBC during a phone interview Monday, citing increased discussions and public comments. "There are real issues on the table but, in my opinion, none of [those] are insurmountable."
-Rules of origin
-One major issue for automakers and others in the industry is the deal's rules of origin, which determine what country a product comes from and which goods are eligible for preferential treatment, such as reduced tariffs or duty-free trade.
-The U.S. automotive market has expanded into Canada and grown its presence strongly in Mexico on the basis of free trade in North America since NAFTA was initiated in 1994. That has led to a large proportion of parts and vehicles traversing borders before being assembled in one of the countries.
-USMCA currently requires 75% "regional value content" for passenger vehicles and light trucks be sourced from North America. The Trump administration reportedly wants to increase that level to 82%, with 50% of that value produced in the U.S.
-There is currently no requirement to separate the parts content between what's made in the U.S. and what's made in Canada. The new rules would require such a distinction, which would mean setting up new processes.
-"The regional value content is what people are talking about a lot, but really it's the U.S. content that's going to matter," said Mark Wakefield, a partner and global automotive market lead at consulting firm AlixPartners. "Some of these don't even really have a plan as to how to even do them, and so it's going to be a bumpy road, and a fairly expensive road."
-AlixPartners estimate there's an up to 20% premium to move a product from Mexico to Canada and up to 50% increase in costs for moving some parts from China into the U.S.
-BCG also argues that setting the standards too high could cause some companies to actually produce less in the U.S. Instead of striving to meet the standards, it said automakers could instead focus on producing vehicles with the least expensive parts outside of the U.S. to reduce the declared value of the vehicles for import to a level where paying tariffs on a less expensive product would still be financially beneficial.
-"In that case, we do not get additional U.S. content," Arora said. "It's not a small lift, and because it's not a small lift, there might be some unintended consequences."
-Roughly a dozen vehicles, including some single models, meet the current 75% threshold. None are at 80%, with the Volkswagen ID.4 all-wheel-drive Pro at 76% U.S./Canadian content topping the 2026 model year list of parts content published by the National Highway Traffic Safety Administration.
-Automotive executives have said it would take years and billions of dollars in investments to onshore production to ensure vehicles sold in the U.S. have more American content. They've also argued that the U.S. may not be equipped to handle the collection and processing of some parts and raw materials.
-S&P Global Mobility has said there are on average 20,000 parts in a vehicle when it's torn down to its nuts and bolts. Parts may originate in anywhere from 50 to 120 countries.
-BCG's Arora noted one way to potentially boost the U.S. content could be to include the origin software, which is a growing part of new vehicles, in the rules of origin. That would help increase the percentage of a vehicle that qualifies as U.S. content, he said.
-One of the U.S. government's main goals is to improve production in the States, but also it's looking to move the American automobile supply chain away from China. The Asian nation has been rapidly expanding outside of its home base to flood markets with more affordable, subsidized vehicles in South America and Europe.
-AlixPartners said it believes the ideal outcome for USMCA 2.0 would be to focus on competitiveness with China rather than Mexico or Canada, minimize the costs added to U.S. vehicles, and support company investments, among other things.
-"People have talked about sort of 'fortress America' and ... it really needs to be North America," Wakefield said. "[If] really the goal is to face off against China, then it doesn't really make sense to be focusing so much on U.S. versus Mexico and Canada."
+A consortium of U.S. trade groups representing most automakers, dealers and suppliers on Wednesday voiced support for a trilateral deal like the countries currently have.
+"We urge the leaders of the U.S., Canada, and Mexico to swiftly reach consensus on an extension of USMCA that preserves the existing trilateral partnership, returns to preferential treatment for qualifying goods, and continues the stability and predictability that has helped the industry thrive for the past six years," they said in a statement.
 
 </details>
 
 
 ---
 
-## Lamborghini reveals new Urus performance hybrid SUV after ditching EVs
+## Stock market gains minted nearly 1 million new millionaires in 2025, new UBS report says
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html
+链接：https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html
 
-正文长度：2383
+正文长度：4012
 
-摘要：Lamborghini is calling the new Urus SE Performante the "fastest Super SUV in the world."
+摘要：Global personal wealth surged by 10.8% in 2025, the biggest jump since 2017, per UBS.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Lamborghini on Wednesday revealed a new hybrid performance model of its Urus SUV, as the Italian auto manufacturer continues to lean into gas-electric vehicles after abandoning plans for pure EVs.
-The Urus SE Performante features a more aggressive exterior design, including a larger grille and hood scoops, as well as interior improvements compared with current models of the SUV.
-Lamborghini is calling the new Urus SE Performante the "fastest Super SUV in the world," capable of reaching 0-100 kph, or roughly 0-60 mph, in 3.3 seconds and hitting a top speed of 312 kph, or 194 mph.
-The vehicle is a plug-in hybrid electric vehicle, which means it has a gas-powered engine as well as a plug to charge a battery pack for improved electric performance. It is powered by an electric motor and a 4-liter twin-turbo V-8 engine, delivering 812 horsepower and roughly 738 foot-pounds of torque, Lamborghini said.
-"It is very important. It's a game changer," Lamborghini CEO Stephan Winkelmann told CNBC.
-Lamborghini, which is owned by Volkswagen AG, said it would release pricing for the Urus SE Performante closer to the vehicle arriving for U.S. customers. The 2026 Urus SE starts at about $250,00 to $280,000, depending on the model.
-The Urus has been crucial to Lamborghini's success since its introduction nearly a decade ago. The vehicle represents about 50% of the brand's global sales annually, according to Winkelmann, with total Lamborghini sales nearing 11,000 vehicles last year.
-The reveal of the new performance PHEV comes months the company confirmed plans to scrap EVs to continue focusing on hybrid models. Winkelmann declined to comment on if Lamborghini would return to gas-only models, but said "never say never" when asked about such vehicles by CNBC.
-Lamborghini canceled its EV plans before rival Ferrari revealed its first all-electric vehicle, the Luce, in late May. The Luce was met with intense backlash.
-Winkelmann previously declined to comment directly on the Luce or the responses it has received, but said "innovation is paramount" to success. However, he said innovation should not be made for innovation's sake or forced upon customers.
-"By observing the market ... we saw that the acceptance curve [of EVs] for our type of customers is not increasing, and that therefore we decided to move away from a full-electric car into a plug-in hybrid," he said.
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Nearly 1 million people became millionaires in 2025, largely thanks to a thriving stock market, according to a new report by UBS.
+The Swiss bank estimated that the United States is responsible for nearly half of these newly minted millionaires, adding an average of more than 1,200 new millionaires a day last year for an annual gain of about 441,000.
+Stock market gains boosted global personal wealth by 10.8%, the biggest jump since 2017 and more than double the rate of 2024 and 2023, UBS found. However, this robust growth was belied by declines in median wealth in most of the 56 markets monitored by UBS, pointing to a growing wealth gap.
+In the U.S., for example, median wealth per adult has declined by nearly 20% from 2020 to 2025, while average wealth has increased by about 10% over the same period of time, net of inflation, according to the bank's data analysis.
+UBS estimated that the world's millionaire population, which the bank puts at 58 million, owns nearly half of the world's wealth, or approximately $250.6 trillion.
+UBS economist James Mazeau told CNBC that richer individuals reaped bigger gains compared to the broader population last year as they have more exposure to financial markets, noting that the U.S. stock market rose by approximately 18% in 2025.
+"The higher you go in the wealth bands, the more wealth creation will tend to be linked to either the performance of your business or your investment portfolio — or both," Mazeau said at a media conference.
+These gains are also uneven among the ranks of millionaires. The bank estimated that the combined assets of so-called "everyday millionaires," or individuals worth $1 million to $5 million, has jumped by 170%, net of inflation, since 2000. Over that same period, the collective fortune of richer peers soared by 343%.
+As for the world's billionaires, their collective net worth surged by nearly 25% in the year ending in April, according to UBS. However, the report noted that much of this increase was due to an increase in the number of billionaires, not just three-comma club members getting richer.
+The depreciation of the U.S. dollar last year also contributed to discrepancies in global wealth creation as the bank tracks wealth in terms of USD. America's millionaire population, while still the largest in the world, increased by a modest 1.9% in 2025, while most European and Middle Eastern markets saw higher percentage gains, including Turkey (6.4%) and the United Arab Emirates (3.5%). In terms of combined personal assets, the Americas' growth rate was estimated at 8.5%, outranking the Asia-Pacific region at 5.9% but less than half of the 17.5% rate seen in Europe, the Middle East and Africa.
+Mazeau said it is too early to predict how the Iran war will weigh on high-net-worth individuals in the Middle East. Asset allocation and currency trends are two of many factors that will determine the outcome.
+"It will really depend on what share of international assets are held by these investors. If you are, let's say, based in the Middle East, and most of your wealth is tied into U.S. stocks, and furthermore, you have a currency that's pegged to the U.S. dollar, well, the currency moves really don't matter at all," he said. "Now, if you tend to diversify your holdings into other investments that tend to be in currencies that have appreciated versus the U.S. dollar, and if we measure things in U.S. dollars, then that will, for 2026 get a bit better outlook."
+He added that investors may have changed their portfolios as a result of the conflict.
+"Will they diversify their holdings? Will they make more direct investments in the U.S.? How will the situation that unfolded change the investment landscape and the investment philosophy and asset allocation?" he said. "I don't know yet."
 
 </details>
 
 
 ---
 
-## Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund
+## Americans are paying record prices for steak. Here's why demand isn't cracking
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html
+链接：https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html
 
-正文长度：3950
+正文长度：3972
 
-摘要：Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.
+摘要：Despite record beef prices, Americans aren't giving up steak. Consumers are treating beef as an affordable luxury and prioritizing it for special occasions.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Nike on Tuesday posted quarterly earnings and revenue that topped Wall Street expectations, despite another sales decline in its key China market.
-Here's what Nike reported for its fiscal fourth quarter compared with analysts expectations, according to consensus estimates from LSEG:
-- Earnings per share: 20 cents adjusted vs. 13 cents expected
-- Revenue: $10.97 billion vs. $10.86 billion expected
-Shares of Nike dropped as much as 8% in extended trading Tuesday before making up much of the losses.
-The company said its gross margin increased 8.9% during the quarter, largely due to an expected tariff refund of nearly $986 million after the Supreme Court struck down many of President Donald Trump's global duties. The tariff refunds contributed 52 cents to Nike's earnings per share for the quarter.
-Analysts excluded that gain from their adjusted earnings expectations.
-Company executives said on a call with analysts that as of the end of the quarter, Nike had collected over $300 million of cash related to its tariff refund claims.
-Nike posted net income of $1.07 billion, or 72 cents per share, compared with $211 million, or 14 cents per share, a year earlier.
-Revenue climbed to $10.97 billion, down 1% from $11.10 billion in the prior-year period.
-Nike's revenue in North America, its largest market, climbed 3% to $4.83 billion. It fell short of analysts' expectations of $4.88 billion, according to StreetAccount.
-Sales in Nike's Greater China market dropped 12% to $1.30 billion. Even so, the company beat Wall Street's expectations of $1.24 billion in revenue.
-On a call with analysts, CEO Elliott Hill said the company is "fully committed to winning" the China market back.
-"Overall, the results aren't there yet," Hill said. "We know we're not living up to our full potential, particularly in Nike sportswear and Jordan streetwear, where sell through remains challenged, impacting both current discounting and future order books."
-For the full fiscal 2026, Nike reported net income of $3.11 billion, or $2.10 per share, compared with $3.22 billion, or $2.16 per share, in the prior year.
-As the company looks ahead, it reiterated the guidance provided last fiscal quarter, expecting earnings to be "flattish" through the first two quarters of fiscal 2027, according to Friend. Nike also expects gross margin for the first fiscal quarter of 2027 to be slightly positive.
-The earnings come as Hill has been trying to reposition Nike for growth amid slumping sales. The company previously warned its turnaround would not be linear as certain parts of the business improve at different rates.
-Hill previously said that the segments that Nike initially focused on turning around are beginning to see "momentum."
-The turnaround effort is also placed against macroeconomic uncertainty, fueled by tariffs, the war in the Middle East, soaring gas prices and more. CFO Matt Friend said on the call with analysts that Nike's consumer is "under pressure around the world," having an outsized impact on sportswear, which saw sales decline by a double-digit percentage in the quarter.
-In April, Nike instituted a sweeping round of layoffs, cutting 1,400 roles across the organization in its second workforce reduction of the year.
-Last week, the company announced a planned CFO transition, with former Pfizer executive David Denton taking over for Friend effective Aug. 17.
-Still, Nike has seen a boom from the World Cup, hosted across North America this summer. While it's not an official sponsor, the company saw its advertisements massively outpace sneaker rival Adidas and gain significant traction across social media.
-"What feels different this time around is we're not treating the tournament as a single moment, we're using it to reshape our business, telling a connected story over time, engaging different communities in relevant ways and building momentum that carries well beyond the tournament," Hill said on the call with analysts.
+> As Americans prepare to fire up their grills for the Fourth of July, they're facing some of the highest beef prices on record.
+Yet despite the sticker shock, demand for beef and steak are holding up.
+Beef prices have surged after the U.S. cattle herd shrank to its smallest size in decades following years of drought, high feed costs and herd liquidation. The resulting supply crunch has driven up cattle prices and, ultimately, the cost of beef at grocery stores and on restaurant menus.
+While prices eased slightly in May after reaching record highs in the spring, consumers are still paying near-record prices for ground beef and steaks. The average price of ground beef was $6.75 per pound in May, according to U.S. Bureau of Labor Statistics data, up nearly 13% from a year ago and just below April's record high of $6.90. Beef steak prices averaged $12.80 per pound, up 16% from a year earlier and the second-highest level on record.
+But so far, shoppers don't appear willing to abandon their summer grilling traditions. The resilience offers another clue into consumer behavior at a time when investors are closely watching for signs of whether and where high prices are causing shoppers to pull back.
+"We are seeing customer demand for steaks remain quite high, with a shift towards more premium and organic options," a Kroger spokesperson told CNBC. "We've also seen beef continue to be a preferred choice during recent holidays, including Easter and Memorial Day."
+Beef has generated the largest dollar growth of any food category ahead of Independence Day, with sales rising roughly $352 million compared to last year, according to data from NielsenIQ.
+"Consumers are entering the holiday with discipline, making more trips but with clear intent behind each one," the consumer research firm said in a June report.
+Steak and quality win
+As demand for beef holds up, consumers have shown clear preferences within the segment.
+NielsenIQ said consumers increasingly view steak as the centerpiece of special occasions: an "affordable luxury" where they're willing to pay more for quality and the experience, while finding savings elsewhere when they shop for groceries.
+The data also suggest consumers aren't simply searching for the cheapest protein. Instead, many are placing a greater emphasis on quality.
+Shoppers reported increasing favor toward quality claims such as USDA Prime (42%), no added hormones (40%), grass-fed (37%), and no antibiotics ever (36%) when purchasing meat, according to NielsenIQ.
+"Shoppers are looking past the label and into the story behind the meat," the firm said. "Claims tied to quality and sourcing are gaining ground as buyers seek confidence."
+The demand has also benefited others in the industry, like Omaha Steaks, which told CNBC that consumers continue to prioritize gifting steaks even as they cut back elsewhere.
+"Customers are still celebrating dad with premium proteins, but they're also being thoughtful about value and versatility," said Nate Rempe, president and CEO of Omaha Steaks last month as Father's Day approached.
+The company said it has seen continued growth in its USDA certified tender top sirloin filet, a recently introduced value cut, with sales up 25% in the weeks heading into Father's Day this year compared to 2025.
+Restaurants have also reported seeing benefits from the dynamic. LongHorn Steakhouse, among others, has seen a rise in diners seeking out steaks.
+"The guests know they're getting high quality steaks when they come to LongHorn [Steakhouse]," said Rick Cardenas, CEO of the chain's parent company Darden Restaurants. "They get a great value. And it doesn't hurt that there's a high beef inflation in the market. And so the relative value looks a little bit better."
+The key question for investors is how long the dynamic can last. Rebuilding the U.S. cattle herd could eventually increase beef supplies and ease prices, but that process takes years without the aid of imported supply.
 
 </details>
 
 
 ---
 
-## American Airlines brings grab-and-go lounge to New York's JFK
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html
-
-正文长度：1565
-
-摘要：American Airlines is opening a grab-and-go lounge at New York's JFK
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in more than four years as it continues its fight for high-paying customers to close a profit gap with Delta Air Lines and United Airlines.
-The new lounge, a 3,700-square-foot space, will include a barista bar with hot and iced coffee drinks as well as hot and cold food travelers can grab.
-Airlines have been adding more of these short-visit lounges in recent years to give credit card holders and big spenders access to spaces without crowding larger airport clubs. United announced its first in late 2022, for Denver International Airport.
-Airlines and credit card companies alike have raised the entry requirements or scaled back on freebies like guest passes to avoid overcrowding.
-American opened the first of its grab-and-go lounges, which it calls Provisions, at Charlotte Douglas International Airport in North Carolina, last year.
-American operates out of JFK's Terminal 8, which is shared by its Oneworld Alliance partners, Japan Airlines, Alaska Airlines, British Airways and others.
-It has a trio of high-end lounges for business-class travelers, first-class passengers and other frequent flyer elites for long-haul trips, which the airline opened there in 2022. It also operates an Admirals Club there that is used more for lounge membership customers. American hasn't updated its New York space lately like it has with those in other cities like Chicago and Austin, Texas.
-
-</details>
-
-
----
-
-## AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut - Financial Times
+## OpenAI proposes handing Trump administration 5% stake - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5CRlZOc25XQW8xVVh3Z3Jfbk1jREh6YTFaWklZWTlpb19JM3c0bFZZLVlka0NLdm9RbzdDV0hiYk5oZkdtVjdTaTdjT0l4RzFJc2pjSUpaeUltS2NNN0gtbzBpQU01VHdxSnBkaEhRcmg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5CRlZOc25XQW8xVVh3Z3Jfbk1jREh6YTFaWklZWTlpb19JM3c0bFZZLVlka0NLdm9RbzdDV0hiYk5oZkdtVjdTaTdjT0l4RzFJc2pjSUpaeUltS2NNN0gtbzBpQU01VHdxSnBkaEhRcmg?oc=5" target="_blank">AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5" target="_blank">OpenAI proposes handing Trump administration 5% stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Sam Altman: This is how we can make AI safe for everyone - Financial Times
+## Russian drone campaign mapped Nato air defence gaps, study finds - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE91cmpqWEl2RHZDTE5uMGlTZm5vMXdJSXZkUGdFanZrY2dIWE1zaTh4c0diTngtazEzZHlWdGRhV1ZsR2hOQjJwOEVVbDVpR3BZNTJzNnJSMjktNDVFSVZYa0o3ejVwNml2SUs0bUVzUnk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1VJZUNRV2RhS3c0VWw5SUM2VE5XM1VOMnFNLVV3cmRTMmJ5blhpRXpVY2ZWN3BhSlA0dDJkTXd4V1g0aG9lbHdUTlEyMmV6ZTRZWF9fOHJZUVdTc2p4cWtfRG13dlRYSzVKSTQtamt2ODJiSEJfcGJ0QXdXckJZTm0yZ0U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE91cmpqWEl2RHZDTE5uMGlTZm5vMXdJSXZkUGdFanZrY2dIWE1zaTh4c0diTngtazEzZHlWdGRhV1ZsR2hOQjJwOEVVbDVpR3BZNTJzNnJSMjktNDVFSVZYa0o3ejVwNml2SUs0bUVzUnk?oc=5" target="_blank">Sam Altman: This is how we can make AI safe for everyone</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1VJZUNRV2RhS3c0VWw5SUM2VE5XM1VOMnFNLVV3cmRTMmJ5blhpRXpVY2ZWN3BhSlA0dDJkTXd4V1g0aG9lbHdUTlEyMmV6ZTRZWF9fOHJZUVdTc2p4cWtfRG13dlRYSzVKSTQtamt2ODJiSEJfcGJ0QXdXckJZTm0yZ0U?oc=5" target="_blank">Russian drone campaign mapped Nato air defence gaps, study finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Syria’s president Sharaa appoints new parliament - Financial Times
+## Donald Trump made up to $1.4bn in stock purchases in 2025 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnQ3MnB2MTdvSXFqQ3dfakhRWERtX0JnMmVSOWY3Y21NY1k5NzhQUlJLZ1FKbkhfUElTQzUyaEJhbmMwa3g4eXRRZzZSU0toR3BIT2RKaEQ5cjlNZ1N6RnlKTUpNV1M0Z0cybFNxbjA3UEZKdW5LZDByLWpYM2hfLXRpbUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQk95LTJrb2xUOVVNVlVkU2JsWU1FUjVVX3V2ZzE0REJLbFgyQkZpMDJFRUd0MXYweE5zOTZPZ25fc3dmbGpwdG9WWHU3bXFGOHJ5RnZ2U3EzbE5PbndDTC13T2Z4NHNrbnl3dWE4LWZOTnNXVmh4UGEyblZlcFAzY1ZTU1g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnQ3MnB2MTdvSXFqQ3dfakhRWERtX0JnMmVSOWY3Y21NY1k5NzhQUlJLZ1FKbkhfUElTQzUyaEJhbmMwa3g4eXRRZzZSU0toR3BIT2RKaEQ5cjlNZ1N6RnlKTUpNV1M0Z0cybFNxbjA3UEZKdW5LZDByLWpYM2hfLXRpbUU?oc=5" target="_blank">Syria’s president Sharaa appoints new parliament</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQk95LTJrb2xUOVVNVlVkU2JsWU1FUjVVX3V2ZzE0REJLbFgyQkZpMDJFRUd0MXYweE5zOTZPZ25fc3dmbGpwdG9WWHU3bXFGOHJ5RnZ2U3EzbE5PbndDTC13T2Z4NHNrbnl3dWE4LWZOTnNXVmh4UGEyblZlcFAzY1ZTU1g?oc=5" target="_blank">Donald Trump made up to $1.4bn in stock purchases in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Through saints and symbolic visits, Pope Leo gets his message across - Financial Times
+## The economics of women’s weight - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFRyMVkxMktiS2UxTlJlbFpLYy1qV2xMX2xwc0ZtU1J5eWdfbl95N05zR0YwWG5QdVJxMjJsNFBuZHd5TkhBbEt2Vmthd3VvUTE3aTctRFFTMDdIS3pYM2RQOGFUOGowLTh3SXduTW5sNkxaZmpHclhFWjltbDZoMTNvQkc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC1FX00xdmJUYk0yelVmZFUtTEtLVFdnRHdNQ3BJaV9DNjVxUVNVQVNnb3JtaWloOENUSHVfcVpYTHd6dDV1UjY4SGZJNkg5RmR3UVdKd2ljcjM1SXJteF80Zlc0WEFHaGtXR1V1NEpYY1hkckZOMGFEMlJFZ0lTN2hFN1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFRyMVkxMktiS2UxTlJlbFpLYy1qV2xMX2xwc0ZtU1J5eWdfbl95N05zR0YwWG5QdVJxMjJsNFBuZHd5TkhBbEt2Vmthd3VvUTE3aTctRFFTMDdIS3pYM2RQOGFUOGowLTh3SXduTW5sNkxaZmpHclhFWjltbDZoMTNvQkc?oc=5" target="_blank">Through saints and symbolic visits, Pope Leo gets his message across</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC1FX00xdmJUYk0yelVmZFUtTEtLVFdnRHdNQ3BJaV9DNjVxUVNVQVNnb3JtaWloOENUSHVfcVpYTHd6dDV1UjY4SGZJNkg5RmR3UVdKd2ljcjM1SXJteF80Zlc0WEFHaGtXR1V1NEpYY1hkckZOMGFEMlJFZ0lTN2hFN1E?oc=5" target="_blank">The economics of women’s weight</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## KNDS postpones IPO after investors balk at €12bn-plus valuation - Financial Times
+## White House accelerates plans for AI model standards - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzAwaGFDMUt1b3BxRE9vRWd0SjdwZEJfVnlNTjNlWUtYc2ZBUWtMR1VjbTM4TVpYUG1ueFQ5UlpQbHJiR1Bqa3dQUUJLcjE2dk9mZ21QdUdMdWxZSENkNVpnT2ZaaXQtck9JQkFmbHBTbXE2TldrUXpTVmMzZWpSXzRDSkY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWFESS1qUHh6dmQ5bldDRlNxMzdacnJ5UUtaaHdHcFM3YjNkdngxdDNha2c2ME5YcWdwMUtza3dsb01uTldtU0NnQ200aFBpYmFISGw3bmpNUzEwSEI0bElsQU5YUS1YbmVjWFVHOEF5THozcU1ReG9OWVdnRzdadktsS0Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzAwaGFDMUt1b3BxRE9vRWd0SjdwZEJfVnlNTjNlWUtYc2ZBUWtMR1VjbTM4TVpYUG1ueFQ5UlpQbHJiR1Bqa3dQUUJLcjE2dk9mZ21QdUdMdWxZSENkNVpnT2ZaaXQtck9JQkFmbHBTbXE2TldrUXpTVmMzZWpSXzRDSkY?oc=5" target="_blank">KNDS postpones IPO after investors balk at €12bn-plus valuation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWFESS1qUHh6dmQ5bldDRlNxMzdacnJ5UUtaaHdHcFM3YjNkdngxdDNha2c2ME5YcWdwMUtza3dsb01uTldtU0NnQ200aFBpYmFISGw3bmpNUzEwSEI0bElsQU5YUS1YbmVjWFVHOEF5THozcU1ReG9OWVdnRzdadktsS0Y?oc=5" target="_blank">White House accelerates plans for AI model standards</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil falls after US, Iran talks conclude in Doha - Reuters
+## US job growth misses expectations in June; unemployment rate falls to 4.2% - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5" target="_blank">Oil falls after US, Iran talks conclude in Doha</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5" target="_blank">US job growth misses expectations in June; unemployment rate falls to 4.2%</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian drone, missile attack on Kyiv hits residential buildings, injures 16 - Reuters
+## NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXpINkNPNmhoNlBLZ1FyUHM5alRZVWp0dUlGS3F2ajlhNGJmUFlrU1lYNHBWQzlZenZUYWRaSFByeFVxTG5vVlMtQm5Gd3E1U3FKVlM0TTdZXzFJMEZ3RFZGQV8xdDB5dVUya2dXNWRhTF9Xa1hmdXQ1bXF0WjFELU0xaWdvVFhSbEhMRElBdUtnNk5sRFEtR0NsUmxZNXZLV1NlVEtrNHBTaEFhWmlHQ2luUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlhnNGJETDB0b3N2bjA1MF9YUEpzNGVsdTVTeEt0NGRXVnc2azR0ZnZhWjhfcHZVV2NuOXU3eXROR0hURkZjcmJTOGI3NWFhUjF2ZWJfY1VhanQ1R3pkTTQ0VTktZk5mdHhVeUtUVmdPUlFJYlByUGQwOWd2bFkyUE9mMWFSUDNGRWNkNXE0OE5lVjVmWGFFcDFpRTBrQ0FVZGtOM1FQeVM1UEQ0ankxemxOWWtSeFlWN1g4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXpINkNPNmhoNlBLZ1FyUHM5alRZVWp0dUlGS3F2ajlhNGJmUFlrU1lYNHBWQzlZenZUYWRaSFByeFVxTG5vVlMtQm5Gd3E1U3FKVlM0TTdZXzFJMEZ3RFZGQV8xdDB5dVUya2dXNWRhTF9Xa1hmdXQ1bXF0WjFELU0xaWdvVFhSbEhMRElBdUtnNk5sRFEtR0NsUmxZNXZLV1NlVEtrNHBTaEFhWmlHQ2luUQ?oc=5" target="_blank">Russian drone, missile attack on Kyiv hits residential buildings, injures 16</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlhnNGJETDB0b3N2bjA1MF9YUEpzNGVsdTVTeEt0NGRXVnc2azR0ZnZhWjhfcHZVV2NuOXU3eXROR0hURkZjcmJTOGI3NWFhUjF2ZWJfY1VhanQ1R3pkTTQ0VTktZk5mdHhVeUtUVmdPUlFJYlByUGQwOWd2bFkyUE9mMWFSUDNGRWNkNXE0OE5lVjVmWGFFcDFpRTBrQ0FVZGtOM1FQeVM1UEQ0ankxemxOWWtSeFlWN1g4?oc=5" target="_blank">NATO plans to replace AWACS with Saab GlobalEye jets, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Belgium stage stunning comeback to sink Senegal in extra time - Reuters
+## Damascus cafe blast kills 5, wounds 16, Syrian state news agency says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGY4ME1Rc0NxYjZGekVLZG1KRTktTWVtVHQ5dTdWazA1TkhYOGlnN1pfdkZ4Si13MG9TSVFFRU5qNEsxTDlyOHhTZE1WNWNPMUpOZkxUTGxYd3pzSnBCV2NKdUQ2ZGUydWFJVUw1QWNWRlJqZGdMY0E5MWNIbUdDYzNvR1B4RFkwWVltcXFEUEMwXzZtb0J6U0RTRC1Da2x0WTNtZHRoVDdkb3JsdlN0RzltQTZ2MTU1RlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1FuZFNuTEZTUUhkZmNuOFJ1VXBOR3JCNTJSeWE1bzlGUm5LSGZ4aGVWREdueU9uckxILVUzMzlyZWprdDc0cXBzQnVBR3h0YXJta2hBdG0yS3IyS3cwYWozN3UzNV9xTUpySFVkQW5FR2sxUmIxbmRabml3RTh1eGduZDF5RmtaZkZKT2hRQXNZYXBvc1UtbUhvT25rSHRMY0RkSHRYOHp1cUtOempvQWZ1WQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGY4ME1Rc0NxYjZGekVLZG1KRTktTWVtVHQ5dTdWazA1TkhYOGlnN1pfdkZ4Si13MG9TSVFFRU5qNEsxTDlyOHhTZE1WNWNPMUpOZkxUTGxYd3pzSnBCV2NKdUQ2ZGUydWFJVUw1QWNWRlJqZGdMY0E5MWNIbUdDYzNvR1B4RFkwWVltcXFEUEMwXzZtb0J6U0RTRC1Da2x0WTNtZHRoVDdkb3JsdlN0RzltQTZ2MTU1RlE?oc=5" target="_blank">Belgium stage stunning comeback to sink Senegal in extra time</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1FuZFNuTEZTUUhkZmNuOFJ1VXBOR3JCNTJSeWE1bzlGUm5LSGZ4aGVWREdueU9uckxILVUzMzlyZWprdDc0cXBzQnVBR3h0YXJta2hBdG0yS3IyS3cwYWozN3UzNV9xTUpySFVkQW5FR2sxUmIxbmRabml3RTh1eGduZDF5RmtaZkZKT2hRQXNZYXBvc1UtbUhvT25rSHRMY0RkSHRYOHp1cUtOempvQWZ1WQ?oc=5" target="_blank">Damascus cafe blast kills 5, wounds 16, Syrian state news agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US nuclear power regulator proposes changing rule protecting people from radiation - Reuters
+## Eight monks killed in Thailand after 11-year-old boy crashes truck - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0M0clBnUnpWa0NVdnRCYlFjcFFDaGg5TXU0VnRZS3JROF9YZzB1LWduQ05IMUc4S0M1WGRqb0VTMTkzcHEzM2RjZWZRbVNRZVhmY0NoT2U3dWE0UXhuYzNlaDM5VFVRNEhvVy1SeWdIZkZ4QUpEc2U5aTQ0NlVYRzdkUkxXVGxyd3pOS3d2RV94RjR3T0FLQUVhZ1Z1eDc3a2E1TmN2b3JjTFRxOTFLdjlmMU81Sjd5dU4wVExrVGEwZWhyQTBPYTlR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxObFhJeE8ybVRRSUtRU2xKdWlIUU55aEdkSFlxM0I4YW1NcEFvd2JuUF9BZHZFcnU5Ym02eG42RGtjZl9DR0UxSFMwWXpsSEY1NWZiOUczNkJ4ZkEwb0FPUnUzWVlQNElrWVo5SjFUOElrdF8tZFJuYU9pZjI3YzRMTnhRd2l1OVBHUk9fcmlYcC14VDZXRjA1bG02dHpJT1psN0hrTUlNZDZ1dHBDcENqWTkwSEltdlFjeVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0M0clBnUnpWa0NVdnRCYlFjcFFDaGg5TXU0VnRZS3JROF9YZzB1LWduQ05IMUc4S0M1WGRqb0VTMTkzcHEzM2RjZWZRbVNRZVhmY0NoT2U3dWE0UXhuYzNlaDM5VFVRNEhvVy1SeWdIZkZ4QUpEc2U5aTQ0NlVYRzdkUkxXVGxyd3pOS3d2RV94RjR3T0FLQUVhZ1Z1eDc3a2E1TmN2b3JjTFRxOTFLdjlmMU81Sjd5dU4wVExrVGEwZWhyQTBPYTlR?oc=5" target="_blank">US nuclear power regulator proposes changing rule protecting people from radiation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxObFhJeE8ybVRRSUtRU2xKdWlIUU55aEdkSFlxM0I4YW1NcEFvd2JuUF9BZHZFcnU5Ym02eG42RGtjZl9DR0UxSFMwWXpsSEY1NWZiOUczNkJ4ZkEwb0FPUnUzWVlQNElrWVo5SjFUOElrdF8tZFJuYU9pZjI3YzRMTnhRd2l1OVBHUk9fcmlYcC14VDZXRjA1bG02dHpJT1psN0hrTUlNZDZ1dHBDcENqWTkwSEltdlFjeVE?oc=5" target="_blank">Eight monks killed in Thailand after 11-year-old boy crashes truck</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say - Reuters
+## Belgium plans to spend 3.1 billion euros on NASAMS and skyranger systems – Belgian official - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPcHlPOXhkWFNZNWNNTG91STB2SHYzaDZRNXNGVXdVb1NRY2VRVDJFam1oQllaLWFoY29sM1hNbTFUSUNpWWxRVGtxQk44UHhNTGl5bnV6VnpXdVdSN3o5MFhmaFl2b3pnOXk5TTN1M2lkNmxTaWh2b2xqZUJqVlZMXzJsZUotdHRCWHJoOGZuUTJTM2k4bDZDekY5U3pBYVV6V3RZRGNFSEtnWl9PNTZ6b3hiMkNYUnZqOWlFNlNhNy1sdm5rVmdxcFRUWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRk1zQjZ6bWtIOFAyYl8wMjRKcDZEVTRmUGUzckFBeEdVZ2hGbWpYMkhIMUhGSkNSV3pSZFNUWm4taVc2ZXNNUHhkUjhOM1l5YmVlUVR5Vm1JU3dxazl5N2IzTVNmSFQ4dHdkSTc1Y3BWT0VwX01wTTdtS3J6ak1TZGdQNVVWNjBiakZoaVVlcUt5QUlNUXFnV1VXd2lSQ1R3cVpjSjBuTVRvbHlfZDJQOFVWWEdLRDRERWl6R2pCYTkzbVloS09NNG5fY2VmdjM0eHk1cGgyN2Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPcHlPOXhkWFNZNWNNTG91STB2SHYzaDZRNXNGVXdVb1NRY2VRVDJFam1oQllaLWFoY29sM1hNbTFUSUNpWWxRVGtxQk44UHhNTGl5bnV6VnpXdVdSN3o5MFhmaFl2b3pnOXk5TTN1M2lkNmxTaWh2b2xqZUJqVlZMXzJsZUotdHRCWHJoOGZuUTJTM2k4bDZDekY5U3pBYVV6V3RZRGNFSEtnWl9PNTZ6b3hiMkNYUnZqOWlFNlNhNy1sdm5rVmdxcFRUWQ?oc=5" target="_blank">EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRk1zQjZ6bWtIOFAyYl8wMjRKcDZEVTRmUGUzckFBeEdVZ2hGbWpYMkhIMUhGSkNSV3pSZFNUWm4taVc2ZXNNUHhkUjhOM1l5YmVlUVR5Vm1JU3dxazl5N2IzTVNmSFQ4dHdkSTc1Y3BWT0VwX01wTTdtS3J6ak1TZGdQNVVWNjBiakZoaVVlcUt5QUlNUXFnV1VXd2lSQ1R3cVpjSjBuTVRvbHlfZDJQOFVWWEdLRDRERWl6R2pCYTkzbVloS09NNG5fY2VmdjM0eHk1cGgyN2Q?oc=5" target="_blank">Belgium plans to spend 3.1 billion euros on NASAMS and skyranger systems – Belgian official</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
