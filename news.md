@@ -1,34 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-07-03 03:48:55
+更新时间：2026-07-03 14:21:34
 
-## Vietnam Growth Tops Estimates Despite Trade Risks, Oil Shock
+## Buddhism: China's New Soft Power Front
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-03/vietnam-s-quarterly-growth-surges-june-trade-beats-estimates
+链接：https://www.bloomberg.com/news/videos/2026-07-03/buddhism-china-s-new-soft-power-front-video
 
 正文长度：0
 
-摘要：Vietnam’s economic growth beat estimates in the second quarter, while trade grew faster than expected in June and inflation slowed, as one of Asia’s fastest-growing economies continues to defy tariff risks and higher energy prices.
+摘要：China is investing billions to shape the future of Buddhism. From temples and universities to the battle over the Dalai Lama's successor, Beijing is using faith as a tool of influence and fueling a growing soft power rivalry with India. (Source: Bloomberg)
 
 
 ---
 
-## AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-03/amp-says-bonds-no-longer-a-hedge-cuts-from-some-pension-funds
-
-正文长度：0
-
-摘要：AMP Ltd., one of Australia’s top asset managers, has ditched bonds from some of its retirement funds with sovereign debt no longer offering the diversification investors have relied on for decades as a ballast against stock volatility.
-
-
----
-
-## Stocks Rebound After Tech-Led Selloff, Gold Climbs: Markets Wrap
+## European Stocks Head for Best Week Since May: Markets Wrap
 
 来源：彭博社
 
@@ -36,33 +23,261 @@
 
 正文长度：0
 
-摘要：Stocks rebounded after two days of tech-led losses in the US that were fueled by concerns the artificial intelligence-driven rally had run ahead of itself. Gold extended gains as traders trimmed bets on Federal Reserve interest rate hikes.
+摘要：Stocks rose as the latest round of jitters about the artificial-intelligence trade subsided, with Europe’s benchmark rising to an all-time high. The dollar touched a two-week low while gold extended gains.
 
 
 ---
 
-## Takaichi Eyes India Ties as Relations With China Fray
+## The AI Trade Is Losing One of Its Key Signals
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-07-03/modi-takaichi-look-to-strengthen-ties-as-china-concerns-loom
+链接：https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock
 
 正文长度：0
 
-摘要：Exchange rates of both Japan and India are under pressure.
+摘要：At a time when markets are growing uneasy over whether the enormous sums being poured into artificial intelligence will ever pay off, the prices the sector commands for each unit of usage are drifting lower.
 
 
 ---
 
-## MBK Partners Faces Sanctions Process in Homeplus Case, FSS Says
+## Oil Wavers as Persian Gulf Flows Surge Toward Pre-War Levels
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-03/mbk-partners-faces-sanctions-process-in-homeplus-case-fss-says
+链接：https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1
 
 正文长度：0
 
-摘要：South Korea’s financial watchdog is moving ahead with sanctions against private equity firm MBK Partners Ltd. over issues related to its distressed portfolio company, retailer Homeplus Co.
+摘要：Oil prices wavered in thin trading as the recovery of Persian Gulf flows fomented a new surplus in key parts of the global market.
+
+
+---
+
+## Gold Heads for First Weekly Gain Since May on Easing Fed Outlook
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-03/gold-holds-gains-as-weak-us-jobs-data-lowers-rate-hike-odds
+
+正文长度：0
+
+摘要：Gold headed for its first weekly gain since May as traders dialed down their expectations of Federal Reserve rate hikes.
+
+
+---
+
+## Ford achieves quality milestone, as CEO targets flawless new vehicle launches
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html
+
+正文长度：7350
+
+摘要：Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — Ford Motor regularly promotes itself as a cornerstone of American manufacturing, business and truck leadership with its best-selling F-Series pickups, but it also has led the U.S. in one area that it isn't so proud of: vehicle recalls and quality issues.
+They've plagued the Detroit automaker's earnings, degraded customer trust and stained Ford's reputation for much of the past decade. The automaker has issued 53 recalls for more than 12 million vehicles so far this year after an industry record of 153 recalls covering 13 million cars and trucks in 2025.
+But that period for Ford is coming to an end, CEO Jim Farley told CNBC during an exclusive interview, as the automaker notched a key quality milestone. He said Ford has learned from its past mistakes and will use that knowledge to attempt to flawlessly launch a litany of new products in the coming years.
+"Our best days are in front of us as we continue to execute this quality turnaround for our investors, for employees, for our customers," Farley said during a phone interview. "We're going to have all new vehicles across our entire North America range in a couple of years, and so that whole new lineup, we have to launch all those perfectly."
+Doing so will be a difficult task. New vehicle launches, especially ones with emerging technologies such as software-defined systems and electrified powertrains, are complex, and one issue can have a ripple effect on an entire product line.
+It's something Farley knows all too well. Such issues have cost Ford billions of dollars in losses under his nearly six-year tenure leading the company.
+The automaker this week added to its 2026 recall total by recalling 741,195 SUVs and F-150 pickup trucks that varied in age from the 2018 to 2021 model years.
+Investors have been closely watching the issues, saying unneeded warranty costs are a risk to the company's guidance and future business plans. Warranty costs are the expenses an automaker incurs to cover repairs, replacements and other costs for defective parts or workmanship under a certain period of time or miles driven after customers purchase a new vehicle.
+Ford said it reduced warranty and materials costs by $1.5 billion in 2025, when adjusted for volume and mix, and is targeting an additional reduction in warranty and material costs in 2026. This follows the company's warranty costs reaching a high of $4.8 billion in 2023.
+"While warranty costs had been a clear drag to earnings over the past several years, Ford appears to have 'turned the corner,'" Barclays analyst Dan Levy said in a May 15 investor note, citing four consecutive quarters of year-over-year warranty benefits. "We believe the 1Q warranty improvement is encouraging, yet believe further improvement will still be needed."
+Ford No. 1 in initial quality
+The company last week received outside validation of its yearslong efforts to turn around its product issues as the Ford brand was named the top mass-market brand in the U.S. in J.D. Power's initial quality ranking.
+After the news was released on June 25, Ford stock rose 2%, making it the company's second-best trading day of the month.
+It's the first time since 2010 that Ford has led mainstream brands in the influential study, which assesses expected new vehicle quality based on owner-reported problems within the first 90 days of ownership. Ford, which ranked No. 23 in 2023, ranked third among all brands, behind luxury makers Porsche and Hyundai's Genesis. It came before Toyota's Lexus brand at No. 4.
+Ford improved in nearly every vehicle category measured by J.D. Power in initial quality, including software, infotainment and power trains.
+The acknowledgement comes as Farley has doubled down on efforts to restructure Ford's leadership, including its bonuses and incentives; focus on quality; and revamp its processes as well as those of suppliers and other partners to more proactively identify potential problems.
+"I'm very proud that an American car company can beat the world in initial quality, but obviously none of us are satisfied," said Farley, who worked at Toyota for nearly 19 years before Ford. "We have so much left to do to be the No. 1 quality brand in all attributes."
+Farley said Ford needs to continue trying to lower its warranty costs and future recalls as well as improve its overall quality reputation, including long-term durability.
+Ford and its luxury Lincoln brand respectively ranked 18th and 19th in J.D. Power's U.S. Vehicle Dependability Study released in February, well below the industry average. That study looks at vehicles over a longer period.
+Farley declined to predict when Ford, which has led recalls in the U.S. since 2024, will not hold that position anymore, saying he can't control what happens in older-model vehicles as well as competitors' efforts in quality. But he did say everything the company is doing "will absolutely lead to a massive reduction" in future recalls of current and future products.
+"The ultimate success metric is will we do it over the course of five or 10 years through launches, through all sorts of economic cycles," he said. "Everyone wants the quick answer, but when it comes to quality, time is the most important measure of success."
+Ford's quality efforts
+Recalls are companies rectifying mistakes that weren't caught or known during a vehicle's development or production. They can range from mundane issues such as visor labels or software updates to severe, potentially deadly issues for consumers.
+Ford's most recent quality efforts have focused on finding any issues as soon as possible in a vehicle's development, which Farley said meant structurally rearranging the company's processes.
+He implemented a new organizational structure and has hired 350 technical specialists since 2023, held more routine meetings, encouraged closer collaboration with suppliers and rolled out more rigorous testing during the entire vehicle development process.
+Ford also changed its bonus structure, tying executive compensation more closely to quality metrics, including those for new executives from Whirlpool and Johnson Controls who brought additional quality expertise.
+Ford has still had to deal with issues along the way. After it rolled out new artificial intelligence tools to detect problems, the company had to ultimately bring back what it calls veteran "gray beard" engineers to help guide younger staff members and to better train its AI models.
+"We found in the past that Ford restructured the company to save money, only to find that we had let go experienced people in supply chain and manufacturing and engineering," he said. "By bringing those people back, that complements all this AI technology."
+For many companies, AI has increasingly shown it can increase productivity of many tasks but might not be as efficient if it's not properly trained and deployed to assist the work of human employees.
+Farley said that while Ford's quality efforts are a never-ending journey, he believes the company is about halfway through its most recent turnaround efforts under his Ford+ business plan, which is just beginning to show Ford's future upside.
+"I know after 40 years how important quality is and durability is, and how difficult it is to be the best, which we now are initial," Farley said. "We cannot lose this momentum, it has to be a culture."
+
+</details>
+
+
+---
+
+## Trump’s Freedom 250 draws corporate sponsors with business before his administration
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html
+
+正文长度：9216
+
+摘要：Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> WASHINGTON — On the National Mall this week, Freedom 250 signs pointed visitors toward temporary state pavilions, a Ferris wheel and mobile, transitory history exhibits. Sponsor names appeared beside Trump-aligned programming. Some states were represented by official delegations. Others had opted out, leaving replacement displays or stripped-down booths in their place.
+As the country prepares to mark its semiquincentennial, or 250th birthday, the splashiest celebrations in Washington are being shaped by corporate money.
+A CNBC analysis found 14 companies backing both America250, the nonprofit supporting the congressionally created U.S. Semiquincentennial Commission, and Freedom 250, the Trump-backed public-private partnership behind some of the administration's most visible anniversary events.
+The companies listed online as backing both are: Boeing, Deloitte, Exiger, John Deere, Lockheed Martin, Northrop Grumman, Oracle, Palantir, Phorm Energy, RTX SAP, Scotts Miracle-Gro, UFC and United Airlines.
+Of those companies, only John Deere responded to a CNBC request for comment, but it did not address specific questions about its sponsorship of both organizations. John Deere said it was eager to celebrate the people whose work helped "build power, feed and sustain" the U.S.
+Several of those companies have major business before the federal government, including defense contracts, technology contracts, regulatory interests, merger considerations, tax issues and other policy matters shaped by the Trump administration.
+CNBC did not find any evidence of a connection between the Freedom 250 sponsorships and the companies' dealings with the administration.
+But it's another example of the complex intersection of corporate America and politics under a president who's been increasingly close with companies.
+Watchdogs and ethics experts have said the structure gives companies with business before the administration a new way to seek access to President Donald Trump, with much of the money hidden from public view.
+"The concern is not that companies are sponsoring a national celebration. The concern is that this celebration appears to offer access to the president while some of those companies have business before his administration," said Bruce Freed, the president and co-founder of the Center for Political Accountability that advises companies on political spending.
+Democrats on the House Natural Resources Committee released a report this week criticizing the president and Freedom 250, accusing it of diverting funds and misleading sponsors.
+Freedom 250 fundraising materials, first reported by The New York Times, described tiered sponsorship: Donors giving at least $500,000 were offered VIP access, invitations and preferred seating at events, according to the New York Times. A $1 million contribution came with an invitation to a private "thank you" reception hosted by Trump and a photo opportunity, the Times reported, and donors giving $2.5 million or more were offered speaking roles at a July 4 event in Washington.
+For $10 million or more, companies got VIP access to all Freedom 250 events, logo rights, a tailored press release, a July 4 speaking role and a private Trump-hosted reception with a photo opportunity, according to the Times report.
+Those kinds of tiered benefits are common in major event sponsorships. Watchdogs said Freedom 250 is different because some sponsors have business before the administration, the donor structure is opaque and the perks were attached to events built around Trump.
+"For a million bucks, you get a meet and greet with the president, and what we've seen is when you get in the room with Donald Trump, it tends to be very beneficial for your business," Matt Dallek, a political historian at George Washington University, told CNBC.
+Freedom 250, America250 and the White House did not respond to multiple requests for comment.
+Dual celebrations
+Two separate groups have been planning celebrations for the big July 4 holiday.
+The first, America250, grew out of a bipartisan commission Congress created in 2016 to plan the country's 250th anniversary. Its work has focused on civic programming, including student contests, volunteer initiatives and events around the country.
+Freedom 250 emerged after Trump returned to office and sought to put his own stamp on the anniversary. When Trump announced the effort on social media in December, he promised "the most spectacular birthday party you've ever seen."
+Freedom 250 and associated events have become the vehicle for some of Trump's most touted anniversary events: the Great American State Fair on the National Mall, a model of a planned arch overlooking Washington, an IndyCar race through the capital, a UFC fight at the White House and more.
+Congress set aside $150 million for the anniversary, but America250 had received only $25 million as of early June, according to a report obtained by Washington, D.C., based digital news outlet NOTUS. The Trump-aligned effort has received far more: nearly $80 million in 250th-related grants to the National Park Foundation, NOTUS first reported.
+One possible explanation for why companies would back both groups, Freed and other experts said, is that America250 offered traditional patriotic branding, while Freedom 250 put sponsors closer to Trump's preferred version of the celebration.
+"If you're a company with federal contracts, regulatory issues or merger interests, being in the room with the president can be worth far more than the sponsorship itself," Freed told CNBC.
+UFC may be the clearest example of how Freedom 250 blurred corporate money, Trump's personal network and policy interests.
+The company helped stage a Freedom 250 mixed martial arts event at the White House during Trump's birthday weekend. UFC President Dana White, a longtime Trump ally, also sent Trump a May 11 letter asking him to reverse a provision in the "Big Beautiful Bill Act" that capped gambling-loss deductions at 90%, ESPN reported. That provision is still in effect.
+UFC declined to comment on its listing on the Freedom 250 and America250 sites. CNBC did not find any evidence that UFC's corporate sponsorship affected the government's decisions.
+Business rationale
+Corporate money has long been part of national anniversaries.
+The 1976 Bicentennial drew so much corporate sponsorship that critics derided it as the "buy-centennial." Former President Richard Nixon, too, was accused of trying to steer the commemoration through the executive branch during the run-up to celebrations before resigning in 1974.
+One high-profile Bicentennial project, the American Freedom Train was funded by five companies — Pepsi-Cola, Atlantic Richfield, General Motors, Prudential and Kraft Foods — that contributed around $5 million each in initial grants to the project, according to Ford Library records. Adjusted for inflation, that would be worth roughly $20 million.
+But historians and watchdogs said Freedom 250 raises a different set of concerns because of the access-style sponsorships, opaque funding structure and the degree to which the anniversary has been built around Trump.
+"There's the America250 for everyone else, and then there's this small shadowy organization [Freedom 250] doing essentially Trump rallies and things for Trump supporters," Dallek said. The structure, he added, "doesn't really play to the idea of unity very much."
+America250 publicly lists dozens of sponsors. Freedom 250 has referred to some backers as "strategic partners." And the National Park Foundation's president has told Congress that donors who request anonymity will not be disclosed, according to congressional Democrats.
+That opacity is another part of the appeal, corporate political consultants said.
+"Companies are hedging," Freed said. "They want the safe patriotic branding of America250, but they also don't want to be absent from the president's preferred celebration."
+The blurred lines extend beyond corporate sponsorship.
+According to NASA employee sources and materials reviewed by CNBC, a department-wide NASA email sent in June encouraged employees to shop the Freedom 250 store. The link resolved to the Trump campaign website, according to those materials.
+A rocky start
+The anniversary rollout has also been plagued by problems on the ground.
+The Great American State Fair on the National Mall was billed as a 16-day centerpiece of the celebration. But at least eight states, most led by Democratic governors, declined to participate officially, citing exhibit costs ranging from $100,000 to $1 million and concerns about the event's partisan tone.
+The fair has also faced sparse crowds, power outages, an intermittently broken Ferris wheel and a model triumphal arch whose covering had begun to buckle, according to media reports.
+Several artists, including Martina McBride, Young MC, the Commodores and Bret Michaels, pulled out after being announced or associated with Freedom 250 events. Some said they had been misled about the partisan nature of the celebration.
+Trump responded by suggesting in a Truth Social post the concerts be replaced with a "MAKE AMERICA GREAT AGAIN RALLY" and later moved to headline the fair's opening himself.
+
+</details>
+
+
+---
+
+## American Express and Chase move luxury lounge wars beyond the airport
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html
+
+正文长度：8797
+
+摘要：Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> An airport lounge — without the security screening or boarding pass.
+Credit card companies American Express and Chase are increasingly waging their luxury lounge wars outside the airport. From an air-conditioned retreat in the middle of the desert at Coachella to an exclusive athlete meet-and-greet at the Paris Olympics, these companies are investing big in premium hospitality spaces to win over affluent cardholders.
+"It's very expensive, but I think what's happening is that the issuers are finding that this is a premium differentiator," said Donald Fandetti, managing director of consumer finance equity research at Wells Fargo. "It's all about providing these services and experiences that make it worth it to the cardholder to pay those annual fees."
+American Express' Platinum and Chase's Sapphire Reserve cards — the leading premium cards in the market — both upped their annual fees last year. The Amex Platinum now carries a fee of $895 a year, and the Sapphire Reserve has a fee of $795.
+The perks associated with these cards, like dining credits, hotel upgrades and digital partnerships, help offset the cost. It's all an effort to capture and retain the highest spenders. Amex and Chase have jockeyed for years to be the preferred card for the American elite.
+More and more, access is making the difference.
+"Credit cards [with] higher fees, it's going to send a certain signal. But what we really need to be making sure is that we're understanding the psychology of exclusivity" said Dan Bennett, head of behavioral science at Ogilvy Consulting. "It's easy to say, 'I have lots of resources.' It's harder to say, 'I have enough social capital to earn my way into spaces.'"
+Beyond the airport
+Some of the events that American Express Platinum cardholders had lounge access to in 2025 include the US Open tennis tournament; Stagecoach music festival in California; and multiple Formula 1 races worldwide.
+Meanwhile, lounges for Chase Sapphire Reserve customers were present at Chicago music festival Lollapalooza; Miami Art Week; Sundance Film Festival; and the PGA Tour.
+While some lounges and brand activations are open to all customers or even all attendees at an event, many of these spaces are exclusively reserved for premium cardholders.
+"We find this customer to be very engaged," said Laura Picciano, general manager of Chase Sapphire. "Once you get their business, there's a lot of loyalty there. And so they're an important segment to continue to nurture."
+While temporary credit card lounges are popping up at festivals and sporting events, they have also become popular, permanent fixtures inside stadiums and arenas.
+American Express has partnerships with more than 20 venues around the world. Eight of them currently have lounges, including Hard Rock Stadium in Miami and the O2 arena in London, with a new location set to open in New York City's Barclays Center this year.
+Bess Spaeth, executive vice president of global brand management and experiences at American Express, said factors like footprint, ability to provide food and beverage and viewing capabilities are all considerations in the decision for which venues get lounges.
+"It's a real puzzle that we try to look at all the pieces and think about it holistically in terms of how we can best serve our members in those spaces," said Spaeth.
+Chase has built out lounges at Madison Square Garden and the Chicago Theatre that are open to all of its customers, though Madison Square Garden has a dedicated space for Sapphire Reserve cardholders.
+"Lounges are really interesting because economists would think of those as more of a network good," said Chenzi Xu, assistant professor of economics at the University of California, Berkeley. "These lounges become particularly valuable when there's a set of them that you can access in a variety of different places ... not just in an airport perhaps, but at another exclusive event."
+Attracting high spenders
+Chase and American Express are courting wealthy customers who are not only willing to pay the rising annual fees but also rack up higher balances on their cards.
+Those with a credit score of 720 or above, which is typically required to get approved for a Sapphire Reserve or Platinum card, spend more than double the average of those within a score between 660 and 719, according to data from the Federal Reserve Bank of Philadelphia.
+American Express said earlier this year that it shifted marketing dollars away from no-fee cards to its more premium offerings as it looks to attract more affluent cardholders.
+American Express credit card fees totaled nearly $10 billion in 2025, up about 18% since 2024. Chase doesn't break out credit card fee revenue.
+"Chase is working really hard to compete with [American Express]," said Xu. "They're just making the benefits of having these cards better and better for the consumer. That competition is good for the consumer, but it's a competition that's only happening at the high end, and at the low end you don't see nearly as much entry and you don't see as much competition."
+That upper echelon is key for the credit companies. A 2025 Mastercard report found that affluent consumers, defined as households with an income of $200,000 or more and at least $250,000 in investable assets, spend 4.3 times the general population on discretionary purchases.
+According to data from J.D. Power, cardholders with an annual fee of more than $500 spent an average of $3,200 per month from May 2025 to June 2026, up about 17% from the prior 12-month period.
+Meanwhile, those with cards that have a fee of less than $500 spent an average of $1,144 per month, up about 6% from the year earlier.
+It's yet another signal of what economists commonly call a "K-shaped economy" in which high earners speed freely, while lower-income consumers pull back in some areas. It's also putting even greater importance on the higher spenders during a period of economic uncertainty.
+"The allure of the premium segment to these card issuers is that you have heavy spenders," said Fandetti. "This business takes a lot of scale. So you have to have a very big revenue base to sort of fund all these lounges and rewards and benefits."
+Building on brands
+Lounges are just one way that the credit card companies leverage their sponsorships with these venues.
+Chase's head of dining and lifestyle, Paul Needham, said it also offers things like gift bags, premium viewing areas, special access to merchandise and money off of food through its partnerships.
+Chase and American Express often offer discounts or statement credits, too, for purchases at their respective sponsored venues as well as at certain events like music festivals.
+"I think when you take that broader picture on the sports and entertainment venues, what we're really trying to do is both elevate these moments for our customers, but also reach our customers in places and contexts where we know they're so passionate and so excited to be there," said Needham.
+Chase Sapphire Reserve cardholders get access to dinner events hosted on FIFA World Cup pitches in New Jersey and California. Meanwhile, Marriott Bonvoy partnered with American Express in April to recreate New York City's iconic Rao's restaurant inside one of its hotels for a cardholder dinner event. Marriott has long partnered with both American Express and Chase for its co-branded credit cards.
+This category of cards, which also includes co-branded offerings from Delta Air Lines and Hilton, accounted for about a quarter of American Express cardmember spending in 2025, according to an Amex report.
+Bennett of Ogilvy Consulting said one of the key considerations for credit card companies to be in some of these physical spaces is whether they can play an authentic role at the event in question. He said American Express at Coachella is a good example, because it provides a space to cool off in the middle of the desert heat.
+"You can't just set up these kind of corporate fortresses exactly the same in each place. That's not going to cut it. What is going to cut it is really understanding the needs of the customer at each of these places," said Bennett.
+Spaeth says parts of the American Express strategy has been leaning into fandoms, ranging from collaborations with music artists like Harry Styles and Olivia Rodrigo to the NFL and Formula 1.
+American Express' partnership with Formula 1 kicked off in 2023 and marked its first new sports sponsorship in more than a decade. A year later, it further expanded the deal and started rolling out new fan perks like trackside lounges.
+"Our hope is that you engage with these moments, deepen the emotional connection that you have with American Express and that really raises the American Express card to the very tippy top of your wallet," said Spaeth.
+
+</details>
+
+
+---
+
+## Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html
+
+正文长度：6324
+
+摘要：A month after the passage of a tax on second homes in New York City, brokers and analysts said sales of luxury real estate remain strong.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+A month after the passage of a tax on second homes in New York City, sales of luxury real estate remain strong and inventory is falling, according to brokers and analysts.
+When New York Gov. Kathy Hochul and the state legislature approved the so-called pied-à-terre tax on May 27, real estate agents and developers predicted an immediate impact. Brokers said the New York wealthy would flee to Florida, developers said they would halt new projects and real estate lobbyists predicted declines in employment. Many cited what they called "the Mamdani effect," referring to New York City Mayor Zohran Mamdani and potential wealth flight from taxes.
+"The tax on second homes will dampen market activity, reduce property values, hurt new development and weaken the city's economy," the Real Estate Board of New York said in a statement soon after the measure passed.
+Yet sales of luxury apartments show little signs of weakness. There were 126 contracts signed for apartments priced at $4 million or more in June, up from 124 during the same four-week period last year, according to Olshan Realty.
+The average price of a Manhattan apartment reached its second-highest level ever during the second quarter, up 5% over the past year to roughly $2.2 million, according to Brown Harris Stevens. Sales of condos priced between $10 million and $20 million surged 55%, according to Compass. Sales of condos over $20 million were up 33%, with average asking prices up 14%, the real estate brokerage said.
+The deals in June included an $80 million duplex penthouse in a new condo building near Manhattan's West Village, a $26 million condo downtown and a $22 million co-op on the Upper East Side. Brokers say that while some buyers were initially spooked by the tax, the flood of liquidity from recent initial public offerings and soaring wealth from asset prices has outweighed their fears.
+"The amount of money out there is insane," said Lauren Muss of Douglas Elliman, who had a $17.5 million condo listing go to contract in June. "We're seeing big things come to us every day. It's only getting stronger."
+It's too early to judge the long-term impacts of the tax, of course. And real estate lawyers say there will be years of litigation related to valuations, co-op boards, residency status and other issues related to the new tax. While Hochul and Mamdani have said the tax will raise $500 million a year, the New York City Comptroller estimates it will raise about $340 million to $380 million.
+Yet top brokers said the pied-à-terre tax fears are quickly subsiding. The surcharge, imposed on non-primary residences valued by the city at more than $1 million, was first proposed in April, approved in May and officially took effect this week. It applies to residences that fit the tax criteria as of Jan. 5, 2026. So any buyers of pricey pied-à-terres this year will be subject to the tax.
+Some buyers initially paused their deals when the tax was first proposed, according to agents. Scott Hustis, of Paradigm Advisory at Compass, said he listed a $16.5 million penthouse duplex in Madison Square Park Tower on April 8. One buyer expressed immediate interest and was about to make an offer, he said, but when Hochul announced the proposed tax a week later, the buyer pulled back.
+By late May, however, as the details of the tax started becoming more clear, buyers came back into the market. The penthouse went into contract on June 6.
+"There is a lot of confidence out there," Hustis said. "Markets are strong. A lot more New York buyers are coming out of the woodwork."
+Hustis declined to comment on the buyer of the $16.5 million penthouse or whether it will be a primary residence. If not, the apartment would be subject to a pied-à-terre tax bill of over $98,000 this fiscal year in addition to property taxes, based on city valuations.
+But Hustis said ultra-wealthy buyers are more concerned about buying at the right time in the market cycle rather than paying an added tax.
+"Right now, they're seeing things go into contract and prices not coming down and they decide to execute," he said.
+Low inventory is adding pressure to buyers. Jonathan Miller, CEO of appraisal and research firm Miller Samuel, said luxury inventory is down 40% compared to last year and is now at the lowest level he's seen since he began tracking it in 2004.
+Marc Palermo of Douglas Elliman has a listing for a $19 million, 4,700-square-foot apartment at 565 Broome St., the glass condo tower whose buyers have included tennis great Novak Djokovic, Uber co-founder Travis Kalanick and niece of the president Mary Trump. In the fall of 2025 and early 2026, the listing attracted several offers for 20% or 25% below the asking price, Palermo said. Yet the building held firm to its price.
+By late spring, with markets overcoming Iran war fears and the SpaceX IPO and other offerings creating massive liquidity events, the Manhattan market sprang to life, brokers said. Palermo said he got a "strong offer" for the $19 million apartment and it went to contact at the end of June. While he declined to comment on the buyer, he said they already own a unit in the building and wanted to expand. Since the buyer isn't a primary New York tax resident, they will likely owe a pied-à-terre tax.
+"People took a breath, they settled into the new reality and the smart ones charged in," Palermo said.
+He said the other two early bidders for the Broome Street listing also ended up closing on other apartments recently — one for a $15 million apartment and the other for a $17 million apartment. He said virtually all the high-end buyers in Manhattan are paying cash, without mortgages.
+Along with the stock market gains and boom in finance, the so-called great wealth transfer is also driving demand in Manhattan. Palermo said he's doing a number of high-end deals with buyers under the age of 40 in which the parents or a family office or trust is the underlying buyer.
+"We're seeing a lot of gifts coming in from parents," he said. "If you're under 40 and you're buying in New York City, chances are you're not making enough to buy on your own."
+
+</details>
 
 
 ---
@@ -100,254 +315,132 @@ Following the deal with Blackstone, he has retained "meaningful equity" in Jerse
 
 ---
 
-## Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/02/ford-q2-sales.html
-
-正文长度：2098
-
-摘要：Ford said its EV sales fell by 40.7% during the quarter compared with a year earlier, while sales of its F-Series trucks, including the F-150, declined 11%.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — Ford Motor on Thursday reported a 10.3% decline in its second-quarter U.S. new vehicle sales as the company battled a supplier issue for its F-Series pickup trucks and a significant drop in all-electric vehicles.
-The Detroit automaker said its pure EV sales fell by 40.7% during the quarter compared with a year earlier. Sales of its F-Series trucks, including the F-150, slipped 11% as Ford began ramping up production after its top aluminum supplier restarted production following two fires late last year.
-"Although customer demand remains high, first-half F-Series sales reflect a retiming of commercial production following last year's aluminum supply shortages. Ford expects supply to recover more fully in the second half of the year," Ford said in a release.
-Ford sold 549,200 vehicles during the second quarter compared with 612,095 units a year earlier. While that's among the largest expected industry declines, the results slightly beat Cox Automotive's expectations for Ford sales to fall 11.5%.
-The automaker has sold 1 million vehicles year to date through June, down 9.6% from 1.1 million during the first half of last year.
-Ford noted that despite the declines, the F-Series remained America's top-selling truck. The company also estimates its U.S. retail market share to end the quarter was up 0.2 percentage point compared with a year earlier, to 12.3%.
-Ford's sales come a day after most major automakers reported second-quarter numbers that were better than expected, largely driven by increased demand for hybrid vehicles. Crosstown rival General Motors saw its sales fall 4.2%, however, as its EV sales dropped.
-Automotive data firm Motor Intelligence on Wednesday estimated U.S. industry sales for June were up 7.5% compared with a year ago, leading to a monthly adjusted selling pace of 16.67 million units, which was higher than many forecasters had expected.
-As of last week, Cox Automotive expected U.S. auto sales to be down 2.9% to 15.8 million vehicles, including a 3.4% decline in retail sales. That included a 16.1 adjusted selling rate forecast for June.
-
-</details>
-
-
----
-
-## Premier Lacrosse League plans to bring in team owners by 2028 'or soon thereafter,' co-founder says
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html
-
-正文长度：2403
-
-摘要：Paul Rabil told CNBC he's banking on the 2028 Los Angeles Summer Games, where lacrosse will return as an Olympic sport, to shine a spotlight on the PLL.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The Premier Lacrosse League wants to begin selling its teams to individual owners or groups by 2028 "or soon thereafter," league co-founder Paul Rabil told CNBC.
-In the next decade, Rabil said, he wants the league to expand from eight teams to as many as 16, with each franchise owned independently, similar to other U.S. professional leagues. The PLL is in its eighth season, and currently the league, itself, owns the teams.
-Rabil, 40, is perhaps the most famous American lacrosse player in history, playing Major League Lacrosse from 2008 to 2018 before co-founding the PLL with his brother, Mike. The PLL merged with MLL in 2020.
-The PLL is one of a number of emerging sports leagues, along with League One Volleyball, the Professional Women's Hockey League and the Basketball Africa League, that have begun with a single-entity ownership model.
-League One Volleyball has recently begun selling off teams to interested owners who pay expansion fees to take control of franchises. The BAL is beginning that process now, NBA Deputy Commissioner Mark Tatum told CNBC Sport last month.
-The demand to own sports teams has skyrocketed in recent years as valuations for the biggest sports — the NFL, NBA, MLB and NHL — have soared. The spike in team valuations for the so-called Big Four U.S. sports leagues has pushed a class of investors toward more affordable teams in Major League Soccer, the National Women's Soccer League and the WNBA.
-Emerging sports leagues like the PLL are seeking to prove they can join this mezzanine class of leagues that can garner team valuations in the hundreds of millions or even close to a billion dollars.
-Earlier this week, the PLL raised $100 million in a Series E funding round to grow the league. Rabil is banking on the 2028 Los Angeles Summer Olympics to give exposure to the league and the sport. Lacrosse hasn't been a medal sport in the Summer Games for about 120 years but is returning in 2028.
-"The first allotment of tickets sold out in 48 hours for lacrosse, so there's good hype building," Rabil said.
-The PLL is backed by a combination of investor firms and wealthy individuals.
-However, Rabil said, if a large private equity fund or a strategic company such as TKO Group, which owns World Wrestling Entertainment, Ultimate Fighting Championship and Professional Bull Riders, would like to acquire the league, "we would absolutely have those discussions."
-
-</details>
-
-
----
-
-## Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html
-
-正文长度：2521
-
-摘要：Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Electric vehicle makers Rivian Automotive and Lucid Group reported second-quarter delivery results Thursday with mixed results.
-Rivian raised its 2026 delivery guidance range after seeing stronger-than-expected demand for its electric vehicles during the second quarter, while Lucid missed Wall Street expectations and its new CEO Silvio Napoli announced a shake-up of the company's leadership team.
-Rivian said it now expects to deliver between 65,000 and 70,000 vehicles this year, up from a prior forecast of between 62,000 and 67,000 units.
-Rivian stock rose roughly 6% in early trading Thursday.
-Rivian also said Thursday it produced 12,613 vehicles and delivered 12,194 units during the second quarter. The second-quarter deliveries are higher than FactSet's analyst consensus of 11,0000 units and the company's previous outlook, which called for delivering between 9,000 and 11,000 EVs.
-Rivian, which will report its second-quarter financial results July 30, said higher deliveries during the second quarter were driven by its electric delivery van and flagship R1 products.
-The company also started delivering its midsize R2 SUV during the quarter. It's ramping up production of that vehicle at its sole production plant in Normal, Illinois, which has capacity to produce 160,000 of the vehicles annually.
-Lucid reported producing 4,774 vehicles and delivering 3,953 vehicles during the second quarter. The deliveries were below Wall Street's expectations of 5,000 units, according to FactSet.
-Along with the deliveries, the company announced a new leadership team under Napoli, who started overseeing the company in June. Lucid said the new format is meant to "simplify the company's structure" and cuts the number of direct reports to the CEO in half.
-Most notably, Lucid Chief Financial Officer Taoufiq Boussaid will leave the company after a handover to his successor, Alexander De Bock, who most recently served as CFO of automotive supplier TI Automotive.
-"We are simplifying the organization, strengthening leadership, enforcing accountability and aligning our structure with the priorities that matter most: customers, quality, and innovation," Napoli said in a release.
-EV leader Tesla, meanwhile, reported 480,126 vehicle deliveries for second quarter, topping expectations. The company doesn't break out exact delivery numbers by region or individual model, but it said its entry-level Model 3 sedan and most popular Model Y SUVs accounted for 467,762.
-— CNBC's Lora Kolodny contributed to this report.
-
-</details>
-
-
----
-
-## Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html
-
-正文长度：3003
-
-摘要：Ford reports it assembled over 2 million vehicles in the U.S. last year – more than any other auto manufacturer, including 311,000 units for export.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — As negotiations officially reopen for the USMCA North American trade deal, Ford Motor CEO Jim Farley is clear about what the company wants under the new talks: a more level playing field.
-He told CNBC he wants automakers such as Ford that largely produce their vehicles domestically to be awarded under the deal. Along with that, Farley said other automakers — such as General Motors and Toyota Motor — that may produce here but also heavily rely on imported vehicles should get more penalties.
-"It's imperative that any new agreement makes it easier, not harder, to compete with U.S. makers who import from Japan, South Korea and global competitors that import from those locations," Farley told CNBC during a phone interview Wednesday. "That's the key for us."
-Producing in such countries is typically less expensive due to labor costs.
-GM and Toyota are No. 1 and No. 2 in U.S. sales, respectively, while also being the top two importers of vehicles in 2025.
-GM imported 1.17 million vehicles, or 41% of its U.S. sales, while Toyota imported more than 1.19 million units, or 47%, of its domestic sales, according to industry data.
-Hyundai Motor, which plans to roughly double its amount of U.S.-produced domestic sales to 80% by 2030, was the largest importer of vehicles from South Korea, followed by GM.
-Ford, meanwhile, reports it assembled over 2 million vehicles in the U.S. last year — more than any other auto manufacturer, including 311,000 units for export to more than 60 international markets. It imported 378,000 vehicles, or 17%, of its 2.2 million sales last year.
-"Ford's a leader of U.S. auto production with the most U.S.-built vehicles but, more importantly, we import very few, and we export the most, and we have the most UAW [union] workers here," Farley said. "So we're very proud, especially of the ratio between what we build here and what we import."
-Farley's comments come as the Trump administration has decided not to renew its trilateral trade pact with Canada and Mexico, instead opting to conduct annual reviews of the treaty that could eventually lead to an end to the agreement by 2036.
-The auto industry represented about 18% of America's trading with its neighboring countries last year, according to industry data, making it one of the key sectors in the discussions. Automakers and others watching the talks are concerned that reopening the deal could create additional trade uncertainty that leads to lower investments and fewer jobs.
-A consortium of U.S. trade groups representing most automakers, dealers and suppliers on Wednesday voiced support for a trilateral deal like the countries currently have.
-"We urge the leaders of the U.S., Canada, and Mexico to swiftly reach consensus on an extension of USMCA that preserves the existing trilateral partnership, returns to preferential treatment for qualifying goods, and continues the stability and predictability that has helped the industry thrive for the past six years," they said in a statement.
-
-</details>
-
-
----
-
-## US economy undershoots forecasts with 57,000 jobs added in June - Financial Times
+## England-Mexico ticket prices soar to $36,000 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdsNHJOQ0dpUTEtVnZWdm9ub0ZOWE43YjNMYTdjeUtManZ0QnV5NWNzejVaTDVaQUpVTmt5bDdRbGZHb2x5ZUFvcFl2RzgyOGJ4Ty1CYXBSWVI3SERuU1RsRnowT2FJQUlqWmJhQTFJRG1ZNTkwTDlGQkQxV0VjVk01c1Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWlNQ2pDUlJOc0t3aDVFNlBHdFdQeGZ2blZZYlVjUVlWQmN6LWd6dW5MNDBNa1lRWW5ZME4zU2w4ak5jTzdiRGdEMTdDWmZjdHBMVTQtX3NEcGVQZFBsd2JYVWgxV0xIRTB2VlNjVHg3VzNyTEQwbWl5ZkVSdzVRbTBOeTU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdsNHJOQ0dpUTEtVnZWdm9ub0ZOWE43YjNMYTdjeUtManZ0QnV5NWNzejVaTDVaQUpVTmt5bDdRbGZHb2x5ZUFvcFl2RzgyOGJ4Ty1CYXBSWVI3SERuU1RsRnowT2FJQUlqWmJhQTFJRG1ZNTkwTDlGQkQxV0VjVk01c1Q?oc=5" target="_blank">US economy undershoots forecasts with 57,000 jobs added in June</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWlNQ2pDUlJOc0t3aDVFNlBHdFdQeGZ2blZZYlVjUVlWQmN6LWd6dW5MNDBNa1lRWW5ZME4zU2w4ak5jTzdiRGdEMTdDWmZjdHBMVTQtX3NEcGVQZFBsd2JYVWgxV0xIRTB2VlNjVHg3VzNyTEQwbWl5ZkVSdzVRbTBOeTU?oc=5" target="_blank">England-Mexico ticket prices soar to $36,000</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tesla deliveries rise 25% as Europeans seek escape from high fuel prices - Financial Times
+## How Jamie Dimon’s long succession race claimed another victim - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFF1THdnVkhEMjh5blIwYlpBSTQxN25nai1ITl90bUFWNURpM19xWG9FOHlqUXFxbFhlbk5vSmsxbnpiVTRpSGlIa09abFFaZVd3bkZiVzF1S2JOUTd5SWJRZlZsU2steWZTME54ZWlRSHRVeEdOaFNYajNRREdEcXVhT3Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlNhX3pTcEFvNzRxT0FGR2hGb25xNW05N1ktX3B6d0pRalFldG5DMWt2QmVGbUk3Q2NLSnBwVU9CRGw1bnlQeHdpMXM2Ykl0NWpYSG84RFhLNWtuMzVOZWpQNVoyWXhLY0oxSWxOT0VKSFFyMHVaZkg5RWJHN2Fpa3dWMGM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFF1THdnVkhEMjh5blIwYlpBSTQxN25nai1ITl90bUFWNURpM19xWG9FOHlqUXFxbFhlbk5vSmsxbnpiVTRpSGlIa09abFFaZVd3bkZiVzF1S2JOUTd5SWJRZlZsU2steWZTME54ZWlRSHRVeEdOaFNYajNRREdEcXVhT3Y?oc=5" target="_blank">Tesla deliveries rise 25% as Europeans seek escape from high fuel prices</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlNhX3pTcEFvNzRxT0FGR2hGb25xNW05N1ktX3B6d0pRalFldG5DMWt2QmVGbUk3Q2NLSnBwVU9CRGw1bnlQeHdpMXM2Ykl0NWpYSG84RFhLNWtuMzVOZWpQNVoyWXhLY0oxSWxOT0VKSFFyMHVaZkg5RWJHN2Fpa3dWMGM?oc=5" target="_blank">How Jamie Dimon’s long succession race claimed another victim</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The economics of women’s weight - Financial Times
+## Canada unveils plans for new oil pipeline to break dependence on US - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC1FX00xdmJUYk0yelVmZFUtTEtLVFdnRHdNQ3BJaV9DNjVxUVNVQVNnb3JtaWloOENUSHVfcVpYTHd6dDV1UjY4SGZJNkg5RmR3UVdKd2ljcjM1SXJteF80Zlc0WEFHaGtXR1V1NEpYY1hkckZOMGFEMlJFZ0lTN2hFN1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjBaV1MtdWFYWEp2amw1akJFQkNtRk5MajM2TWppM0lnSTlEV210NXNwSnFtaG5SZlk0SGZPcm10dUt0SlJET2lTZ05QWG4zUGdvcnk0YWNLSU9nR0llVTRzVlE5dGh6QWNHaGZZS2pYd0hwU3B5Wk9nLXVRZUR0UnJYeXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC1FX00xdmJUYk0yelVmZFUtTEtLVFdnRHdNQ3BJaV9DNjVxUVNVQVNnb3JtaWloOENUSHVfcVpYTHd6dDV1UjY4SGZJNkg5RmR3UVdKd2ljcjM1SXJteF80Zlc0WEFHaGtXR1V1NEpYY1hkckZOMGFEMlJFZ0lTN2hFN1E?oc=5" target="_blank">The economics of women’s weight</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjBaV1MtdWFYWEp2amw1akJFQkNtRk5MajM2TWppM0lnSTlEV210NXNwSnFtaG5SZlk0SGZPcm10dUt0SlJET2lTZ05QWG4zUGdvcnk0YWNLSU9nR0llVTRzVlE5dGh6QWNHaGZZS2pYd0hwU3B5Wk9nLXVRZUR0UnJYeXM?oc=5" target="_blank">Canada unveils plans for new oil pipeline to break dependence on US</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russian drone campaign mapped Nato air defence gaps, study finds - Financial Times
+## Iran’s mega-funeral for slain supreme leader - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1VJZUNRV2RhS3c0VWw5SUM2VE5XM1VOMnFNLVV3cmRTMmJ5blhpRXpVY2ZWN3BhSlA0dDJkTXd4V1g0aG9lbHdUTlEyMmV6ZTRZWF9fOHJZUVdTc2p4cWtfRG13dlRYSzVKSTQtamt2ODJiSEJfcGJ0QXdXckJZTm0yZ0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMm9odFBHX05WRVZoYVdxdHI0eUJnUUZrZlZVSHV1dFZwRElFT1drV3VmVTlLbkp1QS1NNzU0WXdIZm5qX2Uzci1ST0x4SlM3RWxNR0E2OVdxQXl5Z3dqTmwycHZNaGQySWtrb2JzNFBUUWF0QjZlZ1poYUxnVVQ2WWtfZHM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1VJZUNRV2RhS3c0VWw5SUM2VE5XM1VOMnFNLVV3cmRTMmJ5blhpRXpVY2ZWN3BhSlA0dDJkTXd4V1g0aG9lbHdUTlEyMmV6ZTRZWF9fOHJZUVdTc2p4cWtfRG13dlRYSzVKSTQtamt2ODJiSEJfcGJ0QXdXckJZTm0yZ0U?oc=5" target="_blank">Russian drone campaign mapped Nato air defence gaps, study finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMm9odFBHX05WRVZoYVdxdHI0eUJnUUZrZlZVSHV1dFZwRElFT1drV3VmVTlLbkp1QS1NNzU0WXdIZm5qX2Uzci1ST0x4SlM3RWxNR0E2OVdxQXl5Z3dqTmwycHZNaGQySWtrb2JzNFBUUWF0QjZlZ1poYUxnVVQ2WWtfZHM?oc=5" target="_blank">Iran’s mega-funeral for slain supreme leader</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI proposes handing Trump administration 5% stake - Financial Times
+## Iran begins mourning for Ayatollah Ali Khamenei under tight security - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXBGSm9vS3lLMEctVlE3TzMzUTNBSWxyVHV3QnRoSmNMY1FVR04zSERvMmlMWkk4X1hjbFpJYjhzQ2tjYVZ1Y3lhdWhvbjhCNjNoTkdfUlU5TmZ5MXU2TW5aWHNEOHRsMWF5NDByVVhLaWt1ZHYxenA0cGItWEcxdEJtWG4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5" target="_blank">OpenAI proposes handing Trump administration 5% stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXBGSm9vS3lLMEctVlE3TzMzUTNBSWxyVHV3QnRoSmNMY1FVR04zSERvMmlMWkk4X1hjbFpJYjhzQ2tjYVZ1Y3lhdWhvbjhCNjNoTkdfUlU5TmZ5MXU2TW5aWHNEOHRsMWF5NDByVVhLaWt1ZHYxenA0cGItWEcxdEJtWG4?oc=5" target="_blank">Iran begins mourning for Ayatollah Ali Khamenei under tight security</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## California man admits sending fake ransom notes in Nancy Guthrie abduction - Reuters
+## EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU40R0JTZjJmdDJ4Uk00RHR2NWFSSEFXVE10OFhLRGNTRW5RbXZaYm52YVVEZG1xbkhmc2t2ZFREX3dxbFZzOXgxdXZtSThmamNOV2FJUG9YXzhxSEJ2U29NYXJOWmtxRHVNN3ZaSHBJc19sQnVGNmw1b1psZmJUTWRnWF9kTTRIYXZMWkd4bjQxSVpnTkZWMDBHUmRSRFdnT05mOHZ0SnAxcTZnNFpXVktObXphYW9VM1RRb3ZHOHVQQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU40R0JTZjJmdDJ4Uk00RHR2NWFSSEFXVE10OFhLRGNTRW5RbXZaYm52YVVEZG1xbkhmc2t2ZFREX3dxbFZzOXgxdXZtSThmamNOV2FJUG9YXzhxSEJ2U29NYXJOWmtxRHVNN3ZaSHBJc19sQnVGNmw1b1psZmJUTWRnWF9kTTRIYXZMWkd4bjQxSVpnTkZWMDBHUmRSRFdnT05mOHZ0SnAxcTZnNFpXVktObXphYW9VM1RRb3ZHOHVQQQ?oc=5" target="_blank">California man admits sending fake ransom notes in Nancy Guthrie abduction</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5" target="_blank">EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Taylor Swift and Travis Kelce have married in private, NY Post reports - Reuters
+## US oil companies see big profit jump, gird for clash over pump prices with Trump - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZYSk9DZEFtOFl5SE85dFUtVDZWODE5U2t2R1poTjNmcGp0dkU3TXFsdWhudzVRNkNhNTN2ZjZRRVFMTXpVWDRYSktRdDVjVzRjbzR0Y1hoSlJOdndMal8wYWhWaU5kelZBSUthRVJ6Zi1NYnpQLVlMb2dqX3ctNC1qZjQzbFJnVlJ2LU5kbFVwSDItSmtteURHV3RNdVp5Ni1uNUcxMDZwNVdSQ1dMLW55UklXQ2p4NERHdGFB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkJORzdZX3BXLVNLSE5DWEFMNkUybVc5U3B1TU1XclIxbEd1YXA4bnNLTkZHQ0c4OUZmOFVSUGtXcHdtMTNSYmkwT3VLZ2VlNWdKM0Q2R0Z2Q1RxZGcxRV82NnpRTzhoR1plNFFNZXhlOGdEVHRKX09vM2FJZ3ZYbFYtYU5iNTE3S3pQV3ZqNThuTFZSdHhjMlFhbkhra2Z5aVI1WU1jYXIxdmZGbUIxUk5oV21uX2NjQWVjSG5GRmNlUUxLUWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZYSk9DZEFtOFl5SE85dFUtVDZWODE5U2t2R1poTjNmcGp0dkU3TXFsdWhudzVRNkNhNTN2ZjZRRVFMTXpVWDRYSktRdDVjVzRjbzR0Y1hoSlJOdndMal8wYWhWaU5kelZBSUthRVJ6Zi1NYnpQLVlMb2dqX3ctNC1qZjQzbFJnVlJ2LU5kbFVwSDItSmtteURHV3RNdVp5Ni1uNUcxMDZwNVdSQ1dMLW55UklXQ2p4NERHdGFB?oc=5" target="_blank">Taylor Swift and Travis Kelce have married in private, NY Post reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkJORzdZX3BXLVNLSE5DWEFMNkUybVc5U3B1TU1XclIxbEd1YXA4bnNLTkZHQ0c4OUZmOFVSUGtXcHdtMTNSYmkwT3VLZ2VlNWdKM0Q2R0Z2Q1RxZGcxRV82NnpRTzhoR1plNFFNZXhlOGdEVHRKX09vM2FJZ3ZYbFYtYU5iNTE3S3pQV3ZqNThuTFZSdHhjMlFhbkhra2Z5aVI1WU1jYXIxdmZGbUIxUk5oV21uX2NjQWVjSG5GRmNlUUxLUWc?oc=5" target="_blank">US oil companies see big profit jump, gird for clash over pump prices with Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters
+## EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanlfMW1EMnFya2ZMNmFLVjBtT3ctNzZIdmVvVlVsYlNYNTJMRXJaTXlRU3BET0dncnF1UDlTMFdmVy14ZnkwdVdjWjNrS203OExQQjBjTUJHRTRBVUdYYkRSVUVLVGszZjF2ZWRMU2VvY0RhWGhVTFpPV0VkTmE1cTVHVnZueU9OOHBnT0xCcmNZdVVmeS1WZzdyS050NUVNcm1BQVlGZmV6N0NySlFJa3NIRG9YNDk2QUhR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5" target="_blank">EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanlfMW1EMnFya2ZMNmFLVjBtT3ctNzZIdmVvVlVsYlNYNTJMRXJaTXlRU3BET0dncnF1UDlTMFdmVy14ZnkwdVdjWjNrS203OExQQjBjTUJHRTRBVUdYYkRSVUVLVGszZjF2ZWRMU2VvY0RhWGhVTFpPV0VkTmE1cTVHVnZueU9OOHBnT0xCcmNZdVVmeS1WZzdyS050NUVNcm1BQVlGZmV6N0NySlFJa3NIRG9YNDk2QUhR?oc=5" target="_blank">EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Watchdog faults Secret Service for missing 102 radio calls during 2024 Trump shooting - Reuters
+## Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkZDeEN2OFd5OWtVNmhGMDlWaWo4aGd3TGtiMnBUYXNCM3lyWC1la2V5REJ4YnROT1RQNnpOOG5BVXhwRm5pd1BkUjdVbkNrenh0OXFaYk1lQjJ6UWEzbVZaWFAtX0pBREJEdUlOVkdvdzRnOUppdEpwZXV0a1FIZzRhV0l2TEZQV3VwTnM4bUIxNHdVLTdiUFRvdnhmSmk0S0FjbUJ4SnZuZklZcXpFVFVpMDRyRF9ULU1WZXZnMExicWs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkZDeEN2OFd5OWtVNmhGMDlWaWo4aGd3TGtiMnBUYXNCM3lyWC1la2V5REJ4YnROT1RQNnpOOG5BVXhwRm5pd1BkUjdVbkNrenh0OXFaYk1lQjJ6UWEzbVZaWFAtX0pBREJEdUlOVkdvdzRnOUppdEpwZXV0a1FIZzRhV0l2TEZQV3VwTnM4bUIxNHdVLTdiUFRvdnhmSmk0S0FjbUJ4SnZuZklZcXpFVFVpMDRyRF9ULU1WZXZnMExicWs?oc=5" target="_blank">Watchdog faults Secret Service for missing 102 radio calls during 2024 Trump shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5" target="_blank">Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule - Reuters
+## Taylor Swift, Travis Kelce wedding celebration to light up New York - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxORWZydEVhQ0dMR2lfUm96Q2RXeWNvMUxDdENuXzJ4VVNZcC1PREFrVlA5U3J3NkxEaHpZaUgyamZkN0VjYmNUZzJiOTQwVjJIQ1NrS0RPeTdSX3RPcTdvWG55V3lnNkRTVUtmMEVuZzUxTmc0TlAtNDk2NTVXb2xDbmY5VElNQl9rNTZtd2FHaEhZX2VXV3RqcVMzSmZCdmdVX3U3S1JnX2xyU09STjVsZVhLNkJsTTRFU3NkZmVNbzdzLU9I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVM2RTBVekZXWnY2WVdwanlSNEpkVVJ6Tk14dXBaZHd3b3lDcUJycXd6UEd5STVkYUFscXM1ZjJvMjhreWtrNGJ6VjlrNDI2azhFSjlwMlhoNS1ZQUtfMC1uSG1reDhmUzR2X0FUR0haa3RpOUJjZzljZDFWU3hYSVV0QjJHbW05LUl1VUxCSUJuQVFZdno2QW1kRy0tNW5XQXk1MmVLLUdiQnRtX0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORWZydEVhQ0dMR2lfUm96Q2RXeWNvMUxDdENuXzJ4VVNZcC1PREFrVlA5U3J3NkxEaHpZaUgyamZkN0VjYmNUZzJiOTQwVjJIQ1NrS0RPeTdSX3RPcTdvWG55V3lnNkRTVUtmMEVuZzUxTmc0TlAtNDk2NTVXb2xDbmY5VElNQl9rNTZtd2FHaEhZX2VXV3RqcVMzSmZCdmdVX3U3S1JnX2xyU09STjVsZVhLNkJsTTRFU3NkZmVNbzdzLU9I?oc=5" target="_blank">Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVM2RTBVekZXWnY2WVdwanlSNEpkVVJ6Tk14dXBaZHd3b3lDcUJycXd6UEd5STVkYUFscXM1ZjJvMjhreWtrNGJ6VjlrNDI2azhFSjlwMlhoNS1ZQUtfMC1uSG1reDhmUzR2X0FUR0haa3RpOUJjZzljZDFWU3hYSVV0QjJHbW05LUl1VUxCSUJuQVFZdno2QW1kRy0tNW5XQXk1MmVLLUdiQnRtX0E?oc=5" target="_blank">Taylor Swift, Travis Kelce wedding celebration to light up New York</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
