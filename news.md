@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-07-05 03:59:46
+更新时间：2026-07-05 13:52:27
 
-## Wang Yi Says China Welcomes Stronger European Business Relations
+## World Cup Attendance Sets Record
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-05/wang-yi-says-china-welcomes-stronger-european-business-relations
+链接：https://www.bloomberg.com/news/videos/2026-07-05/world-cup-attendance-sets-record-video
 
 正文长度：0
 
-摘要：China welcomes deeper cooperation with Swedish and European businesses, which will benefit all parties involved, Foreign Minister Wang Yi said in a meeting with Investor AB Chairman Jacob Wallenberg in Stockholm on July 4, according to a statement from the ministry on Sunday.
+摘要：The USMNT remains competitive heading into its Round of 16 match against Belgium despite the suspension of striker Folarin Balogun, while France remains the tournament favorite led by Kylian Mbappé. Bloomberg News Senior Sports Reporter Randall Williams joins David Gura and Christina Ruffini on the couch of Bloomberg This Weekend and explains that the expanded FIFA World Cup has shattered attendance records and delivered a significant tourism and economic boost to host cities across the US, with packed stadiums and fan zones driving spending. (Source: Bloomberg)
 
 
 ---
 
-## NZ Pledges Trade Talks With Brazil, Europe Within Five Years
+## Oil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-Turns
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-05/nz-pledges-trade-talks-with-brazil-europe-within-five-years
+链接：https://www.bloomberg.com/news/articles/2026-07-05/fewer-ships-transiting-hormuz-along-oman-coast-after-u-turns
 
 正文长度：0
 
-摘要：New Zealand’s governing National Party will begin negotiations for seven new trade deals within five years should it win the November election, Trade Minister Todd McClay said.
+摘要：Oil and gas shipping along a US-protected corridor in the Strait of Hormuz showed signs of recovering Sunday, a day after a batch of vessels performed unexplained U-turns and detours in the vital energy corridor.
 
 
 ---
 
-## Investors Looking for Shelter From AI Storm Are Turning to India
+## America250 Looks Beyond July 4 Celebrations
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india
+链接：https://www.bloomberg.com/news/videos/2026-07-05/america250-looks-beyond-july-4-celebrations
 
 正文长度：0
 
-摘要：After losing out big on the global AI rally, Indian equities are regaining the attention of investors seeking to weather the latest market turbulence.
+摘要：America250 Commissioner Reginald Browne joins Bloomberg This Weekend and says the congressionally created initiative met its goal of engaging Americans in the nation's 250th anniversary celebrations and views the commemoration as an ongoing effort that will continue beyond this year's events. Browne explains to hosts David Gura and Christina Ruffini how private sponsors helped offset a federal funding shortfall and describes the Trump administration's Freedom250 initiative as complementary rather than competitive, broadening participation in the anniversary. (Source: Bloomberg)
 
 
 ---
 
-## Storms Prompt Evacuations at Washington’s July 4 Festivities
+## New York Thunderstorms Raise Flood Risk as Heat Dissipates in US
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow
+链接：https://www.bloomberg.com/news/articles/2026-07-05/new-york-thunderstorms-raise-flood-risk-as-heat-dissipates-in-us
 
 正文长度：0
 
-摘要：Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the past few days.
+摘要：New York City will have a cooler, soggier Sunday now that the massive heat dome across the US East that taxed power grids and snarled transit has started to crack, but temperatures in Washington and points south will still remain sultry through Sunday.
 
 
 ---
 
-## Bloomberg This Weekend 07/04/2026
+## SK Hynix Seeks Access to AI Investors in $29 Billion US Listing
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Rutgers University Professor Emeritus of American Studies Robert Snyder, Retired Navy Vice Admiral Kevin Donegan, Award-Winning Documentary Filmmaker and Executive Producer & Director “The American Revolution” Ken Burns, The New York Times Wirecutter Staff Writer Kathleen Squires, Intrepid Museum President Susan Marenoff-Zausner, Theodore Roosevelt Presidential Library Director Robbie Lauf, Rutgers Eagleton Center for Public Interest Polling Ashley Koning, Puck Washington Writer Abby Livingston, NYU’s Clive Davis Institute Adjunct Professor Brittney Spanos, Retired Army Lt. Gen. and USO CEO Michael Linnington, Pyrotecnico CEO Stephen Vitale, Alliance for Coney Island Executive Director Daniel Murphy and Governor Wes Moore. (Source: Bloomberg)
+摘要：This week’s $29 billion US stock-market listing for SK Hynix Inc. may be the biggest-ever first-time share sale by a foreign company, but it isn’t just about raising cash. It’s also about competing in the hottest corner of the global stock market &mdash; memory chips used in AI computing.
 
 
 ---
