@@ -1,68 +1,193 @@
 # 每日财经新闻
 
-更新时间：2026-07-06 04:06:01
+更新时间：2026-07-06 15:46:19
 
-## Stocks Drop as Tech Rebound Stalls, Dollar Gains: Markets Wrap
+## Corn, Soybeans Touch Highest in a Month as Traders Watch Weather
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-07-06/corn-jumps-as-french-crops-damaged-by-intense-european-heat-wave
 
 正文长度：0
 
-摘要：Stocks retreated as a rebound in semiconductor and technology shares lost steam, renewing concerns over the durability of the AI-driven rally. The dollar strengthened.
+摘要：Soybean and corn futures jumped Monday as traders turned their attention to weather concerns looming over global crops.
 
 
 ---
 
-## Gold Steadies After Weekly Gain as Rate-Hike Worries Recede
+## Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-05/gold-steadies-after-weekly-gain-as-rate-hike-worries-recede
+链接：https://www.bloomberg.com/news/articles/2026-07-06/bank-of-canada-surveys-show-war-boosted-inflation-expectations-investment
 
 正文长度：0
 
-摘要：Gold steadied after posting its first weekly advance since May, supported by reduced expectations that the US Federal Reserve will hike interest rates.
+摘要：The war in Iran caused a spike in Canadian inflation expectations and is leading the country’s oil producers to boost their investment and production plans.
 
 
 ---
 
-## Copper and Aluminum Advance on Fading Expectations for Rate Hike
+## BMO Capital Markets' Jennifer Lee on Labor Market, Inflation
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-06/copper-and-aluminum-advance-on-fading-expectations-for-rate-hike
+链接：https://www.bloomberg.com/news/videos/2026-07-06/jennifer-lee-on-labor-market-inflation-video
 
 正文长度：0
 
-摘要：Copper rose for a third day and aluminum extended a rebound from a four-month low, supported by fading expectations that the Federal Reserve will raise interest rates.
+摘要：BMO Capital Markets Senior Economist Jennifer Lee discusses the latest jobs report and how the Iran conflict could be distorting inflation. The interview occurred on July 3, 2026. (Source: Bloomberg)
 
 
 ---
 
-## CarbonScape COO on CATL Investment & Partnership
+## Two Millennium Trading Pods Made About $3.7 Billion Last Month
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-06/carbonscape-coo-on-catl-investment-partnership-video
+链接：https://www.bloomberg.com/news/articles/2026-07-06/two-millennium-trading-pods-made-about-3-7-billion-last-month
 
 正文长度：0
 
-摘要：Vincent Ledoux-Pedailles, Chief Commercial Officer at CarbonScape, discusses the deal that will see Chinese battery giant CATL and Hong Kong–based Lochpine Capital take a 20% strategic stake in the company. CarbonScape converts forestry byproducts into graphite for lithium batteries. He says the partnership will help scale CarbonScape’s technology over the next two years, with commercial production targeted for 2029–2030. He speaks exclusively with Haidi Stroud Watts on "Bloomberg: The Asia Trade." (Source: Bloomberg)
+摘要：Two teams focused on trading index changes at Millennium Management made billions of dollars between them in June, lifting the multistrategy hedge fund’s monthly gains.
 
 
 ---
 
-## Unease Over Korea Leveraged ETFs Grows as Lawmakers Demand Fix
+## Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-06/backlash-over-korea-leveraged-etfs-grows-as-lawmakers-demand-fix
+链接：https://www.bloomberg.com/news/articles/2026-07-06/ontario-alberta-pitch-cross-canada-oil-pipeline-to-ease-us-reliance
 
 正文长度：0
 
-摘要：South Korean lawmakers are increasingly sounding alarms over the risks of single‑stock leveraged exchange‑traded funds, with an opposition party member now calling for such products to be delisted.
+摘要：Alberta and Ontario proposed a crude oil pipeline and energy corridor across Canada as a way of reducing the country’s dependence on the US.
+
+
+---
+
+## Klarna seeks U.S. bank charter in latest push beyond buy now, pay later
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html
+
+正文长度：1922
+
+摘要：Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Klarna, the Swedish fintech firm best known for its buy now, pay later offerings, said Monday it applied to federal and state regulators to establish a U.S. bank subsidiary.
+The firm said that, if approved, Klarna Bank USA would be a Federal Deposit Insurance Corp.-backed institution chartered in Utah. The proposed bank would be led by Gary Harding, former CEO of Milestone Bank and Prime Alliance Bank, according to Klarna.
+"We've seen firsthand the appetite for a fairer, more transparent approach in the U.S., and our own banking license is the natural next step," said Sebastian Siemiatkowski, co-founder and CEO of Klarna.
+The move will give "customers tools to borrow responsibly and build financial confidence, while bringing greater competition, innovation, and choice" to the market, he said.
+Klarna's application is the latest sign that fintech firms, which mostly partner with U.S. banks to offer services, now see owning their own charters as a key advantage. In April, fintech provider Mercury said it won conditional approval to establish its own bank, joining a wave of fintech and crypto firms seeking entry to the traditional banking system.
+Klarna said that its charter, if approved, would let it bring its banking operations in-house and strengthen reliability across payments, credit and merchant services.
+The application marks Klarna's latest step toward becoming a broader consumer bank rather than just a buy now, pay later provider. Last month, Klarna introduced high-yield savings accounts to U.S. customers, though its partner WebBank holds those accounts.
+By owning a bank, fintech firms can fund loans with their own customer deposits instead of more expensive wholesale financing, directly offer checking accounts and credit cards and rely less on third-party banking partners.
+Klarna, which went public last September, is trading for about half of its initial public offering price of $40.
+
+</details>
+
+
+---
+
+## Versant agrees to buy golf simulator company Full Swing for $530 million
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html
+
+正文长度：2172
+
+摘要：The deal for Full Swing will expand Versant's nontraditional media assets in an effort to diversify revenue from cable television.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Versant Media Group, the owner of cable networks including CNBC, MS NOW and the Golf Channel, has agreed to acquire golf simulation company Full Swing from private equity firm Bruin Capital for about $530 million in cash.
+The deal follows a template CEO Mark Lazarus has outlined to investors since Versant began trading as a public company in January following its spinout from Comcast.
+Versant has been investing in nontraditional media businesses that broaden the scope of the brands it already owns. Earlier this year, the company acquired StockStory, an AI-powered tech platform that provides financial analysis, market insights, and stock recommendations, for CNBC.
+The company's golf business already owns digital media platform GolfPass and tee-time reservation company GolfNow.
+In May, Versant reported that revenue for its platforms business, which includes GolfNow, Fandango and some recently launched direct-to-consumer units, was up 9.5% to $192 million. The company has called out its growth in its news and sports units. Executives have said they aim to rebalance Versant's revenue mix so that eventually 50% of it is derived from digital, platform, subscription, ad-supported and transactional businesses.
+"Full Swing is exactly the kind of strategic platform that reflects how we are building Versant: 
+investing in our core markets, extending the reach of our iconic brands and creating new ways  to serve passionate audiences," Lazarus said in a statement. 
+Full Swing develops and sells golf and baseball simulators for consumers, sporting goods stores and athletic training facilities. Both recreational and professional athletes use the technology. Bruin Capital purchased Full Swing in 2021 for $160 million, Sportico reported at the time.
+"Joining Versant gives us the scale and distribution to bring our technology to even more golfers, athletes and fans," Full Swing CEO Ryan Dotters said in the statement. Dotters will stay at Versant and will report to Will McIntosh, president of digital platforms and ventures.
+The transaction should close before Dec. 31, the companies said in a statement.
+— CNBC's Lillian Rizzo contributed to this article.
+
+</details>
+
+
+---
+
+## Record heat, crowds drive offseason boom in international travel
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html
+
+正文长度：8995
+
+摘要：Airlines are extending flight schedules to maximize on lucrative international travel.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Sick of the heat, crowds and high prices, more U.S. travelers are discovering the offseason of international travel — and airlines and hotels are fighting for a windfall.
+Flights to once-seasonal European vacation destinations now start when there's still snow on the ground in the U.S. and wrap up when leaves are falling off the trees, if they end at all, instead of following traditional late-spring to late-summer travel seasons.
+For example, American Airlines' flight to Edinburgh, Scotland, from New York began in March. United Airlines' nonstop route to Palermo, Sicily from Newark, New Jersey, will end in December and Delta Air Lines' service to Rome from Minneapolis, Minnesota, will run into January, months later than they have in past years.
+With this year's surge in jet fuel expected to take a $100 billion bite out of airline profits this year, according to the International Air Transport Association, it's crucial for the industry to maximize on travel trends that attract high-spending customers.
+Investors are upbeat that airlines can take the fuel hit from earlier this year after they trimmed unprofitable or less profitable flights and airline executives have said strong demand has helped them pass some — but not all of those expenses along.
+Shares of Delta and United, the two most profitable U.S. airlines, each hit records in recent weeks, and American's shares touched an 18-month high. Airlines start reporting second-quarter results and providing third-quarter updates this month, with Delta kicking the season off on Friday.
+'Creep of the seasons'
+Industry executives told CNBC that international vacation seasons used to be more defined. The new trends are forcing them to rip up decades-old playbooks.
+"It used to be so much lumpier. There used to be more: good season, bad season," Delta President Peter Carter said in an interview. "There are so many places you can go in Europe year-round and still have an amazing experience, and that's why we're seeing such good demand into Europe."
+That demand is redefining when airlines' moneymaker months are.
+"We've seen this massive, what I would call, the creep of the seasons — the shoulder season is blending into the full season," Patrick Quayle, United Airlines' senior vice president who designs the carrier's network, said in an interview last month.
+Shoulder season refers to the period between a destination's peak tourist season and its offseason.
+Airlines are trying to extend the season as much as possible to grow profits.
+International flights to Europe generally carry more premium seats like lie-flat pods than smaller jets that are used for domestic travel — and airlines are planning to expand those options further. Business-class fares on some of those routes can cost $10,000 for a round-trip instead of less than half that on a domestic route.
+Airfare overall is up this year compared with last as airlines try to pass along as much of their rising costs to customers as possible, but there are signs that prices are moderating, particularly as the industry braces for the peak summer travel period in July to pass.
+For example, flights between the U.S. and Athens, Greece, on June 22 were going for $988 round-trip, up from $810 last year but down from $1,350 two months earlier, according to flight-tracking site Kayak.
+The increase in shoulder season and off-peak travel is forcing Delta to rethink its maintenance and crew schedules, said Jeff Arinder, Delta vice president of international network planning.
+"We would never give airplanes to the maintenance hangers, if we could avoid it, in the summertime ... because that's when we made all the money," he told CNBC. "We are now doing more maintenance in the summertime because we want to save those planes for the fall."
+He said Delta is trying to "really flatten out our seasonality as much as possible."
+Why travel times are changing
+The latest challenge to usual summer European travel was the most recent, deadly heat wave.
+In late June, locals and tourists alike faced dangerous record temperatures throughout Europe, where air conditioning isn't widespread. Misting stations were set up from Warsaw, Poland, to Rome. The Paris LGBTQ+ Pride march was postponed, among other events, and public alcohol consumption was briefly banned in the city.
+Residents of many European cities, like Barcelona, Spain, and Venice, Italy have also been raising concerns about overcrowding during peak summer months and beyond. Countries throughout Europe have been bringing in record numbers of visitors.
+But it's not just an aversion to heat and crowds that's leading to changing travel patterns.
+For younger generations, more flexible work policies are helping some consumers, even those with children, take trips outside of late spring and summer. Baby Boomers, meanwhile, are armed with piles of cash and plenty of time, giving them more flexibility for travel.
+"Delta's target demographic tends to be a little bit older and a little bit wealthier," Arinder said.
+Setting sights on Sicily
+United is pushing the limits of the offseason trend.
+It's extended its nonstop flight from Newark, New Jersey, to Palermo, Sicily, through Dec. 16, rather than ending it in September, with Boeing 767s.
+Sicily has long been marketed as a summertime destination.
+Daytime highs can regularly reach 90 degrees Fahrenheit along the coast with little, if any, rain in July. In December, however, the highs sometimes barely touch 60 degrees on the Italian island and rain is more likely.
+As hotel rates drop and crowds at major attractions decline in the winter, United is making a bet that travelers will fill up the three-times-a-week service even without the ideal summer weather.
+"I don't think it's that experimental. I think it's a really safe bet " United's Quayle said.
+Many coastal hotels also close during the winter months. The Four Seasons' San Domenico Palace, in Taormina, Sicily, where the second season of HBO's "White Lotus" was shot, closes in mid-November through early spring, for example.
+However, manager Imelda Shllaku told CNBC that in the past four years the hotel has had a "remarkable increase in bookings from U.S guests" in March, April, October and November.
+"High-net-worth travelers are increasingly seeking experiences with genuine cultural currency, and Sicily's shoulder season is simply better suited to delivering them," she said by email, pointing to behind-the-scenes tours of Noto in southeast Sicily and nighttime trips to Mount Etna. The hotel will reopen March 1, a spokeswoman said.
+Delta is planning to extend its flights from New York's John F. Kennedy International Airport to Catania, on the east coast of Sicily, through Jan. 3, compared with Oct. 24 last year. And it plans to resume the route on March 8, 2027. This year, it started the route on May 1 and May 21 in 2025.
+Shoulder season
+United and Delta aren't alone, as airlines across the board are redeploying some of their biggest planes to maintain service to Europe for the full year or well into the offseason.
+"When airlines are looking to purchase aircraft, they have to think about 'How are we going to use this airplane year-round because it's an expensive piece of machinery,'" said Brett Snyder, founder of Cranky Flier blog and Cranky Concierge travel agency. "They know in the summer they won't have a problem sending these widebodies to Europe. Now they can stretch that further into the shoulder season."
+Seattle-based Alaska Airlines, which recently debuted its first service across the Atlantic this year to London, Rome and Reykjavík, Iceland, is keeping this in mind. President and Chief Financial Officer Shane Tackett told CNBC that travelers are becoming more flexible.
+"A lot of people want to go see the same destinations … [and that] makes it like very logical that those seasons would start to spread," he said. "Maybe when I was growing up, my parents wouldn't have even thought of taking me out of school in September, and I think maybe parents are a little more like, 'Yeah, let's go somewhere fun, and you'll catch up on school when you get back.'"
+American Airlines, for its part, is stretching some of the seasons of U.S. trans-Atlantic travel.
+October "is not as strong as June or July to Europe, but it's becoming a peak month for us," said Brian Znotins, the carrier's senior vice president of network planning.
+But American doesn't want to push planes too far off their proven track record for ski-and-sun-seeker vacationers in winter, he said.
+"I'm not going to mince words: January and February are still very off-peak months. I would hate to have anyone come away and say that they're good months, they're just less off-peak than they used to be," he said.
+Some travelers split the difference.
+Atul Mehta, a finance executive based in Chicago, said he is taking his family to Portugal this summer shortly before school resumes, but said when he visits family in Bahrain in the winter "we have taken them out of school."
+
+</details>
 
 
 ---
@@ -180,267 +305,132 @@ Trump responded by suggesting in a Truth Social post the concerts be replaced wi
 
 ---
 
-## American Express and Chase move luxury lounge wars beyond the airport
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html
-
-正文长度：8797
-
-摘要：Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> An airport lounge — without the security screening or boarding pass.
-Credit card companies American Express and Chase are increasingly waging their luxury lounge wars outside the airport. From an air-conditioned retreat in the middle of the desert at Coachella to an exclusive athlete meet-and-greet at the Paris Olympics, these companies are investing big in premium hospitality spaces to win over affluent cardholders.
-"It's very expensive, but I think what's happening is that the issuers are finding that this is a premium differentiator," said Donald Fandetti, managing director of consumer finance equity research at Wells Fargo. "It's all about providing these services and experiences that make it worth it to the cardholder to pay those annual fees."
-American Express' Platinum and Chase's Sapphire Reserve cards — the leading premium cards in the market — both upped their annual fees last year. The Amex Platinum now carries a fee of $895 a year, and the Sapphire Reserve has a fee of $795.
-The perks associated with these cards, like dining credits, hotel upgrades and digital partnerships, help offset the cost. It's all an effort to capture and retain the highest spenders. Amex and Chase have jockeyed for years to be the preferred card for the American elite.
-More and more, access is making the difference.
-"Credit cards [with] higher fees, it's going to send a certain signal. But what we really need to be making sure is that we're understanding the psychology of exclusivity" said Dan Bennett, head of behavioral science at Ogilvy Consulting. "It's easy to say, 'I have lots of resources.' It's harder to say, 'I have enough social capital to earn my way into spaces.'"
-Beyond the airport
-Some of the events that American Express Platinum cardholders had lounge access to in 2025 include the US Open tennis tournament; Stagecoach music festival in California; and multiple Formula 1 races worldwide.
-Meanwhile, lounges for Chase Sapphire Reserve customers were present at Chicago music festival Lollapalooza; Miami Art Week; Sundance Film Festival; and the PGA Tour.
-While some lounges and brand activations are open to all customers or even all attendees at an event, many of these spaces are exclusively reserved for premium cardholders.
-"We find this customer to be very engaged," said Laura Picciano, general manager of Chase Sapphire. "Once you get their business, there's a lot of loyalty there. And so they're an important segment to continue to nurture."
-While temporary credit card lounges are popping up at festivals and sporting events, they have also become popular, permanent fixtures inside stadiums and arenas.
-American Express has partnerships with more than 20 venues around the world. Eight of them currently have lounges, including Hard Rock Stadium in Miami and the O2 arena in London, with a new location set to open in New York City's Barclays Center this year.
-Bess Spaeth, executive vice president of global brand management and experiences at American Express, said factors like footprint, ability to provide food and beverage and viewing capabilities are all considerations in the decision for which venues get lounges.
-"It's a real puzzle that we try to look at all the pieces and think about it holistically in terms of how we can best serve our members in those spaces," said Spaeth.
-Chase has built out lounges at Madison Square Garden and the Chicago Theatre that are open to all of its customers, though Madison Square Garden has a dedicated space for Sapphire Reserve cardholders.
-"Lounges are really interesting because economists would think of those as more of a network good," said Chenzi Xu, assistant professor of economics at the University of California, Berkeley. "These lounges become particularly valuable when there's a set of them that you can access in a variety of different places ... not just in an airport perhaps, but at another exclusive event."
-Attracting high spenders
-Chase and American Express are courting wealthy customers who are not only willing to pay the rising annual fees but also rack up higher balances on their cards.
-Those with a credit score of 720 or above, which is typically required to get approved for a Sapphire Reserve or Platinum card, spend more than double the average of those within a score between 660 and 719, according to data from the Federal Reserve Bank of Philadelphia.
-American Express said earlier this year that it shifted marketing dollars away from no-fee cards to its more premium offerings as it looks to attract more affluent cardholders.
-American Express credit card fees totaled nearly $10 billion in 2025, up about 18% since 2024. Chase doesn't break out credit card fee revenue.
-"Chase is working really hard to compete with [American Express]," said Xu. "They're just making the benefits of having these cards better and better for the consumer. That competition is good for the consumer, but it's a competition that's only happening at the high end, and at the low end you don't see nearly as much entry and you don't see as much competition."
-That upper echelon is key for the credit companies. A 2025 Mastercard report found that affluent consumers, defined as households with an income of $200,000 or more and at least $250,000 in investable assets, spend 4.3 times the general population on discretionary purchases.
-According to data from J.D. Power, cardholders with an annual fee of more than $500 spent an average of $3,200 per month from May 2025 to June 2026, up about 17% from the prior 12-month period.
-Meanwhile, those with cards that have a fee of less than $500 spent an average of $1,144 per month, up about 6% from the year earlier.
-It's yet another signal of what economists commonly call a "K-shaped economy" in which high earners speed freely, while lower-income consumers pull back in some areas. It's also putting even greater importance on the higher spenders during a period of economic uncertainty.
-"The allure of the premium segment to these card issuers is that you have heavy spenders," said Fandetti. "This business takes a lot of scale. So you have to have a very big revenue base to sort of fund all these lounges and rewards and benefits."
-Building on brands
-Lounges are just one way that the credit card companies leverage their sponsorships with these venues.
-Chase's head of dining and lifestyle, Paul Needham, said it also offers things like gift bags, premium viewing areas, special access to merchandise and money off of food through its partnerships.
-Chase and American Express often offer discounts or statement credits, too, for purchases at their respective sponsored venues as well as at certain events like music festivals.
-"I think when you take that broader picture on the sports and entertainment venues, what we're really trying to do is both elevate these moments for our customers, but also reach our customers in places and contexts where we know they're so passionate and so excited to be there," said Needham.
-Chase Sapphire Reserve cardholders get access to dinner events hosted on FIFA World Cup pitches in New Jersey and California. Meanwhile, Marriott Bonvoy partnered with American Express in April to recreate New York City's iconic Rao's restaurant inside one of its hotels for a cardholder dinner event. Marriott has long partnered with both American Express and Chase for its co-branded credit cards.
-This category of cards, which also includes co-branded offerings from Delta Air Lines and Hilton, accounted for about a quarter of American Express cardmember spending in 2025, according to an Amex report.
-Bennett of Ogilvy Consulting said one of the key considerations for credit card companies to be in some of these physical spaces is whether they can play an authentic role at the event in question. He said American Express at Coachella is a good example, because it provides a space to cool off in the middle of the desert heat.
-"You can't just set up these kind of corporate fortresses exactly the same in each place. That's not going to cut it. What is going to cut it is really understanding the needs of the customer at each of these places," said Bennett.
-Spaeth says parts of the American Express strategy has been leaning into fandoms, ranging from collaborations with music artists like Harry Styles and Olivia Rodrigo to the NFL and Formula 1.
-American Express' partnership with Formula 1 kicked off in 2023 and marked its first new sports sponsorship in more than a decade. A year later, it further expanded the deal and started rolling out new fan perks like trackside lounges.
-"Our hope is that you engage with these moments, deepen the emotional connection that you have with American Express and that really raises the American Express card to the very tippy top of your wallet," said Spaeth.
-
-</details>
-
-
----
-
-## Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html
-
-正文长度：6324
-
-摘要：A month after the passage of a tax on second homes in New York City, brokers and analysts said sales of luxury real estate remain strong.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-A month after the passage of a tax on second homes in New York City, sales of luxury real estate remain strong and inventory is falling, according to brokers and analysts.
-When New York Gov. Kathy Hochul and the state legislature approved the so-called pied-à-terre tax on May 27, real estate agents and developers predicted an immediate impact. Brokers said the New York wealthy would flee to Florida, developers said they would halt new projects and real estate lobbyists predicted declines in employment. Many cited what they called "the Mamdani effect," referring to New York City Mayor Zohran Mamdani and potential wealth flight from taxes.
-"The tax on second homes will dampen market activity, reduce property values, hurt new development and weaken the city's economy," the Real Estate Board of New York said in a statement soon after the measure passed.
-Yet sales of luxury apartments show little signs of weakness. There were 126 contracts signed for apartments priced at $4 million or more in June, up from 124 during the same four-week period last year, according to Olshan Realty.
-The average price of a Manhattan apartment reached its second-highest level ever during the second quarter, up 5% over the past year to roughly $2.2 million, according to Brown Harris Stevens. Sales of condos priced between $10 million and $20 million surged 55%, according to Compass. Sales of condos over $20 million were up 33%, with average asking prices up 14%, the real estate brokerage said.
-The deals in June included an $80 million duplex penthouse in a new condo building near Manhattan's West Village, a $26 million condo downtown and a $22 million co-op on the Upper East Side. Brokers say that while some buyers were initially spooked by the tax, the flood of liquidity from recent initial public offerings and soaring wealth from asset prices has outweighed their fears.
-"The amount of money out there is insane," said Lauren Muss of Douglas Elliman, who had a $17.5 million condo listing go to contract in June. "We're seeing big things come to us every day. It's only getting stronger."
-It's too early to judge the long-term impacts of the tax, of course. And real estate lawyers say there will be years of litigation related to valuations, co-op boards, residency status and other issues related to the new tax. While Hochul and Mamdani have said the tax will raise $500 million a year, the New York City Comptroller estimates it will raise about $340 million to $380 million.
-Yet top brokers said the pied-à-terre tax fears are quickly subsiding. The surcharge, imposed on non-primary residences valued by the city at more than $1 million, was first proposed in April, approved in May and officially took effect this week. It applies to residences that fit the tax criteria as of Jan. 5, 2026. So any buyers of pricey pied-à-terres this year will be subject to the tax.
-Some buyers initially paused their deals when the tax was first proposed, according to agents. Scott Hustis, of Paradigm Advisory at Compass, said he listed a $16.5 million penthouse duplex in Madison Square Park Tower on April 8. One buyer expressed immediate interest and was about to make an offer, he said, but when Hochul announced the proposed tax a week later, the buyer pulled back.
-By late May, however, as the details of the tax started becoming more clear, buyers came back into the market. The penthouse went into contract on June 6.
-"There is a lot of confidence out there," Hustis said. "Markets are strong. A lot more New York buyers are coming out of the woodwork."
-Hustis declined to comment on the buyer of the $16.5 million penthouse or whether it will be a primary residence. If not, the apartment would be subject to a pied-à-terre tax bill of over $98,000 this fiscal year in addition to property taxes, based on city valuations.
-But Hustis said ultra-wealthy buyers are more concerned about buying at the right time in the market cycle rather than paying an added tax.
-"Right now, they're seeing things go into contract and prices not coming down and they decide to execute," he said.
-Low inventory is adding pressure to buyers. Jonathan Miller, CEO of appraisal and research firm Miller Samuel, said luxury inventory is down 40% compared to last year and is now at the lowest level he's seen since he began tracking it in 2004.
-Marc Palermo of Douglas Elliman has a listing for a $19 million, 4,700-square-foot apartment at 565 Broome St., the glass condo tower whose buyers have included tennis great Novak Djokovic, Uber co-founder Travis Kalanick and niece of the president Mary Trump. In the fall of 2025 and early 2026, the listing attracted several offers for 20% or 25% below the asking price, Palermo said. Yet the building held firm to its price.
-By late spring, with markets overcoming Iran war fears and the SpaceX IPO and other offerings creating massive liquidity events, the Manhattan market sprang to life, brokers said. Palermo said he got a "strong offer" for the $19 million apartment and it went to contact at the end of June. While he declined to comment on the buyer, he said they already own a unit in the building and wanted to expand. Since the buyer isn't a primary New York tax resident, they will likely owe a pied-à-terre tax.
-"People took a breath, they settled into the new reality and the smart ones charged in," Palermo said.
-He said the other two early bidders for the Broome Street listing also ended up closing on other apartments recently — one for a $15 million apartment and the other for a $17 million apartment. He said virtually all the high-end buyers in Manhattan are paying cash, without mortgages.
-Along with the stock market gains and boom in finance, the so-called great wealth transfer is also driving demand in Manhattan. Palermo said he's doing a number of high-end deals with buyers under the age of 40 in which the parents or a family office or trust is the underlying buyer.
-"We're seeing a lot of gifts coming in from parents," he said. "If you're under 40 and you're buying in New York City, chances are you're not making enough to buy on your own."
-
-</details>
-
-
----
-
-## Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html
-
-正文长度：2892
-
-摘要：Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Sandwich chain Jersey Mike's filed for an initial public offering on Thursday, reporting that its same-store sales cumulatively climbed 50% from 2020 through 2025.
-Jersey Mike's plans to trade on the New York Stock Exchange under the ticker "JMKE."
-The company reported net income of $55 million on total revenue of $724 million last year, up from net income of $5 million on revenue of $653 million in 2024, according to the regulatory filing.
-Last year, Jersey Mike's annual system sales, which includes both company-owned and franchised locations, reached $4.3 billion, up 13% from the previous year.
-Its same-store sales increased 3% over the same period; the metric tracks sales growth at restaurants open at least a year. Broadly, the restaurant industry has seen same-store sales weaken over the last two years as consumers dine out less often to save money.
-Jersey Mike's filing comes as many companies feel more optimistic about going public, especially following the blockbuster SpaceX IPO.
-While the number of IPOs that have been priced so far this year lags behind the year-ago period, the number of companies that have filed to go public is up, according to Renaissance Capital. Artificial intelligence giants OpenAI and Anthropic are among the hopefuls that have submitted confidential filings with the Securities and Exchange Commission.
-A growing business
-Today, Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway. About 2,000 of those restaurants were opened in the last decade. Nearly all of Jersey Mike's restaurants are franchised, so the bulk of its revenue comes from royalties and advertising fees.
-Despite a sluggish industry backdrop, the company announced in April that it had confidentially filed for an initial public offering. More than a year earlier, Blackstone bought a majority stake in Jersey Mike's in a deal that reportedly valued the chain at roughly $8 billion.
-After the transaction closed, Jersey Mike's tapped Charlie Morrison as its latest chief executive. Morrison previously led Wingstop for more than a decade, including during the chicken wing chain's public market debut.
-Jersey Mike's founder Peter Cancro began working at a Jersey Shore sandwich shop at age 14 in 1971. Four years later, he pulled together enough money to buy Mike's Subs. Cancro later changed the name and began franchising the chain.
-Following the deal with Blackstone, he has retained "meaningful equity" in Jersey Mike's and holds a seat on its board, according to a letter to fellow shareholders included in the regulatory filing.
-"[Blackstone's] experience with leading franchisors aligns with the values and long-term mindset that have shaped Jersey Mike's and will help continue our expansion in the United States and abroad," Cancro wrote. "I remained involved in the Company now and in the future."
-
-</details>
-
-
----
-
-## US voters say Trump’s Iran war not worth the cost — FT poll - Financial Times
+## Son remakes SoftBank in his own image - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU8zVXZ6UFBVUkYxUlhjYW9OODdkSkhBUW80RXF1cDdTM0JQQnNPQzZEVWFFblpmTlBrTU41Q01QVUhETExwb1dNNHpadU1zbnRVYnVjZDdKUHZXeHo0aXFYWlc1UTVZaHlvM3RtU1poajFkQjZWLWZqY0NpTThkTng4VWI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0pVTkVrNzlFUy1OZ1Z6U0NYN2VrYlNIYndfclAwV3paYWt5QkVtOHljSEhuOThQd0pfb3NlNlkzNWYwOUdxSWFtM1NibFRpRndiV1gyaHg4Zm92LXhLM19hMzRSTEVRVG9XR2tlX3RjblV6dXdFaE55RDNIemJBQy15NGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU8zVXZ6UFBVUkYxUlhjYW9OODdkSkhBUW80RXF1cDdTM0JQQnNPQzZEVWFFblpmTlBrTU41Q01QVUhETExwb1dNNHpadU1zbnRVYnVjZDdKUHZXeHo0aXFYWlc1UTVZaHlvM3RtU1poajFkQjZWLWZqY0NpTThkTng4VWI?oc=5" target="_blank">US voters say Trump’s Iran war not worth the cost — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0pVTkVrNzlFUy1OZ1Z6U0NYN2VrYlNIYndfclAwV3paYWt5QkVtOHljSEhuOThQd0pfb3NlNlkzNWYwOUdxSWFtM1NibFRpRndiV1gyaHg4Zm92LXhLM19hMzRSTEVRVG9XR2tlX3RjblV6dXdFaE55RDNIemJBQy15NGk?oc=5" target="_blank">Son remakes SoftBank in his own image</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Ukraine striking Russian energy infrastructure at unprecedented rate - Financial Times
+## Honeywell spin-off Solstice targets AI supply chain with $14.5bn deal for Element - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNem9aeTdMZS1SYzcydDMydVQza0I3eEhwXy1qeVYyYjdzMUxhWjJwajRXNFM4UmVrNm1Ob0ltbnNYX0tCT0NTR1VZWkh4X2JYaUxBOXZYYzl6VmlIZUJ1S2JGRXRqc3NhUDQ3Xy1UdTd4bGptbjRhMFduMk9vUmF5a1ZfS2Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUsxLUNzcG1mYWFORWhBd2hUMnNpVkxId0lOb3VWQTRiVmdrSWxLcURIcS1LOHVZR0hXNS1kMTBwTU9vZkJwUkkyckd0WmhJUDVsV2JOWFE3NzFnYkZuMWltVGJxSjk5UHhRQTZSVWR0NTBFR2ZnT2ZHMTVjQlVIY1J5czU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNem9aeTdMZS1SYzcydDMydVQza0I3eEhwXy1qeVYyYjdzMUxhWjJwajRXNFM4UmVrNm1Ob0ltbnNYX0tCT0NTR1VZWkh4X2JYaUxBOXZYYzl6VmlIZUJ1S2JGRXRqc3NhUDQ3Xy1UdTd4bGptbjRhMFduMk9vUmF5a1ZfS2Y?oc=5" target="_blank">Ukraine striking Russian energy infrastructure at unprecedented rate</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUsxLUNzcG1mYWFORWhBd2hUMnNpVkxId0lOb3VWQTRiVmdrSWxLcURIcS1LOHVZR0hXNS1kMTBwTU9vZkJwUkkyckd0WmhJUDVsV2JOWFE3NzFnYkZuMWltVGJxSjk5UHhRQTZSVWR0NTBFR2ZnT2ZHMTVjQlVIY1J5czU?oc=5" target="_blank">Honeywell spin-off Solstice targets AI supply chain with $14.5bn deal for Element</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake - Financial Times
+## Novartis to buy UK biotech Myricx Bio in $1.5bn deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnZKSjBXcm4tNUYyY0N4NWswYTI3Y01GNklLWW1ZNE1pVXEtLTNzdEZscHJqOGZnMjEwdmlNSlZyOTRXN21TeExWNl9yRFJLX3NVSDEtdjFyZHUwQ2tFcFFmZ01KSHk2bXNqLUlOYnlYcHpmemx3b3NENU1aRW1sd0tSUE0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY25OMHBFeW81cWRkV1F0bFZOblYxYXNuZ210alloNHBuNmJucG16eUg1YVFqY0g3UENwXzU5Q0U4SGhiZGtCcWVBS2xGTElDSGw4UWszWjBJbW9OVjRIWENYdS1aWlBCdldCZTg2a1ZacXpTVXhrVGJGRUJ2Nk9ZSHdQQmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnZKSjBXcm4tNUYyY0N4NWswYTI3Y01GNklLWW1ZNE1pVXEtLTNzdEZscHJqOGZnMjEwdmlNSlZyOTRXN21TeExWNl9yRFJLX3NVSDEtdjFyZHUwQ2tFcFFmZ01KSHk2bXNqLUlOYnlYcHpmemx3b3NENU1aRW1sd0tSUE0?oc=5" target="_blank">EasyJet reaches outline agreement on £5.5bn takeover by Castlelake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY25OMHBFeW81cWRkV1F0bFZOblYxYXNuZ210alloNHBuNmJucG16eUg1YVFqY0g3UENwXzU5Q0U4SGhiZGtCcWVBS2xGTElDSGw4UWszWjBJbW9OVjRIWENYdS1aWlBCdldCZTg2a1ZacXpTVXhrVGJGRUJ2Nk9ZSHdQQmc?oc=5" target="_blank">Novartis to buy UK biotech Myricx Bio in $1.5bn deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## French push to exclude UK from EU defence spending backfires - Financial Times
+## Big investors commit billions to private credit despite turmoil - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjhVUUVRbVN4VTB0OFNjSmpZYkpCeDlsWnMwakJrbHRXVjVJNWsxdURfZk54aENxeWdIODk1NG55VzAyMnRhQnZQZkluS0Y3N1ZvVXFYVlpoR0tBSURsT3ZJUmU2YjFsQkJLdkNpNkRoZ3Z6cFJ5V0lYSjFkVkxaMnRNZng?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGlNb1hqTVdWZVhJUi1SLUYzNGxfcTY4ckNHczhNWXEtOV9pSGVSTkRJMU5UdW1xak5WbnBabGhxX2hQZE5oZzY1OWZod2dWYkFHN0Z0VUpwTlVKYWZoMThjQnQ3aF9qeWpPWncyT1R4N3I2WVVUNy1PNjkxOUk4djBUcHU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjhVUUVRbVN4VTB0OFNjSmpZYkpCeDlsWnMwakJrbHRXVjVJNWsxdURfZk54aENxeWdIODk1NG55VzAyMnRhQnZQZkluS0Y3N1ZvVXFYVlpoR0tBSURsT3ZJUmU2YjFsQkJLdkNpNkRoZ3Z6cFJ5V0lYSjFkVkxaMnRNZng?oc=5" target="_blank">French push to exclude UK from EU defence spending backfires</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGlNb1hqTVdWZVhJUi1SLUYzNGxfcTY4ckNHczhNWXEtOV9pSGVSTkRJMU5UdW1xak5WbnBabGhxX2hQZE5oZzY1OWZod2dWYkFHN0Z0VUpwTlVKYWZoMThjQnQ3aF9qeWpPWncyT1R4N3I2WVVUNy1PNjkxOUk4djBUcHU?oc=5" target="_blank">Big investors commit billions to private credit despite turmoil</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Wall Street banks recover in China amid trading boom - Financial Times
+## Trump renews attacks on Meloni with ‘restraining order needed’ post - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVoyUWs1ZlAtZDNfWkhvTjU2bXFnU1dRQnRKN1F6VWNsNFloLTRyTWMzRzBLY2Y4U2NwaFl5QTFvTUxCM0NzeXdLeWtCOEFfSlVjVXc0ZmxFU0JraWlkRXVKdHMxV29tLTFvd3RTdVJCSGdQQVNKWlFqbERDODJXYVlWNmU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWG9mZDREeGxUX3dBN0Z6T2g1QVJ4RjJVOG96b1JmVDcybUY0dHIzUkc0N0ZCUFgtQlYxZHQ0U3ZIWlRfb0NlRVd6TUYxcnhnalhFSjNpZnhEUkZ2WGltTlJiNnJzSWo0ZmJIRWg1MzRwZWcxenFyY1BWc1Bpdm5nZ2NPdmw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVoyUWs1ZlAtZDNfWkhvTjU2bXFnU1dRQnRKN1F6VWNsNFloLTRyTWMzRzBLY2Y4U2NwaFl5QTFvTUxCM0NzeXdLeWtCOEFfSlVjVXc0ZmxFU0JraWlkRXVKdHMxV29tLTFvd3RTdVJCSGdQQVNKWlFqbERDODJXYVlWNmU?oc=5" target="_blank">Wall Street banks recover in China amid trading boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWG9mZDREeGxUX3dBN0Z6T2g1QVJ4RjJVOG96b1JmVDcybUY0dHIzUkc0N0ZCUFgtQlYxZHQ0U3ZIWlRfb0NlRVd6TUYxcnhnalhFSjNpZnhEUkZ2WGltTlJiNnJzSWo0ZmJIRWg1MzRwZWcxenFyY1BWc1Bpdm5nZ2NPdmw?oc=5" target="_blank">Trump renews attacks on Meloni with ‘restraining order needed’ post</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Asian shares slip as earnings loom, oil weighed by supply - Reuters
+## Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5" target="_blank">Asian shares slip as earnings loom, oil weighed by supply</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5" target="_blank">Microsoft joins AI-driven tech layoff wave with 4,800 job cuts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian attack on Kyiv kills seven, hits apartments, other buildings - Reuters
+## Belgium challenging Balogun's eligibility for World Cup clash v USA - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2JoVkZsTGpuTGlVaVlLSFlEb0NNTDVWdlhBZGNBUEYwWkcybUZWTU00VUJmWHFHaFRQZUdhaUM0WWxpN0wwS2pxZUpaUXBiSnYwTzd2azd1czQ4eXJVUTB5TG1JT2VLYWZRN2E5dzdyU0dBeHdnM0Fub2FVcG9YYWhGeXpici1uMUFha0RzSUx6V2tOTl95UDIxN0c0aF9LTTRUVkJJSHJ3ZUVmLXF0bEltbUZFRFptMXNrczdleVJJSWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5" target="_blank">Russian attack on Kyiv kills seven, hits apartments, other buildings</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2JoVkZsTGpuTGlVaVlLSFlEb0NNTDVWdlhBZGNBUEYwWkcybUZWTU00VUJmWHFHaFRQZUdhaUM0WWxpN0wwS2pxZUpaUXBiSnYwTzd2azd1czQ4eXJVUTB5TG1JT2VLYWZRN2E5dzdyU0dBeHdnM0Fub2FVcG9YYWhGeXpici1uMUFha0RzSUx6V2tOTl95UDIxN0c0aF9LTTRUVkJJSHJ3ZUVmLXF0bEltbUZFRFptMXNrczdleVJJSWc?oc=5" target="_blank">Belgium challenging Balogun's eligibility for World Cup clash v USA</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil slips after OPEC+ agrees to raise output targets - Reuters
+## Trump says he asked FIFA chief to review red card foul - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFKQUtJMXZoRkdFeXVEMk96alVhNkJMc05iWlJuZDRNT1JQNkMyYkI3WmdFbWNfVUVoWkctQlFLcHlxR0t6OGVUa0d4cWlNMG5fZklDMkZKQlJWYkN5SVFPZGR2eEN5NlFWSzJadVNnWkYzWHRPcy12Q2hrZE50MW1QSktlYXZwT3hNN092bnFOd1IzRWpmc3BEZ2xETnM0ZExB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5" target="_blank">Oil slips after OPEC+ agrees to raise output targets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFKQUtJMXZoRkdFeXVEMk96alVhNkJMc05iWlJuZDRNT1JQNkMyYkI3WmdFbWNfVUVoWkctQlFLcHlxR0t6OGVUa0d4cWlNMG5fZklDMkZKQlJWYkN5SVFPZGR2eEN5NlFWSzJadVNnWkYzWHRPcy12Q2hrZE50MW1QSktlYXZwT3hNN092bnFOd1IzRWpmc3BEZ2xETnM0ZExB?oc=5" target="_blank">Trump says he asked FIFA chief to review red card foul</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters
+## Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBhRkxacmxmTXloVDZNTThZcE5DbGg1R0xsd1dscnB0bHlWVHo5c0tiZzluaHhpT2l3WVl1UnI2alFkNktseUtFdXFSS28xMDRHbmM1X3dFa3VIRGFHVlk1MjFKc2dOdEhaRU5HUTBuRUMySjd0bmtTN2JRaWFpSTUwVEttakkwU3hIamsxUTg0c1dTRWVZbEZhMWJ0SFkzdi1tSHpZTVYyblN0ckd6MjJ3VEtLY1pJR3RpT3h3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5" target="_blank">Samsung likely to post 18-fold jump in profit on surging AI demand for memory</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBhRkxacmxmTXloVDZNTThZcE5DbGg1R0xsd1dscnB0bHlWVHo5c0tiZzluaHhpT2l3WVl1UnI2alFkNktseUtFdXFSS28xMDRHbmM1X3dFa3VIRGFHVlk1MjFKc2dOdEhaRU5HUTBuRUMySjd0bmtTN2JRaWFpSTUwVEttakkwU3hIamsxUTg0c1dTRWVZbEZhMWJ0SFkzdi1tSHpZTVYyblN0ckd6MjJ3VEtLY1pJR3RpT3h3?oc=5" target="_blank">Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Haaland double as Norway stun Brazil to reach World Cup quarter-finals - Reuters
+## EXCLUSIVE: War threatens Russian banking crisis, European intelligence report says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTVlcFUyRC0zWlRqdkJCaFBvdTNRc19GS2FQckZvVnF5SEFyall4ZEVBeVVqNDlNSnJmMWc0UHhGaXVnLVc4Q1lHdGNmam11bjA3M0tjTWt3b1FYNHNvbzZzYl84aEFTOWxzTFlIRUl2VGIxc25IYXd5cDFkeGRwQm15VS1hLWxfX2dSN0lwMGJvUno1Zm1xTXE3a0NvYjNfQ1diUmU5N3FWX3M5VmRMTVh1cEg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazdDNzBMUFc4X3E5TEtkV2tVQ2V1QzZZSjlkbjNWS25MZ0NpWUF6OWRuNDAtcGl4TjNicmlVU2hYam1xZzBXWkVscHNzc0lWRTNQY3BGYjc1OE9tUGlEZ1h3Y2pla2V2S3V1UEI1TjIyLUlKWGwwcTJnREVfV3MwcGlsTDJUOHJTWm5Sa21JRzlBcnpzTmtnVGF1UnlKQjdoNEhuUmtxS0ZNWlUwc0JqajVuR1ZzQ0hsa1c4ODYzUXg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTVlcFUyRC0zWlRqdkJCaFBvdTNRc19GS2FQckZvVnF5SEFyall4ZEVBeVVqNDlNSnJmMWc0UHhGaXVnLVc4Q1lHdGNmam11bjA3M0tjTWt3b1FYNHNvbzZzYl84aEFTOWxzTFlIRUl2VGIxc25IYXd5cDFkeGRwQm15VS1hLWxfX2dSN0lwMGJvUno1Zm1xTXE3a0NvYjNfQ1diUmU5N3FWX3M5VmRMTVh1cEg?oc=5" target="_blank">Haaland double as Norway stun Brazil to reach World Cup quarter-finals</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazdDNzBMUFc4X3E5TEtkV2tVQ2V1QzZZSjlkbjNWS25MZ0NpWUF6OWRuNDAtcGl4TjNicmlVU2hYam1xZzBXWkVscHNzc0lWRTNQY3BGYjc1OE9tUGlEZ1h3Y2pla2V2S3V1UEI1TjIyLUlKWGwwcTJnREVfV3MwcGlsTDJUOHJTWm5Sa21JRzlBcnpzTmtnVGF1UnlKQjdoNEhuUmtxS0ZNWlUwc0JqajVuR1ZzQ0hsa1c4ODYzUXg?oc=5" target="_blank">EXCLUSIVE: War threatens Russian banking crisis, European intelligence report says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
