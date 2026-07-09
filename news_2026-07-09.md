@@ -1,47 +1,22 @@
 # 每日财经新闻
 
-更新时间：2026-07-09 03:50:28
+更新时间：2026-07-09 15:22:43
 
-## Oil Rises as US Hits Iran, Stocks Lose Momentum: Markets Wrap
+## SEC’s Semiannual Reporting Plan Prompts Accounting Board Review
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-07-09/sec-s-semiannual-reporting-plan-prompts-review-video
 
 正文长度：0
 
-摘要：Oil climbed and government bonds fell after the US and Iran launched a fresh round of attacks, escalating tensions in the Middle East.
+摘要：The US accounting board is examining if any changes to its rulebook are necessary should the Securities and Exchange Commission scale back how often publicly traded companies need to report their earnings to investors.
+Sandy Peters, Senior Head of Global Advocacy at CFA Institute, discusses sentiment around a potential move to semi-annual reporting. (Source: Bloomberg)
 
 
 ---
 
-## Temasek CIO Rohit Sipahimalani Warns on US Capex Surge Risks
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-07-09/temasek-cio-warns-on-us-capex-surge-risks-video
-
-正文长度：0
-
-摘要：Temasek International CIO Rohit Sipahimalani discusses investment opportunities and warns that a surge in US capital spending could create risks for markets in a wide-ranging interview with Bloomberg's Haslinda Amin. (Source: Bloomberg)
-
-
----
-
-## Japan’s Five-Year Bond Sale Demand In Line With 12-Month Average
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-09/japan-s-five-year-bond-sale-demand-in-line-with-12-month-average
-
-正文长度：0
-
-摘要：Japan’s five-year government bond auction Thursday saw demand that was broadly in line with the 12-month average, as elevated yields supported demand.
-
-
----
-
-## Oil Extends Gain as Fresh US Strikes Against Iran Rattle Market
+## Oil Edges Lower as Traders Assess Renewed US-Iran Hostilities
 
 来源：彭博社
 
@@ -49,20 +24,140 @@
 
 正文长度：0
 
-摘要：Oil extended a surge as the US struck targets in Iran for a second day, raising risks for energy supplies from the Middle East.
+摘要：Oil edged lower as traders assessed renewed US strikes against Iran, with the limited scope of the hostilities prompting bets that energy shipments through the Persian Gulf will resume their recent recovery.
 
 
 ---
 
-## Hormuz Ship Traffic Grinds to a Near Halt After US, Iran Strikes
+## Canada’s Well Health Preps C$150 Million High-Yield Bond Sale
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-09/hormuz-traffic-grinds-to-a-near-halt-as-ceasefire-under-threat
+链接：https://www.bloomberg.com/news/articles/2026-07-09/canada-s-well-health-preps-c-150-million-high-yield-bond-sale
 
 正文长度：0
 
-摘要：Traffic through the Strait of Hormuz came to a near standstill on Thursday, after the US struck Iran for a second straight day as a fragile truce between the two sides looked increasingly shaky.
+摘要：Well Health Technologies Corp. is looking to sell C$150 million ($106 million) of high-yield bonds maturing in five years, according to people familiar with the matter.
+
+
+---
+
+## Senegal’s Political Rupture Raises Risk of Debt Reprofile, Says Citibank
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-09/senegal-s-political-rupture-raises-risk-of-debt-reprofile-says-citibank
+
+正文长度：0
+
+摘要：Citigroup Inc. said the political rupture between Senegal’s president and his former premier has increased the likelihood of a debt reprofiling rather than a restructuring.
+
+
+---
+
+## Your ETF of the Moment: Winning Big With ‘Trump Accounts’
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-09/your-etf-of-the-moment-winning-big-with-trump-accounts
+
+正文长度：0
+
+摘要：<p>They are reshaping stock ownership, and one exchange-traded fund in particular stands to benefit handsomely.</p>
+
+
+---
+
+## Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html
+
+正文长度：1584
+
+摘要：Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Goldman Sachs said Thursday it won deals to manage a combined $70 billion in retirement assets for Verizon Communications and Lockheed Martin, one of the larger recent announcements in the fast-growing market for outsourced corporate investing.
+The mandates include about $30 billion in pension assets for Verizon and Lockheed Martin and $40 billion in Verizon defined-contribution retirement assets, which are typically 401(k)s, according to Goldman.
+The moves underscore how some of America's largest employers are increasingly handing responsibility for managing retirement assets to outside firms such as Goldman as portfolios become more complex and require expertise across public and private markets.
+Competition in the multitrillion-dollar market for retirement assets is fierce among managers including Goldman, BlackRock, Russell Investments and Mercer, because the long-term institutional mandates generate steady fee revenue.
+By growing that business, Goldman hopes to increase its share of revenues that are seen as stable and recurring, unlike the more volatile trading and investment banking operations.
+"Large plan sponsors are consolidating responsibilities with one partner with the investment expertise and depth of platform to manage their bespoke needs," Marc Nachmann, Goldman's global head of asset and wealth management, said in a statement.
+Goldman's outsourced chief investment officer business had about $480 billion in assets as of March 31, while the firm's broader asset and wealth management division oversees roughly $3.7 trillion worth of investments.
+
+</details>
+
+
+---
+
+## June home sales disappoint as prices reach an all-time high
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/09/june-home-sales-prices.html
+
+正文长度：2377
+
+摘要：Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> High mortgage rates coupled with record-high prices are causing homebuyers to pull back.
+Sales of previously owned homes in June dropped 2.4% from May to 4.09 million units on a seasonally adjusted, annualized basis, according to the National Association of Realtors. Housing analysts were predicting a slight gain month over month.
+June sales were, however, 2.8% higher than the same month a year prior.
+"The back-and-forth in monthly home sales activity, driven by mild fluctuations in mortgage rates, shows how sensitive home buyers are to affordability conditions," said Lawrence Yun, the Realtors' chief economist, in a release. "However, job gains—more than half a million since the beginning of the year—will continue to provide support for the housing market."
+This count represents closed sales, so contracts that were likely signed in May, when the average rate on the 30-year fixed mortgage was still moving higher. It began rising sharply at the start of March at the beginning of the Iran war.
+Inventory at the end of June was 1.56 million units, down 0.6% from May but 1.3% higher than June 2025. At the current sales pace, that represents a 4.6-month supply. The market is considered balanced between buyer and seller at a six-month supply.
+With the market still lean, prices continue to rise. The median price of an existing home sold in June was $440,600, an increase of 1.8% from the year before and the highest on record. June is usually the strongest month for both sales and prices.
+"Progress on long-term housing affordability could be hampered if inventory growth continues to stall. Without consistent gains in inventory, home prices can accelerate. It is critical to introduce more supply to the market to widen the opportunity for homeownership," Yun said.
+Sales continue to be strongest on the higher end of the market. Sales of homes priced below $100,000 were down 1.7% from a year ago, and sales of those priced between $100,000 and $250,000 were up less than 1%. Meanwhile sales of homes priced between $750,000 and $1 million were up nearly 14% from the year before, and sales of homes priced above $1 million were up 18%.
+Regionally, home sales were down in June month over month everywhere except in the Northeast.
+One-quarter of all sales were all-cash, down from 29% last year. First-time buyers made up 33% of sales, up from 30% a year ago.
+
+</details>
+
+
+---
+
+## PepsiCo earnings miss estimates as U.S. consumers tighten their budgets
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html
+
+正文长度：3077
+
+摘要：PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> PepsiCo on Thursday reported mixed quarterly results as the struggles of its North American food and beverage divisions offset strong international demand.
+"Results were tempered in the quarter as U.S. food and beverage category performance moderated with consumer budgets tightening due to rising inflationary pressures," CEO Ramon Laguarta said in prepared remarks shared on the company's website on Thursday.
+During Pepsi's second quarter, global oil prices swung dramatically due to the U.S. war with Iran. In the U.S., the national average gas price hit a four-year high of $4.56 per gallon in late May, leading many shoppers to watch their spending.
+Shares of Pepsi were down more than 4% in morning trading.
+Here's what the company reported for the quarter ended June 13 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $2.20 adjusted vs. $2.21 expected
+- Revenue: $24.18 billion vs. $23.95 billion expected
+Pepsi reported second-quarter net income attributable to the company of $2.98 billion, or $2.18 per share, up from $1.26 billion, or 92 cents per share, a year earlier.
+Excluding restructuring and impairment charges and other items, the company earned $2.20 per share.
+Net sales rose 6.4% to $24.18 billion. Organic revenue, which excludes acquisitions, divestitures and foreign currency, increased 2.4% in the quarter.
+Globally, volume for Pepsi's food increased 3%, while volume for its beverages rose 2%. The metric excludes pricing and foreign exchange fluctuations to reflect demand more accurately.
+But Pepsi's volume growth came from its international markets. Demand was much weaker domestically. Its North American food business reported flat volume for the quarter, and its North American beverage division saw volume drop 4%.
+"I think the consumer is worse than what we had anticipated, and it's driven mainly by gas prices," Laguarta said on the company's earnings conference call.
+Demand was particularly weak at convenience stores.
+"We need to see some improvement in the in the convenience and gas channel, and hopefully we'll get some tailwinds from gas prices to do that," CFO Steve Schmitt said.
+Over the last two years, both North American segments have seen weaker demand as a result of higher prices. In February, Pepsi cut prices on Lay's, Tostitos, Doritos and Cheetos by as much as 15% to try to win back shoppers. The company has also been "restaging" some of its iconic brands, like Gatorade and Lay's, with fresh branding to boost their sales.
+Pepsi expects that its North American volumes will recover, but that will take time, particularly after this quarter's setback.
+"Our North America business was softer than we anticipated in the second quarter, and we now expect a more gradual improvement in performance trends for the balance of this year," Schmitt said in his prepared remarks.
+For the full year, Pepsi reiterated its prior forecast that organic revenue will rise between 2% and 4% and core constant currency earnings per share will increase in a range of 4% to 6%.
+
+</details>
 
 
 ---
@@ -125,239 +220,6 @@ Aside from automakers pulling back billions of dollars for new EVs, the year-ove
 The incentives ended in September, and EV sales spiked to roughly 10% of all vehicles sold that month before plummeting later in the year.
 
 </details>
-
-
----
-
-## Delta launches 'basic business' fares without lounge access, seat selection
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html
-
-正文长度：1649
-
-摘要：Delta is launching basic business and other stripped-down premium classes that come with fewer perks.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines is dividing up the front of the plane into even smaller groups, offering a new "basic" fare for business and first classes that comes without perks like free seat selection and airport lounge access.
-The carrier is following United Airlines, which made a similar change earlier this year to its Polaris long-haul business class and other higher-tier cabins. Carriers are seeking to maximize what they can get out of high-spending customers, whose resilient travel demand has helped bolster the industry.
-Basic tickets in the Delta One lie-flat, long-haul cabin will go by the new name Basic Business, the airline said Wednesday. There's a similar basic product for first class, which is more common on shorter-haul routes and in premium economy.
-That means customers on those tickets will get seats assigned at check-in, earn fewer miles than more expensive options, only be allowed to make changes or cancellations for a fee, and do not have the option for same-day standby or confirmed flight changes.
-The seats go on sale Wednesday for flights starting in September and are only available in select markets. Delta didn't immediately say which ones would have the basic offering.
-Delta, the country's most profitable airline, has been working on these changes for more than a year. Delta's former president, Glen Hauenstein said on an earnings call last July that the "segmentation that we've done in main cabin is kind of the template that we're going to bring to all of our premium cabins over time because different people have different needs."
-The Atlanta-based carrier is scheduled to report second-quarter results on Friday.
-
-</details>
-
-
----
-
-## Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html
-
-正文长度：5196
-
-摘要：FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> As the FIFA World Cup captures massive global audiences, media companies are preparing to pay billions for the rights to the next two men's tournaments.
-Netflix, Disney and Alphabet's YouTube are all interested in challenging Fox for the U.S. broadcast rights to the 2030 and 2034 World Cup, according to people familiar with the matter.
-Amazon, which currently owns UEFA Champions League rights in the U.K., and Apple, which owns global MLS rights, could also enter the mix, further fueling a potential bidding war for the rights.
-Discussions between FIFA and potential media partners are expected to begin sometime in the next three months, according to people familiar with the matter, who asked not to be named because the talks are private.
-FIFA has alerted media companies during preliminary talks, which began earlier this year, that English- and Spanish-language U.S. rights are likely to be sold together, rather than separately as they have been for previous World Cups, including 2026, according to the people.
-Fox paid $485 million for the English-language rights for this year's tournament, hosted across North American cities, according to The Athletic. NBCUniversal's Telemundo paid $600 million for the Spanish-language rights, according to people familiar with the matter.
-Executives at various media companies are budgeting between $1.5 billion and $2 billion for the U.S. rights to each tournament across languages, said the people. The last time FIFA negotiated a deal, with Fox and Telemundo, was in 2011. Four years later, FIFA extended that deal through 2026.
-FIFA won't sell global rights to the tournament, because different countries have regulations that mandate the World Cup must be sold over the air. But U.S. rights will be coveted, with major viewership and advertising opportunities.
-Netflix, Disney and YouTube all view the World Cup as a potential major boost for their streaming services, according to the people familiar.
-Disney could also air games on ESPN and ABC, which could be appealing to FIFA as the broadcast on Fox has seen strong ratings this year. FIFA has already shown interest in Netflix by awarding it the Women's World Cup in 2027 and 2031.
-Spokespeople for FIFA, Netflix, YouTube and Disney declined to comment.
-Selling one package
-Selling the English- and Spanish-language rights as a single package could help FIFA garner a higher price, driving up bids from eager media partners looking for big ratings. The combined TV audiences for U.S. games in recent weeks have rivaled NFL playoff games.
-Packaging the language rights could also help eliminate some tensions between rival media companies airing the same games.
-Though Telemundo bought only the Spanish-language rights through 2026, it has claimed some unknown population of English speakers watching games in the U.S. via the Peacock streaming service, dampening Fox's World Cup reach.
-Peacock charges just $10.99 per month, while Fox's streaming service, Fox One, costs $19.99 per month.
-Telemundo also signed actor Owen Wilson, who isn't Latino or known for speaking Spanish, as a spokesperson for the Spanish-language coverage of the World Cup, blurring the lines for an American audience that speaks both English and Spanish.
-If English- and Spanish-language games are sold together, NBCUniversal isn't likely to compete for the rights at a price nearing $2 billion, according to people familiar with the matter. That would remove Telemundo as a future partner.
-Comcast announced last month it intends to spin out NBCUniversal, putting more investor focus on its future finances. NBCU already pays billions per year for the NFL's "Sunday Night Football" and NBA basketball. An NBC spokesperson declined to comment.
-Leaving U.S. time zones
-Both the 2030 and 2034 World Cup are in less appealing time zones for U.S. TV viewership than this year's World Cup, which is taking place in the U.S., Mexico and Canada.
-The 2030 World Cup will take place in Morocco, Portugal and Spain, where there is a five- or six-hour time difference with the U.S. Eastern time zone. The 2034 World Cup will be hosted by Saudi Arabia, where the time difference is even more dramatic.
-Still, the outsized ratings for this year's World Cup will likely drive the price significantly higher.
-Last week's U.S. victory over Bosnia and Herzegovina was the most-watched soccer telecast in English-language history, averaging more than 26 million viewers, according to Fox Sports.
-Another 9.8 million viewers watched the game on either Telemundo or Peacock.
-Monday night's game between the U.S. and Belgium will likely report even higher ratings. While Nielsen ratings haven't been released, the combined English and Spanish audiences for the U.S.-Belgium game averaged 47.9 million viewers, according to estimates from AdImpact.
-Even non-U.S. games have drawn big audiences. More than 11 million viewers watched Portugal vs. Croatia on Fox, making it the most-watched non-finals game in U.S. history that didn't involve the U.S. team.
-CNBC's Money 101 Newsletter — to help you manage, grow and protect your finances — is also available in Spanish. Subscribe for free at cnbc.com/money101 and cnbc.com/dinero101.
-
-</details>
-
-
----
-
-## Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html
-
-正文长度：2428
-
-摘要：While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — Chrysler parent Stellantis on Tuesday said it has opened ordering for its small Fiat Topolino electric vehicle in the U.S., starting at $13,995.
-While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.
-Stellantis said the Topolino is capable of going 19 mph, with an electric range of up to 46 miles. A low-speed vehicle conversion kit can boost the top speed to 25 mph to make it street legal on roads with speed limits of 35 mph or less, according to the trans-Atlantic automaker.
-A Stellantis spokeswoman said there will be no charge for the conversion kit but confirmed a mandatory destination fee will add $990 to the base price, bringing the customer price to $14,985.
-The Topolino, which translates to "little mouse" in Italian, is produced in Morocco. The company said it will be available in limited quantities this year as a hardtop model with doors or as the Dolce Vita soft-top convertible model with a rope instead of doors.
-"Topolino represents a new chapter for the brand in the U.S. — defined not just by size, but by purpose," Fiat brand CEO Olivier François said in a release. "With Topolino, we bring a feeling, a lifestyle, a reminder that mobility can be joyful, expressive and beautifully simple."
-Stellantis, which also owns American brands such as Jeep and Dodge, late last year confirmed it would bring the vehicle from Italy to the U.S., less than a week after President Donald Trump praised small "Kei" cars from Japan during a meeting at the White House with Stellantis CEO Antonio Filosa and other automotive leaders.
-"They're very small. They're really cute," Trump said at the December meeting. "And I said, 'How would that do in this country?' And everyone seems to think 'good,' but you're not allowed to build them."
-It's not illegal to produce such cars in America, but they have to meet American safety standards, speed requirements and other regulations.
-Small cars such as Fiats have historically not sold well in the U.S. In its first full year in the U.S. in 2012, Fiat sold 43,772 vehicles domestically. Those sales dwindled to roughly 1,300 Fiat vehicles sold last year in the U.S.
-The Stellantis spokeswoman at that time said Fiat's announcement was unrelated to Trump's comments and that the automaker had been has been gauging customer interest for the Topolino at U.S. events such as auto shows.
-
-</details>
-
-
----
-
-## South Korea’s AI chip boom separates the haves from the have-mores - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9ieXdOWGs2bzNOVnhPRl9OLXRvVHpKNzJKa1pqQ05NbWc5dVh3cGF2QjlUZ0lmSDV4UEFjWk5VejdaRHVHUUtXQzJ3b0lVNkpiTThrT3A0ZmNER1hxZ2RxdDB1RjZjYVdqbk9HYl90SEE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ieXdOWGs2bzNOVnhPRl9OLXRvVHpKNzJKa1pqQ05NbWc5dVh3cGF2QjlUZ0lmSDV4UEFjWk5VejdaRHVHUUtXQzJ3b0lVNkpiTThrT3A0ZmNER1hxZ2RxdDB1RjZjYVdqbk9HYl90SEE?oc=5" target="_blank">South Korea’s AI chip boom separates the haves from the have-mores</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVVVR193Qm40SXNlX1VXRmdOVmVkX05VMUIzUnYxRk5peks2clYxSmVNY2w5cUw2cXhNc0ZOVnA0QW1LNUVTT0xaV0NNeng3SmxiM196R1VGZG1FTFN6MDBOdnhKRXMyM3p4RVNsUnJfeWhLbkRKNlFsS1hvS3pCdEYwYWs?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVVVR193Qm40SXNlX1VXRmdOVmVkX05VMUIzUnYxRk5peks2clYxSmVNY2w5cUw2cXhNc0ZOVnA0QW1LNUVTT0xaV0NNeng3SmxiM196R1VGZG1FTFN6MDBOdnhKRXMyM3p4RVNsUnJfeWhLbkRKNlFsS1hvS3pCdEYwYWs?oc=5" target="_blank">Meta tests ‘super sensing’ AI glasses that can capture every moment</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Outspoken Chinese economist who doubted official GDP data dies - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDRzSnNWVVlfSTd6Zno3OUhWLXBSdm1TNWJMTmVFanA2dWNBYW5lNmZvMzdTNjF2TlpRV2hMYy1SaV83MkNNT3hoYXRybEFmaUdjdkY5M0NoRUlULW9RbXZ2VkQ0RXpOSkUwZGN3c1dyeGZHa280VXZZZmpMWGQ1NEtnLUo?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDRzSnNWVVlfSTd6Zno3OUhWLXBSdm1TNWJMTmVFanA2dWNBYW5lNmZvMzdTNjF2TlpRV2hMYy1SaV83MkNNT3hoYXRybEFmaUdjdkY5M0NoRUlULW9RbXZ2VkQ0RXpOSkUwZGN3c1dyeGZHa280VXZZZmpMWGQ1NEtnLUo?oc=5" target="_blank">Outspoken Chinese economist who doubted official GDP data dies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Rare earths from Trump-backed US mines sold to Asia - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONXB5ak04a3Z2Q3lKdG13MlpjbFY4NlNFM0syN1dPUjQtbWVibEctSXFGT2p1czdJMEZGYTh0Q2M3ZmhMc2RBVTNIMXdXY3NBa3VCaUNsbTJ2YndkWmM1MVZwMlp2S0pQWXhfWFRsbUMtbXFmUFliUDdFNVJnUkxsRkk1Vkc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONXB5ak04a3Z2Q3lKdG13MlpjbFY4NlNFM0syN1dPUjQtbWVibEctSXFGT2p1czdJMEZGYTh0Q2M3ZmhMc2RBVTNIMXdXY3NBa3VCaUNsbTJ2YndkWmM1MVZwMlp2S0pQWXhfWFRsbUMtbXFmUFliUDdFNVJnUkxsRkk1Vkc?oc=5" target="_blank">Rare earths from Trump-backed US mines sold to Asia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Apple to buy $30bn of US-made chips from Broadcom - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzZOY3ZaVDE2YXpkb2tkRUdkYnIxckkwZHp1NHpzMGVjb0Q0aGZBNEdHazAtUGN5bUg3UDlzVTVQSGhNZExmNDRPWjlvSGNKSHhCMlVDeEcxZThVdmNpRVV5SWNiNGVnQ3RLaWY3WTRCMVo4SHk3UUdlWXlvZm52eVJWUzE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzZOY3ZaVDE2YXpkb2tkRUdkYnIxckkwZHp1NHpzMGVjb0Q0aGZBNEdHazAtUGN5bUg3UDlzVTVQSGhNZExmNDRPWjlvSGNKSHhCMlVDeEcxZThVdmNpRVV5SWNiNGVnQ3RLaWY3WTRCMVo4SHk3UUdlWXlvZm52eVJWUzE?oc=5" target="_blank">Apple to buy $30bn of US-made chips from Broadcom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Oil rises after US launches fresh strikes against Iran - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5" target="_blank">Oil rises after US launches fresh strikes against Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Oil rises more than a dollar per barrel as US launches fresh strikes against Iran - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5" target="_blank">Oil rises more than a dollar per barrel as US launches fresh strikes against Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Paramount will not close its Warner Bros deal before July 22 amid Oregon probe - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5" target="_blank">Paramount will not close its Warner Bros deal before July 22 amid Oregon probe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump says he will ask Supreme Court to rehear birthright citizenship case - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2wzazIzUW9MakdGVm5TRWtiNm0tLXI5S2gxVmQ3c04tV3c5ak9NYVVFODBPNERmOVBRaVpKZndnREtCUXltQnE1cEdib2t4bFNOdHZrVmMyQjk4ZkxuMjZwUWN3NnRRYkdHWHpHS0cwQVRMZ0FTWlprM1ZyMFptTEZLWThpT2lhU29JY2JwZWs2aDZuWXBJYThKakUwZVhHQXFpWVBpN3gyNDFqajhlN2x5SQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2wzazIzUW9MakdGVm5TRWtiNm0tLXI5S2gxVmQ3c04tV3c5ak9NYVVFODBPNERmOVBRaVpKZndnREtCUXltQnE1cEdib2t4bFNOdHZrVmMyQjk4ZkxuMjZwUWN3NnRRYkdHWHpHS0cwQVRMZ0FTWlprM1ZyMFptTEZLWThpT2lhU29JY2JwZWs2aDZuWXBJYThKakUwZVhHQXFpWVBpN3gyNDFqajhlN2x5SQ?oc=5" target="_blank">Trump says he will ask Supreme Court to rehear birthright citizenship case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump wants to leave the Iran war behind. That won't happen soon - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5" target="_blank">Trump wants to leave the Iran war behind. That won't happen soon</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
