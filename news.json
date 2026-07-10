@@ -1,56 +1,66 @@
 {
-  "update_time": "2026-07-09 15:22:43",
-  "news_count": 10,
+  "update_time": "2026-07-10 03:51:43",
+  "news_count": 20,
   "news": [
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "SEC’s Semiannual Reporting Plan Prompts Accounting Board Review",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/sec-s-semiannual-reporting-plan-prompts-review-video",
-      "publish_time": "Thu, 09 Jul 2026 15:12:13 GMT",
-      "summary": "The US accounting board is examining if any changes to its rulebook are necessary should the Securities and Exchange Commission scale back how often publicly traded companies need to report their earnings to investors.\nSandy Peters, Senior Head of Global Advocacy at CFA Institute, discusses sentiment around a potential move to semi-annual reporting. (Source: Bloomberg)",
+      "title": "Oil Steadies at End of Volatile Week as US and Iran Keep Talking",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
+      "publish_time": "Thu, 09 Jul 2026 22:04:02 GMT",
+      "summary": "Oil steadied at the end of a bumpy week, as talks between the US and Iran continued despite a flare-up in fighting that drove a steep drop in traffic through the Strait of Hormuz.",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Oil Edges Lower as Traders Assess Renewed US-Iran Hostilities",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
-      "publish_time": "Wed, 08 Jul 2026 22:01:34 GMT",
-      "summary": "Oil edged lower as traders assessed renewed US strikes against Iran, with the limited scope of the hostilities prompting bets that energy shipments through the Persian Gulf will resume their recent recovery.",
+      "title": "MiniMax Joins China AI Fundraising Rush With $2 Billion Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond",
+      "publish_time": "Thu, 09 Jul 2026 16:08:36 GMT",
+      "summary": "MiniMax Group Inc. is joining a rush by Chinese technology companies to tap markets for funding aimed at the artificial intelligence buildout, looking to raise as much as $2 billion from selling new shares and convertible bonds.",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Canada’s Well Health Preps C$150 Million High-Yield Bond Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/canada-s-well-health-preps-c-150-million-high-yield-bond-sale",
-      "publish_time": "Thu, 09 Jul 2026 15:07:54 GMT",
-      "summary": "Well Health Technologies Corp. is looking to sell C$150 million ($106 million) of high-yield bonds maturing in five years, according to people familiar with the matter.",
+      "title": "Yuan Gains as PBOC Sets Fix Below 6.8 for First Time Since 2023",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/pboc-sets-fixing-below-6-8-per-dollar-for-first-time-since-2023-mre95kva",
+      "publish_time": "Fri, 10 Jul 2026 01:23:54 GMT",
+      "summary": "The yuan advanced after China’s central bank signaled its comfort with the currency’s strength by setting the daily reference rate below 6.80 per dollar for the first time since 2023.",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Senegal’s Political Rupture Raises Risk of Debt Reprofile, Says Citibank",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/senegal-s-political-rupture-raises-risk-of-debt-reprofile-says-citibank",
-      "publish_time": "Thu, 09 Jul 2026 15:03:03 GMT",
-      "summary": "Citigroup Inc. said the political rupture between Senegal’s president and his former premier has increased the likelihood of a debt reprofiling rather than a restructuring.",
+      "title": "Stocks Extend Gains on Tech Rally, Yen Strengthens: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
+      "publish_time": "Thu, 09 Jul 2026 22:08:45 GMT",
+      "summary": "Stocks gained on the last trading day of the week as investors returned to semiconductor shares on renewed optimism over AI-driven demand, brushing aside the latest flare-up in Middle East tensions. The yen strengthened.",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Your ETF of the Moment: Winning Big With ‘Trump Accounts’",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/your-etf-of-the-moment-winning-big-with-trump-accounts",
-      "publish_time": "Thu, 09 Jul 2026 15:01:58 GMT",
-      "summary": "<p>They are reshaping stock ownership, and one exchange-traded fund in particular stands to benefit handsomely.</p>",
+      "title": "Strategists Diverge on Long-Term Yen Trend After Katayama Speech",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/strategists-see-boost-to-japanese-assets-after-katayama-comments",
+      "publish_time": "Fri, 10 Jul 2026 02:27:01 GMT",
+      "summary": "Some strategists see a boost to assets, while others were sceptical of a sustained rally, following Finance Minister Satsuki Katayama’s comments Friday encouraging pension funds, including the massive Government Pension Investment Fund, to increase investment in domestic financial assets. Here’s what strategists are saying:",
       "content": "",
       "content_length": 0
+    },
+    {
+      "source": "CNBC",
+      "source_cn": "CNBC",
+      "title": "Florida's Palm Beach airport renamed for Trump",
+      "url": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
+      "publish_time": "Thu, 09 Jul 2026 20:55:37 GMT",
+      "summary": "Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday.",
+      "content": "The airport in West Palm Beach, Florida, has officially been renamed after President Donald Trump, the first time an airport has been named after a sitting U.S. president.\nEffective Thursday, the facility will be called President Donald J. Trump International Airport, the Federal Aviation Administration said.\nThe airport — formerly Palm Beach International Airport — said in an FAQ posted online that \"updates to signage, branding and public‑facing materials, will occur in phases.\"\nAs part of the transition, the airport's FAA locational identifier will change from PBI to DJT. The International Air Transport Association code change is set to occur on Aug. 18.\nMajor U.S. carriers including United Airlines and Delta Air Lines began putting the new airport code DJT on their booking pages on Thursday, though consumers searching for flights can still use the old PBI code to find the airport.\nMore than a dozen airlines fly into the facility, including domestic leaders Delta, United, American Airlines and Southwest Airlines.\nThe fresh branding comes after Florida Gov. Ron DeSantis signed a bill into law earlier this year to change the name of the airport. The move was later approved by the FAA.\nThe name change is estimated to cost $5.5 million, the airport said.\nThe state of Florida appropriated $2.75 million toward the project, according to the airport's FAQ, and the remaining costs for the transition will be funded through the local Department of Airports' operating budget and capital improvement program.\n\"While we recognize that the required name change may be received in different ways by our passengers, we're grateful for your continued support through this transition period,\" the airport wrote in the FAQ. \"While some things may evolve over time, our core focus remains the same: providing a safe, reliable and welcoming airport experience.\"\nThe airport is near the president's Mar-a-Lago club in Palm Beach, Florida, and he flies in and out of it fairly often.\nThe president's son Eric Trump said Trump Force One — the nickname for the private jet owned by the Trump Organization — would be the first plane to land at the newly renamed airport.\n\"As a son, and someone who flies out of this airport nearly every day, I will forever be proud to see the initials 'DJT' on my boarding pass,\" he wrote on X.",
+      "content_length": 2328
     },
     {
       "source": "CNBC",
@@ -93,14 +103,104 @@
       "content_length": 1885
     },
     {
-      "source": "CNBC",
-      "source_cn": "CNBC",
-      "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-      "url": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
-      "publish_time": "Wed, 08 Jul 2026 16:11:15 GMT",
-      "summary": "The Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June 2025.",
-      "content": "DETROIT — The Iran war and high U.S. gas prices are causing a surge in demand for used all-electric vehicles, which is making the pre-owned vehicles more expensive, according to Cox Automotive.\nThe company on Wednesday reported that its Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% last month compared with June 2025. That compares with a 1.7% increase for non-EVs over the same period.\nWholesale EV prices have increased every month this year, leading to an 11.5% jump in average pricing to roughly $30,400, according to Manheim. Non-EVs, meanwhile, have seen a less than 1% increase this year in average pricing, to $19,125, Manheim said.\nThe average used EV listing price as of May was $37,083, according to Cox's Kelley Blue Book. Retail prices for consumers traditionally follow changes in wholesale prices.\n\"EVs continue to show strong performance, while prices for SUVs and Pickups falter compared to this time last year,\" Manheim said in a release.\nCox reports used EV sales to consumers reached 42,923 units in May, up 5.5% month over month and 24.7% year over year, with used EV market share holding at 2.8%. Tesla models are estimated to have led with 15,353 units sold, followed by sales of Hyundai, Chevrolet, Ford and BMW all-electric vehicles.\nJonathan Gregory, senior director of Cox Automotive, said gas prices are expected to continue to determine whether vehicle costs will rise amid an expected influx of off-lease EVs coming later this year.\nA growing number of used EVs are expected to the market through the end of the year after automakers bumped up their sales of all-electric vehicles with leasing offers three years ago.\n\"The risk we're watching for the second half is that steep ramp in off-lease supply, EVs especially, which could pressure specific segments even as the headline holds firm. Gas is the swing factor: If pump prices keep falling, some of that EV demand could fade as availability increases,\" Gregory said.\nAAA reports the national average for gas prices is up roughly 21% from a year ago, to a national average of $3.80 a gallon. Those prices have come down from recent highs, but escalating combat in Iran caused oil prices to jump Wednesday.\nThe increased demand and rise in the price of used EV are contrary to those for new all-electric vehicles. Many automakers reported that they saw sharp sales declines for new EVs during the second quarter.\nAside from automakers pulling back billions of dollars for new EVs, the year-over-year comparison is difficult. EV demand began to spike last year during the second quarter ahead of expectations that the Trump administration would end up to $7,500 in incentives for consumers to purchase an EV.\nThe incentives ended in September, and EV sales spiked to roughly 10% of all vehicles sold that month before plummeting later in the year.",
-      "content_length": 2915
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "SK Hynix raises $26.5bn in US market debut - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2dTN0FYOVQzYUZiNHRkb1Y5SlJheWVBRzVOSklEMWdVa1N6VmV0NFJsTlJnNVlvQUsteEJpemMtWDJkSVZaU0FKYnJFYTJ6NHBGLTVSYjgxWlZJdHlMc0RqLWFTQlU0aVdfRUxjaE5WcGxUUUU2YUx3LTl2dVo4V2N1amE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 22:55:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2dTN0FYOVQzYUZiNHRkb1Y5SlJheWVBRzVOSklEMWdVa1N6VmV0NFJsTlJnNVlvQUsteEJpemMtWDJkSVZaU0FKYnJFYTJ6NHBGLTVSYjgxWlZJdHlMc0RqLWFTQlU0aVdfRUxjaE5WcGxUUUU2YUx3LTl2dVo4V2N1amE?oc=5\" target=\"_blank\">SK Hynix raises $26.5bn in US market debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "How Ukraine’s drones brought war home to 50mn Russians - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWNSMzlmLVpYUFpMYkRDVG1ERWVxRHRfdU8tWmlBZFFqdk01ajhnYzRFd3phZXRIYW13Q0R5dmZrVDRiYVFQVy02cTEzc2dYSG94WUVqSHltRnJEOVljYkJZYkxJUzU2LXgtWHkwWC1SRFdsbFY4LUZPbUVRVXdHZzNCbng?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 04:00:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWNSMzlmLVpYUFpMYkRDVG1ERWVxRHRfdU8tWmlBZFFqdk01ajhnYzRFd3phZXRIYW13Q0R5dmZrVDRiYVFQVy02cTEzc2dYSG94WUVqSHltRnJEOVljYkJZYkxJUzU2LXgtWHkwWC1SRFdsbFY4LUZPbUVRVXdHZzNCbng?oc=5\" target=\"_blank\">How Ukraine’s drones brought war home to 50mn Russians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Iran’s new order takes shape after Khamenei burial - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVElfUzlXRGREazNkS3pjSlFTdUk2dl9nd0hXeExqZUdHc0kxdHBybGZPYVlxRHFvZFAzZzJTckR5ME14V3BwR05jVTZQZ0EtQ3ZnVVJUdGNDM2ZLNjNYUGtwcFUxZDNUYkxkc2VlUkk1V3lyRkJYN2NKT3RRS3hyb05WeFA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 04:00:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVElfUzlXRGREazNkS3pjSlFTdUk2dl9nd0hXeExqZUdHc0kxdHBybGZPYVlxRHFvZFAzZzJTckR5ME14V3BwR05jVTZQZ0EtQ3ZnVVJUdGNDM2ZLNjNYUGtwcFUxZDNUYkxkc2VlUkk1V3lyRkJYN2NKT3RRS3hyb05WeFA?oc=5\" target=\"_blank\">Iran’s new order takes shape after Khamenei burial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Iran war windfall puts Big Oil on collision course with Trump - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 04:00:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5\" target=\"_blank\">Iran war windfall puts Big Oil on collision course with Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Bonnie Tyler, singer, 1951-2026 - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVW9iWENnVnR3eFFndjBfYnFjejRKQjRHT1I1c2M0bHZxNTdhNnFjSjBnNnllQWZ2QndvaDZ2NGxyRWpOUG9IZ011SHdSWDNxN1hiR01nMG5wUVpsMGtKSS1uN3BqdnJhdXZnNG9tTWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 10:19:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVW9iWENnVnR3eFFndjBfYnFjejRKQjRHT1I1c2M0bHZxNTdhNnFjSjBnNnllQWZ2QndvaDZ2NGxyRWpOUG9IZ011SHdSWDNxN1hiR01nMG5wUVpsMGtKSS1uN3BqdnJhdXZnNG9tTWU?oc=5\" target=\"_blank\">Bonnie Tyler, singer, 1951-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Trump fires Election Assistance Commission members ahead of midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRlUlhpcnZIaHhYTndHeHVSQXFCNFkyOEItb1hCU1NRRXI2YVNGcklBNllrdG5nYnA4ZWtHRDZQaUFmSVYzZ3JoMndRVnhuY25jQ01GR2lFTHJmUkxGZFhxRVA1U1FtZjJHcGpvd1BFU2JLT3VacXY4Y19kOEVFMHBJWXdHYjNYR3hVSk1CZVBlVWdhSlhHTWdpNDBOWWtBTVl1V1hnMlhGSUVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 10 Jul 2026 00:39:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRlUlhpcnZIaHhYTndHeHVSQXFCNFkyOEItb1hCU1NRRXI2YVNGcklBNllrdG5nYnA4ZWtHRDZQaUFmSVYzZ3JoMndRVnhuY25jQ01GR2lFTHJmUkxGZFhxRVA1U1FtZjJHcGpvd1BFU2JLT3VacXY4Y19kOEVFMHBJWXdHYjNYR3hVSk1CZVBlVWdhSlhHTWdpNDBOWWtBTVl1V1hnMlhGSUVJ?oc=5\" target=\"_blank\">Trump fires Election Assistance Commission members ahead of midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Fri, 10 Jul 2026 01:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5\" target=\"_blank\">Oil edges lower, but heads for weekly gain as Middle East supply risks persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Global EV demand rises again as Europe offsets China, U.S. weakness - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVdqZFp1NW1Ga0VNcjVLdGRPdC1hbFpkSnp3Q0wtdG1VbnVEWE9rbHFQSUZuNks2WGp2d2lvd2xyRWc5NE1uUWdLTElyZkZNVDJ4UWZ3MUV3alZ4NVNveEdOUWVlXzJoNDFXRENPdV9sYUc1RWpkSjJDcjQzTmhaRmJQcE95cVpQVDdQWFJnN2xfdkprOGFnel9YVG1vUHJSMlN3cjJsam5lZjB2U1pETDNEaWt4Mm5EUVlja2w2eU1GekZKUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 23:05:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVdqZFp1NW1Ga0VNcjVLdGRPdC1hbFpkSnp3Q0wtdG1VbnVEWE9rbHFQSUZuNks2WGp2d2lvd2xyRWc5NE1uUWdLTElyZkZNVDJ4UWZ3MUV3alZ4NVNveEdOUWVlXzJoNDFXRENPdV9sYUc1RWpkSjJDcjQzTmhaRmJQcE95cVpQVDdQWFJnN2xfdkprOGFnel9YVG1vUHJSMlN3cjJsam5lZjB2U1pETDNEaWt4Mm5EUVlja2w2eU1GekZKUEE?oc=5\" target=\"_blank\">Global EV demand rises again as Europe offsets China, U.S. weakness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQxckEzYndFZjluM1NJVDZjN0l6QVdqQ0xLX0JwQ0E5bmVkY0J2UGZMWWd2Q2JYUllPUk4tUUpFeFZFUEx0VlU2TUlyUU9la3JfREZoRDh5NEFGLVdRVjRFQmZIT0ZaYmZmdUZ6NndvTG5MM0VNRnhhb0VRcW1ITG5Rd2pmM0lSNWw1Y1J5Tk9OZFA5aDZ3WmdaaEhRVFN1LURLMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 22:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQxckEzYndFZjluM1NJVDZjN0l6QVdqQ0xLX0JwQ0E5bmVkY0J2UGZMWWd2Q2JYUllPUk4tUUpFeFZFUEx0VlU2TUlyUU9la3JfREZoRDh5NEFGLVdRVjRFQmZIT0ZaYmZmdUZ6NndvTG5MM0VNRnhhb0VRcW1ITG5Rd2pmM0lSNWw1Y1J5Tk9OZFA5aDZ3WmdaaEhRVFN1LURLMg?oc=5\" target=\"_blank\">Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Coinbase's top attorney who has led crypto's Washington fight to step down - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0llYzhKbzUtZmhmNDV6SHMzQXFiYS1PTWxXVHcyOXhDODFjU0U4OFA5MW43SG1KMlVsSjJiWlBYSVphVHhWYjBERTUybXdnTzdHdkp3b3FuVDVxRlZKQWc3Zk9ESGQ2S2xLVUpweWVvTFROOUNZek4tdFhOMjJZUnhiZEk1WmVCODZtVjFOQUZnQTVwRjlOM25sdWhZMTg3SE9JMlBEUG5McU5DazAzVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Thu, 09 Jul 2026 22:12:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0llYzhKbzUtZmhmNDV6SHMzQXFiYS1PTWxXVHcyOXhDODFjU0U4OFA5MW43SG1KMlVsSjJiWlBYSVphVHhWYjBERTUybXdnTzdHdkp3b3FuVDVxRlZKQWc3Zk9ESGQ2S2xLVUpweWVvTFROOUNZek4tdFhOMjJZUnhiZEk1WmVCODZtVjFOQUZnQTVwRjlOM25sdWhZMTg3SE9JMlBEUG5McU5DazAzVA?oc=5\" target=\"_blank\">Coinbase's top attorney who has led crypto's Washington fight to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
     }
   ]
 }
