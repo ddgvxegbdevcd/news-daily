@@ -1,47 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-07-10 03:51:43
+更新时间：2026-07-10 14:40:30
 
-## Oil Steadies at End of Volatile Week as US and Iran Keep Talking
+## Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10
+链接：https://www.bloomberg.com/news/articles/2026-07-09/gold-steadies-as-traders-weigh-mideast-fighting-rate-outlook
 
 正文长度：0
 
-摘要：Oil steadied at the end of a bumpy week, as talks between the US and Iran continued despite a flare-up in fighting that drove a steep drop in traffic through the Strait of Hormuz.
+摘要：Gold headed for a weekly loss as investors assessed renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation.
 
 
 ---
 
-## MiniMax Joins China AI Fundraising Rush With $2 Billion Deal
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond
-
-正文长度：0
-
-摘要：MiniMax Group Inc. is joining a rush by Chinese technology companies to tap markets for funding aimed at the artificial intelligence buildout, looking to raise as much as $2 billion from selling new shares and convertible bonds.
-
-
----
-
-## Yuan Gains as PBOC Sets Fix Below 6.8 for First Time Since 2023
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-10/pboc-sets-fixing-below-6-8-per-dollar-for-first-time-since-2023-mre95kva
-
-正文长度：0
-
-摘要：The yuan advanced after China’s central bank signaled its comfort with the currency’s strength by setting the daily reference rate below 6.80 per dollar for the first time since 2023.
-
-
----
-
-## Stocks Extend Gains on Tech Rally, Yen Strengthens: Markets Wrap
+## Stocks Waver Before Earnings as SK Hynix to Debut: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +23,109 @@
 
 正文长度：0
 
-摘要：Stocks gained on the last trading day of the week as investors returned to semiconductor shares on renewed optimism over AI-driven demand, brushing aside the latest flare-up in Middle East tensions. The yen strengthened.
+摘要：A rally that drove stocks to a striking distance of their record highs wavered in the countdown to the earnings season, with traders also getting ready for SK Hynix Inc.’s debut after a blockbuster share sale.
 
 
 ---
 
-## Strategists Diverge on Long-Term Yen Trend After Katayama Speech
+## Cencosud Shares Dive as Strategic Plan Yet to Boost Earnings
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-10/strategists-see-boost-to-japanese-assets-after-katayama-comments
+链接：https://www.bloomberg.com/news/articles/2026-07-10/cencosud-shares-tumble-as-strategic-plan-yet-to-boost-earnings
 
 正文长度：0
 
-摘要：Some strategists see a boost to assets, while others were sceptical of a sustained rally, following Finance Minister Satsuki Katayama’s comments Friday encouraging pension funds, including the massive Government Pension Investment Fund, to increase investment in domestic financial assets. Here’s what strategists are saying:
+摘要：More than a year into a new strategic plan at Chile’s Cencosud SA, the retailer’s shares have slumped and the company is asking investors for patience.
+
+
+---
+
+## SK Hynix Indicated to Climb 21% After $26.5 Billion ADR Offering
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering
+
+正文长度：0
+
+摘要：SK Hynix Inc.’s American depositary receipts are indicated to open 21% above their offering price, after the South Korean memory chipmaker raised $26.5 billion in the largest-ever US listing by a foreign company.
+
+
+---
+
+## Morgan Stanley Sees Pressure Rising on Chipmakers’ Pricing Power
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-10/morgan-stanley-sees-pressure-rising-on-chipmakers-pricing-power
+
+正文长度：0
+
+摘要：Morgan Stanley’s Lisa Shalett urged investors to be cautious on chipmakers as evidence mounts that their pricing power is limited, suggesting that the stocks may have rallied too far on optimism around artificial-intelligence spending.
+
+
+---
+
+## Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html
+
+正文长度：2952
+
+摘要：Delta is the first of the U.S. airlines to report second-quarter results.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Delta Air Lines' profit goal is in reach this year as the carrier passes along higher fuel costs to customers, pricing power CEO Ed Bastian expects to last even as oil prices drop from multiyear highs.
+"I think it's sustainable," Bastian told CNBC in an interview. He said fares will likely stay strong thanks to robust demand, more diverse seat options, and a more disciplined airline industry that's learned from the past and isn't likely to expand capacity as soon oil falls.
+Delta on Friday forecast third-quarter per-share earnings of between $2.00 and $2.50, compared with analysts' estimates of $2.02 a share for the period. The company also projected revenue would be up in the mid-teens compared with the July-through-September period of 2025. For the full-year, the carrier reaffirmed its January per-share earnings forecast of between $6.50 and $7.50.
+Here's what Delta reported for the second quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
+- Earnings per share: $1.56 adjusted vs. $1.48 expected
+- Revenue: $17.67 billion adjusted vs. $17.53 billion expected
+Bastian said demand is strong across the board, noting that Delta, the most profitable U.S. airline, caters to higher-income customers in the K-shaped economy.
+Indeed, its premium seat sales outpaced the back of the plane in coach. Its premium tickets like first class brought in $6.92 billion in revenue for the quarter, while the main cabin reported $6.85 billion in revenue.
+Bastian said World Cup demand was stronger than expected, including from inbound visitors to the U.S. In an earnings release, the airline also said corporate travel rose in the second quarter, with the aerospace and defense, banking, and automotive sectors leading growth.
+Carriers have scaled back growth plans and pruned unprofitable flights after this year's record run-up in fuel, and airfares have surged. According to the latest federal data, May airfare was up nearly 27% compared with last year, though executives say they still haven't passed the entirety of the higher fuel bill on to consumers. Bastian said Delta was passing along about 60% to consumers, and that should get to close to 100% this quarter.
+Delta's second-quarter revenue per available seat mile, a measure of how much an airline is bringing in for each seat it flies, was up 17% from a year earlier, though its cost-per-available seat mile rose 21%. (Delta has other revenue streams including cargo, a maintenance business and its fuel refinery.)
+Delta's net income dropped 25% in the second quarter from a year earlier to $1.6 billion, or $2.44 a share, though operating revenue was up 19% from the 2025 period to $19.76 billion. Adjusting for one-time items including third-party refinery sales, Delta posted earnings of $1.03 billion, or $1.56 a share.
+Delta's refinery was also a bright spot, with revenue in the Trainer, Pennsylvania, facility surging 83% to $2.09 billion.
+
+</details>
+
+
+---
+
+## Private chef salaries reach $300,000 as the rich seek their own Michelin stars
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/10/private-chef-salaries.html
+
+正文长度：3250
+
+摘要：Demand for chefs, personal assistants, butlers, nannies, housekeepers, chauffeurs and estate managers have reached records, according to Morgan & Mallet.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Private chefs are making up to $300,000 a year, and butlers can earn as much as $180,000 as the wealthy hire more household staff to manage their increasingly complex lives, according to a new study.
+Demand for chefs, personal assistants, butlers, nannies, housekeepers, chauffeurs and estate managers have reached records as the wealthy buy more homes in various locations and manage ever-growing families, according to a report from Morgan & Mallet International. The hiring boom has created a war for talent, driving up salaries and increasing job-hopping by household staff.
+"Many clients are surprised by the rising cost of household services," the report said. "The reality is that securing quality staff with proven experience has become increasingly difficult, pushing wages for the best candidates to record highs globally."
+House managers have the fastest-rising salary among household staff, driven by the growing real estate portfolios of the rich and shrinking pool of good candidates, according to Laurine Mallet, co-founder of Morgan & Mallet.
+The market for private chefs is especially hot. In the U.S., private chefs can now earn between $100,000 and $300,000, according to the report. Ultra-wealthy families increasingly want to hire Michelin-starred chefs to cook for them at home so they can avoid the crowds and public attention of top restaurants, the report said. Celebrity chefs command the highest premiums, while chefs trained in special diets – like celiac-safe cooking – can also "name their price," the report said.
+Nannies who speak three languages and have experience caring for children with special needs are also in especially high demand. Traveling nannies are coveted but rare, with some making up to $163,000 in the United Arab Emirates, according to the report.
+In the U.S., the most requested position from employers is personal assistants. Executive assistants and personal assistants can earn up to $250,000 a year, Morgan & Mallet found.
+Privacy, discretion and tech skills are now core hiring requirements, according to the report. In Los Angeles, 77% of personal assistants hired required nondisclosure agreements. Strict bans on social media are now common for all household staff positions.
+In the past, household staff would often work for the same employer for decades. Now, the average tenure with an employer is three years, according to the report. With the wealthy increasingly moving between homes and gaining residencies in multiple countries, they want Western passport-ready staff.
+Skilled estate managers are becoming especially difficult to find, since they are often required to manage more than three properties in multiple countries and legal frameworks, according to the report. In the U.S., household managers can now make between $150,000 and $250,000, it found.
+Butlers, once portrayed as buttoned-up, silver tray-carrying domestics, now manage complex staff, technology, security and logistics across multiple properties. Their salaries can be as high as $180,000.
+"Clients want efficient service with less formality," the report said. "Discretion, confidentiality, and trustworthiness are the most important qualities. Adaptability, flexibility, and strong people skills matter too."
+
+</details>
 
 
 ---
@@ -155,200 +218,132 @@ One-quarter of all sales were all-cash, down from 29% last year. First-time buye
 
 ---
 
-## PepsiCo earnings miss estimates as U.S. consumers tighten their budgets
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html
-
-正文长度：3077
-
-摘要：PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> PepsiCo on Thursday reported mixed quarterly results as the struggles of its North American food and beverage divisions offset strong international demand.
-"Results were tempered in the quarter as U.S. food and beverage category performance moderated with consumer budgets tightening due to rising inflationary pressures," CEO Ramon Laguarta said in prepared remarks shared on the company's website on Thursday.
-During Pepsi's second quarter, global oil prices swung dramatically due to the U.S. war with Iran. In the U.S., the national average gas price hit a four-year high of $4.56 per gallon in late May, leading many shoppers to watch their spending.
-Shares of Pepsi were down more than 4% in morning trading.
-Here's what the company reported for the quarter ended June 13 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $2.20 adjusted vs. $2.21 expected
-- Revenue: $24.18 billion vs. $23.95 billion expected
-Pepsi reported second-quarter net income attributable to the company of $2.98 billion, or $2.18 per share, up from $1.26 billion, or 92 cents per share, a year earlier.
-Excluding restructuring and impairment charges and other items, the company earned $2.20 per share.
-Net sales rose 6.4% to $24.18 billion. Organic revenue, which excludes acquisitions, divestitures and foreign currency, increased 2.4% in the quarter.
-Globally, volume for Pepsi's food increased 3%, while volume for its beverages rose 2%. The metric excludes pricing and foreign exchange fluctuations to reflect demand more accurately.
-But Pepsi's volume growth came from its international markets. Demand was much weaker domestically. Its North American food business reported flat volume for the quarter, and its North American beverage division saw volume drop 4%.
-"I think the consumer is worse than what we had anticipated, and it's driven mainly by gas prices," Laguarta said on the company's earnings conference call.
-Demand was particularly weak at convenience stores.
-"We need to see some improvement in the in the convenience and gas channel, and hopefully we'll get some tailwinds from gas prices to do that," CFO Steve Schmitt said.
-Over the last two years, both North American segments have seen weaker demand as a result of higher prices. In February, Pepsi cut prices on Lay's, Tostitos, Doritos and Cheetos by as much as 15% to try to win back shoppers. The company has also been "restaging" some of its iconic brands, like Gatorade and Lay's, with fresh branding to boost their sales.
-Pepsi expects that its North American volumes will recover, but that will take time, particularly after this quarter's setback.
-"Our North America business was softer than we anticipated in the second quarter, and we now expect a more gradual improvement in performance trends for the balance of this year," Schmitt said in his prepared remarks.
-For the full year, Pepsi reiterated its prior forecast that organic revenue will rise between 2% and 4% and core constant currency earnings per share will increase in a range of 4% to 6%.
-
-</details>
-
-
----
-
-## Levi Strauss beats quarterly expectations, raises guidance and dividend
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html
-
-正文长度：1885
-
-摘要：Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Levi Strauss beat Wall Street's quarterly expectations on the top and bottom lines on Wednesday, leading the retailer to increase its guidance and its dividend.
-The denim maker is now expecting full-year adjusted earnings per share to be between $1.46 and $1.52, up from a prior range of between $1.42 and $1.48. At the high end, that's ahead of expectations of $1.50 per share, according to LSEG.
-Levi also raised its top-line outlook and is now expecting full-year sales to rise between 7% and 7.5%, compared with a prior range of between 5.5% and 6.5%. That's ahead of expectations of 6.6%, according to LSEG. About half of that growth is expected to come from higher prices and the other half is expected to come from unit sales, said finance chief Harmit Singh.
-Here's how Levi did in its second fiscal quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
-- Earnings per share: 28 cents adjusted vs. 24 cents expected
-- Revenue: $1.56 billion vs. $1.52 billion expected
-Despite the results, Levi's shares dropped more than 5% in extended trading.
-The company's reported net income for the three-month period that ended May 31 was $87.3 million, or 22 cents per share, compared with $67 million, or 17 cents per share, a year earlier.
-Sales rose to $1.56 billion, up about 8% from $1.45 billion a year earlier.
-In an interview with CNBC, CEO Michelle Gass said the company's core consumer is proving to be resilient — even in the face of higher gas prices. She said about two-thirds of the quarter's sales growth came from units — not just higher prices — giving the company the confidence to raise guidance and its dividend.
-"Our demand remains healthy," Gass said. "We're seeing strength across our key segments of consumers, so we have our core Levi's, but we're also seeing strength in signature, as well as our new premium blue tab."
-
-</details>
-
-
----
-
-## SK Hynix raises $26.5bn in US market debut - Financial Times
+## UBS helped trigger exodus from Blue Owl private credit fund - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2dTN0FYOVQzYUZiNHRkb1Y5SlJheWVBRzVOSklEMWdVa1N6VmV0NFJsTlJnNVlvQUsteEJpemMtWDJkSVZaU0FKYnJFYTJ6NHBGLTVSYjgxWlZJdHlMc0RqLWFTQlU0aVdfRUxjaE5WcGxUUUU2YUx3LTl2dVo4V2N1amE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSURHUWxCSEx0WXUtUlRVZm0xX0JQX1BtcGZTei1TcUFmUVc2aXk2WlMyVEFfZXZBWXdvc1NXZ19DX1ZfN0lQc0RCN0Fvd2laYldlRE51aWFseWozb2xFZzdpWWxPdWlLRUJRX0phSms1VmRmdDBEUzJjWEIyMnBTN2tILWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2dTN0FYOVQzYUZiNHRkb1Y5SlJheWVBRzVOSklEMWdVa1N6VmV0NFJsTlJnNVlvQUsteEJpemMtWDJkSVZaU0FKYnJFYTJ6NHBGLTVSYjgxWlZJdHlMc0RqLWFTQlU0aVdfRUxjaE5WcGxUUUU2YUx3LTl2dVo4V2N1amE?oc=5" target="_blank">SK Hynix raises $26.5bn in US market debut</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSURHUWxCSEx0WXUtUlRVZm0xX0JQX1BtcGZTei1TcUFmUVc2aXk2WlMyVEFfZXZBWXdvc1NXZ19DX1ZfN0lQc0RCN0Fvd2laYldlRE51aWFseWozb2xFZzdpWWxPdWlLRUJRX0phSms1VmRmdDBEUzJjWEIyMnBTN2tILWQ?oc=5" target="_blank">UBS helped trigger exodus from Blue Owl private credit fund</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## How Ukraine’s drones brought war home to 50mn Russians - Financial Times
+## IEA warns of petrol and diesel supply crunch - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWNSMzlmLVpYUFpMYkRDVG1ERWVxRHRfdU8tWmlBZFFqdk01ajhnYzRFd3phZXRIYW13Q0R5dmZrVDRiYVFQVy02cTEzc2dYSG94WUVqSHltRnJEOVljYkJZYkxJUzU2LXgtWHkwWC1SRFdsbFY4LUZPbUVRVXdHZzNCbng?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ROVWVBbHVzOW0wQXJ2aDdIZHlPWlFubF9tblpaSzhOWFR2VEdvakc0X0dKeWhFVXI1Ty11dnFZdVRBMEJvMzJtcDdDamVfY2dPTnhOU0ZDbHQ2MEpHR2hpNnhMWkk3bVpKM0pnZXB4d0JQTDBVT042aWpuRjlITnI3Rzc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWNSMzlmLVpYUFpMYkRDVG1ERWVxRHRfdU8tWmlBZFFqdk01ajhnYzRFd3phZXRIYW13Q0R5dmZrVDRiYVFQVy02cTEzc2dYSG94WUVqSHltRnJEOVljYkJZYkxJUzU2LXgtWHkwWC1SRFdsbFY4LUZPbUVRVXdHZzNCbng?oc=5" target="_blank">How Ukraine’s drones brought war home to 50mn Russians</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ROVWVBbHVzOW0wQXJ2aDdIZHlPWlFubF9tblpaSzhOWFR2VEdvakc0X0dKeWhFVXI1Ty11dnFZdVRBMEJvMzJtcDdDamVfY2dPTnhOU0ZDbHQ2MEpHR2hpNnhMWkk3bVpKM0pnZXB4d0JQTDBVT042aWpuRjlITnI3Rzc?oc=5" target="_blank">IEA warns of petrol and diesel supply crunch</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran’s new order takes shape after Khamenei burial - Financial Times
+## OpenAI and Google sell AI models to blacklisted China groups - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVElfUzlXRGREazNkS3pjSlFTdUk2dl9nd0hXeExqZUdHc0kxdHBybGZPYVlxRHFvZFAzZzJTckR5ME14V3BwR05jVTZQZ0EtQ3ZnVVJUdGNDM2ZLNjNYUGtwcFUxZDNUYkxkc2VlUkk1V3lyRkJYN2NKT3RRS3hyb05WeFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVElfUzlXRGREazNkS3pjSlFTdUk2dl9nd0hXeExqZUdHc0kxdHBybGZPYVlxRHFvZFAzZzJTckR5ME14V3BwR05jVTZQZ0EtQ3ZnVVJUdGNDM2ZLNjNYUGtwcFUxZDNUYkxkc2VlUkk1V3lyRkJYN2NKT3RRS3hyb05WeFA?oc=5" target="_blank">Iran’s new order takes shape after Khamenei burial</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5" target="_blank">OpenAI and Google sell AI models to blacklisted China groups</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran war windfall puts Big Oil on collision course with Trump - Financial Times
+## Why AI could be a financial ‘sludge’ buster - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjU2ZHoxWFItQ0dPN3g3eVRGQ1NYaVRZNXY0a2t5SFNMTFRXaEhsNDljOHhDS1VvdW1UZEM2Y1oyNGNuWXl0dkJ2M01tT1BGNERJek9IOG5La2FwUHVzcEF6Q1duTDhIWHBqa29QeExha0J1UnUzM3phUlY5Zm1rTjNwUl8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVd6RVFlU1ZfQTNfYTFmQk5ITXhZS1E4anVCTTNlSEtDWkpPQ0R3bGFkdmJGbGFjUkM4S05oOVhyRTVyNjIwU2Z0SGlFa0hNYkdJU0MwMTh2VllQemU5U2s5ckVyWXlMWmxfaGhZbkN3WmVETTFfWjZUclpYRW1pdW5hX2g?oc=5" target="_blank">Iran war windfall puts Big Oil on collision course with Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjU2ZHoxWFItQ0dPN3g3eVRGQ1NYaVRZNXY0a2t5SFNMTFRXaEhsNDljOHhDS1VvdW1UZEM2Y1oyNGNuWXl0dkJ2M01tT1BGNERJek9IOG5La2FwUHVzcEF6Q1duTDhIWHBqa29QeExha0J1UnUzM3phUlY5Zm1rTjNwUl8?oc=5" target="_blank">Why AI could be a financial ‘sludge’ buster</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bonnie Tyler, singer, 1951-2026 - Financial Times
+## Tencent leads deal to unwind Meta’s $2bn Manus acquisition - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVW9iWENnVnR3eFFndjBfYnFjejRKQjRHT1I1c2M0bHZxNTdhNnFjSjBnNnllQWZ2QndvaDZ2NGxyRWpOUG9IZ011SHdSWDNxN1hiR01nMG5wUVpsMGtKSS1uN3BqdnJhdXZnNG9tTWU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVW9iWENnVnR3eFFndjBfYnFjejRKQjRHT1I1c2M0bHZxNTdhNnFjSjBnNnllQWZ2QndvaDZ2NGxyRWpOUG9IZ011SHdSWDNxN1hiR01nMG5wUVpsMGtKSS1uN3BqdnJhdXZnNG9tTWU?oc=5" target="_blank">Bonnie Tyler, singer, 1951-2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5" target="_blank">Tencent leads deal to unwind Meta’s $2bn Manus acquisition</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump fires Election Assistance Commission members ahead of midterms - Reuters
+## Trump says he will not sign bipartisan housing bill - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRlUlhpcnZIaHhYTndHeHVSQXFCNFkyOEItb1hCU1NRRXI2YVNGcklBNllrdG5nYnA4ZWtHRDZQaUFmSVYzZ3JoMndRVnhuY25jQ01GR2lFTHJmUkxGZFhxRVA1U1FtZjJHcGpvd1BFU2JLT3VacXY4Y19kOEVFMHBJWXdHYjNYR3hVSk1CZVBlVWdhSlhHTWdpNDBOWWtBTVl1V1hnMlhGSUVJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWtlTzFxYmlQaXNaZDN0U0NKdEhQbGoxTVBXRERicFc2UmpPcElFbU1jYXlUYXY4UWdzb1ZQbHBfaTJCbTNGb3hobkNzZzF0djRNLTdZbkRnbXNKcTJ0RzFaWTFYdGNXbE02MnNEaHQxS2dsWHpvQTBVRWZYeXQzcHN3VkUzRzZuWGFJalNOTUNMcXk0TGZoUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRlUlhpcnZIaHhYTndHeHVSQXFCNFkyOEItb1hCU1NRRXI2YVNGcklBNllrdG5nYnA4ZWtHRDZQaUFmSVYzZ3JoMndRVnhuY25jQ01GR2lFTHJmUkxGZFhxRVA1U1FtZjJHcGpvd1BFU2JLT3VacXY4Y19kOEVFMHBJWXdHYjNYR3hVSk1CZVBlVWdhSlhHTWdpNDBOWWtBTVl1V1hnMlhGSUVJ?oc=5" target="_blank">Trump fires Election Assistance Commission members ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWtlTzFxYmlQaXNaZDN0U0NKdEhQbGoxTVBXRERicFc2UmpPcElFbU1jYXlUYXY4UWdzb1ZQbHBfaTJCbTNGb3hobkNzZzF0djRNLTdZbkRnbXNKcTJ0RzFaWTFYdGNXbE02MnNEaHQxS2dsWHpvQTBVRWZYeXQzcHN3VkUzRzZuWGFJalNOTUNMcXk0TGZoUQ?oc=5" target="_blank">Trump says he will not sign bipartisan housing bill</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters
+## EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3RKMFk3cHFOdURWcDhtd0trdzhsYWhsdjZ5dzBrQUx2Q01KeDVvTnFkODhIZTZKeXVYTUh4MzZKQ1U3NklhSWlRQUJuN0dPNTFLelFZcWY4WGVHWXNuZkxBYlZ6Nk5yQzZVSHNBZjRROHE1d3FpRGNOa194ZUczamtzdVdlQnFDUHkwb0t4bXlyWnZTWUwwcWs2OVVXQUVETndjRXJaaTJERnd4MXlUWVNpUkhwV1pQeEFZTXJRdkQ4U0ZXRHNr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5" target="_blank">Oil edges lower, but heads for weekly gain as Middle East supply risks persist</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3RKMFk3cHFOdURWcDhtd0trdzhsYWhsdjZ5dzBrQUx2Q01KeDVvTnFkODhIZTZKeXVYTUh4MzZKQ1U3NklhSWlRQUJuN0dPNTFLelFZcWY4WGVHWXNuZkxBYlZ6Nk5yQzZVSHNBZjRROHE1d3FpRGNOa194ZUczamtzdVdlQnFDUHkwb0t4bXlyWnZTWUwwcWs2OVVXQUVETndjRXJaaTJERnd4MXlUWVNpUkhwV1pQeEFZTXJRdkQ4U0ZXRHNr?oc=5" target="_blank">EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Global EV demand rises again as Europe offsets China, U.S. weakness - Reuters
+## Spanish wildfire victims burned in cars as roads turned into death traps - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVdqZFp1NW1Ga0VNcjVLdGRPdC1hbFpkSnp3Q0wtdG1VbnVEWE9rbHFQSUZuNks2WGp2d2lvd2xyRWc5NE1uUWdLTElyZkZNVDJ4UWZ3MUV3alZ4NVNveEdOUWVlXzJoNDFXRENPdV9sYUc1RWpkSjJDcjQzTmhaRmJQcE95cVpQVDdQWFJnN2xfdkprOGFnel9YVG1vUHJSMlN3cjJsam5lZjB2U1pETDNEaWt4Mm5EUVlja2w2eU1GekZKUEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVpBNlNLY2VxQzcxbUlDUVpvdFlQNTB6V2g5OWtDZmd5WVQ1RGhUbE1RZ0FnTjFaWm1fZzdiWGF4UDZfSkJoSWlldk1LR0dtdkwzZGg2V0VrR1RXdEdlamhYcEZ6elloeGx2dmNPUnhRNU5XUE9ZYVRITzZwdDgwRUJGd3F6aUx0U3ZaMmIxLUhocVlHY2htZXJzZlJOVWh4MDA2Wm93RXpoRnVEemx5cUNwaWt6QWM0QUQ3T0JqTUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVdqZFp1NW1Ga0VNcjVLdGRPdC1hbFpkSnp3Q0wtdG1VbnVEWE9rbHFQSUZuNks2WGp2d2lvd2xyRWc5NE1uUWdLTElyZkZNVDJ4UWZ3MUV3alZ4NVNveEdOUWVlXzJoNDFXRENPdV9sYUc1RWpkSjJDcjQzTmhaRmJQcE95cVpQVDdQWFJnN2xfdkprOGFnel9YVG1vUHJSMlN3cjJsam5lZjB2U1pETDNEaWt4Mm5EUVlja2w2eU1GekZKUEE?oc=5" target="_blank">Global EV demand rises again as Europe offsets China, U.S. weakness</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVpBNlNLY2VxQzcxbUlDUVpvdFlQNTB6V2g5OWtDZmd5WVQ1RGhUbE1RZ0FnTjFaWm1fZzdiWGF4UDZfSkJoSWlldk1LR0dtdkwzZGg2V0VrR1RXdEdlamhYcEZ6elloeGx2dmNPUnhRNU5XUE9ZYVRITzZwdDgwRUJGd3F6aUx0U3ZaMmIxLUhocVlHY2htZXJzZlJOVWh4MDA2Wm93RXpoRnVEemx5cUNwaWt6QWM0QUQ3T0JqTUw?oc=5" target="_blank">Spanish wildfire victims burned in cars as roads turned into death traps</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals - Reuters
+## Ryanair passenger partially sucked out of plane before emergency landing in Greece - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQxckEzYndFZjluM1NJVDZjN0l6QVdqQ0xLX0JwQ0E5bmVkY0J2UGZMWWd2Q2JYUllPUk4tUUpFeFZFUEx0VlU2TUlyUU9la3JfREZoRDh5NEFGLVdRVjRFQmZIT0ZaYmZmdUZ6NndvTG5MM0VNRnhhb0VRcW1ITG5Rd2pmM0lSNWw1Y1J5Tk9OZFA5aDZ3WmdaaEhRVFN1LURLMg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2NnOTJ5bVBUbE04OEtRMEpIdzhLVTQ0ZUJtQy1HZXozLUNDT3RRR09KTTZEX1YtNGNnSDhiTTZmUlA3UVM2MjREenUzU2NnOS1JZ0ZxWlloSVNwZjhMTjdpd0lBaEJsSi0yQXJEd3BkdmJCTzU2RDhDRTJpLTZ5TDVIYnhOMzFqbEsybXlXeGY1dG01RHRpVUxWMEs4WF9HREdsYktxRDIyR3ZFUzRmRk9n?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQxckEzYndFZjluM1NJVDZjN0l6QVdqQ0xLX0JwQ0E5bmVkY0J2UGZMWWd2Q2JYUllPUk4tUUpFeFZFUEx0VlU2TUlyUU9la3JfREZoRDh5NEFGLVdRVjRFQmZIT0ZaYmZmdUZ6NndvTG5MM0VNRnhhb0VRcW1ITG5Rd2pmM0lSNWw1Y1J5Tk9OZFA5aDZ3WmdaaEhRVFN1LURLMg?oc=5" target="_blank">Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2NnOTJ5bVBUbE04OEtRMEpIdzhLVTQ0ZUJtQy1HZXozLUNDT3RRR09KTTZEX1YtNGNnSDhiTTZmUlA3UVM2MjREenUzU2NnOS1JZ0ZxWlloSVNwZjhMTjdpd0lBaEJsSi0yQXJEd3BkdmJCTzU2RDhDRTJpLTZ5TDVIYnhOMzFqbEsybXlXeGY1dG01RHRpVUxWMEs4WF9HREdsYktxRDIyR3ZFUzRmRk9n?oc=5" target="_blank">Ryanair passenger partially sucked out of plane before emergency landing in Greece</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Coinbase's top attorney who has led crypto's Washington fight to step down - Reuters
+## Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0llYzhKbzUtZmhmNDV6SHMzQXFiYS1PTWxXVHcyOXhDODFjU0U4OFA5MW43SG1KMlVsSjJiWlBYSVphVHhWYjBERTUybXdnTzdHdkp3b3FuVDVxRlZKQWc3Zk9ESGQ2S2xLVUpweWVvTFROOUNZek4tdFhOMjJZUnhiZEk1WmVCODZtVjFOQUZnQTVwRjlOM25sdWhZMTg3SE9JMlBEUG5McU5DazAzVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEthVDdGM0cyb0p2am5ackVQbkFKckJRWXhDdGsxM2t5UFFhOGpMdkZEcUg0Z2NmWnR2X01OU3JaZGFteXF1SE5rTXFxU1JJWEF1MEdoSXRScFkzQTBhbzh6ZXRzRnZqakRjaWd6bldQeUdIR1V0TmItZnN4azViYnl4WTBMVi0xTmU0R3dXMll1bTJvbm0xd0VQQXEtSXYtc2EwSC02eDdfNmVvOUJj?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0llYzhKbzUtZmhmNDV6SHMzQXFiYS1PTWxXVHcyOXhDODFjU0U4OFA5MW43SG1KMlVsSjJiWlBYSVphVHhWYjBERTUybXdnTzdHdkp3b3FuVDVxRlZKQWc3Zk9ESGQ2S2xLVUpweWVvTFROOUNZek4tdFhOMjJZUnhiZEk1WmVCODZtVjFOQUZnQTVwRjlOM25sdWhZMTg3SE9JMlBEUG5McU5DazAzVA?oc=5" target="_blank">Coinbase's top attorney who has led crypto's Washington fight to step down</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEthVDdGM0cyb0p2am5ackVQbkFKckJRWXhDdGsxM2t5UFFhOGpMdkZEcUg0Z2NmWnR2X01OU3JaZGFteXF1SE5rTXFxU1JJWEF1MEdoSXRScFkzQTBhbzh6ZXRzRnZqakRjaWd6bldQeUdIR1V0TmItZnN4azViYnl4WTBMVi0xTmU0R3dXMll1bTJvbm0xd0VQQXEtSXYtc2EwSC02eDdfNmVvOUJj?oc=5" target="_blank">Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
