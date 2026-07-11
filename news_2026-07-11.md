@@ -1,68 +1,141 @@
 # 每日财经新闻
 
-更新时间：2026-07-11 03:18:14
+更新时间：2026-07-11 13:39:17
 
-## India, NZ Plan Strategic Partnership Including Maritime Security
+## Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security
+链接：https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test
 
 正文长度：0
 
-摘要：India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.
+摘要：Wall Street is anticipating a near-record earnings season, but for investors a key question remains: Will it be enough to keep stock market bulls running?
 
 
 ---
 
-## SK Hynix Rises After Record US Offering | The Close 7/10/2026
+## The World’s First Trillionaire and the Company He Won’t Let Go
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video
+链接：https://www.bloomberg.com/news/newsletters/2026-07-11/the-world-s-first-trillionaire-and-the-company-he-won-t-let-go
 
 正文长度：0
 
-摘要：Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Winnie Cisar, CreditSights Global Head of Strategy, John Medina, Moody's Ratings SVP, Global Project and Infrastructure Finance, Tom Fitzgerald, TD Cowen VP, Equity Research, Gary Gensler, Former SEC Chair, Jeffrey Sherman, DoubleLine Capital Deputy Chief Investment Officer, Macrae Sykes, Gabelli Funds Portfolio Manager, Chad Mumm, Pro Shop Co-Founder and President, Nora Wittstruck, S&amp;P Global Ratings Chief Analytical Officer for Governments, and Michael Chang, Clear Health CEO. (Source: Bloomberg)
+摘要：Elon Musk made history last month.
 
 
 ---
 
-## MGM Resorts Engaged in Deal Talks With Diller, WSJ Says
+## EasyJet Has Private Equity Firms Going Out of Their Comfort Zone
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says
+链接：https://www.bloomberg.com/news/articles/2026-07-11/easyjet-has-private-equity-firms-going-out-of-their-comfort-zone
 
 正文长度：0
 
-摘要：MGM Resorts International is engaged in deal talks with Barry Diller’s People Inc. after the entertainment mogul offered to acquire the part of the casino company he doesn’t already own, the Wall Street Journal reported.
+摘要：The aviation industry has seen plenty of deals activity in recent years, but the battle between two US funds for EasyJet Plc stands out because the volatile, low-margin airlines business rarely draws financial suitors.
 
 
 ---
 
-## S&P Global: FIFA to Offer Short-Term Economic Boost
+## VW CEO Under Pressure as Labor Unions Torpedo Revival Plan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video
+链接：https://www.bloomberg.com/news/articles/2026-07-11/vw-ceo-under-pressure-as-labor-unions-torpedo-turnaround-plan
 
 正文长度：0
 
-摘要：Nora Wittstruck, Chief Analytical Officer for Governments at S&amp;P Global, joined Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close' to provide insights on FIFA's financial position during the 2026 World Cup. She highlights how FIFA has emerged financially stronger despite facing numerous controversies during the tournament. (Source: Bloomberg)
+摘要：Volkswagen AG Chief Executive Officer Oliver Blume is facing an uphill battle to push through a fundamental overhaul of Europe’s biggest carmaker after failing to win initial backing from the supervisory board.
 
 
 ---
 
-## Pro Shop's Chad Mumm on 'Full Swing,' Golf in 2026
+## China Tells Refiners to Keep Fuel Output High as Iran War Drags
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-10/pro-shop-s-chad-mumm-on-full-swing-golf-in-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-07-11/china-tells-refiners-to-keep-fuel-output-high-as-iran-war-drags
 
 正文长度：0
 
-摘要：Chad Mumm, Co-Founder of Pro Shop and Producer of the Netflix series 'Full Swing,' talks about the world's number-one ranked golfer, Scottie Scheffler, missing the cut at the Scottish Open. He also discusses golf's surge in popularity and the anticipation for the upcoming season of 'Full Swing.' Mumm joins Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close.' (Source: Bloomberg)
+摘要：China instructed some major refiners to keep fuel production high, according to people familiar with the matter, in an effort to protect domestic consumers as strikes in the Persian Gulf once again threaten oil shipments.
+
+
+---
+
+## A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html
+
+正文长度：12911
+
+摘要：Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Losing weight with GLP-1 drugs is only half the battle. Keeping it off long term has proved even harder.
+Factors such as side effects, high out-of-pocket costs, injection fatigue and stigma around obesity treatment drive troves of patients – some studies estimate roughly half or more – to stop GLP-1s within a year and risk regaining the weight they lost.
+Years from now, Vivani Medical believes a tiny GLP-1 implant placed under the skin could help address that problem.
+The biotech company is in the early stages of developing an experimental implant of semaglutide, the active ingredient in Novo Nordisk's blockbuster obesity injection Wegovy and diabetes counterpart Ozempic. The Danish pharma giant announced on Tuesday a new agreement with Vivani to evaluate its lead semaglutide implant, NPM-139.
+Vivani envisions patients would initially use it as a maintenance treatment rather than a therapy people take when they start GLP-1s. Under that approach, patients would first reach an appropriate dose of semaglutide using existing injections or pills, then potentially switch to the implant for longer-term treatment.
+If everything goes to plan, Vivani believes the device could eventually serve as a convenient option administered just twice a year — or even once annually — to help patients stay on therapy and maintain weight loss, while potentially reducing some side effects associated with existing GLP-1 medicines.
+"It's really critical to have options that make it easy for people to get the full benefits of these treatments and to not discontinue at the rates we're seeing," Vivani President and CEO Adam Mendelsohn said in an interview. "What these drugs are capable of is not being carefully taken advantage of right now."
+But the implant is still at least several years out from living up to that promise.
+The device needs to clear several clinical trials and regulatory hurdles before reaching patients. Some endocrinologists and other doctors said there could be demand for an implant, but they also want to see concrete data on how effective it will be compared with existing medicines and how well patients will tolerate it. They also raised questions about whether providers would be willing to adopt it.
+"I really want to see that this is going to work well and deliver results for patients, but I also want to see that it's something that my patients can stay on long term," Dr. Miranda Stiewig-Rapp, director of UC Davis Health's Obesity Clinic, said in an interview. "I'm probably overall very skeptical, but I'm happy to be proven wrong."
+The potential cost of the implant and whether insurers would cover it if approved also remain unclear. That makes it difficult to estimate what the implant's sales could be in a GLP-1 market that some analysts expect could exceed $100 billion by the early 2030s.
+In a statement to CNBC, Novo Nordisk confirmed the agreement with Vivani and said it is focused on complementing its internal research and development efforts with external innovation.
+How the GLP-1 implant works
+Vivani's long-acting semaglutide implant is essentially a tiny titanium reservoir filled with a certain dose of the medicine. The company intends to develop implants that deliver different dosages of semaglutide, allowing a patient and their doctor to select which one is best to switch to after an injection or a pill.
+What makes the implant unique is a "specialized membrane" at one end of the device that contains millions of microscopic channels, or "straws," through which drug molecules can leave the implant and enter the body, Mendelsohn said. He said those channels are designed to release semaglutide at a slow, steady rate over several months, which Vivani says could help reduce fluctuations in drug levels that can occur with periodic dosing of injections.
+If a patient's weight loss is stable on a 2.4-milligram weekly dose of Wegovy, Vivani anticipates that they can receive an implant that provides continuous dosing of semaglutide at roughly that same dosage per week, Mendelsohn said.
+Unlike some implants that rely on pumps or other mechanical components, Vivani's device has no moving parts. Instead, the membrane itself controls the flow of medicine into the body, Mendelsohn added.
+He said the approach could lead to more consistent drug levels and improve how well patients tolerate semaglutide, reducing some of its common side effects such as nausea and vomiting. That remains to be proven in clinical studies.
+Mendelsohn added that patients could choose to have the implant removed at any time, after which drug exposure would decline relatively quickly. A patient can replace their implant with another at a higher or lower dosage level if needed, and it may be feasible to add more than one implant in the body, he said.
+On the patient level, Mendelsohn compared the device to Nexplanon, a widely used contraceptive implant. The procedure would take a few minutes in a doctor's office using local anesthesia, with the implant inserted under the skin of the upper arm or possibly other areas like the abdomen.
+"The idea is to try to time the implant insertion with when patients are going to see their physicians anyway, and then tack on just a few minutes to do that procedure," Mendelsohn said. "That way, in between appointments, no one has to think about or worry about that person getting the medicine that they need."
+The version of the device that Vivani is currently developing would need to be removed and replaced every six months, though the company ultimately hopes to bring to market an implant that lasts a full year.
+How it could tackle the biggest issue with GLP-1s
+Doctors say it is far too early to judge the implant without human clinical data. But if the device proves safe and comes with fewer side effects than existing options, some see an opportunity for it to address one of the biggest challenges in obesity treatment: helping patients stay on therapy and maintain their weight loss over time.
+Many patients need to remain on GLP-1 medicines long term to sustain weight loss and preserve other health benefits, including lower cardiovascular risks.
+"The next wave of science, and it's already being done, is to answer the fundamental question of number one: How do we maintain the weight reduction? And number two: what are the benefits that are achieved when you do that?" said Dr. Harold Bays, chief science officer of the Obesity Medicine Association.
+While some patients may stay on a high GLP-1 dose indefinitely and others may eventually stop treatment and maintain their weight loss through nutrition and lifestyle changes, many will likely need different strategies over time, Bays said.
+Researchers are already exploring approaches such as lowering doses, taking medicines less frequently (like monthly or quarterly), or switching from injections to pills. A long-acting implant that patients don't have to think about day-to-day could become another option if it's approved.
+The device could be a good fit for patients who experience "injection fatigue" or struggle to remember daily pills, among other reasons people stop taking GLP-1s, said Dr. Amy Sheer, an assistant professor of medicine at the University of Florida.
+"It sounds extremely exciting, and I think for a lot of people this could be a game changer," she said.
+Implants for contraception are already a popular option used by roughly 5% or more of women in the U.S., according to recent estimates, which some doctors say is not trivial.
+Vivani argues that helping patients stay on treatment could also generate savings for the health-care system by reducing the risk of costly conditions linked to obesity. The company has not determined how much the implant could cost if it reaches the market, but Mendelsohn said he expects it to be less expensive than shots, in part because patients may need only one or two implants per year instead of dozens of weekly auto-injector pens.
+"We certainly are hopeful that payers will see us as a preferred approach, because they won't have to worry about the person not continuing to get the health benefits that would lead to economic value," he said.
+The questions and concerns doctors have
+For Vivani's implant to live up to those hopes, it will need to prove safe, effective and tolerable in human studies. Doctors say it is far too early to know whether it can clear those hurdles.
+Some physicians also question how many patients will be comfortable with an implant in the first place. Stiewig-Rapp of UC Davis said some people already feel squeamish about devices such as Nexplanon that they can feel under their skin, meaning Vivani's implant will likely appeal to a specific subset of patients.
+The in-office procedure involved with the implant could also make it difficult to access for patients who rely on telehealth platforms, such as companies like Ro and Hims & Hers, to obtain their GLP-1s, said Dr. Amy Rothberg, a clinical professor of medicine at the University of Michigan.
+More in-person appointments, procedural support and implant-related costs could add expenses for insurers and the broader healthcare system, she said. It is also unclear whether health plans would be willing to cover a GLP-1 implant, given the uneven coverage of existing obesity treatments.
+Rothberg called the implant a "reasonable option," but said the procedure could be resource intensive and a "big learning curve" for doctors practicing obesity medicine.
+While certain doctors, particularly those in other specialties, are comfortable inserting implants, some endocrinologists and other physicians may require training on the procedure, billing requirements and how to manage complications if a device is inserted incorrectly.
+"The procedure is not technically difficult, but it's going to require another whole skill set of individuals who don't usually do this to put these implants in, and then sort of do them every six months or every year," Rothberg said. "It may be a select number of providers who are willing to take on the training."
+For example, Rothberg said she noticed few providers appeared to adopt a continuous glucose monitoring system called EverSense, which is implanted in the upper arm just once a year.
+Some doctors said their prescribing decisions could also depend on how effective the implant proves to be relative to existing treatments, which remains unclear at this stage.
+Vivani last year said pre-clinical data on the semaglutide implant in rats showed roughly 20% weight loss for over 6 months, with the potential for annual dosing. Those results have not yet been replicated in humans. By comparison, Novo Nordisk's Wegovy has demonstrated average weight loss of about 15% over 68 weeks and up to nearly 28% in some patients using a newly approved higher dose.
+While Vivani said implants can be removed and replaced at any point with a higher or lower dose, Rothberg said those added procedures could still be a burden for patients and providers.
+Side effects, long-term tolerability and whether patients ultimately choose to remain on the implant are among the questions doctors say future clinical trials will need to answer.
+What the next steps are
+Vivani still has a long road ahead before its implant could reach patients, but the company recently cleared an important milestone.
+In June, Vivani said it received approval from an Australian human research ethics committee to begin SLIM-1, the first human clinical trial of its semaglutide implant. The phase one study is expected to begin in mid-2026 and will enroll about 20 overweight or obese adults who have not previously taken GLP-1 medicines.
+Participants will be randomized to receive either the implant or a low-dose weekly Wegovy injection over four weeks. The primary goal of the study is to evaluate the implant's safety, tolerability and pharmacokinetic profile, or how the drug is absorbed and released in the body over time. Researchers will also measure weight loss.
+If the results are positive, Vivani plans to quickly move into a phase two study, known as SLIM-2, that would test different implant doses and evaluate their effects on weight loss. That trial would help determine the optimal dose to advance into larger late-stage studies required for regulatory approval.
+Mendelsohn noted that the agreement with Novo is not a licensing deal, but said it's a "good validation for where we are and where this product could ultimately end up."
+For now, doctors say several important questions remain unanswered, but also acknowledge the potential of the treatment.
+"This could be another tool that we'll have in our toolbox," said Eduardo Grunvald, medical director of the UC San Diego Health Center for Advanced Weight Management. "In this field, we like to talk about really individualizing treatment for a single patient, so there's going to be some patients that may really want this option."
+
+</details>
 
 
 ---
@@ -188,162 +261,132 @@ Goldman's outsourced chief investment officer business had about $480 billion in
 
 ---
 
-## June home sales disappoint as prices reach an all-time high
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/09/june-home-sales-prices.html
-
-正文长度：2377
-
-摘要：Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> High mortgage rates coupled with record-high prices are causing homebuyers to pull back.
-Sales of previously owned homes in June dropped 2.4% from May to 4.09 million units on a seasonally adjusted, annualized basis, according to the National Association of Realtors. Housing analysts were predicting a slight gain month over month.
-June sales were, however, 2.8% higher than the same month a year prior.
-"The back-and-forth in monthly home sales activity, driven by mild fluctuations in mortgage rates, shows how sensitive home buyers are to affordability conditions," said Lawrence Yun, the Realtors' chief economist, in a release. "However, job gains—more than half a million since the beginning of the year—will continue to provide support for the housing market."
-This count represents closed sales, so contracts that were likely signed in May, when the average rate on the 30-year fixed mortgage was still moving higher. It began rising sharply at the start of March at the beginning of the Iran war.
-Inventory at the end of June was 1.56 million units, down 0.6% from May but 1.3% higher than June 2025. At the current sales pace, that represents a 4.6-month supply. The market is considered balanced between buyer and seller at a six-month supply.
-With the market still lean, prices continue to rise. The median price of an existing home sold in June was $440,600, an increase of 1.8% from the year before and the highest on record. June is usually the strongest month for both sales and prices.
-"Progress on long-term housing affordability could be hampered if inventory growth continues to stall. Without consistent gains in inventory, home prices can accelerate. It is critical to introduce more supply to the market to widen the opportunity for homeownership," Yun said.
-Sales continue to be strongest on the higher end of the market. Sales of homes priced below $100,000 were down 1.7% from a year ago, and sales of those priced between $100,000 and $250,000 were up less than 1%. Meanwhile sales of homes priced between $750,000 and $1 million were up nearly 14% from the year before, and sales of homes priced above $1 million were up 18%.
-Regionally, home sales were down in June month over month everywhere except in the Northeast.
-One-quarter of all sales were all-cash, down from 29% last year. First-time buyers made up 33% of sales, up from 30% a year ago.
-
-</details>
-
-
----
-
-## Shein wins Chinese approval for long-awaited IPO - Financial Times
+## Europe’s slow electrification is a ‘major mistake’, warns IEA chief - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONFNnWGVTbERmY0xYc1hPa2t6ZlJ0Yl85aGRDMDR0c1h0VE1UTFpqcUx6alR2bzROY01QRzMydFZxdkNSS3YwaXNSZ1FPNENxTG1QQldwOFhrTWxIcHBXM1A4SUs5N3VsalIyTWE2bWNoWk1fbzJtdE9mTE0zVzhsbV9WNFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0VTaVpuRllsVS1KeEFRbjlIUkVmOElEektyY1lKdXRfOXZIdlNsU3M5aGRJTWN3Ri1wNjUwRllUbHo0Vi01ajlCN29vU243Nm5zYzlpOGFBNE5yUW9mRkR2aTU5TDJIRTBUbGlCU0h6aUxEMW1xUEdKQ01kbE5uZTlGc0c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONFNnWGVTbERmY0xYc1hPa2t6ZlJ0Yl85aGRDMDR0c1h0VE1UTFpqcUx6alR2bzROY01QRzMydFZxdkNSS3YwaXNSZ1FPNENxTG1QQldwOFhrTWxIcHBXM1A4SUs5N3VsalIyTWE2bWNoWk1fbzJtdE9mTE0zVzhsbV9WNFU?oc=5" target="_blank">Shein wins Chinese approval for long-awaited IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0VTaVpuRllsVS1KeEFRbjlIUkVmOElEektyY1lKdXRfOXZIdlNsU3M5aGRJTWN3Ri1wNjUwRllUbHo0Vi01ajlCN29vU243Nm5zYzlpOGFBNE5yUW9mRkR2aTU5TDJIRTBUbGlCU0h6aUxEMW1xUEdKQ01kbE5uZTlGc0c?oc=5" target="_blank">Europe’s slow electrification is a ‘major mistake’, warns IEA chief</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## UBS helped trigger exodus from Blue Owl private credit fund - Financial Times
+## US relaxes export controls on advanced chips and drones for UAE - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSURHUWxCSEx0WXUtUlRVZm0xX0JQX1BtcGZTei1TcUFmUVc2aXk2WlMyVEFfZXZBWXdvc1NXZ19DX1ZfN0lQc0RCN0Fvd2laYldlRE51aWFseWozb2xFZzdpWWxPdWlLRUJRX0phSms1VmRmdDBEUzJjWEIyMnBTN2tILWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNemxfTmxXVHcyQ0hjbkdKdlJUc3F6NG1ZbDBkc3FaZzJSRERqNjZVOXVrSDJ1aWZTcUVoRVV6Rm56WDJLcVh5aGYyVEdpZkJrSTFUcFdwanlRYU5SSHFaLVgzT05KYXpmMjVMX3ktYnVhbTdkTkt3aDJmMkxYYjJPQlRRUEs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSURHUWxCSEx0WXUtUlRVZm0xX0JQX1BtcGZTei1TcUFmUVc2aXk2WlMyVEFfZXZBWXdvc1NXZ19DX1ZfN0lQc0RCN0Fvd2laYldlRE51aWFseWozb2xFZzdpWWxPdWlLRUJRX0phSms1VmRmdDBEUzJjWEIyMnBTN2tILWQ?oc=5" target="_blank">UBS helped trigger exodus from Blue Owl private credit fund</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNemxfTmxXVHcyQ0hjbkdKdlJUc3F6NG1ZbDBkc3FaZzJSRERqNjZVOXVrSDJ1aWZTcUVoRVV6Rm56WDJLcVh5aGYyVEdpZkJrSTFUcFdwanlRYU5SSHFaLVgzT05KYXpmMjVMX3ktYnVhbTdkTkt3aDJmMkxYYjJPQlRRUEs?oc=5" target="_blank">US relaxes export controls on advanced chips and drones for UAE</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tencent leads deal to unwind Meta’s $2bn Manus acquisition - Financial Times
+## Jeff Bezos-backed fusion start-up to become first to go public - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFk3SmlIVkR0SFk1M1RTSHZGUVdPSmNPWkFSejh6c2U1MXZ2UUJIVGJCdkYzeG1QS0pXQ0JJR1dULThlVGpia25kOElmcmVJTlBONEt5a0NDLWxvdFhIQ0E2bm9MOTFxU1RRYjF2bG5ialRmVUJQX0lXTV9CenlTSGp4bzI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5" target="_blank">Tencent leads deal to unwind Meta’s $2bn Manus acquisition</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFk3SmlIVkR0SFk1M1RTSHZGUVdPSmNPWkFSejh6c2U1MXZ2UUJIVGJCdkYzeG1QS0pXQ0JJR1dULThlVGpia25kOElmcmVJTlBONEt5a0NDLWxvdFhIQ0E2bm9MOTFxU1RRYjF2bG5ialRmVUJQX0lXTV9CenlTSGp4bzI?oc=5" target="_blank">Jeff Bezos-backed fusion start-up to become first to go public</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI and Google sell AI models to blacklisted China groups - Financial Times
+## Iran is seeing through Trump’s bluff - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTlFbGFweXhuUWNHQmoxYTN1TG5EYWhZd21aeWxGUnozMVV4MDhFNURwenBmbXByZlNrZFhpc3ZQRlZQdEdiZTU4aU9BUHk2UVlUS1EwSHFpTjBCc0ZkVktlazVoWUR1UTFjSFBoeVpJZVo2NFRHZExFNGc1QXF2ZDFYVGY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5" target="_blank">OpenAI and Google sell AI models to blacklisted China groups</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTlFbGFweXhuUWNHQmoxYTN1TG5EYWhZd21aeWxGUnozMVV4MDhFNURwenBmbXByZlNrZFhpc3ZQRlZQdEdiZTU4aU9BUHk2UVlUS1EwSHFpTjBCc0ZkVktlazVoWUR1UTFjSFBoeVpJZVo2NFRHZExFNGc1QXF2ZDFYVGY?oc=5" target="_blank">Iran is seeing through Trump’s bluff</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## IEA warns of petrol and diesel supply crunch - Financial Times
+## Classicist Emily Wilson: ‘Odysseus is a different kind of conman’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ROVWVBbHVzOW0wQXJ2aDdIZHlPWlFubF9tblpaSzhOWFR2VEdvakc0X0dKeWhFVXI1Ty11dnFZdVRBMEJvMzJtcDdDamVfY2dPTnhOU0ZDbHQ2MEpHR2hpNnhMWkk3bVpKM0pnZXB4d0JQTDBVT042aWpuRjlITnI3Rzc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcG9MWjJmbXFoUGJkVjU1NV8yMHoxQTNtd1l3eDlXYU1rZUIxVkJoUUpyLUZNLW1DYnhJSXZqWWxtY3pvbHBISjRxSEJ5R2xBdmxlSG5UdDRCRmxJSThtTTNkM3IzbHdxZ3JPV3gtSE9RcmxmQVM4MFVYV211VGN1ZEp3NDY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ROVWVBbHVzOW0wQXJ2aDdIZHlPWlFubF9tblpaSzhOWFR2VEdvakc0X0dKeWhFVXI1Ty11dnFZdVRBMEJvMzJtcDdDamVfY2dPTnhOU0ZDbHQ2MEpHR2hpNnhMWkk3bVpKM0pnZXB4d0JQTDBVT042aWpuRjlITnI3Rzc?oc=5" target="_blank">IEA warns of petrol and diesel supply crunch</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcG9MWjJmbXFoUGJkVjU1NV8yMHoxQTNtd1l3eDlXYU1rZUIxVkJoUUpyLUZNLW1DYnhJSXZqWWxtY3pvbHBISjRxSEJ5R2xBdmxlSG5UdDRCRmxJSThtTTNkM3IzbHdxZ3JPV3gtSE9RcmxmQVM4MFVYV211VGN1ZEp3NDY?oc=5" target="_blank">Classicist Emily Wilson: ‘Odysseus is a different kind of conman’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Meta scraps AI image feature days after launch following privacy backlash - Reuters
+## US Democrat Ro Khanna detained by Israeli settlers during West Bank visit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5" target="_blank">Meta scraps AI image feature days after launch following privacy backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5" target="_blank">US Democrat Ro Khanna detained by Israeli settlers during West Bank visit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US acting spy chief announces new round of staff reductions - Reuters
+## Iran's Supreme Leader pledges revenge for slain father and predecessor - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWt4X2tEMzNSbGRoMzctVXA3LXJjWWl6RGZjb3BCRU9jeHNySDFYanRQYXV4U2Fod1FyQWlIXzBVWHhrdVRiTkJMWURXR3R4TVQ3RGZleHo2UzRDcEM2X1NBOG1IenRFcTNkR1FOT0w4dlRmemVYZXRldzVJa0ZhVW1LZkVGdjUxUEt5d1JtMWl5ZG9oOXo5OVVyMThsQlox?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWt4X2tEMzNSbGRoMzctVXA3LXJjWWl6RGZjb3BCRU9jeHNySDFYanRQYXV4U2Fod1FyQWlIXzBVWHhrdVRiTkJMWURXR3R4TVQ3RGZleHo2UzRDcEM2X1NBOG1IenRFcTNkR1FOT0w4dlRmemVYZXRldzVJa0ZhVW1LZkVGdjUxUEt5d1JtMWl5ZG9oOXo5OVVyMThsQlox?oc=5" target="_blank">US acting spy chief announces new round of staff reductions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5" target="_blank">Iran's Supreme Leader pledges revenge for slain father and predecessor</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Apple sues OpenAI, two former employees for trade secrets theft - Reuters
+## Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPT25HMDQ5OF9SczNrMlBVaHlMNC1CbzMtWjZRNmNldnc0VE13dGRGSWFIc3dMWFUzMWFQR3h0c2ZrTDlEMFdZdmpZR1RBeFNOWGdYZWhBbFBkOWVjZWhLNEhRamlyNTJxRl9wYnpRYl8yN1g2b2tBZWNPSlhpdmt3Q1hyQ3NSZ2Rzc3lkZnA4dDdsN0tSd25HVHV2Y1VGMkV4ajBQeHVpbHhZbnFUYXhrNkpPQVNHNjUzYVIzUURlelJKU2NQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5" target="_blank">Apple sues OpenAI, two former employees for trade secrets theft</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPT25HMDQ5OF9SczNrMlBVaHlMNC1CbzMtWjZRNmNldnc0VE13dGRGSWFIc3dMWFUzMWFQR3h0c2ZrTDlEMFdZdmpZR1RBeFNOWGdYZWhBbFBkOWVjZWhLNEhRamlyNTJxRl9wYnpRYl8yN1g2b2tBZWNPSlhpdmt3Q1hyQ3NSZ2Rzc3lkZnA4dDdsN0tSd25HVHV2Y1VGMkV4ajBQeHVpbHhZbnFUYXhrNkpPQVNHNjUzYVIzUURlelJKU2NQ?oc=5" target="_blank">Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters
+## Businessman who sold land for Kushner resort in Albania suspected of faking the deeds - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5" target="_blank">US insists Iran commit to stopping attacks in Hormuz strait, say US officials</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5" target="_blank">Businessman who sold land for Kushner resort in Albania suspected of faking the deeds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US, Canada strike deal on tolls to let new bridge open on July 27 - Reuters
+## U.S. seeks Iranian pledge to free up Strait of Hormuz - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkZfRDdJT3hXYjd6dEEyaTZ6RlFQdm1rMndyUzFjWUcyRnNXbzhyMDVka1ZFUjhEV29SVWNvdGU2TlJ6SDFVMFcyQnJqOVFhcGE2RnMzcFJib2wwRk1FZVZ2LWR0Z1FjZ2s0bDhBT3EwMG4zWGROODFuZV8xSXV1MEVzTjcwNjhWZGhSSDFHTVdfWmN3Wk5rT2ZmS3doYzZUeHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkZfRDdJT3hXYjd6dEEyaTZ6RlFQdm1rMndyUzFjWUcyRnNXbzhyMDVka1ZFUjhEV29SVWNvdGU2TlJ6SDFVMFcyQnJqOVFhcGE2RnMzcFJib2wwRk1FZVZ2LWR0Z1FjZ2s0bDhBT3EwMG4zWGROODFuZV8xSXV1MEVzTjcwNjhWZGhSSDFHTVdfWmN3Wk5rT2ZmS3doYzZUeHc?oc=5" target="_blank">US, Canada strike deal on tolls to let new bridge open on July 27</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5" target="_blank">U.S. seeks Iranian pledge to free up Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
