@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-07-12 03:29:52
+更新时间：2026-07-12 13:39:27
 
-## Typhoon Bavi Weakens as Heavy Rain Spreads Across China
+## Funds Fret Over $4.4 Trillion AI Trio’s Grip on Emerging Markets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china
+链接：https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets
 
 正文长度：0
 
-摘要：China’s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.
+摘要：Investors are rotating beyond AI winners in emerging markets, where just three technology stocks worth $4.4 trillion drive an outsized share of returns.
 
 
 ---
 
-## Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever
+## How Founder Control Is Reshaping Public Markets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever
+链接：https://www.bloomberg.com/news/videos/2026-07-12/how-founder-control-is-reshaping-public-markets-video
 
 正文长度：0
 
-摘要：South Korea’s blistering stock rally has left investors facing an unlikely backdrop: equities trading at record-low valuations.
+摘要：SpaceX’s record-setting IPO gave public investors access to one of the world’s most valuable companies, but not equal voting rights. CEO Elon Musk holds just over 40% of the company’s equity while controlling more than 80% of the vote. IPO adviser Lise Buyer says dual-class shares can protect founders from short-term market pressure, but Harvard Law School’s Lucian Bebchuk warns that SpaceX’s structure goes much further, raising risks around accountability, succession, conflicts of interest, and shareholder value. Some investors, including Danish pension fund AkademikerPension, have already rejected the stock over what they call “catastrophic governance,” turning SpaceX into a test case for how much control public markets are willing to give superstar founders. (Source: Bloomberg)
 
 
 ---
 
-## Modi Courts Pacific Partners as China, US Reshape Region
+## World Cup Bets on Prediction Markets May Get Tax Edge Over Gambling
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-11/modi-courts-indo-pacific-partners-as-china-us-reshape-region
+链接：https://www.bloomberg.com/news/articles/2026-07-12/world-cup-betting-tax-rules-differ-for-prediction-markets-sportsbooks
 
 正文长度：0
 
-摘要：From missiles and uranium to critical minerals and sports diplomacy, Prime Minister Narendra Modi used a three-nation tour to deepen India’s Indo-Pacific partnerships as regional powers strengthen ties amid China’s growing influence and uncertainty over US engagement.
+摘要：Americans using prediction markets to bet on the World Cup may face a lighter tax burden than peers wagering through sportsbooks thanks to tax breaks aimed at investments.
 
 
 ---
 
-## Warsh and US Inflation Will Set Tone for July Fed Decision
+## Hormuz Reopening Faces Costly Hurdles
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision
+链接：https://www.bloomberg.com/news/videos/2026-07-11/hormuz-reopening-faces-costly-hurdles-video
 
 正文长度：0
 
-摘要：Kevin Warsh is about to make his first appearance before Congress as Federal Reserve chairman, and during two days of testimony he’ll have new US inflation data to parse with lawmakers.
+摘要：Senior Fellow at the Council on Foreign Relations Clara Gillispie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair damage to refineries, LNG facilities and ports. She says the Strait of Hormuz remains unstable, with shipping still below prewar levels and US pressure on Iran complicating efforts to restore safe passage. (Source: Bloomberg)
 
 
 ---
 
-## Banks’ Record Bond Short Sparks Quest for Answers
+## Hormuz Reopening Faces Costly Hurdles
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-07-12/hormuz-reopening-faces-costly-hurdles-video
 
 正文长度：0
 
-摘要：For the first time in recent history, primary dealers have gone net short on debt they used to hold billions of dollars of.
+摘要：Senior Fellow at the Council on Foreign Relations Clara Gillispie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair damage to refineries, LNG facilities and ports. She says the Strait of Hormuz remains unstable, with shipping still below prewar levels and US pressure on Iran complicating efforts to restore safe passage. (Source: Bloomberg)
 
 
 ---
@@ -261,6 +261,45 @@ Goldman's outsourced chief investment officer business had about $480 billion in
 
 ---
 
+## Big Tech to face fines for consumer protection failures, says EU official - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThnbXdxV21VN3VrR0wtczNZcGFGd0ZZUWpudUZHTXc2U0VWNkVxTkpFc3pVd2diak9QU1FoeU1PNGVYQlZSWW1TTmRhb2hrTFhTUDhaNFFadmR6UDkxZzJpUzlRS0Y2anJjQ3dONjdBaWhYTkdzNzVZTXFUcnd1YUVjRmo?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThnbXdxV21VN3VrR0wtczNZcGFGd0ZZUWpudUZHTXc2U0VWNkVxTkpFc3pVd2diak9QU1FoeU1PNGVYQlZSWW1TTmRhb2hrTFhTUDhaNFFadmR6UDkxZzJpUzlRS0Y2anJjQ3dONjdBaWhYTkdzNzVZTXFUcnd1YUVjRmo?oc=5" target="_blank">Big Tech to face fines for consumer protection failures, says EU official</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Quantum is exciting, but watch out for the Schrödinger’s cat bounce - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDBFQ1FhSmV1dVdIdE1VQ0V0c0plSTkzXzRhTUdidEVaTEJCTG80VVVSbFgyLWFnUHJZVGZHWHhOT1k0XzhFUG5JUHZZbW5xcy1aaFQ1SEptMllzemp2dExlMnZaejF0VGNLU0pqQnBkUGdlc0ZpLWNLdTNUWWNjQ3R5M1E?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDBFQ1FhSmV1dVdIdE1VQ0V0c0plSTkzXzRhTUdidEVaTEJCTG80VVVSbFgyLWFnUHJZVGZHWHhOT1k0XzhFUG5JUHZZbW5xcy1aaFQ1SEptMllzemp2dExlMnZaejF0VGNLU0pqQnBkUGdlc0ZpLWNLdTNUWWNjQ3R5M1E?oc=5" target="_blank">Quantum is exciting, but watch out for the Schrödinger’s cat bounce</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US states push to repurpose abandoned oil wells - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5YbTd2VHFrdE1FM1dtd25tOTdBenpjSnNkQVNfdUQtbTRGUlp2Q3gxbHZ1YmxKYXVUNnBOZXo1YmJwOWVSeWhWc2NPYTNaRDFKdk96MEo2XzVfZmF0QmVhdGhOSlJiSVRZSUVBREUzNU8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5YbTd2VHFrdE1FM1dtd25tOTdBenpjSnNkQVNfdUQtbTRGUlp2Q3gxbHZ1YmxKYXVUNnBOZXo1YmJwOWVSeWhWc2NPYTNaRDFKdk96MEo2XzVfZmF0QmVhdGhOSlJiSVRZSUVBREUzNU8?oc=5" target="_blank">US states push to repurpose abandoned oil wells</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Europe’s slow electrification is a ‘major mistake’, warns IEA chief - Financial Times
 
 来源：金融时报
@@ -274,119 +313,80 @@ Goldman's outsourced chief investment officer business had about $480 billion in
 
 ---
 
-## Jeff Bezos-backed fusion start-up to become first to go public - Financial Times
+## Who cleans up after the vibe-coding party? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFk3SmlIVkR0SFk1M1RTSHZGUVdPSmNPWkFSejh6c2U1MXZ2UUJIVGJCdkYzeG1QS0pXQ0JJR1dULThlVGpia25kOElmcmVJTlBONEt5a0NDLWxvdFhIQ0E2bm9MOTFxU1RRYjF2bG5ialRmVUJQX0lXTV9CenlTSGp4bzI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk9CWXNEajNGUTBTS2dNM0ZGMFVRUU1JZndPUC1xSVgta2lUQzBXdG9PV3hLY09YekRfR3ptVy1NMExVallGTHVCNFV5bmxMcHkzZmIzQTE2eThkVTJuUkI0bUgyc190YW5kd0tvalhFRHZuVnltaFk3clcxV1BQS3BzVEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFk3SmlIVkR0SFk1M1RTSHZGUVdPSmNPWkFSejh6c2U1MXZ2UUJIVGJCdkYzeG1QS0pXQ0JJR1dULThlVGpia25kOElmcmVJTlBONEt5a0NDLWxvdFhIQ0E2bm9MOTFxU1RRYjF2bG5ialRmVUJQX0lXTV9CenlTSGp4bzI?oc=5" target="_blank">Jeff Bezos-backed fusion start-up to become first to go public</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk9CWXNEajNGUTBTS2dNM0ZGMFVRUU1JZndPUC1xSVgta2lUQzBXdG9PV3hLY09YekRfR3ptVy1NMExVallGTHVCNFV5bmxMcHkzZmIzQTE2eThkVTJuUkI0bUgyc190YW5kd0tvalhFRHZuVnltaFk3clcxV1BQS3BzVEE?oc=5" target="_blank">Who cleans up after the vibe-coding party?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tropical nights come to Europe - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUU1N1hpaXYyRjgwYTF5UGZOTWkwSE1jR1Q5U3UwYkRoS3oxeW0tNGxEckZPdjZQMXJlTEdJNF9ySzlMX3FuZFNHczNHSTlMVUNkTHozN3JYUjFHWndReXBEUHdSZjV5d2lkTld3T0dfMVo1eG5tb3RQTjQyejZ3bWFkZnU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUU1N1hpaXYyRjgwYTF5UGZOTWkwSE1jR1Q5U3UwYkRoS3oxeW0tNGxEckZPdjZQMXJlTEdJNF9ySzlMX3FuZFNHczNHSTlMVUNkTHozN3JYUjFHWndReXBEUHdSZjV5d2lkTld3T0dfMVo1eG5tb3RQTjQyejZ3bWFkZnU?oc=5" target="_blank">Tropical nights come to Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## What’s really going on with mental health? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJ3QlM3NXYzalpKSmJTRF9LT3VGM1dzbmx1NHpuSU0teWNxdXpwS2xtVWFpUzdOeFRuNFJfOGJVd1hfVTQxYTlRbDVZRzI3eFpUdGNaczZYQ1pzTkxyVTllZUFneFRCS3ZNZV8yTkZsSFNTR3QxUGFMbEo4azBmNGxVcDk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJ3QlM3NXYzalpKSmJTRF9LT3VGM1dzbmx1NHpuSU0teWNxdXpwS2xtVWFpUzdOeFRuNFJfOGJVd1hfVTQxYTlRbDVZRzI3eFpUdGNaczZYQ1pzTkxyVTllZUFneFRCS3ZNZV8yTkZsSFNTR3QxUGFMbEo4azBmNGxVcDk?oc=5" target="_blank">What’s really going on with mental health?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Further increases to UK minimum wage would be risky, warns Low Pay Commission - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEJ3VllpV0U3b054Y0RxYzJxQWw5cWdfQlM3aXdwRkhVTlFPYVBWaEN5VWZuOFgydl9xS3A4WmtkRXVpUF80ZUswLWtpbDRVMDRrMmZlODJISGlvUF9udGtpLTduMFVGLVhfX0JkWGlzVkx1TG81LU5NX0c4cmF2RlhuTFU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEJ3VllpV0U3b054Y0RxYzJxQWw5cWdfQlM3aXdwRkhVTlFPYVBWaEN5VWZuOFgydl9xS3A4WmtkRXVpUF80ZUswLWtpbDRVMDRrMmZlODJISGlvUF9udGtpLTduMFVGLVhfX0JkWGlzVkx1TG81LU5NX0c4cmF2RlhuTFU?oc=5" target="_blank">Further increases to UK minimum wage would be risky, warns Low Pay Commission</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## 5 people shot, 2 dead in Toronto active shooter incident, police say - Reuters
+## Germany funds 50,000 strike drones for Ukraine, source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVZjdFNxd1JWZnNQOTZyU3VuRkF0WU01OWxBVXphQmVXOVFiVlVsUFpUUk9uUEdtSFhXeC1qU1FuTkIzX25rSVUzclc2UVpqdElKeHMxTGJrNVFrUUV5OC01RWs5bXJmVWFmZUJyZUhRTVZOVlRxbnBjQVE2am1GUmJqNWhlTlFKVkl1YXY1b3h3MEw5WjQ2aURnV0JQdGRhNFRjanNYbGY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVZjdFNxd1JWZnNQOTZyU3VuRkF0WU01OWxBVXphQmVXOVFiVlVsUFpUUk9uUEdtSFhXeC1qU1FuTkIzX25rSVUzclc2UVpqdElKeHMxTGJrNVFrUUV5OC01RWs5bXJmVWFmZUJyZUhRTVZOVlRxbnBjQVE2am1GUmJqNWhlTlFKVkl1YXY1b3h3MEw5WjQ2aURnV0JQdGRhNFRjanNYbGY?oc=5" target="_blank">5 people shot, 2 dead in Toronto active shooter incident, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5" target="_blank">Germany funds 50,000 strike drones for Ukraine, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US launches more strikes on Iran after commercial ship struck in Strait of Hormuz - Reuters
+## Ukraine's Zelenskiy says he will replace Prime Minister Svyrydenko - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnhGVVA5VTN4M0liQkZxblJjLVplazZxT3FLTGtrbGp6d2dldFBmX2dkT2M3a0lQNV94enRxaTV6ZUdia2JLTnpzZ3dLdW50aDh2UldEY1ZRemJ3dmFwNTExTFFnOGh0bmtzb1plNm5oeDZkdy1WVjZEMVp5a1JWd19Rb2MydlpNVTFCSnRrRFpVZzFNTHZRaW9kUmJZWU1QaXQxZkxmSExRem1lZ3Zr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5" target="_blank">US launches more strikes on Iran after commercial ship struck in Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnhGVVA5VTN4M0liQkZxblJjLVplazZxT3FLTGtrbGp6d2dldFBmX2dkT2M3a0lQNV94enRxaTV6ZUdia2JLTnpzZ3dLdW50aDh2UldEY1ZRemJ3dmFwNTExTFFnOGh0bmtzb1plNm5oeDZkdy1WVjZEMVp5a1JWd19Rb2MydlpNVTFCSnRrRFpVZzFNTHZRaW9kUmJZWU1QaXQxZkxmSExRem1lZ3Zr?oc=5" target="_blank">Ukraine's Zelenskiy says he will replace Prime Minister Svyrydenko</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Zelenskiy says Ukraine officials will be held accountable for weapons store - Reuters
+## Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPemRJenFZSlg5ZzhseUxkMHlpRnBudHRYT3p6TWJmR2lWQjJ1Y3RSTU9NUkFUZlJZWnl4VFgxVXowSXp4amp0bXZRaHFrR1dsT2Q3VGJOYXhHdlp0NkxrblF4Vl8tc2o1NnpTQ1hWSzllYTRlamhVVjRaNVBXVUF4ZTJUUjg3aENZajBRLVF0Y1hDN1R2Rk1Udk5BMEpvY2p1Y0Q1VHVNenpVWko1ZWtaRnRoYw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1rc0xhYTFPOVc4UmhSS3NVcWxlZ25meVNQZG5VUE9PYU1KdkItN1dwbnNzcVZtcHFrWTJ0enhEVzF4cG9nQlpCeTRlcmM3UXNrc1V3dmtzQkwycHdFRHY0c2NKSjhsUkZ4ZGIyZXFwR2R4bkxxZHdzbTdBR254eVhDb09BZEJVRU1xUWtYR1BiOGk0RjU3cUZVdFhpWm1WQUsxWnFPQVJjLVNSYWxJeHZROEVYRC1rc2IteXBtYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPemRJenFZSlg5ZzhseUxkMHlpRnBudHRYT3p6TWJmR2lWQjJ1Y3RSTU9NUkFUZlJZWnl4VFgxVXowSXp4amp0bXZRaHFrR1dsT2Q3VGJOYXhHdlp0NkxrblF4Vl8tc2o1NnpTQ1hWSzllYTRlamhVVjRaNVBXVUF4ZTJUUjg3aENZajBRLVF0Y1hDN1R2Rk1Udk5BMEpvY2p1Y0Q1VHVNenpVWko1ZWtaRnRoYw?oc=5" target="_blank">Zelenskiy says Ukraine officials will be held accountable for weapons store</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1rc0xhYTFPOVc4UmhSS3NVcWxlZ25meVNQZG5VUE9PYU1KdkItN1dwbnNzcVZtcHFrWTJ0enhEVzF4cG9nQlpCeTRlcmM3UXNrc1V3dmtzQkwycHdFRHY0c2NKSjhsUkZ4ZGIyZXFwR2R4bkxxZHdzbTdBR254eVhDb09BZEJVRU1xUWtYR1BiOGk0RjU3cUZVdFhpWm1WQUsxWnFPQVJjLVNSYWxJeHZROEVYRC1rc2IteXBtYw?oc=5" target="_blank">Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Man arrested on suspicion of murdering former UK minister Ann Widdecombe - Reuters
+## Israeli officials offer their condolences after death of US Senator Lindsey Graham - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktITDI2Rlpab0JIQ0dNb0xkQk1TcS01Y05yT1J0dWE2eUhpbVJwbHU3R0lBWHJIcHBJTFBkcjhlYmpzMXlzZkp5YjdwUFIwekFCM0xZUnhDeHN4Q0RmdjRqQlU0UGlEcklFbTFXbkpPWnlySUlmbmxzSl85U096VmJlTExud1lKekZvcy1PaHNkek52V1Y2U05tWmE4dng0cXE4SUtKdWxtUUJpWmN2Uw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkpCQ1VONEVtbkF1Ym5xeldsQ0RWTXhncGJlMGFUOXFKYjZDanlkOXRfbUJKS2RlMTVES2xRbEx1UGlXdXVRTVlKeDBZSExDQTlpeWdnUEE4bENTTkJSaVUxcHF4b1V2VTg1c1BtaExoQjhRM2VIVkliRzF4S1Vvc2tLamQ4LXkxZHkzdXRhb1RKTzY2d3ZWcGxxNU1xS0VwTW1VLXIybHBPLTlraUxXeU1yaUdYMlFHOTNOS29rV1VELUxsQ1A0clEzdHljQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktITDI2Rlpab0JIQ0dNb0xkQk1TcS01Y05yT1J0dWE2eUhpbVJwbHU3R0lBWHJIcHBJTFBkcjhlYmpzMXlzZkp5YjdwUFIwekFCM0xZUnhDeHN4Q0RmdjRqQlU0UGlEcklFbTFXbkpPWnlySUlmbmxzSl85U096VmJlTExud1lKekZvcy1PaHNkek52V1Y2U05tWmE4dng0cXE4SUtKdWxtUUJpWmN2Uw?oc=5" target="_blank">Man arrested on suspicion of murdering former UK minister Ann Widdecombe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkpCQ1VONEVtbkF1Ym5xeldsQ0RWTXhncGJlMGFUOXFKYjZDanlkOXRfbUJKS2RlMTVES2xRbEx1UGlXdXVRTVlKeDBZSExDQTlpeWdnUEE4bENTTkJSaVUxcHF4b1V2VTg1c1BtaExoQjhRM2VIVkliRzF4S1Vvc2tLamQ4LXkxZHkzdXRhb1RKTzY2d3ZWcGxxNU1xS0VwTW1VLXIybHBPLTlraUxXeU1yaUdYMlFHOTNOS29rV1VELUxsQ1A0clEzdHljQQ?oc=5" target="_blank">Israeli officials offer their condolences after death of US Senator Lindsey Graham</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters
+## Lindsey Graham, pivotal US Republican senator, dies suddenly at 71 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5" target="_blank">Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5" target="_blank">Lindsey Graham, pivotal US Republican senator, dies suddenly at 71</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
