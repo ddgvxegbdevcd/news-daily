@@ -1,60 +1,64 @@
 # 每日财经新闻
 
-更新时间：2026-07-13 03:32:40
+更新时间：2026-07-13 14:47:00
 
-## MiniMax Shares Slump After JPMorgan Cuts Target Price Further
+## Copper Rises as Traders Weigh Demand After US-Iran Strikes
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further
+链接：https://www.bloomberg.com/news/articles/2026-07-13/base-metals-decline-as-us-iran-flare-up-clouds-demand-outlook
 
 正文长度：0
 
-摘要：MiniMax Group Inc.’s shares plunged, after JPMorgan Chase &amp; Co. slashed the Chinese AI model maker’s price target for the second time in less than a week on value dilution concerns caused by fresh fundraising.
+摘要：Copper edged higher as traders weighed the outlook for demand after renewed hostilities between the US and Iran fueled concerns about global economic growth.
 
 
 ---
 
-## Oil Jumps as Conflict Over Hormuz Escalates With Fresh Strikes
+## European Stocks Steady as Energy Gains Offset Tech Weakness
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13
+链接：https://www.bloomberg.com/news/articles/2026-07-13/european-stocks-drop-after-us-iran-strikes-oil-lifts-energy
 
 正文长度：0
 
-摘要：Oil jumped as the US completed another wave of strikes against Iran, with the two sides disputing whether the Strait of Hormuz was open.
+摘要：European stocks were muted as declines in technology shares were offset by gains in the energy sector, which was lifted by higher oil prices.
 
 
 ---
 
-## US Embassy Tells Americans to Avoid Congo Over Ebola After Aid Worker Infected
+## MGM Rises on Takeover Bid; SK Hynix Falls on Memory Pullback | Stock Movers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-13/us-warns-americans-to-avoid-congo-over-ebola-after-aid-worker-infected
+链接：https://www.bloomberg.com/news/videos/2026-07-13/mgm-up-on-takeover-bid-sk-hynix-down-on-memory-pullback-video
 
 正文长度：0
 
-摘要：The US advised its citizens to avoid all travel to the Democratic Republic of Congo because of Ebola after a second American aid worker was infected while responding to the country’s escalating outbreak.
+摘要：On this episode of Stock Movers:
+
+- MGM Resorts International (MGM) shares are rising on a report regarding a potential takeover bid from Barry Diller.
+- SK Hynix (SKHY) shares are lower and other memory stocks are also falling. It is lower over concerns with the sustainability of artificial-intelligence spending. The drop in South Korean trading is likely to cause a hit to the American depositary receipts as well. The debate between the optimists and pessimists will continue, which should create volatility, according to Hendi Susanto, portfolio manager at Gabelli Funds.
+- Agenus (AGEN) shares are moving higher on news of a deal that it's selling up to $3540 million worth of securities. (Source: Bloomberg)
 
 
 ---
 
-## China Expands Strategic Mineral Toolkit With New Investment Firm
+## Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-13/china-expands-strategic-mineral-toolkit-with-new-investment-firm
+链接：https://www.bloomberg.com/news/articles/2026-07-13/treasury-two-year-yield-rises-to-highest-since-2025-on-oil-gain
 
 正文长度：0
 
-摘要：A new, Beijing-backed mining investment vehicle is aimed at bolstering China’s grip on overseas resources, as the country pushes back against US and European efforts to curb its dominance of the mineral supply chain.
+摘要：Short-maturity US Treasury yields climbed to their highest levels since early 2025 as renewed tensions with Iran pushed up oil prices, fanning speculation that the Federal Reserve will need to raise interest rates to combat inflation.
 
 
 ---
 
-## Oil Jumps, Bonds Fall on Renewed Inflation Fears: Markets Wrap
+## Tech Stocks Slide as Oil Climbs on Hormuz Standoff: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +66,83 @@
 
 正文长度：0
 
-摘要：Oil rose and Treasuries fell after the US launched another round of strikes against Iran, reviving concern that higher energy prices will keep inflation elevated and interest rates higher for longer.
+摘要：A selloff in tech giants sent stocks lower, with the market also falling as oil jumped after clashes over the Strait of Hormuz raised concerns about a disruption in energy supplies that could fuel inflation.
+
+
+---
+
+## Paramount-WBD merger expected to face lawsuit from multiple states, sources say
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html
+
+正文长度：2719
+
+摘要：Multiple state attorneys general are expected to file a lawsuit challenging the merger between Paramount Skydance and Warner Bros. Discovery, David Faber reports.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A group of state attorneys general is expected to file a lawsuit as soon as Monday challenging Paramount Skydance's proposed acquisition of Warner Bros. Discovery, CNBC's David Faber reported.
+The lawsuit, which will be brought by a group including California Attorney General Rob Bonta, is expected to try to block the merger on antitrust grounds, Faber reported.
+The deal would combine two storied film studios — Paramount and Warner Bros. — as well as streaming platforms Paramount+ and HBO Max. Paramount CEO David Ellison has previously said the streaming services would become one following the transaction.
+It would also mean the formation of the largest portfolio of TV networks in the U.S., bringing together Paramount's broadcast network CBS and pay TV channels like MTV and BET with WBD's CNN, TNT and others.
+The merger won approval from WBD shareholders in April, and Ellison said on a recent earnings call that it was on track to close by September.
+The deal came under scrutiny from lawmakers in both the U.S. and Europe, including related to foreign funding that was part of Paramount's offer. In mid-June, the U.S. Department of Justice signed off on the tie-up, clearing it of federal antitrust concerns.
+"The Division has completed its analysis of the proposed merger of Paramount and Warner Bros. and determined based on the evidence received in its investigation that the transaction is not likely to result in harm to competition or American consumers," the department said in its determination.
+The merger has also won approval from several global jurisdictions as it moves toward a potential close.
+However, the the European Union is still reviewing the deal for approval , with a new provisional deadline set for July 22. The European Commission said in a public filing this month that Paramount has submitted concessions in a bid to smooth over concerns regarding the deal.
+Hollywood has previously expressed concerns about the combination, citing the likelihood for fewer film releases and the potential for job losses in the industry. Ellison has promised that once combined the film studios would put out a slate of 30 movies per year and has said he's committed to protecting jobs.
+Ellison first set his sights on WBD last September. Just weeks after Paramount and Ellison's Skydance completed its merger, the company made its initial run for WBD, resulting in several bids and a formal sale process.
+WBD ultimately signed a deal to sell its film studio and streaming assets to Netflix. However, Paramount launched a hostile takeover offer and subsequently amended its bid. Netflix ditched its deal, and Paramount walked away with an agreement to buy the entirety of WBD for $31 per share.
+
+</details>
+
+
+---
+
+## Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
+
+正文长度：5044
+
+摘要：Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Expectations are high that when banks start posting second-quarter results Tuesday, led by JPMorgan Chase and Bank of America, revenue from trading equities and fixed income will approach, or even exceed, the records set earlier this year.
+That's a key part of what veteran analyst Mike Mayo of Wells Fargo calls the "sweet spot" in the financial sector right now. Both of banking's profit engines — Wall Street and Main Street — are in growth mode at the same time.
+The largest U.S. banks are raking in rising fees from helping corporations tap the markets, punctuated by last month's giant SpaceX IPO, while risk-taking traders are also thriving as geopolitical unrest including the Iran war stokes volatility across asset classes.
+"You saw the largest IPO in history, a pace of mergers that's on track to be a record year, and a broadening out of trading to include equity and fixed income across myriad geographies," Mayo told CNBC.
+The quarter's big bank earnings come at an unusually favorable moment for the industry. After years of navigating higher interest rates and inflation-fueled recession fears, lenders are benefiting from a rare combination of booming Wall Street activity, resilient consumer credit and a long-awaited pickup in business lending.
+"There's not much more you can ask for," Mayo said.
+The trends, which coincide with the Trump administration's push to ease banking regulations, have helped financial stocks outperform the broader market for two straight years, Mayo noted. That streak also raises the stakes as investors look for signs the momentum can continue into 2027.
+JPMorgan, Bank of America, Citigroup, Wells Fargo and Goldman Sachs are set to post results early Tuesday, with Morgan Stanley reporting Wednesday.
+'Big money maker'
+Investment banking revenue for the group could surge 26% from a year ago, while trading revenue could jump 14%, according to KBW analyst Chris McGratty.
+Besides the hundreds of millions of dollars in fees that SpaceX paid banks — led by Goldman Sachs and Morgan Stanley — for the IPO itself, the firms garnered fees for raising debt for the newly public company, and also have a shot at managing the wealth of newly minted millionaires and billionaires.
+On top of that, Goldman and Morgan Stanley likely reaped so-called soft dollars from the SpaceX initial public offering, according to Jay Ritter, professor emeritus of finance at the University of Florida's Warrington College of Business.
+Soft dollars are essentially fees that hedge funds pay investment banks for a slice of an oversubscribed IPO, Ritter said.
+"The big money maker for investment banks in IPOs is not the bankers' fee, but the ability to allocate shares to hedge funds and some active mutual funds that pay soft dollars," he said.
+Meanwhile, trading gains were driven by strength in equities as stock markets climbed during the quarter, as well as heightened activity in fixed income after the Iran conflict sent oil prices, interest rates and currencies swinging, McGratty said.
+"Banks are doing a good job these days of capturing the upside of volatility, whereas in previous cycles, they've been caught offsides," McGratty said.
+'Demand is back'
+But Mayo contended that the more important development this quarter might be happening away from Wall Street.
+The less glamorous business of commercial lending could be turning the corner after years of weakness as banks look to wrest market share from private credit lenders and as the artificial intelligence-fueled spending boom spreads to the rest of the economy, he said.
+"Demand is back as companies treat the uncertainty as the new normal and build that new factory, invest in plants and get on with business," Mayo said.
+The trend could benefit regional lenders including Fifth Third because commercial lending represents a larger share of their business than it does for diversified giants like JPMorgan, Mayo said.
+Consumer banking also appears healthy. Low unemployment has kept borrowers current on mortgages, auto loans and credit cards, limiting losses.
+There are still some risks for the quarter, including potential blowups in the private credit realm, even though that concern has subsided for most banks in the absence of new "cockroaches" emerging. JPMorgan CEO Jamie Dimon warned analysts and investors last year after the collapse of subprime car lender Tricolor Holdings that "when you see one cockroach, there are probably more."
+Another is whether competition over deposits is intensifying, as some players have been forced to pay higher rates to attract and keep savers' dollars, McGratty said. In an environment where interest rates are steady or rising, that could pressure lender margins.
+After two years of market-beating returns, investors are becoming less interested in how strong the last quarter was than whether this unusually favorable backdrop can last.
+"We know the quarter's going to be strong, so I think the question that you ask yourself is around sustainability, right?" McGratty said. "Is it all sustainable?"
+
+</details>
 
 
 ---
@@ -203,190 +283,132 @@ Butlers, once portrayed as buttoned-up, silver tray-carrying domestics, now mana
 
 ---
 
-## Florida's Palm Beach airport renamed for Trump
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html
-
-正文长度：2328
-
-摘要：Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The airport in West Palm Beach, Florida, has officially been renamed after President Donald Trump, the first time an airport has been named after a sitting U.S. president.
-Effective Thursday, the facility will be called President Donald J. Trump International Airport, the Federal Aviation Administration said.
-The airport — formerly Palm Beach International Airport — said in an FAQ posted online that "updates to signage, branding and public‑facing materials, will occur in phases."
-As part of the transition, the airport's FAA locational identifier will change from PBI to DJT. The International Air Transport Association code change is set to occur on Aug. 18.
-Major U.S. carriers including United Airlines and Delta Air Lines began putting the new airport code DJT on their booking pages on Thursday, though consumers searching for flights can still use the old PBI code to find the airport.
-More than a dozen airlines fly into the facility, including domestic leaders Delta, United, American Airlines and Southwest Airlines.
-The fresh branding comes after Florida Gov. Ron DeSantis signed a bill into law earlier this year to change the name of the airport. The move was later approved by the FAA.
-The name change is estimated to cost $5.5 million, the airport said.
-The state of Florida appropriated $2.75 million toward the project, according to the airport's FAQ, and the remaining costs for the transition will be funded through the local Department of Airports' operating budget and capital improvement program.
-"While we recognize that the required name change may be received in different ways by our passengers, we're grateful for your continued support through this transition period," the airport wrote in the FAQ. "While some things may evolve over time, our core focus remains the same: providing a safe, reliable and welcoming airport experience."
-The airport is near the president's Mar-a-Lago club in Palm Beach, Florida, and he flies in and out of it fairly often.
-The president's son Eric Trump said Trump Force One — the nickname for the private jet owned by the Trump Organization — would be the first plane to land at the newly renamed airport.
-"As a son, and someone who flies out of this airport nearly every day, I will forever be proud to see the initials 'DJT' on my boarding pass," he wrote on X.
-
-</details>
-
-
----
-
-## Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html
-
-正文长度：1584
-
-摘要：Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Goldman Sachs said Thursday it won deals to manage a combined $70 billion in retirement assets for Verizon Communications and Lockheed Martin, one of the larger recent announcements in the fast-growing market for outsourced corporate investing.
-The mandates include about $30 billion in pension assets for Verizon and Lockheed Martin and $40 billion in Verizon defined-contribution retirement assets, which are typically 401(k)s, according to Goldman.
-The moves underscore how some of America's largest employers are increasingly handing responsibility for managing retirement assets to outside firms such as Goldman as portfolios become more complex and require expertise across public and private markets.
-Competition in the multitrillion-dollar market for retirement assets is fierce among managers including Goldman, BlackRock, Russell Investments and Mercer, because the long-term institutional mandates generate steady fee revenue.
-By growing that business, Goldman hopes to increase its share of revenues that are seen as stable and recurring, unlike the more volatile trading and investment banking operations.
-"Large plan sponsors are consolidating responsibilities with one partner with the investment expertise and depth of platform to manage their bespoke needs," Marc Nachmann, Goldman's global head of asset and wealth management, said in a statement.
-Goldman's outsourced chief investment officer business had about $480 billion in assets as of March 31, while the firm's broader asset and wealth management division oversees roughly $3.7 trillion worth of investments.
-
-</details>
-
-
----
-
-## Russia closes in on city that made the Kremlin glitter - Financial Times
+## When the ducks are quacking, feed them - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObXk1ZE5uNDNqbWUwRnpqLWhoeHhuOVVFNXRhbUt1TF9sVjlKZHlQWGFTSHVZVkNFMnJRTjRDSWVxSnVQT1Nydm9ERTZ3U0hjOElLNWllLW9PcFp5U2JxcVpBR1MzYlJxX0pYV3NRQnhqT2gzNHhCLXJkUUlXVE5YYU1CVkc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOU5iNUdyeEtzM250Y0Q0RXMxMkloM0RsX2lHX2JvcnNYQlY1WmhSdE1xNHRMZ0ZnOHJSaXVFVmJpR3JaeEsyU25rVWJ6VUotOVlPUGlVRHJqMGlYal9HUkZBZjVINlN4eWVhbkRzUXE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObXk1ZE5uNDNqbWUwRnpqLWhoeHhuOVVFNXRhbUt1TF9sVjlKZHlQWGFTSHVZVkNFMnJRTjRDSWVxSnVQT1Nydm9ERTZ3U0hjOElLNWllLW9PcFp5U2JxcVpBR1MzYlJxX0pYV3NRQnhqT2gzNHhCLXJkUUlXVE5YYU1CVkc?oc=5" target="_blank">Russia closes in on city that made the Kremlin glitter</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOU5iNUdyeEtzM250Y0Q0RXMxMkloM0RsX2lHX2JvcnNYQlY1WmhSdE1xNHRMZ0ZnOHJSaXVFVmJpR3JaeEsyU25rVWJ6VUotOVlPUGlVRHJqMGlYal9HUkZBZjVINlN4eWVhbkRzUXE?oc=5" target="_blank">When the ducks are quacking, feed them</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AstraZeneca CEO: ‘Biology will catch up with me at some point’ - Financial Times
+## ‘Trump accounts’ and how to spread America’s wealth - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXJIYWxVWTFDRm9NNk80RWpiX1hETVdPZkI3UUpRZV80OGtvVm84djl1TUlGR0Nscm5wT1gwMUI1eng2dmRNcEo1SVRiaFlwbTNWUk1VRFNGQUJBLTcxSS1FWElOaGUyWDVGZjBXajdXSzlXNUtfUjZydzZYbTgxeElxNHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1RjWS1ia0duM1hVU2FtZnhmdFVtd20yR29HVnJWcS1fdWViOGZseVVQQ0RjcHNBN3JMNWNySGtaVHdqRjNrY0pweTZqc3M0dmI2NE5Kdy1qeWcwQjkzLWZSTUdHMUlaMnN2SE8xeUFnT3hJSXEtZU1jcThQS3V0ZUNUQ3E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXJIYWxVWTFDRm9NNk80RWpiX1hETVdPZkI3UUpRZV80OGtvVm84djl1TUlGR0Nscm5wT1gwMUI1eng2dmRNcEo1SVRiaFlwbTNWUk1VRFNGQUJBLTcxSS1FWElOaGUyWDVGZjBXajdXSzlXNUtfUjZydzZYbTgxeElxNHY?oc=5" target="_blank">AstraZeneca CEO: ‘Biology will catch up with me at some point’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1RjWS1ia0duM1hVU2FtZnhmdFVtd20yR29HVnJWcS1fdWViOGZseVVQQ0RjcHNBN3JMNWNySGtaVHdqRjNrY0pweTZqc3M0dmI2NE5Kdy1qeWcwQjkzLWZSTUdHMUlaMnN2SE8xeUFnT3hJSXEtZU1jcThQS3V0ZUNUQ3E?oc=5" target="_blank">‘Trump accounts’ and how to spread America’s wealth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China cracks down on top ratings for corporate bonds - Financial Times
+## Global tech stocks fall as Asian memory chipmakers hammered - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd281eU1rQkV5ZmxTMEJobExtYTNfbmRyeG15Y0lJTDZNdURPTmJ2cmtCZDJaaWNFblpNb2JidHpvMmFRYUJ3OG0zcXBkdk9QUlRBZjY5cl9qS3RxM3RNUUhxeEJBT0RZYVY3SmVIamRQazlTN1Q1T2pUcHBLaUZwbEdzTHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd281eU1rQkV5ZmxTMEJobExtYTNfbmRyeG15Y0lJTDZNdURPTmJ2cmtCZDJaaWNFblpNb2JidHpvMmFRYUJ3OG0zcXBkdk9QUlRBZjY5cl9qS3RxM3RNUUhxeEJBT0RZYVY3SmVIamRQazlTN1Q1T2pUcHBLaUZwbEdzTHY?oc=5" target="_blank">China cracks down on top ratings for corporate bonds</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5" target="_blank">Global tech stocks fall as Asian memory chipmakers hammered</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Big Tech to face fines for consumer protection failures, says EU official - Financial Times
+## AI is not enough to arrest China’s decline - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThnbXdxV21VN3VrR0wtczNZcGFGd0ZZUWpudUZHTXc2U0VWNkVxTkpFc3pVd2diak9QU1FoeU1PNGVYQlZSWW1TTmRhb2hrTFhTUDhaNFFadmR6UDkxZzJpUzlRS0Y2anJjQ3dONjdBaWhYTkdzNzVZTXFUcnd1YUVjRmo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTlJZE9MbVViYUQycDhuVDhaTDJPdlFpZ2c1NmI0Rk9VUnN2VWZNQkFwcVhzMlktMGNFWnNzbndCOERyN0J5RFFidUZvaDkyUjBsdXJXSTRpX2lqTjNDd0NTLUxCTmFrZmtVZTNoMEZzTW1kZGlpMGUzbVYwLTQ0LVRSTG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThnbXdxV21VN3VrR0wtczNZcGFGd0ZZUWpudUZHTXc2U0VWNkVxTkpFc3pVd2diak9QU1FoeU1PNGVYQlZSWW1TTmRhb2hrTFhTUDhaNFFadmR6UDkxZzJpUzlRS0Y2anJjQ3dONjdBaWhYTkdzNzVZTXFUcnd1YUVjRmo?oc=5" target="_blank">Big Tech to face fines for consumer protection failures, says EU official</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTlJZE9MbVViYUQycDhuVDhaTDJPdlFpZ2c1NmI0Rk9VUnN2VWZNQkFwcVhzMlktMGNFWnNzbndCOERyN0J5RFFidUZvaDkyUjBsdXJXSTRpX2lqTjNDd0NTLUxCTmFrZmtVZTNoMEZzTW1kZGlpMGUzbVYwLTQ0LVRSTG8?oc=5" target="_blank">AI is not enough to arrest China’s decline</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Why are China and India so bad at football? - Financial Times
+## Companies turn to Chinese AI models to cut costs - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpNd1QyUlpFcjVNMFUwZzNDQmZMRWZKakhaMVU1YmkzOFgzVlF0UmpSN1Fubm94WWFBbEl5bW9yWEp0VTZVWmQ4d3Zqdy1xLVJudEhKMEx4c1BfeFVpNkhaVU91VHJWa2lkZUprRWZBZXVScFhFWWtsa0NtVGJXay0zaHQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdyLUhvQl9DcmlTLUZHamZYeHh4Smw2SGlxcWRXdHpSb2pJWTl0NXlhWDl0d0oyWjhHZm50YzhOdmV4c3BSMTZBaVFDTUJqWU1rUHY0QjFjOFowMVhvWHVKU3IxaVdDQ0dWdUQwS2ZNNVpDUnBNOVhYc1NkcXdTQ2pRNnY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpNd1QyUlpFcjVNMFUwZzNDQmZMRWZKakhaMVU1YmkzOFgzVlF0UmpSN1Fubm94WWFBbEl5bW9yWEp0VTZVWmQ4d3Zqdy1xLVJudEhKMEx4c1BfeFVpNkhaVU91VHJWa2lkZUprRWZBZXVScFhFWWtsa0NtVGJXay0zaHQ?oc=5" target="_blank">Why are China and India so bad at football?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdyLUhvQl9DcmlTLUZHamZYeHh4Smw2SGlxcWRXdHpSb2pJWTl0NXlhWDl0d0oyWjhHZm50YzhOdmV4c3BSMTZBaVFDTUJqWU1rUHY0QjFjOFowMVhvWHVKU3IxaVdDQ0dWdUQwS2ZNNVpDUnBNOVhYc1NkcXdTQ2pRNnY?oc=5" target="_blank">Companies turn to Chinese AI models to cut costs</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism - Reuters
+## Trump says the US should control the Strait of Hormuz and get paid for it - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RGSUR2QnZDb0VoSlZLUklaU0RqVEpseEtkZFZTQ0hzenRMcDRzdWFwNjJIMTZSN2xuYXZlcF9wQ0xPYTNhRTIzVElQUVZCUWZURjdYazJTU2NqNlgybkZJX1pCek5scjNpaUNpTGNSLXZndnZZZXpTQ0N3VGxZVnowYkNvbm80bWpDSW4wMVV1VUZKaEZacWF1WTN3MUJxY0dSdWpCdllvN2JIR3lfTGM3NnlOdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RGSUR2QnZDb0VoSlZLUklaU0RqVEpseEtkZFZTQ0hzenRMcDRzdWFwNjJIMTZSN2xuYXZlcF9wQ0xPYTNhRTIzVElQUVZCUWZURjdYazJTU2NqNlgybkZJX1pCek5scjNpaUNpTGNSLXZndnZZZXpTQ0N3VGxZVnowYkNvbm80bWpDSW4wMVV1VUZKaEZacWF1WTN3MUJxY0dSdWpCdllvN2JIR3lfTGM3NnlOdw?oc=5" target="_blank">SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5" target="_blank">Trump says the US should control the Strait of Hormuz and get paid for it</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Europe recorded 10,000 excess deaths during late-June heatwave, data show - Reuters
+## Intel announces $5.7 billion AI-driven capital investment in Ireland - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHBJbVNOU1YwZVlzckc5bzdtRVU3bnJtRHRnckl1Yjk1TDdCSHZTTDNTdjJ4R1pSYjF6R3VLb0JVS1p3VWJOLVdHSlh5RHp1RkNWaGdrQWVGZDE2OWllenU4TF91c2lwWEdSdG9uX3g2VzNMZ2s0TGNuQldjemRrVy00UUwzNTdCcjJFVnhhR3JwbTJhYmZHWnotQlBIUjRuNlV0dWdKZ2QtTFZfOF85WEpsRlFSZVpGM2xIN2pHR19pRUVldnk0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSFo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHBJbVNOU1YwZVlzckc5bzdtRVU3bnJtRHRnckl1Yjk1TDdCSHZTTDNTdjJ4R1pSYjF6R3VLb0JVS1p3VWJOLVdHSlh5RHp1RkNWaGdrQWVGZDE2OWllenU4TF91c2lwWEdSdG9uX3g2VzNMZ2s0TGNuQldjemRrVy00UUwzNTdCcjJFVnhhR3JwbTJhYmZHWnotQlBIUjRuNlV0dWdKZ2QtTFZfOF85WEpsRlFSZVpGM2xIN2pHR19pRUVldnk0?oc=5" target="_blank">Europe recorded 10,000 excess deaths during late-June heatwave, data show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSFo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5" target="_blank">Intel announces $5.7 billion AI-driven capital investment in Ireland</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil jumps 3% after US, Iran escalate strikes in Mideast - Reuters
+## Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5" target="_blank">Oil jumps 3% after US, Iran escalate strikes in Mideast</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5" target="_blank">Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Shares skid in Asia as oil climbs on Gulf conflict - Reuters
+## UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5" target="_blank">Shares skid in Asia as oil climbs on Gulf conflict</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5" target="_blank">UK bans support for two Iranian groups over antisemitic attacks in Britain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## McConnell says he is unable to return to US Senate yet - Reuters
+## Trump invested crypto gains in stocks and bonds, filings show - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjV5djRSZDZsX3ZyaFFXUkhDOFVWLUZEVlByVmtSczRSYTZfTVoxdWlIRGtsaGJzbmpYMV9BNXlhb3JkS2VYc0VtMFdqRXgzNVlPR09IbWtGbjhzbTI2eUFWQUJTeVFaSHVkUlhEQnNjUGMzSWFJaUJ3OWtKYXdwZmdLeUFTaUdIZG5TRlFpbGhLREVKTUc2YlVBSjI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3U2SGdWREdQMXNjRUt5M2tfVXdoWUNzLXJ0RVdpWkRqdVM2V1RwcmtEbFNpRHJVUjM1cWJyZUZBLTJLSDJJd01FZGlpU2xQcUc1enlnVHZvNzBod0ZmV2ZVMktEMVVlcWJvcmpQbW5DOUMyZkNWNHpTTmR1YlNMMXY2cndwX3BwbDJnM0NzV0JpYlhXa2xKbUdjLTJQNk43amNPekF0RXRVQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjV5djRSZDZsX3ZyaFFXUkhDOFVWLUZEVlByVmtSczRSYTZfTVoxdWlIRGtsaGJzbmpYMV9BNXlhb3JkS2VYc0VtMFdqRXgzNVlPR09IbWtGbjhzbTI2eUFWQUJTeVFaSHVkUlhEQnNjUGMzSWFJaUJ3OWtKYXdwZmdLeUFTaUdIZG5TRlFpbGhLREVKTUc2YlVBSjI?oc=5" target="_blank">McConnell says he is unable to return to US Senate yet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3U2SGdWREdQMXNjRUt5M2tfVXdoWUNzLXJ0RVdpWkRqdVM2V1RwcmtEbFNpRHJVUjM1cWJyZUZBLTJLSDJJd01FZGlpU2xQcUc1enlnVHZvNzBod0ZmV2ZVMktEMVVlcWJvcmpQbW5DOUMyZkNWNHpTTmR1YlNMMXY2cndwX3BwbDJnM0NzV0JpYlhXa2xKbUdjLTJQNk43amNPekF0RXRVQQ?oc=5" target="_blank">Trump invested crypto gains in stocks and bonds, filings show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
