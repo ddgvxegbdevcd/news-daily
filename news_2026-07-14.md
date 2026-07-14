@@ -1,68 +1,159 @@
 # 每日财经新闻
 
-更新时间：2026-07-14 02:53:50
+更新时间：2026-07-14 13:57:38
 
-## US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge
+## Deutsche Bank May Win Russia Sanctions Lawsuit Against Linde
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic
+链接：https://www.bloomberg.com/news/articles/2026-07-14/deutsche-bank-may-win-russia-sanctions-lawsuit-against-linde
 
 正文长度：0
 
-摘要：President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement for all other cargo shipped through the waterway.
+摘要：Deutsche Bank AG may win a legal battle in a dispute with a corporate client over who has to pick up the tab for losses linked to sanctions on Russia, according to a German court.
 
 
 ---
 
-## India Large-Caps Eye Comeback on Global Funds’ Support
+## Stocks, Bonds Rise as Soft CPI Curbs Fed-Hike Bets: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-07-14/india-large-caps-eye-comeback-as-foreigners-resume-purchases
+链接：https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap
 
 正文长度：0
 
-摘要：Jefferies says large caps are starting to look more reasonably valued.
+摘要：A cooler-than-estimated inflation reading spurred gains in both stocks and bonds, easing concern about the potential for imminent Federal Reserve rate hikes amid a resurgence in oil prices.
 
 
 ---
 
-## SK Hynix Shares Fall in Seoul After Wall Street AI Memory Rout
+## Warsh Says Fed Has ‘No Tolerance’ for Elevated Inflation
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout
+链接：https://www.bloomberg.com/news/articles/2026-07-14/warsh-says-fed-has-no-tolerance-for-elevated-inflation
 
 正文长度：0
 
-摘要：SK Hynix Inc. shares fell in Seoul after a rout on Wall Street, reflecting heightened caution among investors following this year’s unprecedented rally in global chipmaker stocks.
+摘要：Federal Reserve Chairman Kevin Warsh said policymakers at the central bank have no tolerance for high inflation, reiterating a vow to tame price growth that has been elevated for five years.
 
 
 ---
 
-## Oil Tops $85 a Barrel as Trump Reinstates Naval Blockade on Iran
+## IBM Shares Fall by Most Since 1960s on Disappointing Sales
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14
+链接：https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back
 
 正文长度：0
 
-摘要：Brent oil rose above $85 a barrel for the first time in a month, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo.
+摘要：International Business Machines Corp. shares slid by the most in almost six decades after the company reported preliminary second-quarter sales that fell short of expectations, attributing the miss to customers shifting their spending to chips and servers amid AI-fueled shortages.
 
 
 ---
 
-## SocGen Sees $76 Billion of JGB Buying If GPIF Rebalances Assets
+## US CPI Falls for the First Time Since 2020
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-14/socgen-sees-76-billion-of-jgb-buying-if-gpif-rebalances-assets
+链接：https://www.bloomberg.com/news/videos/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-video
 
 正文长度：0
 
-摘要：Japan’s Government Pension Investment Fund has room to buy as much as ¥12.3 trillion ($76 billion) of additional government bonds without changing its asset allocation mix, according to Societe Generale SA, offering potential support for the debt market.
+摘要：The US consumer price index fell 0.4% in June, dragged down by the biggest decline in gasoline prices since 2022, taking some pressure off the Federal Reserve to raise interest rates. Tiffany Wilding, economist at Pimco, examines the data on “Bloomberg Surveillance.” (Source: Bloomberg)
+
+
+---
+
+## Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html
+
+正文长度：1727
+
+摘要：Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Frontier Airlines and four other budget carriers with more than 1,000 planes between them will debut in-flight Wi-Fi early next year from SpaceX's Starlink, another win for the satellite internet provider.
+Frontier's first Airbus plane equipped with Starlink internet will roll out in early 2027, the airline said Tuesday. CNBC reported in 2022 that Frontier was in talks with Starlink to add its first in-flight Wi-Fi service.
+A Frontier spokeswoman declined to say whether flyers could use the service for free. Major airlines that have signed deals with Starlink have been offering Wi-Fi complimentary for loyalty program members.
+Frontier was one of the last U.S. holdouts to add Wi-Fi. Former CEO Barry Biffle previously said the airline was hesitant to to add weight to its planes with the equipment it would need for the service.
+Starlink, a part of Elon Musk's SpaceX, has signed deals with more than 40 carriers around the world, including United Airlines and American Airlines, as airlines ramp up their in-flight services and customers grow to expect at-home-quality internet in the sky. The airlines declined to disclose the terms of the agreements. SpaceX didn't immediately comment.
+The carriers in the latest Starlink deal — Frontier, Mexico's Volaris, European budget carrier Wizz, Chile's Jetsmart, and the Philippines' Cebu Pacific — all share private equity firm Indigo Partners as an investor, which is led by serial airline investor Bill Franke.
+Budget carriers have been under pressure to go upmarket as larger rivals post revenue growth from the front of the cabin, upending discounters' once-profitable model of no-frills seating and amenities. Frontier is planning to debut first-class seats next year.
+
+</details>
+
+
+---
+
+## United Airlines' new upsell: Keeping other travelers out of the middle seat
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html
+
+正文长度：1317
+
+摘要：United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Airlines has a new way to entice customers to pay more on board: no middle seat neighbor.
+The carrier said Tuesday that one of the rows on its Airbus A321XLRs will have an empty middle seat with a tray table for the aisle- and window-seat customers to share. The seats, which are in the extra legroom section, go on sale later this year so it's not clear just how much more United will charge. It said it could later add them to other aircraft beyond those new, long-range narrow-body planes.
+The new upsell is just one of many airlines are throwing out to get customers to pay more to fly. Last week, Delta Air Lines joined United in launching basic business-class and premium economy fares that don't come with perks that used to be included in the ticket. For example, Delta will no longer include access to its top-tier Delta One lounge or seat selection with its cheapest long-haul business class tickets.
+United in March also said it plans to launch a set of three economy seats that can be converted into a bed, which it's calling the "Relax Row" on some of its wide-body planes.
+Airlines have spent years adding more premium-class seats to make bigger business-class cabins where spending has been more resilient. The bottlenecks of ever-more-elaborate seats have even delayed deliveries of new planes.
+
+</details>
+
+
+---
+
+## World Cup's biggest spenders show up late as semifinals drive host city travel boom
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/14/world-cups-semifinals-travel-to-host-cities-rises.html
+
+正文长度：4646
+
+摘要：World Cup travel demand to U.S. host cities is spiking as the tournament reaches the semifinal stage.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The World Cup's biggest economic boost is arriving later than expected as the tournament enters its final days.
+But for the U.S. businesses hoping for a soccer boom, it's better late than never.
+This week's semifinals pit France against Spain in Dallas on Tuesday and England versus Argentina in Atlanta on Wednesday. Travel bookings have accelerated as the field of competitors narrows and fans converge from around the world to see the high-stakes matches.
+Every U.S. host city has seen an economic lift from soccer fans, according to Bank of America Institute.
+"You can see the World Cup effect on the ground," said David Tinsley, senior economist at Bank of America Institute. "Spending picked up after the tournament kicked off, with restaurants and bars seeing some of the strongest gains as consumers turned matches into social events."
+In-person spending in U.S. host cities rose 5% over last year from June 10 to July 5, with Kansas City leading the gains, according to analysis from Bank of America credit and debit cards.
+The impact could be much higher, since the results capture only spending with BofA cards in U.S. households and does not include cash, checks and spending by international tourists or on corporate cards.
+Kansas City also saw the biggest weekly hotel performance gain among host markets, with revenue per available room (RevPAR) up nearly 50%, according to data from industry analysis firm CoStar. Philadelphia also saw a strong lift, with weekend RevPAR up more than 74% as its World Cup match coincided with Fourth of July celebrations and America 250 events.
+That was a relief to hotel owners who worried before the World Cup kicked off about soft advance hotel bookings and FIFA releasing large blocks of rooms back into the market.
+It's not that hotels are sold out. During the final week of the tournament's group stage, occupancy actually declined almost 3% over last year in U.S. host cities, indicating some business and leisure travelers altered their plans. But even in early stages of the World Cup, host city hotels charged 21% higher rates, according to CoStar.
+As the tournament moved into the knockout stage, demand from June 28 to July 4th increased 2.4% from last year and RevPaR rose 23%, despite the World Cup having 50% fewer matches than the previous week.
+Demand for short-term rentals also increased beside higher stake matches, according to analytics company AirDNA.
+"I guess, for some of the later stage games, people waited until they knew who was going to be playing," said Braham Gallagher, AirDNA's director of economic forecasting
+"Argentina shows what it looks like when fans book a trip the moment their team wins," said Bhanu Chopra, founder of RateGain Travel Technologies and creator of the FIFA World Cup 2026 Market Pulse Index. "Argentina fans are following the tournament closely and responding with bookings in real time."
+Chopra said flight bookings from Argentina are up nearly 46% year over year since the tournament kicked off. Bookings from Argentina to Atlanta — where the team played its round of 16 match and will play its semifinal Wednesday — more than doubling over that time, rising nearly 108%.
+Overall bookings to World Cup host cities are up nearly 4% over last year, according to the data. After the opening match, flight reservations jumped nearly 75% from the previous week.
+Flight bookings to New York/New Jersey for the final from Argentina are still lagging, down about 15% year over year, while bookings from Argentina into Miami — host of the third-place match — are up nearly 17%.
+Chopra said that suggests some Argentina fans are hedging rather than assuming their team will make the final. If Argentina beats England, he expects New York bookings to increase quickly.
+AirDNA data shows short-term rentals for the final match in Newark and Jersey City, New Jersey are already 45% higher than last year. Gallagher says it indicates overall appetite for the last big hurrah of the World Cup and the way New York City's strict rules against short-term rentals affect demand.
+That's driving prices higher. Corporate travel agency Navan said the average hotel room rate in New York City was already above $1800 nightly before the tournament even began.
+Fans who reserve now are ready to spend, on last minute international flights, scarcer hotel or AirBnB rentals and on meals to celebrate their teams. And don't forget tickets to the match!
+After the U.S. and Mexico were eliminated, resale prices for several quarterfinal matches fell sharply. Still, FIFA still had nearly 1,200 mid-tier tickets for the final late last week, available at $7,380 each.
+
+</details>
 
 
 ---
@@ -138,282 +229,132 @@ However, the European Union is still reviewing the deal for approval, with a new
 
 ---
 
-## Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
-
-正文长度：5044
-
-摘要：Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Expectations are high that when banks start posting second-quarter results Tuesday, led by JPMorgan Chase and Bank of America, revenue from trading equities and fixed income will approach, or even exceed, the records set earlier this year.
-That's a key part of what veteran analyst Mike Mayo of Wells Fargo calls the "sweet spot" in the financial sector right now. Both of banking's profit engines — Wall Street and Main Street — are in growth mode at the same time.
-The largest U.S. banks are raking in rising fees from helping corporations tap the markets, punctuated by last month's giant SpaceX IPO, while risk-taking traders are also thriving as geopolitical unrest including the Iran war stokes volatility across asset classes.
-"You saw the largest IPO in history, a pace of mergers that's on track to be a record year, and a broadening out of trading to include equity and fixed income across myriad geographies," Mayo told CNBC.
-The quarter's big bank earnings come at an unusually favorable moment for the industry. After years of navigating higher interest rates and inflation-fueled recession fears, lenders are benefiting from a rare combination of booming Wall Street activity, resilient consumer credit and a long-awaited pickup in business lending.
-"There's not much more you can ask for," Mayo said.
-The trends, which coincide with the Trump administration's push to ease banking regulations, have helped financial stocks outperform the broader market for two straight years, Mayo noted. That streak also raises the stakes as investors look for signs the momentum can continue into 2027.
-JPMorgan, Bank of America, Citigroup, Wells Fargo and Goldman Sachs are set to post results early Tuesday, with Morgan Stanley reporting Wednesday.
-'Big money maker'
-Investment banking revenue for the group could surge 26% from a year ago, while trading revenue could jump 14%, according to KBW analyst Chris McGratty.
-Besides the hundreds of millions of dollars in fees that SpaceX paid banks — led by Goldman Sachs and Morgan Stanley — for the IPO itself, the firms garnered fees for raising debt for the newly public company, and also have a shot at managing the wealth of newly minted millionaires and billionaires.
-On top of that, Goldman and Morgan Stanley likely reaped so-called soft dollars from the SpaceX initial public offering, according to Jay Ritter, professor emeritus of finance at the University of Florida's Warrington College of Business.
-Soft dollars are essentially fees that hedge funds pay investment banks for a slice of an oversubscribed IPO, Ritter said.
-"The big money maker for investment banks in IPOs is not the bankers' fee, but the ability to allocate shares to hedge funds and some active mutual funds that pay soft dollars," he said.
-Meanwhile, trading gains were driven by strength in equities as stock markets climbed during the quarter, as well as heightened activity in fixed income after the Iran conflict sent oil prices, interest rates and currencies swinging, McGratty said.
-"Banks are doing a good job these days of capturing the upside of volatility, whereas in previous cycles, they've been caught offsides," McGratty said.
-'Demand is back'
-But Mayo contended that the more important development this quarter might be happening away from Wall Street.
-The less glamorous business of commercial lending could be turning the corner after years of weakness as banks look to wrest market share from private credit lenders and as the artificial intelligence-fueled spending boom spreads to the rest of the economy, he said.
-"Demand is back as companies treat the uncertainty as the new normal and build that new factory, invest in plants and get on with business," Mayo said.
-The trend could benefit regional lenders including Fifth Third because commercial lending represents a larger share of their business than it does for diversified giants like JPMorgan, Mayo said.
-Consumer banking also appears healthy. Low unemployment has kept borrowers current on mortgages, auto loans and credit cards, limiting losses.
-There are still some risks for the quarter, including potential blowups in the private credit realm, even though that concern has subsided for most banks in the absence of new "cockroaches" emerging. JPMorgan CEO Jamie Dimon warned analysts and investors last year after the collapse of subprime car lender Tricolor Holdings that "when you see one cockroach, there are probably more."
-Another is whether competition over deposits is intensifying, as some players have been forced to pay higher rates to attract and keep savers' dollars, McGratty said. In an environment where interest rates are steady or rising, that could pressure lender margins.
-After two years of market-beating returns, investors are becoming less interested in how strong the last quarter was than whether this unusually favorable backdrop can last.
-"We know the quarter's going to be strong, so I think the question that you ask yourself is around sustainability, right?" McGratty said. "Is it all sustainable?"
-
-</details>
-
-
----
-
-## A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html
-
-正文长度：12911
-
-摘要：Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Losing weight with GLP-1 drugs is only half the battle. Keeping it off long term has proved even harder.
-Factors such as side effects, high out-of-pocket costs, injection fatigue and stigma around obesity treatment drive troves of patients – some studies estimate roughly half or more – to stop GLP-1s within a year and risk regaining the weight they lost.
-Years from now, Vivani Medical believes a tiny GLP-1 implant placed under the skin could help address that problem.
-The biotech company is in the early stages of developing an experimental implant of semaglutide, the active ingredient in Novo Nordisk's blockbuster obesity injection Wegovy and diabetes counterpart Ozempic. The Danish pharma giant announced on Tuesday a new agreement with Vivani to evaluate its lead semaglutide implant, NPM-139.
-Vivani envisions patients would initially use it as a maintenance treatment rather than a therapy people take when they start GLP-1s. Under that approach, patients would first reach an appropriate dose of semaglutide using existing injections or pills, then potentially switch to the implant for longer-term treatment.
-If everything goes to plan, Vivani believes the device could eventually serve as a convenient option administered just twice a year — or even once annually — to help patients stay on therapy and maintain weight loss, while potentially reducing some side effects associated with existing GLP-1 medicines.
-"It's really critical to have options that make it easy for people to get the full benefits of these treatments and to not discontinue at the rates we're seeing," Vivani President and CEO Adam Mendelsohn said in an interview. "What these drugs are capable of is not being carefully taken advantage of right now."
-But the implant is still at least several years out from living up to that promise.
-The device needs to clear several clinical trials and regulatory hurdles before reaching patients. Some endocrinologists and other doctors said there could be demand for an implant, but they also want to see concrete data on how effective it will be compared with existing medicines and how well patients will tolerate it. They also raised questions about whether providers would be willing to adopt it.
-"I really want to see that this is going to work well and deliver results for patients, but I also want to see that it's something that my patients can stay on long term," Dr. Miranda Stiewig-Rapp, director of UC Davis Health's Obesity Clinic, said in an interview. "I'm probably overall very skeptical, but I'm happy to be proven wrong."
-The potential cost of the implant and whether insurers would cover it if approved also remain unclear. That makes it difficult to estimate what the implant's sales could be in a GLP-1 market that some analysts expect could exceed $100 billion by the early 2030s.
-In a statement to CNBC, Novo Nordisk confirmed the agreement with Vivani and said it is focused on complementing its internal research and development efforts with external innovation.
-How the GLP-1 implant works
-Vivani's long-acting semaglutide implant is essentially a tiny titanium reservoir filled with a certain dose of the medicine. The company intends to develop implants that deliver different dosages of semaglutide, allowing a patient and their doctor to select which one is best to switch to after an injection or a pill.
-What makes the implant unique is a "specialized membrane" at one end of the device that contains millions of microscopic channels, or "straws," through which drug molecules can leave the implant and enter the body, Mendelsohn said. He said those channels are designed to release semaglutide at a slow, steady rate over several months, which Vivani says could help reduce fluctuations in drug levels that can occur with periodic dosing of injections.
-If a patient's weight loss is stable on a 2.4-milligram weekly dose of Wegovy, Vivani anticipates that they can receive an implant that provides continuous dosing of semaglutide at roughly that same dosage per week, Mendelsohn said.
-Unlike some implants that rely on pumps or other mechanical components, Vivani's device has no moving parts. Instead, the membrane itself controls the flow of medicine into the body, Mendelsohn added.
-He said the approach could lead to more consistent drug levels and improve how well patients tolerate semaglutide, reducing some of its common side effects such as nausea and vomiting. That remains to be proven in clinical studies.
-Mendelsohn added that patients could choose to have the implant removed at any time, after which drug exposure would decline relatively quickly. A patient can replace their implant with another at a higher or lower dosage level if needed, and it may be feasible to add more than one implant in the body, he said.
-On the patient level, Mendelsohn compared the device to Nexplanon, a widely used contraceptive implant. The procedure would take a few minutes in a doctor's office using local anesthesia, with the implant inserted under the skin of the upper arm or possibly other areas like the abdomen.
-"The idea is to try to time the implant insertion with when patients are going to see their physicians anyway, and then tack on just a few minutes to do that procedure," Mendelsohn said. "That way, in between appointments, no one has to think about or worry about that person getting the medicine that they need."
-The version of the device that Vivani is currently developing would need to be removed and replaced every six months, though the company ultimately hopes to bring to market an implant that lasts a full year.
-How it could tackle the biggest issue with GLP-1s
-Doctors say it is far too early to judge the implant without human clinical data. But if the device proves safe and comes with fewer side effects than existing options, some see an opportunity for it to address one of the biggest challenges in obesity treatment: helping patients stay on therapy and maintain their weight loss over time.
-Many patients need to remain on GLP-1 medicines long term to sustain weight loss and preserve other health benefits, including lower cardiovascular risks.
-"The next wave of science, and it's already being done, is to answer the fundamental question of number one: How do we maintain the weight reduction? And number two: what are the benefits that are achieved when you do that?" said Dr. Harold Bays, chief science officer of the Obesity Medicine Association.
-While some patients may stay on a high GLP-1 dose indefinitely and others may eventually stop treatment and maintain their weight loss through nutrition and lifestyle changes, many will likely need different strategies over time, Bays said.
-Researchers are already exploring approaches such as lowering doses, taking medicines less frequently (like monthly or quarterly), or switching from injections to pills. A long-acting implant that patients don't have to think about day-to-day could become another option if it's approved.
-The device could be a good fit for patients who experience "injection fatigue" or struggle to remember daily pills, among other reasons people stop taking GLP-1s, said Dr. Amy Sheer, an assistant professor of medicine at the University of Florida.
-"It sounds extremely exciting, and I think for a lot of people this could be a game changer," she said.
-Implants for contraception are already a popular option used by roughly 5% or more of women in the U.S., according to recent estimates, which some doctors say is not trivial.
-Vivani argues that helping patients stay on treatment could also generate savings for the health-care system by reducing the risk of costly conditions linked to obesity. The company has not determined how much the implant could cost if it reaches the market, but Mendelsohn said he expects it to be less expensive than shots, in part because patients may need only one or two implants per year instead of dozens of weekly auto-injector pens.
-"We certainly are hopeful that payers will see us as a preferred approach, because they won't have to worry about the person not continuing to get the health benefits that would lead to economic value," he said.
-The questions and concerns doctors have
-For Vivani's implant to live up to those hopes, it will need to prove safe, effective and tolerable in human studies. Doctors say it is far too early to know whether it can clear those hurdles.
-Some physicians also question how many patients will be comfortable with an implant in the first place. Stiewig-Rapp of UC Davis said some people already feel squeamish about devices such as Nexplanon that they can feel under their skin, meaning Vivani's implant will likely appeal to a specific subset of patients.
-The in-office procedure involved with the implant could also make it difficult to access for patients who rely on telehealth platforms, such as companies like Ro and Hims & Hers, to obtain their GLP-1s, said Dr. Amy Rothberg, a clinical professor of medicine at the University of Michigan.
-More in-person appointments, procedural support and implant-related costs could add expenses for insurers and the broader healthcare system, she said. It is also unclear whether health plans would be willing to cover a GLP-1 implant, given the uneven coverage of existing obesity treatments.
-Rothberg called the implant a "reasonable option," but said the procedure could be resource intensive and a "big learning curve" for doctors practicing obesity medicine.
-While certain doctors, particularly those in other specialties, are comfortable inserting implants, some endocrinologists and other physicians may require training on the procedure, billing requirements and how to manage complications if a device is inserted incorrectly.
-"The procedure is not technically difficult, but it's going to require another whole skill set of individuals who don't usually do this to put these implants in, and then sort of do them every six months or every year," Rothberg said. "It may be a select number of providers who are willing to take on the training."
-For example, Rothberg said she noticed few providers appeared to adopt a continuous glucose monitoring system called EverSense, which is implanted in the upper arm just once a year.
-Some doctors said their prescribing decisions could also depend on how effective the implant proves to be relative to existing treatments, which remains unclear at this stage.
-Vivani last year said pre-clinical data on the semaglutide implant in rats showed roughly 20% weight loss for over 6 months, with the potential for annual dosing. Those results have not yet been replicated in humans. By comparison, Novo Nordisk's Wegovy has demonstrated average weight loss of about 15% over 68 weeks and up to nearly 28% in some patients using a newly approved higher dose.
-While Vivani said implants can be removed and replaced at any point with a higher or lower dose, Rothberg said those added procedures could still be a burden for patients and providers.
-Side effects, long-term tolerability and whether patients ultimately choose to remain on the implant are among the questions doctors say future clinical trials will need to answer.
-What the next steps are
-Vivani still has a long road ahead before its implant could reach patients, but the company recently cleared an important milestone.
-In June, Vivani said it received approval from an Australian human research ethics committee to begin SLIM-1, the first human clinical trial of its semaglutide implant. The phase one study is expected to begin in mid-2026 and will enroll about 20 overweight or obese adults who have not previously taken GLP-1 medicines.
-Participants will be randomized to receive either the implant or a low-dose weekly Wegovy injection over four weeks. The primary goal of the study is to evaluate the implant's safety, tolerability and pharmacokinetic profile, or how the drug is absorbed and released in the body over time. Researchers will also measure weight loss.
-If the results are positive, Vivani plans to quickly move into a phase two study, known as SLIM-2, that would test different implant doses and evaluate their effects on weight loss. That trial would help determine the optimal dose to advance into larger late-stage studies required for regulatory approval.
-Mendelsohn noted that the agreement with Novo is not a licensing deal, but said it's a "good validation for where we are and where this product could ultimately end up."
-For now, doctors say several important questions remain unanswered, but also acknowledge the potential of the treatment.
-"This could be another tool that we'll have in our toolbox," said Eduardo Grunvald, medical director of the UC San Diego Health Center for Advanced Weight Management. "In this field, we like to talk about really individualizing treatment for a single patient, so there's going to be some patients that may really want this option."
-
-</details>
-
-
----
-
-## Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html
-
-正文长度：2952
-
-摘要：Delta is the first of the U.S. airlines to report second-quarter results.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines' profit goal is in reach this year as the carrier passes along higher fuel costs to customers, pricing power CEO Ed Bastian expects to last even as oil prices drop from multiyear highs.
-"I think it's sustainable," Bastian told CNBC in an interview. He said fares will likely stay strong thanks to robust demand, more diverse seat options, and a more disciplined airline industry that's learned from the past and isn't likely to expand capacity as soon oil falls.
-Delta on Friday forecast third-quarter per-share earnings of between $2.00 and $2.50, compared with analysts' estimates of $2.02 a share for the period. The company also projected revenue would be up in the mid-teens compared with the July-through-September period of 2025. For the full-year, the carrier reaffirmed its January per-share earnings forecast of between $6.50 and $7.50.
-Here's what Delta reported for the second quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
-- Earnings per share: $1.56 adjusted vs. $1.48 expected
-- Revenue: $17.67 billion adjusted vs. $17.53 billion expected
-Bastian said demand is strong across the board, noting that Delta, the most profitable U.S. airline, caters to higher-income customers in the K-shaped economy.
-Indeed, its premium seat sales outpaced the back of the plane in coach. Its premium tickets like first class brought in $6.92 billion in revenue for the quarter, while the main cabin reported $6.85 billion in revenue.
-Bastian said World Cup demand was stronger than expected, including from inbound visitors to the U.S. In an earnings release, the airline also said corporate travel rose in the second quarter, with the aerospace and defense, banking, and automotive sectors leading growth.
-Carriers have scaled back growth plans and pruned unprofitable flights after this year's record run-up in fuel, and airfares have surged. According to the latest federal data, May airfare was up nearly 27% compared with last year, though executives say they still haven't passed the entirety of the higher fuel bill on to consumers. Bastian said Delta was passing along about 60% to consumers, and that should get to close to 100% this quarter.
-Delta's second-quarter revenue per available seat mile, a measure of how much an airline is bringing in for each seat it flies, was up 17% from a year earlier, though its cost-per-available seat mile rose 21%. (Delta has other revenue streams including cargo, a maintenance business and its fuel refinery.)
-Delta's net income dropped 25% in the second quarter from a year earlier to $1.6 billion, or $2.44 a share, though operating revenue was up 19% from the 2025 period to $19.76 billion. Adjusting for one-time items including third-party refinery sales, Delta posted earnings of $1.03 billion, or $1.56 a share.
-Delta's refinery was also a bright spot, with revenue in the Trainer, Pennsylvania, facility surging 83% to $2.09 billion.
-
-</details>
-
-
----
-
-## When the ducks are quacking, feed them - Financial Times
+## Oil hits $87 as battle for Strait of Hormuz alarms energy markets - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOU5iNUdyeEtzM250Y0Q0RXMxMkloM0RsX2lHX2JvcnNYQlY1WmhSdE1xNHRMZ0ZnOHJSaXVFVmJpR3JaeEsyU25rVWJ6VUotOVlPUGlVRHJqMGlYal9HUkZBZjVINlN4eWVhbkRzUXE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5JOU5iNUdyeEtzM250Y0Q0RXMxMkloM0RsX2lHX2JvcnNYQlY1WmhSdE1xNHRMZ0ZnOHJSaXVFVmJpR3JaeEsyU25rVWJ6VUotOVlPUGlVRHJqMGlYal9HUkZBZjVINlN4eWVhbkRzUXE?oc=5" target="_blank">When the ducks are quacking, feed them</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5" target="_blank">Oil hits $87 as battle for Strait of Hormuz alarms energy markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Stocks and bonds drop as mounting US-Iran tensions spook investors - Financial Times
+## Google backs major US solar project to offset fossil fuel emissions - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFRaNG54Q1BqWUxHNWJqU2x6LXF4WjNWejRjcVZRRTFMQldrOUwyMkFqQ1VMZk1MUVlGYllhaWFoZzlmOFB0bERJdGlMZkFiWUwtMWlyUENLaHAtR2VJQmpmTjM1TUtzYWlQNzUwVHpQZU5jVUVwX1p0LUlYRVpFOWZqNXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5" target="_blank">Stocks and bonds drop as mounting US-Iran tensions spook investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFRaNG54Q1BqWUxHNWJqU2x6LXF4WjNWejRjcVZRRTFMQldrOUwyMkFqQ1VMZk1MUVlGYllhaWFoZzlmOFB0bERJdGlMZkFiWUwtMWlyUENLaHAtR2VJQmpmTjM1TUtzYWlQNzUwVHpQZU5jVUVwX1p0LUlYRVpFOWZqNXM?oc=5" target="_blank">Google backs major US solar project to offset fossil fuel emissions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Trump accounts’ and how to spread America’s wealth - Financial Times
+## China’s monthly car exports surge past 1mn for first time - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1RjWS1ia0duM1hVU2FtZnhmdFVtd20yR29HVnJWcS1fdWViOGZseVVQQ0RjcHNBN3JMNWNySGtaVHdqRjNrY0pweTZqc3M0dmI2NE5Kdy1qeWcwQjkzLWZSTUdHMUlaMnN2SE8xeUFnT3hJSXEtZU1jcThQS3V0ZUNUQ3E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVJHRHRST3VPUVZzMlNzVXlLbzl3emtkeUlmWDhxZFJSLV9WSV80Nmt2VEh1a2JNU0dnUFg1QW5pQktvV0NBZE1Fc0piZElPNlFBZFo0OUpybndpUWQ0Nzc1a3NvLTBuOWctRzJEQVlwMV80b2I5TW9HakdhSXk0UnRud1A?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1RjWS1ia0duM1hVU2FtZnhmdFVtd20yR29HVnJWcS1fdWViOGZseVVQQ0RjcHNBN3JMNWNySGtaVHdqRjNrY0pweTZqc3M0dmI2NE5Kdy1qeWcwQjkzLWZSTUdHMUlaMnN2SE8xeUFnT3hJSXEtZU1jcThQS3V0ZUNUQ3E?oc=5" target="_blank">‘Trump accounts’ and how to spread America’s wealth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVJHRHRST3VPUVZzMlNzVXlLbzl3emtkeUlmWDhxZFJSLV9WSV80Nmt2VEh1a2JNU0dnUFg1QW5pQktvV0NBZE1Fc0piZElPNlFBZFo0OUpybndpUWQ0Nzc1a3NvLTBuOWctRzJEQVlwMV80b2I5TW9HakdhSXk0UnRud1A?oc=5" target="_blank">China’s monthly car exports surge past 1mn for first time</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AI is not enough to arrest China’s decline - Financial Times
+## Nvidia halves Asia buyer list in China chip crackdown - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTlJZE9MbVViYUQycDhuVDhaTDJPdlFpZ2c1NmI0Rk9VUnN2VWZNQkFwcVhzMlktMGNFWnNzbndCOERyN0J5RFFidUZvaDkyUjBsdXJXSTRpX2lqTjNDd0NTLUxCTmFrZmtVZTNoMEZzTW1kZGlpMGUzbVYwLTQ0LVRSTG8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnNPMDdvbldNbzRKdnpVS3dhdjlQLVR4MDlWMk5xY2lGc3JKUTFoYXZaX1l0cU1vT3RRQkpKMl9oeVhHZFRzTm5Ic3QySkRzYnFGblBDd0szcjEwNkdFMERTOHBiR1VRT2lEMWJSN2FfMkkySFg0Q3ZuRUdBTmFKSmZKbUI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTlJZE9MbVViYUQycDhuVDhaTDJPdlFpZ2c1NmI0Rk9VUnN2VWZNQkFwcVhzMlktMGNFWnNzbndCOERyN0J5RFFidUZvaDkyUjBsdXJXSTRpX2lqTjNDd0NTLUxCTmFrZmtVZTNoMEZzTW1kZGlpMGUzbVYwLTQ0LVRSTG8?oc=5" target="_blank">AI is not enough to arrest China’s decline</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnNPMDdvbldNbzRKdnpVS3dhdjlQLVR4MDlWMk5xY2lGc3JKUTFoYXZaX1l0cU1vT3RRQkpKMl9oeVhHZFRzTm5Ic3QySkRzYnFGblBDd0szcjEwNkdFMERTOHBiR1VRT2lEMWJSN2FfMkkySFg0Q3ZuRUdBTmFKSmZKbUI?oc=5" target="_blank">Nvidia halves Asia buyer list in China chip crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## De Beers halts output at South African diamond mine as weak prices weigh on sale - Financial Times
+## US small caps soar as investors look beyond big tech - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnp0ZDVwT0ZoWUs5Q05XU1RVZ2VnTGhUekpvd2hQb3VUa0VZTW1qNXVHZUYzdUh5ZjNQMjhJTUxiUFUxR0RPc1BMc2VsUkV3UF9SV2kzdENoWTdHMFVoSzB1aE15SFIyeGM5VFVSOFB1SUFXN3VyYjcxSDFHWG1rX2hzWlA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUd6eFZ5WjhtTmd1MUxMZ0Vpd3lRcl9OV2Njc1ZSUU44aWVoeVlqdEg3Qm54QkR5SzlSWGhreHB3N29BZXUzV2tsV1lpZWpIY1M4eFJMeXpDQWRvNDd0cGI0bnF3UHhNdm1nd3ZXb0h1aVREUzMtVWNYSk91U2xqb3A3czA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnp0ZDVwT0ZoWUs5Q05XU1RVZ2VnTGhUekpvd2hQb3VUa0VZTW1qNXVHZUYzdUh5ZjNQMjhJTUxiUFUxR0RPc1BMc2VsUkV3UF9SV2kzdENoWTdHMFVoSzB1aE15SFIyeGM5VFVSOFB1SUFXN3VyYjcxSDFHWG1rX2hzWlA?oc=5" target="_blank">De Beers halts output at South African diamond mine as weak prices weigh on sale</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUd6eFZ5WjhtTmd1MUxMZ0Vpd3lRcl9OV2Njc1ZSUU44aWVoeVlqdEg3Qm54QkR5SzlSWGhreHB3N29BZXUzV2tsV1lpZWpIY1M4eFJMeXpDQWRvNDd0cGI0bnF3UHhNdm1nd3ZXb0h1aVREUzMtVWNYSk91U2xqb3A3czA?oc=5" target="_blank">US small caps soar as investors look beyond big tech</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz - Reuters
+## US consumer inflation slows more than expected in June - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5" target="_blank">Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5" target="_blank">US consumer inflation slows more than expected in June</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump slashes the size of two Utah national monuments - Reuters
+## IBM warns AI boom is squeezing software budgets; shares slump in sector rout - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG4xdG5GbjJSN0FlcjYwNU0tQ2Jza2poZktxN0VaSG1Dazc2bGJxU0wxeFlKcFZ2VTVrZS0wTFRTekxNZzJYLWtOdDkwS2xiZ1RJY1dhVEh3NXE3eGRuaTBhR3lfb0tLNElMdU9JeWlpdUdkcHBSR3l0bVpKa21Ed0xHdkNWSXFzdklzSjE1dnlPZk92Ync?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG4xdG5GbjJSN0FlcjYwNU0tQ2Jza2poZktxN0VaSG1Dazc2bGJxU0wxeFlKcFZ2VTVrZS0wTFRTekxNZzJYLWtOdDkwS2xiZ1RJY1dhVEh3NXE3eGRuaTBhR3lfb0tLNElMdU9JeWlpdUdkcHBSR3l0bVpKa21Ed0xHdkNWSXFzdklzSjE1dnlPZk92Ync?oc=5" target="_blank">Trump slashes the size of two Utah national monuments</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5" target="_blank">IBM warns AI boom is squeezing software budgets; shares slump in sector rout</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump sends Congress formal notice that Iran conflict has resumed - Reuters
+## JPMorgan posts record profit on big gains from dealmaking, stock trading - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlnQU14UlRYVHMtT3FqRk9meEE0S2ZsVFBLcEJuRWJWc2FSZzVoYmtJSlM5RG9IWnRlRGxMSE5FTmxlNVF2Unl4ZXBwNzN1WmxYSjVHU1pWNURHZDhGTVNoYnY3Z2l1LUY0WnRjU0dSbmM5NVpWaU1mTnhZZzVpNURIdGEyMWlVcFl3U1EtYU0xSVBMcEVrckk2ZVlxbHlwS2REVlJTR1FRM1NqR3c4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXZXdWw0Um15aXgwRy1uU3dobEJIREY5cDItRFd0d2ZvQjRDdXdVdHZJNmtWWmNuVG5hVWlNZmlXaVQ0eWJ2WndSM1JMOGtIQmpWM29XeVR0OVVheFZQNGVfNmhlYldNdjlfLU1MazZLMjJGVmc4TzdvSWRKNnVkRjNJemVxNGtrck5EWVA5c1dWdUdBSW92Y0RBWDRrdms?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlnQU14UlRYVHMtT3FqRk9meEE0S2ZsVFBLcEJuRWJWc2FSZzVoYmtJSlM5RG9IWnRlRGxMSE5FTmxlNVF2Unl4ZXBwNzN1WmxYSjVHU1pWNURHZDhGTVNoYnY3Z2l1LUY0WnRjU0dSbmM5NVpWaU1mTnhZZzVpNURIdGEyMWlVcFl3U1EtYU0xSVBMcEVrckk2ZVlxbHlwS2REVlJTR1FRM1NqR3c4?oc=5" target="_blank">Trump sends Congress formal notice that Iran conflict has resumed</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXZXdWw0Um15aXgwRy1uU3dobEJIREY5cDItRFd0d2ZvQjRDdXdVdHZJNmtWWmNuVG5hVWlNZmlXaVQ0eWJ2WndSM1JMOGtIQmpWM29XeVR0OVVheFZQNGVfNmhlYldNdjlfLU1MazZLMjJGVmc4TzdvSWRKNnVkRjNJemVxNGtrck5EWVA5c1dWdUdBSW92Y0RBWDRrdms?oc=5" target="_blank">JPMorgan posts record profit on big gains from dealmaking, stock trading</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters
+## AI startup Reflection signs over $1 billion computing deal with Nebius - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5" target="_blank">UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5" target="_blank">AI startup Reflection signs over $1 billion computing deal with Nebius</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters
+## Chemical tanker Stolt Magnesium hit by explosion off Omani coast, manager says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0hwdkFXSVNkZmdzUXllTXZ4QnhLajRNV3pJTm43MmFoSGcxUTBxU0xNSWJiVnVpVkNUMGdkYjlHVUtkVzFvT3h1YXd0Y0RLZXBqYjV0bmVnRFpXV2tlUExxejRCTDVFQmxDUzdJc3ZHNUhkbWczZnBTWVB6WEYyWk15MWxHaDVRVWZUZ0JGWC11eERIVExXcTFLd2VZM0FvdVlTT1h5YlZKZlM0QkpaUEFldm9BMFJYS2hBRTgyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5" target="_blank">Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0hwdkFXSVNkZmdzUXllTXZ4QnhLajRNV3pJTm43MmFoSGcxUTBxU0xNSWJiVnVpVkNUMGdkYjlHVUtkVzFvT3h1YXd0Y0RLZXBqYjV0bmVnRFpXV2tlUExxejRCTDVFQmxDUzdJc3ZHNUhkbWczZnBTWVB6WEYyWk15MWxHaDVRVWZUZ0JGWC11eERIVExXcTFLd2VZM0FvdVlTT1h5YlZKZlM0QkpaUEFldm9BMFJYS2hBRTgyQQ?oc=5" target="_blank">Chemical tanker Stolt Magnesium hit by explosion off Omani coast, manager says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
