@@ -1,6 +1,62 @@
 # 每日财经新闻
 
-更新时间：2026-07-15 02:52:56
+更新时间：2026-07-15 13:54:08
+
+## Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html
+
+正文长度：1954
+
+摘要：Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Morgan Stanley on Wednesday posted record revenue and profit for the second quarter, driven by a 69% surge in equities trading revenue.
+Here's what the company reported:
+- Earnings per share: $3.46 vs. $2.94 LSEG estimate
+- Revenue: $21.35 billion vs. $19.64 billion estimate
+The company said profit jumped 58% from a year earlier to $5.58 billion. Revenue climbed 27% to $21.35 billion.
+Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results. Heightened activity fueled by the global artificial intelligence boom propelled JPMorgan and Goldman to beat estimates for equities trading by a combined $4.4 billion, while investment banking at the two firms topped estimates by a combined $1 billion.
+Equities trading revenue at Morgan Stanley hit a record $6.3 billion, roughly $1.9 billion more than analysts surveyed by StreetAccount had expected. The firm cited strength across the equities franchise and "notable strength in Asia," another recurring Wall Street theme as the AI trade spreads globally.
+Meanwhile, fixed income trading rose 13% to $2.46 billion, essentially matching the consensus estimate, on good results in credit trading.
+"Active markets and consistent execution across all three regions drove exceptional results for our integrated firm," CEO Ted Pick said in the release.
+Investment banking revenue surged 58% to $2.44 billion, about $270 million more than analysts had expected, on additional completed mergers, initial public offerings and related equities deals, and rising debt issuance.
+Revenue in the firm's giant wealth management division climbed 14% to $8.86 billion, about $146 million more than expected, as asset levels were buoyed by the rising stock market and growth in deposits and lending.
+Revenue in investment management, the firm's smallest division, rose about 6% to $1.65 billion thanks to rising asset values, essentially matching the estimate.
+
+</details>
+
+
+---
+
+## ‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html
+
+正文长度：1217
+
+摘要：JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JPMorgan Chase CEO Jamie Dimon on Wednesday announced a $24 million effort to help revive American shipbuilding, his latest move under the bank's $1.5 trillion security project aimed at bolstering industries critical to U.S. economic and national security.
+The figure includes $18 million in loans and $6 million in grants to finance a new submarine manufacturing facility at the Philadelphia Navy Yard being built by Rhoads Industries, expand lending to maritime-related small businesses and strengthen regional suppliers, JPMorgan said.
+"The arsenal of democracy has been reignited," Dimon told CNBC's Andrew Ross Sorkin.
+"People said it couldn't happen, but here you have Hanwha shipbuilding at the Philadelphia Navy Yard," Dimon said, naming a South Korean conglomerate with a U.S. vessel-making subsidiary.
+The announcement comes as rising geopolitical tensions, including wars in the Middle East and Ukraine, spur governments to rearm and reinvest in domestic industrial capacity.
+Last year, JPMorgan launched a $1.5 trillion initiative to finance sectors it considers critical to U.S. economic and national security, including shipbuilding. The firm announced an expansion of the program into Europe this year.
+
+</details>
+
+
+---
 
 ## The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
 
@@ -104,194 +160,132 @@ While the success of Gus is likely to encourage the sale of more dinosaur bones,
 
 ---
 
-## Paramount still plans to close WBD merger by end of September despite lawsuit
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html
-
-正文长度：4031
-
-摘要：Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit challenge from state attorneys general.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Paramount Skydance is still aiming to close its proposed acquisition of Warner Bros. Discovery by the end of September despite a recent lawsuit filed by state attorneys general challenging the deal, Paramount's lead trial counsel Jeffrey Kessler told CNBC's David Faber in an interview on Tuesday.
-On Monday, a group of state attorneys general led by California's Rob Bonta filed a lawsuit aimed at blocking the merger due to antitrust concerns. Later in the day, the group filed court papers seeking a temporary restraining order to put the deal on hold so that legal proceedings could move forward.
-Either way, Kessler said that the company is prepared to bring the matter to the Supreme Court if it faced a prolonged blockade in closing the deal.
-"The company believes strongly in this," Kessler said of the combination of the entertainment and media companies.
-Kessler told Faber on Tuesday the temporary restraining order came after Paramount "indicated" that its intention was to be able to close as early as July 22, when the company expects to have all regulatory clearances.
-The July date stems from the next big hurdle Paramount needs to clear. The European Union has been reviewing the deal for approval and recently set July 22 as a new provisional deadline. Paramount recently submitted concessions to the EU as it looks to smooth concerns regarding the deal.
-The proposed acquisition that would bring together the two storied film studios of Warner Bros. and Paramount, as well as a sprawling portfolio of pay TV networks, has already received approval from the Antitrust Division of the U.S. Department of Justice, as well as other global jurisdictions.
-"Or we could work out a schedule to get this all decided by early September, that would be perfectly acceptable to the company if we could create an orderly procedure," Kessler said. "The states rejected both alternatives so right now we have a [temporary restraining order] that's been filed."
-If granted, it would pause the deal for 14 days. Up to two temporary restraining orders could be granted before the coalition seeks a preliminary injunction, putting the deal on ice while it's sorted out in court. Kessler said on Tuesday the company doesn't expect it to get to that point, arguing this isn't an antitrust issue.
-A long delay could be costly for Paramount. As part of the deal, Paramount has agreed to pay a so-called ticking fee, meaning that if the closing goes past Sept. 30, Paramount would pay additional fees to WBD shareholders per quarter until closing. That fee would equal roughly $650 million in cash value per quarter.
-For it to be delayed or blocked, "the merger has to be anti-competitive. This merger is pro-competitive," Kessler told Faber.
-"Anybody who knows the entertainment industry knows it is in deep trouble," he added, noting widespread challenges as consumers flee pay TV bundles and competition among streaming giants like Netflix intensifies.
-He added that the merger would create a competitor that could "go toe to toe with a Netflix or Disney or [Amazon's] Prime," which would be a positive for the theater industry and Hollywood workers.
-On Monday, Bonta said in a release that the merger would "lead to higher prices, lower quality, and less content for film and television, harming movie theaters, basic cable distributors, and ultimately, audiences on every sofa and movie theater seat in the U.S."
-As Hollywood has expressed concerns since the deal was announced, Paramount CEO David Ellison has promised that once merged, the film studios would together put out a slate of 30 movies annually.
-"We've told the states if they have what they think are legitimate concerns, they should come to the table and we talk about them," said Kessler, noting the question of whether Paramount could deliver the 30 films per year.
-Kessler said that Paramount has told state attorneys general the company is willing to put in writing that it would commit to the 30 films, and if it doesn't happen, litigation could then take place.
-
-</details>
-
-
----
-
-## Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html
-
-正文长度：1727
-
-摘要：Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Frontier Airlines and four other budget carriers with more than 1,000 planes between them will debut in-flight Wi-Fi early next year from SpaceX's Starlink, another win for the satellite internet provider.
-Frontier's first Airbus plane equipped with Starlink internet will roll out in early 2027, the airline said Tuesday. CNBC reported in 2022 that Frontier was in talks with Starlink to add its first in-flight Wi-Fi service.
-A Frontier spokeswoman declined to say whether flyers could use the service for free. Major airlines that have signed deals with Starlink have been offering Wi-Fi complimentary for loyalty program members.
-Frontier was one of the last U.S. holdouts to add Wi-Fi. Former CEO Barry Biffle previously said the airline was hesitant to to add weight to its planes with the equipment it would need for the service.
-Starlink, a part of Elon Musk's SpaceX, has signed deals with more than 40 carriers around the world, including United Airlines and American Airlines, as airlines ramp up their in-flight services and customers grow to expect at-home-quality internet in the sky. The airlines declined to disclose the terms of the agreements. SpaceX didn't immediately comment.
-The carriers in the latest Starlink deal — Frontier, Mexico's Volaris, European budget carrier Wizz, Chile's Jetsmart, and the Philippines' Cebu Pacific — all share private equity firm Indigo Partners as an investor, which is led by serial airline investor Bill Franke.
-Budget carriers have been under pressure to go upmarket as larger rivals post revenue growth from the front of the cabin, upending discounters' once-profitable model of no-frills seating and amenities. Frontier is planning to debut first-class seats next year.
-
-</details>
-
-
----
-
-## Boomers, not Gen Z, are the generation cutting back most on alcohol - Financial Times
+## BYD can take Toyota’s crown without the US market, says top executive - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWhmcV9ra245X3BUY3RIWVJCREFlWUVGYks5T3BubjFRWDdfZC1jZVRaRWt2VnNIRnNBV2VfQ3dBSHAwZlhNXzFMMjlUS3U4Y3RnOFNVMHVPdVRQVDNSM255RGl3NTl2Mk4ybDRVQWVLZXExbWlPdW0yVk95MjBiLXl4dUo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV85d1I5S2UtS3Qwai10R21Oa1hCNGpmQWREN2FfOVpYNmFwZEtQY0kyc2p2Tlk3R19FX1NIMV9VeDhnRDFlcW5MOEFjWW5ZWFNFSzJJdEYyYjZDOURya3BwU1JKWm1jaXZiZjE0d3VMbENxR3hzcEdoSUoyV1A2RUtNN00?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWhmcV9ra245X3BUY3RIWVJCREFlWUVGYks5T3BubjFRWDdfZC1jZVRaRWt2VnNIRnNBV2VfQ3dBSHAwZlhNXzFMMjlUS3U4Y3RnOFNVMHVPdVRQVDNSM255RGl3NTl2Mk4ybDRVQWVLZXExbWlPdW0yVk95MjBiLXl4dUo?oc=5" target="_blank">Boomers, not Gen Z, are the generation cutting back most on alcohol</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV85d1I5S2UtS3Qwai10R21Oa1hCNGpmQWREN2FfOVpYNmFwZEtQY0kyc2p2Tlk3R19FX1NIMV9VeDhnRDFlcW5MOEFjWW5ZWFNFSzJJdEYyYjZDOURya3BwU1JKWm1jaXZiZjE0d3VMbENxR3hzcEdoSUoyV1A2RUtNN00?oc=5" target="_blank">BYD can take Toyota’s crown without the US market, says top executive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Wall Street banks smash records on stock trading boom - Financial Times
+## ASML raises forecasts as AI boom drives chipmaking demand - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjdiVjZwT2g5ZlFVUG5oV0RlN3gxQmpiMThCRDFTbTdXbXdKZHlpcGJ5RVg3V0lETEMyNGhCRGVOU2lQWXpTMmlXMDAtT0dXbHFxamU0UE50dnJObExNdmhkWXZmNGh5WkVid05YVm9ReW1COXhWWVpfUUlxeHdyeTNROHM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVpzYk9JN3FNb2JaOGxUUWFzSHZRRjRhNGp0cnd2TlpVY0J4ZDF4UmpHOEFuZWJsNmlLaDgtd0ZyaTM4VktHWU9JREhPajZyT3hfdHRPblFmbnNoLW1IM1NhX1A4RmE5VHA3Qzl1cHNmRDhkSmpGS2Nja2Z0UWxBQUFPNGU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjdiVjZwT2g5ZlFVUG5oV0RlN3gxQmpiMThCRDFTbTdXbXdKZHlpcGJ5RVg3V0lETEMyNGhCRGVOU2lQWXpTMmlXMDAtT0dXbHFxamU0UE50dnJObExNdmhkWXZmNGh5WkVid05YVm9ReW1COXhWWVpfUUlxeHdyeTNROHM?oc=5" target="_blank">Wall Street banks smash records on stock trading boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVpzYk9JN3FNb2JaOGxUUWFzSHZRRjRhNGp0cnd2TlpVY0J4ZDF4UmpHOEFuZWJsNmlLaDgtd0ZyaTM4VktHWU9JREhPajZyT3hfdHRPblFmbnNoLW1IM1NhX1A4RmE5VHA3Qzl1cHNmRDhkSmpGS2Nja2Z0UWxBQUFPNGU?oc=5" target="_blank">ASML raises forecasts as AI boom drives chipmaking demand</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US inflation fell more than expected to 3.5% in June as petrol prices tumbled - Financial Times
+## Chipmaker CXMT seeks $10bn in largest China IPO since 2010 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmFLWHRoUE9ORGZ2eHNRSWlWSU5fejViWlBjT1NWcndmX2ZRUXQxd1lQNWU5WGlLbjI5WmpYVnJUQk1icWJUdXV1NEUtck15cDgtWk5sZDVic01NRzRNbWpzbDBxWndhRDlENnphU3ZuOXlWUWgydEc1WVlzLVlVR1BEMVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDVONXB5QjZyajFYV252UFJVLVIwSl9ycmtLUUlaSmRNbzlBMzhJcE8zRWt1cngzekk2T2hVWGJFMlkwWkRiLVpHWE5FUm5jM1E5clRZZVU5M1FTWHNWZklYcVlySFhzaFlTTVRtSzNuS1VUcnJDUHVENF9JZktNMlZOclA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmFLWHRoUE9ORGZ2eHNRSWlWSU5fejViWlBjT1NWcndmX2ZRUXQxd1lQNWU5WGlLbjI5WmpYVnJUQk1icWJUdXV1NEUtck15cDgtWk5sZDVic01NRzRNbWpzbDBxWndhRDlENnphU3ZuOXlWUWgydEc1WVlzLVlVR1BEMVA?oc=5" target="_blank">US inflation fell more than expected to 3.5% in June as petrol prices tumbled</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDVONXB5QjZyajFYV252UFJVLVIwSl9ycmtLUUlaSmRNbzlBMzhJcE8zRWt1cngzekk2T2hVWGJFMlkwWkRiLVpHWE5FUm5jM1E5clRZZVU5M1FTWHNWZklYcVlySFhzaFlTTVRtSzNuS1VUcnJDUHVENF9JZktNMlZOclA?oc=5" target="_blank">Chipmaker CXMT seeks $10bn in largest China IPO since 2010</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil touches $87 as battle for Strait of Hormuz alarms energy markets - Financial Times
+## China and the new era of critical minerals diplomacy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkRXQkNZWG4yOHE2c2ZHY3pjR3oteXBYbHZXZVNZUGVwS0tuZ0s0N2ljeFVreEFDQXhDMlVuZFBMVzZ0M2w0TFh6bjdMU2xYb1JQS0lfS0RDMHFObXM4Z1RfdzNaN1N3WGtCOGZqR3dtX1N4YVRZSG96a2VEYU40M0VnRzk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5" target="_blank">Oil touches $87 as battle for Strait of Hormuz alarms energy markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkRXQkNZWG4yOHE2c2ZHY3pjR3oteXBYbHZXZVNZUGVwS0tuZ0s0N2ljeFVreEFDQXhDMlVuZFBMVzZ0M2w0TFh6bjdMU2xYb1JQS0lfS0RDMHFObXM4Z1RfdzNaN1N3WGtCOGZqR3dtX1N4YVRZSG96a2VEYU40M0VnRzk?oc=5" target="_blank">China and the new era of critical minerals diplomacy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Google backs major US solar project to offset fossil fuel emissions - Financial Times
+## Stripe and Advent make $53bn bid for PayPal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFRaNG54Q1BqWUxHNWJqU2x6LXF4WjNWejRjcVZRRTFMQldrOUwyMkFqQ1VMZk1MUVlGYllhaWFoZzlmOFB0bERJdGlMZkFiWUwtMWlyUENLaHAtR2VJQmpmTjM1TUtzYWlQNzUwVHpQZU5jVUVwX1p0LUlYRVpFOWZqNXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjlfS0o5dEVPN29zUDN4eVFJMG5TdkZzbVh4YTNBdTFhYjdLcmIyTkl4V1Y2M0tNSEItYnNpODNLb2VweGtEM1VHQ3B1M1RQdG1GZ0ZVb0tyd2ppTmZaUEY3X1ZHUVNBMEtkazZoZUNMZ09YN0RhWjJzM2lKZ3VyVk9SWmk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFRaNG54Q1BqWUxHNWJqU2x6LXF4WjNWejRjcVZRRTFMQldrOUwyMkFqQ1VMZk1MUVlGYllhaWFoZzlmOFB0bERJdGlMZkFiWUwtMWlyUENLaHAtR2VJQmpmTjM1TUtzYWlQNzUwVHpQZU5jVUVwX1p0LUlYRVpFOWZqNXM?oc=5" target="_blank">Google backs major US solar project to offset fossil fuel emissions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjlfS0o5dEVPN29zUDN4eVFJMG5TdkZzbVh4YTNBdTFhYjdLcmIyTkl4V1Y2M0tNSEItYnNpODNLb2VweGtEM1VHQ3B1M1RQdG1GZ0ZVb0tyd2ppTmZaUEY3X1ZHUVNBMEtkazZoZUNMZ09YN0RhWjJzM2lKZ3VyVk9SWmk?oc=5" target="_blank">Stripe and Advent make $53bn bid for PayPal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil rises after US-Iran hostilities flare again with strikes on energy targets - Reuters
+## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5" target="_blank">Oil rises after US-Iran hostilities flare again with strikes on energy targets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5" target="_blank">Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk - Reuters
+## US says it has begun new wave of strikes on Iran - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmlFRGVrdXVHQUxPaVo1MU1jdEV4c3h4Nmp6S1lhTUtqVGwxVGlHN3JWaV81Y2NBYjV6a0lCRHhTWDU5cTh2WjJ2UnB3aGRfRUFTamNPR3lVcTBBTF9LS1V2WGhSbXFyY0JPelluSU93RmRxS21vRmtyeTRkMjV1dFdObWp3Mng4OXFNMFVCMk9kUGUtc09za2VXTXMzZWp5OERLTkFMRjBYSGE1XzdNQjR0d2p6eTVQNXI1TVRUMA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxObUM2X1dwWlEtWHFxM3dFS1pvOWlDcHNlR0NLTTBiTHR2RU01Y21HTXYwSW5FUng3UFZ1S21GdGhJQlJObjJySjBEa2RLSDJMN3cwNDVjMTJmNW9QVi1UOUVvQ0daRXIyVDJQN0RHX3VZWXRqVElkc0xYUEMtQlVwWW5JYzN0cnhnSmlYS1NhajlBTXhNWUZSRlZWLVo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmlFRGVrdXVHQUxPaVo1MU1jdEV4c3h4Nmp6S1lhTUtqVGwxVGlHN3JWaV81Y2NBYjV6a0lCRHhTWDU5cTh2WjJ2UnB3aGRfRUFTamNPR3lVcTBBTF9LS1V2WGhSbXFyY0JPelluSU93RmRxS21vRmtyeTRkMjV1dFdObWp3Mng4OXFNMFVCMk9kUGUtc09za2VXTXMzZWp5OERLTkFMRjBYSGE1XzdNQjR0d2p6eTVQNXI1TVRUMA?oc=5" target="_blank">AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxObUM2X1dwWlEtWHFxM3dFS1pvOWlDcHNlR0NLTTBiTHR2RU01Y21HTXYwSW5FUng3UFZ1S21GdGhJQlJObjJySjBEa2RLSDJMN3cwNDVjMTJmNW9QVi1UOUVvQ0daRXIyVDJQN0RHX3VZWXRqVElkc0xYUEMtQlVwWW5JYzN0cnhnSmlYS1NhajlBTXhNWUZSRlZWLVo?oc=5" target="_blank">US says it has begun new wave of strikes on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump administration asks US Supreme Court to overturn ruling favoring Venezuelans' protections - Reuters
+## EU seals deal for drone production with Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxQYjN4cDd6ODhheUM0LV9Sb0NXb1dlbDQ3WXdzSEFnQzRxVURDcEFTVk91S3ptamo1ekpPMXRNNzAtOC1qbEZaZkpYM1g2ajlkazNvX1FpSjA3NjloeWVZV3p0VWpsdnRrLU5FcW9XS2RBVXFTekhnTktna3B4N2xPRjVyeHloSFp3bzVncjMxV29IZVpTZWhVNVRRZHdpbE9KdkpBeGR1MEdxc19BOUdvdjJGa2hkeTE5YU9iRnVJX0NycTRqN1NqSG80ZGg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQYjN4cDd6ODhheUM0LV9Sb0NXb1dlbDQ3WXdzSEFnQzRxVURDcEFTVk91S3ptamo1ekpPMXRNNzAtOC1qbEZaZkpYM1g2ajlkazNvX1FpSjA3NjloeWVZV3p0VWpsdnRrLU5FcW9XS2RBVXFTekhnTktna3B4N2xPRjVyeHloSFp3bzVncjMxV29IZVpTZWhVNVRRZHdpbE9KdkpBeGR1MEdxc19BOUdvdjJGa2hkeTE5YU9iRnVJX0NycTRqN1NqSG80ZGg?oc=5" target="_blank">Trump administration asks US Supreme Court to overturn ruling favoring Venezuelans' protections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5" target="_blank">EU seals deal for drone production with Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Spain’s anaconda grip crushes French World Cup dream - Reuters
+## Apple Intelligence AI service registered with Chinese cyberspace regulator - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWprNTZrUDBUZmtScmswaWV0SHVsbHZVSDhRR0I1aEs3RnZ3Uk96YzdLTkl4TFd0Y2RXRWk1WjJFbWJxb0Z3X1NnWWs1bWMwNTlXTUkxZExjSEFhcHJNVFc3dGpRQnhESzBRWXpRTTZhb3Raa0dyN1czSEFrc3k0ZktOU2VzVlR3a09RcjZRNHlYNnRUcmJCdjNvQUVjTUQ0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWprNTZrUDBUZmtScmswaWV0SHVsbHZVSDhRR0I1aEs3RnZ3Uk96YzdLTkl4TFd0Y2RXRWk1WjJFbWJxb0Z3X1NnWWs1bWMwNTlXTUkxZExjSEFhcHJNVFc3dGpRQnhESzBRWXpRTTZhb3Raa0dyN1czSEFrc3k0ZktOU2VzVlR3a09RcjZRNHlYNnRUcmJCdjNvQUVjTUQ0?oc=5" target="_blank">Spain’s anaconda grip crushes French World Cup dream</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5" target="_blank">Apple Intelligence AI service registered with Chinese cyberspace regulator</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## We were second best, France coach concedes after chastening World Cup loss - Reuters
+## Information from NATO member states shows Russia attempted sabotage, Latvia's president says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGZ1Z1dlZHROWk9qSmQzVmFhYkJwRjZ5dGJRRkRHMl8wVEtDZ3dMakJXTm85LVQ5UFpEZkhZamVyMExKZnVyQWthQmR2cjFFdDlLUTNRVm5lSlludEpEc2psQWRnRmNCYUxaQTF5Sy13NDBjODlpVGQ5MXR5WWo1cDdabUluT2d3N1VJemJvbkw2QTU3RnVaQUJKZ3E3VEJQcEVtSkRuSEZObXRYcFNac0R1ZWRJWUltWkhsQkV3UzI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkJTMHdMSTg2MVBfQlVTcnFkOFRTMU5aZTgyRGlqaTBnZmNHMUt0eDg1czBjYWFHS1FfR3NqdzBRWXMxU21iZlhvNzAtdmJ2Ym1mYmFxdko2clFWOHkwZmhJdTZjaVRWWXhmUG8tR3ptUml3MEhYOEtPZUN3bHpPYld6eGhGTUR6NnE2ZTMtYUZHTkxZcVVoUkRHd2xEQ1VMa1IyaksxeUdnSGtKTmswbUhXblpJRkFGdllPZUtabmtGYWx1Vjdzbg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGZ1Z1dlZHROWk9qSmQzVmFhYkJwRjZ5dGJRRkRHMl8wVEtDZ3dMakJXTm85LVQ5UFpEZkhZamVyMExKZnVyQWthQmR2cjFFdDlLUTNRVm5lSlludEpEc2psQWRnRmNCYUxaQTF5Sy13NDBjODlpVGQ5MXR5WWo1cDdabUluT2d3N1VJemJvbkw2QTU3RnVaQUJKZ3E3VEJQcEVtSkRuSEZObXRYcFNac0R1ZWRJWUltWkhsQkV3UzI?oc=5" target="_blank">We were second best, France coach concedes after chastening World Cup loss</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkJTMHdMSTg2MVBfQlVTcnFkOFRTMU5aZTgyRGlqaTBnZmNHMUt0eDg1czBjYWFHS1FfR3NqdzBRWXMxU21iZlhvNzAtdmJ2Ym1mYmFxdko2clFWOHkwZmhJdTZjaVRWWXhmUG8tR3ptUml3MEhYOEtPZUN3bHpPYld6eGhGTUR6NnE2ZTMtYUZHTkxZcVVoUkRHd2xEQ1VMa1IyaksxeUdnSGtKTmswbUhXblpJRkFGdllPZUtabmtGYWx1Vjdzbg?oc=5" target="_blank">Information from NATO member states shows Russia attempted sabotage, Latvia's president says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
