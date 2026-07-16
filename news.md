@@ -1,21 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-07-16 03:14:17
+更新时间：2026-07-16 14:06:05
 
-## Global Investors Hunt For Creative Backdoors Into China’s Mega CXMT IPO
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo
-
-正文长度：0
-
-摘要：Global investors largely shut out of China’s biggest IPO in nearly four years are looking at creative proxy trades as a way to profit from the country’s fast-rising memory-chip leader.
-
-
----
-
-## Asian Stocks Fall as Kospi Hit by Selloff in Chips: Markets Wrap
+## Stocks Fall on AI Trade Jitters as Brent Tops $85: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +10,100 @@
 
 正文长度：0
 
-摘要：Semiconductor stocks tumbled across Asia, dragging regional equities lower, as investors became more skeptical that the artificial intelligence-driven rally can withstand lofty valuations. Oil climbed.
+摘要：A selloff in chipmakers dragged down stocks on concerns over whether massive artificial-intelligence investments will justify lofty valuations, with the market also falling as higher oil prices lifted bond yields.
 
 
 ---
 
-## Korea Plans Measures on Leveraged ETFs Driving Wild Volatility
+## Abbott Laboratories Surges on 2026 Profit Guidance Raise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-16/korea-to-announce-measures-on-single-stock-leveraged-etfs-soon
+链接：https://www.bloomberg.com/news/articles/2026-07-16/abbott-boosts-2026-profit-guidance-as-sales-across-business-rise
 
 正文长度：0
 
-摘要：South Korea will soon announce measures regarding the leveraged exchange-traded funds tied to shares of Samsung Electronics Co. and SK Hynix Inc. that have fueled a surge in market volatility.
+摘要：Abbott Laboratories soared the most in 24 years after raising its 2026 profit guidance following a stronger-than-expected second quarter driven by improved performance across most of its business lines.
 
 
 ---
 
-## Adani Flagship Draws Mutual Fund Interest as Governance Risks Recede
+## Gaming Bonds Lose Allure as Threat From Prediction Markets Grows
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-07-16/adani-flagship-draws-mutual-fund-interest-as-governance-risks-recede
+链接：https://www.bloomberg.com/news/articles/2026-07-16/gaming-bonds-lose-allure-as-threat-from-prediction-markets-grows
 
 正文长度：0
 
-摘要：Local mutual funds bought Adani Enterprises shares worth 46.60 billion rupees last month.
+摘要：Investors increasingly see gaming bonds as a losing bet.
 
 
 ---
 
-## Pound Index Hits One-Year High on Mahmood for Chancellor Reports
+## Hoisington, US Bond Bull for Decades, Turns Decidedly Bearish
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-16/pound-index-hits-one-year-high-on-mahmood-for-chancellor-reports
+链接：https://www.bloomberg.com/news/articles/2026-07-16/hoisington-us-bond-bull-for-decades-turns-decidedly-bearish
 
 正文长度：0
 
-摘要：A measure of sterling’s strength rose to its highest level in a year on Wednesday following reports that incoming UK Prime Minister Andy Burnham will name Shabana Mahmood as his Chancellor of the Exchequer.
+摘要：Hoisington Investment Management Co., the bond manager known for its bullish stance on US Treasuries going back more than 30 years, has turned bearish.
+
+
+---
+
+## Why IPOs of Tiny Foreign Companies Have Vanished in US
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-16/why-ipos-of-tiny-foreign-companies-have-vanished-in-us
+
+正文长度：0
+
+摘要：<p>Added scrutiny on foreign microcaps&nbsp;puts a damper on public debuts</p>
+
+
+---
+
+## UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html
+
+正文长度：4537
+
+摘要：The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> UnitedHealth Group on Thursday posted second-quarter earnings that blew past estimates and raised its full-year profit outlook, as the company better manages high medical costs and uses AI to help streamline operations.
+The largest private insurer in the U.S. said it expects 2026 adjusted earnings of $19.50 to $20 per share, up from a previous outlook of more than $18.25 per share. UnitedHealth is maintaining its full-year revenue guidance of greater than $439 billion. But CFO Wayne DeVeydt said in an interview that he expects the company to "do better than that" given the second-quarter beat.
+Still, he said medical costs in the quarter remained "elevated over historical levels" – an issue that has dogged the broader insurance industry for more than two years.
+"These results are not a reflection of trend bending or coming under control, but rather our efforts to start pushing down what is already an elevated number," DeVeydt said.
+Here's what the company reported for the second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $6.38 adjusted vs. $4.90 expected
+- Revenue: $112.03 billion vs. $110.85 billion expected
+The company's stock jumped more than 7% in morning trading.
+UnitedHealth's turnaround plan is gaining momentum following restructuring and an executive shuffle designed to counter challenges in the industry. The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into artificial intelligence to streamline operations.
+DeVeydt said the company is using AI to improve both efficiency and patient care. For example, AI is helping speed up processes like prior authorizations and improve payment accuracy by detecting potential fraud, waste and abuse. That can help lower costs while improving patient care. AI tools are not determining whether care is approved or denied, he said.
+"I would say the turnaround, and I would emphasize that on our culture, it's really happening … that turnaround is translating to strong, strong earnings," DeVeydt told reporters. "So it shows that when we can do things the way we think they should be done, that we can be both a solution and be profitable."
+But he emphasized that the turnaround is a "multiyear journey."
+The company posted second-quarter net income of $5.48 billion, or $6.04 per share, compared with $3.41 billion, or $3.74 per share, in the same period a year ago. Excluding items like business divestitures, restructuring and the expected reduction of reserves for unprofitable contracts, UnitedHealth earned $6.38 per share.
+Revenue climbed to $112.03 billion from $111.62 billion in the prior-year quarter. The company's insurer, UnitedHealthcare, and its Optum healthcare unit both topped analysts' sales estimates for the quarter, according to StreetAccount.
+UnitedHealth said rising healthcare costs are forcing insurers to raise premiums and adjust benefits, which is contributing to membership losses in both Affordable Care Act exchange plans and privately run Medicare Advantage plans. The company said revenue has remained stable because higher pricing is offsetting the decline in enrollment.
+But DeVeydt said that dynamic "is not a good thing for the system long term."
+UnitedHealthcare served 48.5 million people in the second quarter, down 525,000 from the previous quarter. DeVeydt attributed membership declines largely to affordability pressures driven by higher healthcare costs, forecasting a loss of roughly 500,000 ACA exchange members and 1.1 million Medicare Advantage members in 2026.
+Insurers, particularly those that run Medicare Advantage plans, have been pinched by an influx of people seeking care they delayed post-pandemic and high-cost specialty drugs like GLP-1s, among other factors.
+But UnitedHealth's medical benefit ratio — a measure of total medical expenses paid relative to premiums collected — came in at 86.7% for the second quarter. That's an improvement from the 89.4% reported in the year-earlier period. A lower ratio typically indicates that the company collected more in premiums than it paid out in benefits, resulting in higher profitability.
+Analysts were expecting a ratio of 88.5% for the quarter, according to StreetAccount.
+The results come about a year after UnitedHealth revealed it is facing Department of Justice investigations over its Medicare billing practices.
+DeVeydt said the company has no updates but continues to be "supportive" of the probe.
+
+</details>
 
 
 ---
@@ -73,7 +114,7 @@
 
 链接：https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html
 
-正文长度：2688
+正文长度：3006
 
 摘要：United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.
 
@@ -81,14 +122,15 @@
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
 > United Airlines' second-quarter results came in ahead of Wall Street estimates, but billions of dollars in added fuel costs continue to weigh on earnings, the carrier said Wednesday.
-Here is what United Airlines reported for the quarter that ended June 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:
-- Earnings per share: $1.99 adjusted vs. $1.88 expected
-- Revenue: $17.67 billion vs. $17.61 billion expected
 United forecast third-quarter adjusted earnings per share of between $2.50 and $3.50, compared with analysts' estimates for $3.60 a share. It estimated full-year adjusted earnings per share of between $9 and $11, the higher end of the range of the adjusted $7 to $11 a share it forecast in April, when it cut its January forecast after the U.S. and Israel attacked Iran in late February.
 According to Argus data published by industry group Airlines for America, jet fuel prices at major U.S. airports are up 34% in July alone through Tuesday amid a roller coaster of escalating and deescalating conflict between the U.S. and Iran. Jet fuel is the largest cost for airlines after labor.
 United said the higher fuel prices could add nearly $6 billion to its expenses this year compared with what it expected at the start of 2026, and that its second-quarter fuel costs rose 84% from last year to $2.3 billion. Those estimates were made based on Tuesday's fuel prices. It said it would cover up to as much as 90% of its higher costs this quarter and all of it in the fourth quarter.
 Rival Delta Air Lines also said it is passing on more of those higher costs to flyers. The airlines said demand has remained strong despite higher fares.
+Here is what United Airlines reported for the quarter that ended June 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:
+- Earnings per share: $1.99 adjusted vs. $1.88 expected
+- Revenue: $17.67 billion vs. $17.61 billion expected
 United said it is updating its forecast to include the most recent fuel prices because costs have been so volatile. Since the beginning of July, fuel prices have hit adjusted earnings for the third quarter by $1.12 per share, it said.
+"We have a strong economy, probably better than people appreciate, because we're a pretty good real-time indicator," CEO Scott Kirby told CNBC's "Squawk Box" on Thursday. He said fares are going up not just because of fuel prices but because other expenses have also gone up, like maintenance, labor and airport fees.
 The carrier could further cut its capacity plans because of higher fuel costs this year, it said in a filing.
 United expanded flying 3.5% second quarter. Its revenue rose 16% from a year earlier to $17.67 billion, with total unit revenue up 12.1% in the second quarter from last year. That was the highest unit revenue growth since early 2023, according to FactSet.
 The airline reported higher revenue for premium, corporate and no-frills basic economy tickets, as well as rising unit revenue for both domestic and international trips.
@@ -187,178 +229,132 @@ Last year, JPMorgan launched a $1.5 trillion initiative to finance sectors it co
 
 ---
 
-## The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
-
-正文长度：4577
-
-摘要：Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American megabanks on Tuesday gave evidence that the global artificial intelligence boom isn't just benefiting tech giants and chip makers.
-Goldman Sachs and JPMorgan Chase each posted record quarterly revenue hauls, fueled by massive gains in equities trading and investment banking.
-Behind the surge in activity — Goldman revenue jumped 39% to $20.3 billion, while JPMorgan saw it rise 27% to $58 billion — is the fact that AI is "everywhere in financial markets," JPMorgan CFO Jeremy Barnum told reporters.
-"These are booming environments with a ton of activity, big IPOs, big index rebalancing, a lot of activity in Asia," Barnum said Tuesday. "A lot of it is downstream of the AI theme, writ large on a global basis. It's just a very, very, very active environment."
-The quarter showed that the AI boom is creating winners far beyond Silicon Valley. While Nvidia and hyperscalers including Alphabet have captured many of the headlines, Goldman, JPMorgan and other banks are profiting from the massive flows of capital into AI.
-They are advising on AI-related deals, financing data centers and power infrastructure, underwriting debt and equity offerings, and facilitating the surge in trading that has accompanied the global race to deploy the technology.
-That is creating "a ripple effect" across the American economy and giving banks a flood of new opportunities to provide financing and trading solutions across public and private markets, Goldman CEO David Solomon told analysts Tuesday.
-"We are in the middle of an AI capex super cycle where there are demands on financing in every single financing instrument, in every region of the world and across every single industry," Goldman CFO Denis Coleman said. Capex is short for capital expenditures, or investments made by a business for physical assets like factories.
-Goldman is preparing for a three-to-five year investment cycle that is still in its early stages, Solomon told analysts.
-Goldman shares jumped 8% in afternoon trading, while JPMorgan rose 2%.
-AI 'tipping point'
-While the AI buildout isn't new, what's changed is that it has broadened out beyond chips and software to include power providers and infrastructure players.
-The top beneficiaries of this trend are the three biggest Wall Street firms: Goldman Sachs, JPMorgan and Morgan Stanley, according to Wells Fargo banking analyst Mike Mayo.
-The AI investment boom "reached a tipping point" in the second quarter, Mayo said.
-Mayo increased his price targets for Goldman and JPMorgan after Tuesday's blowout results. Morgan Stanley is scheduled to report earnings on Wednesday.
-The clearest evidence of the AI impact appeared in equities trading, where global capital flows and blockbuster transactions helped produce some of the biggest revenue surprises of the quarter.
-Revenue from equities trading rose 86% to $6 billion at JPMorgan and 72% to $7.42 billion at Goldman. Combined, that was a whopping $4.4 billon more than analysts had expected.
-Other large banks also benefited. Bank of America, the second biggest U.S. lender by assets, saw equity trading revenue rise 70% to $3.6 billion.
-Helping the quarter, investors broadened out their search for AI beneficiaries, pouring money into Asian markets, including South Korea, Taiwan and Japan, Soofian Zuberi, president and co-head of global markets at Bank of America, told CNBC.
-"People looked at the AI trade and said, 'What are the best reflections of it outside the U.S?,'" Zuberi said. "You've got American clients who are diversifying and allocating more money to Asia, including foundations, the endowments, and family offices."
-SpaceX, Alphabet
-The AI impact also showed up in the banks' strong advisory banking revenue for the second quarter.
-Investment banking revenue at Goldman jumped 55% to $3.4 billion, and climbed 30% to $3.3 billion at JPMorgan Chase. That is a combined $1 billion more than analysts had expected.
-In the quarter, Goldman was lead advisor on the SpaceX IPO and Alphabet's $90 billion equity issuance and advised Dominion Energy on its sale to NextEra Energy, all moves driven by the AI cycle.
-At Bank of America, investment banking fees jumped 50% to $2.1 billion.
-At the same time as they reap record fees driven by AI, banks are starting to benefit from implementing the technology internally. That should help them increase revenue while keeping a lid on headcount and other expenses.
-"AI is driving banking by helping streamline processes," Zubieri said. "And banking is driving AI, because without banking you can't have all these data centers financed."
-
-</details>
-
-
----
-
-## Ukraine’s self-defeating reshuffle - Financial Times
+## Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPajdXUjBneTV1cEV3c0NxaDBqQ0t3dTBVemFMZjMyMi00a1prS2VYM0ZJVnpHbEtHSUpKUVIzNlYtWkhwZ0ZhXy1NN1NuUG4tOHp1anFOaFFPd2FzVFZSUGpCUl9ONUVUdm9URVBTMFVVWWRuTTFpR0txTkxrM3lZMjZPekQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJQT1JGSHNrRUxZWklhbkJmaklfbWJNWW9kaHpzSEwtQjZnb2tPTVhRLVUxcHNYbW91NFdyZzRteVBwNHdOTjFOcDFXcEtsLUloS2NValhlNENsYVpEWTYxYXhkb0t1cE81bUQ1SFRsRFYyV3ZVR3h3enhXOXBXV05pVXY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPajdXUjBneTV1cEV3c0NxaDBqQ0t3dTBVemFMZjMyMi00a1prS2VYM0ZJVnpHbEtHSUpKUVIzNlYtWkhwZ0ZhXy1NN1NuUG4tOHp1anFOaFFPd2FzVFZSUGpCUl9ONUVUdm9URVBTMFVVWWRuTTFpR0txTkxrM3lZMjZPekQ?oc=5" target="_blank">Ukraine’s self-defeating reshuffle</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJQT1JGSHNrRUxZWklhbkJmaklfbWJNWW9kaHpzSEwtQjZnb2tPTVhRLVUxcHNYbW91NFdyZzRteVBwNHdOTjFOcDFXcEtsLUloS2NValhlNENsYVpEWTYxYXhkb0t1cE81bUQ1SFRsRFYyV3ZVR3h3enhXOXBXV05pVXY?oc=5" target="_blank">Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SpaceX sell-off wipes $1tn from Elon Musk’s rocket group - Financial Times
+## US lawmakers urge Trump administration to ban Chinese memory chips - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVE2QVJfNFFYSEs3V1dDd0R3SnB5clRBSEVhczZsQjBMWDFJbXF3V29va2U3bDR5QjdXOVJ2LTlXOTdXQ2hiV2xZZzVJdG8xM1FKTW1QZllaWUFoaFBGaVR0b1habW1KTnRDcVItckhrakRjLWRqU3dZNWNrdFp4YW82Vy0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG0wLXlOblQzclBwM2hUekpnZEhkbE4wWGlCRnNTakluVTdfQURPN19BNUluUDcwQTNPNXE3QzEtQ3F0dmZiOTF4MnEwNll2QUlpaGI3OHFEVU1RWHR4VjZmODlpOGg0dURqeFpsNDhrTW5LMjF5bE9uUDkzYWs3TDUwbmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVE2QVJfNFFYSEs3V1dDd0R3SnB5clRBSEVhczZsQjBMWDFJbXF3V29va2U3bDR5QjdXOVJ2LTlXOTdXQ2hiV2xZZzVJdG8xM1FKTW1QZllaWUFoaFBGaVR0b1habW1KTnRDcVItckhrakRjLWRqU3dZNWNrdFp4YW82Vy0?oc=5" target="_blank">SpaceX sell-off wipes $1tn from Elon Musk’s rocket group</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG0wLXlOblQzclBwM2hUekpnZEhkbE4wWGlCRnNTakluVTdfQURPN19BNUluUDcwQTNPNXE3QzEtQ3F0dmZiOTF4MnEwNll2QUlpaGI3OHFEVU1RWHR4VjZmODlpOGg0dURqeFpsNDhrTW5LMjF5bE9uUDkzYWs3TDUwbmc?oc=5" target="_blank">US lawmakers urge Trump administration to ban Chinese memory chips</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The Odyssey film review — Christopher Nolan’s $250mn epic is both crazy and conventional - Financial Times
+## Can Silicon Valley’s billionaires stop a California wealth tax? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMXdsTFVnVnl2UlVCNGFSTGI1c3lYYmFjczdtTFZQcmJOSFFFVFZjZWVwRVh5UEVYNzdYVTk0QnU5MlRvQnloSzhZdGNIQk1wMFhCNDllV21yTUxlNUpTMVI2X1pZZ3FSenUzRFc4cEQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnR0Z1dsNTFOZ0FSbU1VMC1KdWUzVHlIQmM0Vk1yT214a0xmUFd4VzR3WV9WbDc2UGN5eDZkbmpIM2ZBYS1HZ3RKV0JGVU9lQ0QwNmJZU1l5UzJDNjhVVFUwRDFwZ0RiNFhyYm9BclROb0M5dWxOSzJMMDhGVHBFRDFsbHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMXdsTFVnVnl2UlVCNGFSTGI1c3lYYmFjczdtTFZQcmJOSFFFVFZjZWVwRVh5UEVYNzdYVTk0QnU5MlRvQnloSzhZdGNIQk1wMFhCNDllV21yTUxlNUpTMVI2X1pZZ3FSenUzRFc4cEQ?oc=5" target="_blank">The Odyssey film review — Christopher Nolan’s $250mn epic is both crazy and conventional</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnR0Z1dsNTFOZ0FSbU1VMC1KdWUzVHlIQmM0Vk1yT214a0xmUFd4VzR3WV9WbDc2UGN5eDZkbmpIM2ZBYS1HZ3RKV0JGVU9lQ0QwNmJZU1l5UzJDNjhVVFUwRDFwZ0RiNFhyYm9BclROb0M5dWxOSzJMMDhGVHBFRDFsbHc?oc=5" target="_blank">Can Silicon Valley’s billionaires stop a California wealth tax?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times
+## UBS tries to crack the American market at last - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0JoVjlvMHpwak9Dd3dzRlpyWnV6R1Jlb2VrcHVJY295X0xoX2o2QWViYlh0V1dzalFpX28yNmx0dTRWZDdYUkl5T052RGxPT1FXSzhqUUVTSGhPbnVuMXV5T3JUSjNGbUs2cGFrZlpPNUFKdHVJM1B5Vm5ycGpoNm9XMnQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWxmNXIyRXUzbkE0R2ltbE1VbWtRYzZabmIzcGUzQi0yVElfM0h3MzRndHZEOHFneldWbk00QkQ2LVpTbWxMNU5sMHJQUURCUk1LVUYwalZPZXZPU09oSUlYb1JuWm5id3RQTnVOMklySWMtZ2NQcWw2RkJUTFNiNFVmZFI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0JoVjlvMHpwak9Dd3dzRlpyWnV6R1Jlb2VrcHVJY295X0xoX2o2QWViYlh0V1dzalFpX28yNmx0dTRWZDdYUkl5T052RGxPT1FXSzhqUUVTSGhPbnVuMXV5T3JUSjNGbUs2cGFrZlpPNUFKdHVJM1B5Vm5ycGpoNm9XMnQ?oc=5" target="_blank">Oil traders warn market is close to running on empty as Hormuz shuts again</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWxmNXIyRXUzbkE0R2ltbE1VbWtRYzZabmIzcGUzQi0yVElfM0h3MzRndHZEOHFneldWbk00QkQ2LVpTbWxMNU5sMHJQUURCUk1LVUYwalZPZXZPU09oSUlYb1JuWm5id3RQTnVOMklySWMtZ2NQcWw2RkJUTFNiNFVmZFI?oc=5" target="_blank">UBS tries to crack the American market at last</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Uber nears €12.5bn deal to acquire Delivery Hero - Financial Times
+## Energy IPOs surge as investors hunt for ways to play AI boom - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX21jekhoUEI2YTh4enRaaHB5TUJiY1BvN3NxV1ltdXZBUTdsWlVHTUFVRFJYbWU2N0FVZEZIQ2tfU01yS0VhQWd5a3phODBPS0Y5YTYtakJRWWQybWE4Qks2VkhGWjgxLWg5OHZXSWllTGJuVG9XQUxSZFhTM3hJNGxpV2o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHc4VFFyWGxJczdpbmZKTFRkQV84TUFXT1BvNkF1YzlrSXp5d0NwTXE2VDFadEhydlNNdmlmZTF1RUp1NEJxSXBQekpxU2xvcm5OSXBpZzMzXzVTUGhtTkRmeUs3a0M1Z3pEbnNjU09JalZYb1NyT1JrT2ZyejJCNjdTZlU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX21jekhoUEI2YTh4enRaaHB5TUJiY1BvN3NxV1ltdXZBUTdsWlVHTUFVRFJYbWU2N0FVZEZIQ2tfU01yS0VhQWd5a3phODBPS0Y5YTYtakJRWWQybWE4Qks2VkhGWjgxLWg5OHZXSWllTGJuVG9XQUxSZFhTM3hJNGxpV2o?oc=5" target="_blank">Uber nears €12.5bn deal to acquire Delivery Hero</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHc4VFFyWGxJczdpbmZKTFRkQV84TUFXT1BvNkF1YzlrSXp5d0NwTXE2VDFadEhydlNNdmlmZTF1RUp1NEJxSXBQekpxU2xvcm5OSXBpZzMzXzVTUGhtTkRmeUs3a0M1Z3pEbnNjU09JalZYb1NyT1JrT2ZyejJCNjdTZlU?oc=5" target="_blank">Energy IPOs surge as investors hunt for ways to play AI boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict - Reuters
+## EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnlkS245LVFESkFHd2V1MjVwTjdoSm9ZZmRWTlRUZ0dBdkN1VlRPUHU0ZXZLbjNVWGVIdGxldS1uVi1TOFctd2VXQy1jeXRmLWhyOVczWmpaRVY1Ml9sVWQ2N3ktdE5iRUNOcTdaWnZmNzdzT1M4NG1jMkNIeFVaa05YSHhRdHZYQ3BDS3lnb2pkYmFpYS1NR2E5WHBuOEFsTWljaDNsWGVqZ1VKSFlaNmd2UkU4aE1Xa29XeDNVcFdZZnh4bjFSQ1NuUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5" target="_blank">Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnlkS245LVFESkFHd2V1MjVwTjdoSm9ZZmRWTlRUZ0dBdkN1VlRPUHU0ZXZLbjNVWGVIdGxldS1uVi1TOFctd2VXQy1jeXRmLWhyOVczWmpaRVY1Ml9sVWQ2N3ktdE5iRUNOcTdaWnZmNzdzT1M4NG1jMkNIeFVaa05YSHhRdHZYQ3BDS3lnb2pkYmFpYS1NR2E5WHBuOEFsTWljaDNsWGVqZ1VKSFlaNmd2UkU4aE1Xa29XeDNVcFdZZnh4bjFSQ1NuUQ?oc=5" target="_blank">EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## TSMC's second-quarter profit seen hitting record on AI boom - Reuters
+## Google required to open up to AI, search engine rivals under EU-mandated changes - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNZSnZMWVlJN01HaEZaS1ktSVZhRnFoY2hOU0pEa2Nnb1JZeDhRNzV5VFQ2dVZSZ3ByR0R0MWVVdTZKZ3g3d2lQbUdEZjZoN1VMSkZjQ1hSU00xMFlJY0UtY0xCQWJ1MUFiYU1XSDMwcWEzVkxuZVZhM0M4T0RmTmRlVS1vMzFxc3JfQ2hBRXVkcUl3MzZhZkJiZV9pR2ZtdVZWWmZPMXRMMWozai04YTUzOEZGZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5" target="_blank">TSMC's second-quarter profit seen hitting record on AI boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNZSnZMWVlJN01HaEZaS1ktSVZhRnFoY2hOU0pEa2Nnb1JZeDhRNzV5VFQ2dVZSZ3ByR0R0MWVVdTZKZ3g3d2lQbUdEZjZoN1VMSkZjQ1hSU00xMFlJY0UtY0xCQWJ1MUFiYU1XSDMwcWEzVkxuZVZhM0M4T0RmTmRlVS1vMzFxc3JfQ2hBRXVkcUl3MzZhZkJiZV9pR2ZtdVZWWmZPMXRMMWozai04YTUzOEZGZw?oc=5" target="_blank">Google required to open up to AI, search engine rivals under EU-mandated changes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Argentina late show sinks England and sets up World Cup final against Spain - Reuters
+## Starmer says UK to help fund 16 Gripen fighter jets for Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkdVRldISW43d1B6dU5OZWVKa3lhR1IzaGRiVTk3bG5pSENibmdmU2dldFg1TnQ5ZUxMMzJmWENzb3FacVdMamFBRU1fZjBnYjFJc3FUeW9ORHRtc1lSM0dwSTliTGtJX3d0eXpIblRWa3NkQXFWN21BZWo3NmpkQk9WLVN5SVVuOFBrM2dkQXJPVGxuTVNLZ0NhdlF3WFROcnNyWTFuRDBGNmdfQ0NIRmM1Y211cVg2SklnTFdR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU9xQTFVdEtCNExlUkNEWEFteS1IcWgxS2lGYzVONmUwTEpQMDFhM01SVWZ2c0tiQnJIT1BUbm5BM2JoUmZEWl9EMVJLb1gtcUdZb1VIUGRJSWhibFJjUTJjOGgzV0hPTFhIUXB2YmxpeElZekt1X2pKeF8zNTh1SEJRMjNwenZZX2hnc29DbzZDRXlwRlZYYkZKc0E4Wnc3V3d4QnVzREhsSW5hWVlWSVFuMWdYRGo1Tm40?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkdVRldISW43d1B6dU5OZWVKa3lhR1IzaGRiVTk3bG5pSENibmdmU2dldFg1TnQ5ZUxMMzJmWENzb3FacVdMamFBRU1fZjBnYjFJc3FUeW9ORHRtc1lSM0dwSTliTGtJX3d0eXpIblRWa3NkQXFWN21BZWo3NmpkQk9WLVN5SVVuOFBrM2dkQXJPVGxuTVNLZ0NhdlF3WFROcnNyWTFuRDBGNmdfQ0NIRmM1Y211cVg2SklnTFdR?oc=5" target="_blank">Argentina late show sinks England and sets up World Cup final against Spain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU9xQTFVdEtCNExlUkNEWEFteS1IcWgxS2lGYzVONmUwTEpQMDFhM01SVWZ2c0tiQnJIT1BUbm5BM2JoUmZEWl9EMVJLb1gtcUdZb1VIUGRJSWhibFJjUTJjOGgzV0hPTFhIUXB2YmxpeElZekt1X2pKeF8zNTh1SEJRMjNwenZZX2hnc29DbzZDRXlwRlZYYkZKc0E4Wnc3V3d4QnVzREhsSW5hWVlWSVFuMWdYRGo1Tm40?oc=5" target="_blank">Starmer says UK to help fund 16 Gripen fighter jets for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## England tried to hold on but it wasn't enough, says Kane - Reuters
+## Merck's cholesterol pill gets US FDA approval - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmtBQlY4Z2RoQmxwcHYwbmpmZkItdm9PcEdBVUpfc1h5Q2NWaktTMHVjLUF3V3pzU3BzMmY2M3ctMnRrMklpMUJKY1BmdGVhbWJaV2d6cEVNVDJ2N2hwVncwalpKaTlMbGtNd3BPWVFlX21Qa1BWLWx6RGc1eDBDYzJGcm5yWHM4RHdRMlpPYWlyN1pkTnNuZmRn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxNLVVrMEhiYUJsRW5aTnhRMjJsMHpYTEdsUC00dzdUNUNGYXljTzNTeEc3Nmw2ZkV5RmZHRmhabHBub0FhZDVWTW83dmUwMkJoaGJYT1dmZndsUmNjenlQOWxFQzF4engwMktlb1pEQzJHU0ZQelhoVTQ0aFZtX3AyY1ozOEF1MmgzX3JvQlVfWENtcGJFYXppS0l1cmRQZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmtBQlY4Z2RoQmxwcHYwbmpmZkItdm9PcEdBVUpfc1h5Q2NWaktTMHVjLUF3V3pzU3BzMmY2M3ctMnRrMklpMUJKY1BmdGVhbWJaV2d6cEVNVDJ2N2hwVncwalpKaTlMbGtNd3BPWVFlX21Qa1BWLWx6RGc1eDBDYzJGcm5yWHM4RHdRMlpPYWlyN1pkTnNuZmRn?oc=5" target="_blank">England tried to hold on but it wasn't enough, says Kane</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNLVVrMEhiYUJsRW5aTnhRMjJsMHpYTEdsUC00dzdUNUNGYXljTzNTeEc3Nmw2ZkV5RmZHRmhabHBub0FhZDVWTW83dmUwMkJoaGJYT1dmZndsUmNjenlQOWxFQzF4engwMktlb1pEQzJHU0ZQelhoVTQ0aFZtX3AyY1ozOEF1MmgzX3JvQlVfWENtcGJFYXppS0l1cmRQZw?oc=5" target="_blank">Merck's cholesterol pill gets US FDA approval</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Eli Lilly nears deal to buy psychedelic drugmaker AtaiBeckley, Bloomberg News reports - Reuters
+## With midterms on deck, Trump to deliver primetime speech on election security - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkdBem1IX3AtekZzbllhUEZyTU9HQU1RY1AxRF9ZSnNoNlAybXNmcnFnTDZ3X3RJWDQ4bXNlNERLeWlUNy02dFNfQl9BbXBKZmRHVXRpdi1oMXltUF9qNVB2NEQ0WDJJbmdXSDJ6WGJDUzR2c0t6MDVycnhKOWRCckwySkc1SjN6d1FZNWpzZW5nSnRHRWl4M3dtaXNMeGN1d0RuMVJsTjR1R25EYWhsbmR5Rk9ndzdhTzJuVzN4QUg2SFR5cDZPbUxDVHhjVmhWaDlaTGI0Z1NwTUhGTlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnIxbG1weWlQMmJNcnBLeWdvaFhkbFAxYS05NjZZVEFkMnNXbDNXWlBCZWxMY2FVSllaam8waXRveG9tYjVRa3NuOG5nVlFRc1lvcXpkeFlVN2cxMWN1TjRyckMtUUhmT0ZIRzVQa0QyTkIydmdzSWtEU0lvckNhTGxSN1AtUXd6UkZYNmRKaXQtd0hHSDlqVVRTSzREVmFGT05oM2RvZV80N1oybWhJdW5tRm1WSWdRb0duUA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkdBem1IX3AtekZzbllhUEZyTU9HQU1RY1AxRF9ZSnNoNlAybXNmcnFnTDZ3X3RJWDQ4bXNlNERLeWlUNy02dFNfQl9BbXBKZmRHVXRpdi1oMXltUF9qNVB2NEQ0WDJJbmdXSDJ6WGJDUzR2c0t6MDVycnhKOWRCckwySkc1SjN6d1FZNWpzZW5nSnRHRWl4M3dtaXNMeGN1d0RuMVJsTjR1R25EYWhsbmR5Rk9ndzdhTzJuVzN4QUg2SFR5cDZPbUxDVHhjVmhWaDlaTGI0Z1NwTUhGTlE?oc=5" target="_blank">Eli Lilly nears deal to buy psychedelic drugmaker AtaiBeckley, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnIxbG1weWlQMmJNcnBLeWdvaFhkbFAxYS05NjZZVEFkMnNXbDNXWlBCZWxMY2FVSllaam8waXRveG9tYjVRa3NuOG5nVlFRc1lvcXpkeFlVN2cxMWN1TjRyckMtUUhmT0ZIRzVQa0QyTkIydmdzSWtEU0lvckNhTGxSN1AtUXd6UkZYNmRKaXQtd0hHSDlqVVRTSzREVmFGT05oM2RvZV80N1oybWhJdW5tRm1WSWdRb0duUA?oc=5" target="_blank">With midterms on deck, Trump to deliver primetime speech on election security</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
