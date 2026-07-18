@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-07-18 02:54:14
+更新时间：2026-07-18 13:27:05
 
-## Sheinbaum, Carney to Watch World Cup Final With Trump
+## Kuwait Energy Infrastructure Hit During Intense Iran Attacks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-18/sheinbaum-carney-to-watch-world-cup-final-with-trump
+链接：https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit
 
 正文长度：0
 
-摘要：Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney will travel to the US to attend Sunday’s World Cup final on President Donald Trump’s invitation, creating the opportunity for a reset after a month filled with regional tensions.
+摘要：Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the Middle East conflict began, with strikes on an oil facility and a second power plant hit in as many days.
 
 
 ---
 
-## Apple Briefly Tops Nvidia as World’s Most Valuable Company
+## Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation
+链接：https://www.bloomberg.com/news/articles/2026-07-18/zelenskyy-may-fire-commander-syrskyi-after-protests-ft-reports
 
 正文长度：0
 
-摘要：Apple Inc. briefly overtook Nvidia Corp. as the world’s most valuable company, a title the chipmaker has held since May 2025.
+摘要：Ukraine President Volodymyr Zelenskyy is considering firing Armed Forces commander-in-chief Oleksandr Syrskyi, the Financial Times reported, following days of turmoil engulfing the country’s military leadership.
 
 
 ---
 
-## Baker Tilly Eyes $3 Billion in Debt to Replace Private Credit
+## Not Done Yet Refunding Tariffs or Realizing AI’s Promise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit
+链接：https://www.bloomberg.com/news/newsletters/2026-07-18/not-done-yet-refunding-tariffs-or-realizing-ai-s-promise
 
 正文长度：0
 
-摘要：Deutsche Bank AG is preparing to sell about $3 billion in debt markets for accounting services firm Baker Tilly Advisory Group to refinance private credit loans, according to people familiar with the matter.
+摘要：The markets continue to be dominated by news of artificial intelligence
 
 
 ---
 
-## Chip Stocks Slide Into Bear Market in AI Unwind: Markets Wrap
+## ICICI Bank’s First-Quarter Profit Beats Estimate as Loans Surge
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-07-18/icici-bank-first-quarter-profit-beats-estimates-as-loans-surge
 
 正文长度：0
 
-摘要：A selloff in chipmakers gathered pace, driving the high-profile group of stocks to a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.
+摘要：ICICI Bank Ltd. posted better-than-expected results as India’s second-largest private-sector lender benefited from healthy loan growth across retail and corporate segments.
 
 
 ---
 
-## Gauge of Oracle’s Credit Risk Hits Fresh All Time High
+## India Moves Against Youth Protesters Before Parliament Session
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-17/gauge-of-oracle-s-credit-risk-hits-fresh-all-time-high
+链接：https://www.bloomberg.com/news/articles/2026-07-18/india-moves-against-youth-protesters-before-parliament-session
 
 正文长度：0
 
-摘要：A measure of Oracle Corp.’s credit risk hit a record high on Friday as concerns grew about both the company’s aggressive cash-burn and the future profitability of its artificial intelligence investments amid a new Chinese model that could rival offerings from companies like OpenAI.
+摘要：Indian authorities moved against protesters in New Delhi ahead of demonstrations against unemployment and alleged examination scams, as the movement adds pressure on Prime Minister Narendra Modi’s government.
 
 
 ---
@@ -283,6 +283,45 @@ Horton said it would be a mistake for the wealth management industry or any comp
 
 ---
 
+## German army looks to Ukraine for battlefield lessons - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5" target="_blank">German army looks to Ukraine for battlefield lessons</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5" target="_blank">Zelenskyy considers sacking commander-in-chief as protests swell</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5" target="_blank">Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Trump Media pitched $100,000 monthly fee for fast feed of president’s posts - Financial Times
 
 来源：金融时报
@@ -296,119 +335,80 @@ Horton said it would be a mistake for the wealth management industry or any comp
 
 ---
 
-## Apple targets dozens of OpenAI employees with legal letters - Financial Times
+## Ukraine’s rift over military strategy breaks into the open - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZZeDdsX250MmZUS19kaEVLd1FEWllTRzlySk9sb0J5UU1uSjB6aXZGbW1vSzYtWDRZX2J3UU14bWVITTRWb0ZCUWVLNTZ2Q1RhdlkyVE9MRXYzU0hXUEtNdUV1aktUQVUzazFuNmZNb2QyQl93OGc5VC1IcVJrbDFPVFo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5" target="_blank">Apple targets dozens of OpenAI employees with legal letters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZZeDdsX250MmZUS19kaEVLd1FEWllTRzlySk9sb0J5UU1uSjB6aXZGbW1vSzYtWDRZX2J3UU14bWVITTRWb0ZCUWVLNTZ2Q1RhdlkyVE9MRXYzU0hXUEtNdUV1aktUQVUzazFuNmZNb2QyQl93OGc5VC1IcVJrbDFPVFo?oc=5" target="_blank">Ukraine’s rift over military strategy breaks into the open</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump envoy’s tour on $450mn superyacht stirs anger in Italy - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzhabVNZMkNSd3lYSjFibzg3Yi1JYTktR3lNbFp3cktXMV9BazhleHVkWXAwX2pUbFQ2T1d0cThXQWdTczZ3MTViWjB2ZG1uWFpLdUp0WUlRUzFBQ2ZNeHJkUndiMUNWenFQd2JUM1ZzVW1waFVEczd1cVYzQUpZUUpZMjU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzhabVNZMkNSd3lYSjFibzg3Yi1JYTktR3lNbFp3cktXMV9BazhleHVkWXAwX2pUbFQ2T1d0cThXQWdTczZ3MTViWjB2ZG1uWFpLdUp0WUlRUzFBQ2ZNeHJkUndiMUNWenFQd2JUM1ZzVW1waFVEczd1cVYzQUpZUUpZMjU?oc=5" target="_blank">Trump envoy’s tour on $450mn superyacht stirs anger in Italy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## SpaceX and the myth of independent Wall St research - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNThkclg0blIzdDlrSXlJME03NWZoM1dFYUFSSWJGSEtlWTBVekpSdWxmTS1mOThwVkRCT0JTUU5hdTZUMnROcDhPbTJhMlp0VHJ5aWtaTWw3RVJqekdwZGFlZzZpVkwzeVBVNUNkb3g?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNThkclg0blIzdDlrSXlJME03NWZoM1dFYUFSSWJGSEtlWTBVekpSdWxmTS1mOThwVkRCT0JTUU5hdTZUMnROcDhPbTJhMlp0VHJ5aWtaTWw3RVJqekdwZGFlZzZpVkwzeVBVNUNkb3g?oc=5" target="_blank">SpaceX and the myth of independent Wall St research</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## AI isn’t destroying entry-level jobs. It’s changing them - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEhXdHdFS3p4VDluLVR1RWw1cXFZTnA3U0lndVVBNmp2TWpidTUtS21hRDJKQlZzV3lsZzBOelJqQlF3WWNfSFRrWmg5dkxDLUVTVEo2U2ROOWxnN3NUNlc4U3ZWZ1dpOTI0SzFaZG43Q094RHlUTF9wVG9iY0xESUtSN0E?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEhXdHdFS3p4VDluLVR1RWw1cXFZTnA3U0lndVVBNmp2TWpidTUtS21hRDJKQlZzV3lsZzBOelJqQlF3WWNfSFRrWmg5dkxDLUVTVEo2U2ROOWxnN3NUNlc4U3ZWZ1dpOTI0SzFaZG43Q094RHlUTF9wVG9iY0xESUtSN0E?oc=5" target="_blank">AI isn’t destroying entry-level jobs. It’s changing them</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Smoke, fire, floods: US faces triple extreme summer weather threats - Reuters
+## Senior Merz ally resigns after coming under pressure in Germany over surrogate baby - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWR6eU4yX0ZaaUxFYkRlZmE5R25nMG9yWEJzWk9TNGswUkZwLUhJQmVqMXg4b1dBLTdUMXZURVdIWHFtN0NjQVNaX0FtQVJsX3FMMTU5cDZ6WTVBX1hVdVZMaDlYWFRPUzZMSGlYX3V1dnRYZzMzaXJZd05nb21STTBfTkpoZGs1a1FzYUszd2k5SjNpclhZRWhHSmFKZlZoVW9vTTVQWlh4MkloQjlfdXVHcVZJMHFiQV9BUHR3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpqcGdjVlJvaUlMRXJLd1Y4dFBoamtNV2Y3WHZ5aXBJS29tY2F6a1NWRHl2OE9hM2lXeF9SRk5CNzlWeVpuRVAzYWprU25MRGdUTHVCS29vNWRacWJ5Nk53Qy1wMTF5M005Ri1OOVI2MzBlS19JdnJ0NjRmdTdhTnBBMDl1cmQweHdPWThXVDZWcGhfUGtqS1l6dHVNMGM5YlRRU1IyWXBER2FzbndyRlM4VQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWR6eU4yX0ZaaUxFYkRlZmE5R25nMG9yWEJzWk9TNGswUkZwLUhJQmVqMXg4b1dBLTdUMXZURVdIWHFtN0NjQVNaX0FtQVJsX3FMMTU5cDZ6WTVBX1hVdVZMaDlYWFRPUzZMSGlYX3V1dnRYZzMzaXJZd05nb21STTBfTkpoZGs1a1FzYUszd2k5SjNpclhZRWhHSmFKZlZoVW9vTTVQWlh4MkloQjlfdXVHcVZJMHFiQV9BUHR3?oc=5" target="_blank">Smoke, fire, floods: US faces triple extreme summer weather threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpqcGdjVlJvaUlMRXJLd1Y4dFBoamtNV2Y3WHZ5aXBJS29tY2F6a1NWRHl2OE9hM2lXeF9SRk5CNzlWeVpuRVAzYWprU25MRGdUTHVCS29vNWRacWJ5Nk53Qy1wMTF5M005Ri1OOVI2MzBlS19JdnJ0NjRmdTdhTnBBMDl1cmQweHdPWThXVDZWcGhfUGtqS1l6dHVNMGM5YlRRU1IyWXBER2FzbndyRlM4VQ?oc=5" target="_blank">Senior Merz ally resigns after coming under pressure in Germany over surrogate baby</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional - Reuters
+## China says it will take measures on UK's nationalisation of British Steel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXVkTmVuMW9WWmhVNEkxVWt3anRHMzQ2RUFXQjA5czBqMER0RlUzOTBkbVEyWlpQY21qX3M4dm8xbXdaeVF0Ulg4aHZZcGtzM0tlMTl6TDZwdlpNU2RvNEp2QmR6aUpNdXlHVGdqLUdkTmxLbWtMLWpXR2ZJYmxZRDFaTl9IWWhqbGJOSnZ5ODNpRUJLNUthX2pEMU9URFdTb01DbHhtYkJZS0R4UDk1SFRnUTFva0MwejBabl9JRzFPaUNaVE80enp5eFdmc2lR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXVkTmVuMW9WWmhVNEkxVWt3anRHMzQ2RUFXQjA5czBqMER0RlUzOTBkbVEyWlpQY21qX3M4dm8xbXdaeVF0Ulg4aHZZcGtzM0tlMTl6TDZwdlpNU2RvNEp2QmR6aUpNdXlHVGdqLUdkTmxLbWtMLWpXR2ZJYmxZRDFaTl9IWWhqbGJOSnZ5ODNpRUJLNUthX2pEMU9URFdTb01DbHhtYkJZS0R4UDk1SFRnUTFva0MwejBabl9JRzFPaUNaVE80enp5eFdmc2lR?oc=5" target="_blank">FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5" target="_blank">China says it will take measures on UK's nationalisation of British Steel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Federal employees can download TikTok on government devices, DOJ says - Reuters
+## US data center protests go national as backlash grows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXlPRm9FWF9FVk1wWGdlOVBkZlpyWEEzejgxbnhEYVhwRFFOVlliX1N1Yjc2dTVTMUo3SmdqdTN1VFczaHFrUjFXM2wtQWUtclJPa1Q4TFJqMkZjdXBpMGRrRjI5Vl8xRS1QTmFIcko3UE9ZRklieW5YVkxtUjBWWFBKVUY1dndZaVFudEEwUXhKOS1obmZBV0JvOXhNMWV4YWRaV0E3WUcyTk0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5QUVhhdHdNUVZKT0xJVURINmc1UzZORTZpdGtnaGwxemxTSWZNUTR6MkE3SHY5RjYwSUlQSWFUSlV3RHJGSXJLcjBUWXRlNzBuREwzblp5aEtIdVFRZjJlZmt2dUF6QzNxY2hackV2NDlQbnVGbFBrRnlXOUdycTh1ck5RdUd6WndGOExPN2h5dkVuVUFEVnYzeHdxT1ViWElDZjRpNzFncVFmMEltNg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXlPRm9FWF9FVk1wWGdlOVBkZlpyWEEzejgxbnhEYVhwRFFOVlliX1N1Yjc2dTVTMUo3SmdqdTN1VFczaHFrUjFXM2wtQWUtclJPa1Q4TFJqMkZjdXBpMGRrRjI5Vl8xRS1QTmFIcko3UE9ZRklieW5YVkxtUjBWWFBKVUY1dndZaVFudEEwUXhKOS1obmZBV0JvOXhNMWV4YWRaV0E3WUcyTk0?oc=5" target="_blank">Federal employees can download TikTok on government devices, DOJ says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5QUVhhdHdNUVZKT0xJVURINmc1UzZORTZpdGtnaGwxemxTSWZNUTR6MkE3SHY5RjYwSUlQSWFUSlV3RHJGSXJLcjBUWXRlNzBuREwzblp5aEtIdVFRZjJlZmt2dUF6QzNxY2hackV2NDlQbnVGbFBrRnlXOUdycTh1ck5RdUd6WndGOExPN2h5dkVuVUFEVnYzeHdxT1ViWElDZjRpNzFncVFmMEltNg?oc=5" target="_blank">US data center protests go national as backlash grows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## More than 100 homes destroyed in Norway fire - Reuters
+## Germany upgrades security stance to 'high threat level', interior minister tells paper - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxNeXZ4SFJQQnBFWmtET1E1cGF2MmY1VTBTRXcta3FCaVduQ3dFZ2F0U1AyMnFUZ1h0QVN4YmFYdGtEeHE5ZnJYd2NGUENWaUpmM3RKR1N4aUJQeEUtVFhJRkZVcUVzNWFxeXZMODJyT2RaN3VYQVQ1WHViOTQ2Ukh4RnowSEc3WWtGZ0hwVnpLd3pJSEtBUDJ6ZE8xNXdQZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNeXZ4SFJQQnBFWmtET1E1cGF2MmY1VTBTRXcta3FCaVduQ3dFZ2F0U1AyMnFUZ1h0QVN4YmFYdGtEeHE5ZnJYd2NGUENWaUpmM3RKR1N4aUJQeEUtVFhJRkZVcUVzNWFxeXZMODJyT2RaN3VYQVQ1WHViOTQ2Ukh4RnowSEc3WWtGZ0hwVnpLd3pJSEtBUDJ6ZE8xNXdQZw?oc=5" target="_blank">More than 100 homes destroyed in Norway fire</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5" target="_blank">Germany upgrades security stance to 'high threat level', interior minister tells paper</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US appeals court strikes down New Jersey's assault weapons ban on AR-15s - Reuters
+## India's Skyroot launches Vikram-1 in first private orbital rocket mission - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlU0dUhJOUI3Z1hZNVIxLTBmNnBGUTlKLU9VUGFyM1FpaFE5S3RlblNPWFFNVWJpekZJMmxlNVdPUDVvNUZTNFkyZEJQVVF4RzdoaDQ2TWlWcnE5czhNN1VEdGtKbkhRNGlvTDFZaDdoNW1QQjVmNE95YWhETDQtVy1JRlQwbTQ0ZXJHUkNJb0dOU0s3aTJIdzNuajRBMDVyQmxEYkRiRzdISFQ4bVhQMXR2aG1fQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlU0dUhJOUI3Z1hZNVIxLTBmNnBGUTlKLU9VUGFyM1FpaFE5S3RlblNPWFFNVWJpekZJMmxlNVdPUDVvNUZTNFkyZEJQVVF4RzdoaDQ2TWlWcnE5czhNN1VEdGtKbkhRNGlvTDFZaDdoNW1QQjVmNE95YWhETDQtVy1JRlQwbTQ0ZXJHUkNJb0dOU0s3aTJIdzNuajRBMDVyQmxEYkRiRzdISFQ4bVhQMXR2aG1fQQ?oc=5" target="_blank">US appeals court strikes down New Jersey's assault weapons ban on AR-15s</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5" target="_blank">India's Skyroot launches Vikram-1 in first private orbital rocket mission</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
