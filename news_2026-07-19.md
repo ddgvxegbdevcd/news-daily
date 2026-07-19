@@ -1,8 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-07-19 03:26:14
+更新时间：2026-07-19 13:36:30
 
-## South Korea to Ease FX Rules for Foreigners to Trade Won Easier
+## US-Iran Attacks Escalate as Strikes Kill Two American Troops
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan
+
+正文长度：0
+
+摘要：The US and Iran engaged in a quickening series of tit-for-tat attacks, causing fresh chaos in the Middle East over the weekend after strikes by the Islamic Republic killed two American service members in Jordan.
+
+
+---
+
+## Safest Carry in Emerging Markets Is in Latin American Currencies
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-19/safest-carry-in-emerging-markets-is-in-latin-american-currencies
+
+正文长度：0
+
+摘要：Emerging-market currency volatility has dropped to the lowest since the start of year and that’s re-energizing carry trades, particularly those involving Latin America that are seen to offer the juiciest returns.
+
+
+---
+
+## Clear Skies Now Expected for World Cup Final in New Jersey
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-19/clear-skies-now-expected-for-world-cup-final-in-new-jersey
+
+正文长度：0
+
+摘要：Clear skies are expected across northern New Jersey as the World Cup final between Argentina and Spain is set to get underway at MetLife Stadium on Sunday afternoon with about 80,000 fans on hand.
+
+
+---
+
+## Caspian Pipeline Consortium Halts Loadings After Drone Strike
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike
+
+正文长度：0
+
+摘要：Oil loading at the Caspian Pipeline Consortium’s terminal on Russia’s Black Sea coast was halted after a drone strike.
+
+
+---
+
+## South Korea Details Plan for Foreigners to Trade Won Easier
 
 来源：彭博社
 
@@ -15,54 +67,82 @@
 
 ---
 
-## Venezuela’s Official Earthquake Death Toll Rises to 5,119
+## American Airlines CEO lays out his vision to close a more than $3 billion profit gap
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-07-19/venezuela-s-official-earthquake-death-toll-rises-to-5-119
+链接：https://www.cnbc.com/2026/07/19/american-airlines-ceo.html
 
-正文长度：0
+正文长度：12663
 
-摘要：The official death toll from the twin earthquakes that struck Venezuela last month rose to 5,119, according to National Assembly head Jorge Rodríguez.
+摘要：The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.
 
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
----
+> FORT WORTH, Texas — American Airlines CEO Robert Isom has a math problem.
+The carrier is flying about 6,500 flights per day this year — nearly an entire Alaska Airlines more worth of travel more than its closest competitor, according to Cirium — yet American's profit gap has grown. United Airlines brought in about $3 billion more than American last year, and U.S. profit leader Delta Air Lines made nearly $5 billion more.
+In an exclusive interview with CNBC late last month, Isom said American and its nearly 140,000 employees want "to be best at everything that we do." He said that carrier's "long-range plan is certainly making up the margin gap," but he didn't put a timeline on that goal.
+American's top executives at the carrier's headquarters late last month outlined new initiatives to CNBC: bigger, more luxe airport lounges, a new wide-body aircraft order, and fresh interiors for even more of its long-haul fleet to attract big spenders.
+Isom described the carrier's identity as "a premium global airline with the largest footprint in North America."
+American has more decisions it needs to make — and soon — to close the gap. Perhaps its biggest challenge is getting customers to shell out more to fly, something Delta and United zeroed in on years ago.
+American has mastered running an efficient business but "what we will measure over time is: Are we closing this revenue gap and closing the unit revenue gap?" American CFO Devon May said.
+Cabins, planes and lounges
+The carrier's executives reiterated that American's plan rests on growing its ever-more important loyalty program, improving customers' experience, expanding its network and increasing higher-end revenue.
+The airline is forecast to earn 64 cents a share this year, on an adjusted basis, which would be up almost 80% from last year, according to analyst estimates. It will give an updated forecast when it reports second-quarter results on Thursday.
+United and Delta earlier this month reported bookings are still strong. The surge in fuel prices have both helped and hurt the industry this year: The sudden run-up in prices because of the Iran war took carriers off guard, though they're passing more of those costs along to travelers, and executives don't expect fares will drop much anytime soon.
+Wall Street is optimistic American will continue to improve, expecting it to quadruple adjusted earnings in 2027 to $2.58 a share.
+American is now remodeling cabins across the fleet and taking deliveries of new planes with interiors that feature new amenities and more premium seats. Executives have said they're considering but haven't decided on bringing back seatback screens to much of its narrow-body fleet, though American recently joined the ranks of airlines that are adding satellite Wi-Fi from SpaceX's Starlink.
+Customers who are willing to pay more for premium seats or other perks like lounge access have been a bright spot across the industry, and everyone from profit leader Delta to now-defunct budget carrier Spirit Airlines has tried to woo those travelers as airlines rush to get fancy, new seats — small but profitable real estate — in the air.
+Isom told CNBC that work to refresh cabins will soon expand to American's Boeing 787-8 Dreamliners. Its revamped cabins on its largest planes, the 777-300ERs, could debut in the next few weeks. Each business-class, lie-flat seat can bring in close to $10,000 on some long-haul international routes compared with $2,000 or even much less for a seat in the back.
+Keeping up high-touch service levels could be a challenge, the airline's flight attendant union said, as the 70-seat business class soon comes online. American has been phasing out planes with separate first and business classes.
+"Now, as American introduces 70 Business Suites and markets a premium international experience, they're expecting a reduced number of Flight Attendants to deliver significantly more personalized service," Julie Hedrick, president of the Association of Professional Flight Attendants, said in a statement. (American reduced flight attendant staffing on those aircraft from 13 to 11 in 2020. Other carriers have made similar moves.) "The result will be longer service times and a customer experience that falls short of what passengers expect."
+In another lure for premium travelers, Chief Customer Officer Heather Garboden told CNBC that American is going to build the biggest Admirals Club lounge in its network, at 37,000 square feet, at its sprawling Dallas Fort Worth International Airport hub in Terminal C.
+At the under-construction Terminal F at that airport, American is also planning a grab-and-go Provisions airport lounge, as well as a Flagship check-in area in Terminal D. The entire airport, American's largest hub, is undergoing a $12 billion makeover, and the carrier recently unveiled new gates in Terminal C, which will expand further. American and others have been upgrading and expanding airport lounges for the spendiest customers around the U.S.
+But United has had a roughly decade head start at catering to higher-paying travelers, while Delta has close to two decades of experience. In the late 2000s, Delta was giving away about 90% of its domestic first-class seats through free upgrades for frequent flyers, but now it says it sells the vast majority, with customers paying cash or redeeming miles, now a trend among big carriers, though American wants to increase buy-ups.
+Under Isom, American has been upping its game in premium investments. American's commercial team is working on technical changes that aim to offer customers more opportunities to buy pricier seats.
+Aside from its of fortress hubs, American's chief commercial officer, Nat Pieper, said the airline needs to win in so-called jump-ball markets like Los Angeles, Chicago and Washington, D.C. He said American continues to grow sign-ups for its lucrative credit card program in some of those, including New York.
+American said it's flying is split about 80% domestic versus 20% international. International flights often carry a high premium compared with domestic routes — and the planes serving them generally have more luxurious seats on board.
+Isom said the airline's network breadth is a major strong suit and will continue to be.
+While American and other airlines rely on alliances and partnerships to expand reach, United is flying a lot of that itself.
+United flies more internationally than Delta and American, and made its geography quiz-like network a calling card and , adding dots on the map from Mongolia to Galicia, Spain.
+'Never been deterred'
+A mechanical engineer by education who took his first flight at about age 4, Isom rose up the ranks at Northwest Airlines and America West Airlines, which through mergers became modern-day Delta and American, respectively.
+The airline industry is one of the most insular. In part, because of the safety-critical and specific knowledge needed to keep thousands of planes on track every day, airlines don't often hire from other industries, especially at the top.
+The executive team that long worked at American is split between that carrier and United. The CEO of United, Scott Kirby, used to work at American, until he was fired almost exactly 10 years ago. United announced it hired Kirby as president the same day.
+Isom, 62, took over the top role at American in March 2022, after the airline industry had been rocked by the pandemic.
+"I've never been deterred, no matter what the challenges that we face," he said.
+He took over in a quarter when American lost $1.6 billion.
+"I'm clear-eyed about the challenges in this business," he said, pointing to an industry that has been through everything from the 9/11 terrorist attacks, to the financial crisis, bankruptcies, mergers and wars and disease.
+American ranked sixth of 11 U.S. airlines in punctuality in the first half of the year, according to Cirium data that pointed to with a 76.6% on-time rate, while Delta and United took the No. 2 and No. 3 spots, respectively. Under Isom and COO David Seymour, the carrier is working to improve its on-time rate, spreading out its schedule instead of jamming chaotic connecting banks in major hubs, and using artificial intelligence to predict maintenance problems.
+On top of that, the carrier's earnings are still hamstrung from its $35 billion debt load though American has slashed that from around a $54 billion peak coming out of the pandemic, with balance sheet improvement a major priority.
+"They're a giant — with a limp," said Dennis Tajer, spokesman for the Allied Pilots Association, which represents American's 15,000 aviators. Earlier this year, the APA and the flight attendants' union called Isom's leadership into question. Underperformance from the broader company means less profit-sharing for staff.
+Getting customers to notice improvements could take time.
+"Changing a service culture is hard, but not impossible," said Jay Barney, a professor of strategic management at the University of Utah David Eccles School of Business. To alter overall brand perception, he said, "You have to make the changes obvious and visible, to current customers and potential customers."
+One issue is that flyers are often locked in because the biggest airlines have such overwhelming market share at major hub airports, he added.
+What airlines might be trying to do is "charge more to their current customers," Barney said.
+Wide-body planes
+American might be behind in its premium game, but Isom said customer satisfaction scores are rising. Chief Commercial Officer Pieper, an airline industry veteran whom the company appointed last fall as the carrier was recovering from a failed corporate sales strategy in 2024, said demand is strong across the board.
+Buying new wide-body planes will be key to the airline's next phase, Isom said. An order is on the table for this year, with both Boeing and Airbus in the mix, he said.
+American's more than 1,000 planes make up the youngest fleet of the three largest U.S. airlines, according to 2025 annual filings, thanks in part to a more than 400-airplane order it made about 15 years ago for new Boeing and Airbus narrow-body planes, but dozens of its Boeing 777 wide-bodies average more than two decades old.
+American's refresh of those older planes, Boeing 777-200s, are next, Isom said, but the carrier is shopping for new planes.
+"I think that Airbus could play a big role" in the new order, Isom said. American's wide-bodies are all currently Boeing planes.
+American declined to say the size of its planned order. New aircraft for American would likely arrive in the early or middle of the next decade.
+Up in Chicago, rival United — which has been duking it out with American at O'Hare International Airport — snatched up delivery slots for more than 100 Boeing Dreamliners in the last four years.
+A future without United
+As Isom lays out his vision for the future of the airline, there's one path he says the carrier doesn't see as feasible.
+United CEO Kirby suggested this year a merger with American, an idea the airline rebuffed.
+"I spoke with Scott," Isom told CNBC. "Given history, given law, given past mergers, there wasn't anyone that we talked to, our advisors, interested parties, politicians, that said that there was any chance of this happening.
+"At the end of the day, we spend time looking at things that have a chance of happening. We don't spend a lot of time pursuing impossibilities," he said.
+United has a partnership with JetBlue (American had a more involved one with JetBlue in the Northeast but it was blocked by a judge on antitrust grounds in 2023). But Kirby has repeatedly said this year he's not interested in acquiring that New York airline. He also acknowledged that a merger with American won't happen without a willing partner in that carrier's management.
+United, meanwhile, gets several slots at New York's John F. Kennedy International Airport as early as next year under the JetBlue deal.
+"Why buy the cow if you're getting the milk for free?" said Brett Snyder, who writes the Cranky Flier blog.
+Isom gave a standard line from executives when CNBC asked his own appetite for possible mergers and acquisitions, saying the carrier is always on the lookout for opportunities to serve the company's customers.
+For now, though, Isom said he is firmly focused on American's new chapter.
+He said he gravitated toward the industry "to be involved with something where you can make a difference.
+"This is this one that you never wake up in the morning or going to bed at night thinking: Did I do good for somebody or something?" he said. "You certainly had the chance to in this business."
 
-## Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks
-
-正文长度：0
-
-摘要：For fund managers in London, New York and Tokyo, a new ritual has emerged before trading gets underway: checking South Korean stocks.
-
-
----
-
-## Vanishing CLO Profits Are Sparking Infighting: Credit Weekly
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-18/vanishing-clo-profits-are-sparking-infighting-credit-weekly
-
-正文长度：0
-
-摘要：A type of investment that once generated some of Wall Street’s juiciest fixed-income returns has deteriorated so badly that investors are heading for the exits and arguing about who’s to blame.
-
-
----
-
-## Kuwait Energy Infrastructure Hit During Intense Iran Attacks
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit
-
-正文长度：0
-
-摘要：Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the Middle East conflict began, with strikes on an oil facility and a second power plant hit in as many days.
+</details>
 
 
 ---
@@ -241,44 +321,41 @@ At Lipscomb Cars, dealer John Panda-Noah said he believes the competitive pricin
 
 ---
 
-## How big is the great wealth transfer? It could be over $100 trillion or $36 trillion
+## GameStop extends pursuit of eBay despite Wall Street scepticism - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0dfWXkwaWt1b3M2Vm9HRUFhWURiRDN4UlZ2dmQ0ODlSQWJ0YWMxbHFxQ3NoZXc5cTU4OFY3eEd2LUxJYmZnZEhlT21hVklIeHpTQXNMYnBHNnl2NHJWOWZHenQ4R1I3aVpPTEJnNnRoWVpUTjhTZWxScEN4ZTlpYi14R1k?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：6189
+正文长度：0
 
-摘要：Two studies have raised new questions about the size and impact of the coming great wealth transfer.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0dfWXkwaWt1b3M2Vm9HRUFhWURiRDN4UlZ2dmQ0ODlSQWJ0YWMxbHFxQ3NoZXc5cTU4OFY3eEd2LUxJYmZnZEhlT21hVklIeHpTQXNMYnBHNnl2NHJWOWZHenQ4R1I3aVpPTEJnNnRoWVpUTjhTZWxScEN4ZTlpYi14R1k?oc=5" target="_blank">GameStop extends pursuit of eBay despite Wall Street scepticism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-A new estimate for the great wealth transfer has sparked a debate over how many trillions of dollars will pass from baby boomers to their heirs, and how it will be spent and invested.
-Last week, Visa Business and Economic Insights released a new projection for the great wealth transfer, estimating that $36 trillion in baby boomer wealth will be passed down to Gen X and millennials over the next 20 years. The figure is a fraction of the widely cited estimate from Cerulli Associates, which says $105 trillion will pass from older generations to heirs by 2048.
-The more than $60 trillion gap between the two studies has raised new questions about the size and impact of the great wealth transfer. Some say it will be the largest in history, dramatically reshaping wealth management, charity and the global wealth landscape. Others say its impact will be far more limited and simply marks a continuation of long-term inheritance trends.
-The dueling Visa and Cerulli numbers highlight just how important the estimates have become for wealth managers and other companies overhauling their businesses to prepare for the next generation of wealth.
-Visa, as a credit card payments company, focuses its study on the amount of inherited wealth that will be spent by everyday American consumers. Cerulli, being a financial research firm, focuses its study on the total wealth being transferred, including the outsized share of fortunes being passed down by the ultra wealthy. While Cerulli focuses on all wealth transfers in coming decades, Visa looked only at transfers from baby boomers.
-"We wanted to go through and inspect how much money will actually be spent," said Wayne Best, chief economist at Visa. "A lot of people think about the $93 trillion or $124 trillion and think 'All that money's going to be available for spending; this is going to be incredible.' That's why we went through the kind of the step-by-step process."
-Visa's process started with the total amount of wealth held by today's baby boomers, which it put at about $93 trillion. The report then stripped out liabilities, which includes mortgage debt, of $5 trillion and subtracted the wealth of the top 1%, estimated at $28 trillion.
-Best said the top 1%, or those with wealth of at least $12 million, approach money very differently from the rest of consumers. They spend a much smaller share of their wealth and they tend to buy different things.
-"They don't spend like the rest of us," Best said. "They're buying yachts and airplanes. It's all great for the economy, but that's not what the average person really thinks of. So we removed that top 1%, to put this more on a normal or level playing field."
-Visa then stripped out the retirement spending of baby boomers, which could be larger than expected. Because boomers are living longer and spending their wealth more than past generations, Visa estimates their retirement spending at $16 trillion. It also subtracted $8 trillion for charity and taxes.
-In addition, Visa focused its analysis exclusively on the wealth being transferred from baby boomers over the next 20 years. Cerulli looked at transfers from all generations by 2048, which includes members of the older Silent Generation, as well as the younger Generation Xers, who are now between 46 and 61 years old.
-After taking out the debt, the fortunes of the top 1%, retirement spending, taxes and charity, Visa estimates that boomers will pass on only $36 trillion of their $93 trillion in wealth.
-Of that $36 trillion, they estimate that $28 trillion will go to savings and investments and $8 trillion will go to spending. The $8 trillion will be spent mainly on cars, homes, travel and retail.
-"You know, $8 trillion in spending is nothing to sneeze at," Best said." It's a significant amount of money. And it's additive. But we wanted to put that in perspective because when you start throwing around trillions of dollars it can get confusing very quickly."
-Cerulli, by contrast, sought to estimate the total wealth being passed down by all wealth groups, of all ages, by 2048.
-Chayce Horton, Cerulli's associate director of wealth management, said the biggest impact of the great wealth transfer will be in wealth management, rather than consumer companies.
-Half of the more than $100 trillion being passed down will be from high net worth or ultra-wealthy families, he said. The first transfers in the coming years will be to spouses, mainly women. Cerulli estimates that $4 trillion will go to spouses before being passed down to children and other family members.
-"When you look at that demographic, on average, spouses are a couple years younger, and those spouses live a couple years longer," Horton said.
-Cerulli said it does factor in retirement spending, taxes and debt. It also estimates that about $18 trillion of $124 trillion in total transferrable wealth will go to charity — leaving a total of $106 trillion going to heirs and spouses.
-Gen Xers will be the first recipients, followed by millennials and then Gen Z. Gen X will inherit $14 trillion in the next 10 years, but millennials will eventually inherit the most, estimated at $46 trillion in the next 25 years.
-Horton said it would be a mistake for the wealth management industry or any company serving wealthy clients to discount the impact of the great wealth transfer and the acceleration of inherited wealth. He said that one of every four wealth management clients currently come from inherited wealth — second only to business owners and founders, and ahead of corporate executives.
-"The focus of our report when we do this analysis is understanding where the wealth is today, and where that wealth will be moving tomorrow so the wealth and asset management industry can adapt," Horton said. "Something that we continue to emphasize as an important consideration for the wealth management industry, is making sure that they have those relationships across spousal lines, as well as intergenerational lines."
+---
 
-</details>
+## Chinese leaders zero in on need for stimulus for economy - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDZLYy1UdXBSb0VIN0NIM0ktN3lHZ0hsaTlWMGVqU1I4TUhROXlHTi04UkxINk1fQlBuNVBkR3UtUUhhbU9XeHB5RmVTZkt0THJwSzU5YVVIRVd5V3h6Q2RjMHdBZFpPLVlTWjNuVWlLbGs3ZWRUQm5oWEFNU1BweWdZeng?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDZLYy1UdXBSb0VIN0NIM0ktN3lHZ0hsaTlWMGVqU1I4TUhROXlHTi04UkxINk1fQlBuNVBkR3UtUUhhbU9XeHB5RmVTZkt0THJwSzU5YVVIRVd5V3h6Q2RjMHdBZFpPLVlTWjNuVWlLbGs3ZWRUQm5oWEFNU1BweWdZeng?oc=5" target="_blank">Chinese leaders zero in on need for stimulus for economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Singapore weighs hedge fund tax cuts to rival Hong Kong - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2o0OVN3bS1ic1FMR2VMOUd0ZHpNRnFYM1BPb2RSbmVlQVBxc1VEY2hNd0s0THAzVVEwUGl2dFVFYUlUWFBTLThlcC1fZjRMT0kzTEh5X0p1SlV3VzBIdVFqa0tSQlR2VlF0MjR5V3NFS0JxYU5iZ1JULXUzMWNSbmJqUG4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2o0OVN3bS1ic1FMR2VMOUd0ZHpNRnFYM1BPb2RSbmVlQVBxc1VEY2hNd0s0THAzVVEwUGl2dFVFYUlUWFBTLThlcC1fZjRMT0kzTEh5X0p1SlV3VzBIdVFqa0tSQlR2VlF0MjR5V3NFS0JxYU5iZ1JULXUzMWNSbmJqUG4?oc=5" target="_blank">Singapore weighs hedge fund tax cuts to rival Hong Kong</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -296,119 +373,80 @@ Horton said it would be a mistake for the wealth management industry or any comp
 
 ---
 
-## Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times
+## US strikes Iran after two American troops killed in Jordan - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGx2cW15RkxnSjdfTzEtZV9ydGctRGRLeGlNQ0JsYS1RVTNVSkxfdkM5WHl5LVhWMXk5SnFMbFpxN0VPMC13Vm1OemdWLTBUcE5NM203REVhYzFUQWhTMzBNRVRUM2pmckNkbUZGMXpJaEpYdGJqTy1wNjVnbllHZmdaOVI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5" target="_blank">Zelenskyy considers sacking commander-in-chief as protests swell</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGx2cW15RkxnSjdfTzEtZV9ydGctRGRLeGlNQ0JsYS1RVTNVSkxfdkM5WHl5LVhWMXk5SnFMbFpxN0VPMC13Vm1OemdWLTBUcE5NM203REVhYzFUQWhTMzBNRVRUM2pmckNkbUZGMXpJaEpYdGJqTy1wNjVnbllHZmdaOVI?oc=5" target="_blank">US strikes Iran after two American troops killed in Jordan</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## German army looks to Ukraine for battlefield lessons - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5" target="_blank">German army looks to Ukraine for battlefield lessons</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The Norwegian case for mediocracy - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMjJzckR5WHBhSWpaT3dsYXJqSndYdjl2bTBuMGJqc3c4NzZqOWVVNmVKbG8tbHVPT2FhSE8xYlZGYzdlTWkzdFlocTF3TWc0Vy1oSWNLRlZtVkpvUnMxM29kOTZDQUdCSllPU3UtdW4?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMjJzckR5WHBhSWpaT3dsYXJqSndYdjl2bTBuMGJqc3c4NzZqOWVVNmVKbG8tbHVPT2FhSE8xYlZGYzdlTWkzdFlocTF3TWc0Vy1oSWNLRlZtVkpvUnMxM29kOTZDQUdCSllPU3UtdW4?oc=5" target="_blank">The Norwegian case for mediocracy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5" target="_blank">Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## France's Mbappe becomes World Cup's all-time top scorer - Reuters
+## Trump says Republicans should add Iran to Russian bill - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5" target="_blank">France's Mbappe becomes World Cup's all-time top scorer</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5" target="_blank">Trump says Republicans should add Iran to Russian bill</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## England take World Cup third place with 6-4 win against France - Reuters
+## US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERnX0syUUdGclo1NXl3bUdKMVUyZE9lTGxGWU9kRERJdExXZjEyeUJYNzlxT19vMTE0QVFLczgxMEY1bGZ3ZmxFUmNpbWFTNlYxa1hOMGRvLVNNZzZGMmx3cWtiYUpra0F6TzdLTVp0cUJnTkpMSzRyczQ1OUdSa0NzOGVYOTI0d3FDak5aQlN3d1UxWHloREFHam53QzhkVE5ELVFqZ1VCSFNLelEzTVhR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFE1Z0lqX1NocUk3VVRYQjVqMThTWjNIT3dTbU5RelVNdFQ3WTNQdDdXczQ3cXVYc0FSdk9reWhEaEFlektKX1dLdDFSWmlsZUxJd3h4WmtqakY4bWktd3NWY2RGMDFDSlRhZHhrdWs1UzRITGd4S1FMVG9tYkk5dHVWbTRQWGFlLVczNWhSV1l3RjJUcW1tcjl6ZDEyY1JQLWdUNWNEeXQyQW0tQlRjLUVFVFExSDltYS1xYzA2clowNmdW?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERnX0syUUdGclo1NXl3bUdKMVUyZE9lTGxGWU9kRERJdExXZjEyeUJYNzlxT19vMTE0QVFLczgxMEY1bGZ3ZmxFUmNpbWFTNlYxa1hOMGRvLVNNZzZGMmx3cWtiYUpra0F6TzdLTVp0cUJnTkpMSzRyczQ1OUdSa0NzOGVYOTI0d3FDak5aQlN3d1UxWHloREFHam53QzhkVE5ELVFqZ1VCSFNLelEzTVhR?oc=5" target="_blank">England take World Cup third place with 6-4 win against France</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFE1Z0lqX1NocUk3VVRYQjVqMThTWjNIT3dTbU5RelVNdFQ3WTNQdDdXczQ3cXVYc0FSdk9reWhEaEFlektKX1dLdDFSWmlsZUxJd3h4WmtqakY4bWktd3NWY2RGMDFDSlRhZHhrdWs1UzRITGd4S1FMVG9tYkk5dHVWbTRQWGFlLVczNWhSV1l3RjJUcW1tcjl6ZDEyY1JQLWdUNWNEeXQyQW0tQlRjLUVFVFExSDltYS1xYzA2clowNmdW?oc=5" target="_blank">US hurricane center says 80% chance of cyclone in next 48 hours near Florida</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters
+## Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5" target="_blank">US renews strikes on Iran after two military personnel killed by Iranian attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5" target="_blank">Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## England survive France fightback and secure third place in World Cup goalfest - Reuters
+## American boxer Hannah Rapp dies at 26 after being hit by car while cycling - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPYy04dWRMN1pTRUZhY05HYm1mTUUtRHR1Y2xETktyQUhydWRlaUJqTkJ5ZmV6YXRDbncwMkhRLWljcU1MeVBNdHFIMWZCUU5HUjNyVnc0eURkMV9OMUYwUEowVlZLZlJ6SlRVMV8wWGttcXR6ZlhvMGNuQzRPOGZadjNoaVJNanc4NGxBZEpZU1hKUF9EaldocXhqcUxmSzVMVUx2eXprajE0QnBvdjl4NE9KbHNiYUk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0h3UDRiajFXUjVtRTVPeXdOWGVsNzJhZGptSnJ6WW9CZkdSQ1djMmFTOUxXZUNLU3JvS1ZQUndPaVNwVFREcXBCNFFrLWxBcFBscE91TUQ3YXR2MVg4UWl1eHczakpGemtDekMzcUFmZXZsYWM2LXUzUDYyVGtSRUEzY0pZZXBvSFVIZC0xakpuaXhxS0Q2alItckV1cUVBZXQyVzFuZkpVc2lSTXdqNF9xbGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPYy04dWRMN1pTRUZhY05HYm1mTUUtRHR1Y2xETktyQUhydWRlaUJqTkJ5ZmV6YXRDbncwMkhRLWljcU1MeVBNdHFIMWZCUU5HUjNyVnc0eURkMV9OMUYwUEowVlZLZlJ6SlRVMV8wWGttcXR6ZlhvMGNuQzRPOGZadjNoaVJNanc4NGxBZEpZU1hKUF9EaldocXhqcUxmSzVMVUx2eXprajE0QnBvdjl4NE9KbHNiYUk?oc=5" target="_blank">England survive France fightback and secure third place in World Cup goalfest</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0h3UDRiajFXUjVtRTVPeXdOWGVsNzJhZGptSnJ6WW9CZkdSQ1djMmFTOUxXZUNLU3JvS1ZQUndPaVNwVFREcXBCNFFrLWxBcFBscE91TUQ3YXR2MVg4UWl1eHczakpGemtDekMzcUFmZXZsYWM2LXUzUDYyVGtSRUEzY0pZZXBvSFVIZC0xakpuaXhxS0Q2alItckV1cUVBZXQyVzFuZkpVc2lSTXdqNF9xbGk?oc=5" target="_blank">American boxer Hannah Rapp dies at 26 after being hit by car while cycling</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports - Reuters
+## Users of Meta's Facebook, Instagram report suffering some outages - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjZCUU55QWV3ZE5DeFpBalhfaVNTR1pMNTFKaFpFNzRYR2o4QWJGZmZoWUJ0c204TXZhNzRjUFZyRXZrdXVpcEtVZThMV0dnUEdjTlgybDdfVHRmSDZVZEtnUWFHaTBUb21CSFhiaUhKbXBnR0FLcDRieVBsVWFCTi1kVUlJam41STByRDlWcjJxYUdaQmIwdTlmdDVyMDg0YjVRWk5JMzRwRDBUbWx3d1ZZcXhvdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5" target="_blank">Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjZCUU55QWV3ZE5DeFpBalhfaVNTR1pMNTFKaFpFNzRYR2o4QWJGZmZoWUJ0c204TXZhNzRjUFZyRXZrdXVpcEtVZThMV0dnUEdjTlgybDdfVHRmSDZVZEtnUWFHaTBUb21CSFhiaUhKbXBnR0FLcDRieVBsVWFCTi1kVUlJam41STByRDlWcjJxYUdaQmIwdTlmdDVyMDg0YjVRWk5JMzRwRDBUbWx3d1ZZcXhvdw?oc=5" target="_blank">Users of Meta's Facebook, Instagram report suffering some outages</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
