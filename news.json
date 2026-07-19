@@ -1,7 +1,47 @@
 {
-  "update_time": "2026-07-18 13:27:05",
+  "update_time": "2026-07-19 03:26:14",
   "news_count": 20,
   "news": [
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "South Korea to Ease FX Rules for Foreigners to Trade Won Easier",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier",
+      "publish_time": "Sun, 19 Jul 2026 03:00:00 GMT",
+      "summary": "South Korea laid out a detailed plan to make the won freely tradable among foreigners, its boldest step yet to liberalize the forex market and bring the currency closer to full convertibility.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Venezuela’s Official Earthquake Death Toll Rises to 5,119",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/venezuela-s-official-earthquake-death-toll-rises-to-5-119",
+      "publish_time": "Sun, 19 Jul 2026 01:16:59 GMT",
+      "summary": "The official death toll from the twin earthquakes that struck Venezuela last month rose to 5,119, according to National Assembly head Jorge Rodríguez.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks",
+      "publish_time": "Sun, 19 Jul 2026 00:00:00 GMT",
+      "summary": "For fund managers in London, New York and Tokyo, a new ritual has emerged before trading gets underway: checking South Korean stocks.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/vanishing-clo-profits-are-sparking-infighting-credit-weekly",
+      "publish_time": "Sat, 18 Jul 2026 15:50:09 GMT",
+      "summary": "A type of investment that once generated some of Wall Street’s juiciest fixed-income returns has deteriorated so badly that investors are heading for the exits and arguing about who’s to blame.",
+      "content": "",
+      "content_length": 0
+    },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
@@ -9,46 +49,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit",
       "publish_time": "Sat, 18 Jul 2026 08:01:05 GMT",
       "summary": "Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the Middle East conflict began, with strikes on an oil facility and a second power plant hit in as many days.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/zelenskyy-may-fire-commander-syrskyi-after-protests-ft-reports",
-      "publish_time": "Sat, 18 Jul 2026 12:19:25 GMT",
-      "summary": "Ukraine President Volodymyr Zelenskyy is considering firing Armed Forces commander-in-chief Oleksandr Syrskyi, the Financial Times reported, following days of turmoil engulfing the country’s military leadership.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Not Done Yet Refunding Tariffs or Realizing AI’s Promise",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-18/not-done-yet-refunding-tariffs-or-realizing-ai-s-promise",
-      "publish_time": "Sat, 18 Jul 2026 12:00:00 GMT",
-      "summary": "The markets continue to be dominated by news of artificial intelligence",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "ICICI Bank’s First-Quarter Profit Beats Estimate as Loans Surge",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/icici-bank-first-quarter-profit-beats-estimates-as-loans-surge",
-      "publish_time": "Sat, 18 Jul 2026 10:02:41 GMT",
-      "summary": "ICICI Bank Ltd. posted better-than-expected results as India’s second-largest private-sector lender benefited from healthy loan growth across retail and corporate segments.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "India Moves Against Youth Protesters Before Parliament Session",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/india-moves-against-youth-protesters-before-parliament-session",
-      "publish_time": "Sat, 18 Jul 2026 04:48:49 GMT",
-      "summary": "Indian authorities moved against protesters in New Delhi ahead of demonstrations against unemployment and alleged examination scams, as the movement adds pressure on Prime Minister Narendra Modi’s government.",
       "content": "",
       "content_length": 0
     },
@@ -105,10 +105,10 @@
     {
       "source": "Financial Times",
       "source_cn": "金融时报",
-      "title": "German army looks to Ukraine for battlefield lessons - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 09:00:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5\" target=\"_blank\">German army looks to Ukraine for battlefield lessons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHNfSjNIbHJLVGMtRDFBb0NUang2b3gwcGh1NEdLREdYbXdFYVcyWlhqX3JXS3QwQk1EdXNfWGZRc2MwbFBvWW5XM1gzbUI3LUd1bGtQMVFHMUI0ZXZDWkozRHE2ZWdaV0d3RzhFTm51aTJXT3dDei04bnZGRDJxbXRvTGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 17:22:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHNfSjNIbHJLVGMtRDFBb0NUang2b3gwcGh1NEdLREdYbXdFYVcyWlhqX3JXS3QwQk1EdXNfWGZRc2MwbFBvWW5XM1gzbUI3LUd1bGtQMVFHMUI0ZXZDWkozRHE2ZWdaV0d3RzhFTm51aTJXT3dDei04bnZGRDJxbXRvTGI?oc=5\" target=\"_blank\">Trump to fund Maga-aligned projects in Europe as he reorders US aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "content": "",
       "content_length": 0
     },
@@ -125,6 +125,26 @@
     {
       "source": "Financial Times",
       "source_cn": "金融时报",
+      "title": "German army looks to Ukraine for battlefield lessons - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 09:00:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW1HQnNXTVZkYjZYS0prTy04SGVYWnF6M2Z4cDFpMVZwN3h1c182ZTFNNGlqZTlzbjdBcXFvWjJpdW53ZkUzT2FnUkFLdjdjdjhxVm9yMC1XNkhFN002WlF5UzBSY3MzZExyUkpMRllQRm5GZVRQUXhwZVZMUFBaclg2ZHY?oc=5\" target=\"_blank\">German army looks to Ukraine for battlefield lessons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "The Norwegian case for mediocracy - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMjJzckR5WHBhSWpaT3dsYXJqSndYdjl2bTBuMGJqc3c4NzZqOWVVNmVKbG8tbHVPT2FhSE8xYlZGYzdlTWkzdFlocTF3TWc0Vy1oSWNLRlZtVkpvUnMxM29kOTZDQUdCSllPU3UtdW4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 04:00:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMjJzckR5WHBhSWpaT3dsYXJqSndYdjl2bTBuMGJqc3c4NzZqOWVVNmVKbG8tbHVPT2FhSE8xYlZGYzdlTWkzdFlocTF3TWc0Vy1oSWNLRlZtVkpvUnMxM29kOTZDQUdCSllPU3UtdW4?oc=5\" target=\"_blank\">The Norwegian case for mediocracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
       "title": "Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publish_time": "Fri, 17 Jul 2026 20:56:10 GMT",
@@ -133,72 +153,52 @@
       "content_length": 0
     },
     {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Trump Media pitched $100,000 monthly fee for fast feed of president’s posts - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlBRZkk2YlBrbHlMa0hOalVJRWQ1QWx6aUZFU1NfbnVOZFJMclZ0MWJ2d3A1NlN6UE8tOHNHSTlPRVotWjh0dktjUG1Oa2cyUGhEbGs1M1psT2JjdFF3bzRja1piRWtxcFp4bk1YWnlCMGJkQkFBOFVMN3dvM1hpaWZlZVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Fri, 17 Jul 2026 16:23:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlBRZkk2YlBrbHlMa0hOalVJRWQ1QWx6aUZFU1NfbnVOZFJMclZ0MWJ2d3A1NlN6UE8tOHNHSTlPRVotWjh0dktjUG1Oa2cyUGhEbGs1M1psT2JjdFF3bzRja1piRWtxcFp4bk1YWnlCMGJkQkFBOFVMN3dvM1hpaWZlZVg?oc=5\" target=\"_blank\">Trump Media pitched $100,000 monthly fee for fast feed of president’s posts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Ukraine’s rift over military strategy breaks into the open - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZZeDdsX250MmZUS19kaEVLd1FEWllTRzlySk9sb0J5UU1uSjB6aXZGbW1vSzYtWDRZX2J3UU14bWVITTRWb0ZCUWVLNTZ2Q1RhdlkyVE9MRXYzU0hXUEtNdUV1aktUQVUzazFuNmZNb2QyQl93OGc5VC1IcVJrbDFPVFo?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Fri, 17 Jul 2026 14:51:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZZeDdsX250MmZUS19kaEVLd1FEWllTRzlySk9sb0J5UU1uSjB6aXZGbW1vSzYtWDRZX2J3UU14bWVITTRWb0ZCUWVLNTZ2Q1RhdlkyVE9MRXYzU0hXUEtNdUV1aktUQVUzazFuNmZNb2QyQl93OGc5VC1IcVJrbDFPVFo?oc=5\" target=\"_blank\">Ukraine’s rift over military strategy breaks into the open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "France's Mbappe becomes World Cup's all-time top scorer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 22:37:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5\" target=\"_blank\">France's Mbappe becomes World Cup's all-time top scorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Senior Merz ally resigns after coming under pressure in Germany over surrogate baby - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpqcGdjVlJvaUlMRXJLd1Y4dFBoamtNV2Y3WHZ5aXBJS29tY2F6a1NWRHl2OE9hM2lXeF9SRk5CNzlWeVpuRVAzYWprU25MRGdUTHVCS29vNWRacWJ5Nk53Qy1wMTF5M005Ri1OOVI2MzBlS19JdnJ0NjRmdTdhTnBBMDl1cmQweHdPWThXVDZWcGhfUGtqS1l6dHVNMGM5YlRRU1IyWXBER2FzbndyRlM4VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 12:05:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpqcGdjVlJvaUlMRXJLd1Y4dFBoamtNV2Y3WHZ5aXBJS29tY2F6a1NWRHl2OE9hM2lXeF9SRk5CNzlWeVpuRVAzYWprU25MRGdUTHVCS29vNWRacWJ5Nk53Qy1wMTF5M005Ri1OOVI2MzBlS19JdnJ0NjRmdTdhTnBBMDl1cmQweHdPWThXVDZWcGhfUGtqS1l6dHVNMGM5YlRRU1IyWXBER2FzbndyRlM4VQ?oc=5\" target=\"_blank\">Senior Merz ally resigns after coming under pressure in Germany over surrogate baby</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "England take World Cup third place with 6-4 win against France - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERnX0syUUdGclo1NXl3bUdKMVUyZE9lTGxGWU9kRERJdExXZjEyeUJYNzlxT19vMTE0QVFLczgxMEY1bGZ3ZmxFUmNpbWFTNlYxa1hOMGRvLVNNZzZGMmx3cWtiYUpra0F6TzdLTVp0cUJnTkpMSzRyczQ1OUdSa0NzOGVYOTI0d3FDak5aQlN3d1UxWHloREFHam53QzhkVE5ELVFqZ1VCSFNLelEzTVhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 23:13:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERnX0syUUdGclo1NXl3bUdKMVUyZE9lTGxGWU9kRERJdExXZjEyeUJYNzlxT19vMTE0QVFLczgxMEY1bGZ3ZmxFUmNpbWFTNlYxa1hOMGRvLVNNZzZGMmx3cWtiYUpra0F6TzdLTVp0cUJnTkpMSzRyczQ1OUdSa0NzOGVYOTI0d3FDak5aQlN3d1UxWHloREFHam53QzhkVE5ELVFqZ1VCSFNLelEzTVhR?oc=5\" target=\"_blank\">England take World Cup third place with 6-4 win against France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "China says it will take measures on UK's nationalisation of British Steel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 10:47:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5\" target=\"_blank\">China says it will take measures on UK's nationalisation of British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 23:21:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5\" target=\"_blank\">US renews strikes on Iran after two military personnel killed by Iranian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "US data center protests go national as backlash grows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5QUVhhdHdNUVZKT0xJVURINmc1UzZORTZpdGtnaGwxemxTSWZNUTR6MkE3SHY5RjYwSUlQSWFUSlV3RHJGSXJLcjBUWXRlNzBuREwzblp5aEtIdVFRZjJlZmt2dUF6QzNxY2hackV2NDlQbnVGbFBrRnlXOUdycTh1ck5RdUd6WndGOExPN2h5dkVuVUFEVnYzeHdxT1ViWElDZjRpNzFncVFmMEltNg?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 10:07:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5QUVhhdHdNUVZKT0xJVURINmc1UzZORTZpdGtnaGwxemxTSWZNUTR6MkE3SHY5RjYwSUlQSWFUSlV3RHJGSXJLcjBUWXRlNzBuREwzblp5aEtIdVFRZjJlZmt2dUF6QzNxY2hackV2NDlQbnVGbFBrRnlXOUdycTh1ck5RdUd6WndGOExPN2h5dkVuVUFEVnYzeHdxT1ViWElDZjRpNzFncVFmMEltNg?oc=5\" target=\"_blank\">US data center protests go national as backlash grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "England survive France fightback and secure third place in World Cup goalfest - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYy04dWRMN1pTRUZhY05HYm1mTUUtRHR1Y2xETktyQUhydWRlaUJqTkJ5ZmV6YXRDbncwMkhRLWljcU1MeVBNdHFIMWZCUU5HUjNyVnc0eURkMV9OMUYwUEowVlZLZlJ6SlRVMV8wWGttcXR6ZlhvMGNuQzRPOGZadjNoaVJNanc4NGxBZEpZU1hKUF9EaldocXhqcUxmSzVMVUx2eXprajE0QnBvdjl4NE9KbHNiYUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 23:43:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYy04dWRMN1pTRUZhY05HYm1mTUUtRHR1Y2xETktyQUhydWRlaUJqTkJ5ZmV6YXRDbncwMkhRLWljcU1MeVBNdHFIMWZCUU5HUjNyVnc0eURkMV9OMUYwUEowVlZLZlJ6SlRVMV8wWGttcXR6ZlhvMGNuQzRPOGZadjNoaVJNanc4NGxBZEpZU1hKUF9EaldocXhqcUxmSzVMVUx2eXprajE0QnBvdjl4NE9KbHNiYUk?oc=5\" target=\"_blank\">England survive France fightback and secure third place in World Cup goalfest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Germany upgrades security stance to 'high threat level', interior minister tells paper - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 09:39:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5\" target=\"_blank\">Germany upgrades security stance to 'high threat level', interior minister tells paper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Reuters",
-      "source_cn": "路透社",
-      "title": "India's Skyroot launches Vikram-1 in first private orbital rocket mission - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Sat, 18 Jul 2026 06:42:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5\" target=\"_blank\">India's Skyroot launches Vikram-1 in first private orbital rocket mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 18 Jul 2026 18:26:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5\" target=\"_blank\">Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     }
