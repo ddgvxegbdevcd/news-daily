@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-07-20 03:43:22
+更新时间：2026-07-20 14:19:38
 
-## NZD: Hedge Funds Amass Biggest New Zealand Dollar Net Short Since 2006
+## US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-20/hedge-funds-dial-up-bearish-kiwi-bets-to-record-on-oil-rebound
+链接：https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise
 
 正文长度：0
 
-摘要：Leveraged funds have taken their short positions on the New Zealand dollar to a record high, betting that a recent rebound in global oil prices may exacerbate domestic economic pressures.
+摘要：US stocks advanced on Monday, paring last week’s slump, as chipmakers rebounded amid a deluge of earnings reports that will test whether Big Tech’s profits can match high expectations.
 
 
 ---
 
-## Latest Oil Market News and Analysis for July 20
+## Stocks Get Lift From Chipmakers as Oil Rally Wanes: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20
+链接：https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap
 
 正文长度：0
 
-摘要：Brent crude jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait over the weekend.
+摘要：A rebound in chipmakers powered Wall Street gains, with stocks also rising as oil fell on hopes for a revival of a peace deal between the US and Iran that has all-but collapsed amid an escalation of hostilities.
 
 
 ---
 
-## US Strikes Iran in Escalating Campaign After Troops Killed
+## Paris Corn Hits Seven-Week High After Ukraine Cargo Attack
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan
+链接：https://www.bloomberg.com/news/articles/2026-07-20/soybeans-and-corn-extend-gains-as-us-iran-hostilities-escalate
 
 正文长度：0
 
-摘要：The US and Iran engaged in a quickening series of tit-for-tat attacks, with the American military conducting a wave of strikes on the Islamic Republic following the deaths of service personnel.
+摘要：Corn prices reached the highest level in seven weeks in Paris as renewed tensions in the Black Sea stoked supply concerns.
 
 
 ---
 
-## Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake
+## Canada Financials Stocks Close In on Top Spot as Energy Momentum Fades
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake
+链接：https://www.bloomberg.com/news/articles/2026-07-20/canada-financials-stocks-close-in-on-top-spot-as-energy-momentum-fades
 
 正文长度：0
 
-摘要：EQ Resources Ltd. shares surged after mining billionaire Andrew Forrest agreed to acquire a 16.8% stake in the Sydney-listed tungsten producer from Oaktree Capital Management LP.
+摘要：Canada’s financial stocks are on the verge of overtaking energy as the best performing sector in the equity market this year.
 
 
 ---
 
-## Innolight Gauges Interest for $8 Billion Hong Kong Listing
+## Goldman Says Hedge Funds Sell US Tech Stocks at Record Pace
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing
+链接：https://www.bloomberg.com/news/articles/2026-07-20/goldman-says-hedge-funds-sell-us-tech-stocks-at-record-pace
 
 正文长度：0
 
-摘要：China’s Zhongji Innolight Co. is starting to gauge investor demand for its Hong Kong listing, according to terms of the deal seen by Bloomberg News, bringing it a step closer to what may be the city’s largest first-time share sale in seven years.
+摘要：Hedge funds pulled back from US tech stocks at a record pace over the past two months, according to Goldman Sachs Group Inc.’s Prime Services desk.
 
 
 ---
@@ -321,132 +321,132 @@ At Lipscomb Cars, dealer John Panda-Noah said he believes the competitive pricin
 
 ---
 
-## EU faces crumbling support for new Russia sanctions - Financial Times
+## Lockheed to build cheaper Patriot missile to counter drone threat - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVhJUF9HYjY5b05RazdmdThmaWNvbnZXVnYzd09VR3puazkwdlVqTTFwd1REVlRGc1ZRb2hCVmVxMWFvaldzblhtRmNMSE9zMUpXUGlieEFNQUlnUXFGdlpiVTIwcE5kYWYwTEhfSmVheVl4Mm82X09HMmJzS2M5N0RqbWE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWl4TzVEVm5sYlIwRmo3cmxyX3Ywb2lwdkVPNEtaMTR5YUV3ZUctbEVnMmhRekZTNThFbHBhSUwzV25MN3hBYkJ2UERHVWtQSHo4S0luYXZYOXRpaTUxVG5WVE5hVzdwSmEtcXJnTkNaOHR0N1hCOER3M21Kam81cE1ZeXo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVhJUF9HYjY5b05RazdmdThmaWNvbnZXVnYzd09VR3puazkwdlVqTTFwd1REVlRGc1ZRb2hCVmVxMWFvaldzblhtRmNMSE9zMUpXUGlieEFNQUlnUXFGdlpiVTIwcE5kYWYwTEhfSmVheVl4Mm82X09HMmJzS2M5N0RqbWE?oc=5" target="_blank">EU faces crumbling support for new Russia sanctions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWl4TzVEVm5sYlIwRmo3cmxyX3Ywb2lwdkVPNEtaMTR5YUV3ZUctbEVnMmhRekZTNThFbHBhSUwzV25MN3hBYkJ2UERHVWtQSHo4S0luYXZYOXRpaTUxVG5WVE5hVzdwSmEtcXJnTkNaOHR0N1hCOER3M21Kam81cE1ZeXo?oc=5" target="_blank">Lockheed to build cheaper Patriot missile to counter drone threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## GameStop extends pursuit of eBay despite Wall Street scepticism - Financial Times
+## Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0dfWXkwaWt1b3M2Vm9HRUFhWURiRDN4UlZ2dmQ0ODlSQWJ0YWMxbHFxQ3NoZXc5cTU4OFY3eEd2LUxJYmZnZEhlT21hVklIeHpTQXNMYnBHNnl2NHJWOWZHenQ4R1I3aVpPTEJnNnRoWVpUTjhTZWxScEN4ZTlpYi14R1k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEdqSUVtS1o1TWY0R3FVbE5hSnpCOExrTlM2VG8xdHczdnF0cVg3UmN3YUgtV1FOeFVqQWx6VlNmYzVvYk1WUm5TcTNBMkplQi1yUnNmMXJudVh0WXlXR1FyaWpOUFBJZ2lMOW1CbFFqVHlvTzhPWmJ6TjBNeGhNTHFnS2o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0dfWXkwaWt1b3M2Vm9HRUFhWURiRDN4UlZ2dmQ0ODlSQWJ0YWMxbHFxQ3NoZXc5cTU4OFY3eEd2LUxJYmZnZEhlT21hVklIeHpTQXNMYnBHNnl2NHJWOWZHenQ4R1I3aVpPTEJnNnRoWVpUTjhTZWxScEN4ZTlpYi14R1k?oc=5" target="_blank">GameStop extends pursuit of eBay despite Wall Street scepticism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEdqSUVtS1o1TWY0R3FVbE5hSnpCOExrTlM2VG8xdHczdnF0cVg3UmN3YUgtV1FOeFVqQWx6VlNmYzVvYk1WUm5TcTNBMkplQi1yUnNmMXJudVh0WXlXR1FyaWpOUFBJZ2lMOW1CbFFqVHlvTzhPWmJ6TjBNeGhNTHFnS2o?oc=5" target="_blank">Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chinese leaders zero in on need for stimulus for economy - Financial Times
+## Trump is slipping into an Iran quagmire - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDZLYy1UdXBSb0VIN0NIM0ktN3lHZ0hsaTlWMGVqU1I4TUhROXlHTi04UkxINk1fQlBuNVBkR3UtUUhhbU9XeHB5RmVTZkt0THJwSzU5YVVIRVd5V3h6Q2RjMHdBZFpPLVlTWjNuVWlLbGs3ZWRUQm5oWEFNU1BweWdZeng?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThDcjdOanlnZmlPeEN2dVp5U3pQYlBLVTJScUNXaHpTQjNvS2NqeTlPQm9JQXl0TU5nYy0xR3ItS3FjaFJJMm5fSGlUcXZ4TVRhRkEzSHdPcFlCcFdiV2RMTVptd2lFVk96d3VfdmpVN3Z2OFdqWlR1eHp5b2F3ZTNoaGE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDZLYy1UdXBSb0VIN0NIM0ktN3lHZ0hsaTlWMGVqU1I4TUhROXlHTi04UkxINk1fQlBuNVBkR3UtUUhhbU9XeHB5RmVTZkt0THJwSzU5YVVIRVd5V3h6Q2RjMHdBZFpPLVlTWjNuVWlLbGs3ZWRUQm5oWEFNU1BweWdZeng?oc=5" target="_blank">Chinese leaders zero in on need for stimulus for economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbThDcjdOanlnZmlPeEN2dVp5U3pQYlBLVTJScUNXaHpTQjNvS2NqeTlPQm9JQXl0TU5nYy0xR3ItS3FjaFJJMm5fSGlUcXZ4TVRhRkEzSHdPcFlCcFdiV2RMTVptd2lFVk96d3VfdmpVN3Z2OFdqWlR1eHp5b2F3ZTNoaGE?oc=5" target="_blank">Trump is slipping into an Iran quagmire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US launches fresh Iran strikes as death toll climbs - Financial Times
+## The new Fed boss is tight-lipped. That might upset the markets - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhPUkJQY2xKdlBnRmhHcV9GWUFZTk5nazg2X19YVmlqNlhxU3pDeVhYUUFFS3NpQVBlUjNqVGxXZDVlTmhTeEdleHUwM2NNQ0E4T0RHOTlOeXdWOGEybnZsQ2tiSGI1X05ldWNhTV90cUhmdjFWQUVpWVF6QTRoY2lQYjY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHBjZGNTSkh3eUU5eHlSZ1hKZnRPSzJ3cU9YZnItZHNkUGwybU5Vc2taNVBYY0JkTUxUcHZRMldybXZWc3U1VXlXWTB6d1hHOUhtUmp3RXpJYWM5cU5tdEI4amQ1SFVjS1JOUGVaTlJOdHB0RjMxRHhqZl9oemZBNmFkY3g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhPUkJQY2xKdlBnRmhHcV9GWUFZTk5nazg2X19YVmlqNlhxU3pDeVhYUUFFS3NpQVBlUjNqVGxXZDVlTmhTeEdleHUwM2NNQ0E4T0RHOTlOeXdWOGEybnZsQ2tiSGI1X05ldWNhTV90cUhmdjFWQUVpWVF6QTRoY2lQYjY?oc=5" target="_blank">US launches fresh Iran strikes as death toll climbs</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHBjZGNTSkh3eUU5eHlSZ1hKZnRPSzJ3cU9YZnItZHNkUGwybU5Vc2taNVBYY0JkTUxUcHZRMldybXZWc3U1VXlXWTB6d1hHOUhtUmp3RXpJYWM5cU5tdEI4amQ1SFVjS1JOUGVaTlJOdHB0RjMxRHhqZl9oemZBNmFkY3g?oc=5" target="_blank">The new Fed boss is tight-lipped. That might upset the markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## It’s time for Europe to embrace air conditioning - Financial Times
+## Oil touches $90 after Iran hits tankers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzgyb0hEc1dzM2ppblZJWEpNeWl6ZDg0UzNpZnlVbmFmLVB6QlJVSUpfTmc3NVZMa0F5NG00R210eUhjaU1ST3o3enRFS2NULWg4MXBVUVVLVk1LVllRNTZBNEYwdnNheUZlU1llS3B1Wnh1SkFWdUZjTGtPWGtRckpURFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYURTOVg1Z3lvallSdnVNTWhDVlJWbEYwSUhMV2phYl9CNFRBbllIZTUyRV96VnhBN0tramlWVUJ0TTExcGxtWUZleVMySmZTOTl3ZTZ0NkJZdjR2aDBob2VwVE9jN3NaR2o1QzFrR1VaNnNqc3dXRTZxMWYtODZPTTRObVU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzgyb0hEc1dzM2ppblZJWEpNeWl6ZDg0UzNpZnlVbmFmLVB6QlJVSUpfTmc3NVZMa0F5NG00R210eUhjaU1ST3o3enRFS2NULWg4MXBVUVVLVk1LVllRNTZBNEYwdnNheUZlU1llS3B1Wnh1SkFWdUZjTGtPWGtRckpURFU?oc=5" target="_blank">It’s time for Europe to embrace air conditioning</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYURTOVg1Z3lvallSdnVNTWhDVlJWbEYwSUhMV2phYl9CNFRBbllIZTUyRV96VnhBN0tramlWVUJ0TTExcGxtWUZleVMySmZTOTl3ZTZ0NkJZdjR2aDBob2VwVE9jN3NaR2o1QzFrR1VaNnNqc3dXRTZxMWYtODZPTTRObVU?oc=5" target="_blank">Oil touches $90 after Iran hits tankers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Spain beat Argentina to win World Cup - Reuters
+## Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5" target="_blank">Spain beat Argentina to win World Cup</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5" target="_blank">Yemen's Houthis say they will impose naval blockade against Saudi Arabia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Brent oil tops $90 as US, Iran intensify attacks in Middle East - Reuters
+## Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5" target="_blank">Brent oil tops $90 as US, Iran intensify attacks in Middle East</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5" target="_blank">Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## FDA says Taylor Farms cyclospora finding was a false positive - Reuters
+## Hamas names Khalil Al-Hayya as new leader, statement says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEd1VXJyM01PeEdDZkdyV0VLajdELXE2bVFnS0RfLWNQeHJGcm5vaU45cFF2VXZUbjdkZGFVZ05pZWFQcFZPUU1QUzZnYkVEUXlPYjVnR3kxaWNUeWlQeXdFTDhYT1JoTV9obWtxR0t5YWc0UER4QVk3M1RRWkk2RXdwN1FtZlh3SFBodW92V2Rpb2pQeWtOYk00dGx2d05NWjROcDR2dUp6ODdPYWo5MlQ1b3pQTFNuU19CSUpFU052Z2NhbTg5VnZUaw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEd1VXJyM01PeEdDZkdyV0VLajdELXE2bVFnS0RfLWNQeHJGcm5vaU45cFF2VXZUbjdkZGFVZ05pZWFQcFZPUU1QUzZnYkVEUXlPYjVnR3kxaWNUeWlQeXdFTDhYT1JoTV9obWtxR0t5YWc0UER4QVk3M1RRWkk2RXdwN1FtZlh3SFBodW92V2Rpb2pQeWtOYk00dGx2d05NWjROcDR2dUp6ODdPYWo5MlQ1b3pQTFNuU19CSUpFU052Z2NhbTg5VnZUaw?oc=5" target="_blank">FDA says Taylor Farms cyclospora finding was a false positive</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5" target="_blank">Hamas names Khalil Al-Hayya as new leader, statement says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Substitute Torres rescues grim final to make Spain world champions - Reuters
+## Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnMzZnF5T2pDc2Zzay1LVnQ4M3ZfTVN5TEt6Zk1CN20tU05iVHQtOGtISXpySVNvU1NpZFFrdUhvY3czS0hfV2xlZU1ZN2Y3QklYd3lTY3l0SEQybU80RGlwM1JONi03UVFRZWpLTlk5bGItTlBZRzJ6RFRvTWVHdnROUkxidHhOcFQ2RTJ6alFDMTR4eHRwUFA0M1FNazVyWTN1RUt2MUhoLXVEMkdDVndQYktTRGFkN2V5bmRoVUFNSjM4ck5v?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnMzZnF5T2pDc2Zzay1LVnQ4M3ZfTVN5TEt6Zk1CN20tU05iVHQtOGtISXpySVNvU1NpZFFrdUhvY3czS0hfV2xlZU1ZN2Y3QklYd3lTY3l0SEQybU80RGlwM1JONi03UVFRZWpLTlk5bGItTlBZRzJ6RFRvTWVHdnROUkxidHhOcFQ2RTJ6alFDMTR4eHRwUFA0M1FNazVyWTN1RUt2MUhoLXVEMkdDVndQYktTRGFkN2V5bmRoVUFNSjM4ck5v?oc=5" target="_blank">Substitute Torres rescues grim final to make Spain world champions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5" target="_blank">Why oil prices haven't gone crazy despite 5 months of US-Iran war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## SpaceX moves Starship launch attempt to Thursday - Reuters
+## Ryanair CEO: initial probe suggests foreign object damage in smashed window incident - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFQ4RDlsRjg3OWRCMlRneXNpLW44YURvUUpTcWNCTVpXZ1plbkpQSTg1QThEQ21CWTVETlpOLWNGUUpvWkFmbENOLWN0Y1pWQlBRVHM0cC1TVkpsdDZVOUVSQlpGZ0VVZVpfUVJpMDVnYjdrWVowWVNUUE11bmh6QUE4YXozNDUxbGtHSVZkQW83SWRQRGc5ME5mc0tmWUwwdW9wb2tacw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUZ3M3lFVVVqZU5QX052R0g5MHNvODVrOTZSUzczZlFTOXV4NFBtZ3hvcTFzU3p6ZHkxdmJQbmJxNGstS2ZUSjJYZ1U2dDY3QmVKRG1pSGxUcXJFSzZMYVE2RnZvdW1zRmYtRjhqQkpPTnRmWDhOT0ptQXdlZG1kRndiVllqR0x3cWkyRFl3VlR2VFFmSkFpanZWSFo1ZThpNTZuaW53SGdYY1d4R25zc2Z5dm1MTE1GS202QTNETWJzX1hKdUpWaFFHQUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFQ4RDlsRjg3OWRCMlRneXNpLW44YURvUUpTcWNCTVpXZ1plbkpQSTg1QThEQ21CWTVETlpOLWNGUUpvWkFmbENOLWN0Y1pWQlBRVHM0cC1TVkpsdDZVOUVSQlpGZ0VVZVpfUVJpMDVnYjdrWVowWVNUUE11bmh6QUE4YXozNDUxbGtHSVZkQW83SWRQRGc5ME5mc0tmWUwwdW9wb2tacw?oc=5" target="_blank">SpaceX moves Starship launch attempt to Thursday</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUZ3M3lFVVVqZU5QX052R0g5MHNvODVrOTZSUzczZlFTOXV4NFBtZ3hvcTFzU3p6ZHkxdmJQbmJxNGstS2ZUSjJYZ1U2dDY3QmVKRG1pSGxUcXJFSzZMYVE2RnZvdW1zRmYtRjhqQkpPTnRmWDhOT0ptQXdlZG1kRndiVllqR0x3cWkyRFl3VlR2VFFmSkFpanZWSFo1ZThpNTZuaW53SGdYY1d4R25zc2Z5dm1MTE1GS202QTNETWJzX1hKdUpWaFFHQUw?oc=5" target="_blank">Ryanair CEO: initial probe suggests foreign object damage in smashed window incident</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
