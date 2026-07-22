@@ -1,6 +1,58 @@
 # 每日财经新闻
 
-更新时间：2026-07-22 03:18:11
+更新时间：2026-07-22 14:08:41
+
+## Kuwait Bond Sale Bids Top $13.5 Billion Even as Iran Strikes
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-22/kuwait-set-to-issue-dollar-bonds-as-iran-strikes-batter-country
+
+正文长度：0
+
+摘要：Kuwait has drawn over $13.5 billion of investor orders for a benchmark dollar bond sale on Wednesday, highlighting resilient demand for the OPEC member’s debt even as it comes under daily missile and drone attacks from Iran.
+
+
+---
+
+## Stocks Waver Before Alphabet’s Results; Oil Jumps: Markets Wrap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates
+
+正文长度：0
+
+摘要：Wall Street investors bracing for the start of the high-stakes megacap earnings season sent stocks wavering while worries about an escalation of the conflict between the US and Iran boosted oil prices.
+
+
+---
+
+## Alphabet Earnings Need to Show Cloud Growth as AI Spending Soars
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-22/alphabet-earnings-need-to-show-cloud-growth-as-ai-spending-soars
+
+正文长度：0
+
+摘要：With AI spending skyrocketing, investors are looking for Alphabet Inc.’s earnings to show strong growth in its cloud-computing business, which would demonstrate a clear return on the company’s investments.
+
+
+---
+
+## US 30-Year Yield Raises Alarm in Longest Run Above 5% Since 2007
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-22/us-30-year-yield-raises-alarm-in-longest-run-above-5-since-2007
+
+正文长度：0
+
+摘要：The US 30-year bond yield is trading above 5% for the longest stretch since the dawn of the financial crisis, echoing investor concerns about a growing debt pile and sticky inflation.
+
+
+---
 
 ## Latest Oil Market News and Analysis for July 22
 
@@ -10,59 +62,38 @@
 
 正文长度：0
 
-摘要：Oil extended gains after President Donald Trump played down the prospect of near-term talks with Iran while threatening broader strikes, as risks to global supply spread beyond the Middle East to the Black Sea.
+摘要：Oil spiked above $95, extending this month’s price jump to 30%, as the US and Iran played down the prospect of peace talks and disruptions to global supplies continued to mount.
 
 
 ---
 
-## Asian Stocks Advance on Chip Rally, Brent Climbs: Markets Wrap
+## Renting a yacht in the Mediterranean this summer just got cheaper
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates
+链接：https://www.cnbc.com/2026/07/22/mediterranean-yacht-rentals.html
 
-正文长度：0
+正文长度：2328
 
-摘要：Stocks in Asia climbed for a second day as chipmakers at the heart of the artificial intelligence boom extended their rebound, offsetting concerns over rising oil prices after renewed escalation in the US-Iran conflict.
+摘要：Summer charters in the Med are down 20% to 30% from last year, yacht brokers say, with a growing number offering special discounts for July and August.
 
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
----
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Yacht companies are offering discounts and special offers on charters in the Mediterranean Sea this summer, as geopolitical conflicts cool demand.
+Summer charters in the Med are down 20% to 30% from last year, yacht brokers say, with a growing number of yachts offering special discounts for the rest of July and August. The softness has also led to more last-minute bookings by charter clients who are looking for deals.
+Jonathan Beckett, CEO of superyacht brokerage Burgess, said bookings by Americans for charter yachts in the Med this summer started out strong in the beginning of the year but slowed after the outbreak of the Iran war.
+"In December, January and February, the market was on fire," he said. "Then the war started."
+Beckett estimates the summer charter season in the Med may be off 30%. Many Americans are booking at the last minute in hopes of deals. While charter clients typically reserve boats months or even a year in advance, this summer they're looking for quick turnarounds.
+"People are booking a big yacht on a Monday for a vacation that starts Friday," said Anders Kurtén, CEO of Fraser Yachts.
+Kevin Merrigan, of Northrop & Johnson, said some clients are calling with a last-minute offer only to find the boats already chartered.
+"There are a lot of last-minute charters this year and deals to be had," he said. "But people who are waiting until the last minute to book are also finding out the yacht has just been chartered or there's a deal already on the table."
+Still, brokers said there has been a flurry of mid-summer deals and discounts. The 130-foot "Club M," offered a special rate of 210,000 euros ($239,000) for the third week of July, down from its usual rate of 250,000 euros. Other yachts are offering "rare availability" in late July and August.
+Beckett said demand for the largest boats — those over 70 meters (230 feet) — is the strongest. And while interest for the summer might be slow, he said bookings for September are already up from last year.
+"People are pushing their vacations to the end of summer in hopes there is resolution in the Middle East," he said.
 
-## Rising Crude, US Rate-Hike Bets Counter Dollar Inflow Support for Rupee
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/newsletters/2026-07-22/rising-crude-us-rate-hike-bets-counter-dollar-inflow-support-for-rupee
-
-正文长度：0
-
-摘要：The Indian currency has fallen about 2% from its June high.
-
-
----
-
-## Korean Stocks Jump as Brokers Say Margin Unwind Nearing End
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-22/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end
-
-正文长度：0
-
-摘要：South Korean stocks jumped, as the unwinding of leveraged bets that helped drive the benchmark nearly 30% below its peak appeared to be nearing its end.
-
-
----
-
-## Gold Extends Gains as Dip-Buyers Shrug Off US-Iran Escalation
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-21/gold-holds-gain-as-traders-weigh-impact-of-oil-risks-on-rates
-
-正文长度：0
-
-摘要：Gold extended gains as dip-buyers supported prices despite escalating tensions in the Middle East keeping the market under pressure.
+</details>
 
 
 ---
@@ -186,170 +217,132 @@ The full-size SUVs — Escalade, Chevy Tahoe and Suburban, and GMC Yukon and Yuk
 
 ---
 
-## GM beats on earnings, raises guidance amid 'resilient' consumer, pricing
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html
-
-正文长度：3651
-
-摘要：GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — General Motors raised several key 2026 earnings forecasts Tuesday after beating Wall Street's second-quarter expectations as the company's North American operations continue to drive its results.
-The Detroit automaker attributed its guidance change to consistent vehicle transaction prices, lower warranty costs and narrowing all-electric vehicle losses as it wraps up a multibillion-dollar pullback in EVs.
-"These results are very consistent with what we've been doing for the last several years," GM CFO Paul Jacobson said Tuesday on CNBC's "Squawk Box." "Our first-half earnings per share is 25% higher than the first half at any time in our history."
-Jacobson said GM's "momentum is palpable," while referring to the company's stock as a "bargain" even after it's increased by more than 40% during the past year. He described the company's consumer demand as "resilient."
-GM's stock closed Tuesday at $79.52 a share, up 4.9%.
-Here's how GM performed in the first quarter, compared with average estimates compiled by LSEG:
-- Earnings per share: $3.57 adjusted vs. $3.20 expected
-- Revenue: $48.03 billion vs. $47.01 billion expected
-The raised guidance includes full-year adjusted earnings before interest and taxes of between $14 billion and $16 billion, or $12 and $14 adjusted EPS, up from previous guidance of $13.5 billion to $15.5 billion, or $11.50 to $13.50 adjusted EPS, previously. It also raised its expectations for adjusted automotive free cash flow to $9.5 billion to $11.5 billion, up from $9 billion to $11 billion.
-The automaker, however, lowered its expectations for net income attributable to stockholders to between $8.4 billion and $9.8 billion, down from previously lowered guidance of between $9.9 billion and $11.4 billion.
-Read more
-This is the second consecutive quarter GM has lowered its net income attributable to stockholders guidance while raising other forecasts. In April, GM altered its guidance to reflect a $500 million tariff rebate.
-The company's North American operations led GM's results, which also include expanding its digital services revenue and improving its EV losses by between $1 billion to $1.5 billion this year compared with 2025.
-"Our 8.6% EBIT-adjusted margin in North America was up 2.5 points from a year ago, and we continue to lower our warranty costs, reduce EV losses, and increase operating efficiency. In addition, GM International, inclusive of our China joint ventures, was profitable," GM CEO and Chair Mary Barra said in a letter to shareholders.
-Barra also noted consistent vehicle pricing and that a "very attractive lineup" of pickup trucks and SUVs contributed to its results. The automaker said its average vehicle transaction price was $52,000 during the quarter as it remains disciplined regarding incentives.
-The company said Tuesday it has "substantially" completed material charges involving its pullback in all-electric vehicles, which have included recording $10.9 billion in EV-related charges since the second half of last year.
-GM on Tuesday said it has paid $4.5 billion of an expected $7.2 billion in cash charges related to its EV pullback through the second quarter.
-The company's second-quarter results included net income attributable to stockholders of $1.3 billion, down 31.1% compared with a year earlier, while adjusted earnings increased about 30% to more than $3.9 billion, or an 8.2% adjusted profit margin. Its revenue was up 1.9% from a year earlier.
-GM's 2025 second-quarter results included $47.12 billion in revenue, net income attributable to stockholders of $1.9 billion, and adjusted earnings before interest and taxes of $3.04 billion.
-
-</details>
-
-
----
-
-## Zelenskyy replaces top Ukraine general after mass protests - Financial Times
+## The US has collected about $13bn of Venezuela’s oil money. Where is it? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmV6ZHJVakZnRy1Gd3l0RXNncEltVkZqWnF0WHFvUWU1TWcyNDBEU3FrSEFRNXk2OHZVSEFlbzZhb1lBTGF2UjRKRlZIY094Qmc2UEVCR1RaWkhHRWVMRC1wMTVHVWMtRmhrNldIbVM3enV5QVhWVXpuRVpyR1JtQ3VaWnU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5" target="_blank">Zelenskyy replaces top Ukraine general after mass protests</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmV6ZHJVakZnRy1Gd3l0RXNncEltVkZqWnF0WHFvUWU1TWcyNDBEU3FrSEFRNXk2OHZVSEFlbzZhb1lBTGF2UjRKRlZIY094Qmc2UEVCR1RaWkhHRWVMRC1wMTVHVWMtRmhrNldIbVM3enV5QVhWVXpuRVpyR1JtQ3VaWnU?oc=5" target="_blank">The US has collected about $13bn of Venezuela’s oil money. Where is it?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump prepares fresh tariff barrage with 10% levies set to expire - Financial Times
+## OpenAI admits AI ‘agent’ caused major cyber breach by itself - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGc1b085TEVvcXZ0Vnl6bjNSakEwRTBEb05DNmM3QU1ya0tKdFctZ0EybmJ3RHhhZ24zRkJEWFN5aGRnNWFpQzVETWdyTmpQU1JVNEFuYnZYSENJWWsyQ1BwUTAwb3NMSi1nckJUZGRKdEhCMThZQ0dIU2EyeVZONmgtVXI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTZMZldvTlVUbmxqNzVHb1RZQVBpaGRycHY4elFRYl9oZnZnRWk2V290WUZWWE1KYnAza3J6Q2NJNkcwNml4VzZ2WGNwejllek9YSTdjOG5ObHdJbGJ6NlpaRHRQQldVZWllOTVSaWMwWDlYR1FURWp0TkJEYklWUENHSU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGc1b085TEVvcXZ0Vnl6bjNSakEwRTBEb05DNmM3QU1ya0tKdFctZ0EybmJ3RHhhZ24zRkJEWFN5aGRnNWFpQzVETWdyTmpQU1JVNEFuYnZYSENJWWsyQ1BwUTAwb3NMSi1nckJUZGRKdEhCMThZQ0dIU2EyeVZONmgtVXI?oc=5" target="_blank">Donald Trump prepares fresh tariff barrage with 10% levies set to expire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTZMZldvTlVUbmxqNzVHb1RZQVBpaGRycHY4elFRYl9oZnZnRWk2V290WUZWWE1KYnAza3J6Q2NJNkcwNml4VzZ2WGNwejllek9YSTdjOG5ObHdJbGJ6NlpaRHRQQldVZWllOTVSaWMwWDlYR1FURWp0TkJEYklWUENHSU8?oc=5" target="_blank">OpenAI admits AI ‘agent’ caused major cyber breach by itself</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Liverpool FC owner in talks to sell stake to Mittal family-backed consortium - Financial Times
+## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmdJVmNyS2d2RWdDdGNnOS1WWlRXZXZrOHd6WWNaMDduM3haaUx1ZGx2UkZBLV9LTng4V0k1U3NFaE93RkJBUE14akpoQTZSaG5vNFV2TndmYzJyTnZoU29pRmdCZm9uMkRLLVhEX01FMzhPNWdJQVJBVVNaX3VuSnFid0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDBvaXhDOTJFOFFnR0l5RlhNQ3RFZlZQdFBvYUdmQTk4dEszWTI2TDd1dGJleURMbS1CWXFESGxhUUtlUmZhM0NpMGRLek1SUXA5VmFONmtmUFNIMlBnbW5Bc2NUR05NY0pkS1NWa0t1RlJDd0F0TDdKdUlwbWFxY1IydUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmdJVmNyS2d2RWdDdGNnOS1WWlRXZXZrOHd6WWNaMDduM3haaUx1ZGx2UkZBLV9LTng4V0k1U3NFaE93RkJBUE14akpoQTZSaG5vNFV2TndmYzJyTnZoU29pRmdCZm9uMkRLLVhEX01FMzhPNWdJQVJBVVNaX3VuSnFid0E?oc=5" target="_blank">Liverpool FC owner in talks to sell stake to Mittal family-backed consortium</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDBvaXhDOTJFOFFnR0l5RlhNQ3RFZlZQdFBvYUdmQTk4dEszWTI2TDd1dGJleURMbS1CWXFESGxhUUtlUmZhM0NpMGRLek1SUXA5VmFONmtmUFNIMlBnbW5Bc2NUR05NY0pkS1NWa0t1RlJDd0F0TDdKdUlwbWFxY1IydUQ?oc=5" target="_blank">US Treasury sends warning to hedge funds over ‘tax alpha’ strategies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bill Gates was warned about Epstein links by staff of his charitable foundation - Financial Times
+## Donald Trump plans 100% tariffs on generic drugs in 2028 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONlRvSVVCRkc5bDg0bHloUjlGZ1NYRVNvZHhsNS1henpDYUJSblRVYWJaYlFrZzZ6Qk1OZmF2amVzakdOYWxjOHNkSklnNkNPMnEtUjRRYktDWDAyWmZEeGpRREJ6Z1JucFZuUWlzVHMxbzRTclR4NHA4ZEMyVV9FcDZUTlA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0ZSbVdKcEM4dWJXX0o3LWQwYjF6aTZpTkZocmhWYTZld05Od2g4RG4zTFNqdnd1bkhMeDc3Tl9heEFlS0VLc2xVWnphQm9nbG8zRGR6VlNaLXgxWEJuVEh6SXYyQm1mTW1lS2JFMHdGcjJ6UUg2MUVHZDFBMWhjdjJOS3c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONlRvSVVCRkc5bDg0bHloUjlGZ1NYRVNvZHhsNS1henpDYUJSblRVYWJaYlFrZzZ6Qk1OZmF2amVzakdOYWxjOHNkSklnNkNPMnEtUjRRYktDWDAyWmZEeGpRREJ6Z1JucFZuUWlzVHMxbzRTclR4NHA4ZEMyVV9FcDZUTlA?oc=5" target="_blank">Bill Gates was warned about Epstein links by staff of his charitable foundation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0ZSbVdKcEM4dWJXX0o3LWQwYjF6aTZpTkZocmhWYTZld05Od2g4RG4zTFNqdnd1bkhMeDc3Tl9heEFlS0VLc2xVWnphQm9nbG8zRGR6VlNaLXgxWEJuVEh6SXYyQm1mTW1lS2JFMHdGcjJ6UUg2MUVHZDFBMWhjdjJOS3c?oc=5" target="_blank">Donald Trump plans 100% tariffs on generic drugs in 2028</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump vows to attack Iranian nuclear facility as Middle East war escalates - Financial Times
+## Samsung in talks to invest in Mistral at €20bn valuation - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPejQtR0xfV0kxUHFiVXczenNpWDZENE53Si1xekI5RzFQNi00Y2F5OUg1dTdQdzFfdHZFdkpZWjZsSWRIb3VKTnFnRTExV0o4TEdJNjVJZ013bDZiVnNZaEx2ZFhIMzBHYnByazJxNVE5U1BnVkotNjBtbjNoVElNb0puWmk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHZBMHVqSjJtbmRuZmNla19IekFEUUpLT0xkWkNGdV9MbV9KUWxJUUdCNlpvSkx3MUdLWHkwckxrVUQ2YTVCRldybU80OGFWalM4emlieTFLRm5nUUFJZzgteHRXQVEzVTV5SXc3NUVlR05nUFRYNGh4bVVIb25Lamt6NjI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPejQtR0xfV0kxUHFiVXczenNpWDZENE53Si1xekI5RzFQNi00Y2F5OUg1dTdQdzFfdHZFdkpZWjZsSWRIb3VKTnFnRTExV0o4TEdJNjVJZ013bDZiVnNZaEx2ZFhIMzBHYnByazJxNVE5U1BnVkotNjBtbjNoVElNb0puWmk?oc=5" target="_blank">Donald Trump vows to attack Iranian nuclear facility as Middle East war escalates</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHZBMHVqSjJtbmRuZmNla19IekFEUUpLT0xkWkNGdV9MbV9KUWxJUUdCNlpvSkx3MUdLWHkwckxrVUQ2YTVCRldybU80OGFWalM4emlieTFLRm5nUUFJZzgteHRXQVEzVTV5SXc3NUVlR05nUFRYNGh4bVVIb25Lamt6NjI?oc=5" target="_blank">Samsung in talks to invest in Mistral at €20bn valuation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Asian stocks extend gains as US rebounds, chipmakers lead - Reuters
+## AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5" target="_blank">Asian stocks extend gains as US rebounds, chipmakers lead</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5" target="_blank">AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## War in Iran has cost the US $37.5 billion so far, Pentagon says - Reuters
+## Ukraine agrees to export drones to US for Pentagon plan, source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkZ6LVlmMHZyTUtFUHBFMk5yb3FvMWtMX3Q3Rl8wSkFmVW1Ld2pKOGZ3QU0tRk5LLVVBcEJwU2d0cVdkNTNvUlYxOTFabENIenVrdWpUeEM4QkR2RFllejQ5T2xfVjYxX3pkVFFqMnpFajhtYnlkeHNTZjZxOG05M3pLdVYzSFZiLXZ2NnNMeWdLZXFvNGFWLVNCNHQ0TG9WRjUwT0psSG55LW85SkJFM2JFbjRuMWRPa2F0Yw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5" target="_blank">War in Iran has cost the US $37.5 billion so far, Pentagon says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkZ6LVlmMHZyTUtFUHBFMk5yb3FvMWtMX3Q3Rl8wSkFmVW1Ld2pKOGZ3QU0tRk5LLVVBcEJwU2d0cVdkNTNvUlYxOTFabENIenVrdWpUeEM4QkR2RFllejQ5T2xfVjYxX3pkVFFqMnpFajhtYnlkeHNTZjZxOG05M3pLdVYzSFZiLXZ2NnNMeWdLZXFvNGFWLVNCNHQ0TG9WRjUwT0psSG55LW85SkJFM2JFbjRuMWRPa2F0Yw?oc=5" target="_blank">Ukraine agrees to export drones to US for Pentagon plan, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters
+## Venezuela's Maduro due back in US court in drug trafficking case - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEhDa0pnODBDWko2TlB4ZzhxOXRSMExNanNfNHAxM2FiVUhTOUI3OGJIVjBRQml4d3lyWVRVV1hOaWRTNEZmMGpjUVhjWldaQWZUSXhtel9vRVpsSVdwT3ZscVZnOGlpdzl4aDFIM2xfN3RTdGlFbTNHNElfaWdJenV0LTM0R0ZVSEYyb2w3eThvaUV1eTZPSTdxQmg3YmRONjlOVFN3T1BncUVrbWFR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5" target="_blank">OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEhDa0pnODBDWko2TlB4ZzhxOXRSMExNanNfNHAxM2FiVUhTOUI3OGJIVjBRQml4d3lyWVRVV1hOaWRTNEZmMGpjUVhjWldaQWZUSXhtel9vRVpsSVdwT3ZscVZnOGlpdzl4aDFIM2xfN3RTdGlFbTNHNElfaWdJenV0LTM0R0ZVSEYyb2w3eThvaUV1eTZPSTdxQmg3YmRONjlOVFN3T1BncUVrbWFR?oc=5" target="_blank">Venezuela's Maduro due back in US court in drug trafficking case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukraine gets new top commander as protests spark war's biggest military shake up - Reuters
+## Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1lhdGlVLWR2R3BlMWk5dWxmYlJGM2Z4N3ByZ1BVblcxdGhobnpESzVMcWxKYktWd1RQUmZrQV9kUDVJbUFJOTJwRXZuakozVjlMSk9qR25iejlTVktTTEhxWDFNU1VMYkd1ZjF3SXZwMkxSS0FNdXhDcEFSeEFGTGdHb0ROOGx6cURjOVBiUEhVZ3F0STM0TEwxSWw5dHg1UllLTVdwNTk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1lhdGlVLWR2R3BlMWk5dWxmYlJGM2Z4N3ByZ1BVblcxdGhobnpESzVMcWxKYktWd1RQUmZrQV9kUDVJbUFJOTJwRXZuakozVjlMSk9qR25iejlTVktTTEhxWDFNU1VMYkd1ZjF3SXZwMkxSS0FNdXhDcEFSeEFGTGdHb0ROOGx6cURjOVBiUEhVZ3F0STM0TEwxSWw5dHg1UllLTVdwNTk?oc=5" target="_blank">Ukraine gets new top commander as protests spark war's biggest military shake up</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5" target="_blank">Meta employees' lawsuit shows that if AI fires you, proving it is the hard part</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Canada cancels joint bridge celebration with US, citing Trump trade threats - Reuters
+## New US 25% tariff hits billions of dollars in Brazilian exports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTlaSWxiME5aR2tucVBvdVVKczhwaVhHOW9CdWMzLXI1MmVqU3c3S2h4TW9wZlRlY2k2MXFIM0lRTzRXeU5ZVzVLN2ZrU3B5S2JmUXpCaDdqZjdSNTZsUzJZR1F6OHNiQjU4MjNmOGsyUThYWktkWXprcWpsSkVYOEVCTDdxWFR5dVVuc0NCTV9qM3cyTGxlblBhMzN3Y0IwNUZEbDgyQmoyTlJZWklSeTZVMHJ3c0lVbjNJRUxrNXdIRzA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjY3ME5qS0NZMjBDZEtBVUJPbWdMTC0yMDZaTFhlTGE0NnI2a3Ffc2FKNVNDWVdHUDFybVlhR3pxOTBzVDl4MFU5VkxfbVZHdEFIY0JpMU95VTNENjdhUDFOSV9IQUNDbWJDNGJyY0VKalVxSGREUm9GWE9rNWFXX3I0OWEtVDY1MlVIUHR6QTJqNUJhV3Y1OXg0clVaclZ4TGk4d3dhcFZRZlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTlaSWxiME5aR2tucVBvdVVKczhwaVhHOW9CdWMzLXI1MmVqU3c3S2h4TW9wZlRlY2k2MXFIM0lRTzRXeU5ZVzVLN2ZrU3B5S2JmUXpCaDdqZjdSNTZsUzJZR1F6OHNiQjU4MjNmOGsyUThYWktkWXprcWpsSkVYOEVCTDdxWFR5dVVuc0NCTV9qM3cyTGxlblBhMzN3Y0IwNUZEbDgyQmoyTlJZWklSeTZVMHJ3c0lVbjNJRUxrNXdIRzA?oc=5" target="_blank">Canada cancels joint bridge celebration with US, citing Trump trade threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjY3ME5qS0NZMjBDZEtBVUJPbWdMTC0yMDZaTFhlTGE0NnI2a3Ffc2FKNVNDWVdHUDFybVlhR3pxOTBzVDl4MFU5VkxfbVZHdEFIY0JpMU95VTNENjdhUDFOSV9IQUNDbWJDNGJyY0VKalVxSGREUm9GWE9rNWFXX3I0OWEtVDY1MlVIUHR6QTJqNUJhV3Y1OXg0clVaclZ4TGk4d3dhcFZRZlE?oc=5" target="_blank">New US 25% tariff hits billions of dollars in Brazilian exports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
