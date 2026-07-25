@@ -1,68 +1,121 @@
 # 每日财经新闻
 
-更新时间：2026-07-25 03:17:23
+更新时间：2026-07-25 13:46:40
 
-## Seven & i Abandons Investment Talks with Poland’s Zabka
+## The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group
+链接：https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market
 
 正文长度：0
 
-摘要：Japan’s Seven &amp; i Holdings Co. has ended talks over a potential investment in Poland’s largest convenience store operator Zabka Group SA, even as it continues to look for expansion opportunities beyond its home market.
+摘要：When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.
 
 
 ---
 
-## El Niño Worsens Plight of Asia’s Rice Belt After War Price Shock
+## Over 250,000 People Flee Wildfires Ravaging France and Spain
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-25/el-nino-worsens-plight-of-asia-s-rice-belt-after-war-price-shock
+链接：https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain
 
 正文长度：0
 
-摘要：A dry spell is sweeping across Asia’s rice fields, dealing another blow to farmers grappling with steep fuel and fertilizer prices triggered by the war in Iran.
+摘要：More than 250,000 people fled towns and villages in Spain and France into the weekend as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.
 
 
 ---
 
-## S&P 500 Wavers as Oil Decline Offsets Chip Selloff: Markets Wrap
+## Austin’s Mayor Tackles Housing Affordability, and Canada Faces New Tariffs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/newsletters/2026-07-25/austin-s-mayor-tackles-housing-affordability-and-canada-faces-new-tariffs
 
 正文长度：0
 
-摘要：Wall Street traders sent stocks wavering at the end of a jittery week, with a drop in oil prices and signs of strength in Corporate America’s profit machine offsetting a selloff in chipmakers.
+摘要：Former trade negotiator says don’t underestimate Canada’s ire
 
 
 ---
 
-## Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025
+## Heat Bakes Central US, Raising Energy Demand as East Stays Cool
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025
+链接：https://www.bloomberg.com/news/articles/2026-07-25/heat-bakes-central-us-raising-energy-demand-as-east-stays-cool
 
 正文长度：0
 
-摘要：Commodity trading giant Vitol Group paid out $5.9 billion to its executives and senior staff through share buybacks last year, even as its profits more than halved to $4.2 billion.
+摘要：Baking temperatures will sear the central US from the Rocky Mountains to the Mississippi River and eventually push down into the Gulf Coast for the rest of the month, putting regional power grids to the test.
 
 
 ---
 
-## BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff
+## Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center
+链接：https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly
 
 正文长度：0
 
-摘要：BlackRock Inc. has seen weaker-than-usual demand for a corporate bond sale tied to a Meta Platforms Inc. data center project in Texas, as investors grapple with concerns about excessive AI infrastructure spending.
+摘要：Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales — and having a bigger impact on the US corporate bond market than might be obvious.
+
+
+---
+
+## Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html
+
+正文长度：7517
+
+摘要：Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals.
+Most injectable GLP-1 medications, including Novo Nordisk's Ozempic and Wegovy and Eli Lilly's Mounjaro and Zepbound, require refrigerated storage for shipment.
+The Covid pandemic put healthcare logistics at center stage in 2020, as the shipping of temperature-controlled vaccines quickly became a crucial part of keeping the virus at bay. And as more money has been poured into new pharmaceutical innovations, the transportation of those products have come under the spotlight.
+Logistics companies are now investing millions of dollars and strengthening dozens of temperature-controlled facilities to tap into the market.
+In June, UPS announced a new $48 million investment in temperature-controlled facilities as it sees a growing demand for critical treatments. According to Growth Market Reports, the demand for temperature-sensitive biologics is projected to grow at an 8.3% compound annual growth rate through 2033 and reach a market value of roughly $39.1 billion.
+Obesity and diabetes drugs, meanwhile, have been booming in popularity. A July Gallup poll found that 11% of Americans take GLP-1 medications for weight loss purposes in 2026, up from just 3% in 2024.
+But if they're not stored and shipped at the correct temperature, they risk losing their efficacy.
+The Food and Drug Administration has warned that improper storage during shipping can affect the medicine's quality and recommends patients do not use GLP-1 drugs that arrive "warm or with insufficient refrigeration."
+Other biologics, like some vaccines, insulin and antibiotics, also require specialized shipment to maintain efficacy. For logistics companies, that means ensuring the proper storage and movement every step of the way.
+Bulking up
+Healthcare logistics have proven to be one of UPS' biggest opportunities. On an earnings call with analysts in April, CEO Carol Tomé said the company's global healthcare portfolio has gained market share every year since 2021, generating its first ever $3 billion healthcare revenue quarter in the first quarter of this year.
+UPS President of Healthcare John Bolla told CNBC that the company is seeing more healthcare companies looking for partners to keep up with the volume.
+"One of the biggest opportunities we see is supporting the shift toward more specialized therapies and more care delivered outside of traditional healthcare settings," Bolla said.
+He said UPS is experiencing "rapid growth" in biologics, cell and gene therapies, though the biggest challenge is that the margin for error is small — even a brief stray from the correct temperature can ruin the medicines, Bolla said.
+"But that's also what's creating such a significant opportunity in healthcare logistics," he said. "As treatments become more specialized and supply chains become more complex, healthcare companies need partners that can provide not just temperature-controlled storage or transportation, but end-to-end visibility, control and reliability across the entire network."
+FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products.
+On an earnings call in June, FedEx's Chief Customer Officer Brie Carere told analysts that healthcare transportation revenue in fiscal year 2026 reached nearly $10 billion.
+"We're building end-to-end solutions focused on global pharma customers, and what's so important with global pharma is that you have to recognize that there's a patient at the end of every delivery or someone that's waiting to be treated," said Nick Gennari, FedEx's president of healthcare. "So we take this very, very seriously."
+With GLP-1s specifically, Gennari said there's an increasing complexity to delivering those medications, with forms ranging from injectables to oral pills and going direct-to-consumer. But with that complexity comes a growth opportunity for FedEx, which he said is "ideally positioned."
+Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs.
+Gennari also said he's "very comfortable" with the company's base capabilities and its plans for expansion, including cold-chain logistics.
+"Much of the infrastructure that's required to be successful in this space, we already have. We have the airline; we have an incredible schedule; we have the lift capabilities. The network is hardened and works very well," he said.
+Complex supply chains
+C.H. Robinson told CNBC the logistics company had surpassed $1 billion in revenue in healthcare logistics alone over the past year, largely due to the growth in GLP-1 drugs, as it has been investing in temperature-controlled facilities.
+"You need to really have that end-to-end connectivity, so you've got to have a really nice network and infrastructure built out in order to properly service the healthcare customers," said Ronnie Davis, the company's vice president of North American surface transportation.
+Davis said the supply chain for medications has also become more complicated. In addition to requiring refrigeration, many drugs have a short shelf life and need to be delivered in precise windows of time.
+"A lot of the innovation has been on getting the drugs to the market," Davis said. "I think what you're starting to see is that's really putting stress on the capabilities of the cold chain supply chains in the marketplace. … With the rise of GLP-1s and other specialized medicine, it's really creating a competitive nature for the same refrigerated supply resources that are there and, quite candidly, that supply is not unlimited, it's constrained."
+Davis said C.H. Robinson is working to amp up its capabilities, especially to keep up with the higher volume. At the same time, he added, pharma companies are also trying to get creative to bring their products to market with a longer shelf life.
+That innovation is also intersecting with the growth of artificial intelligence capabilities, according to Hendrik Venter, CEO of DHL Supply Chain. The logistics company uses AI to monitor critical life science products, tracking temperatures and anticipating where an issue might happen.
+"You're seeing the industry moving from conventional to biopharma," Venter told CNBC. "You need to have a supply chain that is resilient and capable of shipping in all of these various temperature zones."
+The company announced last year that it plans to invest 2 billion euros ($2.25 billion) in health logistics by 2030, with half of that allocated to the Americas.
+A lot of pharmaceutical companies are also outsourcing their warehousing activities to DHL, Venter said. The company takes over those facilities, manages them and integrates them into the rest of their network.
+DHL launched a pharmaceutical air corridor around the world, with a dedicated aircraft and connected network that ensures the drugs are not being shipped through separate regulatory environments.
+"You cannot lose a shipment. You cannot replace it. It needs to be delivered on time, every time, in the right quality and temperatures," Venter said. "So we continue to selectively look at how to strengthen that network."
+
+</details>
 
 
 ---
@@ -210,168 +263,6 @@ Even Jensen Huang's leather jackets have become collectibles. A black leather To
 "People are spending money on fun, collectible items that they want to have," said Jeffrey Yin, CEO of Artsy and Artnet.
 
 </details>
-
-
----
-
-## Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html
-
-正文长度：2412
-
-摘要：Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> How volatile are fuel markets this year?
-Southwest Airlines hired a ship this spring to send jet fuel from Texas to California, where prices are much higher and concerns had grown about supply, Chief Financial Officer Tom Doxey told CNBC. It was a first for the Dallas airline.
-"It brought like a week's supply to the West Coast at a time when when supply was most constricted ... when it was most at risk," Doxey said.
-The ship, which left from Houston and went through the Panama Canal, arrived May 28 in Los Angeles and had about 12.6 million gallons aboard, Southwest said. For context, Southwest used 564 million gallons of jet fuel in the last quarter.
-The West Coast is much more reliant on imports than other parts of the country. Jet fuel prices spiked and have been volatile since the U.S. and Israel struck Iran in February.
-Southwest said Thursday that its fuel expenses were up nearly $900 million in the second quarter from last year.
-For the shipment to California, the airline said it used a waiver of the Jones Act, a law from 1920 that requires shipments between U.S. ports to be carried on a U.S. ship. President Donald Trump waived that requirement in March as fuel prices were soaring in the weeks following the start of the Iran war and subsequent shipping snarls erupted in the Strait of Hormuz, a key channel.
-Worries about supplies intensified as countries restricted exports this year, fearful of running low on fuel. Those concerns have since eased, a Southwest spokesman said.
-Jet fuel is airlines' biggest expense after labor. Prices eased in late spring and early summer but rose again as tensions reignited with Iran this month.
-Last week, United Airlines, which flies more internationally than any other U.S. carrier, said it is using the latest available fuel prices for its quarterly estimates because prices have been so volatile.
-In its July 15 report, it said jet fuel increased $575 million, or a $1.12 hit to adjusted earnings per share, for the third quarter alone.
-U.S. airlines have abandoned fuel hedges, which help them lock in costs through futures contracts, over the past decade or so as the U.S. was awash in supply, keeping a lid on prices.
-This time around, carriers have scaled back their capacity growth plans, which is also helping boost fares. Airline executives this month said demand remains strong despite higher fares, which they say are likely to stick.
-
-</details>
-
-
----
-
-## Waymo explores split with Uber as robotaxi tensions deepen - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5" target="_blank">Waymo explores split with Uber as robotaxi tensions deepen</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Europe wins and Brazil loses in Trump tariff overhaul - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2lPcXNQLWZUZ1hacDRQSHQyVTFFRG5Zem5zc2pUZmd1RDBLWTlpTVQtSVJ6a1VxZ3NGdUdjbjNpaUpyeGhnTGRzSnc2WUxoYlRwWDJIeHJZTTEwRWsyZGl5TEtsSUVsWDI2czhjWFhYZDNMVnE5MlRoZ3cwSTFNemlGUDg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2lPcXNQLWZUZ1hacDRQSHQyVTFFRG5Zem5zc2pUZmd1RDBLWTlpTVQtSVJ6a1VxZ3NGdUdjbjNpaUpyeGhnTGRzSnc2WUxoYlRwWDJIeHJZTTEwRWsyZGl5TEtsSUVsWDI2czhjWFhYZDNMVnE5MlRoZ3cwSTFNemlGUDg?oc=5" target="_blank">Europe wins and Brazil loses in Trump tariff overhaul</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORnZVdHJZS0ktS2lQckVaVkxZSE9LdG9uRDZ5aGQ2R1B0VzgzZUFJSW5jWjNNQXk5cm1QekkxbVFnZ0lsQTBHOExTSDlOMDRBcTZ1amg5Zzh5UXA2cmNISXJBM3dmd3pxRjdsTXZvNGxJMnJVNTB3QXB0NW5LMlZWNzNKcjk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORnZVdHJZS0ktS2lQckVaVkxZSE9LdG9uRDZ5aGQ2R1B0VzgzZUFJSW5jWjNNQXk5cm1QekkxbVFnZ0lsQTBHOExTSDlOMDRBcTZ1amg5Zzh5UXA2cmNISXJBM3dmd3pxRjdsTXZvNGxJMnJVNTB3QXB0NW5LMlZWNzNKcjk?oc=5" target="_blank">Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## BP nears deal to sell solar business Lightsource to Kuwait-backed group - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORHF1a2stWDZtekFaUlR1SUdWOXJFb3dnQ2xaVWRzMS1hN3NiNnQwMFBHZ3E4WUVCbjd3Z0hodDJaVUdQMm56THlzY3JuTEhnLUFTaFZ3RFpqQlQwNi1kSVlRRjRMMnZ1RE9XM3FUeEdGZm15VjRyNVcyTnhUaGU1c3p6Vno?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORHF1a2stWDZtekFaUlR1SUdWOXJFb3dnQ2xaVWRzMS1hN3NiNnQwMFBHZ3E4WUVCbjd3Z0hodDJaVUdQMm56THlzY3JuTEhnLUFTaFZ3RFpqQlQwNi1kSVlRRjRMMnZ1RE9XM3FUeEdGZm15VjRyNVcyTnhUaGU1c3p6Vno?oc=5" target="_blank">BP nears deal to sell solar business Lightsource to Kuwait-backed group</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US hits 60 trading partners with new duties as Donald Trump rebuilds tariff wall - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWNmbDJNOWZrbG9kNGFlai16cHpQSjJ6RHhWSDdjWVdZNjFsb0hMVUxtNTZURUNqcGFQSVNkQWFxSzNPQ3VOZ09qYTdoUFdfRU1NQ0NYamtHaFdRRkVBM2RGUTZsUTBNNlRqVGZfSUhOQWlBSlZxYU9tRElNSkJzOGZGVG8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWNmbDJNOWZrbG9kNGFlai16cHpQSjJ6RHhWSDdjWVdZNjFsb0hMVUxtNTZURUNqcGFQSVNkQWFxSzNPQ3VOZ09qYTdoUFdfRU1NQ0NYamtHaFdRRkVBM2RGUTZsUTBNNlRqVGZfSUhOQWlBSlZxYU9tRElNSkJzOGZGVG8?oc=5" target="_blank">US hits 60 trading partners with new duties as Donald Trump rebuilds tariff wall</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5" target="_blank">EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5" target="_blank">Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## SpaceX launches 13th Starship test, briefly deploys first upgraded Starlinks - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW5SOE5xcGxqZEZRZ0xpTE9Wc2JiTUloM1VHUHdxcllUQXI4RHNnZnRqdnZWYTJZS1pwYl9obHh3aDVJNVZMX3lBS2ZxbnNlMklGbjdUX0lnal95RFBaNHE1MUt0anNSVHhqd1dFNTN5bWM0YS02QzNWbzRrUHkzN0VKRUR1aFJYd3NPX2RGWDRzVUo0dEtlQm14alV4N3ByQl9qVWxuZmoybU5sSlAyNC1TUE9YQQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW5SOE5xcGxqZEZRZ0xpTE9Wc2JiTUloM1VHUHdxcllUQXI4RHNnZnRqdnZWYTJZS1pwYl9obHh3aDVJNVZMX3lBS2ZxbnNlMklGbjdUX0lnal95RFBaNHE1MUt0anNSVHhqd1dFNTN5bWM0YS02QzNWbzRrUHkzN0VKRUR1aFJYd3NPX2RGWDRzVUo0dEtlQm14alV4N3ByQl9qVWxuZmoybU5sSlAyNC1TUE9YQQ?oc=5" target="_blank">SpaceX launches 13th Starship test, briefly deploys first upgraded Starlinks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## US says it will lift ban on imports of Mexican cattle - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXFIeVFPQTlrdHcyMzBXOFo0eXlLVlhxUG0yRVNFUThDd0taMnBraWNlLUdTQnRXcXBYZWFibzZ5Rlc5bldBMWxtS1g5TTJYZ0E1TG1mQmQyb0JQNzZDaHBLNW9GYXd0M1I2UHM2elM2dDZQWWU2UTdBZlhJU3ROR2NkRXBoQVpkZGdOcGZDVkRtTW5CcXc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXFIeVFPQTlrdHcyMzBXOFo0eXlLVlhxUG0yRVNFUThDd0taMnBraWNlLUdTQnRXcXBYZWFibzZ5Rlc5bldBMWxtS1g5TTJYZ0E1TG1mQmQyb0JQNzZDaHBLNW9GYXd0M1I2UHM2elM2dDZQWWU2UTdBZlhJU3ROR2NkRXBoQVpkZGdOcGZDVkRtTW5CcXc?oc=5" target="_blank">US says it will lift ban on imports of Mexican cattle</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Paramount agrees to pause Warner Bros deal while case plays out - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2FRaUxDRUdfTGJFekZEWjI5UFN2QnlvRjkwNjc4UF9NdXV6c3JvV3hFOEF3a1V1dmRtWTlrWDd0TkNLZGV3c2RPaFNyaThGLTFITkdLSllYRXZtWWRIT280cjVRU0ZCVXEwcmpOQXhOZ1Q1aUR5UnFOQnZrQThyQ0tVM0w4bjN0SC1WTlRFWXgwYnN1eFFId3EyVHEyYlBmaGdiUw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2FRaUxDRUdfTGJFekZEWjI5UFN2QnlvRjkwNjc4UF9NdXV6c3JvV3hFOEF3a1V1dmRtWTlrWDd0TkNLZGV3c2RPaFNyaThGLTFITkdLSllYRXZtWWRIT280cjVRU0ZCVXEwcmpOQXhOZ1Q1aUR5UnFOQnZrQThyQ0tVM0w4bjN0SC1WTlRFWXgwYnN1eFFId3EyVHEyYlBmaGdiUw?oc=5" target="_blank">Paramount agrees to pause Warner Bros deal while case plays out</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
