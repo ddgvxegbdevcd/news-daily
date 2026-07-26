@@ -1,8 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-07-26 03:31:29
+更新时间：2026-07-26 13:40:38
 
-## Modi Punctured as Awakened India Students Force Swift Retreat
+## Brazil ETF Market Triples in Boom for New Latin America Funds
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-26/brazil-etf-market-triples-in-boom-for-new-latin-america-funds
+
+正文长度：0
+
+摘要：Exchange-traded funds are cropping up at a fast clip in local markets across Latin America as investors flock to a swath of new products tailored to domestic demand.
+
+
+---
+
+## Modi Punctured as Awakened India Students Force Retreat
 
 来源：彭博社
 
@@ -10,7 +23,7 @@
 
 正文长度：0
 
-摘要：For much of Narendra Modi’s 12 years ruling India, he’s looked nearly unbeatable at the polls. This weekend he swiftly yielded to a group that didn’t exist a few months ago, energizing opponents who have struggled to gain traction against one of the nation’s most powerful leaders.
+摘要：For much of Narendra Modi’s 12 years ruling India, he’s looked nearly unbeatable at the polls. This weekend he swiftly yielded to a group that didn’t exist a few months ago, energizing opponents who have struggled to rattle one of the nation’s most powerful leaders ever.
 
 
 ---
@@ -50,19 +63,6 @@
 正文长度：0
 
 摘要：Iraq will sign an agreement with Syria on the construction of pipelines linking oil production sites to global export markets via the Mediterranean, according to a statement.
-
-
----
-
-## Over 250,000 People Flee Wildfires Ravaging France and Spain
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain
-
-正文长度：0
-
-摘要：More than 250,000 people fled towns and villages in Spain and France as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.
 
 
 ---
@@ -267,6 +267,19 @@ Even Jensen Huang's leather jackets have become collectibles. A black leather To
 
 ---
 
+## Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORkE0bE5KM25qVEhsbE92dG4wNTBaaU5HNm9aYWZfdld2cFo2ampsVVhfTWtJckhId212UkNSZHdTbUNyTGdVdDNyY0FCc0ZIdzdJVG5ib1pTc1BtZU5LRnE1LWFCRnFIN3Q3cFBpbjBlZHNmWjI3TDUxc3FmUjZEY01pNF8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORkE0bE5KM25qVEhsbE92dG4wNTBaaU5HNm9aYWZfdld2cFo2ampsVVhfTWtJckhId212UkNSZHdTbUNyTGdVdDNyY0FCc0ZIdzdJVG5ib1pTc1BtZU5LRnE1LWFCRnFIN3Q3cFBpbjBlZHNmWjI3TDUxc3FmUjZEY01pNF8?oc=5" target="_blank">Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Brazil denies visas to US officials over alleged election interference - Financial Times
 
 来源：金融时报
@@ -276,6 +289,19 @@ Even Jensen Huang's leather jackets have become collectibles. A black leather To
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPakM5WENzTkVZUjdfbVh0d2xaT0tkRVF1YWh4OHVCdlpVR0dva20zLWVZVmpKX2prNF9hNGFZNmpzYXBlaEZHTFA1bHROWTAyckxHOHcwd0RLQ0tSQlBPVVdpak5nVmFha3F2S1FMcGFxSWxLUVNRTXRsV1d4c1VaZ0JMRXg?oc=5" target="_blank">Brazil denies visas to US officials over alleged election interference</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjhKbWhlMkQxZHNGLXlhSXBSNDJ5Mnd4MFJiU1VpLXYxSGNycUNpWmxVTmFlVXRSVXVnNll5RVJTY3hqYy1YdTYyNWJsZ0RCbm00d1dyWEVpVEd4RmJ0UlNOQmpUWXY4NzRWeGdCUUYxYjE2eF9iZ1RHYWNIWlBSc3poWGQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjhKbWhlMkQxZHNGLXlhSXBSNDJ5Mnd4MFJiU1VpLXYxSGNycUNpWmxVTmFlVXRSVXVnNll5RVJTY3hqYy1YdTYyNWJsZ0RCbm00d1dyWEVpVEd4RmJ0UlNOQmpUWXY4NzRWeGdCUUYxYjE2eF9iZ1RHYWNIWlBSc3poWGQ?oc=5" target="_blank">Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -306,93 +332,67 @@ Even Jensen Huang's leather jackets have become collectibles. A black leather To
 
 ---
 
-## India’s ‘Cockroach’ Gen Z has had enough - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5" target="_blank">India’s ‘Cockroach’ Gen Z has had enough</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5" target="_blank">Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Vehicle mows down crowd at Berlin Pride festival, killing one - Reuters
+## Wildfires threaten Bordeaux as France, Spain battle blazes - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ29lUm9wb0g2TUU0dWowSWdwNFExdGpETDljMi1yYXc3cjBjcVZXbnhWRDFiWFNHMlVyb3ZGYnpqeGRhRkt3aVpFSDFCNzdhMzFqWGVBRTF3bVh5NHJIZjBSa0d1QjlfZjdweWpxc01odndpYk1QeUU1UU5rajhtXzZPQkZWOWFtOXVuUDJQVnNENjFxWS13ZHNLWTJNSS1jZ3ZOd3hRZzlZbmN4LVY0Qw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5" target="_blank">Vehicle mows down crowd at Berlin Pride festival, killing one</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ29lUm9wb0g2TUU0dWowSWdwNFExdGpETDljMi1yYXc3cjBjcVZXbnhWRDFiWFNHMlVyb3ZGYnpqeGRhRkt3aVpFSDFCNzdhMzFqWGVBRTF3bVh5NHJIZjBSa0d1QjlfZjdweWpxc01odndpYk1QeUU1UU5rajhtXzZPQkZWOWFtOXVuUDJQVnNENjFxWS13ZHNLWTJNSS1jZ3ZOd3hRZzlZbmN4LVY0Qw?oc=5" target="_blank">Wildfires threaten Bordeaux as France, Spain battle blazes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Major vehicle-ramming incidents in Germany since 2016 - Reuters
+## Romania shoots down third Russian drone, as president calls breaches 'intolerable' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5" target="_blank">Major vehicle-ramming incidents in Germany since 2016</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5" target="_blank">Romania shoots down third Russian drone, as president calls breaches 'intolerable'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US appeals court rules Trump cannot implement mail-in voting order - Reuters
+## Israeli strike kills a top Hamas security official in Gaza, medics and police say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBGajM4Y01KR3FCSm5IT3ZFM1dTSDZ4TEtYY3VQUDJEWk9Lcnh4bE1RTzlvXzAwOHhDSTdVT3FiWWhfYVlfeDNOX0drRVpueUNZdDBuQ005dEVvUUR3S3JmRnplMVFxc2lKaWtaSVg0Ri1JNVJ0c0RUaVBnTlotS3Rsbms5R2RXMGV4bTRqQW51aFpvUC15OUdUZE9OVUhLWVhhWGxNdVJ6VVZq?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBGajM4Y01KR3FCSm5IT3ZFM1dTSDZ4TEtYY3VQUDJEWk9Lcnh4bE1RTzlvXzAwOHhDSTdVT3FiWWhfYVlfeDNOX0drRVpueUNZdDBuQ005dEVvUUR3S3JmRnplMVFxc2lKaWtaSVg0Ri1JNVJ0c0RUaVBnTlotS3Rsbms5R2RXMGV4bTRqQW51aFpvUC15OUdUZE9OVUhLWVhhWGxNdVJ6VVZq?oc=5" target="_blank">US appeals court rules Trump cannot implement mail-in voting order</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5" target="_blank">Israeli strike kills a top Hamas security official in Gaza, medics and police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters
+## Berlin Pride attack prompts grief and solidarity with LGBTQ community - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5" target="_blank">Iran says Ukrainian attack on vessel in Caspian Sea killed sailor</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5" target="_blank">Berlin Pride attack prompts grief and solidarity with LGBTQ community</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict - Reuters
+## Germany pledges justice over Berlin Pride attack as police hunt suspect - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5" target="_blank">Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5" target="_blank">Germany pledges justice over Berlin Pride attack as police hunt suspect</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
