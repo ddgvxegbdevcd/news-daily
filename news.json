@@ -1,14 +1,44 @@
 {
-  "update_time": "2026-07-25 13:46:40",
-  "news_count": 10,
+  "update_time": "2026-07-26 03:31:29",
+  "news_count": 20,
   "news": [
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "publish_time": "Sat, 25 Jul 2026 13:00:01 GMT",
-      "summary": "When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.",
+      "title": "Modi Punctured as Awakened India Students Force Swift Retreat",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/modi-punctured-as-awakened-india-students-force-swift-retreat",
+      "publish_time": "Sun, 26 Jul 2026 02:30:00 GMT",
+      "summary": "For much of Narendra Modi’s 12 years ruling India, he’s looked nearly unbeatable at the polls. This weekend he swiftly yielded to a group that didn’t exist a few months ago, energizing opponents who have struggled to gain traction against one of the nation’s most powerful leaders.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Barrick Evacuates Chile Workers by Helicopter After Storm",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/barrick-evacuates-chile-workers-by-helicopter-after-storm",
+      "publish_time": "Sun, 26 Jul 2026 01:52:13 GMT",
+      "summary": "Barrick Mining Corp. said it safely evacuated workers who had been stranded in their Barriales camp in northern Chile after severe storms blocked road access.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Australian Prime Minister Albanese to Press Trump on New Tariffs",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/australian-prime-minister-albanese-to-press-trump-on-new-tariffs",
+      "publish_time": "Sun, 26 Jul 2026 00:34:20 GMT",
+      "summary": "Australian Prime Minister Anthony Albanese said he will appeal directly to President Donald Trump over new tariffs announced by Washington, describing the levies as unjustified.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+      "publish_time": "Sat, 25 Jul 2026 23:34:54 GMT",
+      "summary": "Iraq will sign an agreement with Syria on the construction of pipelines linking oil production sites to global export markets via the Mediterranean, according to a statement.",
       "content": "",
       "content_length": 0
     },
@@ -18,37 +48,7 @@
       "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
       "url": "https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain",
       "publish_time": "Sat, 25 Jul 2026 08:49:50 GMT",
-      "summary": "More than 250,000 people fled towns and villages in Spain and France into the weekend as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Austin’s Mayor Tackles Housing Affordability, and Canada Faces New Tariffs",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-25/austin-s-mayor-tackles-housing-affordability-and-canada-faces-new-tariffs",
-      "publish_time": "Sat, 25 Jul 2026 12:00:01 GMT",
-      "summary": "Former trade negotiator says don’t underestimate Canada’s ire",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Heat Bakes Central US, Raising Energy Demand as East Stays Cool",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/heat-bakes-central-us-raising-energy-demand-as-east-stays-cool",
-      "publish_time": "Sat, 25 Jul 2026 11:41:32 GMT",
-      "summary": "Baking temperatures will sear the central US from the Rocky Mountains to the Mississippi River and eventually push down into the Gulf Coast for the rest of the month, putting regional power grids to the test.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
-      "publish_time": "Sat, 25 Jul 2026 11:00:00 GMT",
-      "summary": "Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales — and having a bigger impact on the US corporate bond market than might be obvious.",
+      "summary": "More than 250,000 people fled towns and villages in Spain and France as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
       "content": "",
       "content_length": 0
     },
@@ -101,6 +101,106 @@
       "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
       "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.\nThe major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year as the wealthy gained confidence from soaring financial stock markets.\nSotheby's reported its best first half ever, with $4.4 billion in sales, up 58% from last year and marking a record for the 282-year-old auction house. Christie's had its best first half since 2021, reporting sales of $4.5 billion, up 71%. Phillips, Heritage and other auctioneers also had breakout starts to the year.\nThere were eight lots that sold for more than $50 million in the first half, compared with none in 2024 and 2025, according to Artnet. Auction executives and dealers say the explosive rebound in the art market, following nearly three years of declines, is being driven largely by the massive wealth creation from the artificial intelligence boom, IPOs and rising stocks.\n\"The numbers mean there is confidence in the market,\" Christie's CEO Bonnie Brennan said at the Christie's Art + Tech Summit last week. \"There are people willing to sell great objects and there are people spending great amounts of money to acquire those special one-of-one works.\"\nAdded Sotheby's CEO Charles Stewart: \"The wealth being created now is the number one factor in our business right now. It's obviously very visible when you sit here in New York and talk about the SpaceX IPO and these different tech IPOs coming and the AI fever.\"\nWhile the dollar totals are being driven largely by a select group of hyper-priced works at the very top of the market, the strength is across the board, in almost all price points and almost every category. Fine art, classic cars, watches, handbags, diamonds, whiskey and even dinosaur bones are all seeing new records.\nLeading the first half was a Jackson Pollock drip painting, titled \"Number 7A, 1948,\" which sold for $181 million at Christie's. The work, considered one of Pollock's most epic and defining works, had previously been owned by media magnate and collector S.I. Newhouse, which added to its appeal. A Brancusi sculpture also previously owned by Newhouse went for $107.6 million.\nA new wave of younger collectors, many from the tech world, is also redefining collectibles.\nIn classic cars, 1950s and 1960s sports cars used to dominate the price charts. Now supercars from the 1990s and 2000s are the hottest sellers.\nWatches are gaining in popularity among tech bros. Phillips in Association with Bacs & Russo reported $235 million in watch auctions in the first half, marking its largest ever. The strong bidding stretched across its auctions in New York, Geneva and Hong Kong. While Patek Philippe remains strong, young collectors are battling over pieces from more rarified, independent brands.\nThe priciest watch sold in the first half was an F.P. Journe Souscription Résonance, which went for $13.9 million. Mark Zuckerberg has become one of the most high-profile devotees of F.P. Journe in recent years, and has sported seven-figure F.P. Journes in public.\nBrennan said 30% of the buyers in the first half were new to Christie's, with 47% of them millennials or younger, and that 85% of bids were placed online.\n\"What we show people and how they engage with Christie's is evolving,\" she said.\nOne of the hottest new categories is also the oldest — dinosaur bones. Sotheby's sold a fossil specimen of a Tyrannosaurus rex this month for $50.1 million, making it the most expensive fossil ever auctioned. The T. rex, named \"Gus,\" was excavated out of the South Dakota badlands and is estimated to be 67 million years old.\nGus' new owner hasn't been identified. But the sale followed a stegosaurus that was sold by Sotheby's in 2024 to hedge-fund billionaire Ken Griffin for $44.6 million. The stegosaurus, named \"Apex,\" is on loan to the Museum of Natural History.\nStewart said institutions as well as individuals are bidding up dinosaur fossils. Seven bidders battled for Gus for 10 minutes, as new wealth vied for a piece of prehistoric history. At 38 feet long, Gus will need either a museum or a very large living room for his new home.\n\"I say it's 'SpaceX to T. rex,'\" Stewart said. \"It's not just that these people have made the money. They're looking at market valuations and they're making a judgment about store of value.\"\nYoung tech money is also bidding up the values of sports memorabilia and pop culture. Just weeks after the New York Knicks won the NBA championship, a jersey worn by Jalen Brunson in Game 1 of the series against the Spurs sold at Sotheby's for $1.024 million.\nEven Jensen Huang's leather jackets have become collectibles. A black leather Tom Ford jacket that the Nvidia CEO wore to a Foxconn event in Taiwan in 2023 sold for $960,000, blowing away its presale estimate of $40,000 to $60,000. The proceeds went to charity.\n\"People are spending money on fun, collectible items that they want to have,\" said Jeffrey Yin, CEO of Artsy and Artnet.",
       "content_length": 5149
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Brazil denies visas to US officials over alleged election interference - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakM5WENzTkVZUjdfbVh0d2xaT0tkRVF1YWh4OHVCdlpVR0dva20zLWVZVmpKX2prNF9hNGFZNmpzYXBlaEZHTFA1bHROWTAyckxHOHcwd0RLQ0tSQlBPVVdpak5nVmFha3F2S1FMcGFxSWxLUVNRTXRsV1d4c1VaZ0JMRXg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 18:20:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPakM5WENzTkVZUjdfbVh0d2xaT0tkRVF1YWh4OHVCdlpVR0dva20zLWVZVmpKX2prNF9hNGFZNmpzYXBlaEZHTFA1bHROWTAyckxHOHcwd0RLQ0tSQlBPVVdpak5nVmFha3F2S1FMcGFxSWxLUVNRTXRsV1d4c1VaZ0JMRXg?oc=5\" target=\"_blank\">Brazil denies visas to US officials over alleged election interference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Why this philosopher turned down Anthropic - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 04:00:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5\" target=\"_blank\">Why this philosopher turned down Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Trump attacks journalists at awkward White House press dinner - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 03:54:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5\" target=\"_blank\">Trump attacks journalists at awkward White House press dinner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "India’s ‘Cockroach’ Gen Z has had enough - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 04:00:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5\" target=\"_blank\">India’s ‘Cockroach’ Gen Z has had enough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 08:44:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5\" target=\"_blank\">Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Vehicle mows down crowd at Berlin Pride festival, killing one - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 21:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5\" target=\"_blank\">Vehicle mows down crowd at Berlin Pride festival, killing one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Major vehicle-ramming incidents in Germany since 2016 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sun, 26 Jul 2026 01:37:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5\" target=\"_blank\">Major vehicle-ramming incidents in Germany since 2016</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "US appeals court rules Trump cannot implement mail-in voting order - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBGajM4Y01KR3FCSm5IT3ZFM1dTSDZ4TEtYY3VQUDJEWk9Lcnh4bE1RTzlvXzAwOHhDSTdVT3FiWWhfYVlfeDNOX0drRVpueUNZdDBuQ005dEVvUUR3S3JmRnplMVFxc2lKaWtaSVg0Ri1JNVJ0c0RUaVBnTlotS3Rsbms5R2RXMGV4bTRqQW51aFpvUC15OUdUZE9OVUhLWVhhWGxNdVJ6VVZq?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 20:01:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBGajM4Y01KR3FCSm5IT3ZFM1dTSDZ4TEtYY3VQUDJEWk9Lcnh4bE1RTzlvXzAwOHhDSTdVT3FiWWhfYVlfeDNOX0drRVpueUNZdDBuQ005dEVvUUR3S3JmRnplMVFxc2lKaWtaSVg0Ri1JNVJ0c0RUaVBnTlotS3Rsbms5R2RXMGV4bTRqQW51aFpvUC15OUdUZE9OVUhLWVhhWGxNdVJ6VVZq?oc=5\" target=\"_blank\">US appeals court rules Trump cannot implement mail-in voting order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 21:10:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5\" target=\"_blank\">Iran says Ukrainian attack on vessel in Caspian Sea killed sailor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 25 Jul 2026 18:43:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5\" target=\"_blank\">Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
     }
   ]
 }
