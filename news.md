@@ -1,6 +1,6 @@
 # 每日财经新闻
 
-更新时间：2026-07-28 02:55:48
+更新时间：2026-07-28 14:22:39
 
 ## Gold Declines as Traders Weigh Prospects for Interest-Rate Hike
 
@@ -15,46 +15,46 @@
 
 ---
 
-## SK Hynix’s $570 Billion Selloff Shows Cracks in Memory-Chip Boom
+## US Stocks Drop as Chipmaker Rout Has Nasdaq 100 Near Correction
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-s-rebound-from-470-billion-rout-hinges-on-ai-spending
+链接：https://www.bloomberg.com/news/articles/2026-07-28/s-p-500-futures-muted-as-semiconductors-drop-earnings-roll-in
 
 正文长度：0
 
-摘要：A $570 billion rout in just a little over a month has flipped SK Hynix Inc. from one of the world’s hottest AI trades to one of the biggest portfolio question marks.
+摘要：The Nasdaq 100 Index was heading into correction territory on Tuesday as a decline in chipmakers dragged tech-focused indexes sharply lower.
 
 
 ---
 
-## Latest Oil Market News and Analysis for July 28
+## Chipmakers Sink as Wall Street Rotation Powers On: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-27/latest-oil-market-news-and-analysis-for-july-28
+链接：https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Oil extended a steep decline after President Donald Trump said that the US and Iran were engaged in talks to try to end the Middle East conflict, with the two sides continuing to hold off on attacks.
+摘要：A rotation that has seen Wall Street investors bail from high-profile chipmakers in favor of more economically sensitive industries picked up speed, driving the Nasdaq 100 toward a technical correction.
 
 
 ---
 
-## India IPO Hopefuls Race to Beat August Deadline for Audited Results
+## Nasdaq 100 Heads for Correction as AI Worries Rattle Investors
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-07-28/india-ipo-hopefuls-race-to-beat-august-deadline-for-audited-results
+链接：https://www.bloomberg.com/news/articles/2026-07-28/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors
 
 正文长度：0
 
-摘要：Three offerings closed on Monday, while four more firms have announced IPO schedules.
+摘要：The Nasdaq 100 Index is on track to enter a correction as worries about the eventual payoffs from artificial intelligence investments sour sentiment in the technology giants that have powered most of this year’s stock-market advance.
 
 
 ---
 
-## Chip Rout Deepens on Circular Funding, China Competition Fears
+## Chip Stock Rout Deepens on AI Debt Jitters, China Competition
 
 来源：彭博社
 
@@ -62,7 +62,121 @@
 
 正文长度：0
 
-摘要：A selloff in global semiconductor stocks deepened on Tuesday, as investor sentiment continued to worsen over the sustainability of the artificial intelligence boom.
+摘要：A selloff in semiconductor stocks deepened as signs of progress in China’s advanced chipmaking compounded worries about the sustainability of the artificial intelligence spending boom.
+
+
+---
+
+## Boeing posts wider loss than expected as Air Force One costs weigh on results
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html
+
+正文长度：2833
+
+摘要：Boeing took a $280 million charge on its long-delayed Air Force One program.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Boeing reported a wider-than-expected loss for the second quarter as the aircraft manufacturer's long-delayed Air Force One program weighed down results.
+Boeing took a $280 million loss on the program to deliver two 747s that will serve as the next-generation Air Force One aircraft to the U.S. government as it said it ramped up investment for that plane. It said it still expects the first delivery in 2028.
+"While we're making progress on our development programs, you're never done until you're done," CEO Kelly Ortberg said in a note to staff.
+Ortberg told CNBC's "Squawk on the Street" that the Air Force One program is through the design phase.
+"It's very important to our customer that we deliver that airplane on time," he said. "We're gonna put more resources on to make sure that we do that."
+President Donald Trump this month took his first flight on a luxury Boeing 747 gifted by Qatar that was meant to serve as the new Air Force One while Boeing works on the upcoming jets. That jet's security was reportedly called into question after he took a trip to Turkey and left the country on the old Air Force One.
+Here's what the company reported for the second quarter compared with what Wall Street analysts surveyed by LSEG were expecting:
+- Loss per share: 76 cents adjusted vs. a loss of 30 cents a share expected
+- Revenue: $24.56 billion vs. $24.25 billion expected
+The aircraft manufacturer, a top U.S. exporter, increased revenue 8% in the second quarter to $24.56 billion from a year earlier with gains across its businesses, including increased deliveries of commercial aircraft. Boeing has been ramping up production of its bestselling 737 Max airplanes to 47 a month, with further increases planned.
+Boeing's commercial aircraft deliveries in the second quarter rose 14% from a year earlier to 171 planes from 150 a year earlier.
+Free cash flow of $631 million came in well above the $177 million cash burn analysts expected, and compares with a $200 million burn in the second quarter a year ago.
+Boeing reported a net loss of $428 million, or 67 cents a share, compared with a net loss last year of $612 million, or 92 cents a share a year earlier. Adjusting for one-time items, Boeing reported a loss of 76 cents a share.
+"While two quarters don't make a year, if we work together and stay focused on safety, quality and on-time performance — we'll improve our competitiveness and set ourselves up for a big second half," Ortberg said in the staff note.
+Upcoming milestones include the certification of other delayed aircraft programs. First will likely be the Boeing 737 Max 7, the smallest aircraft in the family of planes.
+Boeing executives will hold a call with analysts at 10:30 a.m. ET, where they'll likely face questions about certification of the 737 Max 10 and the 777X, its new wide-body aircraft.
+
+</details>
+
+
+---
+
+## UPS raises full-year guidance but says it expects domestic third-quarter revenue to be flat
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html
+
+正文长度：3679
+
+摘要：UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Parcel Service on Tuesday posted second-quarter earnings results that beat Wall Street expectations and raised its full-year outlook, but said it expects domestic third-quarter revenue to be flat.
+Shares of the delivery giant fell roughly 8% in early trading.
+Here's how the company performed in its second quarter, compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $1.76 adjusted vs. $1.66 expected
+- Revenue: $22.8 billion vs. $21.81 billion expected
+For the quarter ended June 30, UPS reported net income of $604 million, or 71 cents per share, down significantly from $1.28 billion, or $1.51 per share, in the year-ago period. Adjusting for one-time items, the company reported a profit of $1.5 billion, or $1.76 per share.
+Tune in at 10:30 a.m. ET as UPS CEO Carol Tomé joins CNBC TV to discuss earnings. Watch in real time on CNBC+ or the CNBC Pro stream.
+The company also raised its full-year 2026 guidance, now expecting consolidated revenue of $91.2 billion and adjusted diluted EPS of roughly $7.22 per share.
+CEO Carol Tomé said on a call with analysts on Tuesday that it was the "fourth straight quarter of delivering results that exceeded our expectations."
+"Going forward, our No. 1 priority remains moving the right packages and the right mix of volume through our network," she added.
+Company executives said on the call that they expect the third quarter to see domestic average daily volume fall in the mid-single digits, due to a seasonal decline and the impact of the company gliding down its operations with Amazon. UPS also expects revenue to be flat year over year.
+"If you ignore Amazon and the volume that we intentionally made available to the market, we actually grew our volume in the second quarter," Tomé said.
+UPS is in the midst of a turnaround strategy aimed at positioning the company for long-term and sustainable growth. The company is focused on enhancing automation in its networks and tapping into growing markets, including healthcare logistics.
+Tomé said on the call with analysts that healthcare generated more than $3 billion in revenue for the second consecutive quarter.
+"We are the only carrier that provides end-to-end solutions for complex healthcare with our own assets, ensuring complete control, visibility and best-in-class service," she said.
+For the second quarter, UPS reported a 6% rise in domestic revenue, driven by an increase in revenue per piece, and a 12.5% jump in international revenue. Supply chain solutions revenue rose 7.8%, in part due to growth in healthcare logistics.
+The company added that it has achieved roughly $1.2 billion of program benefits from its network reconfiguration program, expecting to reach $3 billion by the end of the year.
+On the call with analysts, Tomé said the company has successfully completed its glide-down with Amazon, eliminating about 2 million pieces per day of "lower-quality Amazon volume" and removing roughly $4.5 billion of related expenses so far.
+"We now have a leaner, more automated, more agile network that will deliver operating leverage as volume grows," she said.
+The company is also investing in radio-frequency identification and artificial intelligence to enhance its tracking capabilities, she added, which she said is "the most significant package visibility advancement in a decade."
+Tomé said UPS is "seeing momentum" on the China to U.S. lane, which she said returned to year-over-year growth beginning in May.
+"As we enter the second half of the year, we've got momentum, even in the face of external factors that could influence our results, like war and fuel price volatility," she said.
+
+</details>
+
+
+---
+
+## Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html
+
+正文长度：3378
+
+摘要：Coca-Cola said demand for its drinks rose in every market in the second quarter, helped in part by the World Cup.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Coca-Cola on Tuesday reported quarterly earnings and revenue that topped Wall Street's estimates, fueled by higher demand for its drinks.
+The company also hiked its full-year forecast. Coke is now projecting comparable earnings per share growth of 9% to 10%, up from its prior forecast of 8% to 9%. It also expects organic revenue to increase about 5%, on the high end of its earlier range of 4% to 5%.
+Shares of Coke rose more than 6% in morning trading.
+Here's what the company reported compared with what Wall Street analysts surveyed by LSEG were expecting:
+- Adjusted earnings per share: 97 cents, vs. expected 93 cents
+- Revenue: $13.38 billion, vs. $13.16 billion expected
+Coke reported second-quarter net income of $4.43 billion, or $1.03 per share, up from $3.81 billion, or 89 cents per share, a year earlier.
+Excluding asset impairments, restructuring costs and other items, the company earned 97 cents per share.
+Net sales rose 7% to $13.38 billion. Coke's organic revenue, which excludes acquisitions, divestitures and currency fluctuations, jumped 6% in the quarter.
+Tune in at 10:15 a.m. ET as Coca-Cola CEO Henrique Braun joins CNBC TV to discuss the company's earnings. Watch in real time on CNBC+ or the CNBC Pro stream.
+The company's global unit case volume increased 5%, and every one of its reporting segments saw volume growth. The metric strips out pricing to reflect demand more accurately.
+The consumer environment is "dynamic," CEO Henrique Braun said in a statement. The comment followed rival PepsiCo saying that shoppers' budgets tightened in the second quarter, leading to weaker sales in the U.S. for its snacks and drinks.
+Global oil prices have swung dramatically due to the U.S. war with Iran, leading many consumers to temper their spending. In Coke's home market, the national average gas price hit a four-year high of $4.56 per gallon in late May.
+"The economy is strong in many places, yet many consumers face inflationary pressures, geopolitical uncertainty and economic challenges," Braun said on the company's earnings conference call. "They are evaluating how they shop, what they value and what they want to put in their basket."
+But Coke's results do not show consumers cutting back. Even in North America, volume grew 3% in the quarter.
+The company credited its global World Cup campaign with driving higher demand. Two drinks in particular, its namesake soda and Powerade, saw higher volumes that the company attributed, in part, to the tournament's marketing. Coke volume increased 5% — the drink's biggest quarterly jump in 17 years, excluding the pandemic — and Powerade volume climbed 8% in the quarter.
+Coke's water, sports, coffee and tea segment was the top performer this quarter, with volume growth of 6%. Out of those four categories, all but coffee saw their volume increase during the quarter.
+Coke's sparkling soft drinks segment reported volume growth of 4%, helped in part by the lift in demand for its namesake soda and its line extensions. Coca-Cola Zero Sugar saw volume climbed 16%, while Diet Coke, or Coca-Cola Light as it is known in some markets, reported volume growth of 7%. Additionally, the relaunch of Mr. Pibb, with 30% more caffeine, led the drink brand's volume to climb 20% in the quarter, according to Braun.
+Coke's juice, value-added dairy and plant-based beverage division saw volume growth of 2%.
+
+</details>
 
 
 ---
@@ -147,267 +261,132 @@ Relman stressed that while consolidation itself doesn't create contamination, it
 
 ---
 
-## NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html
-
-正文长度：5369
-
-摘要：Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> NBCUniversal's Peacock is officially landing on YouTube.
-All of the streaming service's content — including NBC Sports' portfolio of the NFL and NBA, Universal films like the Minions franchise, and original Peacock and Bravo content like the Real Housewives franchise and "Love Island USA" — will be included in YouTube Premium subscriptions in the U.S. starting early next year.
-Google's YouTube Premium is the subscription version of the streaming platform that offers videos without ads and the ability to download most videos, depending on the subscription tier. The service offers a variety of plans beginning at $8.99 per month. Peacock Premium currently costs $10.99 per month.
-"The first principle for us was, does this accelerate Peacock's long-term growth? And the answer to that is yes," said Matt Strauss, chairman of NBCUniversal media group, in an interview. "Peacock will now be one of the largest domestic streamers. It's going to significantly expand our reach."
-Parent company Comcast's stock closed up 2% on Monday.
-NBCUniversal's partnership with YouTube was formed after Comcast co-CEO Brian Roberts reached out to YouTube CEO Neal Mohan about nine months ago, according to a person familiar with the matter. Following a meeting between the executive teams that took place at Google offices, the two companies began to brainstorm partnerships such as this, the person added.
-The partnership comes at a fast-moving moment in the industry. Traditional media companies like NBCUniversal, Warner Bros. Discovery and Disney have been chasing business initiatives to boost revenue and profitability while tech platforms like YouTube and TikTok grab increasing share of viewership time.
-Media companies have also been shapeshifting as the business model changes due to consumers' departure from pay-TV bundles in favor of streaming. Paramount Skydance has agreed to acquire WBD; Fox Corp. reached a deal to acquire Roku; and Comcast is preparing to spin off NBCUniversal in the next year.
-While streaming services have been announcing a growing slate of bundles to grab more subscribers, this partnership goes a step further and will see Peacock's content live inside YouTube — or be ingested into the platform so viewers don't have to leave YouTube to access the content.
-Peacock has already signed deals with other streaming and tech platforms including Apple and Amazon.
-During an earnings call with investors last week, Comcast co-CEO Mike Cavanagh said while other media companies have taken a so-called "walled garden" path with their content, NBCUniversal will continue to "look for opportunities to partner, bundle and exhibit other people's [intellectual property]" across its theme parks and media platforms.
-While NBCUniversal's announced spinout from Comcast has raised industry hopes for more mergers and acquisitions, Cavanagh and others have poured cold water on the notion, focusing on potential partnerships and bundles instead.
-Partnership perks
-YouTube has long been considered a dominant force in streaming, as it claims a large share of viewership time as showcased in Nielsen's monthly "The Gauge" report.
-So-called creator-made videos — a category that amasses millions of viewers on YouTube — are becoming more attractive to media companies like NBCUniversal as they chase reliable and dedicated audiences. The category even hit the stage at this year's annual Upfront advertising presentations.
-The new partnership will allow Peacock content to be discoverable alongside such creator content, clips and highlights.
-According to YouTube's subscription page, it has over 125 million global Premium members.
-NBCUniversal reported last week that Peacock counted 48 million paying subscribers as of June 30 and that the streaming platform hit profitability for the first time during the most recent quarter.
-During Comcast's earnings call with investors, Cavanagh — who will become CEO of the NBCUniversal business following the separation — said he expects Peacock to remain profitable on an annual basis in the future, with some fluctuation between quarters.
-Live sports nab the biggest audiences for both streaming and linear TV. YouTube has been increasingly getting into the mix acquiring live sports rights. Last year it aired its first ever live NFL game, and since then the NFL has continued to hold talks with non-traditional media companies like YouTube and Netflix.
-YouTube has become a platform for both sports leagues and media companies to host highlights and other game-related content in a bid to attract younger audiences. NBCUniversal's sports-heavy streaming portfolio could complement that effort.
-As part of partnership between YouTube and NBCUniversal, NBC Sports will be a production partner for select live sports on YouTube, such as it was for the NFL game last year.
-The partnership announced Monday also extends NBCUniversal's multiyear distribution agreement with YouTube TV, the streaming-only TV bundle run by YouTube, as well as distribution of YouTube, YouTube TV and Premium on Comcast's Xfinity-branded cable TV and Xumo platforms.
-It will also see enhance the advertising partnership and capabilities between the two companies, allowing NBCUniversal to monetize advertising for its Peacock content on YouTube's platform. Advertising has become a key driver of streaming growth across media companies.
-
-</details>
-
-
----
-
-## Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html
-
-正文长度：4379
-
-摘要：Ford is expanding its accessory and parts business in an effort to boost profits and better tap into the $53 billion U.S. automotive aftermarket industry.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> BROOKLYN, Mich. — Ford Motor is expanding its accessory and parts business in an effort to boost profits and better tap into the $53 billion U.S. aftermarket industry.
-The automaker is planning to increase its aftermarket products — from exterior detailing and vehicle wraps to performance parts and systems — and have more exclusive moments it's comparing to a "Nike shoe drop," with new and special-edition vehicle models, according to Matt Simpson, Ford Customization's executive director.
-"Think like a 'Nike dropping a sneaker' is the vision," Simpson told CNBC during an event at the Michigan International Speedway racetrack here promoting the company's efforts. "We're significantly increasing our investment in this group to bring more choice and to engage customers in this aftersales."
-Automakers have long used special-edition vehicles and souped-up models to boost vehicle prices and profits, but Ford says it is methodically taking steps to increase customers' ability to customize vehicles across all price levels.
-That includes expanding accessories as well as investing additional resources in Ford Custom Garage, which launched last year as a one-stop shop for customizations from the carmaker.
-Ford Custom Garage's first shoe-like "vehicle drop" occurred Monday. It unveiled a sunrise-inspired Ford Bronco SUV that wouldn't be out of place in a new Barbie movie — although the company's designers say they did not have the Mattel toy in mind when developing the vehicle.
-The automaker said it will produce 1,000 of the limited-edition Broncos with the Desert Rising package as part of the Ford Custom Garage's new Bronco Horizon Series. The $13,695 package boosts the vehicle's price to $57,350.
-Other full packages through the Ford Custom Garage start at thousands of dollars and can run up to $16,000 to $18,000 for some Mustang performance packages and nearly $27,000 for a special performance version of the F-150 pickup truck.
-"It is a growth lever for us. It's been a good business for us. We think it can be significantly bigger, hence the investment," Simpson said.
-The efforts come as vehicles have grown increasingly more complex and harder for individual owners or non-automaker certified stores to work on in the aftermarket.
-CEO Jim Farley came under fire last month after President Donald Trump said Ford and crosstown rival General Motors were supporting legislation to make it harder to keep owners from working on their own vehicles.
-Farley later clarified that he thinks customers shouldn't work on cars under warranty since new vehicles require specialty tools. He has touted the automaker's aftermarket business as a major growth opportunity, including by boosting software services in addition to traditional parts and accessories.
-Ford has said it is targeting growing its $15 billion high-margin software and physical services revenue — which includes its customization business — by 8% annually through the end of this decade.
-"We've never had a Ford showroom as prime for this as we have today," Simpson said. "Bronco, the Mustang, Maverick, the F-Series, this is the most passionate lineup of vehicles that Ford has ever had."
-Ford reports 46% of its new vehicle buyers in the U.S. customize their vehicles in some way, with Bronco buyers leading, followed by consumers with Mustang pony cars and pickup trucks.
-Simpson declined to disclose exact growth targets for the customization division but said Ford is aiming to increase the number of buyers who opt into those packages as well as the money they're spending on them.
-"The more that someone spends on accessories with us, the higher the loyalty is," Simpson said.
-The Specialty Equipment Market Association, an auto aftermarket trade association, reports U.S. consumers spent $52.9 billion on vehicle accessories and modifications in 2025.
-Unlike when a customer puts parts or accessories onto their vehicle after purchase, Ford is including customizations through its efforts into a new vehicle's warranty. Buyers also have the option to roll the cost of additional parts and packages into their monthly vehicle payments for the purchase or lease of the car, truck or SUV.
-"Even with declining sales and unaffordability squeeze, a lot of these accessories, especially the kind of basic, like I want to protect my vehicle, that's margin for the dealer to add in," Simpson said.
-
-</details>
-
-
----
-
-## Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html
-
-正文长度：7517
-
-摘要：Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals.
-Most injectable GLP-1 medications, including Novo Nordisk's Ozempic and Wegovy and Eli Lilly's Mounjaro and Zepbound, require refrigerated storage for shipment.
-The Covid pandemic put healthcare logistics at center stage in 2020, as the shipping of temperature-controlled vaccines quickly became a crucial part of keeping the virus at bay. And as more money has been poured into new pharmaceutical innovations, the transportation of those products have come under the spotlight.
-Logistics companies are now investing millions of dollars and strengthening dozens of temperature-controlled facilities to tap into the market.
-In June, UPS announced a new $48 million investment in temperature-controlled facilities as it sees a growing demand for critical treatments. According to Growth Market Reports, the demand for temperature-sensitive biologics is projected to grow at an 8.3% compound annual growth rate through 2033 and reach a market value of roughly $39.1 billion.
-Obesity and diabetes drugs, meanwhile, have been booming in popularity. A July Gallup poll found that 11% of Americans take GLP-1 medications for weight loss purposes in 2026, up from just 3% in 2024.
-But if they're not stored and shipped at the correct temperature, they risk losing their efficacy.
-The Food and Drug Administration has warned that improper storage during shipping can affect the medicine's quality and recommends patients do not use GLP-1 drugs that arrive "warm or with insufficient refrigeration."
-Other biologics, like some vaccines, insulin and antibiotics, also require specialized shipment to maintain efficacy. For logistics companies, that means ensuring the proper storage and movement every step of the way.
-Bulking up
-Healthcare logistics have proven to be one of UPS' biggest opportunities. On an earnings call with analysts in April, CEO Carol Tomé said the company's global healthcare portfolio has gained market share every year since 2021, generating its first ever $3 billion healthcare revenue quarter in the first quarter of this year.
-UPS President of Healthcare John Bolla told CNBC that the company is seeing more healthcare companies looking for partners to keep up with the volume.
-"One of the biggest opportunities we see is supporting the shift toward more specialized therapies and more care delivered outside of traditional healthcare settings," Bolla said.
-He said UPS is experiencing "rapid growth" in biologics, cell and gene therapies, though the biggest challenge is that the margin for error is small — even a brief stray from the correct temperature can ruin the medicines, Bolla said.
-"But that's also what's creating such a significant opportunity in healthcare logistics," he said. "As treatments become more specialized and supply chains become more complex, healthcare companies need partners that can provide not just temperature-controlled storage or transportation, but end-to-end visibility, control and reliability across the entire network."
-FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products.
-On an earnings call in June, FedEx's Chief Customer Officer Brie Carere told analysts that healthcare transportation revenue in fiscal year 2026 reached nearly $10 billion.
-"We're building end-to-end solutions focused on global pharma customers, and what's so important with global pharma is that you have to recognize that there's a patient at the end of every delivery or someone that's waiting to be treated," said Nick Gennari, FedEx's president of healthcare. "So we take this very, very seriously."
-With GLP-1s specifically, Gennari said there's an increasing complexity to delivering those medications, with forms ranging from injectables to oral pills and going direct-to-consumer. But with that complexity comes a growth opportunity for FedEx, which he said is "ideally positioned."
-Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs.
-Gennari also said he's "very comfortable" with the company's base capabilities and its plans for expansion, including cold-chain logistics.
-"Much of the infrastructure that's required to be successful in this space, we already have. We have the airline; we have an incredible schedule; we have the lift capabilities. The network is hardened and works very well," he said.
-Complex supply chains
-C.H. Robinson told CNBC the logistics company had surpassed $1 billion in revenue in healthcare logistics alone over the past year, largely due to the growth in GLP-1 drugs, as it has been investing in temperature-controlled facilities.
-"You need to really have that end-to-end connectivity, so you've got to have a really nice network and infrastructure built out in order to properly service the healthcare customers," said Ronnie Davis, the company's vice president of North American surface transportation.
-Davis said the supply chain for medications has also become more complicated. In addition to requiring refrigeration, many drugs have a short shelf life and need to be delivered in precise windows of time.
-"A lot of the innovation has been on getting the drugs to the market," Davis said. "I think what you're starting to see is that's really putting stress on the capabilities of the cold chain supply chains in the marketplace. … With the rise of GLP-1s and other specialized medicine, it's really creating a competitive nature for the same refrigerated supply resources that are there and, quite candidly, that supply is not unlimited, it's constrained."
-Davis said C.H. Robinson is working to amp up its capabilities, especially to keep up with the higher volume. At the same time, he added, pharma companies are also trying to get creative to bring their products to market with a longer shelf life.
-That innovation is also intersecting with the growth of artificial intelligence capabilities, according to Hendrik Venter, CEO of DHL Supply Chain. The logistics company uses AI to monitor critical life science products, tracking temperatures and anticipating where an issue might happen.
-"You're seeing the industry moving from conventional to biopharma," Venter told CNBC. "You need to have a supply chain that is resilient and capable of shipping in all of these various temperature zones."
-The company announced last year that it plans to invest 2 billion euros ($2.25 billion) in health logistics by 2030, with half of that allocated to the Americas.
-A lot of pharmaceutical companies are also outsourcing their warehousing activities to DHL, Venter said. The company takes over those facilities, manages them and integrates them into the rest of their network.
-DHL launched a pharmaceutical air corridor around the world, with a dedicated aircraft and connected network that ensures the drugs are not being shipped through separate regulatory environments.
-"You cannot lose a shipment. You cannot replace it. It needs to be delivered on time, every time, in the right quality and temperatures," Venter said. "So we continue to selectively look at how to strengthen that network."
-
-</details>
-
-
----
-
-## Ares Management has held talks to buy Leonard Green & Partners - Financial Times
+## Nvidia behind $50bn lease on Texas data centre that will use its chips - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2RGaVB3N3dCM2dNam1Ka3Z0bllmckxTMUtLV19GSlUwUXpHTWE2SWVQajM3eGhpY2JrQUNBQnpUbmlma1I5TTJxYUJYUGYxWXFiTEJQcDJ2ejZkUzk3cWFlbHFyclhTX1l2Sy1uRXVEdEJFUl9yTElPR3JkUi1LaWRmYUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEhPT18tMlBPQkZndDgzcktHQzFwRWNpTUJoUnoybUxXa194aktnYUUtc2NFRW96Y1ZyWG5uTVVfMm5XSTZzRUxhUUJRMHlzX3NKNEJ1aFY2U3BEamgtbnVrS29PblBPR3AxUGlmNEZEbmpCb1Y3bzQtd0dyLTFUTS1fcHI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2RGaVB3N3dCM2dNam1Ka3Z0bllmckxTMUtLV19GSlUwUXpHTWE2SWVQajM3eGhpY2JrQUNBQnpUbmlma1I5TTJxYUJYUGYxWXFiTEJQcDJ2ejZkUzk3cWFlbHFyclhTX1l2Sy1uRXVEdEJFUl9yTElPR3JkUi1LaWRmYUg?oc=5" target="_blank">Ares Management has held talks to buy Leonard Green & Partners</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEhPT18tMlBPQkZndDgzcktHQzFwRWNpTUJoUnoybUxXa194aktnYUUtc2NFRW96Y1ZyWG5uTVVfMm5XSTZzRUxhUUJRMHlzX3NKNEJ1aFY2U3BEamgtbnVrS29PblBPR3AxUGlmNEZEbmpCb1Y3bzQtd0dyLTFUTS1fcHI?oc=5" target="_blank">Nvidia behind $50bn lease on Texas data centre that will use its chips</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough - Financial Times
+## Fifa plans stake sale in new $20bn commercial vehicle - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObGg5Mmd3ZEhsWDBEd3hZa2FUb1ZLeUYwWTg1WE13VUZLbF81eThEdzBHSXNISUlKc3dGb2tZWi1ZRjFFWXJ6eDRWckVyaXhjSEVSdGRFZlRqcldrUDB5Um5CTDFxeW1xeDdhbXhmMTRjaDRPMTA4SGd5bEc1aTl5WjVLbW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U?oc=5" target="_blank">Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObGg5Mmd3ZEhsWDBEd3hZa2FUb1ZLeUYwWTg1WE13VUZLbF81eThEdzBHSXNISUlKc3dGb2tZWi1ZRjFFWXJ6eDRWckVyaXhjSEVSdGRFZlRqcldrUDB5Um5CTDFxeW1xeDdhbXhmMTRjaDRPMTA4SGd5bEc1aTl5WjVLbW8?oc=5" target="_blank">Fifa plans stake sale in new $20bn commercial vehicle</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## France and Spain brace for more extreme heat as wildfires rage - Financial Times
+## US tech stocks enter correction as AI sell-off deepens - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVJBSHN6dXZsQ1lrN21ZQnY0eFdNZHp2MnRCaWdrQzZZRnBHanFUNzRxRk9pMUlVUTBPcGxCZWdyNUZRbVQxdGt3NEdMMkdycDVMRjBPX3dRejFqUGx3SFV1NEJyRkhnOXAzYVpNMTlBUDBiM3lvb1A0WnlCcjFtZ3A5YmY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVJBSHN6dXZsQ1lrN21ZQnY0eFdNZHp2MnRCaWdrQzZZRnBHanFUNzRxRk9pMUlVUTBPcGxCZWdyNUZRbVQxdGt3NEdMMkdycDVMRjBPX3dRejFqUGx3SFV1NEJyRkhnOXAzYVpNMTlBUDBiM3lvb1A0WnlCcjFtZ3A5YmY?oc=5" target="_blank">France and Spain brace for more extreme heat as wildfires rage</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5" target="_blank">US tech stocks enter correction as AI sell-off deepens</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s industrial profits grow at slowest pace this year - Financial Times
+## TotalEnergies benefits from EU sanctions reprieve on Russian gas - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWtVeDJ0MTV6SVZueTF5eXZLNERZNFJCNlpVNWY4cEUtTHBMeFotOVh5NEhXdTZEUUpvaGoxSXpmeHZlR0lGN1RpOEllSTBoOUpCRnJ3QUltOUVSdk8tdW1GeW9mMVNYSTZCS29MWUY1MV9DdGlNbDFEbVFjVXRVZ0F1U1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTlHSTV6eWJTbDU4NTB5b2x1aHlVVDhFVXdaZklHWnhkSlFTRGdJUU5Fa1pQWkZ2Rmt6Y1hlZ0p0dGtWRG1uamcxX2lDTE1uSjc4RWxUT0NGc2haaVZWbzViRi04RzBLdFc4UU9yNGhwZmFMT19pUlBvLXNSd0l4S0t3ZkU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWtVeDJ0MTV6SVZueTF5eXZLNERZNFJCNlpVNWY4cEUtTHBMeFotOVh5NEhXdTZEUUpvaGoxSXpmeHZlR0lGN1RpOEllSTBoOUpCRnJ3QUltOUVSdk8tdW1GeW9mMVNYSTZCS29MWUY1MV9DdGlNbDFEbVFjVXRVZ0F1U1Y?oc=5" target="_blank">China’s industrial profits grow at slowest pace this year</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTlHSTV6eWJTbDU4NTB5b2x1aHlVVDhFVXdaZklHWnhkSlFTRGdJUU5Fa1pQWkZ2Rmt6Y1hlZ0p0dGtWRG1uamcxX2lDTE1uSjc4RWxUT0NGc2haaVZWbzViRi04RzBLdFc4UU9yNGhwZmFMT19pUlBvLXNSd0l4S0t3ZkU?oc=5" target="_blank">TotalEnergies benefits from EU sanctions reprieve on Russian gas</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Greek shipping carve-out on Russia sanctions prompts EU rethink - Financial Times
+## Powerful earthquake hits Japan’s southern Kumamoto prefecture - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRIdTU2RDFJNVNLNV9YNW40THJYWWxsek9nNTdiWGQ5RkZKZkEtcDVCam5VV3d4TF9UODB5ZlVTLS1ISmVhNWNUN1Q3aHVlZkNEWFRnMGJnLTVMQU9nQmM1MnlnT0FYZm1ncXFiTFltcXFXQndGV0dCbjNOWm9kX3ZVR3k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVAzbFQ1VFhOaTJadnhtR1lwczBIQ2xqWjZFZzhZSGNvaHllQ2JJeFNCNW9MMktLUmJpal9IcnpsX2hHVEExM09DWng3VkJleU9RTFFVR1RDbTBNMFI3V0JDdzFJNlF5amt0NE0waWJ6TVVNcm9RQ1p2NXp0b3JDXzdLbWE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRIdTU2RDFJNVNLNV9YNW40THJYWWxsek9nNTdiWGQ5RkZKZkEtcDVCam5VV3d4TF9UODB5ZlVTLS1ISmVhNWNUN1Q3aHVlZkNEWFRnMGJnLTVMQU9nQmM1MnlnT0FYZm1ncXFiTFltcXFXQndGV0dCbjNOWm9kX3ZVR3k?oc=5" target="_blank">Greek shipping carve-out on Russia sanctions prompts EU rethink</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVAzbFQ1VFhOaTJadnhtR1lwczBIQ2xqWjZFZzhZSGNvaHllQ2JJeFNCNW9MMktLUmJpal9IcnpsX2hHVEExM09DWng3VkJleU9RTFFVR1RDbTBNMFI3V0JDdzFJNlF5amt0NE0waWJ6TVVNcm9RQ1p2NXp0b3JDXzdLbWE?oc=5" target="_blank">Powerful earthquake hits Japan’s southern Kumamoto prefecture</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## FAA says seats on hundreds of Boeing 737 MAX jets may need inspections - Reuters
+## Boeing posts larger-than-expected Q2 loss as Air Force One costs rise - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJmTU5HdG5nbGpfc2R6Wi1yYktITGVoVTZFQW1FN3BFTndBVldiSVpxMHhkeE1wbjk1UHlvSWdfVjZkMm1LS29kZm94djNWTkFlZEZrRGRHOEtGMTZnM3VqaEQ0WHZfbTFsZ3pfSkFOWFN5ZFJ2azN6N1VqelJqLWVYd1pXamcxeVY2d0JFOTBnSW4zWks4ZHBhWk9mbE9xaHpkOEsxc3JqUzA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlJVSV9pckh4Q3pkZVdLaHRYZ1JDZENsSmV6UjVTOGpMeGNEUVNrTnNBSzczZjgtakpIZHJTekNHR0lpODVfMy1ZeHg2aWg5Q2M3TVBUaWdBSV8yVVowQmNoN2lLNEI5T0NZQm5TN0gyV1pKNjFhUEF1ZWNDaFh1N1M1OUFmNTRnVGFmNEhlaERpTFVBMjhBUHlzSk83d1NXdW14X0tsMVQ0Q250ZHVNMWNGWXNPQkl4TmpVRmxwdWY1NEF0c2xYTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJmTU5HdG5nbGpfc2R6Wi1yYktITGVoVTZFQW1FN3BFTndBVldiSVpxMHhkeE1wbjk1UHlvSWdfVjZkMm1LS29kZm94djNWTkFlZEZrRGRHOEtGMTZnM3VqaEQ0WHZfbTFsZ3pfSkFOWFN5ZFJ2azN6N1VqelJqLWVYd1pXamcxeVY2d0JFOTBnSW4zWks4ZHBhWk9mbE9xaHpkOEsxc3JqUzA?oc=5" target="_blank">FAA says seats on hundreds of Boeing 737 MAX jets may need inspections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlJVSV9pckh4Q3pkZVdLaHRYZ1JDZENsSmV6UjVTOGpMeGNEUVNrTnNBSzczZjgtakpIZHJTekNHR0lpODVfMy1ZeHg2aWg5Q2M3TVBUaWdBSV8yVVowQmNoN2lLNEI5T0NZQm5TN0gyV1pKNjFhUEF1ZWNDaFh1N1M1OUFmNTRnVGFmNEhlaERpTFVBMjhBUHlzSk83d1NXdW14X0tsMVQ0Q250ZHVNMWNGWXNPQkl4TmpVRmxwdWY1NEF0c2xYTg?oc=5" target="_blank">Boeing posts larger-than-expected Q2 loss as Air Force One costs rise</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Johnson & Johnson announces $5.5 billion settlement of talc lawsuits - Reuters
+## Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWh0SU9NM0lYNVVxRHR5Xy1QWjZKa3IyZFoyaHdzVW9pYnM1Z3Z5alYweU1FN3BLeDZKNHM4Q2xCRVNnMGY3Nk9tVndkeW9jR1NvMV9KLVhWczFTeEZ2X2Z5c3pHTVpzdy1EVVBqbGU2TVRwUmozVGRvTnIyN0VEQ0JiZUY4Y1lWemE3WlBSMFI0TlB1OGwtQ0lCcXdUbS1XZTVSb29fcFFLbXpvNWlVelRSeGdUMGNJX1k5Wk10aEhWSV9fV3hRaThaaGJJUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWh0SU9NM0lYNVVxRHR5Xy1QWjZKa3IyZFoyaHdzVW9pYnM1Z3Z5alYweU1FN3BLeDZKNHM4Q2xCRVNnMGY3Nk9tVndkeW9jR1NvMV9KLVhWczFTeEZ2X2Z5c3pHTVpzdy1EVVBqbGU2TVRwUmozVGRvTnIyN0VEQ0JiZUY4Y1lWemE3WlBSMFI0TlB1OGwtQ0lCcXdUbS1XZTVSb29fcFFLbXpvNWlVelRSeGdUMGNJX1k5Wk10aEhWSV9fV3hRaThaaGJJUQ?oc=5" target="_blank">Johnson & Johnson announces $5.5 billion settlement of talc lawsuits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5" target="_blank">Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## T-Mobile down for thousands of users in US, Downdetector shows - Reuters
+## Poland's Tusk calls for end to hate crimes against Ukrainians - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPejlpTy01TXFzVUY0UlRTN1BHRXNKZUNaYzNqSVpBZ0JEUTV6S3lIMEROdEk2Smt0VHpCQ3hxSzZyb21JOGtWQ1NCYlo3ZE1qY0hCbjA3MGNUT1YwYXVDZmZsYU80b29MRnEyVTd0aGJZWlZDdEQtOTdTYmFORmN4N2ZtUzI1NFVEeTFxOGdPUHlCNk4yR01ZZjlkSWN3ZlJZODdaT184MEE1WEtTV1RB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDN3bE5WNThSRjVnRnBkM29qbXdLUzBPNHBOTjd5TkhOVVpaSFI1LWlnaVh5X28tOFpSM2VLX0xJWXpiRDVCUmhSbmdNU21oUVVycW1KNk0xc3pBNUJYUi1YSlNYX3VPXzZlRHNMVnpWcjJXTDEyM1hNcF90elVQRmpISFNFNHNLRENjLTRmVmFvX0FwNkx1U3pZYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPejlpTy01TXFzVUY0UlRTN1BHRXNKZUNaYzNqSVpBZ0JEUTV6S3lIMEROdEk2Smt0VHpCQ3hxSzZyb21JOGtWQ1NCYlo3ZE1qY0hCbjA3MGNUT1YwYXVDZmZsYU80b29MRnEyVTd0aGJZWlZDdEQtOTdTYmFORmN4N2ZtUzI1NFVEeTFxOGdPUHlCNk4yR01ZZjlkSWN3ZlJZODdaT184MEE1WEtTV1RB?oc=5" target="_blank">T-Mobile down for thousands of users in US, Downdetector shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDN3bE5WNThSRjVnRnBkM29qbXdLUzBPNHBOTjd5TkhOVVpaSFI1LWlnaVh5X28tOFpSM2VLX0xJWXpiRDVCUmhSbmdNU21oUVVycW1KNk0xc3pBNUJYUi1YSlNYX3VPXzZlRHNMVnpWcjJXTDEyM1hNcF90elVQRmpISFNFNHNLRENjLTRmVmFvX0FwNkx1U3pZYw?oc=5" target="_blank">Poland's Tusk calls for end to hate crimes against Ukrainians</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Boston Scientific unveils new restructuring plan, expects job cuts - Reuters
+## Airbus A350 jet flies 24 hours nonstop from Australia to France - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT05CR1VPcFFGOVRidWVBcnpSdTV2SExiNWs5QmJCYTR4TEJudGxYT3UzTnVVbHlvdlhBWmY2Z2hYMkJBaV9uZ3J1cDV1dmV2dkZEcVV0cEhTZHFaRmg0V3NZTVQ2Vk05Z3pGb09rMVREYXhDZjRyV1VOeHIzM2QtcFU1aHZ6OXYteW5uN0MxOUVjanU1NVRNVnVkbV9Jd0RmSjRxbVp1VkpjQ2FVVUtVRlprU2Jtajl4VExzdUgwdm9pdmpIZmR0Ry1idVpRNWlGRXFR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVdfNTQ1UDNWZHV2REJBbHdHMUdDMmc4NXJYVTBkc1BWTThSZlBVeEd3UjlodlNWN3B2aFpFbzk3R3NCbjJGUVdEekttUE9YcjhSSkVEZWJvS2JoYkZzaGZQZHUxbG96ZnlLUEpMMHFvSHk4ZlpUWVNuTUN0WUpXLUdFMVI4NWplZ0dwUDF0cnlwMGRDU3Y1aWxHSkhUTGgwTXB1LVlxbDJhbHYwd0tnOElpNFlMYTVyZkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT05CR1VPcFFGOVRidWVBcnpSdTV2SExiNWs5QmJCYTR4TEJudGxYT3UzTnVVbHlvdlhBWmY2Z2hYMkJBaV9uZ3J1cDV1dmV2dkZEcVV0cEhTZHFaRmg0V3NZTVQ2Vk05Z3pGb09rMVREYXhDZjRyV1VOeHIzM2QtcFU1aHZ6OXYteW5uN0MxOUVjanU1NVRNVnVkbV9Jd0RmSjRxbVp1VkpjQ2FVVUtVRlprU2Jtajl4VExzdUgwdm9pdmpIZmR0Ry1idVpRNWlGRXFR?oc=5" target="_blank">Boston Scientific unveils new restructuring plan, expects job cuts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVdfNTQ1UDNWZHV2REJBbHdHMUdDMmc4NXJYVTBkc1BWTThSZlBVeEd3UjlodlNWN3B2aFpFbzk3R3NCbjJGUVdEekttUE9YcjhSSkVEZWJvS2JoYkZzaGZQZHUxbG96ZnlLUEpMMHFvSHk4ZlpUWVNuTUN0WUpXLUdFMVI4NWplZ0dwUDF0cnlwMGRDU3Y1aWxHSkhUTGgwTXB1LVlxbDJhbHYwd0tnOElpNFlMYTVyZkE?oc=5" target="_blank">Airbus A350 jet flies 24 hours nonstop from Australia to France</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says - Reuters
+## Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUENSU3cxZnhXQWVEQ0VlbUlCX2U4V05HS1RqcTNqSjN3dHhVc3duLW9lNzdMSWhsWHFXSWEybzhOOU1GVUxqeHBISVUzVUFVbE9DNmNqYS01SlV0bmtYTmQ3dXBIVXFKMWZJdkpua0xZUmxWd3NqcFBHSGtDM0tILVN6b2lDZzFnTk1tY1IwWFRpTElycEwwLVpGQ2I5WVhDdHhFN1NaMV9RMXdPbmxIYmFsbzRGSzlFNWZJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUENSU3cxZnhXQWVEQ0VlbUlCX2U4V05HS1RqcTNqSjN3dHhVc3duLW9lNzdMSWhsWHFXSWEybzhOOU1GVUxqeHBISVUzVUFVbE9DNmNqYS01SlV0bmtYTmQ3dXBIVXFKMWZJdkpua0xZUmxWd3NqcFBHSGtDM0tILVN6b2lDZzFnTk1tY1IwWFRpTElycEwwLVpGQ2I5WVhDdHhFN1NaMV9RMXdPbmxIYmFsbzRGSzlFNWZJ?oc=5" target="_blank">Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5" target="_blank">Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
