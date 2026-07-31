@@ -1,21 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-07-31 03:30:26
+更新时间：2026-07-31 14:21:21
 
-## Yen Holds Losses Against Dollar After BOJ Keeps Rates Steady
+## Ishihara: All Eyes On Indication for Next BOJ Hike
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj
+链接：https://www.bloomberg.com/news/videos/2026-07-31/ishihara-all-eyes-on-indication-for-next-boj-hike-video
 
 正文长度：0
 
-摘要：The yen held losses against the dollar after the Bank of Japan kept its benchmark rate unchanged.
+摘要：The Bank of Japan has kept its rate policy unchanged and nudged its economic growth forecast higher. Officials stop short of confirming an intervention that drove the yen sharply higher. Hiromi Ishihara, Head of equity investment at Amundi Japan told Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa what investors are watching out for. (Source: Bloomberg)
 
 
 ---
 
-## Asian Stocks Rally, Yen Falls as BOJ Stands Pat: Markets Wrap
+## European Stocks Trim Monthly Gain as Novo Nordisk and UMG Slump
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-07-31/european-stocks-rally-to-fresh-record-on-tech-strong-earnings
+
+正文长度：0
+
+摘要：European shares erased Friday’s gains as a decline in Novo Nordisk A/S weighed on the market, countering a rally in tech stocks and another round of largely upbeat results.
+
+
+---
+
+## Citadel Swoops Into Hedge Fund Crisis
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-07-31/citadel-swoops-into-hedge-fund-crisis-video
+
+正文长度：0
+
+摘要：A heavily leveraged AI hedge fund unraveled after volatile stocks triggered margin calls and a frantic asset sale. Bloomberg’s Hema Parmar joined Bloomberg Open Interest to explain how Situational Awareness scrambled for buyers before Ken Griffin’s Citadel stepped in. (Source: Bloomberg)
+
+
+---
+
+## Chipmaker Rally Powers On at End of Dizzying July: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +49,98 @@
 
 正文长度：0
 
-摘要：Asian stocks rallied after South Korean equities posted a record intraday gain, as investors renewed bets on the artificial intelligence trade following this week’s rout. The yen weakened, giving back some of Thursday’s intervention-driven gains.
+摘要：Another wave of buying lifted beaten-down chipmakers in the final stretch of a month that saw an unwinding of strategies that have powered the stock rally from war-driven lows.
 
 
 ---
 
-## Latest Oil Market News and Analysis for July 31
+## Situational Awareness Losses Raise AI Fears
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31
+链接：https://www.bloomberg.com/news/videos/2026-07-31/situational-awareness-losses-raise-ai-fears-video
 
 正文长度：0
 
-摘要：Oil ticked lower at the end of a volatile week, but remained on track for the biggest monthly gain since March as the US-Iran war escalated.
+摘要：Assets at Leopold Aschenbrenner’s hedge fund Situational Awareness have slumped to about $10 billion after Ken Griffin’s Citadel stepped in to buy the bulk of its public stock bets. Hema Parmar has more on "Bloomberg Open Interest." (Source: Bloomberg)
 
 
 ---
 
-## North Korea’s Economy Expands on Russia Arms Deals, China Trade
+## GM to launch its own in-vehicle AI system later this year
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-07-31/north-korea-s-economy-expands-on-russia-arms-deals-china-trade
+链接：https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html
 
-正文长度：0
+正文长度：2259
 
-摘要：North Korea’s economy expanded for a third straight year in 2025, boosted by arms exports to Russia, stronger trade with China, and Kim Jong Un’s drive to develop regional industries, according to estimates by South Korea’s central bank.
+摘要：General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT – General Motors plans to launch its own in-vehicle artificial intelligence system that's better tailored for its customers later this year.
+The new GM AI assistant is expected to be more integrated with the vehicle as well as its capabilities and telematics information than the company's recently launched Gemini AI assistant from Google, according to Anna Santos, GM director of product management of voice and AI/machine learning.
+"Later this year, we'll be launching a more deeply integrated native AI assistant that combines conversational AI with GM vehicle knowledge and OnStar intelligence to create those capabilities that go beyond what a general purpose assistant can do," she told CNBC.
+GM last year announced the Gemini AI bot would launch this year in millions of 2022 model-year vehicles and newer, followed by a GM AI assist, but did not provide additional details on the technology.
+Santos said the new GM assistant, which she declined to disclose a name for, will be able to better "understand the vehicle, the drive and our customers' needs, and make everyday ownership simpler."
+With Gemini, customers can speak naturally without memorizing commands or repeating context. It also is beginning to offer "live sessions" in which the bot will speak with a like a normal conversation or play games like trivia or 20 questions. It also can control some aspects of GM vehicles, such as temperature and radio controls, but in general operates like it would through a phone.
+"This is the beginning of a broader AI journey for us," Santos said. "There's a limit to what an AI that's just sort of sitting at the top level of the vehicle can do."
+The Detroit automaker is working with an unnamed large language model provider on its technology to assist GM and its owners with predictive maintenance, vehicle telemetry and other more auto-focused features.
+That also could include commands such as "kids setting" that would tailor music, seats, heating/cooling and door lock controls for children.
+"It's data that's going to be proprietary to GM, and our goal is to make sure that we're bringing the right technology forward to enable us to build the deep vehicle expertise that we want to be able to bring to the AI assistant," Santos said.
+
+</details>
 
 
 ---
 
-## Philippines to Revamp Bond Pricing Ahead of JPM Index Inclusion
+## More consumer companies are staying private for longer, avoiding the IPO road
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-07-31/philippines-to-revamp-bond-pricing-ahead-of-jpm-index-inclusion
+链接：https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html
 
-正文长度：0
+正文长度：6828
 
-摘要：The Philippines plans to change the way it prices local-currency bonds by removing the impact of withholding tax, a shift that may saddle some existing investors in the nation’s $230 billion market with losses, according to people familiar with the matter.
+摘要：With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Five years after the initial public offering boom of 2021, public markets look a lot different as more companies are choosing to stay private for longer.
+In 2021, public markets saw a multitude of companies join the ranks. The Nasdaq said it welcomed 743 IPOs that year, while the New York Stock Exchange said it added more than $1 trillion in new market capitalization, marking the second straight year of record new listings.
+The biggest IPOs five years ago spanned a range of industries, including Coinbase, Roblox, Rivian, Warby Parker and more.
+According to research from Morningstar, the companies that went public in 2021 raised almost $500 billion — roughly double the number of deals and capital raised in 2020, a year of intense uncertainty amid the pandemic and lowered consumer and investor confidence.
+But since then, the IPO market has cooled significantly. Despite a blockbuster IPO from Elon Musk's SpaceX, far fewer companies are choosing to go public, and some of the ones that do have struggled to gain momentum in the current conditions.
+Two consumer companies, sandwich chain Jersey Mike's and clothing retailer Reformation, went public on Thursday. Both companies had largely uneventful IPOs, with Reformation remaining essentially flat for the day and Jersey Mike's opening $2 below its IPO pricing and closing down nearly 6%. They join just a handful of other consumer companies that have gone public in 2026, according to Renaissance, representing a tiny slice of the overall IPO pie.
+Experts say there's a range of reasons why companies are rethinking their liquidity and capital.
+"There's under 4,000 public companies today, whereas 30 years ago, there was just under 8,000," said Mike Dinsdale, CEO of Powerlaw, a publicly listed fund investing in private companies. "The reason for that, I think, is access to capital, and then the idea that staying private and not having any transparency into what's happening, and then higher valuations on the public side."
+Dinsdale, who previously held executive positions at DoorDash and DocuSign, said access to capital and liquidity in nonpublic markets, along with the emergence of megafunds, have taken "the need out to rush to go public."
+He added it's a trend he's been seeing over the past 30 years, though the acceleration of family office interest in private companies over the past five years has contributed significantly to the trend as the private investment vehicles of the ultrawealthy look for new places to put their money.
+Secondary markets
+Some of the largest consumer and retail companies have remained private, like Publix Super Markets, Sephora and Chick-fil-A.
+According to Sunaina Sinha Haldea, the global head of Private Capital Advisory at Raymond James, private companies are benefitting from the rise of secondary markets.
+"The secondaries market is acting as this pressure release valve to this artificial clock of having to go public," she said. "Nobody has to go public now because of the depth of this private secondaries market."
+Venture capital has also been booming. Jason Yeh, the co-founder of Patron, a venture capital firm investing in consumer companies, told CNBC that the volatility in the public markets coupled with the stagnant performance of public consumer and retail companies has likely added to the hesitation to leave the private sphere.
+"There are very large asset managers, hedge funds and other types of investors that want to buy these later-stage stakes in these large companies, and they're able to push out having to go public longer, and you can get liquidity for earlier stage investors through that," Yeh said.
+His firm has partnered with a number of consumer companies like Sweatpals, Board, System Labs and more. He added that he believes a strong liquidity environment would mean both IPOs and acquisitions become desirable routes.
+"It feels like we're on the cusp of a handful of companies that, theoretically, on paper, should have been able to go public over the last couple of years, but will be going public ideally in the next 12 to 18 months," Yeh said.
+'The carrot and the stick'
+There are still compelling reasons for some companies to go public — an IPO is often a moneymaking move, like it was for SpaceX, which raised tens of billions of dollars when it went public.
+"I do think for companies with a really strong business model of generating a lot of cash flow, eventually they will go public," Yeh said. "Hopefully, the overall macroeconomic conditions are better when that happens, versus doing it into a weaker market."
+One of the biggest incentives to staying private is avoiding the pressure of quarterly earnings, which require revealing numbers to investors and potentially taking a hit from that visibility.
+"In general, founders don't want to go public, the majority don't, because all of a sudden they have more visibility into what they're doing," Powerlaw's Dinsdale told CNBC. "The public now has access to numbers and it has opinions on what they're doing versus being more in control."
+To make the IPO market attractive again, he said he believes there needs to be both "the carrot and the stick," that would make it harder to stay private while also instituting a regulatory legislative change to incentivize going public.
+President Donald Trump has floated the idea of ending mandatory quarterly earnings reports, a move that was backed by the Securities and Exchange Commission earlier this year and would allow companies to report only twice a year instead. In a May statement, SEC Chairman Paul Atkins said the current rules have too much "rigidity" for companies and investors.
+According to Raymond James' Sinha Haldea, the regulation that comes with being public is a "headwind" to going down that route.
+"If you are a CEO of a fast-growing company and there's plenty of capital available, and you don't have to deal with the governance and the reporting structures and the quarterly clock of being a public company, why would you put yourself through that?" Sinha Haldea told CNBC.
+Sinha Haldea said it's both a financial cost and a resource cost to go public rather than staying within the secondary markets and accessing capital that way. But as the milestones for companies begin to get redefined, and IPOs no longer hold quite as much weight, the "why" behind going public in every board room is no longer as simple as it used to be.
+For that justification to change, and for more companies to mimic the trend of 2021 markets, she said the "operational burden of being public" has to change first.
+"There is a lot of reporting compliance, litigation, dilution of management time that goes into being a public company," Sinha Haldea said. "That equation needs to change through regulation for the decision between private and public to become more neutral."
+
+</details>
 
 
 ---
@@ -161,207 +239,132 @@ Infantino also said that the proposal is "simply a choice for our members" and n
 
 ---
 
-## Jersey Mike's stock falls 6% in public market debut after pricing shares at $23
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html
-
-正文长度：3700
-
-摘要：Jersey Mike's priced its initial public offering at $23 per share.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Shares of Jersey Mike's closed down about 6% during trading on Thursday afternoon after the company made its public market debut on the New York Stock Exchange under the ticker "JMKE."
-The stock opened at $21 per share, below its initial public offering pricing of $23 per share, at the midpoint of the expected range of $21 to $25 per share.
-Jersey Mike's sold 43.5 million shares, raising about $1 billion and valuing the company at $7.3 billion. With those proceeds, the chain is now among the largest-ever initial fundraises for a restaurant IPO.
-Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway. It's now the largest public chain in the category.
-The company reported net income of $55 million on total revenue of $724 million last year. Its same-store sales increased 3% over the same period. The metric tracks sales growth at restaurants open at least a year.
-Broadly, diners are eating out less often or seeking deals to save money, and the restaurant industry has seen traffic and sales soften. But Jersey Mike's has largely bucked the trend, and its high average unit volumes and asset-light franchise model made the stock attractive to investors.
-CEO Charlie Morrison told CNBC that Jersey Mike's customer base typically skews "a little higher income," insulating the chain from some of the pullback in consumer spending.
-"We're seeing the consumer come back," Morrison said. "We've seen positive transition growth. In fact, most of our same-store sales growth this year to date has been driven primarily by transaction growth."
-Jersey Mike's successful IPO is a positive harbinger for other consumer companies looking to go public. Rival restaurant company Inspire Brands, which counts Dunkin' and Jimmy John's among its brands, has confidentially filed for an initial public offering and could easily snatch Jersey Mike's title for biggest-ever restaurant IPO.
-Clothing company Reformation made its public market debut on Thursday; the retailer priced shares at $15, on the low end of its expected range of $15 to $17. Its shares closed up less than 1%.
-Jersey Mike's expansion plans
-Jersey Mike's founder, Peter Cancro, began working at a Jersey Shore sandwich shop at age 14 in 1971. Four years later, he pulled together enough money to buy Mike's Subs. Cancro later changed the name and began franchising the chain. Today, franchisees operate 99.2% of Jersey Mike's locations.
-In late 2024, Jersey Mike's announced that Blackstone had bought a majority stake reportedly valued at around $8 billion including debt.
-After the transaction closed, Jersey Mike's tapped Morrison as its chief executive. He previously led Wingstop for more than a decade, including during the chicken wing chain's own IPO.
-Morrison said he sees a lot of similarities with Wingstop. Like the chicken wing chain, Jersey Mike's is mostly franchised and generates free cash flow for investors.
-Jersey Mike's plans to use the proceeds from the offering to pay down debt and for general corporate purposes.
-Looking ahead, the chain plans to expand its international reach.
-The vast majority of its restaurants are in the U.S., a relatively mature market for hoagies. Cancro, who has retained some equity in Jersey Mike's, signed a master franchise agreement to bring Jersey Mike's to the United Kingdom and Ireland.
-Long term, Jersey Mike's sees the potential for 15,000 restaurants worldwide — half in the U.S., half in international markets.
-"One of the benefits of being a publicly traded company on the New York Stock Exchange is that we get a lot of awareness of the brand, not only in the U.S., but also around the world," Morrison said.
-
-</details>
-
-
----
-
-## Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html
-
-正文长度：3212
-
-摘要：Retailer Reformation made its IPO on the New York Stock Exchange on Thursday under the ticker symbol "REF."
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Women's clothing retailer Reformation began trading on the New York Stock Exchange on Thursday, with the stock ending the day essentially unchanged after pricing its IPO at $15.
-The company, which is trading under the ticker symbol "REF," is offering 14,062,500 shares, putting its IPO raise at $210.9 million.
-"Reformation is ready, and that is really the driving reason we've spent a lot of time working to build a business that redefines retail, really innovates on what the role of a brand is in the fashion space, and we've done a great job at that," CEO Hali Borenstein told CNBC on Thursday. "Today, we have a foundation that is ready to scale."
-It joins just a handful of consumer and retail companies that have gone public this year amid a slump in IPOs since the 2021 boom. Reformation went public the same day as sandwich chain Jersey Mike's, which also listed on the NYSE.
-According to its S-1 fact sheet, Reformation has seen 20 consecutive quarters of double-digit net revenue growth through the first quarter of 2026. Its net revenue for the full year 2025 came in at $507.1 million, and net income was $12.6 million, including the impact of President Donald Trump's tariffs.
-As of the first quarter of 2026, the company owns 70 stores across the U.S., UK, Canada and France.
-"We believe we will continue to benefit from operating within the highly fragmented fashion industry, and that we are well positioned to capitalize on growing global demand for sustainable fashion," the company wrote in its S-1 filing.
-Borenstein said Reformation's focus in its next phase of growth is to increase its distribution with more stores, accelerate its e-commerce business, invest in category diversification and expand overseas.
-She added that the retailer is seeing "really strong double-digit growth" across the U.S., with 70% of its revenue coming from outside of New York and California.
-Reformation also said it saw more than 1 million active customers across its direct-to-consumer channel in 2025. The majority of its customers, 70%, are aged between 25 and 50 years old.
-Borenstein told CNBC's "Morning Call" that the company's customer base is diverse, with 20% of new customers last year under the age of 25 and 20% over the age of 50.
-She added that the company's average consumer makes over $100,000 in a year, making it more insulated from macroeconomic pressures hitting other retailers.
-Despite tariff and trade uncertainty, Borenstein told CNBC the company has a "good track record" of navigating the macro backdrop, with 34% of its units last year coming from North America.
-"We are really focused on two things: our brand and our product. We think those are the winning recipes for consumers, so Reformation has a brand that cuts through," Borenstein said.
-The IPO is backed by J.P. Morgan, Morgan Stanley, Citigroup and RBC Capital Markets.
-As the company embarks on its public journey, Borenstein said she'll define success as the way that Reformation makes its customers feel.
-"Today is the first day," she said. "It's a long journey ahead, and at Reformation, we have very big goals. We're ambitious, and so where we are really focused is on building a once-in-a-generation type brand."
-
-</details>
-
-
----
-
-## How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low - Financial Times
+## Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXV3d1d0RG56UjM3Zk5PUk9jdjFSVzJsWTV3b29jODBXckFTS3JTWXo3OXVqeHlLMGg4akF5MVc0NE1uTE5FbnpiNTlDZ0ZLNHhYUWpfU3RnMUNWLWk1aGIwWDBYNW9yc1hPLWluVm41emNOZFRCLXlnSnF4dXVhUk1nVEM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXpibTdIZlViR3p1MUlWOEdxd045X19xTTRzaXBUdUZ1VjQ0WTZHZTV0VFBaN0NHV1VOWGwxSFdGVHFfZ1VNQkVfUGM1b3BZbGQ0eW9PMU12aUdqZjF0bHBKLVVHN25mdkZaMElic1JGcEZSR052QkpsWFhkVnp4ZjQ4M1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXV3d1d0RG56UjM3Zk5PUk9jdjFSVzJsWTV3b29jODBXckFTS3JTWXo3OXVqeHlLMGg4akF5MVc0NE1uTE5FbnpiNTlDZ0ZLNHhYUWpfU3RnMUNWLWk1aGIwWDBYNW9yc1hPLWluVm41emNOZFRCLXlnSnF4dXVhUk1nVEM?oc=5" target="_blank">How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXpibTdIZlViR3p1MUlWOEdxd045X19xTTRzaXBUdUZ1VjQ0WTZHZTV0VFBaN0NHV1VOWGwxSFdGVHFfZ1VNQkVfUGM1b3BZbGQ0eW9PMU12aUdqZjF0bHBKLVVHN25mdkZaMElic1JGcEZSR052QkpsWFhkVnp4ZjQ4M1E?oc=5" target="_blank">Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Citadel buys Situational Awareness equity holdings after steep AI losses - Financial Times
+## Donald Trump ‘not sure’ he will let Ukraine build Patriot missiles - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWUxdzJEZExXMDhGeTg3UTV5aFJRNWFrN1hMeDNZZlFJdzlfMG9aMmo4WFVYSXJsTDB2NXNEZDhsZkxxcmt5UWVTN2UwNlZ4bkdZSXVySl9YNWJxUnowMWpOTG1haW5yTUhFNUdxZDNkVFVJTXJqTnpLZHhiaXJYRG9GVmQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWlDXzlFbDNkRUxVckFSVk1LZUhaRUJFN1RsN3VkQlBSbzJFcWczbDBUSVlsdWI4TzllTTJLQ0ZZRHZWbVBWMTVVNWRJenBRYlJxb0ZKTFlSNGNCVVFqME9UTFgyYTFzSGNuLVNVdERjcmhDbXhBaU1XWkpGOEl6OVItM3I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWUxdzJEZExXMDhGeTg3UTV5aFJRNWFrN1hMeDNZZlFJdzlfMG9aMmo4WFVYSXJsTDB2NXNEZDhsZkxxcmt5UWVTN2UwNlZ4bkdZSXVySl9YNWJxUnowMWpOTG1haW5yTUhFNUdxZDNkVFVJTXJqTnpLZHhiaXJYRG9GVmQ?oc=5" target="_blank">Citadel buys Situational Awareness equity holdings after steep AI losses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWlDXzlFbDNkRUxVckFSVk1LZUhaRUJFN1RsN3VkQlBSbzJFcWczbDBUSVlsdWI4TzllTTJLQ0ZZRHZWbVBWMTVVNWRJenBRYlJxb0ZKTFlSNGNCVVFqME9UTFgyYTFzSGNuLVNVdERjcmhDbXhBaU1XWkpGOEl6OVItM3I?oc=5" target="_blank">Donald Trump ‘not sure’ he will let Ukraine build Patriot missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Apple forecasts slower growth as AI build-out strains tech supply chains - Financial Times
+## We’ve moved from income world to wealth world - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVk5NE9nSUZPeUVKVGl6MUR4emVOZUdlb2x5dGctTi1aODFZaGxqWWlSY2tLQXBhVDNjdVJrOHE0VlRNbW9HVGpodkNhaEMyOVFsaHI5OUdka2VUUjI4X2FpWUwxUGZNWUQwV3pVYlFjRXBfdFd2TWVrWDFwUjhaMkVZT2s?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDRWT1Fpek9JMjZWVTBMaWhucEM0aWxJMDlYd0xyb0tIeUVEVHhiNWEzWm01LTBVTFBVZ1pCczBTYWNBeV96S1MzdHdSOFgxRXFRUERNQ0xOQW5oa3lROENzaEVUbWNvdUJjdGlOQk9LV190X3V5WjAyNjFSS3VtTjZOc2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVk5NE9nSUZPeUVKVGl6MUR4emVOZUdlb2x5dGctTi1aODFZaGxqWWlSY2tLQXBhVDNjdVJrOHE0VlRNbW9HVGpodkNhaEMyOVFsaHI5OUdka2VUUjI4X2FpWUwxUGZNWUQwV3pVYlFjRXBfdFd2TWVrWDFwUjhaMkVZT2s?oc=5" target="_blank">Apple forecasts slower growth as AI build-out strains tech supply chains</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDRWT1Fpek9JMjZWVTBMaWhucEM0aWxJMDlYd0xyb0tIeUVEVHhiNWEzWm01LTBVTFBVZ1pCczBTYWNBeV96S1MzdHdSOFgxRXFRUERNQ0xOQW5oa3lROENzaEVUbWNvdUJjdGlOQk9LV190X3V5WjAyNjFSS3VtTjZOc2c?oc=5" target="_blank">We’ve moved from income world to wealth world</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott - Financial Times
+## Big Tech AI spending spree tops $1tn - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGFWa0lwWlVxVU4tQ0pfenNMekJSajZHa2l0SFF1TlZ2dkdqcEtfb2JBZWpNOFpzOWtyUHVtc01xY2xPeEFtcWp6MXQ3QVRfTUdmcWZ2QmF3bmVZSGE0TS1ZRVFlbUc0bTdlay1QMVRpVUEwZDI0UmZZRWRMWUR5dGw2d2k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnh4X1BCWTB5dFFVWWJWRzZKWmhLZl9BbmloMEFDQ2RobExYTHMxSUdyeTljSnFvdWZJSFVZXzZoU2lta1lHS0lkVnc5Sl9XY0VGcUp4VW9jNEdZMVZ2VHdkd0UzX2tUTHRUZjJrSVd3ZXNjX2c3X0dVQWZ1YVRsd1hEX2I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGFWa0lwWlVxVU4tQ0pfenNMekJSajZHa2l0SFF1TlZ2dkdqcEtfb2JBZWpNOFpzOWtyUHVtc01xY2xPeEFtcWp6MXQ3QVRfTUdmcWZ2QmF3bmVZSGE0TS1ZRVFlbUc0bTdlay1QMVRpVUEwZDI0UmZZRWRMWUR5dGw2d2k?oc=5" target="_blank">Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnh4X1BCWTB5dFFVWWJWRzZKWmhLZl9BbmloMEFDQ2RobExYTHMxSUdyeTljSnFvdWZJSFVZXzZoU2lta1lHS0lkVnc5Sl9XY0VGcUp4VW9jNEdZMVZ2VHdkd0UzX2tUTHRUZjJrSVd3ZXNjX2c3X0dVQWZ1YVRsd1hEX2I?oc=5" target="_blank">Big Tech AI spending spree tops $1tn</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Spain’s migrant crisis triggers Italian call for EU travel restrictions - Financial Times
+## How JPMorgan walked into another football firestorm - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUJmZUFKWlp2R2ZrWGRKcTJqRTJra0Itemx1Y2tLS21ndW1zcC15a3R3OGdxR3lxUUdQcmlncGJNMW95YkNVVmlmQzh2ME1uc0tSUFphamxIcmRTNFZoZEQ4eklMcmtiRWdQekJpZkVnM1dGWVBNdE5GNWYtUDB0c2FLVFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHJlN2UwOUg2QXJXcm9nSGJyRXNMY1lfX0toeTNEM21yU2VpTTNtWGFVdlhoc1VFQkxhWmFlYWhZM2lxQWVJalZ0Tnhma1RLODhiek04VjJFMkc1RlF2dTRyMWpQMGk0RHRQV2pmQW81bk1Ed2tZLVI0azFhb1hiNmVkZDM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUJmZUFKWlp2R2ZrWGRKcTJqRTJra0Itemx1Y2tLS21ndW1zcC15a3R3OGdxR3lxUUdQcmlncGJNMW95YkNVVmlmQzh2ME1uc0tSUFphamxIcmRTNFZoZEQ4eklMcmtiRWdQekJpZkVnM1dGWVBNdE5GNWYtUDB0c2FLVFA?oc=5" target="_blank">Spain’s migrant crisis triggers Italian call for EU travel restrictions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHJlN2UwOUg2QXJXcm9nSGJyRXNMY1lfX0toeTNEM21yU2VpTTNtWGFVdlhoc1VFQkxhWmFlYWhZM2lxQWVJalZ0Tnhma1RLODhiek04VjJFMkc1RlF2dTRyMWpQMGk0RHRQV2pmQW81bk1Ed2tZLVI0azFhb1hiNmVkZDM?oc=5" target="_blank">How JPMorgan walked into another football firestorm</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Death toll from Japan earthquake rises to 34 - Reuters
+## US Treasury informed banks that it may intervene in yen, source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDF2aTQxV1BJbDNHMlJaUDJROHROZ1BaWmxMUndqRWZJYWVmUmtvUW9NUUREYzVjczhqTFg2WTVpV3dUWWJQU3RWU2trX3FnSmJNSlVaZFJ2YnRwQzVFcm93dnJrTXVIVUplS3FzeERYOVNvdHdzX1BQdjh2cjVaMmFhazRaYU9fcV8tbDRwZG1QZEl4dWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDF2aTQxV1BJbDNHMlJaUDJROHROZ1BaWmxMUndqRWZJYWVmUmtvUW9NUUREYzVjczhqTFg2WTVpV3dUWWJQU3RWU2trX3FnSmJNSlVaZFJ2YnRwQzVFcm93dnJrTXVIVUplS3FzeERYOVNvdHdzX1BQdjh2cjVaMmFhazRaYU9fcV8tbDRwZG1QZEl4dWc?oc=5" target="_blank">Death toll from Japan earthquake rises to 34</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5" target="_blank">US Treasury informed banks that it may intervene in yen, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic says Claude AI hacked three companies during cyber tests - Reuters
+## At least 25 killed after a passenger bus overturns in Algeria - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGpMOFN5aUhlNEd0SmVEY2NwdFZ4R2xZSW9YejNqcm5LZ2dZMmJ0RmlBQmdhQnB3M2ZQVTFuZFEtd1dGZmw5YWNUalBRNEVUdVYxWEotUlJKcjduRktYOGZQTVQ4UzBUaEdXYzZ4alk4OXdwbXlqLXRUNjJjUVZpTTRzeWJkeG9TTnUyTmd4c0tZd2g4cVp1YWZxLTZMRHYzckVlekNR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5" target="_blank">Anthropic says Claude AI hacked three companies during cyber tests</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGpMOFN5aUhlNEd0SmVEY2NwdFZ4R2xZSW9YejNqcm5LZ2dZMmJ0RmlBQmdhQnB3M2ZQVTFuZFEtd1dGZmw5YWNUalBRNEVUdVYxWEotUlJKcjduRktYOGZQTVQ4UzBUaEdXYzZ4alk4OXdwbXlqLXRUNjJjUVZpTTRzeWJkeG9TTnUyTmd4c0tZd2g4cVp1YWZxLTZMRHYzckVlekNR?oc=5" target="_blank">At least 25 killed after a passenger bus overturns in Algeria</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yen weakens after intervention-led surge ahead of BOJ policy decision - Reuters
+## Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5" target="_blank">Yen weakens after intervention-led surge ahead of BOJ policy decision</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5" target="_blank">Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says 'Board of Peace' reaches Gaza disarmament deal - Reuters
+## Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1pSMmZLbHZsNjFobXRnOF8tSGRMa1V5Vmh1eW9ydUZvWFJDNXQ4Vm5SUXBzQUNOdGdDQms3NTFlZTV6WEM2Q041UE1ySE9PYXpXRHdNNTcwOU9YRE1GdVdWTWlvend3TUxWclBxaFpRWG50dnNsc1FqNXdnZnUzeDR0TnQxVlNSWDBubWh2S3hpOFYwdGMxMVlsNzAwTzFCVnlnSzJCVDBuZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1pSMmZLbHZsNjFobXRnOF8tSGRMa1V5Vmh1eW9ydUZvWFJDNXQ4Vm5SUXBzQUNOdGdDQms3NTFlZTV6WEM2Q041UE1ySE9PYXpXRHdNNTcwOU9YRE1GdVdWTWlvend3TUxWclBxaFpRWG50dnNsc1FqNXdnZnUzeDR0TnQxVlNSWDBubWh2S3hpOFYwdGMxMVlsNzAwTzFCVnlnSzJCVDBuZw?oc=5" target="_blank">Trump says 'Board of Peace' reaches Gaza disarmament deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5" target="_blank">Trump convenes Cabinet at Camp David amid simmering Iran war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters
+## Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNQWN3bERBZEMtYnM5dVlwOGJvcHk0bzVndi1ZWXVHWllsX0lwUGFKU2xMellLNVlyMVUyck93U0FJNl8wUWtqSzVrVzBjdWRCWWllSTJpT3BFTHNWXzVXM3UyREptOGJQbW1lWV9vVkRsSzh2ekhyQ05XNGZMb0JCX0RCaEU3YjVtaTZodnRoTTNYakdKU2ptSWtLLWNBUEhhOTBLTE1WaXRPckx6Qzh4RUpGaDctenJBdS1nZXlsMVNLR0ZZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5" target="_blank">Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNQWN3bERBZEMtYnM5dVlwOGJvcHk0bzVndi1ZWXVHWllsX0lwUGFKU2xMellLNVlyMVUyck93U0FJNl8wUWtqSzVrVzBjdWRCWWllSTJpT3BFTHNWXzVXM3UyREptOGJQbW1lWV9vVkRsSzh2ekhyQ05XNGZMb0JCX0RCaEU3YjVtaTZodnRoTTNYakdKU2ptSWtLLWNBUEhhOTBLTE1WaXRPckx6Qzh4RUpGaDctenJBdS1nZXlsMVNLR0ZZ?oc=5" target="_blank">Chevron records highest quarterly profit in six years, beating analyst estimates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
