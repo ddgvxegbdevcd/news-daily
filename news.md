@@ -1,68 +1,115 @@
 # 每日财经新闻
 
-更新时间：2026-08-01 03:29:50
+更新时间：2026-08-01 13:39:48
 
-## India’s Kerala Struggles to Care for Aging Population with Fertility Rate Low
+## Bipartisan Governors Launch Task Force to Tackle Immigration Reform
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-01/india-s-kerala-struggles-to-care-for-aging-population-with-fertility-rate-low
+链接：https://www.bloomberg.com/news/videos/2026-08-01/bipartisan-governors-to-tackle-immigration-reform-video
 
 正文长度：0
 
-摘要：India’s biggest student protests in years last week highlighted the growing frustrations of the country’s hundreds of millions of young people.
+摘要：From Oklahoma City, the site of the annual meeting of the National Governor’s Association, Oklahoma Governor Kevin Stitt, Marylands Governor Wes Moore, Utah Governor Spencer Coz, and Delaware Governor Matt Meyer joined Bloomberg This Weekend host Christina Ruffini to announce the launching of a bi-partisan immigration task force to find solutions to one of Americas most politically divisive issues. (Source: Bloomberg)
 
 
 ---
 
-## Lawmakers Unveil E15 Proposal Allowing Blending Exemptions
+## Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-01/lawmakers-unveil-e15-legislation-allowing-blending-exemptions
+链接：https://www.bloomberg.com/news/articles/2026-08-01/warsh-s-silent-treatment-has-s-p-traders-bracing-for-wild-swings
 
 正文长度：0
 
-摘要：US lawmakers unveiled legislation that would expand sales of higher-ethanol gasoline and give exemptions from annual blending mandates for some small oil refineries that have received them in the past.
+摘要：A relentless run of uncertainty, from war to tariff fights to inflation that refuses to die, has challenged investors this year. Now they have to balance another risk: A Federal Reserve that won’t tell them what it’s thinking.
 
 
 ---
 
-## Danantara Dollar Bond Plan Grapples With Global Volatility
+## Turkey Said to Extend Iraq Oil Pipeline Deal by One Year
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-30/danantara-dollar-debt-plan-grapples-with-global-bond-volatility
+链接：https://www.bloomberg.com/news/articles/2026-08-01/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year
 
 正文长度：0
 
-摘要：Indonesian sovereign wealth fund Danantara’s planned dollar notes are unlikely to price quickly as a global bond rout clouds debt issuance, people familiar with the matter said.
+摘要：Turkey reached an agreement with Iraq to extend an expired oil pipeline deal by one year and increase flows through it, ensuring supply through an exports route that bypasses the Strait of Hormuz.
 
 
 ---
 
-## Yen Gains on Intervention, Reports of Buying By Both US, Japan
+## Phoenix Extends Record-Breaking Heat as West Faces Fire Threat
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-07-31/yen-s-intervention-rally-stalls-as-traders-alert-for-more-action
+链接：https://www.bloomberg.com/news/articles/2026-08-01/phoenix-extends-record-breaking-heat-as-west-faces-fire-threat
 
 正文长度：0
 
-摘要：US and Japanese authorities extended efforts to shore up the yen on Friday, with the currency strengthening more than 1% against both the dollar and the euro.
+摘要：Phoenix has had a record-breaking run of high temperatures and that streak will continue through the coming week, as heat and fire risks spread across the wider US West.
 
 
 ---
 
-## Wall Street Week | Warsh’s Waiting Game, EU Merger Rules, Robotic Surgeons
+## By The Way: Headlines You May Have Missed the Week of 7/26
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-07-31/wall-street-week-warsh-s-waiting-game-eu-merger-rules-video
+链接：https://www.bloomberg.com/news/videos/2026-08-01/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：This week, Harvard professor and former Obama economic adviser Jason Furman discusses the Fed rate decision and the challenges facing Chairman Kevin Warsh. Plus, the European Union is rewriting its merger rules in a bid to create tech giants that can compete with America. Later, Johnson & Johnson entered the fast-growing robotic surgery race years behind its rivals, but it’s betting a different approach can still win. And, what do think tanks actually accomplish, and how do you measure the return on investing in ideas? (Source: Bloomberg)
+摘要：The secret to a billion dollar movie, Willie Nelson speaks out against Data Centers, mystery packages, and Marmots on OnlyFans. Bloomberg News' Tim Stenovec joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed. (Source: Bloomberg)
+
+
+---
+
+## To keep growing, incoming Best Buy CEO says he first wants to go smaller
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html
+
+正文长度：5894
+
+摘要：As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig, who spoke exclusively with CNBC about his strategy for the company.
+The company has been struggling with slumping sales over the past few years, which it has attributed to lower consumer confidence, less tech innovation and a slower housing market. In an effort to refresh its products, improve the customer experience and drive more sales, the retailer announced Bonfig will succeed current CEO Corie Barry this fall.
+As he prepares to take the helm, Bonfig has said he's focused on four key pillars: advancing Best Buy as a retail and technology company, improving its reach, enhancing the customer experience and focusing on being a human-powered company. Bonfig has also said he's looking into ways to capitalize on the artificial intelligence boom and Best Buy's spot in that next chapter.
+This week, Best Buy opened two new stores, one in Jonesboro, Arkansas, and one in Cape Cod, Massachusetts, which Bonfig told CNBC illustrates his strategy as he prioritizes returning the company to long-term and sustainable growth.
+"What we're finding is that there are markets that we just can't be in with a traditional size Best Buy store, but they're markets that absolutely make sense for Best Buy from a reach perspective," Bonfig said.
+To lean into those markets, the company is opening new small-format stores, ranging from 12,000 to 15,000 square feet, compared to its medium-format stores, which range from 20,000 to 25,000 square feet. Some of its largest stores, including its flagship location in New York City, exceed 40,000 square feet.
+The new small stores tap into Bonfig's priority of expanding the company's reach, he said.
+"We also know that when we put a store close to a customer, it doesn't just change the customers' behavior in the frequency of the visits of the store … it also changes their behavior digitally as well," Bonfig said.
+When Best Buy joins a new, smaller community, he said, the company has found more customers physically go to a store for the first time, but they also use the app and digital channels as well. The Jonesboro store marks Best Buy's return to the town after a tornado destroyed its previous location.
+"It's a great example of a vibrant market, a place where customers are interested in our brand, but not a market that could support a 30,000- or 35,000-square-foot store," Bonfig said. "An 18,000-square-foot store allows us to have the best of all of our different categories and meet the needs at that particular location."
+The second opening, in Cape Cod, is slightly larger than Best Buy's normal medium-format stores, coming in at 28,000 square feet, but Bonfig said it's another example of finding "the right size store in the right location in the right node."
+He added that Best Buy Canada, which can often do things faster than its U.S. counterpart, has been after the small-format store for "an extended period of time" and has seen success with locations as small as 7,000 square feet.
+Still, Bonfig emphasized that the small stores are not a replacement for its more typical-format locations.
+"It's actually an enhancement of what we're doing today," he said. "But it actually allows us to reach more customers and more markets that we just were not in before."
+Trying to turn the page
+Over the past five years, Best Buy has seen its stock sink roughly 20% after hitting its peak in late 2021, trading at $138 per share.
+For the current fiscal year, Best Buy has said it expects comparable sales in the range of a decline of 1% to an increase of 1%. Though its most recent quarter outperformed Wall Street expectations, it came on the heels of years of declines, like the third fiscal quarter of 2026, when Best Buy reported net income of $140 million, down from $273 million the year prior.
+The retailer was also hit by tariffs and is navigating the soaring price of memory chips, which have caused the costs of some consumer electronics to rise.
+Bonfig said he attributes Best Buy's recent stagnant performance to a general pull-forward behavior from consumers during Covid that created an unprecedented demand curve that led to a lull. Like home improvement companies, Best Buy saw outsized spending as shoppers were stuck at home and looking to upgrade.
+He said Best Buy saw that behavior reset the technology life cycle for a lot of consumers while also forcing vendors to pivot from innovation to production.
+"I wouldn't say that Best Buy's lost its momentum," he told CNBC. "I think there's been a very interesting couple years, or maybe more than a couple years, in the market where there was an interesting demand curve where everything was pulled forward."
+As he prepares to take the reins of the company, Bonfig said he's focused on improving the customer experience, including upgrading TV selections and working with customers to replace their existing TVs.
+Bonfig said he'll define success during his tenure as CEO by the customer response.
+He also said the company is leaning into AI for customers and the corporate side of the business, adding that Best Buy is actively investing in new products like Meta's glasses. Best Buy also has an AI tool for customers to use, in addition to partnerships with OpenAI and Google.
+"Agentic commerce and commerce through AI platforms is happening today," Bonfig said. "We're seeing traffic there, and we want to make sure that the Best Buy experience is represented."
+Still, he added, he expects AI to be an enhancement to the human power behind Best Buy.
+And, ultimately, as he looks to step into his new role, Bonfig said he still believes in the core strength of Best Buy despite its recent stagnation.
+"Corie had an amazing strategy, and my strategy is built on top of that," Bonfig said. "There is a tremendous amount of momentum."
+
+</details>
 
 
 ---
@@ -236,31 +283,132 @@ But as more investors pile into sports and drive valuations for major leagues hi
 
 ---
 
-## GM to launch proprietary in-vehicle AI system later this year
+## Fifa abandons $20bn investment plan after global backlash - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeW1kM0Z6dmZsS2NCRFlKbWZQY2E4blZPcW94aG1RYzNVS3FySklBQlZkZUJpallKaGdBdjl3dTU3dFdxUDZuck05RUV5R2hielh1SmNxZTZyVzIyVWgxYkZ2TTI2MHJvMjRZbHdyakJLVG5CYWN1MlZQS0dDSUtkWHUxMXU?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2249
+正文长度：0
 
-摘要：General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeW1kM0Z6dmZsS2NCRFlKbWZQY2E4blZPcW94aG1RYzNVS3FySklBQlZkZUJpallKaGdBdjl3dTU3dFdxUDZuck05RUV5R2hielh1SmNxZTZyVzIyVWgxYkZ2TTI2MHJvMjRZbHdyakJLVG5CYWN1MlZQS0dDSUtkWHUxMXU?oc=5" target="_blank">Fifa abandons $20bn investment plan after global backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> DETROIT — General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.
-The new GM AI assistant is expected to be more integrated with the vehicle as well as its capabilities and telematics information than the company's recently launched Gemini AI assistant from Google, according to Anna Santos, GM director of product management of voice and AI/machine learning.
-"Later this year, we'll be launching a more deeply integrated native AI assistant that combines conversational AI with GM vehicle knowledge and OnStar intelligence to create those capabilities that go beyond what a general purpose assistant can do," she told CNBC.
-GM last year announced the Gemini AI bot would launch this year in millions of 2022 model-year vehicles and newer, followed by a GM AI assist, but did not provide additional details on the technology.
-Santos said the new GM assistant, which she declined to disclose a name for, will be able to better "understand the vehicle, the drive and our customers' needs, and make everyday ownership simpler."
-With Gemini, customers can speak naturally without memorizing commands or repeating context. It also is beginning to offer "live sessions" in which the bot will speak conversationally or play games such as trivia or 20 questions. It also can control some aspects of GM vehicles, such as temperature and radio controls, but in general operates as it would through a phone.
-"This is the beginning of a broader AI journey for us," Santos said. "There's a limit to what an AI that's just sort of sitting at the top level of the vehicle can do."
-The Detroit automaker is working with an unnamed large language model provider on its technology to assist GM and its owners with predictive maintenance, vehicle telemetry and other more auto-focused features.
-That also could include commands such as "kids setting" that would tailor music, seats, heating/cooling and door lock controls for children.
-"It's data that's going to be proprietary to GM, and our goal is to make sure that we're bringing the right technology forward to enable us to build the deep vehicle expertise that we want to be able to bring to the AI assistant," Santos said.
+---
 
-</details>
+## AI’s ‘cookie banner’ moment: EU labels come for the bots - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0?oc=5" target="_blank">AI’s ‘cookie banner’ moment: EU labels come for the bots</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Amazon completes $50bn investment in OpenAI - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs?oc=5" target="_blank">Amazon completes $50bn investment in OpenAI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Why South Korea’s won is one of world’s best performers - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0J2VF9idDczQWpUNlVyMmx1RjVkOGJVLXBZcFVQMmg1WXljMGVwb3VYWHJRR28xYzhqQ3MzZjlRZjdGUmt0UEZMYWZhdTY3Mi1fUXNOZkUwei10dDVPWDdmZFRFd29vUTZJSkl4cVNOS0JFd0RJTWFyU3BvNTNiYy1xWTc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0J2VF9idDczQWpUNlVyMmx1RjVkOGJVLXBZcFVQMmg1WXljMGVwb3VYWHJRR28xYzhqQ3MzZjlRZjdGUmt0UEZMYWZhdTY3Mi1fUXNOZkUwei10dDVPWDdmZFRFd29vUTZJSkl4cVNOS0JFd0RJTWFyU3BvNTNiYy1xWTc?oc=5" target="_blank">Why South Korea’s won is one of world’s best performers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Situational Awareness got the future right but misread the past - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDVBTzJ2NU13WkxCNnNwZnB2UVgzQnVQZmJmNzd2NVlEY2dLNVNHaWlRYUNrd0FMZlZIV3NCQ3p0VHVuNmUtTE5ESHpOT1Q3SGRaSkRWY1JOYmJlek9YNEVnOHFGVU9yNjlyMEpqWnBKUjM5emw2azVseUd2UERCVWhJSDg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDVBTzJ2NU13WkxCNnNwZnB2UVgzQnVQZmJmNzd2NVlEY2dLNVNHaWlRYUNrd0FMZlZIV3NCQ3p0VHVuNmUtTE5ESHpOT1Q3SGRaSkRWY1JOYmJlek9YNEVnOHFGVU9yNjlyMEpqWnBKUjM5emw2azVseUd2UERCVWhJSDg?oc=5" target="_blank">Situational Awareness got the future right but misread the past</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan, hiking company says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5" target="_blank">Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan, hiking company says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5" target="_blank">Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Spain installs floating barrier in Ceuta after calm night following border rush - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5" target="_blank">Spain installs floating barrier in Ceuta after calm night following border rush</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Wildfires rage in Greece as firefighters continue battle in France and Spain - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5" target="_blank">Wildfires rage in Greece as firefighters continue battle in France and Spain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Hungary's Paks nuclear plant could be powered down this weekend, PM says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5" target="_blank">Hungary's Paks nuclear plant could be powered down this weekend, PM says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
