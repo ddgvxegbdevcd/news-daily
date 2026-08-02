@@ -1,68 +1,126 @@
 # 每日财经新闻
 
-更新时间：2026-08-02 03:29:22
+更新时间：2026-08-02 13:39:49
 
-## Trump Says US to Cancel Iran Attack Subject to a Rapid Deal
+## Nides Says Iran War Needs Negotiations
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal
+链接：https://www.bloomberg.com/news/videos/2026-08-02/nides-says-iran-war-needs-negotiations-video
 
 正文长度：0
 
-摘要：President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.
+摘要：Former US Ambassador to Israel Tom Nides says there is no lasting military solution to the conflict with Iran, arguing that renewed negotiations involving regional allies offer the only realistic path to reopening the Strait of Hormuz and addressing Tehran's nuclear program. He also says regime change in Iran is not a practical near-term objective and that Israeli Prime Minister Benjamin Netanyahu faces growing domestic political pressure as the conflict continues without a clear resolution. (Source: Bloomberg)
 
 
 ---
 
-## Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios
+## By The Way: Headlines You May Have Missed the Week of 8/02
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios
+链接：https://www.bloomberg.com/news/videos/2026-08-02/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：Saudi Crown Prince Mohammed bin Salman told President Donald Trump in a call that he was concerned over the US’s plans for new strikes against Iran, Axios reported, citing people familiar with the conversation.
+摘要：Younger Chinese professionals moving away from the traditional baijiu drinking culture, premium bottled water gaining traction with wellness-focused consumers, and historic government buildings across Europe being converted into luxury hotels. Bloomberg News' Nathan Hager joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed. (Source: Bloomberg)
 
 
 ---
 
-## Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy
+## Wall Street’s Favorite Bet Comes Undone as Chips Whipsaw Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-02/crushed-by-kospi-rout-angry-koreans-rip-lee-and-vow-not-to-buy
+链接：https://www.bloomberg.com/news/articles/2026-08-02/wall-street-s-favorite-bet-comes-undone-as-chips-whipsaw-market
 
 正文长度：0
 
-摘要：South Korea’s retail traders have long built a reputation for embracing risk. Yet July’s punishing reversal in the Kospi has rattled even this battle-hardened cohort, exposing the limits of their tolerance for volatility.
+摘要：The one-way trade in semiconductor stocks that has defined equity markets this year is coming unglued, triggering stomach-churning volatility as investors grow increasingly concerned that the fire-hose of artificial intelligence spending won’t continue.
 
 
 ---
 
-## AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms
+## SpaceX IPO Faces First Reality Check
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-08-02/spacex-ipo-faces-first-reality-check-video
 
 正文长度：0
 
-摘要：Loan investors are pushing back for the first time in years, in a shift that will probably translate to higher borrowing costs for everyone from private equity firms to deeply indebted AI companies.
+摘要：Bloomberg Space Reporter Loren Grush says investors will use SpaceX's first public earnings report to gauge progress on Starship, Starlink, AI infrastructure and the company's long-term growth strategy following its blockbuster IPO. She says Starship's latest test marks meaningful progress, but major technical hurdles remain before the rocket can support rapid reuse and ambitious missions to the Moon and Mars. (Source: Bloomberg)
 
 
 ---
 
-## Bloomberg This Weekend 08/01/2026
+## Yen Traders Brace for More Intervention With US at Japan’s Side
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-01/bloomberg-this-weekend-08-01-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Tim Stenovec bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Seaport Research Partners Chief Equity Strategist Jonathan Golub, Utah Governor Spencer Cox, Maryland Governor Wes Moore, Oklahoma Governor Kevin Stitt, Delaware Matt Meyer, the New Yorker Editor David Remnick, Fmr. US Ambassador to Ukraine William Taylor, Schwab Center for Financial Research Head of Macro Research & Strategy Kevin Gordon and Author & Financial Expert, Benna401(k) CEO, “Father of 401(K)” Ted Benna. (Source: Bloomberg)
+摘要：Currency traders are on high alert for more joint intervention by Japan and the US when trading gets underway in Asia on Monday after coordinated operations in Tokyo and New York last week triggered a dramatic rebound in the yen.
+
+
+---
+
+## Why flights are so expensive and will likely stay that way
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html
+
+正文长度：7682
+
+摘要：Airlines are paying billions of dollars more in fuel costs this year
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Wherever volatile fuel prices head this year, don't expect bargain flights.
+Airfare in the U.S. in June was up 26.5% compared with a year earlier, according to the latest federal data.
+Airline leaders say customers continue to book even after carriers hiked fares. They told Wall Street analysts this month that they're expecting to hold onto that pricing power at least through the rest of the year, if not longer.
+Traveler Marjorie Aran said she and her husband paid a combined $800 to go from New York to Chicago in economy on United Airlines this week to visit their daughter.
+"We used to go to Chicago for a couple of hundred dollars," she said. Asked if she would skip a trip because of the fares she said no. "We can afford it."
+Airlines are betting that stays true for millions of consumers.
+The average Southwest one-way fare, for example, was $225.61 in the second quarter, up from $186.65 during the same span of 2025.
+"Despite high fuel and high prices, we're seeing really strong demand," Southwest Airlines CEO Bob Jordan told CNBC's "Squawk on the Street" in late July.
+United said it expects to pay about $6 billion more for fuel this year than it expected at the start of 2026. American Airlines forecast a $6 billion increase in fuel costs compared with last year, each a jump of a more than 50% from 2025. Both carriers said demand is still strong, even as they're passing costs on to customers with higher fares.
+"We observed minimal to no negative impact on demand from higher price points, a trend we see continuing," United Chief Commercial Officer Andrew Nocella told Wall Street analysts on the company's July 16 earnings call. The carrier expects unit revenue year over year for the rest of 2026 to rise and even exceed the second quarter's increase, he said.
+Airlines are eager to make up not just the billions of dollars more they've paid for fuel this year, but also to cover higher costs of labor, maintenance and basic operating expenses like increased airport fees.
+"Labor costs have escalated dramatically. Maintenance is off the charts in terms of escalation. And those are all costs that every single airline pays the same," United CEO Scott Kirby said on the call.
+Volatility continues
+The surprise surge in fuel costs — airlines' biggest expense after payroll — was a shock to the industry. Airlines pruned schedules this year, which can mean fewer flights per day or week on a certain route. That leaves customers with a lower number of flights to choose from and can lift fares.
+According to S&P Global Energy Platts data, jet fuel prices have eased from four-year highs in April, but are still up about 50% since Feb. 28, when the U.S. and Israel's strikes on Iran kicked off the monthslong military conflict that has choked off a main shipping channel for months.
+United said its fuel costs rose $575 million from the start of July until mid-month as it was reporting results, knocking $1.12 off of third-quarter adjusted earnings.
+In a sign of how seriously airlines were taking the turmoil in fuel markets this year, Southwest — fearing a supply crunch on the import-reliant West Coast — sent a boat filled with more than 12 million gallons of jet fuel, about a week's supply for the airline, through the Panama Canal from Houston to Los Angeles in May. It was the first time the airline had sent fuel from Texas to another U.S. destination by sea.
+U.S. Gulf Coast jet fuel was going for about $3.60 a gallon, as of Monday, according to S&P Global Energy Platts. While that's off from $4.78 a gallon in April, prices vary depending on geography and on local supply.
+The volatility that's come along with on-again, off-again ceasefires with Iran has also made it harder for airlines to schedule and price flights.
+Tightening grip on consumers
+As fares and fuel rise, the four biggest U.S. airlines — American, Delta Air Lines, United and Southwest — have been gaining share of the U.S. market.
+According to Cirium data, those carriers have 82.1% share of the seats flown by U.S. airlines this year, up from 80.7% last year and 79.7% in 2022. That increase comes even as Southwest, which carries more passengers domestically than any other, is barely growing this year.
+That increasing share for big airlines is in part because there's less competition from some smaller rivals.
+Spirit Airlines, the iconic U.S. discounter, collapsed in May, taking tens of millions of seats off the market overnight.
+Spirit's problems were bubbling for years: Costs were on the rise for labor and other expenses, many of its Airbus jets were grounded by a Pratt & Whitney engine manufacturer defect, and upmarket travel was outshining economy class. Last summer, it filed for bankruptcy protection for the second time in a less than a year, with some analysts criticizing the carrier for not doing enough in its first Chapter 11 to cut costs. The carrier shut down before dawn May 2, failing to reach a deal with bondholders, including for a potential government bailout.
+Some smaller low-cost airlines are moderating their growth, if not shrinking altogether, to save money as fuel prices remain high. According to Cirium, Avelo is shrinking and so is a combined Allegiant and Sun Country, which completed their merger in May.
+Still, JetBlue Airways, Frontier Airlines and Breeze Airways, a startup launched by JetBlue founder David Neeleman are planning to grow.
+"Despite this second-half earnings improvement, we plan to continue to maintain a conservative capacity profile given that the geopolitical backdrop remains fluid and fuel remains volatile," JetBlue CEO Joanna Geraghty said on an earnings call on Tuesday.
+JetBlue forecast an increase in unit revenue of as much as 16.5% in the current quarter.
+Frontier, which is now the largest U.S. discounter, is also enjoying increased pricing power. Its average fare revenue in the second quarter was $63.04, up from $40.94 the year before, thouh its non-fare revenue, which includes seating fees and other add-ons, was down 1% from the year-earlier period.
+The Denver-based airline is planning to grow capacity as much as 18% this quarter and forecast unit revenue growth of 20%. It plans to expand about 7% in the fourth quarter.
+The increase in revenue has helped offset higher fuel prices, Frontier CEO Jimmy Dempsey said in an interview Thursday. That's key to stabilizing the carrier, which lost money in five of the past six years.
+"There's a lot of energy in the airline about bringing us back to profitability," Dempsey said.
+Frontier, JetBlue and Allegiant are planning to introduce first-class seats in the coming months, roomier, more expensive options that executives say will cater to customers looking to pay up for more space.
+Post-summer test
+The next few months, when the big summer travel rush ends, will determine just how much airlines can pass along to customers. And the summer season is ending earlier and earlier, with August not as strong of a demand month as it used to be. However, carriers also say that for international travel, customers are booking more often in the fall and other traditionally off-peak periods, to avoid crowds, high prices and oppressive heat.
+Airport checkpoint screenings are down 0.5% from last year through July 24, and down 2.6% from the four weeks that ended that day, David Vernon, airline analyst at Bernstein, said in a Monday note.
+Justin Wittekind, 27, a podcast writer and researcher, who was on his way back to Ontario, California, from New York said he paid about $340 on United. He said he would likely think about drawing the line at $400 for a round trip.
+"But if I have to go home ... I'll pay $400, but I wouldn't like it," he said.
+
+</details>
 
 
 ---
@@ -241,44 +299,54 @@ Still to come is the November release of Lionsgate's "The Hunger Games: Sunrise 
 
 ---
 
-## FIFA tests the limits of private equity in sports with World Cup subsidiary sale
+## Donald Trump says he cancelled Iran strikes after Middle East allies’ request - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtrbTYtQlNUbXJqenRFN2JkS1E0dktsNFB1bW9TSkUzMHRKWUlZalAyRW1fU2Q0ZXJRQnQ0SjRqdlZZeFlVMWNpZWdaekFTWlFoZlBmY3VZTVRFM19BcTdNQUp3emRkNG5fcFU1MEdlQmNBc0pZaDFMQjRLcjdIMW9lRXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4777
+正文长度：0
 
-摘要：UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtrbTYtQlNUbXJqenRFN2JkS1E0dktsNFB1bW9TSkUzMHRKWUlZalAyRW1fU2Q0ZXJRQnQ0SjRqdlZZeFlVMWNpZWdaekFTWlFoZlBmY3VZTVRFM19BcTdNQUp3emRkNG5fcFU1MEdlQmNBc0pZaDFMQjRLcjdIMW9lRXM?oc=5" target="_blank">Donald Trump says he cancelled Iran strikes after Middle East allies’ request</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Global soccer may be finding the limits to private equity's stampede into sports.
-A plan by FIFA to sell a minority stake in a new subsidiary — FIFA Forward Enterprise, or FFE — that would control the business side of the World Cup has faced swift backlash. UEFA, the governing organization of European soccer, and Concacaf, the organization controlling North American, Central American and Caribbean soccer, have both rejected the proposal out of concern for outside influence.
-FIFA said earlier this week it plans to raise $4.2 billion from third parties, valuing FFE at about $20 billion. Thrive Capital, a private equity firm led by Joshua Kushner, has already backed the plan.
-But on Thursday, UEFA threatened to boycott FIFA competitions and the World Cup if the plan moves forward.
-"The World Cup cannot be treated as an investment product," UEFA said in a statement. "No part of it should ever be surrendered to private investors. The World Cup is not for sale."
-FIFA defended the proposal late Thursday night, saying it would move forward with a vote among its member associations despite mounting criticism. UEFA and Concacaf together represent 96 of the 211 members of FIFA.
-"We respect the feedback and concern aired in public and reaffirm our commitment to an open and democratic consultation," its statement read. "No single entity can claim to represent all 211 member associations around the world."
-FIFA blamed "incorrect media reports" for the negative response to the plan and said that without the support of a majority of the member associations, its commercial activities would remain unchanged and FFE would not move forward.
-Carlos Cordeiro, a senior advisor to FIFA President Gianni Infantino, announced his immediate resignation in protest of the plan.
-"Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for FIFA's Member Associations, a bad deal for football, and a bad deal for the long-term future of the game," Cordeiro said in a statement posted to LinkedIn Friday.
-While there's no certainty that bringing on institutional capital would affect FIFA operations, it opens the door to outside influence driven by financial gain. While neither UEFA nor Concacaf specifically brought up FIFA's past ties to alleged bribery, but UEFA did cite the soft pressure of shareholder influence as one of the reasons for its rejection of FIFA's plan.
-"Football's future cannot be dictated by the expectations of those whose first duty is to maximise financial return," UEFA said. "The moment external investors acquire ownership interests in FIFA competitions, football changes forever. Commercial return becomes a permanent obligation. Investor expectations become a daily pressure."
-FIFA pushed back on the characterization of its plan as "selling" the World Cup.
-"Nobody is selling football," FIFA said in a statement. "This is not something FIFA would ever entertain."
-Private equity uneasiness
-Private equity has increasingly pushed the envelope to securitize sports. Investors are attracted to their steady cash flows and growth opportunities in part as an anti-artificial intelligence bet.
-"I think anywhere where there's a product that people are turning up for that's entertainment, and it's creating an economic environment, I think it's possible that [private equity investment] will happen," Apollo Sports Capital Chief Strategy Officer Sam Porter said during a Wall Street Journal Sports conference earlier this month.
-Still, the sports world has set limits around private equity's involvement. While minority stakes often come with limited to no governance, taking on private capital definitionally involves a new incentive — increasing the value of that investment.
-The NFL began allowing sales of up to 10% of teams to select private equity firms in 2024. MLB allows a single fund to own up to 15% of a club with total private equity ownership of up to 30%. The NBA and NHL have the same 30% aggregate maximum, but they have higher individual fund thresholds, capping what any one fund can own at 20%.
-The next frontier for private equity may be in college sports, including the potential for investing directly in teams. This hasn't happened yet, in large part because of a general uneasiness at the collegiate level about the ramifications of taking on private money.
-But as more investors pile into sports and drive valuations for major leagues higher, would-be stakeholders have been looking for new ventures.
-"People view that sports is pure," said Marc Lasry, co-founder of private equity firm Avenue Capital Group, in an interview with CNBC Sport last year. "The hurdle is, at the end of the day, always, no one wants to be first."
-— CNBC's Jessica Golden contributed to this report.
+---
 
-</details>
+## Freemasons seek a new generation of members - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmIxMURKSFNtNXRwUlluaEtsYzAzYTNhRHhOQ0ZfSlVXX1NuMktzMnRrWVRiYnBNbmVTQmt2WkxhTFZuMU5DSUJmWHhoZEtIMGFaVXNmOXdFdS1tOWtLZmpoWW8tYl9WcUE5Vl9GZFV2SldqM3pBaFNmdEJxNjFLSUwyZXU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmIxMURKSFNtNXRwUlluaEtsYzAzYTNhRHhOQ0ZfSlVXX1NuMktzMnRrWVRiYnBNbmVTQmt2WkxhTFZuMU5DSUJmWHhoZEtIMGFaVXNmOXdFdS1tOWtLZmpoWW8tYl9WcUE5Vl9GZFV2SldqM3pBaFNmdEJxNjFLSUwyZXU?oc=5" target="_blank">Freemasons seek a new generation of members</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Air France-KLM targets easyJet passengers during takeover turmoil - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHRUMDF4VWhKUzh5aHRLNF9HR2tlYjV3aDYzRDdJYXVKS0J1VFJzcV94TVllODJJaHFXTlMyYzFJWlZzQ3p6Y0EzZ2F5RjlGQ3JTdzQ2QTFpOVRwTWtfUlFzUzByaWdnWElSZ1RnYTEtUERpUmNCMHZwT3F1OG1yUjhEemQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHRUMDF4VWhKUzh5aHRLNF9HR2tlYjV3aDYzRDdJYXVKS0J1VFJzcV94TVllODJJaHFXTlMyYzFJWlZzQ3p6Y0EzZ2F5RjlGQ3JTdzQ2QTFpOVRwTWtfUlFzUzByaWdnWElSZ1RnYTEtUERpUmNCMHZwT3F1OG1yUjhEemQ?oc=5" target="_blank">Air France-KLM targets easyJet passengers during takeover turmoil</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Morgan Stanley’s IPO after-party: a wealth management bonanza - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOV9Ia3ZGN09FaE81ODJWUVBNNVB3eGxfbVdVUHhBdGtjQmR4ODVhZ1JJSVlIalhFMmM4cnZZbTBMbnNoaHJJUWlUa0k4ZE15ZTBkeGh0a3NqTkw4S1N3YXRDRVNwUnB4aG42b3RQTGU0OFY0Si1xc2Rsci1tUFZfMXpmVzA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOV9Ia3ZGN09FaE81ODJWUVBNNVB3eGxfbVdVUHhBdGtjQmR4ODVhZ1JJSVlIalhFMmM4cnZZbTBMbnNoaHJJUWlUa0k4ZE15ZTBkeGh0a3NqTkw4S1N3YXRDRVNwUnB4aG42b3RQTGU0OFY0Si1xc2Rsci1tUFZfMXpmVzA?oc=5" target="_blank">Morgan Stanley’s IPO after-party: a wealth management bonanza</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -296,119 +364,67 @@ But as more investors pile into sports and drive valuations for major leagues hi
 
 ---
 
-## Humbling times for markets - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdzUHM3M3NlQlhvNVFub2FWN0pJRnBSeWV5cGlUY21SMHRXTGRaS2I5ZlVSdjJteUdvdU1rU0RpTzFWRWhhMWZnNDBtMzJkMk95a19peUJUVElfWDNlYzFKUFNNcGNJZjhoT3dlUXB2cWt4VUtJaFRIcElPZjJSX0FycGM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdzUHM3M3NlQlhvNVFub2FWN0pJRnBSeWV5cGlUY21SMHRXTGRaS2I5ZlVSdjJteUdvdU1rU0RpTzFWRWhhMWZnNDBtMzJkMk95a19peUJUVElfWDNlYzFKUFNNcGNJZjhoT3dlUXB2cWt4VUtJaFRIcElPZjJSX0FycGM?oc=5" target="_blank">Humbling times for markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Fifa abandons $20bn investment plan after global backlash - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeW1kM0Z6dmZsS2NCRFlKbWZQY2E4blZPcW94aG1RYzNVS3FySklBQlZkZUJpallKaGdBdjl3dTU3dFdxUDZuck05RUV5R2hielh1SmNxZTZyVzIyVWgxYkZ2TTI2MHJvMjRZbHdyakJLVG5CYWN1MlZQS0dDSUtkWHUxMXU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeW1kM0Z6dmZsS2NCRFlKbWZQY2E4blZPcW94aG1RYzNVS3FySklBQlZkZUJpallKaGdBdjl3dTU3dFdxUDZuck05RUV5R2hielh1SmNxZTZyVzIyVWgxYkZ2TTI2MHJvMjRZbHdyakJLVG5CYWN1MlZQS0dDSUtkWHUxMXU?oc=5" target="_blank">Fifa abandons $20bn investment plan after global backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Amazon completes $50bn investment in OpenAI - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs?oc=5" target="_blank">Amazon completes $50bn investment in OpenAI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## AI’s ‘cookie banner’ moment: EU labels come for the bots - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0?oc=5" target="_blank">AI’s ‘cookie banner’ moment: EU labels come for the bots</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters
+## Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5" target="_blank">EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5" target="_blank">Five dead, 41 missing after Indonesian ferry catches fire, authorities say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters
+## Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5" target="_blank">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5" target="_blank">Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Capital One says it closed Trump Organization's accounts after anti-money laundering probe - Reuters
+## OPEC agrees September oil hike, completing rollback of voluntary cuts - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5" target="_blank">Capital One says it closed Trump Organization's accounts after anti-money laundering probe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5" target="_blank">OPEC agrees September oil hike, completing rollback of voluntary cuts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Thirteen die in tourist plane crash over Peru's Nazca Lines - Reuters
+## FIFA chief Infantino's position looks unacceptable, head of European leagues says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPak9YVGEza1hjVWwtaWNyTHlrLVJmeFp2UDZCMzB0SUh2bGV0cUZjNFhQVnFBX1dzTW1HQlkzREVPbzYtLXVYeVpmeTZhUjRVZHh6LXJ0anJwbXdQNDM2Sk10NUhlWHN1Q1ZTZzRUMW5IWFkzRDV3cEhLRUlTckxUWEVkZjhkSXh6U1ZqN09wVGRWZ2JUcHV0OWYzeTRaVzMtQXlVSXpLVVdkeFczYTVmTC01MDZBZ1dQbDdZRXhid0xpTmRp?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5" target="_blank">Thirteen die in tourist plane crash over Peru's Nazca Lines</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPak9YVGEza1hjVWwtaWNyTHlrLVJmeFp2UDZCMzB0SUh2bGV0cUZjNFhQVnFBX1dzTW1HQlkzREVPbzYtLXVYeVpmeTZhUjRVZHh6LXJ0anJwbXdQNDM2Sk10NUhlWHN1Q1ZTZzRUMW5IWFkzRDV3cEhLRUlTckxUWEVkZjhkSXh6U1ZqN09wVGRWZ2JUcHV0OWYzeTRaVzMtQXlVSXpLVVdkeFczYTVmTC01MDZBZ1dQbDdZRXhid0xpTmRp?oc=5" target="_blank">FIFA chief Infantino's position looks unacceptable, head of European leagues says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say - Reuters
+## Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5" target="_blank">Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5" target="_blank">Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
