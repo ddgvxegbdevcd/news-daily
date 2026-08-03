@@ -1,47 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-08-03 03:31:33
+更新时间：2026-08-03 14:51:42
 
-## China Factory Slump Reinforces Signs of Economic Slowdown
+## US Copper Inflows Surge as Market Awaits Trump Tariff Call
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-03/china-s-factory-activity-gauge-slows-as-economy-weakens
+链接：https://www.bloomberg.com/news/articles/2026-08-03/us-copper-inflows-surge-as-market-awaits-trump-tariff-call
 
 正文长度：0
 
-摘要：China’s manufacturing activity for export-oriented firms unexpectedly slowed in July, according to a private survey, adding to signs of economic weakness.
+摘要：Copper is pouring into the US at the fastest rate in at least 12 years as traders position ahead of President Donald Trump’s decision on tariffs on refined imports.
 
 
 ---
 
-## Why Bonds Are at Center of US-Japan Intervention on Yen
+## Stocks Rally as Amazon Hits $3 Trillion Market Cap; Chips Slide
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-03/why-bonds-are-at-center-of-us-japan-intervention-on-yen-video
+链接：https://www.bloomberg.com/news/articles/2026-08-03/us-futures-climb-as-focus-shifts-back-to-earnings-oil-slides
 
 正文长度：0
 
-摘要：The US is protecting its own bond market from spillovers by coordinating interventions with Japan, including liquidity mechanisms, explains State Street Investment Management Senior Fixed Income Strategist Masahiko Loo. He also explains why the next key level to watch is 155 yen per US dollar. (Source: Bloomberg)
+摘要：US stocks rose into the first trading day of the month as attention turned to this week’s heavy slate of earnings reports.
 
 
 ---
 
-## Yen Bears Face Risks on Joint US-Japan Action, Strategists Say
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-02/yen-bears-face-risks-on-joint-us-japan-action-strategists-say
-
-正文长度：0
-
-摘要：Strategists say the coordinated intervention between Japan and the US increases the risk for anyone betting against the yen and puts pressure on Japanese stocks. President Donald Trump said the US joined a currency-market intervention that lifted the Japanese currency last week as a sign of friendship with Japan. Officials in both countries have said they will not hesitate to intervene in the currency markets again.
-
-
----
-
-## Oil Falls on Iran Deal Optimism, Yen Strengthens: Markets Wrap
+## Stocks, Bonds Rise as US-Iran Hopes Spur Oil Drop: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +36,111 @@
 
 正文长度：0
 
-摘要：Oil fell and Treasuries rose after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz. Asian stocks fell as South Korean chipmakers tumbled.
+摘要：Wall Street traders lifted stocks and bonds as the latest sign of easing Middle East tensions sank oil prices, allaying worries about inflation.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Aug. 3
+## Senators Urge CFTC to Curb Wildfire Prediction Market Bets Over Arson Concerns
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-02/latest-oil-market-news-and-analysis-for-aug-3
+链接：https://www.bloomberg.com/news/articles/2026-08-03/prediction-market-bets-on-wildfires-draw-scrutiny-from-senators
 
 正文长度：0
 
-摘要：Oil fell after US President Donald Trump said new talks with Iran would begin on Monday after he called off a planned attack on the Islamic Republic.
+摘要：A group of Democratic senators urged the Commodity Futures Trading Commission to rein in prediction market trading on wildfires, expressing concern that individuals could be tempted to commit arson to make their bets pay off.
+
+
+---
+
+## Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss
+
+正文长度：0
+
+摘要：American Bitcoin Corp., the Trump family-backed miner launched last year just before the cryptocurrency tumbled from record highs, posted a third consecutive quarterly loss after a decline in the value of its holdings.
+
+
+---
+
+## Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html
+
+正文长度：2070
+
+摘要：It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Visa on Monday said it is acquiring fraud detection startup BioCatch for $2.4 billion in cash, expanding the payment giant's push into cybersecurity as banks confront a surge in artificial intelligence-powered scams and account takeovers.
+Under the deal, Visa will get BioCatch's behavioral biometrics platform, which analyzes data including keystroke timing, touch screen pressure and other signals to distinguish real users from scammers and bots. Visa said it is acquiring the firm from London-based private equity firm Permira and other investors.
+The acquisition underscores how payments companies are racing to strengthen fraud defenses as generative AI makes attacks cheaper, faster and more convincing. Visa estimates that scams and account takeovers cost the global economy more than $1 trillion annually.
+It is also the latest move by Visa to expand its value-added services business, which sells fraud prevention, cybersecurity and analytics software to financial institutions and has become one of the company's fastest-growing divisions.
+"BioCatch will help our clients stop fraud before it reaches the point of payment," Andrew Torre, Visa's president of value-added services, said in a statement.
+The acquisition is expected to close by the end of Visa's fiscal second quarter in 2027, subject to regulatory approvals. Other financial terms weren't disclosed.
+While the Israeli startup said it currently protects 760 million users across roughly 350 banks, Visa's global rails connect nearly 14,500 financial institutions, processing over 329 billion transactions annually worth more than $17 trillion.
+In a blog post accompanying the announcement, BioCatch said joining Visa will allow it to scale its impact amid a rising tide of global fraud.
+"The reality is, as a society and industry, we are not winning this fight," the firm said. "The value of fraud and scam losses and the number of fraud and scam attempts, mule accounts, and victims of these financial crimes all continue to grow (in some cases, exponentially) every year, all around the world."
+
+</details>
+
+
+---
+
+## Are Americans ready to embrace tiny 'cars'? These companies think so
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html
+
+正文长度：7252
+
+摘要：Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The next big idea in the U.S. automotive industry may be small.
+A growing number of companies, including auto giant Stellantis, are betting Americans are ready to embrace smaller, less expensive vehicles amid yearslong affordability concerns for the U.S. auto industry.
+But the vehicles aren't technically "cars." They're electric low-speed vehicles, or LSVs, that are essentially a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.
+"We have seen the popularity of many different form factors of electric, small low-speed vehicles continuing to grow," Keith Simon, CEO and cofounder of Waev, which owns several LSV brands such as ex-Polaris brand GEM, told CNBC. "I think it's evident by the number of new entrants across many different vehicle types. There's a lot of new players. … It's been growing significantly."
+Attention on such vehicles has been magnified during the past year by President Donald Trump. He has discussed opening U.S. roadways and regulations to better allow for smaller vehicles, including LSVs from Europe and Japan's "Kei cars," on U.S. roadways.
+"I'm giving all American car companies the right to build what are known as tiny little tiny cars," Trump said during a speech last week at General Motors' Milford Proving Grounds in Michigan. "I go over to Europe and I see these little cars all over the place and I say, 'Why aren't we making them?'"
+Small cars have historically not performed well in the U.S., but those involved with LSVs believe they could be a growth market for Americans who want an affordable, easy-to-drive vehicle for short distances. They also can typically be charged overnight with a traditional household outlet compared with typical, more expensive EVs that need special chargers that can cost thousands of dollars.
+Reliable data on the U.S. LSV market is limited since of the vehicles don't need to be registered, but they're part of a larger "micromobility" segment, which consulting firm McKinsey & Company last year estimated could more than double in size globally by 2030.
+"The global micromobility market is on the upswing. McKinsey estimates that the market was worth about $160 billion in 2022; by 2030, it's estimated to reach $340 billion," according to its McKinsey's Center for Future Mobility. That includes North America's market growing from $20 billion in 2022 to $35 billion by 2030.
+For U.S. consumers, companies such as Stellantis' Fiat, Waev and startup Chip Motors are focusing on electric streel-legal LSVs, many of which are starting around $15,000, a fraction of the nearly $50,000 average price tag for a new traditional car or truck.
+Tiny cars, tiny market
+LSVs vary in form and can be heavily customized, including the number of seats, electric range and available features, such as optional doors. They're typically used for short distances, often for people living in closed community settings such as retirement homes or condominium complexes. Their main competition has traditionally been golf carts, not small cars.
+"The use case for these kind of vehicles has become more interesting as people have evolved their lifestyles, and a vehicle like this fits into their lifestyles," Simon said.
+The market is loosely regulated compared to the light-duty vehicle market that dominates the U.S.. but the vehicles must not go faster than 25 mph and have to be equipped with standard safety features such as headlamps, turn signals, mirrors and a windshield that conforms to the federal motor vehicle safety standard. They're not required to have airbags and they're allowed on roadways with speed limits of up to 35 mph.
+"The market demand is here now and you don't need nearly as much capital to bring a LSV to market," said Jameson Detweiler, CEO of Chip Motors, which last month revealed a new LSV that's expected to go into production early next year. "What we've seen in the market … is just incredible latent demand."
+Detweiler estimates the street-legal LSV market to currently be in the hundreds of thousands of units in annual sales, but below 500,000. He believes as more companies such as his enter the market, the more awareness and sales will grow.
+But for now, they're small vehicles for a tiny part of the U.S. market, according to Stephanie Brinley, principal automotive analyst at Mobility Global.
+"They're less expensive than a normal car, but they're not expected to be a normal car, and and people buy them as recreational vehicles," she said. "There's great uses for them, but these are not part of of a day-to-day work-life commute for most people."
+New entrants
+Detweiler's company describes its vehicles as a "life utility vehicle," named Chip. It looks like a beefed-up golf cart with a smiley, digital interactive face. The four-passenger vehicle is expected to start at $15,000 for an entry-level model, and it can also come in a six-seat model.
+Detweiler plans to grow Chip to eventually be capable of self-driving technologies. In the meantime, he said the privately funded company expects it to be used more as a second vehicle, with plans to offer a service in which Chip employees can virtually remote into the vehicle to assist with driving and parking, he said.
+"I really value and like the idea of when the future seems fun and promising," said Detweiler, a Florida native, wearing a Timon and Pumbaa shirt from Disney's "Lion King." "A lot of technology is probably headed more 'Blade Runner.' We want to head more 'Jetsons' era."
+The company expects to begin sales in Miami, which officials say is a popular market for such vehicles.
+The Florida coastal city also is where Stellantis' Fiat brand is first offering its Topolino vehicle, which also starts around $15,000 and features the styling of the Italian brand's iconic 500 city car.
+The Topolino, which translates to "little mouse" in Italian, is actually a quadricycle. It has grown in popularity in Europe and the company is starting to sell it in limited numbers in the U.S.
+Fiat CEO Olivier Francois is using the vehicle as a test bed to potentially refocus the famed Italian brand, which has struggled for years in the U.S., to focus on micromobility rather than traditional cars.
+"I want Fiat to become the brand of micromobility within Stellantis," Francois told CNBC. "I want to use America to test and learn. And, hey, if along the way I do some good volumes and good business, it doesn't hurt."
+The brand re-entered the U.S. market in 2011 after a nearly 30-year absence with its small Fiat 500, but it never become a mass market success like it is in Europe.
+In the brand's first full year in the U.S. in 2012, Fiat sold 43,772 vehicles domestically. Those sales dwindled to roughly 1,300 Fiat vehicles sold last year in the U.S., with its only vehicle being an all-electric version of the Fiat 500.
+Francois admits while the 500 EV, starting at $35,700, may be too expensive and too small for many Americans, he remains optimistic about the Topolino testing micromobility in the U.S.
+"While everyone is explaining to me that small is a limit in the U.S., I think that now we go so small that it's going to become exciting. We will see the reaction," he told CNBC. "The fun thing with Topolino is we double down on small."
+
+</details>
 
 
 ---
@@ -228,203 +306,132 @@ That would mark the start of a two-year run unlike any in recent Wall Street his
 
 ---
 
-## Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html
-
-正文长度：3358
-
-摘要：Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Clear Street, the prime brokerage startup that recently shelved plans for its own IPO, is now aiming to give investors access to some of Silicon Valley's hottest private companies before they go public.
-The firm is close to announcing a new platform designed to let accredited investors buy interests in late-stage private companies, starting with AI software titan Databricks, valued this month at $188 billion, CNBC is first to report.
-"The goal is to remove friction and give more people the ability to invest in more products," Uri Cohen, CEO and co-founder of Clear Street, said in an interview. "A lot of the wealth creation has been in private markets, and more and more retail investors and smaller investors want to be part of that."
-More startups are staying private for longer, meaning much of their value creation is taking place before an initial public offering. That has fueled growing demand from rich investors seeking exposure to companies like Databricks, Anthropic and OpenAI before they debut on public markets.
-Last week, CNBC reported that Goldman Sachs has created a new platform to expand its offerings for wealthy clients and family offices who increasingly want direct stakes in fast-growing private companies.
-While Clear Street's pitch centers on democratizing high-growth tech, the mechanics of the deals highlight a tricky reality in today's private markets: Databricks isn't directly involved.
-Instead of buying stock issued by Databricks, Clear Street investors acquire an interest in a special purpose vehicle (SPV) that holds a stake in a third-party fund that owns the shares.
-To Databricks, the shareholder of record remains that external fund, where they remain legally parked, according to Clear Street.
-Earlier this year, AI startups like Anthropic cracked down on unauthorized secondary transfers, voiding unapproved SPVs and indirect share sales that bypassed corporate transfer rules.
-Cohen, the CEO of Clear Street, said that his firm, as counterparty, would stand behind the deals: "If there is a risk, we are taking it."
-For its part, a Databricks spokesperson said in an email that the startup "does not have any engagement or relationship with Clear Street."
-Bond sale, 2027 IPO?
-Clear Street will have as many as 30 startups on its platform by yearend, mostly tech firms in the $5 billion to $20 billion valuation range that are roughly six months to two years out from an IPO, Cohen said.
-To support the push, Clear Street is also launching dedicated private company equity research headed by analyst Owen Lau, in what Cohen called an effort to bring public-market-style transparency to traditionally opaque private markets.
-The expansion comes at a key moment for Clear Street, itself.
-The firm, which was last valued at nearly $12 billion in a private funding round earlier this year, in February paused its own IPO plans amid broader market volatility that hit broker and fintech multiples.
-Despite putting its listing on hold, the firm is cash-flow positive and bolstered its liquidity with a $400 million investment-grade bond offering, giving it the runway to build out its private market infrastructure, Cohen said.
-"We're in a position of strength, so the decision was shelved for better timing," Cohen said. "We're definitely going to look towards a '27 listing, depending on the market conditions."
-
-</details>
-
-
----
-
-## ‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html
-
-正文长度：3637
-
-摘要：Sony and Marvel's "Spider-Man: Brave New Day" is expected to haul in around $270 million domestically over its debut weekend.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Spider-Man is already webbing up a massive box-office haul.
-Sony and Marvel's "Spider-Man: Brand New Day" secured $72 million in preview ticket sales, the highest collection for any domestic film in Hollywood history. The previous record holder was 2019's "Avengers: Endgame," which tallied $60 million ahead of its opening weekend.
-"The demand for 'Spider-Man: Brand New Day' is nothing short of astonishing," said Paul Dergarabedian, head of marketplace trends at Rentrak. "For a film to earn more than $70 million in pre-shows is unprecedented, and it reflects massive enthusiasm among moviegoers to head to the multiplex for the latest Marvel epic."
-The newest solo Spider-Man film starring Tom Holland benefited from Wednesday early access screenings as well as Thursday night previews. It is expected to haul in around $270 million domestically over its debut weekend, although some box-office analysts foresee an even bigger bounty.
-The previous Spidey flick, "Spider-Man: No Way Home" currently stands as the second-highest domestic opening of all time with $260 million across its debut weekend in 2021. "Endgame" tallied $357 million during its first three days in theaters in 2019. "Brand New Day" is expected to surpass "No Way Home," but remain behind "Endgame."
-"While pre-shows are a very strong indicator of potential opening-weekend success, several factors can come into play, including a heavily front-loaded preview and opening day driven by fans motivated by the shared urgency of opening-weekend FOMO [fear of missing out]," Dergarabedian said.
-"Endgame" managed its historic opening weekend with the help of 24-hour showings and extra screenings. There are late-night and early morning screenings of "Brand New Day" to meet demand for tickets, but it's unclear if the programming is on the same scale as it was for "Endgame."
-And, "Brand New Day" does not have the added benefit of an Imax release, as those screens have been reserved for Christopher Nolan's and Universal's "The Odyssey."
-The Spider-Man installment will still benefit from premium large format screenings, however. The film has been programmed for ScreenX, 4DX, Dolby Cinema and HDR by Barco as well as premium offerings that are proprietary to the likes of AMC, Regal, Cinemark and regional players.
-ScreenX represented $1.8 million in Thursday ticket sales domestically and is expected to reach $4 million by the end of the weekend. Meanwhile, 4DX has tallied around $1.3 million domestically and is set to hit $4.5 million over the three-day debut.
-"Brand New Day" arrives at the tail end of July, and the bulk of its box office will be reflected during the month of August. That's good news for the domestic box office. Typically, August is the softest month on the summer movie calendar. With "Brand New Day," the theatrical industry gets a momentum boost heading into the fall movie season.
-The domestic box office has collected $5.6 billion in ticket sales this year through Sunday. That's 16% behind 2019 levels, the last benchmark before the Covid pandemic shuttered movie theaters and paused productions.
-However, the 2026 summer corridor is down just 9% from the 2019 comparison, standing at $3.05 billion versus $3.36 billion seven years ago.
-That gap could narrow even further with Imax extending coveted screenings of "The Odyssey" into September and as "Brand New Day" plays through the rest of summer.
-Still to come is the November release of Lionsgate's "The Hunger Games: Sunrise on the Reaping" and the hotly expected double feature of Warner Bros.' "Dune: Part Three" and Disney's "Avengers: Doomsday" due in theaters Dec. 18.
-
-</details>
-
-
----
-
-## Trump says Iran talks to resume after US called off major attack - Financial Times
+## Italy’s Giorgia Meloni bets big on nuclear power revival - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdYT0w5aEwyd1FuRi1yb0ItbDFNaUVEeVlwLVZvWnItTEtFS2MtUHdvOWx4NUUwY25GbWxKT1dKWDZjMllfNlN5OHVBeVM3aGpHZTRmemo1dTlLOVU2SUw4VWp2eGJKQllGUUZsZ2hqdWM0QjBiWVJVcTJUV2lEblJxbi0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5" target="_blank">Trump says Iran talks to resume after US called off major attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdYT0w5aEwyd1FuRi1yb0ItbDFNaUVEeVlwLVZvWnItTEtFS2MtUHdvOWx4NUUwY25GbWxKT1dKWDZjMllfNlN5OHVBeVM3aGpHZTRmemo1dTlLOVU2SUw4VWp2eGJKQllGUUZsZ2hqdWM0QjBiWVJVcTJUV2lEblJxbi0?oc=5" target="_blank">Italy’s Giorgia Meloni bets big on nuclear power revival</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up - Financial Times
+## US gas guzzlers see off Europe’s EVs in latest round of car wars - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5" target="_blank">AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5" target="_blank">US gas guzzlers see off Europe’s EVs in latest round of car wars</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US - Financial Times
+## How US drinkers fell out of love with Bud Light - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1CcEpVQm1XUVB6Vk9uSG51dlYwRGh5NU1wRGJfNnYwZXlaSkhVQ0NhekdUVHNiYXIySF83cEF2Z3FPUHg3Z1JDN2NKSERMcjFYT250ZVQ4SDZCUmt0RktwX3B4ejQzblBCT3ZQXzVLSkdTNWZXS1FjUVV5ZFZFT184cDY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1CcEpVQm1XUVB6Vk9uSG51dlYwRGh5NU1wRGJfNnYwZXlaSkhVQ0NhekdUVHNiYXIySF83cEF2Z3FPUHg3Z1JDN2NKSERMcjFYT250ZVQ4SDZCUmt0RktwX3B4ejQzblBCT3ZQXzVLSkdTNWZXS1FjUVV5ZFZFT184cDY?oc=5" target="_blank">‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5" target="_blank">How US drinkers fell out of love with Bud Light</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Hugo spritz boom shakes Aperol’s fizz - Financial Times
+## Wall Street learns to love blockchain - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3F6MnRFMTlpTmZYRzRFaHZmYV9oSGd1RWVCUjNpai1oNEJrdEFRR3lPc1IzVE1idHR0N2RSdFlYSkpRVEtqTmk2em1ETTVPRmZmWGtoOU1aM2xWWDNDNnJuX0s2T1hqWGNyWDVxeGtqVTRiZVJBZHNqRUI3alF2Si12WXI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3F6MnRFMTlpTmZYRzRFaHZmYV9oSGd1RWVCUjNpai1oNEJrdEFRR3lPc1IzVE1idHR0N2RSdFlYSkpRVEtqTmk2em1ETTVPRmZmWGtoOU1aM2xWWDNDNnJuX0s2T1hqWGNyWDVxeGtqVTRiZVJBZHNqRUI3alF2Si12WXI?oc=5" target="_blank">Hugo spritz boom shakes Aperol’s fizz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5" target="_blank">Wall Street learns to love blockchain</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump says he cancelled Iran strikes at request of Middle East nations - Financial Times
+## Japan vows further yen intervention with US if needed - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtrbTYtQlNUbXJqenRFN2JkS1E0dktsNFB1bW9TSkUzMHRKWUlZalAyRW1fU2Q0ZXJRQnQ0SjRqdlZZeFlVMWNpZWdaekFTWlFoZlBmY3VZTVRFM19BcTdNQUp3emRkNG5fcFU1MEdlQmNBc0pZaDFMQjRLcjdIMW9lRXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BZYkpxbTJJTU4xdUtjeGluTTBtZm9CZjRlSjAtQ2oxcEg3NWt0eG5HVzlqX0dlZHJDc2FvU3VTTlNCQ1ZrVzB5UWtOSnNpZGZKMl9MXzlUN2ZycFdDcXZhTTY2Vk9aLWsya0VzZnFUSVRCSDBfMmdHUFRCR1pCSUVaaVc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtrbTYtQlNUbXJqenRFN2JkS1E0dktsNFB1bW9TSkUzMHRKWUlZalAyRW1fU2Q0ZXJRQnQ0SjRqdlZZeFlVMWNpZWdaekFTWlFoZlBmY3VZTVRFM19BcTdNQUp3emRkNG5fcFU1MEdlQmNBc0pZaDFMQjRLcjdIMW9lRXM?oc=5" target="_blank">Donald Trump says he cancelled Iran strikes at request of Middle East nations</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BZYkpxbTJJTU4xdUtjeGluTTBtZm9CZjRlSjAtQ2oxcEg3NWt0eG5HVzlqX0dlZHJDc2FvU3VTTlNCQ1ZrVzB5UWtOSnNpZGZKMl9MXzlUN2ZycFdDcXZhTTY2Vk9aLWsya0VzZnFUSVRCSDBfMmdHUFRCR1pCSUVaaVc?oc=5" target="_blank">Japan vows further yen intervention with US if needed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## 5.6-magnitude earthquake strikes north of Egypt's Suez, no damage reported - Reuters
+## Denmark begins extended military conscription in response to Russia, Trump - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjE3eW1QaE5nM2hJVXA3OEhrblV6RkJqNTZMWVVrWTZxcTFqRkh4QllhTEJVUWZ3emQ2ZjhCYm5fV1dJdkpBOHhFU21SZzluQlNXMlozaWxGMy1GNnRuamVvUW1xaFlVcTVxYlFtNzRBLWJDZzQ0UUIxUjhNRFhoWmhBUjhiZktWVzdVMmlLcmQwWmZmNzRxaE9Qdmk4T1V2RDl6ZmRn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjE3eW1QaE5nM2hJVXA3OEhrblV6RkJqNTZMWVVrWTZxcTFqRkh4QllhTEJVUWZ3emQ2ZjhCYm5fV1dJdkpBOHhFU21SZzluQlNXMlozaWxGMy1GNnRuamVvUW1xaFlVcTVxYlFtNzRBLWJDZzQ0UUIxUjhNRFhoWmhBUjhiZktWVzdVMmlLcmQwWmZmNzRxaE9Qdmk4T1V2RDl6ZmRn?oc=5" target="_blank">5.6-magnitude earthquake strikes north of Egypt's Suez, no damage reported</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5" target="_blank">Denmark begins extended military conscription in response to Russia, Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says Iran talks to take place on Monday, sets no deadline for deal - Reuters
+## Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5" target="_blank">Trump says Iran talks to take place on Monday, sets no deadline for deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5" target="_blank">Spain's Ceuta overwhelmed as thousands remain after migrant border rush</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil tumbles as Trump cancels attack on Iran to reach nuclear deal - Reuters
+## US signs deal to boost output of parts for Patriot, THAAD interceptor systems - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5" target="_blank">Oil tumbles as Trump cancels attack on Iran to reach nuclear deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5" target="_blank">US signs deal to boost output of parts for Patriot, THAAD interceptor systems</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yen leaps after intervention, leaving the dollar bruised - Reuters
+## WestJet flight attendants to end strike after reaching tentative wage deal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXpfRUdtOGNadXREWXpDZmVoUmQtVlJCdS12NzV3S253d2NLMmpVTVJBeXNhdmk0T2hMaThCdUNnaXMxcEZrR1JtOEtxLUFsaEpfNFlnY1Y0LTJISkFqN3RnRkZCRWxzaHllRGxZLV83ZTlIX1RtQ2RkQTVoQlk0Rnc5bzFCTUluNnI4QTY1b1YwaDlMNTg1amJwT05MVUFyQUFVZ25JMU1UekVSYWVuWjVMV2Z4ZmZZaGJaeXVMdEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXpfRUdtOGNadXREWXpDZmVoUmQtVlJCdS12NzV3S253d2NLMmpVTVJBeXNhdmk0T2hMaThCdUNnaXMxcEZrR1JtOEtxLUFsaEpfNFlnY1Y0LTJISkFqN3RnRkZCRWxzaHllRGxZLV83ZTlIX1RtQ2RkQTVoQlk0Rnc5bzFCTUluNnI4QTY1b1YwaDlMNTg1amJwT05MVUFyQUFVZ25JMU1UekVSYWVuWjVMV2Z4ZmZZaGJaeXVMdEE?oc=5" target="_blank">Yen leaps after intervention, leaving the dollar bruised</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5" target="_blank">WestJet flight attendants to end strike after reaching tentative wage deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bessent ready to repeat joint yen intervention, urges bigger Fed backstop - Reuters
+## Russia says Ukrainian drone attack on holiday-makers killed 6, including 3 children - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSnRfSWRsRG9LTGxHRGtVT2ZUR2VkVm9oSWRFWHBpV1pLYmwzeWI5VGdDQWNQNGdHUWhMTThMbUVCVXN4NkdlS2dGckxRdUNfNFNmay1rNXdVOXpJTklSUjd0cGNncmxxZFdGN3lyUnRRWWdVS1REZENIZVdQVm5UYWc5LXAzMFlzVng1SDdnb3hwbHk5SUR6eUZFWEtGZW01UjB6ZFhHeGw5SlNscmJFWXhacUtvRHZjaEptWmRpUW5LZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSnRfSWRsRG9LTGxHRGtVT2ZUR2VkVm9oSWRFWHBpV1pLYmwzeWI5VGdDQWNQNGdHUWhMTThMbUVCVXN4NkdlS2dGckxRdUNfNFNmay1rNXdVOXpJTklSUjd0cGNncmxxZFdGN3lyUnRRWWdVS1REZENIZVdQVm5UYWc5LXAzMFlzVng1SDdnb3hwbHk5SUR6eUZFWEtGZW01UjB6ZFhHeGw5SlNscmJFWXhacUtvRHZjaEptWmRpUW5LZw?oc=5" target="_blank">Bessent ready to repeat joint yen intervention, urges bigger Fed backstop</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5" target="_blank">Russia says Ukrainian drone attack on holiday-makers killed 6, including 3 children</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
