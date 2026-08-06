@@ -1,8 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-08-06 03:12:56
+更新时间：2026-08-06 14:24:56
 
-## Asian Stocks Drop on Chipmakers, Gold Extends Gain: Markets Wrap
+## The Deal: Alex Rodriguez On the MLB’s CBA Negotiations
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-08-06/the-deal-alex-rodriguez-on-the-mlb-s-cba-negotiations-video
+
+正文长度：0
+
+摘要：The MLB trade deadline is in the rear-view mirror, so Jason Kelly and Alex Rodriguez look forward to the rest of the season and break down the league's recent contract negotiations with the players. Listen to their full discussion on this week's episode of The Deal wherever you get your podcasts (Source: Bloomberg)
+
+
+---
+
+## Wall Street Bulls Flock to S&P 500 Calls as Rally Broadens
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-06/wall-street-bulls-flock-to-s-p-500-calls-as-rally-broadens
+
+正文长度：0
+
+摘要：Traders can’t get enough of options betting on more gains in the S&amp;P 500 Index, a gauge that has for months been in the shadow of its more volatile rival, the Nasdaq 100.
+
+
+---
+
+## Situational Awareness Comes Roaring Back With Big Bet
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-08-06/situational-awareness-comes-roaring-back-with-big-bet-video
+
+正文长度：0
+
+摘要：Leopold Aschenbrenner has made a $400 million investment in a privately held company, according to people familiar with the matter. Bloomberg's Nishant Kumar has more on apparent comeback of the Situational Awareness hedge fund on "Bloomberg Open Interest." (Source: Bloomberg)
+
+
+---
+
+## Stocks Eke Out Gains Before Jobs Data as Oil Rises: Markets Wrap
 
 来源：彭博社
 
@@ -10,367 +49,318 @@
 
 正文长度：0
 
-摘要：Asian stocks slipped as renewed weakness in chipmakers weighed on regional benchmarks, underscoring investor caution toward the sector despite a recent rally. Gold climbed to the highest level since June.
+摘要：Wall Street traders refrained from making big bets in the run-up to Friday’s jobs report as higher oil prices raised concerns about inflation and lifted bond yields.
 
 
 ---
 
-## ‘Sell America’ Debate Re-Emerges as US Policies Sow Doubts
+## Colombia Peso Defies Central Bank Bid to Halt Carry-Fueled Rally
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-05/us-policies-reignite-debate-over-sell-america-trade-strategy
+链接：https://www.bloomberg.com/news/articles/2026-08-06/colombia-peso-defies-central-bank-bid-to-halt-carry-fueled-rally
 
 正文长度：0
 
-摘要：Global bond and currency investors are debating if it’s time to dust off last year’s ‘Sell America’ trade after a flurry of economic-policy decisions out of Washington over the past two weeks.
+摘要：The Colombian peso continues to be the best performing currency in emerging markets as investors shrug off the central bank’s efforts to slow the currency’s rally and instead focus on its carry appeal.
 
 
 ---
 
-## China Steel Group Says Push for Yuan-Pricing Would Help Iron Ore
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-06/china-steel-group-says-push-for-yuan-pricing-would-help-iron-ore
-
-正文长度：0
-
-摘要：China’s main steel-industry group called for greater use of yuan-denominated index pricing in the iron ore market, saying such a shift would better reflect supply and demand in the top user of the commodity.
-
-
----
-
-## Traders in India Dial Back October Rate-Hike Bets After Dovish RBI Speak
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/newsletters/2026-08-06/traders-in-india-dial-back-october-rate-hike-bets-after-dovish-rbi-speak
-
-正文长度：0
-
-摘要：The earliest that the market is now anticipating a rate hike is December.
-
-
----
-
-## SK Hynix Hit by Another 30% Pre-Market Flash Crash on Nextrade
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-06/sk-hynix-hit-by-pre-market-flash-crash-on-nextrade-bourse-again
-
-正文长度：0
-
-摘要：Chip giant SK Hynix Inc. suffered its second short-lived share plunge in about a week, raising fresh questions about trading volatility on South Korea’s alternative stock exchange.
-
-
----
-
-## Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks
+## The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html
+链接：https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html
 
-正文长度：4708
+正文长度：5378
 
-摘要：Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.
+摘要：As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Billion-dollar films are back in Hollywood.
-The theatrical industry welcomed its fourth billion-dollar film of 2026 this week as Sony and Marvel's "Spider-Man: Brand New Day" surpassed the coveted benchmark. It joins the three-comma ranks alongside Universal's "The Super Mario Galaxy Movie," Lionsgate's "Michael" and Disney and Pixar's "Toy Story 5." The group should soon be joined by Universal's "The Odyssey," which has tallied $912 million globally through Sunday and is set to play in theaters through at least mid-September.
-Box office analysts expect Warner Bros.' "Dune: Part Three" and Disney and Marvel's "Avengers: Doomsday" to also reach the billion-dollar figure later this year.
-As it stands, this is the highest number of billion-dollar film releases in a single year since the Covid pandemic shuttered movie theaters and halted production six years ago.
-In 2019, nine films pulled in at least $1 billion at the box office. Seven of those films were Disney titles. Its co-production of "Spider-Man: Far From Home," in partnership with Sony, and Warner Bros.' "Joker" completed the list.
-On Wednesday, Disney touted the success of "Toy Story 5" as helping to propel its studios division during its most recent quarter even as the live-action "Moana" and "Star Wars: The Mandalorian and Grogu" films fell short of expectations.
-Of course, modern blockbusters are benefitting more from higher-priced tickets both for standard screenings and premium large format showings. Imax, Dolby Cinemas, ScreenX and 4DX have all reported record ticket sales because of films like "The Odyssey" and "Spider-Man: Brand New Day."
-In 2025, more than 16% of tickets sold for domestic showtimes were for these PLFs, according to data from EntTelligence. That's up from 15% in 2024 and 13.8% in 2023. These premium tickets can cost upward of $25 or more in places like New York City or Los Angeles, but average around $18.22 a piece nationally, EntTelligence reports. That's up 8% from 2023.
-Standard movie tickets, too, are getting pricier. In 2019, the average movie ticket cost a little more than $9, according to data from Cinema United. Now, the average is closer to $13.50, EntTelligence reports.
-Still, the hauls are a promising signal for a film industry that's still chasing 2019 levels, even with the benefit of higher prices.
-The domestic annual box office is currently on pace to cross $10 billion for the first time in seven years. Through Monday, the year-to-date haul stands at $6.2 billion, down 11% from 2019.
-"The billion-dollar club has always been treated as a special box office milestone," said Shawn Robbins, director of analytics at Fandango and founder of Box Office Theory. "It's also one that's become more challenging to achieve since the pandemic."
-"The sheer number of films crossing this threshold can be a good indicator of a banner year," he added.
-Unlike 2019, the 2026 class of billion-dollar films are spread across multiple studios and include not just sequels and franchise films but a musical biopic and a cinematic retelling of a 2,700-year-old epic poem.
-The broad success signals to Hollywood that it can take more risks on genre films and spread the wealth among more players.
-The resurgence in the number of billion-dollar films has been fueled in part by younger demographics that Hollywood and Wall Street previously worried would abandon cinemas in favor of their phones.
-"The demise of the theatrical experience has once again been greatly exaggerated," said Mike Polydoros, CEO at cinema marketing firm PaperAirplane Media. "Driving much of this resurgence is the growing influence of Gen Z, which accounted for 49% of 'Spider-Man: Brand New Day''s opening-day audience and 30% of 'The Odyssey''s opening-day crowd."
-Generation Z, whose members range from around 14 to 29 years old, is one of the most active moviegoing demographics, and Gen Zers attend more films per year than some of their older peers. It also accounted for nearly 40% of all movie audiences in North America in 2025, Rentrak reported.
-And the return to movie theaters isn't just happening domestically, but internationally, too. The foreign market is vitally important to Hollywood.
-Among the the four films that have generated at least $1 billion globally this year, more than 50% of box office receipts have come from outside the U.S. and Canada.
-"Notably, there has never been a film released domestically that has ever earned over a billion dollars in North America alone," Paul Dergarabedian, head of marketplace trends for Rentrak, told CNBC. "Only 'Star Wars: The Force Awakens' has even come close, with $936.7 million."
-Disclosure: Versant is the parent company of CNBC and Fandango.
+> The diverging paths of two GLP-1 drugmakers were on full display this week.
+Both Eli Lilly and Novo Nordisk beat second-quarter estimates and raised their full-year outlooks. But while investors cheered Lilly's results, sending shares higher on Wednesday, they punished Novo a day earlier – underscoring a growing divide in Wall Street's confidence in the two obesity drug leaders.
+As Lilly continues to exceed expectations and widen its edge in the obesity drug space, Novo is still racing to win back market share, restore investor confidence in its pipeline and chart a clear path toward long-term growth.
+"While Novo raised guidance (as expected), the pipeline and path to sustainable growth remain less clear," BMO Capital Markets analyst Evan Seigerman said in a research note on Wednesday.
+At stake is a global market that some analysts expect to be worth more than $100 billion by the 2030s. In the U.S., Lilly held a 60.9% share of the obesity and diabetes drug market in the second quarter, compared with Novo's 38.8%, according to Lilly's earnings presentation Wednesday.
+Lilly reported another quarter of blistering growth, with resilient demand for its blockbuster diabetes treatment Mounjaro and obesity drug Zepbound pushing revenue up 48% from a year ago. The company also hiked its full-year revenue guidance, reinforcing investor confidence that its treatments can sustain their sales momentum despite lower prices in the U.S. – an issue that Novo is also facing.
+"The print reinforces our view that Lilly remains best positioned to capture the majority of global incretin market growth," Bernstein analyst Courtney Breen said in a note on Wednesday, referring to the obesity and diabetes drug space.
+Novo also topped Wall Street's expectations and lifted its full-year outlook Tuesday, citing "increased expectations" for GLP-1 product sales.
+Analysts said Novo benefited from rebate adjustments and other temporary factors during the quarter. Sales of the company's diabetes drug Ozempic and overall obesity portfolio exceeded analyst estimates for the quarter, according to StreetAccount.
+But investors appeared less focused on what Novo delivered this quarter and more on concerns about what comes next.
+"All in all this leaves many questions open for 2027," said Jefferies analyst Michael Leuchten in a research note on Tuesday.
+Revenue of Novo's closely watched Wegovy pill came in slightly below analyst expectations. That disappointed some investors and raised questions about whether it can become a big enough growth driver for the company.
+"Wegovy Pill launch has shown promise, but 2Q results in the US highlight that more needs to be done to satisfy investors and truly beat expectations," Seigerman said.
+He acknowledged that part of the miss was due to the company reducing inventory of the pill, but said "a massive beat would have sated many" investors. The pill's miss and share reaction "highlight a broader need for further pipeline diversification," Seigerman added.
+Despite that, Novo said the pill has reached more than 5 million patients since its U.S. launch in January, and the industry still bills it as one of the most successful drug launches in history. The drug has also shown higher efficacy than a rival obesity pill from Lilly, which launched a few months later than Novo's treatment. That early entry to the market gave the Danish drugmaker an edge in the oral drug space.
+Novo CEO Mike Doustdar also defended the pill's strategy and launch following the company's results. Regional expansions of the drug in the United Arab Emirates and the UK, among others, this year could offer momentum, he said.
+"We would not be able to ... show a positive growth on the top and the bottom if items like the pill were not doing well and were not profitable," Doustdar told CNBC's Carolin Roth on Wednesday.
+The company also gave more good news for its global prospects on Wednesday, when it said the Wegovy pill would launch in Germany in September, the product's first entry into a European Union country.
+Still, Novo's updated outlook implies the company could post a sales decline this year, a contrast to Lilly's expectation of ballooning revenue.
+Novo on Tuesday also reported mixed trial results on a key experimental obesity drug, CagriSema, reigniting investor questions about whether the company's drug pipeline can generate long-term growth. CagriSema couldn't deliver as much blood sugar control as Zepbound in a large trial – the second time this year the new drug has failed to match Lilly's blockbuster weight loss treatment.
+That comes just days after Novo said a late-stage heart drug failed to reduce major cardiovascular events compared to placebo in a trial. Analysts viewed that experimental medicine, ziltivekimab, as a key opportunity for Novo to expand its cardiovascular portfolio and reduce reliance on its obesity and diabetes medicines.
+"As pricing in the obesity market faces continuous headwinds, a clear strategy underpinned by franchise diversity is critical" for the company, Seigerman said.
+For investors, the contrast is increasingly clear: Lilly is being viewed as the market's momentum story, while Novo remains in a show-me phase as Wall Street waits for evidence that its turnaround efforts are taking hold.
+"Overall nothing to inspire," Citi research analysts said in a note on Tuesday about Novo.
 
 </details>
 
 
 ---
 
-## Flutter shares plummet on earnings miss and another key leadership change
+## Ford's new 'Fathom' electric pickup truck will start at $28,000
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html
+链接：https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html
 
-正文长度：4064
+正文长度：1786
 
-摘要：FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.
+摘要：It's the first vehicle to be built using the "Universal Electric Vehicle" platform that Ford has said is key to making money with EVs.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Flutter shares faltered Wednesday after the company slashed its full-year U.S. profit guidance by 22% and announced the departure of CEO Peter Jackson at the end of the quarter. The current CEO of Flutter's international business, Dan Taylor, will take the reins, effective Oct. 1.
-The company reported earnings per share of 49 cents for its second quarter, falling below Wall Street expectations of 60 cents per share, according to LSEG. Revenue narrowly beat analysts' estimates, at $4.33 billion versus the $4.26 billion expected by LSEG.
-For its full-year, Flutter now expects adjusted earnings before interest, taxes, depreciation and amortization for its U.S. business of $760 million, a 22% reduction from previous guidance.
-Shares of Flutter fell more than 11% Wednesday.
-Over the past year, FanDuel, Flutter's most important business, began losing its market share dominance in the United States. Now, the parent company is prepared to spend heavily to fix it.
-"We didn't execute very well last year," Jackson said in an interview following the company's earnings report.
-The NFL schedule was not especially compelling last season, and its player narratives were lacking, he said. But Jackson also acknowledged Flutter mishandled its own customer proposition, particularly pulling back on promotions and generosity. As a result, FanDuel entered 2026 with a smaller sportsbook business than it should have.
-Now Flutter is leaning the other way. The company is putting roughly $270 million of additional EBITDA investment into its U.S. business in the second half of 2026, focusing on better rewards, promotions and customer protections. The company said promotional spending will move closer to 6% of handle — higher than previously planned, though not the 7% that some analysts feared.
-Flutter believes the repair work is already gaining traction.
-FanDuel's loyalty program reached 70% of customers during the quarter and will be available nationally by football season, the company said. Bet Protect Plus — which refunds a bet when a selected player is injured — is addressing what Jackson called a major customer pain point.
-The company is seeing momentum across pro sports: NBA Finals actives increased 26% per game; roughly one third of FanDuel's 2.3 million World Cup customers were reactivated; and the sportsbook recently posted its biggest-ever MLB week.
-"We could've spent a lot less this year and hit our guide," Jackson said. "But it's not the right thing to do."
-The goal is to enter 2027 with more customers, stronger market share and better momentum — even at the expense of near-term profit, he said.
-Jefferies gaming analyst James Wheatcroft wrote on Wednesday that he's taking a constructive stance on the stock, despite the "messy reading" from an earnings miss, guidance cut and a new CEO.
-Flutter is also widening FanDuel's reach through prediction markets. The company's sports and novelty contracts are moving from CME to Crypto.com, while CME will continue to provide financial market contracts, the company announced.
-Jackson said CME proved challenging on sports, while Crypto.com gives FanDuel a broader catalog and the ability to launch products faster before football season.
-Combined with FanDuel's new unified app experience, putting traditional sports better and events contracts on the same platform, prediction markets let the company compete nationally, including in states where conventional sports wagering remains unavailable.
-Flutter expects about $50 million in market-making revenue this year.
-Jackson spent nine years leading Flutter, overseeing its acquisition of FanDuel and the expansion of its international business. He called leading Flutter "an enormous privilege" but said the time was right to hand the business to Taylor.
-In May, Taylor was tasked with oversight of FanDuel after that business's CEO, Amy Howe, was ousted.
-Jackson gave Taylor credit for helping to shape the existing strategy. His new mission will be to restore FanDuel's execution and turn renewed customer activity into durable growth.
+> Ford Motor announced Thursday that its new midsize electric truck will have a starting price of $28,350 and be called the "Fathom," as the automaker looks to offer an affordable option in the pricey EV truck market.
+Destination and delivery charges of $1,595 will bring the price to $29,945, coming in at the $30,000 mark the automaker had long promised in touting its upcoming electric vehicles.
+Ford said preorders for the five-passenger truck will begin in early 2027. Customer deliveries are expected to begin later in 2027. Ford has yet to reveal what the new truck will look like.
+The Fathom is the first vehicle to be built on Ford's new "Universal Electric Vehicle," or UEV, platform, which the company has said is key to bring its Model e business unit from billions of dollars in annual losses to breakeven by 2029.
+"We are confident that we have the best cost platform and are focused on the right market," a Ford spokesperson said in an email. "We believe the UEV platform will be a strategic advantage -- and we have the best chance to make it work."
+Ford has said the goal for the UEV platform is for each vehicle built on the system to be profitable within a year of launching and cost-competitive with global EV leaders from China and Tesla. Ford has had a secret unit working on the platform to make the vehicles comparable in price to gas-powered vehicles through new technologies and efficiencies.
+Ford's push with the UEV platform comes despite a massive slowdown in EV adoption and the elimination of U.S. consumer incentives to buy EVs. The company last year reported $19.5 billion in restructuring charges related to its electric vehicles.
+The Ford Fathom will be built using the company's new assembly tree manufacturing process at its Louisville Assembly Plant.
 
 </details>
 
 
 ---
 
-## Tanger CEO says World Cup drove up traffic, sales this summer
+## Shaquille O'Neal says WNBA players' treatment of Caitlin Clark is a rite of passage
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html
+链接：https://www.cnbc.com/2026/08/06/shaquille-oneal-caitlin-clark-rite-of-passage.html
 
-正文长度：2570
+正文长度：2808
 
-摘要：Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.
+摘要：Harsh fouls against Clark and WNBA officiating have fueled a national debate, with some lawmakers demanding accountability from the league.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Tanger CEO Stephen Yalof said the store operator saw traffic increase in June and July due to international and domestic tourism tied to the World Cup.
-"We knew when you get these new visitors that come for a huge magnet event like World Cup, you've got one opportunity to introduce them to your brand, and then hopefully they become a great ambassador for the brand if they have a great experience," Yalof told CNBC on Wednesday.
-The company, which has shopping centers in eight of the 11 host cities for the tournament, said it also saw sales increase and its athletic brands perform strongly amid a boom in excitement and business around the World Cup.
-"Traffic drives sales. Traffic and sales always move together," Yalof said. "For the year, we're up about 5% sales-wise, which is pretty substantial."
-Yalof said the company saw World Cup tourists looking for a "real American experience," like eating at a Chick-Fil-A or listening to American music, noting that many of those options are located within the four walls of a Tanger center or next to one.
-"What we add to the mix is that value shopping experience, particularly in our outlet centers, which give these customers the opportunity to shop American brands like Polo and Michael Kors and Kate Spade and Coach and Nike, and buy that product at the best possible price," he added.
-Yalof said the company was prepared to take the most advantage of summer traffic from the World Cup to build "long-term customer loyalty" for its products and brands.
-He said the company also saw more domestic traffic, as more Americans choose to travel within the country this year due to rising oil prices and the current geopolitical macroenvironment.
-Because Tanger centers include retail, food and beverage, and entertainment, Yalof said the company saw customers come to its stores for one experience and stay for others.
-"That's what's going to keep us and make us top of mind when these people come back or when they go and they tell their friends about the wonderful experience they had when they came and visited," Yalof said.
-Tanger also reported strong second-quarter results on Tuesday afternoon, citing strength in "enhanced marketing and traffic-driving initiatives across our portfolio."
-On a call with analysts, Yalof added that the strength in the current movie business and box office has also helped.
-"People are coming early to enjoy the shopping, staying late and enjoying the dining," Yalof said. "And that flywheel that we've created and the new merchandising mix has really been a great customer draw."
+> NBA great Shaquille O'Neal told CNBC he thinks Caitlin Clark is facing a rite of passage that "all the greats went through" as the Indiana Fever guard navigates her third season in the WNBA.
+"Once she passes through that, the league will belong to her," O'Neal said during a CNBC Sport interview on the set of his show, "Dunkman."
+Clark has been the target of some harsh fouls that include hip checks, eye pokes and a recent blow to the throat. That, combined with league officiating, has spurred national debate and even prompted some lawmakers to seek "accountability" from the league for its handling of behavior against Clark.
+O'Neal said he experienced similar treatment during his playing days and that he watched the same take place with basketball legends such as Michael Jordan, Kobe Bryant, LeBron James and Magic Johnson and with boxer Muhammad Ali.
+"All the greats have to go through what we call rites of passage. She's a fabulous player, but we're not giving you anything, ever. You have to earn it," O'Neal said. "So for her, she needs to toughen up, take those licks, and show them that, 'These licks don't bother me.'"
+Three-time WNBA champion Diana Taurasi, who played 20 seasons in the league, recently disputed the idea that the game has become more physical.
+"If you think the game is physical now, go back and watch the girls' Finals 15 [or] 16 years ago," she said, speaking at the CNBC Sport x Boardroom Game Plan Summit last month.
+The physical play against Clark intensified on June 24, with a hit to the throat from Phoenix Mercury forward Alyssa Thomas. No foul was called on the play, but following widespread criticism, the league reviewed the play and Thomas received a one-game suspension for "recklessly making contact with her fist to the throat area."
+On July 3, Clark addressed the incident, saying the "reffing needs to be better" and the "league's just gotta do better protecting players."
+"Ultimately, the issues around Caitlin Clark are not largely about officiating," NBA Commissioner Adam Silver said at the July Game Plan event. "She's become a bit of a political football in this country, and I think that's incredibly unfair to her."
+O'Neal said that Clark has to continue to prove herself to the other players in the league.
+"There's a lot of other girls with similar skills, who get no play, who get no mention, and there's jealousy – professional jealousy," he said.
+The three-time All-Star has already become the fastest player to hit 1,000 points, 250 rebounds and 250 assists — in just 54 career games, breaking Taurasi's previous record of 62 games.
+On July 17, she scored a career-high 45 points against the Seattle Storm.
+"Keep doing that, and the rites of passage will start to open up, and they will invite you in and give you the throne," O'Neal said.
 
 </details>
 
 
 ---
 
-## Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges
+## Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html
+链接：https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html
 
-正文长度：2507
+正文长度：2885
 
-摘要：The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.
+摘要：Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Salad and Go has filed for Chapter 11 bankruptcy and is closing all existing locations on Wednesday.
-The company said in a statement to CNBC that it sought bankruptcy protection due to prior strategic growth challenges, weakening consumer demand and higher costs.
-Diner fears around eating lettuce due to the ongoing cyclospora outbreak only worsened its issues. The water-borne parasite has sickened at least 10,000 people, according to the Centers for Disease Control and Prevention. Two people have died have died as a result of the outbreak, the Michigan Health Department said Monday.
-"A Cyclospora outbreak in July, in which Salad and Go was not implicated, weakened confidence across the industry and compounded these challenges," the company said in the statement.
-The foodborne illness outbreak has hurt more businesses than just Salad and Go.
-Yum Brands' Taco Bell saw its traffic plunge after the Food and Drug Administration linked iceberg lettuce served at some of its restaurants to the outbreak; the chain pulled the affected supply, and Yum executives have said that sales are already recovering. Other chains not linked to outbreak, like Chipotle Mexican Grill, have also seen their sales dip due to consumers' newfound mistrust of fresh lettuce.
-Founded in 2013, Salad and Go at one time aimed to take on Sweetgreen. It used commissary kitchens to wash its produce and prepare protein options, like chicken, before shipping out the ingredients to the restaurants that would assemble its salads or wraps.
-Private equity firm Volt Investment took a stake in Salad and Go and eventually bought out company founders Tony and Roushan Christofellis in 2021. Under then-CEO Charlie Morrison, who previously led Wingstop and currently heads Jersey Mike's, Salad and Go pursued an ambitious expansion plan, more than doubling its store count. Morrison left the company in late 2024, reportedly after disagreements with the board.
-Former Krispy Kreme CEO Mike Tattersfield took the reins in 2025. During his tenure, Salad and Go closed dozens of stores in Texas and Oklahoma. Those closures whittled the company's footprint down to about 70 locations in Arizona and Nevada, which will be permanently shuttered on Wednesday.
-"This is a painful day for everyone who built, worked for and loved Salad and Go," Tattersfield said in a statement.
-Salad and Go has assets valued between $500 million and $1 billion and liabilities in the same range, according to the company's bankruptcy filing on Tuesday.
+> Fox won't negotiate a new NFL media rights deal before 2030, when its current contract with the league expires via an opt-out clause, Chief Executive Officer Lachlan Murdoch said during a Thursday earnings conference call.
+The NFL has held preliminary discussions with both Fox and CBS-parent Paramount Skydance about reworking the deals to eliminate the league's opt-out clause and raise the cost of the live rights, CNBC previously reported. Fox and CBS own the NFL's Sunday afternoon packages of live game rights.
+Without the opt out, Fox and Paramount's deals with the league extend until the end of the 2033-34 season.
+Murdoch said Thursday that those preliminary discussions led Fox to decide it won't strike a new deal.
+"In advance of the season, we've had a recent thorough and productive discussions with the league, and as a result, we will not be making any amendments to our existing contractual relationship, which extends to the completion of the 2029 season," Murdoch said. "We'll be ready to engage with the NFL on the opt-out seasons and beyond at a date closer to the 2030 season, which has been the customary timetable."
+The NFL maintains flexibility to renew deals early with its other media partners, including adding new partners as it has in recent years with YouTube and Netflix. An NFL spokesperson declined to comment on Murdoch's remarks.
+NFL Commissioner Roger Goodell told CNBC last year he felt the league's rights were relatively undervalued compared to other sports. The NBA nearly tripled its media rights revenue with an 11-year, $77 billion deal struck in 2024.
+The NFL signed its most recent media rights deal, worth more than $100 billion, in 2021.
+"I think our partners would want to sit down and talk to us at any time, and we continue to dialogue with them. I like that opportunity," Goodell said in September. "Obviously it's not going to happen this year. But it could happen as early as next year. That could happen."
+NFL programming is consistently the most watched on television. Murdoch said Fox's relationship with the NFL "is an incredibly positive one."
+The NFL had discussed an increase of nearly $1 billion per year in rights costs in early talks with Paramount, CNBC reported earlier this year. In return, the league would guarantee carriage on CBS until 2034. Under the terms of the current contract, the NFL can walk away from the deal with all of its partners except Disney at the end of the 2029-30 season. Disney has one extra year.
+Disney Chief Financial Officer Hugh Johnston told CNBC earlier this week that the NFL hasn't yet engaged Disney on a new deal.
+"We really have pretty much all the sports rights that we need locked up into the 2030s. The NFL, you've seen they have commented a few times on reopening that, but they have not talked to us about that. So we'll see how that plays out," Johnston said in an interview.
 
 </details>
 
 
 ---
 
-## How Disney parks are bucking a travel slowdown
+## Family offices back clean energy and sustainability startups in July as dealmaking holds steady
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html
+链接：https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html
 
-正文长度：3579
+正文长度：3686
 
-摘要：Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.
+摘要：Private investment firms of John Doerr and other billionaires are backing geothermal energy, nylon recycling and more.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Disney parks are defying a slump in international travel to the U.S., posting record quarterly revenue for the company's experiences division on Wednesday.
-The experiences segment, which includes Disney's theme parks, cruise line, resorts and consumer products, reported nearly $10 billion in revenue for the fiscal third quarter, a 10% jump from the same quarter a year prior and a quarterly record. The division has seen record revenue for six consecutive quarters.
-The division recorded operating income of more than $3 billion, up 20% from the same period a year prior. Shares of Disney gained more than 3% Wednesday.
-"It's important, I think, to highlight that we're performing significantly better than our competition," Disney CEO Josh D'Amaro said during Wednesday's earnings call. "And in doing that, delivering strong volume and per [capita] spending results. And to remind everyone we're achieving this even during a period where there's a fair amount of macro uncertainty."
-Last month, rival Comcast reported lags in theme park attendance, particularly in Orlando, Florida.
-While tourism grew worldwide last year, the United States was the only major destination to see a drop in foreign visitors, according to the World Travel & Tourism Council. Overall, international travel to the U.S. fell 6%, the organization found.
-Travel bans, visa fees and invasive searches at ports of entry are all factors in international travelers leaving the United States off their travel itineraries, according to the WTTC. Trade frictions, geopolitical unease and safety concerns have also contributed to the drop in demand for travel stateside, travel experts told CNBC.
-And yet, at Disney, domestic park attendance was up 3% and guest spending rose 4%, Chief Financial Officer Hugh Johnston told CNBC. He also called out the "very strong attendance" at Walt Disney World in Orlando.
-"Those numbers are somewhat different than what you would have seen from our competitor down there, as well as some of the reported traffic coming through Orlando [International] Airport," he added.
-The company attributed strong attendance to its Cool Kids Summer promotion, which features kid-focused character meet-and-greets, dance parties and air-conditioned hangout spots as well as free water park admission for hotel guests.
-Disney also recently refreshed and reimagined park attractions like Buzz Lightyear's Space Ranger Spin, Big Thunder Mountain Railroad and the Muppets-themed Rock 'n' Roller Coaster.
-"Disney activated their fans to visit the theme parks during the quarter using a mix of marketing and discounting campaigns targeting young families and residents," said Gavin Doyle, founder of MickeyVisit.com. "Despite a massive slate of upcoming rides that might have encouraged guests to delay their visits, Disney has found ways to create urgency and enticing opportunities to visit the theme parks now."
-These efforts "work to deepen [Disney's] connection to modern audiences," Doyle said.
-On the West Coast, the California-based parks had a similar promotion at Disneyland in Anaheim.
-"Disneyland's targeted discounts for California residents and kids ensured that families did not skip visiting the parks this year," Doyle said.
-Disney's experiences segment also benefitted from the addition of two new ships to its cruise fleet, the Disney Destiny and the Disney Adventure. Together these cruise liners increased stateroom capacity by around 50% and helped push revenue from the resorts and vacations piece of the division up 17% to $2.77 billion for the fiscal third quarter.
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Investment firms of ultrawealthy families showed no signs of slowing down in July despite a turbulent month for markets between a sharp correction and soaring energy prices.
+Last month, family offices made 57 direct investments in companies, holding steady from June, according to data provided exclusively to CNBC by Fintrx, a private wealth intelligence platform.
+July's buzziest deal was a $10 billion fundraise for Jeff Bezos' Blue Origin, which included $2 billion from the Amazon billionaire's namesake family office. Bezos Expeditions is the most active family office investor thus far this year, backing five artificial intelligence startups in June alone.
+While AI startups represented the bulk of the month's dealmaking activity, more than 15% of investments were made in clean energy and sustainability firms. Antora Energy, a thermal battery startup, closed a $550 million Series C round that included venture capital billionaire John Doerr as an investor. Foris Ventures, Doerr's private venture firm, has backed other clean energy firms like Panthalassa, Pacific Fusion and Rondo Energy.
+Investors' appetite for renewable energy has cooled in recent years due to backlash against environmental, social and governance, or ESG, strategies, as well as the Trump administration's crackdown on climate initiatives and policy. However, the power demands of AI and the fuel crisis caused by the Iran war have rejuvenated interest in green energy.
+U.S. sustainability funds reported inflows of $3 billion in the second quarter of 2026, ending a streak of 14 quarters of net outflows, according to Morningstar.
+"Roaring demand for electricity, shifting geopolitics, and disruptive market forces are reshaping the world as we know it. The question is: How will we respond?" Doerr wrote in April, announcing a new action plan for solving the climate crisis. "What was once an opportunity is now an imperative. Only clean energy can meet the surging demand for affordable, durable, and sustainable energy. Only clean energy can deliver abundance that lasts."
+Legendary energy trader John Arnold backed Hephae Energy Technology, an advanced geothermal drilling startup, in a $17.8 million Series A round that closed in July.
+"I'm very interested in the geothermal story, the advanced geothermal story, which can unlock a lot more of that resource and provide the baseload power in many locations at what appears to be kind of a market price," Arnold told CNBC's Melissa Lee in February.
+Family offices' interest in renewable energy and sustainability has largely endured even as many traditional investors have retreated. More than half of respondents in a September poll of 346 family offices conducted by Citi Private Bank said they were likely to allocate to sustainable investments in the next five years.
+This support is likely to continue as the next generation takes the reins, per a Bank of America survey released in November. More than half of family office principals said they expected heirs to maintain or increase their firms' allocation to sustainable or impact investments.
+Walmart heir Lukas Walton has dedicated his family office, Builders Vision, to advancing environmentalist and sustainability efforts through investing and philanthropy. In July, Builders Vision joined a $43 million Series A for Lydian, which produces synthetic aviation fuel, alongside Grok Ventures, the private investment firm of Atlassian's billionaire CEO Mike Cannon-Brookes.
 
 </details>
 
 
 ---
 
-## Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors - Financial Times
+## Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0RLMHNoaTRTcW1nZ240UHBHUi1kbWVxSVRja0t5ZVJRa0RSb1A5WVJvNWR0eGVKSzJfdHFkY1A2ZUR3OEZuaV9lT3Rib1Q1MVU5ME9la1pGWGZuVnMteVA2LTd3RWFDeTM0dFNzcnVFM3RwVHh2eUtxb2hMZU1HN3MweUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0RLMHNoaTRTcW1nZ240UHBHUi1kbWVxSVRja0t5ZVJRa0RSb1A5WVJvNWR0eGVKSzJfdHFkY1A2ZUR3OEZuaV9lT3Rib1Q1MVU5ME9la1pGWGZuVnMteVA2LTd3RWFDeTM0dFNzcnVFM3RwVHh2eUtxb2hMZU1HN3MweUU?oc=5" target="_blank">Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5" target="_blank">Kevin Warsh to stick with lean Fed messaging despite market backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab - Financial Times
+## OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUlOWWhpUWlrQVpycWQ3YnN6RE5FdGVJcWpNOWd0TXl1NVB5cG94cGNkVlpGZkM5dFpvSzZnMTZRRHc5QklEMlhZQURFME5Lem4zU3p4WTFkVFdRRWpLTThYQk82ZU1pT2s0ZGJCZFkwOTM5d1dXaTEzQ2xTcFZ5TjY4WHE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3NhQVZITTY1cEdvajRQOW9nQ0VCbWVkOEJ6U2lxcUhCMDNkbmpWTzM3N3h3QkV5eTl6QnpoN1ZqeWlNRnU1MzJGOVloY1RteGNWWUFMbmpQM2ZNcHEzalNldTN2Z3pTMHY3T2NybFBLZ09qZWxxQWpqSXRuVWZaTzN0cW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUlOWWhpUWlrQVpycWQ3YnN6RE5FdGVJcWpNOWd0TXl1NVB5cG94cGNkVlpGZkM5dFpvSzZnMTZRRHc5QklEMlhZQURFME5Lem4zU3p4WTFkVFdRRWpLTThYQk82ZU1pT2s0ZGJCZFkwOTM5d1dXaTEzQ2xTcFZ5TjY4WHE?oc=5" target="_blank">Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3NhQVZITTY1cEdvajRQOW9nQ0VCbWVkOEJ6U2lxcUhCMDNkbmpWTzM3N3h3QkV5eTl6QnpoN1ZqeWlNRnU1MzJGOVloY1RteGNWWUFMbmpQM2ZNcHEzalNldTN2Z3pTMHY3T2NybFBLZ09qZWxxQWpqSXRuVWZaTzN0cW4?oc=5" target="_blank">OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US bans exports of various used critical minerals - Financial Times
+## Colombian narcos head to Ukraine for drone expertise - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTBxcXQtd2FIRlJVQ0VkZUVYbmRsRmdmZnFZMllyTVVJNWswQmljaVZzd2Jid0pEM2kwTDlVVjMwVkd4Rm51bnhKTXcxYWYtaVVIczVGY3N0U2RnRkwxdnExbVZ4eXdkRTh0S08yUkI0UzFDd29EWWx3dFRpanU4ajRPMzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnpLWml6M1o0dDFaSVk2eDAyVzZUaUFpWmtzOXdFSHVuZFRkUENBcXNHSlVZbTh1cEhlWjBWVV84b0JkRmdlRHhPOWljVFpEOWhBazBYZzl4cHdWVE40WVh4V3ZSVllWOW9QY2FVWVB6clltVWlTTFpGZTVHNG9Sc1h3bG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTBxcXQtd2FIRlJVQ0VkZUVYbmRsRmdmZnFZMllyTVVJNWswQmljaVZzd2Jid0pEM2kwTDlVVjMwVkd4Rm51bnhKTXcxYWYtaVVIczVGY3N0U2RnRkwxdnExbVZ4eXdkRTh0S08yUkI0UzFDd29EWWx3dFRpanU4ajRPMzg?oc=5" target="_blank">US bans exports of various used critical minerals</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnpLWml6M1o0dDFaSVk2eDAyVzZUaUFpWmtzOXdFSHVuZFRkUENBcXNHSlVZbTh1cEhlWjBWVV84b0JkRmdlRHhPOWljVFpEOWhBazBYZzl4cHdWVE40WVh4V3ZSVllWOW9QY2FVWVB6clltVWlTTFpGZTVHNG9Sc1h3bG8?oc=5" target="_blank">Colombian narcos head to Ukraine for drone expertise</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China launches global tax hunt going back decades - Financial Times
+## WPP shares jump more than 20% as overhaul begins to bear fruit - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU13U1libDF6U1Q2N3dzTEllSWhNVmY5enZmOGZCVTJ6eU50WmlCczJzUXVmaUViaV9rQ3AxSlVlUHBZaEN5dVdmclpTRk1WbTBINlR1cl9teTRiS0lhaHhUVUF6YTE3SXNWa1F1eXdoS1RjX0FtcFhuQkcxT2JCS1hySGI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUgtMFBqdTdOR0lsNWVLOFhVU2E0V0FWeG9NVmRUUW11dG81VHVfVjVLUm5naGZmVVRUb3NxM1Q5ZFBOLXdIS2t0OXVlb05iS1IzOUUxUkZiZDk2OUZPbnB6YmEyOUxXVkZfdXZGemFJcS04VURQU1Zkd3hzTFdWRktNSFU?oc=5" target="_blank">China launches global tax hunt going back decades</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU13U1libDF6U1Q2N3dzTEllSWhNVmY5enZmOGZCVTJ6eU50WmlCczJzUXVmaUViaV9rQ3AxSlVlUHBZaEN5dVdmclpTRk1WbTBINlR1cl9teTRiS0lhaHhUVUF6YTE3SXNWa1F1eXdoS1RjX0FtcFhuQkcxT2JCS1hySGI?oc=5" target="_blank">WPP shares jump more than 20% as overhaul begins to bear fruit</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The global green transition won’t be driven by self-interest alone - Financial Times
+## Biggest US law firms explore selling stakes to private equity - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTUdyak1YV2dsNXJjYW9PLTBrWndxTmRfR0tSOUUwTkNwTGNXc2VCMzFPVXVmNE1rVFpINVZyNExqTHFia3dPM1RVNS1KeDJCSmw3V1lCeTJLWnJZOHRkX2h6bXR3LUxla3ptNGgzLUY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjJGSEdrOXVlc0prWkRWVHYyWDNoeWwzZ2tpQW9adDBvaTdUUWJxeEc5Y25LVV9KalpWTzZua2Jvd053UnZCZjJYRnFsYktTVERXbkwzVGN2MTQtZ2hObFplaXhXNElEWEJBb0lhMGZwVHBpa3hWVkdXR25JaThuaVcwMXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTUdyak1YV2dsNXJjYW9PLTBrWndxTmRfR0tSOUUwTkNwTGNXc2VCMzFPVXVmNE1rVFpINVZyNExqTHFia3dPM1RVNS1KeDJCSmw3V1lCeTJLWnJZOHRkX2h6bXR3LUxla3ptNGgzLUY?oc=5" target="_blank">The global green transition won’t be driven by self-interest alone</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjJGSEdrOXVlc0prWkRWVHYyWDNoeWwzZ2tpQW9adDBvaTdUUWJxeEc5Y25LVV9KalpWTzZua2Jvd053UnZCZjJYRnFsYktTVERXbkwzVGN2MTQtZ2hObFplaXhXNElEWEJBb0lhMGZwVHBpa3hWVkdXR25JaThuaVcwMXM?oc=5" target="_blank">Biggest US law firms explore selling stakes to private equity</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Asia shares ease on tech pullback, oil stable as Iran talks stay in focus - Reuters
+## EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dwSU95VFRkYTBfdlZyQVRjek1GbUp0d285UjJ5SUFlV2RvNm00S0dWZ0JBbXFUbGx5OG5pV2drM0l6UGVCTFdNeGxIRU00REVTYkZZa2VZVjlEZzhtcmdBejgtclFqd3VrOUVWSVNQUi14a2s1VEI1TTgxa0U1RmdscUFlVGJqTW9yNFVhQlZDZ1RYMG4wazBwSjlZVG1SMEhpbDNqQm4xNDNVeHN6NQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5" target="_blank">Asia shares ease on tech pullback, oil stable as Iran talks stay in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dwSU95VFRkYTBfdlZyQVRjek1GbUp0d285UjJ5SUFlV2RvNm00S0dWZ0JBbXFUbGx5OG5pV2drM0l6UGVCTFdNeGxIRU00REVTYkZZa2VZVjlEZzhtcmdBejgtclFqd3VrOUVWSVNQUi14a2s1VEI1TTgxa0U1RmdscUFlVGJqTW9yNFVhQlZDZ1RYMG4wazBwSjlZVG1SMEhpbDNqQm4xNDNVeHN6NQ?oc=5" target="_blank">EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Meta AI model hacks another company during testing - Reuters
+## Britain clears Paramount's $110 billion takeover ​of Warner Bros. - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVF81ejV3OTNvNFdETEFTMlhYSE9NYS1SM05BYUZ3eGNtMXc4cmVCcm1oZ2lQUmpOU2VZeGFzeFRjUUwzemxIMjJRdnpWcUpwcm5qWl9rVjF6RDU2MWdNS0pEV2ZHWU9IbmNQTnRHQ25qeU5icXNLUDRnYS1lT3ZDdXkzRGVicFJnUE90eHZNdWhJRVROUGhXbDE3cFcxOWh1Q3NjTEZWZW1nZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5" target="_blank">Meta AI model hacks another company during testing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVF81ejV3OTNvNFdETEFTMlhYSE9NYS1SM05BYUZ3eGNtMXc4cmVCcm1oZ2lQUmpOU2VZeGFzeFRjUUwzemxIMjJRdnpWcUpwcm5qWl9rVjF6RDU2MWdNS0pEV2ZHWU9IbmNQTnRHQ25qeU5icXNLUDRnYS1lT3ZDdXkzRGVicFJnUE90eHZNdWhJRVROUGhXbDE3cFcxOWh1Q3NjTEZWZW1nZw?oc=5" target="_blank">Britain clears Paramount's $110 billion takeover ​of Warner Bros.</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Meta launches new AI coding tool powered by Muse Spark 1.2 - Reuters
+## Former Ukraine ambassador to US accused of illegal enrichment - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnJqb2s0a2s3WWxWTC1vNWdRNXc5eDBQRnNlUDBnekl4cXR6RG1hcUZ3cWlOMzFtTTNacUQ1cE01dWFpQ0NuMlpvOXJJalFmcFUyWEtaRjJlbVp1djJQWnhNdnJra2RId1B5WHhicUF6a2pVdUZ1M2tubElIbHhsVnFvX1owXzAtYzRaalpKZVkyNFRYU2ZyX3N4ai0xUHE1SkNWLTRzQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxPc3VLaVk2ZnFWMU9vVURKM1ZNbklBX2pNZVE1ak1NMlQwd01GZ3VYbUVvU2VGUTlsTUQ3SnM0MFRtSmpqRV9sYWlZWGNtMjNTb3pZTHhyRUl0Y0RvQnpVMDdJdjZtdFJ2dFVQRlk5eHpRWGFieWxkMkxxWkZWZkRLN3dfb3FsMHZRc3VRZWE3RW82SGhRaWpTel9tY3dJQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnJqb2s0a2s3WWxWTC1vNWdRNXc5eDBQRnNlUDBnekl4cXR6RG1hcUZ3cWlOMzFtTTNacUQ1cE01dWFpQ0NuMlpvOXJJalFmcFUyWEtaRjJlbVp1djJQWnhNdnJra2RId1B5WHhicUF6a2pVdUZ1M2tubElIbHhsVnFvX1owXzAtYzRaalpKZVkyNFRYU2ZyX3N4ai0xUHE1SkNWLTRzQQ?oc=5" target="_blank">Meta launches new AI coding tool powered by Muse Spark 1.2</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPc3VLaVk2ZnFWMU9vVURKM1ZNbklBX2pNZVE1ak1NMlQwd01GZ3VYbUVvU2VGUTlsTUQ3SnM0MFRtSmpqRV9sYWlZWGNtMjNTb3pZTHhyRUl0Y0RvQnpVMDdJdjZtdFJ2dFVQRlk5eHpRWGFieWxkMkxxWkZWZkRLN3dfb3FsMHZRc3VRZWE3RW82SGhRaWpTel9tY3dJQQ?oc=5" target="_blank">Former Ukraine ambassador to US accused of illegal enrichment</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Faced with a teleprompter glitch, Canada's Carney mocks Trump - Reuters
+## At Trump's DOJ, watchdogs gutted as misconduct complaints soar - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkp0Nm1tZDBoOWdTMkJldGVTbEJ5QTNaMm1KLVREcGVFTUNIV2xyekY3cUNTMHhTV0dTejlZVXAyYzJsLXFRaVFhNkRhUXlsUU5GR1BvRE1EamlkUVIzaTV0U0psU0d0QnFqZzlDVGltdUIxSmtJZl9HUHVRaGgzWnNHQi1yUThLSURTXzlmMnE1N2V1X0R0Zm41SkJrZEJ3b3d0WWphSG1USXFL?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXFjRnlDblJRWndwcHF6N293dXV3X21LaVcxVlVXYm9mc2hva0VGazY4Z3Q0Ri1rMDlpYTM1SVQ5RlM1SU02cFpKakI0amppc3Y5dG4xRDJ5T216Q194eUxvSDBZbXhQOHpLUFFELWRjdTM1MjlLM1FwaXc3UjI2WmVwYU9tWXdFZGlyY1FFNmM0ZjMtY2ZiaHBTRkg4N0xCMXdpLW1XOVZENU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkp0Nm1tZDBoOWdTMkJldGVTbEJ5QTNaMm1KLVREcGVFTUNIV2xyekY3cUNTMHhTV0dTejlZVXAyYzJsLXFRaVFhNkRhUXlsUU5GR1BvRE1EamlkUVIzaTV0U0psU0d0QnFqZzlDVGltdUIxSmtJZl9HUHVRaGgzWnNHQi1yUThLSURTXzlmMnE1N2V1X0R0Zm41SkJrZEJ3b3d0WWphSG1USXFL?oc=5" target="_blank">Faced with a teleprompter glitch, Canada's Carney mocks Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXFjRnlDblJRWndwcHF6N293dXV3X21LaVcxVlVXYm9mc2hva0VGazY4Z3Q0Ri1rMDlpYTM1SVQ5RlM1SU02cFpKakI0amppc3Y5dG4xRDJ5T216Q194eUxvSDBZbXhQOHpLUFFELWRjdTM1MjlLM1FwaXc3UjI2WmVwYU9tWXdFZGlyY1FFNmM0ZjMtY2ZiaHBTRkg4N0xCMXdpLW1XOVZENU0?oc=5" target="_blank">At Trump's DOJ, watchdogs gutted as misconduct complaints soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trading Day: Momentum fizzles, gold sizzles - Reuters
+## As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUpRNUR0dUREOGNCc05RdF9OT2hlQjJULU5PSFJPT29wT3lJUElsV1JReE5ocmhhcjNTUmg2UnR0NF9pN0lrRnE4dUVuNGplYlJ4TXozSTYzMGdnd0M5MnpyRmxSTDFFZTEwZWRocTlkQ1pOT25XNVRWXzBrLXcxTGFZRFk3a3A1a3hDUWFkZmJHWGwzc05WY1prOVJJS0NFam9PSmFn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUpRNUR0dUREOGNCc05RdF9OT2hlQjJULU5PSFJPT29wT3lJUElsV1JReE5ocmhhcjNTUmg2UnR0NF9pN0lrRnE4dUVuNGplYlJ4TXozSTYzMGdnd0M5MnpyRmxSTDFFZTEwZWRocTlkQ1pOT25XNVRWXzBrLXcxTGFZRFk3a3A1a3hDUWFkZmJHWGwzc05WY1prOVJJS0NFam9PSmFn?oc=5" target="_blank">Trading Day: Momentum fizzles, gold sizzles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA?oc=5" target="_blank">As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
