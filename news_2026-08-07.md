@@ -1,58 +1,6 @@
 # 每日财经新闻
 
-更新时间：2026-08-07 02:54:07
-
-## SpaceX Shares Climb After $100 Billion Insider Lockup Expires
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-06/spacex-shares-steady-after-100-billion-insider-lockup-expires
-
-正文长度：0
-
-摘要：SpaceX shares rose on Thursday as investors digested the release of as many as 911.5 million shares worth about $100 billion from lock-up agreements that had prevented insiders from selling them.
-
-
----
-
-## Global Funds Pile Back Into India IT Stocks After Selling for Months
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/newsletters/2026-08-07/global-funds-pile-back-into-india-it-stocks-after-selling-for-months
-
-正文长度：0
-
-摘要：Smaller IT firms fared better than their larger counterparts during the June quarter.
-
-
----
-
-## China’s Solar Stocks Whipsawed by Domestic Policies, US Tariffs
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-07/china-s-solar-stocks-whipsawed-by-domestic-policies-us-tariffs
-
-正文长度：0
-
-摘要：Chinese solar stocks were whipsawed this week by a combination of domestic efforts to end below-cost sales and renewed tariff threats from the US.
-
-
----
-
-## Fujifilm Declines Most on Record on Profit Miss, Spinoff Plan
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-07/fujifilm-shares-tumble-by-a-record-after-earnings-disappoint
-
-正文长度：0
-
-摘要：Fujifilm Holdings Corp. shares fell by the most on record after the Japanese company reported weaker-than-projected quarterly results.
-
-
----
+更新时间：2026-08-07 13:15:38
 
 ## Latest Oil Market News and Analysis for Aug. 7
 
@@ -62,7 +10,105 @@
 
 正文长度：0
 
-摘要：Oil extended gains after a report that Iran attacked “hostile targets” in the Strait of Hormuz, with Tehran seeking to bar US ships from the critical waterway in a deal with Oman.
+摘要：Oil wavered between losses and gains as traders weighed negotiations over a proposed deal between Iran and Oman to partially restore shipping through the Strait of Hormuz against renewed regional tensions.
+
+
+---
+
+## US Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-07/us-treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets
+
+正文长度：0
+
+摘要：US Treasuries rallied after data showed employers unexpectedly cut jobs in July, suggesting labor market challenges that could impact the Federal Reserve’s willingness to raise interest rates.
+
+
+---
+
+## Copper Market Crunch Brews as US and China Compete for Metal
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-07/copper-market-crunch-brews-as-us-and-china-compete-for-metal
+
+正文长度：0
+
+摘要：The copper market is tightening fast, with a surge in shipments to the US and rising orders in China setting the stage for a rally that could take global benchmark prices to all-time highs.
+
+
+---
+
+## Stocks and Bonds Rise as Jobs Ease Fed-Hike Worry: Markets Wrap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates
+
+正文长度：0
+
+摘要：A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.
+
+
+---
+
+## US Futures Jumps Friday Following Weak July Jobs Data
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-07/us-futures-rise-as-trump-touts-iran-progress-awaiting-jobs-data
+
+正文长度：0
+
+摘要：US stock futures surge higher after jobs data showed the US economy unexpectedly shed jobs in July.
+
+
+---
+
+## Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/07/business-business-premium-fares.html
+
+正文长度：5991
+
+摘要：Some companies plan to shun the cheapest business- and premium- economy fares from their executives.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> CHICAGO — No advanced seat selection, lounge access or flight changes included with a C-suite executive's business-class ticket? Absolutely not, some companies say.
+Delta Air Lines joined United Airlines last month in launching stripped-down business class fares for certain flights, taking the same approach they used to carve up coach class to their more expensive cabins as carriers get customers to pay more for perks in the sky.
+That's a new headache for companies' business travel mangers.
+AerSale — which leases aircraft and engines and offers maintenance and other services — likely won't block basic premium options altogether for its hundreds of traveling employees. But those tickets would be impractical for many of its workers, said Jackie Carlon, the Doral, Florida-based company's senior vice president of marketing and communications.
+"The real value is flexibility," Carlon said. "Paying a bit more, it's not necessarily a cost to us — it's insurance."
+What's included with basic business — and what's not
+With the new fares, the cheapest option for long-haul international flights won't come with things like access to an airport lounge or the ability to pick a seat for free in advance. Perhaps most important for business travel, no changes are allowed without paying a fee on top of a difference in fare.
+Delta said change fees for basic business class could range from none at all up to $400, depending on the route, and from $99 to as much as $500 for cancellations.
+Because work trips can change on a dime, a restrictive ticket in business class can cost a company even more if travelers have to buy a whole new flight. Only a small proportion of a corporation's business travelers usually fly in top-tier cabins, but the higher fares could further drive up travel costs.
+The difference in fares, meanwhile, could be several hundred dollars to close to $1,000, if not more.
+On United, for example, the least expensive fare in the airlines' lie-flat pod Polaris cabin doesn't come with access to the Polaris business-class airport lounge, which features a bar, sit-down dining, a rest area, showers and other amenities. The traveler also can't pick a seat in advance without paying a fee and no changes are allowed. Travelers can cancel the flight with a fee. United doesn't disclose its fees for the new fares, and a spokeswoman said the amounts vary.
+For a flight going from Newark, New Jersey, to London Heathrow on Oct. 1 and returning Oct. 8, the "base" Polaris ticket was going for $4,490, while the standard fare was $4,890, and it was $5,390 for a flexible, refundable ticket.
+Airlines say it gives customers more of a choice.
+"We support our corporate travel partners by giving them full control over which fare products are available to their business travelers based on their own policies and business objectives," Delta said in a statement. "We continue to see strong demand for premium travel."
+Corporate considerations
+Dane Molter, senior vice president at Navan Group Travel Marketplace, which reported $9.1 billion in gross booking volume in the 12 months ended Jan. 31, said clients that use the platform are seeking more detailed policy controls that could determine which fare an employee books for a trip.
+"Travel managers are asking a sensible question: Does the lower upfront fare still represent good value if it lacks flexibility, seat selection, lounge access or other benefits their travelers expect?" he said in a statement.
+Two travel managers at public companies at the Global Business Travel Association's annual convention in Chicago said they would likely seek to block the fares altogether. They spoke on the condition of anonymity because they weren't authorized to talk about their employers' travel spending,
+While airlines like Germany's Lufthansa and Etihad Airways, based in the United Arab Emirates, have already offered stripped-down basic business-class fares, it's still early days for these types of tickets.
+The divisions at the front of the plane comes as airfare is on the rise across the board the year. Globally, airfare is set to rise close to 5% this year from last to an average of $756 for a roundtrip flight, with premium rising even more: 9.5% to $4,488, the Global Business Travel Association forecast this week at its annual convention.
+John Bukowski, vice president of global marketplace experience, product and engineering at corporate travel and expense giant American Express Global Business Travel, which had $36.3 billion in bookings in 2025, told CNBC earlier this week that he hasn't seen a lot of clients seeking to block the fares so far, like they have with basic economy tickets.
+Companies about a decade ago started blocking their travelers from booking basic economy fares, which have become even more restrictive, including in some cases by lowering the frequent flyer miles a traveler earns or eliminating that option altogether. Airline executives have frequently measured the success of basic economy by how many travelers paid up to avoid it.
+Scott Laurence, a partner at Oliver Wyman's transportation practice who previously worked at JetBlue Airways and American Airlines, said the cheaper, basic business or other premium fares could be attractive to a more price-sensitive small or medium-sized company, but that the options could become complicated.
+American doesn't offer the basic business, or basic premium economy fares, which could also add confusion if another carrier that does appears cheaper at first glance.
+"The travel managers are going to value some level of simplicity and making sure things work with their expense system and their policy," he said.
+Laurence added that travel managers are likely to collect a lot of feedback from their customers, especially if they're used to lounge access at the end of a long-haul flight or they're earning fewer miles.
+But "there's an interest in offering a lower price point," he said. "It also is ... frankly, about driving buy up."
+
+</details>
 
 
 ---
@@ -200,159 +246,132 @@ For investors, the contrast is increasingly clear: Lilly is being viewed as the 
 
 ---
 
-## Ford's new 'Fathom' electric pickup truck will start at $28,000
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html
-
-正文长度：1803
-
-摘要：It's the first vehicle to be built using the "Universal Electric Vehicle" platform that Ford has said is key to making money with EVs.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Ford Motor announced Thursday that its new midsize electric truck will have a starting price of $28,350 and be called the "Fathom," as the automaker looks to offer an affordable option in the pricey EV truck market.
-Destination and delivery charges of $1,595 will bring the price to $29,945, coming in at the $30,000 mark the automaker had long promised in touting its upcoming electric vehicles.
-Ford said preorders for the five-passenger truck will begin in early 2027. Customer deliveries are expected to begin later in 2027. The company has yet to reveal what the new truck will look like.
-The Fathom is the first vehicle to be built on Ford's new "Universal Electric Vehicle," or UEV, platform, which the company has said is key to bring its Model e business unit from billions of dollars in annual losses to breakeven by 2029.
-"We are confident that we have the best cost platform and are focused on the right market," a Ford spokesperson said in an email. "We believe the UEV platform will be a strategic advantage -- and we have the best chance to make it work."
-Ford has said the goal for the UEV platform is for each vehicle built on the system to be profitable within a year of launching and cost-competitive with global EV leaders from China and Tesla. Ford has had a secret unit working on the platform to make the vehicles comparable in price to gas-powered models through new technologies and efficiencies.
-Ford's push with the UEV platform comes despite a massive slowdown in EV adoption and the elimination of U.S. consumer incentives to buy EVs. The company last year reported $19.5 billion in restructuring charges related to its electric vehicles.
-The Ford Fathom will be built using the company's new assembly tree manufacturing process at its Louisville Assembly Plant in Kentucky.
-
-</details>
-
-
----
-
-## Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times
+## US economy undershoots forecasts to shed 23,000 jobs in July - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZG9SSkVKLTdGVFZHbjFSYnhuSzR2Z2JibGFtZXlxRnpwN0hkUzJnY2hselpsQXFzVWR5bXF3dzRiNHJFb1RaYTk5OHJMbDdndTRpd29VZHhDZDlVcnZDNlNyN0pDbzRtX3NPMk0tdVJDc3Q0Q3otaTRJbVRjXzNPaXRWbEs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5" target="_blank">Kevin Warsh to stick with lean Fed messaging despite market backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZG9SSkVKLTdGVFZHbjFSYnhuSzR2Z2JibGFtZXlxRnpwN0hkUzJnY2hselpsQXFzVWR5bXF3dzRiNHJFb1RaYTk5OHJMbDdndTRpd29VZHhDZDlVcnZDNlNyN0pDbzRtX3NPMk0tdVJDc3Q0Q3otaTRJbVRjXzNPaXRWbEs?oc=5" target="_blank">US economy undershoots forecasts to shed 23,000 jobs in July</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Diageo boss Dave Lewis stakes revival on canned cocktails and Guinness - Financial Times
+## Warsh is being misread - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnAyQU9Rd1ZyWXNTc3VwcHZha194QjlkTUhjdElybThWMFJsZkFWSWxhcUpNci14WDVIZHhNR1k0UUo4MHF3QzJhRWZWYlBRa1pEZFNsUmdOeExHNWRBbFRtSlpBc3B0TGdMZ2ZJYkZNZWg3NjNLVjI4SkpFT3J0eUU4Ujg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRyTHAtYUM2X0s3UjZFUUNWTktlZkhUZ0RFLUEzMXpES3FkcThqMVV0MXhWbE5tYWN6bnc4U1BHdFIzY2FUZkcwSERHOS1mTmJ2a0ctTVotQnF3UXNqbnY3bTRsSlhkUmphTmFiTlRxYWdUQWlkVXJvTXhkbnF4LWZuQ0s?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnAyQU9Rd1ZyWXNTc3VwcHZha194QjlkTUhjdElybThWMFJsZkFWSWxhcUpNci14WDVIZHhNR1k0UUo4MHF3QzJhRWZWYlBRa1pEZFNsUmdOeExHNWRBbFRtSlpBc3B0TGdMZ2ZJYkZNZWg3NjNLVjI4SkpFT3J0eUU4Ujg?oc=5" target="_blank">Diageo boss Dave Lewis stakes revival on canned cocktails and Guinness</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRyTHAtYUM2X0s3UjZFUUNWTktlZkhUZ0RFLUEzMXpES3FkcThqMVV0MXhWbE5tYWN6bnc4U1BHdFIzY2FUZkcwSERHOS1mTmJ2a0ctTVotQnF3UXNqbnY3bTRsSlhkUmphTmFiTlRxYWdUQWlkVXJvTXhkbnF4LWZuQ0s?oc=5" target="_blank">Warsh is being misread</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AI creates first synthetic viruses - Financial Times
+## US euro sale to prop up yen blindsided ECB - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0otdHM4UEFqNnVDMllyRUhVU1Z4cW1SWHBvbm4wLXcxUVI2ejdkNnNPRXlIbjZ5a0tGeWwwZkJFODFGLUs0UkgyQ3k0TVU5UFVzVDJWa3JLR195bXl6aUtoRkdtVGd1R2RsWS1HYzZhQUpKaUY5bzBTem1BemRWV01TZHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3ZhN3Atejhmc0FhVWRQZjJXQmpYRDlkNGFlblJjYTh3dklJOXJwTXNKS2thMUdWZmRIcm9UVkVDRFZqQzRJZTJQX2daNlZIc2cydUdIaHhYd0xYWUxRb3RqV3d1ZDBwLUV3OGRlSnlqU3QxdG1jcjl0UjJNdlhfSUZMTDQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0otdHM4UEFqNnVDMllyRUhVU1Z4cW1SWHBvbm4wLXcxUVI2ejdkNnNPRXlIbjZ5a0tGeWwwZkJFODFGLUs0UkgyQ3k0TVU5UFVzVDJWa3JLR195bXl6aUtoRkdtVGd1R2RsWS1HYzZhQUpKaUY5bzBTem1BemRWV01TZHA?oc=5" target="_blank">AI creates first synthetic viruses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3ZhN3Atejhmc0FhVWRQZjJXQmpYRDlkNGFlblJjYTh3dklJOXJwTXNKS2thMUdWZmRIcm9UVkVDRFZqQzRJZTJQX2daNlZIc2cydUdIaHhYd0xYWUxRb3RqV3d1ZDBwLUV3OGRlSnlqU3QxdG1jcjl0UjJNdlhfSUZMTDQ?oc=5" target="_blank">US euro sale to prop up yen blindsided ECB</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump allowed to delay release of financial details in $10bn BBC defamation case - Financial Times
+## Gulf’s ‘Little Sparta’ takes on the oil world - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHBEM25OWElSNTRFOGRSSnUzWDNBbGlGQ0lUbm1Ra1NGTTVlM3F6M3pQdmJycVRfaWtUbXZOeHo3QkFBNHIwbjk2cXczU2ltQ09uWUV3MWRXTjVkUmZlMEVkYVhuM2g3SmVJaE5JeU5IVEkxcW0yTjFibTBWWW0tdkkzR2M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXVtNVZteTYtN2Y0OW9yOXRFTWZLT1JpWEtydmJrakowTUNwNVAwWWJnb0t4ZXpCWGktWDNwREVxWnJLYkhUTjlSeGhYMHF4QXF6VEFnMmFJaUZIX1NUQUlBTXdyMWFBNnlSTmFVYzNHcWNWbXNzMXRPamlMNUVSRHZxRGI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHBEM25OWElSNTRFOGRSSnUzWDNBbGlGQ0lUbm1Ra1NGTTVlM3F6M3pQdmJycVRfaWtUbXZOeHo3QkFBNHIwbjk2cXczU2ltQ09uWUV3MWRXTjVkUmZlMEVkYVhuM2g3SmVJaE5JeU5IVEkxcW0yTjFibTBWWW0tdkkzR2M?oc=5" target="_blank">Donald Trump allowed to delay release of financial details in $10bn BBC defamation case</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXVtNVZteTYtN2Y0OW9yOXRFTWZLT1JpWEtydmJrakowTUNwNVAwWWJnb0t4ZXpCWGktWDNwREVxWnJLYkhUTjlSeGhYMHF4QXF6VEFnMmFJaUZIX1NUQUlBTXdyMWFBNnlSTmFVYzNHcWNWbXNzMXRPamlMNUVSRHZxRGI?oc=5" target="_blank">Gulf’s ‘Little Sparta’ takes on the oil world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EasyJet agrees to £5.7bn Apollo takeover as Castlelake backs away - Financial Times
+## Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQktMa1c1eE1IWk9FUnZQcUdiXzUwbXBMcmtkN1A3S096ZkR6dnQwUl80OVp3ME5heFVVVlNzWHRlVFU5VlN0TmE0ZkZfemFmX0VlOTZoS0JfY2ZRNnJIeUFkZGp6NF9kRnJZRWpJTHVrZ09QcWVWMHZ6WW5WYlNwZlpSUEo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeE84eExMV0Z4RUhMRk5YSjdzaEQwTDA1UEkzLUlHN0hQbElPNDBRTk1mdF9xYllzN2Eyd28wS3FSeW9KMFhLQ0s4bHR3dkluYmpWOVVuOUdEX0JTR282TnVTWTZJV1lzQmZrZ2hLZU5TT3JIVjRPS3Z2NzhtOGltUWFlenk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQktMa1c1eE1IWk9FUnZQcUdiXzUwbXBMcmtkN1A3S096ZkR6dnQwUl80OVp3ME5heFVVVlNzWHRlVFU5VlN0TmE0ZkZfemFmX0VlOTZoS0JfY2ZRNnJIeUFkZGp6NF9kRnJZRWpJTHVrZ09QcWVWMHZ6WW5WYlNwZlpSUEo?oc=5" target="_blank">EasyJet agrees to £5.7bn Apollo takeover as Castlelake backs away</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeE84eExMV0Z4RUhMRk5YSjdzaEQwTDA1UEkzLUlHN0hQbElPNDBRTk1mdF9xYllzN2Eyd28wS3FSeW9KMFhLQ0s4bHR3dkluYmpWOVVuOUdEX0JTR282TnVTWTZJV1lzQmZrZ2hLZU5TT3JIVjRPS3Z2NzhtOGltUWFlenk?oc=5" target="_blank">Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - reuters.com
+## Thai PM vows new gun law after deadly school shooting - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOLW53bUxYeW15OS1Hc2tXTjEwWWZEVGw2ajRxMk9PcnBFZE5mTHNITWJlc2ZmSGhNNFNFRjRRNE5SWG5uTmI1bldVOUlfanB6Z05iX090NzVRcUFDUzFJNDFUUFREMnZEQ0Z2ekFqUXcxUFFtcVc0Qi1CYy05RjNJQjV6VFNCX0RGckxyMVZJV2x3S1pUZ19YY1VCLUs4eFU5b1lTM1NuY2MxX0dz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5" target="_blank">EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOLW53bUxYeW15OS1Hc2tXTjEwWWZEVGw2ajRxMk9PcnBFZE5mTHNITWJlc2ZmSGhNNFNFRjRRNE5SWG5uTmI1bldVOUlfanB6Z05iX090NzVRcUFDUzFJNDFUUFREMnZEQ0Z2ekFqUXcxUFFtcVc0Qi1CYy05RjNJQjV6VFNCX0RGckxyMVZJV2x3S1pUZ19YY1VCLUs4eFU5b1lTM1NuY2MxX0dz?oc=5" target="_blank">Thai PM vows new gun law after deadly school shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Meta ordered to pay $567 million in New Mexico for teen mental health fund - reuters.com
+## Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5" target="_blank">Meta ordered to pay $567 million in New Mexico for teen mental health fund</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5" target="_blank">Chinese startup Moonshot's AI model breaks out of testing environment, researchers say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - reuters.com
+## Who is liable when AI goes rogue? Lawyers see new risks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5" target="_blank">Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5" target="_blank">Who is liable when AI goes rogue? Lawyers see new risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say - reuters.com
+## Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5" target="_blank">Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5" target="_blank">Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises on concerns over Strait of Hormuz reopening plans - reuters.com
+## Airbus reports stable July deliveries, confirms China orders - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUU0WXZ6YkVtQzdoTUFwNFN3YmVVejlTVFFfSFdJVk1fT3R5RlBEN3NlT0dfc0RDNlF5VFpCaGk5SVJDVFdORFNWYjhERTlMSWtHZTVlWjFwckFDV3RfSUZheEx0YVJyS3JrbzhwQU5JRDBmSXhjNjlPelhkWkdLcTVSN2o1dkZHOXFrQUY5eUlQZU1GZDFHbjJTZDRldnN4Sjc3cGM4cjNPMG9LM04wckI4UFJVWXhzVTBaeG91TQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5" target="_blank">Oil rises on concerns over Strait of Hormuz reopening plans</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUU0WXZ6YkVtQzdoTUFwNFN3YmVVejlTVFFfSFdJVk1fT3R5RlBEN3NlT0dfc0RDNlF5VFpCaGk5SVJDVFdORFNWYjhERTlMSWtHZTVlWjFwckFDV3RfSUZheEx0YVJyS3JrbzhwQU5JRDBmSXhjNjlPelhkWkdLcTVSN2o1dkZHOXFrQUY5eUlQZU1GZDFHbjJTZDRldnN4Sjc3cGM4cjNPMG9LM04wckI4UFJVWXhzVTBaeG91TQ?oc=5" target="_blank">Airbus reports stable July deliveries, confirms China orders</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
