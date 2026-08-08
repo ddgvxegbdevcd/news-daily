@@ -1,68 +1,112 @@
 # 每日财经新闻
 
-更新时间：2026-08-08 01:59:03
+更新时间：2026-08-08 12:59:01
 
-## New Zealand Slaps New Sanctions Against Russia After US Move
+## AI Buildout Keeps Quinlan Bullish on US Stocks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-08/new-zealand-slaps-new-sanctions-against-russia-after-us-move
+链接：https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video
 
 正文长度：0
 
-摘要：New Zealand announced more sanctions targeting individuals and entities supporting Russia’s war against Ukraine, following the passage of a new bill in the US Senate targeting the country’s oil and gas revenues.
+摘要：Merrill & Bank of America Head of Market Strategy Joe Quinlan is on Bloomberg This Weekend to give his reaction to the July jobs report. Quinlan explains to hosts David Gura and Christina Ruffini that the US economy remains resilient despite the weak July jobs data, pointing to continued hiring in construction and health care and investment tied to AI. (Source: Bloomberg)
 
 
 ---
 
-## US Partly Resumes Operations in Mexico’s Avocado State Michoacan
+## Zelenskyy Wins Serbian Pledges as Russian Influence Wanes
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-08/us-partly-resumes-operations-in-mexico-s-avocado-state-michoacan
+链接：https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes
 
 正文长度：0
 
-摘要：The US will partially resume operations in Mexico’s top avocado-producing state, days after security concerns prompted a halt that disrupted inspections for exports.
+摘要：Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.
 
 
 ---
 
-## SEC Drops Insider-Trading Suit Against Executive Trump Pardoned
+## By The Way: Headline You May Have Missed the Week of 8/2
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned
+链接：https://www.bloomberg.com/news/videos/2026-08-08/by-the-way-headline-you-may-have-missed-video
 
 正文长度：0
 
-摘要：The US Securities and Exchange Commission said it is dropping an insider-trading lawsuit against a former healthcare executive who was convicted in a related criminal case and then pardoned by President Donald Trump.
+摘要：Sports game streaming, RFK Jr.'s cooking show, $100 hot dogs, and getting into college without applying. Bloomberg News' Lisa Mateo joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed from over the week. (Source: Bloomberg)
 
 
 ---
 
-## CFTC Warns Prediction Markets on American-Style Casino Odds
+## Ceuta Migrant Surge Exposes Morocco’s Economic Strain
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds
+链接：https://www.bloomberg.com/news/videos/2026-08-08/ceuta-migrant-surge-exposes-morocco-s-economic-strain-video
 
 正文长度：0
 
-摘要：The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.
+摘要：More than 70,000 people, mostly Moroccans, crossed into Spain’s North African enclave of Ceuta in a mass migration surge fueled by economic frustration and amplified by social media. Senior Researcher at Oxford University Centre on Migration, Policy & Society Myriam Cherti is on Bloomberg This Weekend to discuss the unusual influx of those looking to cross. (Source: Bloomberg)
 
 
 ---
 
-## Yen Jumps on US Data as Traders Watch for Intervention Clues
+## Weak Jobs Data Masked by Falling Unemployment
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-07/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention
+链接：https://www.bloomberg.com/news/videos/2026-08-08/weak-jobs-data-masked-by-falling-unemployment-video
 
 正文长度：0
 
-摘要：The yen surged against a weaker dollar after an unexpectedly soft US payrolls report on Friday, with traders on alert for any sign authorities were preparing to intervene in the Japanese currency again.
+摘要：The US unexpectedly lost 23,000 jobs in July while unemployment fell to 4.1%, a decline driven by fewer people participating in the labor force rather than stronger employment. Bloomberg News Economics Chief US Economist Anna Wong joins Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the weak payrolls and persistent downward revisions point to a softer labor market and could reduce pressure on the Fed to raise rates in September. (Source: Bloomberg)
+
+
+---
+
+## Cyclospora fears lead consumers to lose their appetite for salads
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html
+
+正文长度：5099
+
+摘要：Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Warm weather usually drives salad sales, but consumers spooked by the ongoing cyclospora outbreaks are avoiding lettuce this summer.
+Traffic to Chopt Creative Salad Co. locations fell 24% on July 18, right after the Food and Drug Administration announced the outbreak, according to Placer.ai data. Sweetgreen on Thursday said consumer concerns about the outbreak had about a 6 percentage point impact on same-store sales in July, and the company cut its full-year outlook. And earlier this week, upstart chain Salad and Go filed for Chapter 11 bankruptcy and closed all of its locations, saying the cyclospora outbreak had exacerbated its existing business challenges.
+Grocery stores aren't immune either. Dollar sales of prepackaged salads plunged 14% during the four weeks ended July 25 compared with the year-ago period, according to NielsenIQ data.
+The FDA has pointed to iceberg lettuce processed in Taylor Farms' central Mexico facility as the likely culprit for the outbreak that has sickened at least 10,000 people. Taylor Farms has voluntarily recalled products supplied from that facility.
+Yum Brands' Taco Bell is the only national restaurant chain that has been linked to the multistate outbreak. It uses iceberg lettuce frequently across its menu, from its Crunchwrap Supreme to its Cheesy Gordita Crunches, but the chain isn't known for its salads. Taco Bell's sales and traffic to its restaurants initially tumbled after the FDA announcement, but Yum executives said in late July that business was already recovering.
+But the FDA is also tracking at least six other active outbreaks without a clear culprit; those outbreaks have significantly smaller number of reported cases. The long incubation period for cyclosporiasis makes it difficult to identify the contaminated ingredients.
+Cyclospora is a water-borne parasite. It typically spreads through contaminated produce, like lettuce, green onions, raspberries and fresh herbs. Although public health authorities seem to have pinpointed the source of the current outbreak, the FDA is advising consumers to take extra steps, like discarding outer layers of fruits and vegetables, to reduce risk of exposure.
+But many diners have gone further and chosen to avoid salads and greens altogether during the outbreak.
+Even Chipotle Mexican Grill has seen its sales dip. The burrito chain offers romaine lettuce as a topping and uses fresh cilantro across much of its menu, including its guacamole and salsas.
+"In the second half of July, we did see a softening, call it about 200 basis points or so, right around the issue that's affecting the industry around cyclospora," Chipotle CFO Adam Rymer said on the company's earnings call in late July.
+Chipotle has separately been in the news for recalling jalapeno peppers that were potentially contaminated with salmonella as part of a broader outbreak that has sickened at least 300 people.
+Damage control
+Sweetgreen and other restaurant chains swept up in the panic have had to implement strategies to reassure their customers.
+For example, Sweetgreen has chosen to emphasize that iceberg lettuce isn't even on its menu. On the chain's 19th birthday, CEO Jonathan Neman posted on X that its restaurants have never served iceberg lettuce and only source lettuce grown in the U.S.
+Likewise, Just Salad founder and CEO Nick Kenner posted on LinkedIn detailing the chain's food safety measures, like peeling and discarding the outer leaves of romaine and kale and double washing the leaves.
+And Chopt posted on its Instagram about food safety.
+"Food safety has always been at the heart of how we operate. ... We promise to continue monitoring guidance from public health officials and remain committed to earning your trust every time you choose Chopt," the company wrote.
+Cava, another fast-casual chain known for its bowls and salads, has yet to report its earnings and any impact from the cyclospora scare. It is expected to share its quarterly results after the bell on Tuesday.
+But in a promising sign for many restaurant chains — and diners — the danger may be passing.
+The Michigan Health Department on Thursday said residents can eat lettuce and salad greens again as new infections slowed.
+"The broad, precautionary recommendation to avoid bagged salad mixes during the Cyclospora outbreak is no longer in effect," the agency said in a statement. "Residents may resume their usual food handling practices and make choices based on their individual risk tolerance."
+The state appears to be hardest hit by the outbreak, with two deaths and more than 12,400 cases reported in Michigan alone.
+Of course, not all consumers have lost their appetite for greens. A Sweetgreen location in downtown Manhattan was bustling with diners and delivery drivers around noon on Friday.
+Sherine Naveed, a 35-year-old laser technician who lives on Long Island, picked up her usual Sweetgreen salad order. Despite hearing about the outbreak, she hasn't changed her dining habits and is also still buying prepackaged salads at the grocery store.
+"I have two kids," she said. "They're already pretty germ-y."
+
+</details>
 
 
 ---
@@ -214,27 +258,132 @@ Correction: This story has been revised to reflect that Sweetgreen reported its 
 
 ---
 
-## American Airlines will stop upgrading elite flyers to business from coach on long domestic flights
+## Donald Trump revives threat to sack Federal Reserve governor Lisa Cook - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkNXS0c1SjN5THJyTEwxUUpJNng5V1ZzQmJjYmo2aGtmcGlYcldpTzVjZm9mZ3FNR243bkJkaXNXa2tTS3ZEQVgwcjdmSlVJQTJMU1V6Z1lDLXVzenZtZXFKOThwVGZiQWgxTEdidHctQzRzOHR0enI1STRsd1FQSkJSVWE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1444
+正文长度：0
 
-摘要：American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkNXS0c1SjN5THJyTEwxUUpJNng5V1ZzQmJjYmo2aGtmcGlYcldpTzVjZm9mZ3FNR243bkJkaXNXa2tTS3ZEQVgwcjdmSlVJQTJMU1V6Z1lDLXVzenZtZXFKOThwVGZiQWgxTEdidHctQzRzOHR0enI1STRsd1FQSkJSVWE?oc=5" target="_blank">Donald Trump revives threat to sack Federal Reserve governor Lisa Cook</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> American Airlines elite frequent flyers have to say goodbye to the free coach-to-business leap on several long-haul domestic routes.
-Starting Aug. 25, American said it will stop putting frequent flyers with elite status on the upgrade list for business class on some of its transcontinental and Hawaii routes. They'll be put on the list for a complimentary upgrade to premium economy instead.
-The change is the latest sign of how American and other airlines are working to give fewer high-fare seats away to increase revenue and profits. Getting an upgrade overall has become tougher on many flights with more and more customers paying up for pricier, roomier seats.
-Routes that include the upgrade to premium economy instead of business class are New York's John F. Kennedy International Airport to Los Angeles; Boston to San Francisco; Dallas Fort Worth International Airport to Honolulu, Kona and Maui in Hawaii; Phoenix to Honolulu; and Chicago O'Hare International Airport to Honolulu and Maui.
-Elite flyers who bought a premium economy ticket or purchased an upgrade after buying a coach ticket are still eligible for the complimentary upgrade, American said.
-"We'll do our best to accommodate your seating preferences, though options may vary depending on aircraft type and availability," American said. "In Premium Economy, some aircraft types include middle seats, so you may be assigned one if other seating options aren't available."
+---
 
-</details>
+## Starlink mobile threat has been exaggerated, says T-Mobile CEO - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFNGcjNiWlFzeDFRdzhhSmR2ZG5HSkFLNnYwTkdtdllybEtRRjVHbVhuXzVEMU5lTnBPWWd0UmhOdDhEOW5OdkdOeDEwRHhYMnlnU09zN2FvdXZiVTBQWWhQeDlWXzRmbElfZGFXSVJna3pXdlNVUFF4UjF5aHJNZV9LLTA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFNGcjNiWlFzeDFRdzhhSmR2ZG5HSkFLNnYwTkdtdllybEtRRjVHbVhuXzVEMU5lTnBPWWd0UmhOdDhEOW5OdkdOeDEwRHhYMnlnU09zN2FvdXZiVTBQWWhQeDlWXzRmbElfZGFXSVJna3pXdlNVUFF4UjF5aHJNZV9LLTA?oc=5" target="_blank">Starlink mobile threat has been exaggerated, says T-Mobile CEO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## ByteDance targets mega AI model nearing Anthropic’s Mythos - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5" target="_blank">ByteDance targets mega AI model nearing Anthropic’s Mythos</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Billionaire’s financial data group Ion chased by landlords for overdue rent - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3R3clE0UlZyZ3NvN1V4ZnZWalY5WHFvX2dDQUFZYzN5MTNBMHJhb0tZUlNyUGRtR2JQalVXRFdaQnQ0enhEZlFtM2F6TFk1RjFyb2tEajN6eU45SmRSZmNWQld1Y3ZycDY3TFExUEx4S0U2LWppcENsQ0llcXVfckFjZ1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3R3clE0UlZyZ3NvN1V4ZnZWalY5WHFvX2dDQUFZYzN5MTNBMHJhb0tZUlNyUGRtR2JQalVXRFdaQnQ0enhEZlFtM2F6TFk1RjFyb2tEajN6eU45SmRSZmNWQld1Y3ZycDY3TFExUEx4S0U2LWppcENsQ0llcXVfckFjZ1Y?oc=5" target="_blank">Billionaire’s financial data group Ion chased by landlords for overdue rent</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Stop feeding my cat! - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFBBc3ByWGN2c2JRYnBKcEZFOVExUm85MUMxdWRFck00Z2tyVDJRNXV5a0I1cXlrNWFBWTA2WFQ5TVBCY0dsTUN4aXBEVmZUTmxYREZzTERST2tidkZPR3MzMmE2eDJhWjJfM0Jlc3VLb2JBV3RuSWlWb3FNRWJNSXpScXY?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFBBc3ByWGN2c2JRYnBKcEZFOVExUm85MUMxdWRFck00Z2tyVDJRNXV5a0I1cXlrNWFBWTA2WFQ5TVBCY0dsTUN4aXBEVmZUTmxYREZzTERST2tidkZPR3MzMmE2eDJhWjJfM0Jlc3VLb2JBV3RuSWlWb3FNRWJNSXpScXY?oc=5" target="_blank">Stop feeding my cat!</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Drones spotted above German military base two days after suspected drone attack - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3?oc=5" target="_blank">Drones spotted above German military base two days after suspected drone attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5" target="_blank">Democrats plan Trump investigations over impeachment if they win House, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5" target="_blank">Senate Republicans narrowly confirm Todd Blanche as attorney general</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## U.S. Senate passes short-term funding bill to avert federal shutdown before election - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5" target="_blank">U.S. Senate passes short-term funding bill to avert federal shutdown before election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5" target="_blank">Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
