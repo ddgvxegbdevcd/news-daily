@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-08-09 02:06:49
+更新时间：2026-08-09 13:01:42
 
-## Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out
+## US Weapons Crunch Raises Risks Beyond Iran
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out
+链接：https://www.bloomberg.com/news/videos/2026-08-09/us-weapons-crunch-raises-risks-beyond-iran-video
 
 正文长度：0
 
-摘要：The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging.
+摘要：The Pentagon presses defense companies to accelerate weapons production as the Iran war depletes key US stockpiles and raises questions about readiness in other regions. Brigadier General Mark Kimmitt (Ret) and Bloomberg Economics Defense Lead Becca Wasser are on Bloomberg This Weekend and say the US has used at least half of its Patriot stockpile in the Iran conflict, forcing tougher choices over supplies for allies including Ukraine. (Source: Bloomberg)
 
 
 ---
 
-## Bloomberg This Weekend 8/08/2026
+## Europe Looks Up for First Total Eclipse Since 1999
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-08/bloomberg-this-weekend-8-08-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-08-09/europe-looks-up-for-first-total-eclipse-since-1999-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Oxford Centre on Migration, Policy & Society Senior Researcher Myriam Cherti, Merrill & Bank of America Head of Market Strategy Joe Quinlan, the New Yorker Staff Writer and Author “Age of Ambition” Evan Osnos and Sportswriter & “LIV and Let Die” Author Alan Shipnuck. (Source: Bloomberg)
+摘要：A total solar eclipse will cross Greenland, Iceland, Portugal and northern Spain on Wednesday August 12th, marking the first total eclipse visible from central or western Europe since 1999. Royal Observatory Greenwich Astronomer Imo Bell is on Bloomberg This Weekend with hosts David Gura and Christina Ruffini and says the event offers spectators a rare view of totality while giving scientists an opportunity to study the sun’s corona. (Source: Bloomberg)
 
 
 ---
 
-## Zelenskyy Wins Serbian Pledges as Russian Influence Wanes
+## Puerto Rico Rations Water as Drought Deepens
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes
+链接：https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video
 
 正文长度：0
 
-摘要：Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.
+摘要：More than 180,000 customers in Puerto Rico are facing rotating 48-hour water outages as severe drought compounds longstanding problems with the island’s water infrastructure. Resident Commissioner Representative Pablo José Hernández joins David Gura and Christina Ruffini on Bloomberg This Weekend and calls for a federal emergency declaration to unlock additional assistance and said poor management has worsened the crisis, while arguing Puerto Rico must also hold local officials accountable. (Source: Bloomberg)
 
 
 ---
 
-## Private Credit Squeezed By Bank Refinancings: Credit Weekly
+## Iran Talks Offer Little Relief for Hormuz Shipping
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video
 
 正文长度：0
 
-摘要：Highly-indebted companies are increasingly ditching private credit loans for cheaper capital in the bank loan market, a shift underscoring the stark realities of higher-for-longer interest rates.
+摘要：Iran and Oman are still discussing a temporary arrangement for shipping through the Strait of Hormuz, but attacks on regional energy infrastructure and major disagreements over transit rules are complicating negotiations. Bloomberg News White House Correspondent Skylar Woodhouse and Bloomberg News Middle East Correspondent Abeer Abu Omar join Bloomberg This Weekend and explain to hosts David Gura and Christina Ruffini that even with an agreement, shipowners and traders expect it could take weeks or months for oil flows to approach normal levels. (Source: Bloomberg)
 
 
 ---
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## Barrick Chairman's Planned Overhaul Meets Investor Backlash
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-08/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Lisa Mateo as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：John Thornton appeared ready last year to step down as chairman of Barrick Mining Corp. after a turbulent 12-year tenure. Instead, he seized control from his long-time CEO and is now driving a reinvention of one of the world’s largest gold producers.
 
 
 ---
@@ -258,54 +258,41 @@ Correction: This story has been revised to reflect that Sweetgreen reported its 
 
 ---
 
-## Greg Abel finally puts Buffett’s cash pile to work - Financial Times
+## Impatient yacht owners make for a hot new asset class - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObkdieWhTMkIxM0FYSDRGMmQxZU02bzRfMzBJMVFrVWVLNzhDSG4tbC1GUm9FQ2luajZETlZvdURGVkpEX2tBOTNlOGFiMlU1V3VXNkNLd0JCVjNuYUFNVTVkRDcxMTdzcEJnVVg4N05nb0M1WEQ2X3Q1NVdqQXlacndNVTI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnZYQWRCOThXSmh1QUNzNENnV2pMM1hLVHNvZUNxaTRQWXlFNmN3ajVlVDdpNHkwM19xTmItajRwbU5lUzBkQWpKQk9LdnFwRy00SWlOTmtyS1pZYXRjbHhZUmZMQVlSV0hyd1pPZU0yWlBSNjNYb0g0YnAxVzNUa0NJbTI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObkdieWhTMkIxM0FYSDRGMmQxZU02bzRfMzBJMVFrVWVLNzhDSG4tbC1GUm9FQ2luajZETlZvdURGVkpEX2tBOTNlOGFiMlU1V3VXNkNLd0JCVjNuYUFNVTVkRDcxMTdzcEJnVVg4N05nb0M1WEQ2X3Q1NVdqQXlacndNVTI?oc=5" target="_blank">Greg Abel finally puts Buffett’s cash pile to work</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnZYQWRCOThXSmh1QUNzNENnV2pMM1hLVHNvZUNxaTRQWXlFNmN3ajVlVDdpNHkwM19xTmItajRwbU5lUzBkQWpKQk9LdnFwRy00SWlOTmtyS1pZYXRjbHhZUmZMQVlSV0hyd1pPZU0yWlBSNjNYb0g0YnAxVzNUa0NJbTI?oc=5" target="_blank">Impatient yacht owners make for a hot new asset class</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump revives threat to sack Federal Reserve governor Lisa Cook - Financial Times
+## Career satisfaction in an uncertain world? Dream on - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkNXS0c1SjN5THJyTEwxUUpJNng5V1ZzQmJjYmo2aGtmcGlYcldpTzVjZm9mZ3FNR243bkJkaXNXa2tTS3ZEQVgwcjdmSlVJQTJMU1V6Z1lDLXVzenZtZXFKOThwVGZiQWgxTEdidHctQzRzOHR0enI1STRsd1FQSkJSVWE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVhlUDgwTnlGSVNNcm9UbW1rRzkxcm9HYU1uTS1kblUxV1ltZk9udDdVeDVKcGk2T3NaN3BkSnl3cHpzUXRVeFNMMVUyNEJUU0o0a1NlUUJwQTlYdnhIWUs5eGE0YXFyZExjWGhvZno4dWhnV0gtRzlma2JyVEN0X3oybHA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkNXS0c1SjN5THJyTEwxUUpJNng5V1ZzQmJjYmo2aGtmcGlYcldpTzVjZm9mZ3FNR243bkJkaXNXa2tTS3ZEQVgwcjdmSlVJQTJMU1V6Z1lDLXVzenZtZXFKOThwVGZiQWgxTEdidHctQzRzOHR0enI1STRsd1FQSkJSVWE?oc=5" target="_blank">Donald Trump revives threat to sack Federal Reserve governor Lisa Cook</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVhlUDgwTnlGSVNNcm9UbW1rRzkxcm9HYU1uTS1kblUxV1ltZk9udDdVeDVKcGk2T3NaN3BkSnl3cHpzUXRVeFNMMVUyNEJUU0o0a1NlUUJwQTlYdnhIWUs5eGE0YXFyZExjWGhvZno4dWhnV0gtRzlma2JyVEN0X3oybHA?oc=5" target="_blank">Career satisfaction in an uncertain world? Dream on</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s biggest travel site grapples with watchdog’s reservations - Financial Times
+## France faces budget showdown as presidential election looms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZ4TWYteVNOMjFnLTFkbXBoOUZPaXZZeXJHckJPeVhyR1FoTHFqd1R0bFNHSDBYdmUyTHd3bmhVRzFoOG9DRWI2V1BZcGFhajYyb3VqZE8wSjdvdEsyZ0lHbjJHQkVfQXNsV29oMnlDa0d1MEtMZlpYaEtsdjVfZWpSMjY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPckZTMndlMVJhdHZ2YUxKOExkOFRlSlRjVXkxNmNtRW5xYWpiTlpQbF95ajVGZHpYZ2ZETWJRaVg5ZTd1VHJwcWsyX0w2LWR2N0FEZXRyZEZtUEdDNm1JSmZYeFpTMnJaOFg1SkItenFpeDFUdXhFQU9MNGVNZVphMzBkWU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZ4TWYteVNOMjFnLTFkbXBoOUZPaXZZeXJHckJPeVhyR1FoTHFqd1R0bFNHSDBYdmUyTHd3bmhVRzFoOG9DRWI2V1BZcGFhajYyb3VqZE8wSjdvdEsyZ0lHbjJHQkVfQXNsV29oMnlDa0d1MEtMZlpYaEtsdjVfZWpSMjY?oc=5" target="_blank">China’s biggest travel site grapples with watchdog’s reservations</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Can you ever finish America? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDE3RGNsd3VZZml2TVVQSFJRTm5rZ0RYWnFJbnhiVndIMHNLQloyUEoxRHhiX0wzSDhCZ1Z0THdIZkRMcXVPcUlnM3ZzV25IdUtITUszQ2RSNEFOU1RNQjBWaWZxUnN6c3k4bmlzNFZtYy12VF9Qa1VEYnhrUXllcmpxUi0?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDE3RGNsd3VZZml2TVVQSFJRTm5rZ0RYWnFJbnhiVndIMHNLQloyUEoxRHhiX0wzSDhCZ1Z0THdIZkRMcXVPcUlnM3ZzV25IdUtITUszQ2RSNEFOU1RNQjBWaWZxUnN6c3k4bmlzNFZtYy12VF9Qa1VEYnhrUXllcmpxUi0?oc=5" target="_blank">Can you ever finish America?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPckZTMndlMVJhdHZ2YUxKOExkOFRlSlRjVXkxNmNtRW5xYWpiTlpQbF95ajVGZHpYZ2ZETWJRaVg5ZTd1VHJwcWsyX0w2LWR2N0FEZXRyZEZtUEdDNm1JSmZYeFpTMnJaOFg1SkItenFpeDFUdXhFQU9MNGVNZVphMzBkWU0?oc=5" target="_blank">France faces budget showdown as presidential election looms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -323,67 +310,80 @@ Correction: This story has been revised to reflect that Sweetgreen reported its 
 
 ---
 
-## US Senate advances landmark crypto bill before heading on August recess - Reuters
+## Deadly protests in Kashmir test Pakistan’s military rulers - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGpJVERueTRoZHJmWC0tanExU29rY0JsRkY0YkRmVUxRemhHOVF6UEpJQWc2S0ZQWlFDMjIxTGZ5WDlVVXRGRFRZeVVfRkZZeGJoZGQtalFib2t1c2tiMHFqbEZhNWhfeWZRcURacjVta3NIaTVRUUNFY3dIMEtUSFNZdU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5" target="_blank">US Senate advances landmark crypto bill before heading on August recess</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGpJVERueTRoZHJmWC0tanExU29rY0JsRkY0YkRmVUxRemhHOVF6UEpJQWc2S0ZQWlFDMjIxTGZ5WDlVVXRGRFRZeVVfRkZZeGJoZGQtalFib2t1c2tiMHFqbEZhNWhfeWZRcURacjVta3NIaTVRUUNFY3dIMEtUSFNZdU0?oc=5" target="_blank">Deadly protests in Kashmir test Pakistan’s military rulers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters
+## Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5" target="_blank">Ex-President Joe Biden's cancer has spread, is very painful, son says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5" target="_blank">Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters
+## Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5" target="_blank">Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5" target="_blank">Talks with US won't happen while interim deal is breached, Iranian minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## British Columbia declares provincial state of emergency as wildfires grow - Reuters
+## Spain checks 200 Italy arrivals in border controls after migration row - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlJZmFSMlhEZDBYS2E3ejJZR1VxWkdEYjZQTm00NGVvemhMSjV1SUZTdkdIZTA4cFFLSXg5cHlsOGZPSjNlVjhSaXNDX09uZzYtaFN0TS1WZndRLVlIRktrdGtMVUszMWZIYklQYTJsbkZaLVN3ZXB1SGlTb05DY0RHa1VXUkFPMGN3STBSeVNHRl9Uc1RZVzZCaHdhbWJrQ29MQ0NsMkpOV0lfeGw0QWRERmFRbGNsQ0VkdnJxcDFfUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xPUnhUVXVCczdCeWJsTTl2WGtMY1M5aHJRZjlYbkI5OW94dFE1eEJzaU56NkF2WVVveE1BN3VOWU5sQ0gyb19LT2d6NUY1cks1cy04Y25rRE82ZDdwQ2g1VDR5STE0ZTlZWGRSRmVOSDJpOXkzRWQwRENDaG5FYmZOVTZMVnNieVY4VzRhTlVXNFBuazUxZEFPZzRNenpUQjZ0Z1BobnpQUERFSVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlJZmFSMlhEZDBYS2E3ejJZR1VxWkdEYjZQTm00NGVvemhMSjV1SUZTdkdIZTA4cFFLSXg5cHlsOGZPSjNlVjhSaXNDX09uZzYtaFN0TS1WZndRLVlIRktrdGtMVUszMWZIYklQYTJsbkZaLVN3ZXB1SGlTb05DY0RHa1VXUkFPMGN3STBSeVNHRl9Uc1RZVzZCaHdhbWJrQ29MQ0NsMkpOV0lfeGw0QWRERmFRbGNsQ0VkdnJxcDFfUQ?oc=5" target="_blank">British Columbia declares provincial state of emergency as wildfires grow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xPUnhUVXVCczdCeWJsTTl2WGtMY1M5aHJRZjlYbkI5OW94dFE1eEJzaU56NkF2WVVveE1BN3VOWU5sQ0gyb19LT2d6NUY1cks1cy04Y25rRE82ZDdwQ2g1VDR5STE0ZTlZWGRSRmVOSDJpOXkzRWQwRENDaG5FYmZOVTZMVnNieVY4VzRhTlVXNFBuazUxZEFPZzRNenpUQjZ0Z1BobnpQUERFSVE?oc=5" target="_blank">Spain checks 200 Italy arrivals in border controls after migration row</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Messi's father Jorge dies aged 68 in Argentina - Reuters
+## Five killed in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5" target="_blank">Messi's father Jorge dies aged 68 in Argentina</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5" target="_blank">Five killed in Ukrainian drone attack on Belgorod, Russian authorities say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## German trade deficit with China grows as Beijing relies less on European industry - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5" target="_blank">German trade deficit with China grows as Beijing relies less on European industry</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
