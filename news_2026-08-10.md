@@ -1,68 +1,147 @@
 # 每日财经新闻
 
-更新时间：2026-08-10 02:11:32
+更新时间：2026-08-10 13:20:08
 
-## Latest Oil Market News and Analysis for Aug. 10
+## Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-09/latest-oil-market-news-and-analysis-for-aug-10
+链接：https://www.bloomberg.com/news/articles/2026-08-10/strategy-sells-more-bitcoin-stock-to-bolster-cash-stockpile
 
 正文长度：0
 
-摘要：Oil extended gains as Iran and Oman remained short of a deal to reopen the Strait of Hormuz, while Houthi militants claimed an attack on a Saudi refinery near the Red Sea.
+摘要：Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve.
 
 
 ---
 
-## Oil Advances as Iran Deal Eludes, Treasuries Slip: Markets Wrap
+## Stocks Rise at Start of CPI Week; Iran's Hormuz Deal Elusive | Bloomberg Brief 08/10/2026
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-08-10/bloomberg-brief-08-10-2026-video
 
 正文长度：0
 
-摘要：Oil extended its recent gains as Iran rejected talks with the US and a deal to reopen the vital Strait of Hormuz remained elusive. Treasuries declined.
+摘要：US equity futures rally after the payrolls report showed a sharp slowdown in the labor market, driving stocks to a fresh record high. Oil advances as Iran's accord with Oman on the Hormuz shipping route remains elusive. TSMC posts a 45% rise in monthly sales amid strong demand for AI hardware. Thierry Wizman of Macquarie Group looks ahead to the inflation data. (Source: Bloomberg)
 
 
 ---
 
-## China’s Inflation Cools as Iran War Oil Shock Starts to Ease
+## Yen Underperforms G-10 Peers as Intervention Boost Fades
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-09/china-s-inflation-cools-as-oil-shock-of-iran-war-starts-to-ease
+链接：https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades
 
 正文长度：0
 
-摘要：China’s factory-gate inflation eased for the first time since the Iran war broke out in late February while consumer prices also decelerated, in another sign that cost pressures from the oil shock are starting to fade.
+摘要：The yen is lagging behind all of its Group of 10 peers this month as the boost from recent intervention fades, putting traders on alert for further official action.
 
 
 ---
 
-## Australia Widens Orders on Chinese Investors in Rare Earths Firm
+## Hormuz Deal Remains Elusive, Stocks Hold Near Record Highs | The Opening Trade 8/10/2026
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-10/australia-widens-orders-on-chinese-investors-in-rare-earths-firm
+链接：https://www.bloomberg.com/news/videos/2026-08-10/the-opening-trade-8-10-2026-video
 
 正文长度：0
 
-摘要：Australia has stepped in again to try to force some Chinese investors out of a rare earths mining firm, telling two parties that they will also need government approval before selling their holdings to ensure the shares aren’t sold to any related parties.
+摘要：Stocks traded near record highs, with Asian shares mirroring Friday’s gains on Wall Street after weak US jobs data curbed bets on Federal Reserve interest-rate hikes. Oil traded around $83 a barrel as a deal to reopen the Strait of Hormuz remained elusive.
+
+An agreement with Oman to establish a shipping route through Hormuz was “very close,” Iran’s Foreign Minister Abbas Araghchi said over the weekend. He ruled out direct talks with the US for now because of violations of an interim peace deal reached in June.
+
+The Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Guy Johnson and Tom Mackenzie. (Source: Bloomberg)
 
 
 ---
 
-## Australian Scandium Miner Soars After $400 Million US Investment
+## Kenya Plans Corn Imports After Crop Failure Due to Bad Weather
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-10/australian-scandium-miner-soars-after-400-million-us-investment
+链接：https://www.bloomberg.com/news/articles/2026-08-10/kenya-plans-corn-imports-after-crop-failure-due-to-bad-weather
 
 正文长度：0
 
-摘要：Sunrise Energy Metals Ltd. shares soared after the Australian scandium miner secured as much as $400 million in long-term debt financing from the US Department of War.
+摘要：Kenya plans to import one million 90-kilogram bags of corn to replenish national reserves after a failed crop, according to Agriculture Secretary Mutahi Kagwe.
+
+
+---
+
+## Archer shares surge after Boeing stake, electric aircraft subsidiary deal
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html
+
+正文长度：2453
+
+摘要：Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> In a move to increase its focus on core operations, Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the startup that focuses on electric vertical take-off and landing aircraft, known as eVTOLs for short.
+Boeing's stake in Archer will amount to 19.75% of Class A shares of the company and comes with options to purchase more shares over the next four years, according a regulatory filing.
+Shares of Archer surged 16% in premarket trading, while Boeing slipped 0.2%.
+The subsidiaries include Wisk Aero, which has been developing an autonomous eVTOL, and SkyGrid, which is developing air traffic management systems for air taxis as urban air mobility moves from test flights to commercial operations. The third Boeing subsidiary being sold, Insitu, develops and manufactures high-altitude drones that have been used worldwide, including by the U.S. Navy.
+Brian Yutko, Boeing vice president of commercial airplanes product development, said the deal "allows Wisk, SkyGrid and Insitu to accelerate capability development and time to market while ensuring Boeing capitalizes on its investments in these technologies over the past two decades through continued development in our core businesses."
+For Archer, the transaction strengthens its position developing eVTOLs and the networks to support them. Insitu also helps Archer extend its military portfolio.
+In announcing the acquisitions, Archer CEO Adam Goldstein said, "This is the next big step forward in becoming a diversified platform, rapidly growing our revenue base and bringing scale to our business."
+Both companies stand to benefit from the deal. Archer is targeting commercial eVTOL flights by the end of this year or early next year and is eager to establish itself as urban air taxis take off around the U.S.
+By acquiring Wisk and SkyGrid, Archer solidifies its portfolio, especially with the autonomous eVTOL technology Wisk has been developing.
+Boeing also benefits by shedding subsidiaries that are not central to its commercial airplanes, defense and space operations. Since taking over as CEO in August 2024, Kelly Ortberg has repeatedly said Boeing needs to focus on improving its three primary businesses.
+Just a few months after becoming CEO, Ortberg made it clear Boeing's path to profitability would mean streamlining the aerospace giant.
+"We need to reset priorities and create a leaner, more focused organization," he said in October 2024.
+
+</details>
+
+
+---
+
+## Shein faces existential threat as tariffs hit low-price model, putting new focus on services
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html
+
+正文长度：7084
+
+摘要：Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Discount retailer Shein had long argued trade law loopholes weren't the reason for its success. But now that those exemptions are gone, its once meteoric growth has stalled in the U.S. and Europe, posing a threat ahead of its Hong Kong initial public offering.
+In documents released in connection with its upcoming IPO, Shein blamed a slowdown in U.S. sales on its decision to raise prices to offset the cost of new tariffs as it warned a similar dynamic could come in Europe, its largest market.
+"Since May 2025, we have begun passing on the majority of the additional tariff costs by increasing our prices in the U.S. market," Shein said in the filing. "Since May 2025, we observed a negative impact on our net revenues from the U.S. market in the remainder of 2025."
+Between 2024 and 2025, revenue in the U.S. declined more than 3%. During the first quarter, sales plunged 14% compared with the year-ago period.
+In Europe, which recently ended duty-free shipping for low value packages and implemented new, flat-rate fees, the impact could be even worse, Shein said in its filing.
+"Similar to the U.S. market, we expect to pursue a wide range of options in response, including increasing our prices in Europe to offset a portion of the increased costs, and there might be a short-term adverse impact on our sales volume in Europe as a result," Shein stated in response to the changes. "Although it remains too early to fully assess, it is possible that trends in the EU could be generally in line with or exceed the impact observed in the U.S. after the removal of the de minimis exemption there."
+Even without higher costs in Europe, Shein has seen growth slow down significantly in the region. In 2025, sales grew about 9% from the prior year, down from the 33% growth it saw between 2023 and 2024. In the first quarter, sales grew by just 2%.
+Angela Lee, a professor of venture capital at Columbia Business School and the founder of investment firm 37 Angels, said the regulatory changes pose a serious risk to Shein's business model, which she said was built on little more than low prices.
+"This is a much more fundamental shift. This is not just a new cost. They are losing access to a regulatory advantage that was built into their business model at the very center, and so it's a very significant shift because it changes the way the entire company operates," Lee said. "It's a scary future, as I look forward for Shein."
+A spokesperson for Shein declined comment to CNBC.
+During Shein's rapid rise, which earned it a reported valuation of $100 billion at its peak several years ago, the company was criticized for being an outsized beneficiary of the U.S. de minimis exemption, which allowed packages valued under $800 to enter the country duty-free.
+At the time, Shein was adamant that wasn't the reason for its success and its ability to offer low prices. Instead, it said its business model was possible because of its tech-driven supply chain and its small-batch approach to inventory that allowed it to keep costs low elsewhere in the business.
+However, after President Donald Trump took office and closed the de minimis exemption through executive order and raised tariffs on goods imported from China, Shein saw its costs increase dramatically, its filing shows.
+Previously, it faced tax rates of between 0% to 62.5%. It now has fees of between 10% and 87.5%.
+Though Shein raised prices, the change still hit its profitability, which fell 39% companywide between 2024 and 2025. During its first quarter, Shein swung to a loss of $99 million, a 125% decline from the $395 million in profit it booked in the year-ago period.
+Meanwhile, similar changes underway in Europe — which accounted for 35% of the company's revenue in 2025 — could further weigh on Shein's profitability.
+In July, the European Union ended its own version of the de minimis exemption, which had allowed packages valued under 150 euros (US$173) to enter into the territory duty-free. Under the new framework, packages will be subject to a flat-rate duty of 3 euros (US$3.46) for each distinct category of product in the shipment.
+Lee, who regularly advises founders and invests in startups, said Shein faces an uncertain future because its main competitive advantage has long been pricing, which is starting to disappear.
+"Pricing is usually not a great competitive advantage. If that is your only competitive advantage, it's incredibly hard to maintain, because that doesn't build customer loyalty, because if all they're looking for is the cheapest price, the second you're not the cheapest price they're gonna flee your company," Lee said. "Their brand is not associated with trust, right? It's associated with cheap prices, and so if that goes away, what is their brand known for? Almost nothing. And then, unfortunately, I do think their brand is associated with low quality at this point, and it is very hard to expand a business from that place."
+As it faces slowing growth and profitability, Shein is working to evolve its business model. The company has been growing its third-party marketplace and taking steps to commercialize its supply chain, often considered its strongest asset.
+Those side businesses come at a higher margin and are currently the fastest-growing part of Shein, with services revenue up almost 40% in 2025. The retailer's expanding "brand enablement services," which involves the company lending its supply chain and product infrastructure to designers and brands, only accounts for about 1% of revenue but is among the company's most promising segments because it offers brands a solution to one of the most difficult parts of running an e-commerce business.
+Brands that are part of the program are able to reach annual sales milestones faster than other direct-to-consumer brands with a healthier financial profile, Shein said in its filing. For example, one of the brands grew sales by about 15 times in its second year working with Shein as operating margin improved by 30 percentage points and inventory turnover days fell by about two-thirds, it said.
+"The provision of brand enablement services is also driving better profitability for us, with brand enablement operating margin approximately twice as high as our group operating margin," Shein said. "As we empower more partners of all sizes to thrive, our partner base becomes increasingly efficient, flexible and resilient, which in turn enriches the selection for our customers and fuels our growth."
+Deborah Weinswig, the CEO of research and advisory firm Coresight Research, said if Shein continues to expand this side of the business, she's bullish on its potential for future growth.
+"These supply chains need a major overhaul, and so I just think everyone's looking for a better way to do it, if you will, and so I think therein lies the opportunity for Shein and for others," Weinswig said. "Things that are really difficult, they seem to do very well, and they're good at explaining them. …. There's increasingly more difficult problems to solve, and I think they're uniquely positioned to do it."
+
+</details>
 
 
 ---
@@ -183,207 +262,132 @@ Correction: This story has been updated to correct a direct quote attributed to 
 
 ---
 
-## Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/07/business-business-premium-fares.html
-
-正文长度：5995
-
-摘要：Some companies plan to shun the cheapest business- and premium- economy fares from their executives.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> CHICAGO — No advanced seat selection, lounge access or flight changes included with a C-suite executive's business-class ticket? Absolutely not, some companies say.
-Delta Air Lines joined United Airlines last month in launching stripped-down business-class fares for certain flights, taking the same approach they used to carve up coach class to their more expensive cabins as carriers get customers to pay more for perks in the sky.
-That's a new headache for companies' business travel managers.
-AerSale — which leases aircraft and engines and offers maintenance and other services — likely won't block basic premium options altogether for its hundreds of traveling employees. But those tickets would be impractical for many of its workers, said Jackie Carlon, the Doral, Florida-based company's senior vice president of marketing and communications.
-"The real value is flexibility," Carlon said. "Paying a bit more, it's not necessarily a cost to us — it's insurance."
-What's included with basic business — and what's not
-With the new fares, the cheapest option for long-haul international flights won't come with things like access to an airport lounge or the ability to pick a seat for free in advance. Perhaps most important for business travel, no changes are allowed without paying a fee on top of a difference in fare.
-Delta said change fees for basic business class could range from none at all up to $400, depending on the route, and from $99 to as much as $500 for cancellations.
-Because work trips can change on a dime, a restrictive ticket in business class can cost a company even more if travelers have to buy a whole new flight. Only a small proportion of a corporation's business travelers usually fly in top-tier cabins, but the higher fares could further drive up travel costs.
-The difference in fares, meanwhile, could be several hundred dollars to close to $1,000, if not more.
-On United, for example, the least expensive fare in the airlines' lie-flat pod Polaris cabin doesn't come with access to the Polaris business-class airport lounge, which features a bar, sit-down dining, a rest area, showers and other amenities. The traveler also can't pick a seat in advance without paying a fee and no changes are allowed. Travelers can cancel the flight with a fee. United doesn't disclose its fees for the new fares, and a spokeswoman said the amounts vary.
-For a flight going from Newark, New Jersey, to London Heathrow on Oct. 1 and returning Oct. 8, the "base" Polaris ticket was going for $4,490, while the standard fare was $4,890, and it was $5,390 for a flexible, refundable ticket.
-Airlines say it gives customers more of a choice.
-"We support our corporate travel partners by giving them full control over which fare products are available to their business travelers based on their own policies and business objectives," Delta said in a statement. "We continue to see strong demand for premium travel."
-Corporate considerations
-Dane Molter, senior vice president at Navan Group Travel Marketplace, which reported $9.1 billion in gross booking volume in the 12 months ended Jan. 31, said clients who use the platform are seeking more detailed policy controls that could determine which fare an employee books for a trip.
-"Travel managers are asking a sensible question: Does the lower upfront fare still represent good value if it lacks flexibility, seat selection, lounge access or other benefits their travelers expect?" he said in a statement.
-Two travel managers at public companies at the Global Business Travel Association's annual convention in Chicago said they would likely seek to block the fares altogether. They spoke on the condition of anonymity because they weren't authorized to talk about their employers' travel spending,
-While airlines like Germany's Lufthansa and Etihad Airways, based in the United Arab Emirates, have already offered stripped-down basic business-class fares, it's still early days for these types of tickets.
-The divisions at the front of the plane come as airfare is on the rise across the board this year. Globally, airfare is set to rise close to 5% this year from last to an average of $756 for a roundtrip flight, with premium increasing even more: 9.5% to $4,488, the Global Business Travel Association forecast this week at its annual convention.
-John Bukowski, vice president of global marketplace experience, product and engineering at corporate travel and expense giant American Express Global Business Travel, which had $36.3 billion in bookings in 2025, told CNBC earlier this week that he hasn't seen a lot of clients seeking to block the fares so far, like they have with basic economy tickets.
-Companies about a decade ago started blocking their travelers from booking basic economy fares, which have become even more restrictive, including in some cases by lowering the frequent flyer miles a traveler earns or eliminating that option altogether. Airline executives have frequently measured the success of basic economy by how many travelers paid up to avoid it.
-Scott Laurence, a partner at Oliver Wyman's transportation practice who previously worked at JetBlue Airways and American Airlines, said the cheaper, basic business or other premium fares could be attractive to a more price-sensitive small or medium-sized company, but that the options could become complicated.
-American doesn't offer the basic business, or basic premium economy fares, which could also add confusion if another carrier that does appears cheaper at first glance.
-"The travel managers are going to value some level of simplicity and making sure things work with their expense system and their policy," he said.
-Laurence added that travel managers are likely to collect a lot of feedback from their customers, especially if they're used to lounge access at the end of a long-haul flight or they're earning fewer miles.
-But "there's an interest in offering a lower price point," he said. "It also is ... frankly, about driving buy up."
-
-</details>
-
-
----
-
-## Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html
-
-正文长度：2329
-
-摘要：The salad chain has not been implicated in the ongoing cyclospora outbreak.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Sweetgreen on Thursday cut its full-year outlook and is now projecting steeper same-store sales declines due to diner fears of eating fresh produce during the ongoing cyclospora outbreak.
-Shares of the salad chain fell more than 15% in extended trading.
-Sweetgreen has not been implicated in the ongoing outbreak that has sickened at least 10,000 people and led to two deaths, according to data from the Centers for Disease Control and Prevention. The Food and Drug Administration has pointed to iceberg lettuce supplied by a Taylor Farms facility in central Mexico as the likely culprit, and the contaminated products have been recalled. The only nationwide restaurant chain linked to the outbreak is Yum Brands' Taco Bell, which is already seeing sales bounce back.
-Still, fear of the waterborne parasite has weighed on many consumers' desire for fresh produce, particularly salad.
-"The Company's updated outlook reflects reduced consumer demand for fresh prepared foods due to the multistate outbreak of cyclosporiasis since mid-July," Sweetgreen said in a statement. "The pace and timing of recovery remain uncertain."
-For 2026, the company is now projecting its annual same-store sales could shrink 7% to 8%. Its previous forecast anticipated same-store sales declines of just 2% to 4%.
-Sweetgreen is also expecting to report an adjusted loss before interest, taxes, depreciation and amortization of $27 million to $23 million. It was previously forecasting earnings before interest, taxes, depreciation and amortization of $1 million to $6 million.
-Other restaurant chains not linked to the contaminated iceberg lettuce have also seen their sales fall. Chipotle Mexican Grill said in late July that cyclospora fears had about a 2 percentage point impact on sales in the second half of July. Salad and Go, an already struggling chain, filed for bankruptcy protection on Tuesday, saying that consumer mistrust from the outbreak exacerbated its ongoing business challenges.
-Sweetgreen also reported its second-quarter results after the bell on Thursday. Its quarterly loss was steeper than expected, and its revenue fell short of Wall Street's expectations.
-Correction: This story has been revised to reflect that Sweetgreen reported its second-quarter results after the bell on Thursday. A previous version misstated the day.
-
-</details>
-
-
----
-
-## Donald Trump is dismantling US guardrails, warn former security officials - Financial Times
+## New York is having a summer for the ages - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEdPcF9SM1VaaUJtMXdOSFlTQlRwZDI1VHd0djhTREQyUlAtXzRLNE5RVFNBa2c2bWpYXzhHSXpwa252VXl4OWVRcG9xR3R5YkQya3MxYzZRV2VjSUdxV054eHZkZ0paNm1OZkdxYTZHY0FqVW53bFZWSHFWNkdQWGNidlg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW10eXVLeFJnc3YxOFJvaVc3R2MzVC1XUnB3bWtFU3FLVVBISDdUUUo1a0xsNTc5ZUwyU0NQQkNUdDFKUmlIRTBqSW5VVnhVRzRkQW8zSnlDUjV3dklwN3ljeFQ0anE4UlBvZ3BjektvUzJUVVFPdE81T0gtcXBCb29zaWM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEdPcF9SM1VaaUJtMXdOSFlTQlRwZDI1VHd0djhTREQyUlAtXzRLNE5RVFNBa2c2bWpYXzhHSXpwa252VXl4OWVRcG9xR3R5YkQya3MxYzZRV2VjSUdxV054eHZkZ0paNm1OZkdxYTZHY0FqVW53bFZWSHFWNkdQWGNidlg?oc=5" target="_blank">Donald Trump is dismantling US guardrails, warn former security officials</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW10eXVLeFJnc3YxOFJvaVc3R2MzVC1XUnB3bWtFU3FLVVBISDdUUUo1a0xsNTc5ZUwyU0NQQkNUdDFKUmlIRTBqSW5VVnhVRzRkQW8zSnlDUjV3dklwN3ljeFQ0anE4UlBvZ3BjektvUzJUVVFPdE81T0gtcXBCb29zaWM?oc=5" target="_blank">New York is having a summer for the ages</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## US social security could soon be insolvent - Financial Times
+## How the UAE won over Washington - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZjRmVieDVvWDRrcDZtcTZQcS1GNlhKd19ITVNnTjBaVkNvRlZ1TzBhYWFvMTc2TmZSbUpNUWFRS2VTQ3VKM2R0eEpLMy1GenlMczJDM2NnamhlcE9lMEJWM0NScUtTamQ5Tmw4Sk45Z1VRamtJdlZER0MzckVXMmdYWGs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkxVVXpQdWIwRWpueG95d1JKUXRxU2FHUUZUX1BfTUV0T3cxbWdFeUtXMmVqdXB3NU16d0xyaVhUc3lFSkxrTW9JUHAwcHlNdEQyQWZJeFJ3a0hXbDY3bUJTcHBBQ3Z3RkZHQ1VXcmFwOUxobjBtbUtZOWFFbm82QXN1bGs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZjRmVieDVvWDRrcDZtcTZQcS1GNlhKd19ITVNnTjBaVkNvRlZ1TzBhYWFvMTc2TmZSbUpNUWFRS2VTQ3VKM2R0eEpLMy1GenlMczJDM2NnamhlcE9lMEJWM0NScUtTamQ5Tmw4Sk45Z1VRamtJdlZER0MzckVXMmdYWGs?oc=5" target="_blank">US social security could soon be insolvent</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkxVVXpQdWIwRWpueG95d1JKUXRxU2FHUUZUX1BfTUV0T3cxbWdFeUtXMmVqdXB3NU16d0xyaVhUc3lFSkxrTW9JUHAwcHlNdEQyQWZJeFJ3a0hXbDY3bUJTcHBBQ3Z3RkZHQ1VXcmFwOUxobjBtbUtZOWFFbm82QXN1bGs?oc=5" target="_blank">How the UAE won over Washington</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## One of the world’s biggest coal producers battles to keep lights on - Financial Times
+## Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmZ6a2RLUElycmN0X1lUVzZUVmVGSENUM0RRV1BBUkNLWEppMEtRYXl5bW53UEFtVlFHTC15NGgyMmZKeGdhLWRnSk9JN0V2VUg4RHlfcmZMcm5pRjZSLTA4Tmdteldsc1R3UVJSV25QdklTdF9vX2ptZWR5eXQ1bUk0OWI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFVDamd5NHlEOU43Smk0ZTRoM0wxOUppSkExOGdjcGltYWhpdDJUNmNXVEE1QXZ3RHFKRXFucTlvaVBrRFVLQXUzV2tUZ1hiQzFDRXVrMXNJQ3lsWWJPeDhKc21IbkF2aHRGUzRxOUFUZVk4SUhxc2pNNGY2MXRwbE92dDY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmZ6a2RLUElycmN0X1lUVzZUVmVGSENUM0RRV1BBUkNLWEppMEtRYXl5bW53UEFtVlFHTC15NGgyMmZKeGdhLWRnSk9JN0V2VUg4RHlfcmZMcm5pRjZSLTA4Tmdteldsc1R3UVJSV25QdklTdF9vX2ptZWR5eXQ1bUk0OWI?oc=5" target="_blank">One of the world’s biggest coal producers battles to keep lights on</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFVDamd5NHlEOU43Smk0ZTRoM0wxOUppSkExOGdjcGltYWhpdDJUNmNXVEE1QXZ3RHFKRXFucTlvaVBrRFVLQXUzV2tUZ1hiQzFDRXVrMXNJQ3lsWWJPeDhKc21IbkF2aHRGUzRxOUFUZVk4SUhxc2pNNGY2MXRwbE92dDY?oc=5" target="_blank">Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## UK state subsidies soar as post-Brexit support boosts energy projects - Financial Times
+## Hong Kong’s plan to clear rural villages for a new gateway to China - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGV1ZkkxVk1PRTQ0Z1BaOUFNeGtXWGNZUFAtQVl6dm5OV2tJTXBHQnhkVE9ydXVBSlZqS1daUW1vYlI3WkNIazJBaGFIYml6QjJpb1QzOTZTR1hVYm1ydnZac0VDT3p4V1JZb2ZoREFvQmhJeVJaNmJyM1FEc0lWLXBVaV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHZPY3RKVHJkd01HOGNZMVRlMkRDRS1yeTY1SFRNclktNDhSX0M2ZGs1b3lQS3pOSkxhQWYzYWJMeThnOWNVWTdFcVpsd1ozRGYwVWNmbEhsY0dHQWVCUUpqbWNzU1JSVUNjSG5fUE1FUGo0MEFLVHRmQVlPblVKc2hNMkI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGV1ZkkxVk1PRTQ0Z1BaOUFNeGtXWGNZUFAtQVl6dm5OV2tJTXBHQnhkVE9ydXVBSlZqS1daUW1vYlI3WkNIazJBaGFIYml6QjJpb1QzOTZTR1hVYm1ydnZac0VDT3p4V1JZb2ZoREFvQmhJeVJaNmJyM1FEc0lWLXBVaV8?oc=5" target="_blank">UK state subsidies soar as post-Brexit support boosts energy projects</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHZPY3RKVHJkd01HOGNZMVRlMkRDRS1yeTY1SFRNclktNDhSX0M2ZGs1b3lQS3pOSkxhQWYzYWJMeThnOWNVWTdFcVpsd1ozRGYwVWNmbEhsY0dHQWVCUUpqbWNzU1JSVUNjSG5fUE1FUGo0MEFLVHRmQVlPblVKc2hNMkI?oc=5" target="_blank">Hong Kong’s plan to clear rural villages for a new gateway to China</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Impatient yacht owners make for a hot new asset class - Financial Times
+## The family dispute paralysing one of corporate Italy’s top power brokers - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnZYQWRCOThXSmh1QUNzNENnV2pMM1hLVHNvZUNxaTRQWXlFNmN3ajVlVDdpNHkwM19xTmItajRwbU5lUzBkQWpKQk9LdnFwRy00SWlOTmtyS1pZYXRjbHhZUmZMQVlSV0hyd1pPZU0yWlBSNjNYb0g0YnAxVzNUa0NJbTI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFdlTjRncGlmMk1YSko4TXM1b3JFWGtWU1FuQ25rY1F0R1FvTW4wN0FkMzBSdGdsMUlYZ25EQ2NJMTQzZGxRel80T19jUFczZHdiNFA2eWNqUEljT0dEVm54aXF4MnlLQlJFeVVBWlRHZVRGR2twYThkcTFGQW5LTWRZeHM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnZYQWRCOThXSmh1QUNzNENnV2pMM1hLVHNvZUNxaTRQWXlFNmN3ajVlVDdpNHkwM19xTmItajRwbU5lUzBkQWpKQk9LdnFwRy00SWlOTmtyS1pZYXRjbHhZUmZMQVlSV0hyd1pPZU0yWlBSNjNYb0g0YnAxVzNUa0NJbTI?oc=5" target="_blank">Impatient yacht owners make for a hot new asset class</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFdlTjRncGlmMk1YSko4TXM1b3JFWGtWU1FuQ25rY1F0R1FvTW4wN0FkMzBSdGdsMUlYZ25EQ2NJMTQzZGxRel80T19jUFczZHdiNFA2eWNqUEljT0dEVm54aXF4MnlLQlJFeVVBWlRHZVRGR2twYThkcTFGQW5LTWRZeHM?oc=5" target="_blank">The family dispute paralysing one of corporate Italy’s top power brokers</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Taylor Farms recalls salsa and guacamole over salmonella risk - Reuters
+## Amazon founder Bezos nears deal to buy stake in Liverpool, reports say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5" target="_blank">Taylor Farms recalls salsa and guacamole over salmonella risk</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5" target="_blank">Amazon founder Bezos nears deal to buy stake in Liverpool, reports say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran ties Hormuz reopening to US concessions on several demands - Reuters
+## Intel launches $15 billion share sale as turnaround rally lifts stock - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmlPY1Jtc3A4X2YxbXFKRmx6eUpMRGhzeTJCXzRwdVlIbzkyZVgzdFBONFRrRVZuOGNtTzQtSXRfd3MySUhnT1JWc3NBS1BYS2JlcDlVUUcydnRacHdzaE9WRmI5NWpvUHYxa1lRamVvZmpwSnBTdl9ueGZWdXJmTGcwSnBoa3g1UnJMT05VRUlyaTdsNGx0dlhjUVV6QXcweFVvaUhwV3dkdnBTWWJRT2x6VXNSa2FrSGVjRUx3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5" target="_blank">Iran ties Hormuz reopening to US concessions on several demands</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmlPY1Jtc3A4X2YxbXFKRmx6eUpMRGhzeTJCXzRwdVlIbzkyZVgzdFBONFRrRVZuOGNtTzQtSXRfd3MySUhnT1JWc3NBS1BYS2JlcDlVUUcydnRacHdzaE9WRmI5NWpvUHYxa1lRamVvZmpwSnBTdl9ueGZWdXJmTGcwSnBoa3g1UnJMT05VRUlyaTdsNGx0dlhjUVV6QXcweFVvaUhwV3dkdnBTWWJRT2x6VXNSa2FrSGVjRUx3?oc=5" target="_blank">Intel launches $15 billion share sale as turnaround rally lifts stock</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump names Will Scharf as White House counsel - Reuters
+## Poland and Baltics shield infrastructure, fearing a Russian false-flag strike - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3hNb19RenYzdHZBS0o4cDk2bzlzR1pkX0ZqWWExcXpuajFYZnJEeldyYzRVVUJQNU1DVDJxcmFYb3dVZzBQajk4bWlpSWwxQW15bEZHVjJUZGtyQWV2am9jUE41OXM2SDR1NDBrMEQ2bnFRZmoyZERDU3F0YXRKR2NuWlpzWjdnRk9qM012QjZwZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzlSZVg4b1J6YUFBV0R5Z0VqcU0zeldEdldXSW9WQlhEMzJoM0ZoaWpjN3oxeEhnLXVRWkdzNEZEVExfN280MkVISTJOMnhTa0o2R3dLZHJodDdENVZvZHZSYktLaG1uVlQzb3lsRHE2QUJJY3pSejN6UEJBMmhuSGZtbGdFQk9MdnhTaE5rMm9pTVZGaktib3Z1WDM5azJTMU5xQ0FyWXJzYzFBTXpIaFRmVE41UFZKSDFj?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3hNb19RenYzdHZBS0o4cDk2bzlzR1pkX0ZqWWExcXpuajFYZnJEeldyYzRVVUJQNU1DVDJxcmFYb3dVZzBQajk4bWlpSWwxQW15bEZHVjJUZGtyQWV2am9jUE41OXM2SDR1NDBrMEQ2bnFRZmoyZERDU3F0YXRKR2NuWlpzWjdnRk9qM012QjZwZw?oc=5" target="_blank">Trump names Will Scharf as White House counsel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzlSZVg4b1J6YUFBV0R5Z0VqcU0zeldEdldXSW9WQlhEMzJoM0ZoaWpjN3oxeEhnLXVRWkdzNEZEVExfN280MkVISTJOMnhTa0o2R3dLZHJodDdENVZvZHZSYktLaG1uVlQzb3lsRHE2QUJJY3pSejN6UEJBMmhuSGZtbGdFQk9MdnhTaE5rMm9pTVZGaktib3Z1WDM5azJTMU5xQ0FyWXJzYzFBTXpIaFRmVE41UFZKSDFj?oc=5" target="_blank">Poland and Baltics shield infrastructure, fearing a Russian false-flag strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises on uncertainty over reopening of Hormuz - Reuters
+## Retail investors sold SpaceX shares for first time on Friday - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5" target="_blank">Oil rises on uncertainty over reopening of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5" target="_blank">Retail investors sold SpaceX shares for first time on Friday</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Israeli military closes Palestinian Christian village Taybeh, citing settler attacks - Reuters
+## Meta launches new AI model as Zuckerberg champions open-weight push - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5" target="_blank">Israeli military closes Palestinian Christian village Taybeh, citing settler attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5" target="_blank">Meta launches new AI model as Zuckerberg champions open-weight push</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
