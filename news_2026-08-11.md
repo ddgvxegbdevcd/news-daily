@@ -1,68 +1,102 @@
 # 每日财经新闻
 
-更新时间：2026-08-11 02:06:02
+更新时间：2026-08-11 13:17:29
 
-## China’s Teapots May Boost Iran Oil Buying as Stockpiles Dwindle
+## India’s Small Traders Lose $9.6 Billion in Options Despite Curbs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle
+链接：https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives
 
 正文长度：0
 
-摘要：Shrinking regional oil stockpiles held by China’s independent refiners in Shandong province may spur increased buying of Iranian crude, offering Tehran a needed boost after a period of slow sales.
+摘要：Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told lawmakers on Tuesday.
 
 
 ---
 
-## Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation
+## Severe Thunderstorms Across US Midwest Trigger Flood Warnings
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data
+链接：https://www.bloomberg.com/news/articles/2026-08-11/severe-thunderstorms-across-us-midwest-trigger-flood-warnings
 
 正文长度：0
 
-摘要：Gold advanced to a two-month high above $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve’s appetite for an interest-rate hike.
+摘要：The US Midwest and Ohio Valley, including Chicago and Cincinnati, face an enhanced, or level 3, risk of severe thunderstorms.
 
 
 ---
 
-## Oil Holds Advance, Yen in Focus After Weakening: Markets Wrap
+## South Africa Vows Eskom Won’t Weaken After Transmission Restructuring
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-08-11/south-africa-vows-eskom-won-t-weaken-after-transmission-restructuring
 
 正文长度：0
 
-摘要：Oil kept its gains from a four-day rally as fading hopes for a deal to reopen the Strait of Hormuz revived inflation concerns before key US data later this week. Asian stocks were little changed.
+摘要：South Africa’s presidency rebuked the chairman of Eskom Holdings SOC Ltd. for publicly questioning the plan to restructure the state power utility.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Aug. 11
+## Europe Stocks Poised to 'Grind Higher,' BNP Paribas Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11
+链接：https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video
 
 正文长度：0
 
-摘要：Oil held a four-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.
+摘要：Benedicte Lowe, Europe equity derivates strategist at BNP Paribas Markets 360, says it's "undeniable that the macro story is picking up in Europe," and that means "positive picture for stocks." She speaks on Bloomberg Television. (Source: Bloomberg)
 
 
 ---
 
-## Tencent’s WorkBuddy Sparks AI Turnaround Hopes After Stock Rout
+## Buying Opportunity Forms Around S&P Skeptics’ Refusal to Give Up
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-11/tencent-s-workbuddy-sparks-ai-turnaround-hopes-after-stock-rout
+链接：https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up
 
 正文长度：0
 
-摘要：Tencent Holdings Ltd.’s early success with WorkBuddy may give the Chinese Internet giant a chance to catch up after lagging peers in the artificial intelligence race for the past few years.
+摘要：US stocks may be sitting at a record, but anxiety about everything from geopolitics to inflation and a divided Federal Reserve is keeping animal spirits at bay. And that may be just what the rally needs to continue.
+
+
+---
+
+## Baby products company Frida is expanding into kids’ personal care
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html
+
+正文长度：3710
+
+摘要：Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Baby products company Frida is expanding into a line of personal care products for kids ages 6 to 11 that will be sold in Walmart and on Amazon, the company told CNBC exclusively.
+CEO Chelsea Hirschhorn said the launch marks the next natural step for the company, which has seen its first customers age into new categories, and offers an opportunity to secure shelf space in a category that's largely untapped and unexplored.
+"It really wasn't necessarily only that there was this opportunity created in the retail environment or in culture, but it was really the dearth of genuine, thoughtful innovation for this stage of parenthood that felt like a rinse and repeat of our playbook in mother care and baby care," Hirschhorn told CNBC.
+Hirschhorn, who created the company when her first child was a baby, said the gap in the market is one she's seen firsthand as a mother of four children. As her eldest child has grown, she said there were plenty of options in the baby aisle and teen aisle, but nothing in between to address the needs of young kids' personal care.
+While the new category marks a significant step for the company, she said it's ensuring it's not alienating core customers looking for baby products.
+Since its launch, Frida has generated more than $2 billion in retail sales and grown roughly 30% annually over the past five years, the company told CNBC exclusively. Though it began as a baby products company, it's now branched out into products for pregnancy, postpartum and now kids.
+According to a report from Kings Research, the kids' personal care market was valued at roughly $82 billion in 2022 and was expected to reach $137 billion by 2030 at a compound annual growth rate of nearly 7%.
+Hirschhorn said Walmart has been curating and launching a new aisle dedicated to kids' care, where parents can find products in between baby and adult options. That dedicated shelf space, along with Walmart's reach across the country and emphasis on value, made it an ideal destination for Frida for Kids, she added.
+"Walmart came to the table in a really exciting way and said, 'We see an opportunity in a dedicated spot for everything from tween deodorant to shampoo, nail care and oral care because this parent deserves convenience above all else,'" she said.
+The new products span categories including body wash, deodorant, electric flossers and more, in the price range of $6.99 to $19.99. Hirschhorn said each of the products was designed specifically for kids in this age cohort without relying on certain ingredients that might not be appropriate for their age.
+"It's a glaring gap," she said. "When I'm done with tear-free baby shampoo, strolling the aisles of the personal care section, the only thing that jumps out is … the section for men."
+Retail innovation in the tween space has been expanding over the past few years. Companies like Sephora have seen explosive growth in kids' interest in beauty, while apparel retailers have created more dedicated sizing for tweens.
+It coincides with Generation Alpha reshaping some of the retail landscape, as the digitally native and online-savvy cohort becomes increasingly important for brands to capture and build loyalty with. Alpha roughly starts with babies born in 2010 and goes through babies born in 2025, according to Merriam-Webster, but those start and end dates are debated.
+Hirschhorn said Frida is taking notice of that trend.
+"This is otherwise a pretty fragmented shopping experience for parents who are ready to graduate the diaper aisle," she said. "There's no holistic experience for all of the personal care products for kids with that age, and so that was a really important part for us, just as it was in mother care."
+
+</details>
 
 
 ---
@@ -217,176 +251,132 @@ Deborah Weinswig, the CEO of research and advisory firm Coresight Research, said
 
 ---
 
-## Cyclospora fears lead consumers to lose their appetite for salads
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html
-
-正文长度：5135
-
-摘要：Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Warm weather usually drives salad sales, but consumers spooked by the ongoing cyclospora outbreaks are avoiding lettuce this summer.
-Traffic to Chopt Creative Salad Co. locations fell 24% compared to the day-of-week average on July 18, right after the Food and Drug Administration announced the outbreak, according to Placer.ai data. Sweetgreen on Thursday said consumer concerns about the outbreak had about a 6 percentage point impact on same-store sales in July, and the company cut its full-year outlook. And earlier this week, upstart chain Salad and Go filed for Chapter 11 bankruptcy and closed all of its locations, saying the cyclospora outbreak had exacerbated its existing business challenges.
-Grocery stores aren't immune either. Dollar sales of prepackaged salads plunged 14% during the four weeks ended July 25 compared with the year-ago period, according to NielsenIQ data.
-The FDA has pointed to iceberg lettuce processed in Taylor Farms' central Mexico facility as the likely culprit for the outbreak that has sickened at least 10,000 people. Taylor Farms has voluntarily recalled products supplied from that facility.
-Yum Brands' Taco Bell is the only national restaurant chain that has been linked to the multistate outbreak. It uses iceberg lettuce frequently across its menu, from its Crunchwrap Supreme to its Cheesy Gordita Crunches, but the chain isn't known for its salads. Taco Bell's sales and traffic to its restaurants initially tumbled after the FDA announcement, but Yum executives said in late July that business was already recovering.
-But the FDA is also tracking at least six other active outbreaks without a clear culprit; those outbreaks have significantly smaller number of reported cases. The long incubation period for cyclosporiasis makes it difficult to identify the contaminated ingredients.
-Cyclospora is a water-borne parasite. It typically spreads through contaminated produce, like lettuce, green onions, raspberries and fresh herbs. Although public health authorities seem to have pinpointed the source of the current outbreak, the FDA is advising consumers to take extra steps, like discarding outer layers of fruits and vegetables, to reduce risk of exposure.
-But many diners have gone further and chosen to avoid salads and greens altogether during the outbreak.
-Even Chipotle Mexican Grill has seen its sales dip. The burrito chain offers romaine lettuce as a topping and uses fresh cilantro across much of its menu, including its guacamole and salsas.
-"In the second half of July, we did see a softening, call it about 200 basis points or so, right around the issue that's affecting the industry around cyclospora," Chipotle CFO Adam Rymer said on the company's earnings call in late July.
-Chipotle has separately been in the news for recalling jalapeno peppers that were potentially contaminated with salmonella as part of a broader outbreak that has sickened at least 300 people.
-Damage control
-Sweetgreen and other restaurant chains swept up in the panic have had to implement strategies to reassure their customers.
-For example, Sweetgreen has chosen to emphasize that iceberg lettuce isn't even on its menu. On the chain's 19th birthday, CEO Jonathan Neman posted on X that its restaurants have never served iceberg lettuce and only source lettuce grown in the U.S.
-Likewise, Just Salad founder and CEO Nick Kenner posted on LinkedIn detailing the chain's food safety measures, like peeling and discarding the outer leaves of romaine and kale and double washing the leaves.
-And Chopt posted on its Instagram about food safety.
-"Food safety has always been at the heart of how we operate. ... We promise to continue monitoring guidance from public health officials and remain committed to earning your trust every time you choose Chopt," the company wrote.
-Cava, another fast-casual chain known for its bowls and salads, has yet to report its earnings and any impact from the cyclospora scare. It is expected to share its quarterly results after the bell on Tuesday.
-But in a promising sign for many restaurant chains — and diners — the danger may be passing.
-The Michigan Health Department on Thursday said residents can eat lettuce and salad greens again as new infections slowed.
-"The broad, precautionary recommendation to avoid bagged salad mixes during the Cyclospora outbreak is no longer in effect," the agency said in a statement. "Residents may resume their usual food handling practices and make choices based on their individual risk tolerance."
-The state appears to be hardest hit by the outbreak, with two deaths and more than 12,400 cases reported in Michigan alone.
-Of course, not all consumers have lost their appetite for greens. A Sweetgreen location in downtown Manhattan was bustling with diners and delivery drivers around noon on Friday.
-Sherine Naveed, a 35-year-old laser technician who lives on Long Island, picked up her usual Sweetgreen salad order. Despite hearing about the outbreak, she hasn't changed her dining habits and is also still buying prepackaged salads at the grocery store.
-"I have two kids," she said. "They're already pretty germ-y."
-
-</details>
-
-
----
-
-## Wall Street giants partner with Nvidia on $500bn AI financing deal - Financial Times
+## Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVJZMmlELWxzcDMxTlZtNEw2YmdRbE5GaS1kQkc3YmQ0cXBGU2lJRXNadzVrU1JGdVdValhxc1ZXMmdHbm5iVjJDQ2JQMzE0SkxyM3luR3pnaW9kQm0wNVlSMExSa3VZYzlmMVd0Z3ZMS2p0ZDBLNWlqYTFTYUJDc3p3Y1M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVJZMmlELWxzcDMxTlZtNEw2YmdRbE5GaS1kQkc3YmQ0cXBGU2lJRXNadzVrU1JGdVdValhxc1ZXMmdHbm5iVjJDQ2JQMzE0SkxyM3luR3pnaW9kQm0wNVlSMExSa3VZYzlmMVd0Z3ZMS2p0ZDBLNWlqYTFTYUJDc3p3Y1M?oc=5" target="_blank">Wall Street giants partner with Nvidia on $500bn AI financing deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5" target="_blank">Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Start-up bank backed by Palmer Luckey set to raise $1.5bn - Financial Times
+## Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFBWU1p4RjhmRS1ydVhKOGdPQVBRSVZjMlllTlRMZTlCZ2xkSkYtYjQwdjRqOTZuSlZUbEpGckhnXzIyaVQ4RHdJN3RoQ1dwNHdNV25FZTFHNi1NeDBabjdQcVdrT0c3UTdZUTlXcW1rM1dZNURLUEJGeTQtNkM0SU5qbmQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hiNjh3TVl1VkQ1TnNTUENFZVF0d1g2dlpqME43V29rM2RvcmxSSDk1c1FhZ3cycF91T08tSUZKTjJNaHJoUHRLdDBTWDgwa2xTQ29ZRElRU3U0UEkyZ05PRmZFbmxBN01HZDR2TVZuZ1B6MUdCaWZDcHhRTzdVODc3X0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFBWU1p4RjhmRS1ydVhKOGdPQVBRSVZjMlllTlRMZTlCZ2xkSkYtYjQwdjRqOTZuSlZUbEpGckhnXzIyaVQ4RHdJN3RoQ1dwNHdNV25FZTFHNi1NeDBabjdQcVdrT0c3UTdZUTlXcW1rM1dZNURLUEJGeTQtNkM0SU5qbmQ?oc=5" target="_blank">Start-up bank backed by Palmer Luckey set to raise $1.5bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hiNjh3TVl1VkQ1TnNTUENFZVF0d1g2dlpqME43V29rM2RvcmxSSDk1c1FhZ3cycF91T08tSUZKTjJNaHJoUHRLdDBTWDgwa2xTQ29ZRElRU3U0UEkyZ05PRmZFbmxBN01HZDR2TVZuZ1B6MUdCaWZDcHhRTzdVODc3X0w?oc=5" target="_blank">Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## New York is having a summer for the ages - Financial Times
+## Hong Kong set to include trading firms in ‘big bang’ tax reforms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW10eXVLeFJnc3YxOFJvaVc3R2MzVC1XUnB3bWtFU3FLVVBISDdUUUo1a0xsNTc5ZUwyU0NQQkNUdDFKUmlIRTBqSW5VVnhVRzRkQW8zSnlDUjV3dklwN3ljeFQ0anE4UlBvZ3BjektvUzJUVVFPdE81T0gtcXBCb29zaWM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQelRKQVZWNlBmZjJGYjRlZlhYQi1IR2dvSEx5WlhJR1o2dmhxcjdUQjBlaUdxVG90eWx1dUM4TzZxRFY1V2V0bXJPQVlvQkFweGdKUWQyNktUclc5aVotWGMzUHpzWElnWFBpY3JRLTJ4aGZYc1gwbmpERnlFV0ZyMDM3SXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOW10eXVLeFJnc3YxOFJvaVc3R2MzVC1XUnB3bWtFU3FLVVBISDdUUUo1a0xsNTc5ZUwyU0NQQkNUdDFKUmlIRTBqSW5VVnhVRzRkQW8zSnlDUjV3dklwN3ljeFQ0anE4UlBvZ3BjektvUzJUVVFPdE81T0gtcXBCb29zaWM?oc=5" target="_blank">New York is having a summer for the ages</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQelRKQVZWNlBmZjJGYjRlZlhYQi1IR2dvSEx5WlhJR1o2dmhxcjdUQjBlaUdxVG90eWx1dUM4TzZxRFY1V2V0bXJPQVlvQkFweGdKUWQyNktUclc5aVotWGMzUHpzWElnWFBpY3JRLTJ4aGZYc1gwbmpERnlFV0ZyMDM3SXM?oc=5" target="_blank">Hong Kong set to include trading firms in ‘big bang’ tax reforms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump and the failure of the Fafo doctrine - Financial Times
+## OpenAI’s head of ethics leaves start-up less than a year after joining - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NpaVdnLS1kd3dqbW9VOThfMUFuazdhR1dnOHR0OW81VVZucFZfRDdqVTVzdEFGcEZDTUdaQVNCNmpOd0w2dGpMWGgzTFFpbUpVQkwzTFllS2ExTkp2YWw2ZzlCMk1IaWp0S2JjWFdydWZhZEEzQlg2dDBVVEN5aWdGMkY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFhZjNhRUJPR09QWTQ1SldGR3Y5WTI4TExvUElSdHdBWl94SWRHeXAzeUwxRlFkSGpoX2o4ekFaTkJMZXNBMFFFVFRSX0c3S3dUV0pMR3ZPc09Jeld1QzNaMUNEdmgtZmVNN2dOWDJxdGN5REplU1NjNmh1eU53bDdMa2U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NpaVdnLS1kd3dqbW9VOThfMUFuazdhR1dnOHR0OW81VVZucFZfRDdqVTVzdEFGcEZDTUdaQVNCNmpOd0w2dGpMWGgzTFFpbUpVQkwzTFllS2ExTkp2YWw2ZzlCMk1IaWp0S2JjWFdydWZhZEEzQlg2dDBVVEN5aWdGMkY?oc=5" target="_blank">Trump and the failure of the Fafo doctrine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFhZjNhRUJPR09QWTQ1SldGR3Y5WTI4TExvUElSdHdBWl94SWRHeXAzeUwxRlFkSGpoX2o4ekFaTkJMZXNBMFFFVFRSX0c3S3dUV0pMR3ZPc09Jeld1QzNaMUNEdmgtZmVNN2dOWDJxdGN5REplU1NjNmh1eU53bDdMa2U?oc=5" target="_blank">OpenAI’s head of ethics leaves start-up less than a year after joining</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Barrick and Newmont gold mining truce clears way for IPO - Financial Times
+## Nvidia becomes the bank of AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTBrWWJwTHFWLWtDQlFkMVBMLUFObFY1aUxReGZwTW1OWlkyWmxENDlKWmFoTkoyR3FaSk16ajRlYXpSaU5OMnBEa2l6aE5rWXNRSFFUWmN2Z2RsLVFuS0Q4NWt0VjBTM25FWllxaG1RRmQxOXRJTlFMMjM5VzluejdhQS0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWZDV0hHb2JYTE5uSmFNR3I5VjNFS0JOemdUMDVJN0ctbHZEbUt4ckZ1OFhnM09ISU9MbDdIYWZwLVA3QmdvTFBRZTNCRkotZWw3ZmR2LVBEblNuM2EydWdTM2xEd084TktzNVBVT01lTHZFN1ZFcE5FMDlrRFk1Y2d3bjU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTBrWWJwTHFWLWtDQlFkMVBMLUFObFY1aUxReGZwTW1OWlkyWmxENDlKWmFoTkoyR3FaSk16ajRlYXpSaU5OMnBEa2l6aE5rWXNRSFFUWmN2Z2RsLVFuS0Q4NWt0VjBTM25FWllxaG1RRmQxOXRJTlFMMjM5VzluejdhQS0?oc=5" target="_blank">Barrick and Newmont gold mining truce clears way for IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWZDV0hHb2JYTE5uSmFNR3I5VjNFS0JOemdUMDVJN0ctbHZEbUt4ckZ1OFhnM09ISU9MbDdIYWZwLVA3QmdvTFBRZTNCRkotZWw3ZmR2LVBEblNuM2EydWdTM2xEd084TktzNVBVT01lTHZFN1ZFcE5FMDlrRFk1Y2d3bjU?oc=5" target="_blank">Nvidia becomes the bank of AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump flew secretly from Turkey due to Iranian threat, the Washington Post reports - Reuters
+## For McDonald's and rivals, cheap deals no longer do the trick - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxPREluUlJXa0tGLWNUdk9DbkpRazRWWFZyQjlnblJiaC1xc3N1c2hUOXIwVGgwZXU4dlhfcERmX3MxMUltNFJ2TWVxb19ZbVRjRk00eGVWUlR0cW5jSTl5Y3M2dWhJc1I4NVVNdlV2a2U1MmR5Q2FaYnlhMk10a1lmNFNXQTBQZm5xaklVQUM2NlppTU9zeHV5ck9pTE1UVWU1eTNxZzB3d2pQNzkwQlhRTWZCbDhaRkZXR2pHR1FJYkZYanp2N2VIbmxkc0Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUtzMHVDMnBhRWRTQXIwLVNnWi1XY0tEcnM2a1lGSVI1OE94VTJCSGtCUEpIV2VyV1hnQ2MyZUFiMmFLTVNVRmt0eXFhZkxYVkxocXI1ejZ1Rkw5ZTUyamhxdkFSVG54X0JweDJjOUJ1eGlfWllZb2M4U2hlYUp2eFFYcTdwZVZYcTFaYUVzcDh5aVBfMHlB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPREluUlJXa0tGLWNUdk9DbkpRazRWWFZyQjlnblJiaC1xc3N1c2hUOXIwVGgwZXU4dlhfcERmX3MxMUltNFJ2TWVxb19ZbVRjRk00eGVWUlR0cW5jSTl5Y3M2dWhJc1I4NVVNdlV2a2U1MmR5Q2FaYnlhMk10a1lmNFNXQTBQZm5xaklVQUM2NlppTU9zeHV5ck9pTE1UVWU1eTNxZzB3d2pQNzkwQlhRTWZCbDhaRkZXR2pHR1FJYkZYanp2N2VIbmxkc0Y?oc=5" target="_blank">Trump flew secretly from Turkey due to Iranian threat, the Washington Post reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUtzMHVDMnBhRWRTQXIwLVNnWi1XY0tEcnM2a1lGSVI1OE94VTJCSGtCUEpIV2VyV1hnQ2MyZUFiMmFLTVNVRmt0eXFhZkxYVkxocXI1ejZ1Rkw5ZTUyamhxdkFSVG54X0JweDJjOUJ1eGlfWllZb2M4U2hlYUp2eFFYcTdwZVZYcTFaYUVzcDh5aVBfMHlB?oc=5" target="_blank">For McDonald's and rivals, cheap deals no longer do the trick</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Flowers Foods seeks to divest Tastykake baked goods business, sources say - Reuters
+## UKMTO reports incident involving container ship and military forces in Gulf of Oman - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxOODB1RW1jNkg0QzRTclNjMllXLWNteFFxek5oTXd4bEtMNzlSV1VtQW5tYWtickZYTTRyakRvOWFFNGZJUXJTNWNKMDNJcTYtcTVuS0ZaNUVpZUctRDRnSlZ6VmtQb2RRTGpNTUNRMmFmREJpd1VxUFB4RjI1dnMyVnZad18tYXV2Mk9xVEZUME5PXy1VQVBGRkM0cHBKVVVhY1RxWGhDWVpMcXpMRVgxT21xNmU1c2ZfSmUxYXNMVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRhcUpmUml0dmpfNkN5U2IxYjZTa3ZVcTNlNzdTV3ZZb0ZWWGFpSjFFb0ppdmNYNkVpUThTUTlmRHpIVFhOMjdEV2FkcUZkTHpKcDE5SWVYLVhwVm9Pb0k4Y1pMSjJycW54TG5rOUl5QUt1cldselUwSnNsZnRCY0JMZ2ZhUlZabS1ucUc3bjRIR0UwVGRfcldJTXVDSHgtMHRWdnZESThGRzBjMWdmbkhmSjQwckwzb285VmRXRUpGcktLLXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOODB1RW1jNkg0QzRTclNjMllXLWNteFFxek5oTXd4bEtMNzlSV1VtQW5tYWtickZYTTRyakRvOWFFNGZJUXJTNWNKMDNJcTYtcTVuS0ZaNUVpZUctRDRnSlZ6VmtQb2RRTGpNTUNRMmFmREJpd1VxUFB4RjI1dnMyVnZad18tYXV2Mk9xVEZUME5PXy1VQVBGRkM0cHBKVVVhY1RxWGhDWVpMcXpMRVgxT21xNmU1c2ZfSmUxYXNMVQ?oc=5" target="_blank">Flowers Foods seeks to divest Tastykake baked goods business, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRhcUpmUml0dmpfNkN5U2IxYjZTa3ZVcTNlNzdTV3ZZb0ZWWGFpSjFFb0ppdmNYNkVpUThTUTlmRHpIVFhOMjdEV2FkcUZkTHpKcDE5SWVYLVhwVm9Pb0k4Y1pMSjJycW54TG5rOUl5QUt1cldselUwSnNsZnRCY0JMZ2ZhUlZabS1ucUc3bjRIR0UwVGRfcldJTXVDSHgtMHRWdnZESThGRzBjMWdmbkhmSjQwckwzb285VmRXRUpGcktLLXc?oc=5" target="_blank">UKMTO reports incident involving container ship and military forces in Gulf of Oman</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Car bomb kills eastern Libyan military intelligence chief, sources say - Reuters
+## Taylor Swift wedding-dress fever puts bridal brands on high alert - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXJvNXdEbzlEVUJDSXg4R3B1WDBwX1N3QnZlMExoeFk3bGhVZldYSDNaZ0VDSTFCUnh0VGwxcXNmT2xKQlFRZ2hOdkEyVUdYUFRHUmxjNHQ1QmgyRHZPcThRc0wtU0thd0FOdEpZdE5kZy02endkSjVoOTlLcTVka0xONF9OWjZtNm16d0loMURJV1pxUUVDSkE4bEdLLXFqNVlsZzZXRHdxaDVNM1dyOXN2NUtaRGlyV2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2NyZ0RTTVhkaVExNzJ4d1JkVUxKY0hoOE8yckk4dkpDZGt6UVBRUDhxTm9JcEFZLXdjdzUyRldhMkNGQVFFdjBGcFQ4aHhQTjdYN29neWcwRDUxU2RMTW85bXhvRGlMVXd1d1dQcmV2WksxUWxyUjR5QnI4NWxvSTM4T1NHeF9vUlcyM2dhQW1LaUtsbmN4OUJxc3dpOFFUTDZrVVNpUGlydlJI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXJvNXdEbzlEVUJDSXg4R3B1WDBwX1N3QnZlMExoeFk3bGhVZldYSDNaZ0VDSTFCUnh0VGwxcXNmT2xKQlFRZ2hOdkEyVUdYUFRHUmxjNHQ1QmgyRHZPcThRc0wtU0thd0FOdEpZdE5kZy02endkSjVoOTlLcTVka0xONF9OWjZtNm16d0loMURJV1pxUUVDSkE4bEdLLXFqNVlsZzZXRHdxaDVNM1dyOXN2NUtaRGlyV2c?oc=5" target="_blank">Car bomb kills eastern Libyan military intelligence chief, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2NyZ0RTTVhkaVExNzJ4d1JkVUxKY0hoOE8yckk4dkpDZGt6UVBRUDhxTm9JcEFZLXdjdzUyRldhMkNGQVFFdjBGcFQ4aHhQTjdYN29neWcwRDUxU2RMTW85bXhvRGlMVXd1d1dQcmV2WksxUWxyUjR5QnI4NWxvSTM4T1NHeF9vUlcyM2dhQW1LaUtsbmN4OUJxc3dpOFFUTDZrVVNpUGlydlJI?oc=5" target="_blank">Taylor Swift wedding-dress fever puts bridal brands on high alert</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkish parliament passes landmark law to advance PKK peace process - Reuters
+## Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ29RNHpoTnE2N0RlbFFnS1dsTEFVWVRPX1dNOEVNOHNLUmNWcWs0a1dMOUx1U1hveGxlWTBwQjRKVmN2bFZuNkNfUzNrYmgtN0pKbkVqRHgxREhTaWJvQ3dPNWxBVFRqU1hqNmotY21oSW1YYTBraC1SMWJfdU1qRFNCbUhOLWtpQkpJU3dwNHpqcGg4NzJGTDNyNG9Rallkbkk0RmVZZ3lsaUlhM1JvSWZmakJmN1RibkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ29RNHpoTnE2N0RlbFFnS1dsTEFVWVRPX1dNOEVNOHNLUmNWcWs0a1dMOUx1U1hveGxlWTBwQjRKVmN2bFZuNkNfUzNrYmgtN0pKbkVqRHgxREhTaWJvQ3dPNWxBVFRqU1hqNmotY21oSW1YYTBraC1SMWJfdU1qRFNCbUhOLWtpQkpJU3dwNHpqcGg4NzJGTDNyNG9Rallkbkk0RmVZZ3lsaUlhM1JvSWZmakJmN1RibkE?oc=5" target="_blank">Turkish parliament passes landmark law to advance PKK peace process</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5" target="_blank">Syria sentences absent Bashar al-Assad to death over killings and torture</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Ukraine, Moldova consider shipping grain by rail through Moldova, sources say - Reuters
+## Houthi attack on small cargo ship in Red Sea kills three crew members, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQczZCdjhQdk9TTWZQblR0V0Fac2xTTWk3TWhRLUt2akZ4THduLVB3aUhzYlNtMGt2YkxhMDVfRlgxeDRELVptZmRweko5WWVDY2NoRFRzVTlHMWdSUXlhV1J5Ry1fRnVYUFJTVzNQUnBlOGNXcXRnRFIwa2ZKQjNkZjBIRTI2ZkZ1UkQ3YkRzNGZEY0Nxa3FIZGg0bnBPLWRtM0VTLVQ3TlhxeDMyakQxOXNJQ2lBd1FOUF9IRg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOSURtU0FxazNSZWRITkpUbGp3SDRFemExTERkeHk0c3B6c0hoT3Vaa2lJNGxqZ3pjdmIxX1k0Y0M2cWlxOTRlSGE1WF9WT1V0eUdWd1poSEZObm1kdHpyS24xVU9jNUdubXpTQUpjOURBTERkYTFUNjF0aFAwYXZ0cTN0bVZadW5ub0JBWElFa1lMNlpvZWFYQ1lB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQczZCdjhQdk9TTWZQblR0V0Fac2xTTWk3TWhRLUt2akZ4THduLVB3aUhzYlNtMGt2YkxhMDVfRlgxeDRELVptZmRweko5WWVDY2NoRFRzVTlHMWdSUXlhV1J5Ry1fRnVYUFJTVzNQUnBlOGNXcXRnRFIwa2ZKQjNkZjBIRTI2ZkZ1UkQ3YkRzNGZEY0Nxa3FIZGg0bnBPLWRtM0VTLVQ3TlhxeDMyakQxOXNJQ2lBd1FOUF9IRg?oc=5" target="_blank">EXCLUSIVE: Ukraine, Moldova consider shipping grain by rail through Moldova, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOSURtU0FxazNSZWRITkpUbGp3SDRFemExTERkeHk0c3B6c0hoT3Vaa2lJNGxqZ3pjdmIxX1k0Y0M2cWlxOTRlSGE1WF9WT1V0eUdWd1poSEZObm1kdHpyS24xVU9jNUdubXpTQUpjOURBTERkYTFUNjF0aFAwYXZ0cTN0bVZadW5ub0JBWElFa1lMNlpvZWFYQ1lB?oc=5" target="_blank">Houthi attack on small cargo ship in Red Sea kills three crew members, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
