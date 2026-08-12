@@ -1,60 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-08-12 02:23:08
+更新时间：2026-08-12 13:21:32
 
-## India’s Small Traders Lose $9.6 Billion in Options Despite Curbs
+## US July Core CPI Rises 0.2%, Easing Pressure on Fed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives
+链接：https://www.bloomberg.com/news/videos/2026-08-12/us-july-core-cpi-rises-0-2-easing-pressure-on-fed-video
 
 正文长度：0
 
-摘要：Indian retail traders lost 916.85 billion rupees ($9.6 billion) trading equity futures and options in the year ended March, showing that a regulatory clampdown has so far had only limited success in stemming the heavy losses incurred by individual investors.
+摘要：The US consumer price index rose by 0.2% which was bang in line with forecasts. Prices rose by 2.5% from a year earlier, matching the slowest pace since March 2021. Energy, gas and grocery prices all fell on the month. This likely eases pressure on the Federal Reserve to raise interest rates. Michael McKee reports.  (Source: Bloomberg)
 
 
 ---
 
-## Gold Advances as Traders Watch US Inflation for Rate-Hike Clues
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues
-
-正文长度：0
-
-摘要：Gold edged higher, as traders weighed prospects for a deal to reopen the Strait of Hormuz while awaiting US inflation data that could provide fresh clues on the Federal Reserve’s interest-rate path.
-
-
----
-
-## Latest Oil Market News and Analysis for Aug. 12
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12
-
-正文长度：0
-
-摘要：Oil advanced for a sixth day on skepticism about the prospects for a deal that would restore energy flows through the Strait of Hormuz, despite an upbeat assessment from some officials.
-
-
----
-
-## Sanrio Shares Plunge Most Since 2014 After 1Q Earnings Miss
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-12/sanrio-shares-plunge-most-since-2014-after-1q-earnings-miss
-
-正文长度：0
-
-摘要：Sanrio Co. shares tumbled as much as 20%, the most in more than 12 years, after the company’s first quarter operating income missed market estimates.
-
-
----
-
-## Oil Gains Before US CPI, Asian Tech Stocks Rise: Markets Wrap
+## Stocks, Bonds Rise as Tame CPI Curbs Fed-Hike Bets: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +23,46 @@
 
 正文长度：0
 
-摘要：Crude oil climbed as traders remained wary about the prospects for a Middle East deal, tempering the mood in the run-up to crucial US inflation data. Technology shares led gains in Asian equities.
+摘要：An in-line inflation reading spurred gains in both stocks and bonds, easing concern about imminent Federal Reserve interest-rate increases despite elevated oil prices.
+
+
+---
+
+## Gold Rallies as Tame US Inflation Report Calms Rate Hike Fears
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues
+
+正文长度：0
+
+摘要：Gold extended gains above $4,400 an ounce as US inflation data matched expectations, easing traders’ oncerns about imminent Federal Reserve interest-rate hikes despite elevated oil prices.
+
+
+---
+
+## Bitwise Cuts 14% of Jobs With Crypto Industry Under Pressure
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-11/bitwise-cuts-14-of-jobs-with-crypto-industry-under-pressure
+
+正文长度：0
+
+摘要：Crypto firm Bitwise Asset Management Inc. has let go about 14% of its workforce during a prolonged slump in digital-asset prices.
+
+
+---
+
+## New York City’s Five Pensions Gain 13% on Surging US Stocks
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-12/new-york-city-s-five-pensions-gain-13-on-surging-us-stocks
+
+正文长度：0
+
+摘要：New York City’s five pensions beat their investment target over the past fiscal year, propelled by a record-breaking US stock market.
 
 
 ---
@@ -239,132 +239,132 @@ Hassan said the opportunity to partner with the Olympics and Paralympics was uni
 
 ---
 
-## Panama Canal fees hit record high as El Niño and Iran war choke shipping - Financial Times
+## China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEZHVmhSaVdNa3dCZlVvX01Pdy1YcHBmYXcxY181aDVuMHFvZ2VJUEdCUVNqNVk3cHNzYzFEMVhpQi0tLVdUYkdiUTR0alRIcTFDSHYwYUttdFZKcnpVMG5EUXZ4VXRGem52ZTRrU0NUSzA3QlFaNmkxVG1aZ0l5TnRmc0I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNU3NZdFNQZ19HWWJKTnRkWUY5eUl3bXRRZjlZT1JGc2tvbzFlZEs2OGVnQWdIazNheUVDNWwxOUx1UF9Cc0MyM3NFcFZEbTluS2xxLTRDSC01ejVCdkJ3Q0Q2NTJLeE1kSnhqUXQ5VVFRWFFzQmR5QU5uQXYtMnU1eXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEZHVmhSaVdNa3dCZlVvX01Pdy1YcHBmYXcxY181aDVuMHFvZ2VJUEdCUVNqNVk3cHNzYzFEMVhpQi0tLVdUYkdiUTR0alRIcTFDSHYwYUttdFZKcnpVMG5EUXZ4VXRGem52ZTRrU0NUSzA3QlFaNmkxVG1aZ0l5TnRmc0I?oc=5" target="_blank">Panama Canal fees hit record high as El Niño and Iran war choke shipping</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNU3NZdFNQZ19HWWJKTnRkWUY5eUl3bXRRZjlZT1JGc2tvbzFlZEs2OGVnQWdIazNheUVDNWwxOUx1UF9Cc0MyM3NFcFZEbTluS2xxLTRDSC01ejVCdkJ3Q0Q2NTJLeE1kSnhqUXQ5VVFRWFFzQmR5QU5uQXYtMnU1eXM?oc=5" target="_blank">China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Will failure in Iran reshape how the US fights? - Financial Times
+## Israel’s campaign to make southern Lebanon ‘unliveable’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbFhZOEVXb3htNVJKS3VMZExyWFlfY2k4WmZic0pJTjY2T3VIVi1fdWVDR1o0WG1mVmI1TUJwMG1aSjdoVGZWY0RFaWtFLWdxVG5pdkRGYkhvaWpJVmVMbnhHUGRyYjZqUHdiQ2Nidzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmFBSUZBc2tXTXZIMHN5cFB0TlgzXzM1THJWMWtha2ZxbWR1TEpya19SNzdaLW5BQi1VUlc0bzlFMEtPZnJhc0RrcEhFLVB2enAwYjhDVGFycmw4d1NyYVM2N1lzeHV3Y2wwRW82ZkI3NjJMSVEwUmx2RW5QVWV1S0xtWGg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbFhZOEVXb3htNVJKS3VMZExyWFlfY2k4WmZic0pJTjY2T3VIVi1fdWVDR1o0WG1mVmI1TUJwMG1aSjdoVGZWY0RFaWtFLWdxVG5pdkRGYkhvaWpJVmVMbnhHUGRyYjZqUHdiQ2Nidzg?oc=5" target="_blank">Will failure in Iran reshape how the US fights?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmFBSUZBc2tXTXZIMHN5cFB0TlgzXzM1THJWMWtha2ZxbWR1TEpya19SNzdaLW5BQi1VUlc0bzlFMEtPZnJhc0RrcEhFLVB2enAwYjhDVGFycmw4d1NyYVM2N1lzeHV3Y2wwRW82ZkI3NjJMSVEwUmx2RW5QVWV1S0xtWGg?oc=5" target="_blank">Israel’s campaign to make southern Lebanon ‘unliveable’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors - Financial Times
+## JD Vance asked Ukraine to halt strikes on tankers using Russian port - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHozSHFpa1NxaDU1SUdSNFgwc3Z4TG1TLTZZUHpuanFkOW5rSTc5eFJSTDZZbjF0R2VJT3ppTWhNUmsxSG5lMU1YOFNreDhiWXdfMllHLUZiN2pIUndLRmN3cHlVNEtDR3ZWVnV2TmotTWF1T1RXQko0clRUWXBuMk5uam8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5" target="_blank">Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHozSHFpa1NxaDU1SUdSNFgwc3Z4TG1TLTZZUHpuanFkOW5rSTc5eFJSTDZZbjF0R2VJT3ppTWhNUmsxSG5lMU1YOFNreDhiWXdfMllHLUZiN2pIUndLRmN3cHlVNEtDR3ZWVnV2TmotTWF1T1RXQko0clRUWXBuMk5uam8?oc=5" target="_blank">JD Vance asked Ukraine to halt strikes on tankers using Russian port</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Deutsche becomes first European clearing bank for renminbi - Financial Times
+## Bank of America commits $250bn to US projects in boost to ‘America First’ agenda - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTJLSWhMVWlXbGYzUm1mZEVHZXZDdndSN0VONDJTbXZxZFZ6R0pFamdjbWhqVWtZY3pVM2pudU4wZkZ3SDFFbmlKOGhZbXk0Y3VJU0poYmNDRE1DRVNhNll4d3hucjdqSEtJV1IwNFQ0SzIxNFJ0WUY2WEd2dy1KTXlEV2o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWExTXBjZDR5S3BJQldPMEk4TVRvZGIwVmlqem0xSG1lMmJJbGI3MTNHWmptTDU0Y1RaWTFfa2VkUzVPUTNGUnZDbzduMWZNR0dKVlpvZVFIcmNBWmRhckJ5V3BkZW0zY1Y0N20wQmJURzRZSXZKa2Q4TEhLeHN4eENyeks?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTJLSWhMVWlXbGYzUm1mZEVHZXZDdndSN0VONDJTbXZxZFZ6R0pFamdjbWhqVWtZY3pVM2pudU4wZkZ3SDFFbmlKOGhZbXk0Y3VJU0poYmNDRE1DRVNhNll4d3hucjdqSEtJV1IwNFQ0SzIxNFJ0WUY2WEd2dy1KTXlEV2o?oc=5" target="_blank">Deutsche becomes first European clearing bank for renminbi</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWExTXBjZDR5S3BJQldPMEk4TVRvZGIwVmlqem0xSG1lMmJJbGI3MTNHWmptTDU0Y1RaWTFfa2VkUzVPUTNGUnZDbzduMWZNR0dKVlpvZVFIcmNBWmRhckJ5V3BkZW0zY1Y0N20wQmJURzRZSXZKa2Q4TEhLeHN4eENyeks?oc=5" target="_blank">Bank of America commits $250bn to US projects in boost to ‘America First’ agenda</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth - Financial Times
+## Tata chair to step down as succession row escalates - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hiNjh3TVl1VkQ1TnNTUENFZVF0d1g2dlpqME43V29rM2RvcmxSSDk1c1FhZ3cycF91T08tSUZKTjJNaHJoUHRLdDBTWDgwa2xTQ29ZRElRU3U0UEkyZ05PRmZFbmxBN01HZDR2TVZuZ1B6MUdCaWZDcHhRTzdVODc3X0w?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQS1yMWRscjUwQ1hJYTd0U0NLZW45aXh3dHBTeDZJYU5TS044bllrRVNZRW9xb3ZqRFhwLXRuRlNzVDkzVXc0TVRJR0IwbXRTTDVkUS1JamFVVDZ2WVlCVUx3TXZiMnZWeVM4SXMyVlExN1lFRzdqWFZFNjIxU25TeDNUMlU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2hiNjh3TVl1VkQ1TnNTUENFZVF0d1g2dlpqME43V29rM2RvcmxSSDk1c1FhZ3cycF91T08tSUZKTjJNaHJoUHRLdDBTWDgwa2xTQ29ZRElRU3U0UEkyZ05PRmZFbmxBN01HZDR2TVZuZ1B6MUdCaWZDcHhRTzdVODc3X0w?oc=5" target="_blank">Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQS1yMWRscjUwQ1hJYTd0U0NLZW45aXh3dHBTeDZJYU5TS044bllrRVNZRW9xb3ZqRFhwLXRuRlNzVDkzVXc0TVRJR0IwbXRTTDVkUS1JamFVVDZ2WVlCVUx3TXZiMnZWeVM4SXMyVlExN1lFRzdqWFZFNjIxU25TeDNUMlU?oc=5" target="_blank">Tata chair to step down as succession row escalates</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Judge blocks US Postal Service from restricting mail-in voting - Reuters
+## US must return to interim deal, no ceasefire extension talks, senior Iranian source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3gxcU4tU2Z6TWNMR2VWV3B6TlA0cWdOYVFDejBMcnE2TUx3Q3gxMGJwMGV2MTJvajdiRWRkMkg3V1dtQ0xPYnZ3aWNpVkRBcFdVYW10blNNajFqN3EzWVNmUnpGTExjU0NrS3I5MlhYVnVPdWFzaFM3bkg3bzhpRnp5VXBoTXVNRnhNVV9RS1VUNHo4Zmd1ZkZUTVlfb2pm?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3gxcU4tU2Z6TWNMR2VWV3B6TlA0cWdOYVFDejBMcnE2TUx3Q3gxMGJwMGV2MTJvajdiRWRkMkg3V1dtQ0xPYnZ3aWNpVkRBcFdVYW10blNNajFqN3EzWVNmUnpGTExjU0NrS3I5MlhYVnVPdWFzaFM3bkg3bzhpRnp5VXBoTXVNRnhNVV9RS1VUNHo4Zmd1ZkZUTVlfb2pm?oc=5" target="_blank">Judge blocks US Postal Service from restricting mail-in voting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5" target="_blank">US must return to interim deal, no ceasefire extension talks, senior Iranian source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea fires ballistic missile ahead of major US-South Korea military drills - Reuters
+## Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWFOSl9NWnkxNHllQ1VVWW1LWURuSFo4UllLX19rdUFIMWlNTmRMZFVOTU9pdHJ5aUVaU0NJQVQ3LVhVV3RGYy1WVWUzdkh1SFhtYVlQdzBWNWt5Zno5dE1TUUYwU1NMUFMzd3NJdmlrZ1NRRkpuM2RSdHNwRFpyX3BsVXAtaFZ6cGVWeVVSd3IxVml6Z09tb2JzVjAxRmxiWFFmS2s4Y0hEYlE2Qlc3MmRLWWRNZUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5" target="_blank">North Korea fires ballistic missile ahead of major US-South Korea military drills</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWFOSl9NWnkxNHllQ1VVWW1LWURuSFo4UllLX19rdUFIMWlNTmRMZFVOTU9pdHJ5aUVaU0NJQVQ3LVhVV3RGYy1WVWUzdkh1SFhtYVlQdzBWNWt5Zno5dE1TUUYwU1NMUFMzd3NJdmlrZ1NRRkpuM2RSdHNwRFpyX3BsVXAtaFZ6cGVWeVVSd3IxVml6Z09tb2JzVjAxRmxiWFFmS2s4Y0hEYlE2Qlc3MmRLWWRNZUU?oc=5" target="_blank">Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia - Reuters
+## German advocacy group lodges criminal complaint over Meta AI glasses - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3N0UGpsR1NtWEdwbzM0TVlkakRJQUNxNmMxYzdXZE9KLXZvTDR4bE1vbnhFNTFZOWVCQWsya0ozUmx2czlHck5fQ2x1SDY2NFAwV0kwMFgxV1NoMTlvc294THNtSjJ3dzNOS3dzbzJMbVJfc0xxS29ueFNCRnJjNl96TDJvT2Jyb3lRMmhvUUp6c0tKNDI0eGhjZFluZ2l3MnZldm9QaEx1d05vSGxSRVo0YnRBV0NpQ1FPMHRR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5" target="_blank">Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3N0UGpsR1NtWEdwbzM0TVlkakRJQUNxNmMxYzdXZE9KLXZvTDR4bE1vbnhFNTFZOWVCQWsya0ozUmx2czlHck5fQ2x1SDY2NFAwV0kwMFgxV1NoMTlvc294THNtSjJ3dzNOS3dzbzJMbVJfc0xxS29ueFNCRnJjNl96TDJvT2Jyb3lRMmhvUUp6c0tKNDI0eGhjZFluZ2l3MnZldm9QaEx1d05vSGxSRVo0YnRBV0NpQ1FPMHRR?oc=5" target="_blank">German advocacy group lodges criminal complaint over Meta AI glasses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Super Micro forecasts upbeat annual revenue on data center adoption - Reuters
+## Meta, 29 states head to court in biggest test yet of youth social media litigation - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktRQXY0ZDg2dVhKTUZxSUJMZjRfWmdPUXBoaUxaQ0c5V2cxWUpXcVd5a2k5eVczSktyWXlmTDRaVlR3bGxiN19FNno0WXpmeEdyUjVjNm55VnNsb2oyRTl5Zld5d09aMTl5dG4xV0VzTk1wSFJXb0paVXVIZlRZQ195ZUpFbndiU2lNTnZwVlhORzNCaU5zbTJLMUtjTlFJR3B0aG1pcUh6YjVoNXVVQjMwNTVqR2JX?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw?oc=5" target="_blank">Super Micro forecasts upbeat annual revenue on data center adoption</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktRQXY0ZDg2dVhKTUZxSUJMZjRfWmdPUXBoaUxaQ0c5V2cxWUpXcVd5a2k5eVczSktyWXlmTDRaVlR3bGxiN19FNno0WXpmeEdyUjVjNm55VnNsb2oyRTl5Zld5d09aMTl5dG4xV0VzTk1wSFJXb0paVXVIZlRZQ195ZUpFbndiU2lNTnZwVlhORzNCaU5zbTJLMUtjTlFJR3B0aG1pcUh6YjVoNXVVQjMwNTVqR2JX?oc=5" target="_blank">Meta, 29 states head to court in biggest test yet of youth social media litigation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge - Reuters
+## CoreWeave, Super Micro climb on signs of sustained AI buildout - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5" target="_blank">CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5" target="_blank">CoreWeave, Super Micro climb on signs of sustained AI buildout</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
