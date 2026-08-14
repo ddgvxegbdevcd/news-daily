@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-08-14 02:23:26
+更新时间：2026-08-14 13:17:58
 
-## Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap
+## Copper Crunch Worsens as LME Spread Heads Higher
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-08-14/copper-crunch-worsens-as-key-spread-heads-for-highest-since-2021
 
 正文长度：0
 
-摘要：Asian stocks rose, adding to a fourth week of gains, as moderating US inflation reinforced bets that the Federal Reserve will refrain from raising interest rates next month. Technology stocks extended their rebound.
+摘要：Spot copper prices are surging above later-dated futures on the London Metal Exchange, in a condition known as backwardation that’s a hallmark of a deepening squeeze on supply.
 
 
 ---
 
-## PBOC Conducts Mid-Month Overnight Reverse Repo for First Time
+## Tyson to Close More Beef Plants as Cattle Shortage Drags On
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time
+链接：https://www.bloomberg.com/news/articles/2026-08-13/tyson-to-close-more-beef-plants-as-us-cattle-shortage-drags-on
 
 正文长度：0
 
-摘要：China’s central bank injected liquidity through overnight reverse repos on Friday, marking its first such operation in the middle of a month.
+摘要：Tyson Foods Inc. said it would close several additional beef plants, in the latest sign of the US beefpacking industry’s restructuring amid a prolonged cattle shortage.
 
 
 ---
 
-## Carry Traders Exploit Intervention to Rebuild Yen Shorts
+## Zambia Violence Reports Halt Vote Count As Opposition Cries Foul
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-14/carry-traders-are-exploiting-intervention-to-rebuild-yen-shorts
+链接：https://www.bloomberg.com/news/articles/2026-08-14/zambia-electoral-body-suspends-vote-counting-on-violence
 
 正文长度：0
 
-摘要：Every intervention to prop up the yen is also creating a fresh opportunity to sell it.
+摘要：Zambia’s electoral commission cited reports of violence as it halted vote counting in the southern African nation’s general election, while the leading opposition candidate warned that delaying the results could mask foul play.
 
 
 ---
 
-## Uber and China’s Pony AI to Deploy 2,000 Robotaxis in Europe
+## EdgeConneX Seeks $2.5 Billion Bank Pledge for Data Center Power
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe
+链接：https://www.bloomberg.com/news/articles/2026-08-14/edgeconnex-seeks-2-5-billion-bank-pledge-for-data-center-power
 
 正文长度：0
 
-摘要：Pony AI Inc. said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc., accelerating the race to commercialize autonomous-mobility in the region.
+摘要：EQT-backed EdgeConneX Inc. is asking banks to guarantee as much as $2.5 billion in power costs, joining a wave of data center builders turning to new financing playbooks to fuel growth.
 
 
 ---
 
-## Diversified Said to Near Deal for Elliott-Backed Birch
+## Gold Steadies Above $4,300 as Traders Weigh Fed Rate-Hike Path
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch
+链接：https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension
 
 正文长度：0
 
-摘要：Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.
+摘要：Gold recovered from an early bout of profit-taking to trade steady above $4,300 an ounce, with investors weighing the likely path of US monetary policy after tame US inflation data.
 
 
 ---
@@ -247,132 +247,132 @@ The future of the AI buildout, and hundreds of billions of dollars in investor m
 
 ---
 
-## FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire - ft.com
+## OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU9JQk9ab1VJNGJVY3VGR25JazJsanlRaW5lYi1nSXpOOWJ0d21MNldUcGNxb0hxdG5GaXd1eTZYdUZPcG1id1R1WTNsNGQ4eVNSbTVCZ29sVnBHWW14bEtkOGoyRDNESDVFMjR0NUhuSHhZcG9jX1M4dU53ZXphbXJTcGw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU9JQk9ab1VJNGJVY3VGR25JazJsanlRaW5lYi1nSXpOOWJ0d21MNldUcGNxb0hxdG5GaXd1eTZYdUZPcG1id1R1WTNsNGQ4eVNSbTVCZ29sVnBHWW14bEtkOGoyRDNESDVFMjR0NUhuSHhZcG9jX1M4dU53ZXphbXJTcGw?oc=5" target="_blank">FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5" target="_blank">OpenAI and Anthropic in price war as Chinese AI rivals gain ground</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US accuses more than 40 countries of helping China avoid Trump’s tariffs - ft.com
+## The exodus from Israel - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXQxbDRNaVRGbVZnTGFXME92QjhuQWJBaUlxZzQyNE02N0tvM19aQjFRZUI5Ujhtb1d2czlhS0ZGcUVSYWRhT3FkLWJlZXRqcHdNOTF0c19aTVRrbjA2NjR5Qks4eFpqTXVyZFpvcXZudllvaFFEY2tqTUpSUGktcm9OUVg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUlvX29XNW1YN3pxeTdzZDByME9haWVpTE9sQlp3MFNCbjRibE1lOXM2em9fT2pUWHcyYUFpMmN5emNoYXp5X3VBWEdzQ3IwVldyTXdJNHMwdmgtLU52RnhoRElKR3daX3VVMklFeUp1Z2hnbFhwaHNpMXZnTVRBVHhUdWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXQxbDRNaVRGbVZnTGFXME92QjhuQWJBaUlxZzQyNE02N0tvM19aQjFRZUI5Ujhtb1d2czlhS0ZGcUVSYWRhT3FkLWJlZXRqcHdNOTF0c19aTVRrbjA2NjR5Qks4eFpqTXVyZFpvcXZudllvaFFEY2tqTUpSUGktcm9OUVg?oc=5" target="_blank">US accuses more than 40 countries of helping China avoid Trump’s tariffs</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUlvX29XNW1YN3pxeTdzZDByME9haWVpTE9sQlp3MFNCbjRibE1lOXM2em9fT2pUWHcyYUFpMmN5emNoYXp5X3VBWEdzQ3IwVldyTXdJNHMwdmgtLU52RnhoRElKR3daX3VVMklFeUp1Z2hnbFhwaHNpMXZnTVRBVHhUdWQ?oc=5" target="_blank">The exodus from Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US sells 30-year bonds at highest borrowing costs since 2001 - ft.com
+## The quest to find the world’s best honey - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXFfeFRJQWtXTU93MmZ6VGEwenVLaEtBdmNlQmg2b0tZT3M1SjMtcS1ROUpONTJNak55UllFa3llRXB2WGJ6elZITFV2T1o3clNXOUl3QU1rYzVvNF9JQ2tGbTBZWm5oVFh6M2FPcUN6eV91SWRVb1ItU0ZXUHZ6VHJvX2s?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTERkS0ZCakNLRXNUS1RUbGlmZ1FMd2dLanM0MWp4ak0wVlp6UnRKOTJCQlJZU05WT3N5S0FxTlF4LUtSa0lBb1FlWl9lVkdtQ2lSblB6a1BQaWl5dFNKRFBON1ExcUlDYVpGdnprdEFUVGlORVYtOEd1dlFjWUkxeEtPU0s?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXFfeFRJQWtXTU93MmZ6VGEwenVLaEtBdmNlQmg2b0tZT3M1SjMtcS1ROUpONTJNak55UllFa3llRXB2WGJ6elZITFV2T1o3clNXOUl3QU1rYzVvNF9JQ2tGbTBZWm5oVFh6M2FPcUN6eV91SWRVb1ItU0ZXUHZ6VHJvX2s?oc=5" target="_blank">US sells 30-year bonds at highest borrowing costs since 2001</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTERkS0ZCakNLRXNUS1RUbGlmZ1FMd2dLanM0MWp4ak0wVlp6UnRKOTJCQlJZU05WT3N5S0FxTlF4LUtSa0lBb1FlWl9lVkdtQ2lSblB6a1BQaWl5dFNKRFBON1ExcUlDYVpGdnprdEFUVGlORVYtOEd1dlFjWUkxeEtPU0s?oc=5" target="_blank">The quest to find the world’s best honey</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Shock Wisconsin vote triggers doubt over US election polling - ft.com
+## Venezuela wants its gold back from Bank of England - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBCQ3NzMGczS0JIeXBOS0FmTFdJak9fOGNNQjRJblEzZF9oUXNyM1RSR1FVNUpxR2hCSmxVQmJLWjJlbG91QW1lTXNzbks2Mm1fcDZyY0p0Y1hOZmNzMzhjMVVuYVJWeExyMUNSTm5TUWs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWNzcDJVSWJsaE1IdDJ1eGVIaXBnYmE4YWprTHRPRFlmVzRRZnF1Yjl1QXFkdlNpNjZiSGpLTEtndElZY2ozbzlGam9PVzdPdHpTdzhaaHZlZU1uVlhkNkRyd3FfRzgzdnVlTTNYTlBCZUhxRzVmSnV5bmRONmpSMm5jajQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBCQ3NzMGczS0JIeXBOS0FmTFdJak9fOGNNQjRJblEzZF9oUXNyM1RSR1FVNUpxR2hCSmxVQmJLWjJlbG91QW1lTXNzbks2Mm1fcDZyY0p0Y1hOZmNzMzhjMVVuYVJWeExyMUNSTm5TUWs?oc=5" target="_blank">Shock Wisconsin vote triggers doubt over US election polling</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWNzcDJVSWJsaE1IdDJ1eGVIaXBnYmE4YWprTHRPRFlmVzRRZnF1Yjl1QXFkdlNpNjZiSGpLTEtndElZY2ozbzlGam9PVzdPdHpTdzhaaHZlZU1uVlhkNkRyd3FfRzgzdnVlTTNYTlBCZUhxRzVmSnV5bmRONmpSMm5jajQ?oc=5" target="_blank">Venezuela wants its gold back from Bank of England</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump enlists US tech groups for cyber privateering push - ft.com
+## AI frenzy drives Chinese tech valuations to multiples of US peers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZZOVJBOHVxX0FvNmRkLXl4QlNXbU1pLXRWZ0tDNWxFam90TGxhTWYyN1ZyQ2p3SU9vLWZvZ2VYVHdITlJySllsV3NOY0o3bHZuTWZTM0liVll3dFNCT2trZE1aSGJOSUJpelhRaUtveGlNUUczd2t6M09PMWJSQmdoSWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPckgxeTY2WGM0YVJoRWthUXBhWjFxbmRJemNYXzFRZm1iZmhJYTZxczNLQlJTTlo3NFhrR0QzeHpjUjJpZXdkSFVGcEh2d3hvdFlUanNEZE4xSXlzV1lGaVlKUFRVN28wUDNsVHJEMXZ2VG5GVmdzczM2aVIyekplNDN1UWo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZZOVJBOHVxX0FvNmRkLXl4QlNXbU1pLXRWZ0tDNWxFam90TGxhTWYyN1ZyQ2p3SU9vLWZvZ2VYVHdITlJySllsV3NOY0o3bHZuTWZTM0liVll3dFNCT2trZE1aSGJOSUJpelhRaUtveGlNUUczd2t6M09PMWJSQmdoSWc?oc=5" target="_blank">Trump enlists US tech groups for cyber privateering push</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPckgxeTY2WGM0YVJoRWthUXBhWjFxbmRJemNYXzFRZm1iZmhJYTZxczNLQlJTTlo3NFhrR0QzeHpjUjJpZXdkSFVGcEh2d3hvdFlUanNEZE4xSXlzV1lGaVlKUFRVN28wUDNsVHJEMXZ2VG5GVmdzczM2aVIyekplNDN1UWo?oc=5" target="_blank">AI frenzy drives Chinese tech valuations to multiples of US peers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump administration to impose tariffs on drone imports, White House says - Reuters
+## Zambia suspends vote count due to violence after presidential poll - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJBazFMbGdWVmctdmVUS1NPbFJMam5udHgzRkxCYUJST3lHTFA1OFZpSFFBd2kya1kwSm5iMUpaYk56a2ZQX0I4Q3Jwc25aN1Z2dmRDQVhrSVh4UUhqMWRNNEhWa21keGRsdG1HRF9uUkNtZERvQ25qT3ozcDQ3RjlpcUcwNGRkVzR6NnM1Y1FEWGVnSmQ0UWx5VXlWcFRaWVpzbXBiZFNWSzJWSkdTWA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJBazFMbGdWVmctdmVUS1NPbFJMam5udHgzRkxCYUJST3lHTFA1OFZpSFFBd2kya1kwSm5iMUpaYk56a2ZQX0I4Q3Jwc25aN1Z2dmRDQVhrSVh4UUhqMWRNNEhWa21keGRsdG1HRF9uUkNtZERvQ25qT3ozcDQ3RjlpcUcwNGRkVzR6NnM1Y1FEWGVnSmQ0UWx5VXlWcFRaWVpzbXBiZFNWSzJWSkdTWA?oc=5" target="_blank">Trump administration to impose tariffs on drone imports, White House says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5" target="_blank">Zambia suspends vote count due to violence after presidential poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters
+## US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5" target="_blank">Trump allows Navy to build ships abroad, orders return to steam catapults on carriers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5" target="_blank">US warns Iran it will step up economic pressure; two more ships attacked in Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters
+## Russia dismisses idea of Black Sea ceasefire - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5" target="_blank">UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5" target="_blank">Russia dismisses idea of Black Sea ceasefire</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Musk discloses 48.4% stake in SpaceX in regulatory filing - Reuters
+## Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG9HdFBYbUZ6MFFGUjZUeExZelNEMzlKX3hKS3Zmam90TFRpbVFhcmtBSU5jUkt2dHFobTV2SHNwNllUdnB3RXk4OUFsdXIzZEY0YW5zR3Z2bC1HWXVDT2FwcHFvalY1Ykl1QWN3WEJIQ0JYdEY0UnJ4b1NSdkxNaFpnak1nalE1b01wZVBydTZHRUxteEptZ1VFUXJmUWJwQjR0TXFQb3g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG9HdFBYbUZ6MFFGUjZUeExZelNEMzlKX3hKS3Zmam90TFRpbVFhcmtBSU5jUkt2dHFobTV2SHNwNllUdnB3RXk4OUFsdXIzZEY0YW5zR3Z2bC1HWXVDT2FwcHFvalY1Ykl1QWN3WEJIQ0JYdEY0UnJ4b1NSdkxNaFpnak1nalE1b01wZVBydTZHRUxteEptZ1VFUXJmUWJwQjR0TXFQb3g?oc=5" target="_blank">Musk discloses 48.4% stake in SpaceX in regulatory filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5" target="_blank">Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US court backs Trump's power to close 'de minimis' tariff exemption - Reuters
+## Spain removes remains of 11th century kings from monastery as wildfire rages - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhFNjllamU3TlBVNHBOUk9tellaaVEyTWZ3UkstVkljTUZPeElURVhIQTNXZlRPMnRBUEtZUWk3cXJ3aXdNZHJRRFJhaVBobGpVZVgxQ0ZVU0t2d29WbHQ2dnk0T3FRaGxWaVU1N24zUGgyc2Y5dEtZQXRENHlOWmpnTmR5a0VSMnFTQzdIWXdHcnlVLU9qektYRFdGbUpXdEx3clk1X3ctZjl6RVp1LTkzUHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkZjVmNGUC1KbG9GWlBRNmd3ZlM4cFllRGljb1pNQWowZEdFdEV4NzEtZnB3clhGaXpTVG96Q2hlZk9SUjczdHNONW43SGxnbVozZkNsUVhOUjZMSkQycWtRc1JqQ2ZuWWNPZS15SHA3U2FnWkFyZ0hReVZJbWxKUUVkdHM3QWU4TEtZMjh1aGJIUU9DWGZnZWNCYk9seVBrdWVoLW1XbE1YaHlWdFRHaWt3TzF6ckJRU2VtQ1IzNA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhFNjllamU3TlBVNHBOUk9tellaaVEyTWZ3UkstVkljTUZPeElURVhIQTNXZlRPMnRBUEtZUWk3cXJ3aXdNZHJRRFJhaVBobGpVZVgxQ0ZVU0t2d29WbHQ2dnk0T3FRaGxWaVU1N24zUGgyc2Y5dEtZQXRENHlOWmpnTmR5a0VSMnFTQzdIWXdHcnlVLU9qektYRFdGbUpXdEx3clk1X3ctZjl6RVp1LTkzUHY?oc=5" target="_blank">US court backs Trump's power to close 'de minimis' tariff exemption</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkZjVmNGUC1KbG9GWlBRNmd3ZlM4cFllRGljb1pNQWowZEdFdEV4NzEtZnB3clhGaXpTVG96Q2hlZk9SUjczdHNONW43SGxnbVozZkNsUVhOUjZMSkQycWtRc1JqQ2ZuWWNPZS15SHA3U2FnWkFyZ0hReVZJbWxKUUVkdHM3QWU4TEtZMjh1aGJIUU9DWGZnZWNCYk9seVBrdWVoLW1XbE1YaHlWdFRHaWt3TzF6ckJRU2VtQ1IzNA?oc=5" target="_blank">Spain removes remains of 11th century kings from monastery as wildfire rages</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
