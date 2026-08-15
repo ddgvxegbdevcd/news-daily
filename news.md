@@ -1,68 +1,121 @@
 # 每日财经新闻
 
-更新时间：2026-08-15 01:35:31
+更新时间：2026-08-15 12:47:19
 
-## Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth
+## Robinson Says Activists Need Leverage to Win
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-15/singapore-stocks-record-run-gets-goldilocks-boost-from-growth
+链接：https://www.bloomberg.com/news/videos/2026-08-15/robinson-says-activists-need-leverage-to-win-video
 
 正文长度：0
 
-摘要：Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient balance sheets get a lift from a “Goldilocks” economic backdrop.
+摘要：Author of the book 'From Presence to Power' Rashad Robinson is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that visibility, media attention and public support do not amount to power unless activists build the leverage needed to change decisions and institutions. Robinson draws on campaigns involving LGBTQ rights, racial justice and technology companies to make the case for moving beyond awareness toward strategies that produce lasting change. (Source: Bloomberg)
 
 
 ---
 
-## Bally’s Warns of Going Concern Doubt as It Seeks Fresh Liquidity
+## USS Abraham Lincoln Conditions Raise Readiness Concerns
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-14/bally-s-warns-of-going-concern-doubt-as-it-seeks-fresh-liquidity
+链接：https://www.bloomberg.com/news/videos/2026-08-15/uss-abraham-lincoln-conditions-raise-readiness-concerns-video
 
 正文长度：0
 
-摘要：Bally’s Corp. warned investors of “substantial doubt” that it will be able to continue as a going concern as it risks running afoul of its agreement with lenders.
+摘要：Navy veteran and military journalist Natalie Oliverio joins Bloomberg This Weekend and says reported food, sanitation and communication problems aboard the USS Abraham Lincoln risk undermining sailors’ readiness. Oliverio explains to hosts Joe Mathieu and Carol Massar that families and lawmakers are demanding answers as the carrier has spent more than 240 consecutive days at sea, while the Pentagon disputes reports portraying conditions aboard the ship as dire. (Source: Bloomberg)
 
 
 ---
 
-## Wall Street Week | Rerouting Global Trade, Private Equity Tested, Realizing Cuba’s Potential
+## Modi Puts Chips, Nuclear Power at Heart of India Push
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-14/wall-street-week-rerouting-trade-private-equity-test-video
+链接：https://www.bloomberg.com/news/videos/2026-08-15/modi-puts-chips-nuclear-power-at-heart-of-india-push
 
 正文长度：0
 
-摘要：This week, inflation may be edging lower, but as markets push rates higher, the Fed’s 2% inflation target might be a long way off. And, Mexico is building a land-based trade corridor that could give shipping companies more options when traditional channels are disrupted. Plus, as exits slow and borrowing costs rise, the ability of private equity investments to generate returns that beat public markets is less certain.  Later, Cuba is promising its biggest market reforms in decades, but investors remain skeptical that the state will truly give up control.  (Source: Bloomberg)
+摘要：Prime Minister Narendra Modi used his Independence Day address to lay out an ambitious path toward making India a developed economy by 2047, emphasizing self-reliance, semiconductor manufacturing, AI and nuclear power. Joining hosts Joe Mathieu and Carol Massar on Bloomberg This Weekend to discuss the Prime Ministers speech is Bloomberg News Senior Reporter Dan Strumpf. (Source: Bloomberg)
 
 
 ---
 
-## Antitrust Lawyer on NFL Streaming Cost Concerns
+## Inflation Is Cooling. But is 2% Out of Reach?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-14/antitrust-lawyer-on-nfl-streaming-cost-concerns-video
+链接：https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video
 
 正文长度：0
 
-摘要：Shindor Cantor Lerner Managing Partner Kellie Lerner discusses the rising cost for sports fans to watch their teams through various streaming platforms such as the NFL, and potential legal ramifications for antitrust violations. She speaks to Romaine Bostick on Bloomberg's 'The Close.' (Source: Bloomberg)
+摘要：BlackRock’s Rick Rieder says the latest CPI report gave markets reason to celebrate, but inflation remains above the Fed’s 2% target. He argues the economy is now “in the ballpark” and that raising overnight rates may not be the most effective way to bring inflation lower. The bigger issue for markets may be the long end of the yield curve, where fiscal deficits, heavy treasury issuance and AI-related financing  push real rates higher. (Source: Bloomberg)
 
 
 ---
 
-## Better Home & Finance Founder on Fight for Company
+## In the Inflation Ballpark
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-14/better-home-finance-founder-on-fight-for-company-video
+链接：https://www.bloomberg.com/news/newsletters/2026-08-15/in-the-inflation-ballpark
 
 正文长度：0
 
-摘要：Embattled former Better.com CEO Vishal Garg says he believes that 'the job of making home ownership better for all Americans is not done' after he departed the company on August 3rd. He claims to have the support of a majority of Class A and B shareholders to return to the head of the company, in lieu of interim CEO Daniel Lewis. He speaks to Romaine Bostick on Bloomberg's 'The Close.' (Source: Bloomberg)
+摘要：We’re not at target yet.
+
+
+---
+
+## I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html
+
+正文长度：8663
+
+摘要：Rivian is trying to catch up to Tesla's "hands-free" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — What's the best advanced driver-assistance system on the market? Ask Rivian Automotive's new artificial intelligence and it will say its creator.
+"Rivian's is truly exceptional … an unmatched blend of safety and technology," the chatbot told me during hourslong drives in one of its R1T pickup trucks in which the vehicle largely controlled itself on several Midwest highways.
+While the Rivian AI bot may be biased, that's exactly the company's goal with a new generation of vehicle software and technologies: to be the best. Rivian is trying to catch up to — and then surpass — Tesla's FSD (Supervised) capabilities, but with additional safety guardrails that the Elon Musk company doesn't use.
+Based on recent drives totaling hundreds of miles, Rivian's Autonomy+ has surpassed legacy competitors such as General Motors' Super Cruise with its ADAS. But it's still playing catch up to Tesla's FSD when it comes to nonhighway driving and point-to-point driving, where a vehicle is designed to navigate itself from start to finish. I drove a recent version of FSD (Supervised) v14 to compare the technology.
+Rivian expects to deliver point-to-point driving later this year but, for now, its system is a giant leap forward for the company compared with what it previously offered and is clearly laying the groundwork to better compete with Tesla.
+"That's the next step," said James Philbin, senior vice president of autonomy and AI at Rivian. "Tesla's system you use is a point-to-point system. So that that's the next big leap for us in a way, is getting to that same point-to-point type interaction and that system where it really does the full driving task."
+To be clear, no vehicle on sale today is self-driving or autonomous. Drivers always need to pay attention and be ready to take over. Many advanced driver-assistance systems, or ADAS, can control a vehicle's speed, braking and steering using cameras, sensors and/or mapping data. An increasing amount of systems allow humans to take their hands off the wheel when in use.
+Rivian credits its improvements with its push toward vertical integration that included a new generation of software and electric architecture for its vehicles. It's just beginning to reap the benefits with its ADAS.
+The technologies also are increasingly more important to drivers and investors, which are targeting ADAS as growth markets with recurring revenue for automakers.
+"We favor self-reliant (and properly-valued) companies that are building next-gen machines using in-house expertise," Piper Sandler analyst Alexander Potter said in an investor note upgrading Rivian's stock last month. "As volume rises, Rivian should be better able to monetize software & services, a key benefit of vertical integration."
+The systems vary in pricing but can be initially included in a vehicle's purchase or bought via subscriptions. Tesla's system is currently $99 a month, according to its website. Rivian's is $49.99 a month or $2,500 to purchase for the lifetime of a vehicle. GM's is $39.99 a month or $399 a year.
+Rivian vs. Tesla
+The biggest operational difference between ADAS technologies from Tesla and Rivian is their ability to control the vehicle on nonhighway streets with traffic lights and signs.
+Rivian's system currently detects those roadway signals, but it does not do anything about them other than alert the driver that they are coming. Meanwhile, Tesla's system handled every signal, interchange and exit ramp I encountered for nearly 200 miles in rural Michigan and downtown Ann Arbor, Michigan.
+Based on a decade of experience driving with hands-free ADAS, those two technologies are by far the most advanced. This has not always been the case.
+GM, not Tesla, led the development of hands-free highway systems with its Super Cruise, which I initially tested a year before its debut in 2017. But America's largest automaker was slow to roll it out on new vehicles or significantly grow its capabilities other than expanding geographies and making it able to do lane changes.
+Ford Motor also quickly caught up to GM on highways, but both continue to lack systems that are capable of hands-free driving on nonhighways. The two automakers are working on that type of technology, including so-called eyes-off capabilities, but they are not expected until 2028.
+It's a difficult leap, as Tesla's in-vehicle Grok AI told me during nearly 200 miles of driving in a 2025 Tesla Model Y: "Highways have predictable lanes, speed, fewer pedestrians and clear markings, making sensor fusion and path prediction simpler. City streets bring chaos, intersections, bikes, peds, construction and ambiguous rules that challenge even top AI vision systems."
+Challenging for some more than others. During my drives in the Model Y, the vehicle was essentially controlling itself for multiple hours and dozens of miles without intervention on highway and nonhighway roads.
+It somewhat effortlessly handled several traffic circles, also known as roundabouts, and parked for me multiple times when arriving at or near destinations, including parallel parking. It also managed a semitruck blocking half a lane on a two-lane road as well as pretty complex construction zones, with Tesla's ADAS sensing each barrel or cone.
+The Rivian technology handled highway driving very well with no intervention outside of exit ramps and, at times, construction zones. It also isn't able to change lanes on its own yet, which the company promises is coming soon.
+When I asked Rivian about several of my experiences, the company said its vehicles can detect construction objects but it does not always display them on the in-vehicle screen. Its system also still needs assistance in certain locations, such as roundabouts.
+Safety concerns remain
+All ADAS technologies — except a Mercedes-Benz system in limited circumstances — still need drivers to monitor the systems, even if they can largely control the vehicle without human intervention for hundreds of miles.
+With the rise of "hands-off" technology, industry insiders and regular people alike have raised concerns about driver inattentiveness. Automakers have been largely trying to fight that with driver-facing cameras. But concerns remain about the ADAS handover back to a driver as well as on people over-relying on the systems.
+YouTube is filled with examples of drivers misusing such systems, particularly Tesla products, as well as videos of ADAS doing human-like moves but also malfunctioning and needing assistance.
+The handover from ADAS to humans can be abrupt and lead to dire circumstances if drivers aren't attentive enough to immediately retake control of the vehicle.
+There's also little regulation for the systems, with each company taking different approaches.
+"I hope that we can even exceed the Tesla system because of our investments in a more robust sensor stack," Rivian's Philbin said. "We're actually a big believer in multimodal imaging, so cameras and radars, and later on, early next year, lidar as well on the R2."
+Rivian's system uses at least 10 high dynamic range cameras, five radars and some map data to assist the vehicle in "seeing" the road. It's also expected to launch vehicles with lidar, or light detection and ranging, that improves a vehicle's "sight." Tesla's system relies on cameras and a "vision-based" setup that some have criticized for not being robust enough, especially under certain conditions.
+Tesla's partially automated driving systems have been under scrutiny for many years. The National Highway Traffic Safety Administration earlier this year said it was escalating a probe into Tesla's Full Self-Driving (Supervised) after identifying several crashes, including one fatal incident in which the system failed to alert drivers appropriately about reduced-visibility conditions, such as sun glare or fog.
+Philbin said it's those types of circumstances where noncamera technology, including lidar, can better detect potential hazards and objects. My drives were on clear days without any inclement weather.
+Still, despite not having many sensors, Tesla's Grok chatbot — developed by Musk's xAI, which merged with SpaceX earlier this year — also felt its brand has the superior system, which is true for many driving situations, at least for now.
+"Tesla's Full Self-Driving (Supervised) is widely rated as the top advanced driver assistance system in 2026 by sources like Motor Trend and others," Grok AI said. It later added, "Rivian's AI Assistant is solid for voice controls, navigation, and vehicle features in their R1 vehicles, but it's still catching up to more advanced systems like ours and full self-driving capabilities."
+
+</details>
 
 
 ---
@@ -206,41 +259,15 @@ More than 60% of respondents expect home prices to rise over the next six months
 
 ---
 
-## Monterey Car Week auctions could hit a record $500 million, with help from younger buyers
+## Geneva super-rich rocked by luxury home burglary spree - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVJ5dVlTUFBLeTNZMzhTRVk0UlVtTHloVXVOcy1KaTlZVVdrclp5VFpJeDJ4cGlsNjc0N3F3U2EzbUlkZU5aMFBiNU1hWWxKX2MtYTJ3eVZxdk01Z1BOLTVtbnhkXzBacmREaUJKdTAzUlNQS2xaT3VKeFc4TThtdEsxRG4?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4998
+正文长度：0
 
-摘要：A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-The classic car auctions in Monterey could reach a record $500 million this week, as the tech boom and a wave of new collectors drive up the prices of modern supercars.
-The auctions during Monterey Car Week, the annual extravaganza of classic car auctions, shows, races and awards, are expected to reach $470 million to $500 million, according to Hagerty. The total is likely to surpass the all-time record of $471 million, set in 2022, and would mark the continued rebound of a market that declined in 2023 and 2024 but snapped back during Monterey last year.
-"With strong bidding, this could be the first half-billion-dollar auction week the collector world has ever seen," said McKeel Hagerty, CEO of Hagerty, the classic car insurance, auction and events company.
-Like the stock market, however, the headline strength of the classic car market hides growing volatility and a massive market rotation below the surface. A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers. Rather than buying the 1950s and 1960s cars favored by older generations, new buyers are bidding up modern supercars from their own youth.
-Models like the Ferrari F40, F50 and Enzo, the Bugatti Veyron, Ruf Yellowbirds, Koenigseggs and Paganis are seeing parabolic price gains, with many doubling in price over the past two years, according to industry data.
-The most expensive car coming up for sale in Monterey is a 1996 McLaren F1 GTR, estimated to fetch $35 million at RM Sotheby's. A 2023 Ferrari Daytona SP3 could also be in the top 10 this year, estimated at more than $10 million at RM Sotheby's. In previous years, the vast majority the top 10 sellers in Monterey were models from the 1950s or '60s.
-So-called "Boomer cars," which drove the market for decades, are now in decline. The Hagerty Blue Chip Index, which represents the top traditional collector cars, fell 2% over the past 12 months. The Hagerty Supercar Index, meanwhile, surged 30% over the same period.
-The younger market has brought new risks. Some classic car experts and dealers say prices for modern supercars are unsustainable and defy traditional collecting metrics, such as proven race histories, scarcity, enduring value and global appeal.
-Many millennial and Gen Z collectors also view collector cars as speculative trades rather than long-term stores of value. Young collectors rarely drive the cars, to avoid adding mileage, dealers say. And they often flip them for quick profits.
-"There is a huge amount of speculation in that part of the market," said Simon Kidston, the classic car dealer and advisor. "It's been very frothy and created some inexplicable price imbalances to anyone who has long-term experience in the market."
-In January, a 2003 yellow Ferrari Enzo sold at Mecum Auctions in Kissimmee for $17.9 million – nearly triple the previous record price for an Enzo. In March, at Broad Arrow's auction at Amelia Island, a 2003 black Enzo went for $15.2 million and a 2005 Porsche Carrera GT sold for $6.7 million, more than doubling the previous auction record for a Carrera GT.
-The Bugatti Veyron, Koenigsegg CC8S, Ford GT and Mercedes Benz SLS AMG Black Series are all seeing big price spikes. Ferrari F40s are among the most prized, despite the fact that Ferrari made more than 1,300 of them. An F40 LM went for $11 million at RM Sotheby's in Monterey last year.
-The 2025 top seller in Monterey was expected to be a 1961 Ferrari 250 GT SWB California Spider Competizione, estimated at $20 million at Gooding & Co. It sold for $25.3 million. But the highest price went to a brand new 2025 Ferrari Daytona SP3 that sold for $26 million – blowing past its pre-sale estimate of $3.5 million.
-While the most sought-after cars are younger, the brand at the center of the classic car market hasn't changed: Ferrari. Nine of the top 10 cars most expensive cars sold at auction so far this year have been Ferraris, according to Hagerty. At Monterey this week, five of the top lots are from the famed Italian automaker.
-"All roads lead to Maranello," said McKeel Hagerty.
-While Ferraris made in the 1980s, '90s and early 2000s are surging in price, the Prancing Horse classics of the 1950s and 1960s have stalled, even if they remain at high levels.
-A 1963 Ferrari 250 P is auctioning at Gooding Christie's with an estimate of $15 million. Gooding Christie's is also auctioning a 1961 Ferrari 250 GT SWB Berlinetta Competizione with an estimate of $8 million.
-And not all the new collectors are going modern. Kidston said he recently sold a black 1967 Ferrari 275 GTB/4 to a 35-year-old tech founder.
-"He said to me, 'This is my dream car,'" Kidston said. "It's great to see new people coming into this market and loving these cars. And some actually want to drive them."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVJ5dVlTUFBLeTNZMzhTRVk0UlVtTHloVXVOcy1KaTlZVVdrclp5VFpJeDJ4cGlsNjc0N3F3U2EzbUlkZU5aMFBiNU1hWWxKX2MtYTJ3eVZxdk01Z1BOLTVtbnhkXzBacmREaUJKdTAzUlNQS2xaT3VKeFc4TThtdEsxRG4?oc=5" target="_blank">Geneva super-rich rocked by luxury home burglary spree</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -258,15 +285,15 @@ And not all the new collectors are going modern. Kidston said he recently sold a
 
 ---
 
-## US nuclear negotiator Ernest Moniz: ‘Iran has the home-court advantage’ - Financial Times
+## OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPanh0NlhNRmllb0xJZVZsUXdWZlVjVTk1dEhTRjJheXJwZXZ4ZG12MDFVc1VJNTI4TnVkMF9JN3dTYUcwS1EtTW9QSmpvRThRdHh3WVJSVVE4SGt1eXo3cngwMW4yTVFJeXc3QW8xRW9TNGVDZmZUbEJ1bks0bXY2WEl0Ql8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPanh0NlhNRmllb0xJZVZsUXdWZlVjVTk1dEhTRjJheXJwZXZ4ZG12MDFVc1VJNTI4TnVkMF9JN3dTYUcwS1EtTW9QSmpvRThRdHh3WVJSVVE4SGt1eXo3cngwMW4yTVFJeXc3QW8xRW9TNGVDZmZUbEJ1bks0bXY2WEl0Ql8?oc=5" target="_blank">US nuclear negotiator Ernest Moniz: ‘Iran has the home-court advantage’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5" target="_blank">OpenAI upheaval mounts as Sam Altman readies IPO push</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -284,93 +311,80 @@ And not all the new collectors are going modern. Kidston said he recently sold a
 
 ---
 
-## JPMorgan debanked Polymarket over regulatory concerns - Financial Times
+## Turkey and Cyprus holiday spots hit by Iran war and last-minute booking - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQckl0NkFJcFYxdDNQY0VpODhzai1NLUp4SENIZkhpaDhvNHNOa3lKdmRSb1RWSmlrNmY3UnBna2NVeXE2UkJ2WTlkWkVMd0hxZXdJQ3VLeE1GRGk2YUgyWGJQd01DT0lwRkZxSDhpVTQyRlE2S3AySTV5RHJ3R3o1RXN4czU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONUZ1bS1KY014azJBbDdLU1VOVHNtb0ZTN3hvTXp1TEVwREVyUkpLS0pDWTFpQmUwTEdOdlVrQklWUkFnbHlhZmxlS25nSl9BXzJPcEs4b0JqYV9uQVRlbkdlRkJiVHRUZExPam95V21aSFVxNGJiTTlZYi1Na2JxeEl6NzM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQckl0NkFJcFYxdDNQY0VpODhzai1NLUp4SENIZkhpaDhvNHNOa3lKdmRSb1RWSmlrNmY3UnBna2NVeXE2UkJ2WTlkWkVMd0hxZXdJQ3VLeE1GRGk2YUgyWGJQd01DT0lwRkZxSDhpVTQyRlE2S3AySTV5RHJ3R3o1RXN4czU?oc=5" target="_blank">JPMorgan debanked Polymarket over regulatory concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONUZ1bS1KY014azJBbDdLU1VOVHNtb0ZTN3hvTXp1TEVwREVyUkpLS0pDWTFpQmUwTEdOdlVrQklWUkFnbHlhZmxlS25nSl9BXzJPcEs4b0JqYV9uQVRlbkdlRkJiVHRUZExPam95V21aSFVxNGJiTTlZYi1Na2JxeEl6NzM?oc=5" target="_blank">Turkey and Cyprus holiday spots hit by Iran war and last-minute booking</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5" target="_blank">OpenAI and Anthropic in price war as Chinese AI rivals gain ground</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Reuters
+## Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5" target="_blank">Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5" target="_blank">Trump's 2024 grocery photo op now haunts Republicans in the midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Magnitude 7.7 earthquake strikes off Indonesia, tsunami warning issued - Reuters
+## Xi calls for improving disaster prevention as floods, landslides batter China - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5" target="_blank">Magnitude 7.7 earthquake strikes off Indonesia, tsunami warning issued</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5" target="_blank">Xi calls for improving disaster prevention as floods, landslides batter China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters
+## Earthquake hits Spanish city of Granada, damages buildings and cars - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5" target="_blank">EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5" target="_blank">Earthquake hits Spanish city of Granada, damages buildings and cars</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters
+## Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5" target="_blank">EXCLUSIVE: US to tell partners they must pick sides in AI race with China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5" target="_blank">Spain disregarded Ceuta warnings before migrant rush, say border workers' unions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters
+## Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5" target="_blank">Iran defiant on strait as Trump tells Americans to accept high gas prices</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5" target="_blank">Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
