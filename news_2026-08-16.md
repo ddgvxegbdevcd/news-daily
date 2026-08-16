@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-08-16 01:41:45
+更新时间：2026-08-16 12:49:24
 
-## Bally’s Warns of Debt Covenant Breach Risk as It Seeks New Funds
+## Crowded Florida Race Puts Trump’s Clout to Test
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-14/bally-s-warns-of-going-concern-doubt-as-it-seeks-fresh-liquidity
+链接：https://www.bloomberg.com/news/videos/2026-08-16/crowded-florida-race-puts-trump-s-clout-to-test-video
 
 正文长度：0
 
-摘要：Bally’s Corp. warned investors of “substantial doubt” that it will be able to continue as a going concern as the company risks running afoul of agreement with lenders.
+摘要：Florida’s 19th Congressional District has drawn a crowded Republican field seeking to replace Byron Donalds, who is running for governor, with former Trump administration official Catalina Lauf gaining a potentially significant boost from the president’s endorsement. Bloomberg News Government Senior Reporter Greg Giroux is on Bloomberg This Weekend to explain that the race comes as affordability, insurance costs and concerns about data centers emerge as campaign issues across Florida ahead of Tuesday’s primary. (Source: Bloomberg)
 
 
 ---
 
-## Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops
+## What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops
+链接：https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast
 
 正文长度：0
 
-摘要：Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time.
+摘要：Bogota-based EM reporter Nicolle Yapur joins Leda Alvim to discuss why investors are looking beyond Brazil and Mexico for opportunities in inflation-linked bonds in the emerging world.
 
 
 ---
 
-## Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump
+## Iran MOU Expires With Diplomacy Still in Play
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump
+链接：https://www.bloomberg.com/news/videos/2026-08-16/iran-mou-expires-with-diplomacy-still-in-play-video
 
 正文长度：0
 
-摘要：Peru’s economy unexpectedly slowed in June due to a slump in fishing and agriculture output amid unusual weather conditions.
+摘要：Bloomberg News Middle East Reporter Dan Williams is on Bloomberg This Weekend discussing how the expiration of the US-Iran memorandum of understanding is unlikely by itself to trigger a return to all-out fighting, with diplomatic efforts over the Strait of Hormuz continuing despite repeated attacks on commercial vessels. Williams explains to hosts Joe Mathieu and Carol Massar that the Trump administration is increasingly emphasizing economic pressure on Tehran as hopes for a broader settlement remain elusive and Israel assesses whether sanctions could force Iran toward concessions. (Source: Bloomberg)
 
 
 ---
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## Why Private Equity’s Playbook Is Losing to Public Markets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Joe Mathieu, Carol Massar and Lisa Mateo as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：Private equity has long promised investors better returns than public markets, while offering entrepreneurs like Dan Namerow life-changing exits. But the market that made those deals work has changed. Higher interest rates have made debt-financed buyouts harder to justify, while deals struck at peak valuations in 2020 and 2021 have become more difficult to exit. University of Chicago Booth professor Steven Kaplan says US buyout funds largely beat public markets for decades, but that pattern has reversed since 2019, while PitchBook reports that the backlog of companies held by private equity firms has risen to more than 33,000. The result is a tougher environment where firms are being judged less on leverage and multiple expansion, and more on whether they can actually improve the businesses they buy. (Source: Bloomberg)
 
 
 ---
 
-## Colombia Quake Tests New President Days Into Term
+## Bonds Face a Bigger Threat Than the Fed as Global Rates Climb
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video
+链接：https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb
 
 正文长度：0
 
-摘要：Rescuers in western Colombia are still searching for survivors after a 7.4 magnitude earthquake killed at least 287 people. Bloomberg News Latin America Government Reporter Mie Dahl joins Bloomberg This Weekend from Bogotá and explains to hosts Joe Mathieu and Carol Massar that the disaster has also disrupted coffee exports and created an immediate leadership test for President Abelardo de la Espriella, who was sworn in just days before the quake struck. (Source: Bloomberg)
+摘要：As investors debate whether and when the Federal Reserve will raise interest rates, market expectations for further tightening are building around the world — and spelling trouble for bonds.
 
 
 ---
@@ -259,6 +259,19 @@ More than 60% of respondents expect home prices to rise over the next six months
 
 ---
 
+## Most US voters say they are worse off under Trump — FT poll - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGlDVFJoUmZtQTRVc1FJNWx2QmZFY0xrcHF3Mi1WWWphOERjTkR5MTNWWEZ4VnNWMDhEV09WZXl5X3RPZ3dWSEhtRHV3NkVBd09rTHdSR3kyUjNtVktzSzBGeXlVVDFOLVpLYzdUVU1uUWJhc2xmbWdQb29OSFJfWExENm8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGlDVFJoUmZtQTRVc1FJNWx2QmZFY0xrcHF3Mi1WWWphOERjTkR5MTNWWEZ4VnNWMDhEV09WZXl5X3RPZ3dWSEhtRHV3NkVBd09rTHdSR3kyUjNtVktzSzBGeXlVVDFOLVpLYzdUVU1uUWJhc2xmbWdQb29OSFJfWExENm8?oc=5" target="_blank">Most US voters say they are worse off under Trump — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Ukraine left exposed as Patriot launchers run empty - Financial Times
 
 来源：金融时报
@@ -268,6 +281,32 @@ More than 60% of respondents expect home prices to rise over the next six months
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjducmdsbXFNTzYzcmo3MmM5aEpERDBfZXBMazJhZGpza0U1NG8xT3hFTi1EWk5SOTh5VHlmZ2dZMWFVVFoxQnBXT3ViVkRUMVM2aTNSMlowX0xfb3pYWmxjT0VfT1JUaHRQeGJISzdmRnBGLTY5ZzlpV0QzRDg4Wjl2cVU?oc=5" target="_blank">Ukraine left exposed as Patriot launchers run empty</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRWNU1YQ2g5SDhZVUgwWjdnYmNEb2RMbjRMZFBxVXdQcmpxdEN3UXNfWUJYOFYyRHEydzgwTXB0b1NQdWJmVm9QUVZwaTVSMEpVeWI1cV9Qb0xiQlNMVUpLMzBST013LTJiMXA0N1J4NndMWE1BWVlLMHk1X0tuS1JiakU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRWNU1YQ2g5SDhZVUgwWjdnYmNEb2RMbjRMZFBxVXdQcmpxdEN3UXNfWUJYOFYyRHEydzgwTXB0b1NQdWJmVm9QUVZwaTVSMEpVeWI1cV9Qb0xiQlNMVUpLMzBST013LTJiMXA0N1J4NndMWE1BWVlLMHk1X0tuS1JiakU?oc=5" target="_blank">Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## BlackBerry: From phone dinosaur to tech champion - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1KNU5ZYlVuSnh5Mm9pY3NVVHowLUNhOWxuUEoxOEgzV1VmWHhOTUE3MGNrQllDc002NUt4aF9oLXN4WFY3TE9HRnBBX09wQXJHX2kwa1ZHckF5WmZoZGRVM3ZKRGI1aTByQUlGVWwzTWI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1KNU5ZYlVuSnh5Mm9pY3NVVHowLUNhOWxuUEoxOEgzV1VmWHhOTUE3MGNrQllDc002NUt4aF9oLXN4WFY3TE9HRnBBX09wQXJHX2kwa1ZHckF5WmZoZGRVM3ZKRGI1aTByQUlGVWwzTWI?oc=5" target="_blank">BlackBerry: From phone dinosaur to tech champion</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -285,106 +324,67 @@ More than 60% of respondents expect home prices to rise over the next six months
 
 ---
 
-## OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5" target="_blank">OpenAI upheaval mounts as Sam Altman readies IPO push</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## AI vs the people - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETUJ5bXNROFdIbUtEbzdGdzA2d0NDenpxSUNDVGY1ZHVXVWVmS2dIOHNmSGEtR3F4ZWJFZEZZa0hlenpMdW1qM1MydmdXbUd1SmgwVGJzSTVXOV9wRzJyMjJrYnV0SC01bUlJaWQ5bV8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETUJ5bXNROFdIbUtEbzdGdzA2d0NDenpxSUNDVGY1ZHVXVWVmS2dIOHNmSGEtR3F4ZWJFZEZZa0hlenpMdW1qM1MydmdXbUd1SmgwVGJzSTVXOV9wRzJyMjJrYnV0SC01bUlJaWQ5bV8?oc=5" target="_blank">AI vs the people</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The experience economy is a blockbuster phenomenon - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHVzUUUxTGRoVzc4SHNRZDhjbURnRk1KV2lqbGhlYnNCRlpiUHRkMl82MElibnZCcUlSSTEteUgzV0ZsOXZhamgzSFR3NGpIN2dLdDVDSGl6bHViYjRJTUpZYmRZdklqVkFvR1E1dll5cVAwVE9JWlFreU9UX2VialJEQkU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHVzUUUxTGRoVzc4SHNRZDhjbURnRk1KV2lqbGhlYnNCRlpiUHRkMl82MElibnZCcUlSSTEteUgzV0ZsOXZhamgzSFR3NGpIN2dLdDVDSGl6bHViYjRJTUpZYmRZdklqVkFvR1E1dll5cVAwVE9JWlFreU9UX2VialJEQkU?oc=5" target="_blank">The experience economy is a blockbuster phenomenon</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Qatar denies detaining Iranian pilots, says it found remains of one - Reuters
+## Belgium's biggest wildfire on record heads towards Germany - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5" target="_blank">Qatar denies detaining Iranian pilots, says it found remains of one</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5" target="_blank">Belgium's biggest wildfire on record heads towards Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters
+## Ukrainian drones strike Moscow region, killing one - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5" target="_blank">Hopes fade in Colombia as more bodies recovered days after powerful quake</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5" target="_blank">Ukrainian drones strike Moscow region, killing one</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters
+## Two women killed in floods in Spain - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5" target="_blank">Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5" target="_blank">Two women killed in floods in Spain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Lala storm grows into hurricane as it nears Hawaii's Big Island​ - Reuters
+## Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5" target="_blank">Lala storm grows into hurricane as it nears Hawaii's Big Island​</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5" target="_blank">Iran disputes Qatar, Kuwait accounts of captured Iranian personnel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Palestinians in Qusra say they have faced militant settler attacks for months - Reuters
+## Twelve killed and at least 10 injured in Polish bus crash in Hungary - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5" target="_blank">Palestinians in Qusra say they have faced militant settler attacks for months</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5" target="_blank">Twelve killed and at least 10 injured in Polish bus crash in Hungary</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
