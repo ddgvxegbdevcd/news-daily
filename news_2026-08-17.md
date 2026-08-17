@@ -1,68 +1,134 @@
 # 每日财经新闻
 
-更新时间：2026-08-17 01:40:04
+更新时间：2026-08-17 12:53:57
 
-## Trump Says He’s Curtailing Drills With South Korea
+## HKEX Renews CEO Chan’s Contract for Three Years Amid IPO Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-17/trump-says-he-s-curtailing-drills-with-south-korea-video
+链接：https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom
 
 正文长度：0
 
-摘要：President Donald Trump said he told the Pentagon to “substantially reduce” joint military exercises with South Korea, citing the cost of the drills and the signal they send to North Korea. Bloomberg's John Herskovitz breaks down the situation. (Source: Bloomberg)
+摘要：Hong Kong Exchanges &amp; Clearing Ltd. has renewed Chief Executive Officer Bonnie Chan’s contract from March 2027 through February 2030, according to a statement Monday.
 
 
 ---
 
-## NAB Shares Drop as Mortgage Growth in Australia Seen Slowing
+## US Futures Flat; Tech Shares Gain on Anthropic Revenue Jump
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-16/national-australia-bank-profit-edges-up-on-business-bank-growth
+链接：https://www.bloomberg.com/news/articles/2026-08-17/us-futures-flat-tech-shares-gain-on-anthropic-revenue-jump
 
 正文长度：0
 
-摘要：National Australia Bank Ltd. shares fell Monday after the lender revealed slowing mortgage growth and cash earnings that were below consensus estimates.
+摘要：US stock futures were mostly little changed before the bell on Monday, with technology stocks breaking out to the upside as details of Anthropic’s surging sales growth stoked bullish sentiment around AI.
 
 
 ---
 
-## Dollar Dips as Fed Hike Bets Ease, Treasuries Gain: Markets Wrap
+## Record $8 Billion Dollar Bonds by India Lenders Set to Rise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales
 
 正文长度：0
 
-摘要：The dollar remained under pressure after weak US economic data reduced bets for the Federal Reserve to raise interest rates next month.
+摘要：Indian financial institutions are selling a record amount of dollar bonds so far this year, as lenders rush to capitalize on a central bank facility that lowers hedging costs on overseas borrowings.
 
 
 ---
 
-## A2 Milk Sees Slow Recovery From China Formula Supply Problem
+## Steven Major Sees List of Factors in ‘Drip, Drip Higher’ of Long-End Bonds
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-16/a2-milk-sees-slow-recovery-from-china-formula-supply-problem
+链接：https://www.bloomberg.com/news/videos/2026-08-17/steven-major-on-drip-drip-higher-of-long-end-bonds-video
 
 正文长度：0
 
-摘要：New Zealand infant formula supplier a2 Milk expects only a gradual recovery from supply chain disruptions that impacted its China sales earlier this year, signaling the earnings margins will be soft in the six months through December.
+摘要：Steven Major, global macro advisor at Tradition Dubai, says, “the focus is Jackson Hole already” for the bond market as he examines the factors he sees contributing to the move higher in the long end of the yield curve. (Source: Bloomberg)
 
 
 ---
 
-## Latest Oil Market News and Analysis for June 17
+## Fed Will Keep Rates The Same: Gude
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-16/latest-oil-market-news-and-analysis-for-june-17
+链接：https://www.bloomberg.com/news/videos/2026-08-17/fed-will-keep-rates-the-same-gude-video
 
 正文长度：0
 
-摘要：Oil steadied as fresh fighting in Lebanon and attacks on vessels in the Strait of Hormuz muddied the outlook for a deal to end the US-Iran war.
+摘要：Ella Gude, BNY Investments Newton Head of Fixed Income & Co-Head of Real Return, joins Bloomberg's Vonnie Quinn on "Bloomberg Brief" to outline her expectations for the Fed’s near-term rate policy. (Source: Bloomberg)
+
+
+---
+
+## What will TV look like in three years? Media insiders share their predictions
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html
+
+正文长度：13869
+
+摘要：CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The television industry is in flux.
+Deals, spinouts and partnerships are all reshaping the landscape for traditional TV. While the industry is no stranger to turmoil, the recently rapid pace of change is keeping media investors and onlookers on their toes.
+This is the backdrop for CNBC's Future of TV survey: an update from our 2023 exercise that asks media insiders and executives to forecast the next three years in TV.
+Depending on who you ask, the TV industry may be in crisis. The number of cable TV subscribers has been declining for more than a decade. Streaming services are now profitable, but subscriber growth, for the most part, has plateaued.
+Pondering the future of TV isn't just a thought experiment. It's the underpinning of hundreds of billions of dollars' worth of mergers and acquisitions.
+In February, Paramount Skydance agreed to acquire Warner Bros. Discovery, following a sale process that saw Netflix nearly acquire WBD's film studio and HBO Max. That deal is now held up due to politicians' antitrust fears.
+In June, Fox said it would acquire streaming platform Roku for $22 billion. Comcast plans to separate out NBCUniversal in 2027, a swift follow-up to the spinout of Versant, its portfolio of cable TV networks, including CNBC. And Charter Communications recently received final regulatory approval for its $34.5 billion merger with Cox Communications, which would create the biggest cable company in the U.S.
+Media companies are also thinking about partnerships to generate revenue as the cable TV ecosystem continues its decline. NBCUniversal has already announced a partnership between its Peacock and YouTube.
+Disney has a new CEO and is focused on tying together its broad swath of media assets, including ESPN, ABC, FX, Disney+ and Hulu.
+And Netflix — the company that upended the pay-TV model more than a decade ago with binge-watching, password-sharing, and no advertisements — has reversed course on many of its previous strategies in an effort to keep investors happy. And yet, its stock is down more than 35% in the past year.
+All the while, YouTube continues to take viewing share as the rest of the media industry adjusts to how younger audiences want to consume content.
+These big events are redefining strategy for every company in the ecosystem.
+To get a read on where TV goes from here, CNBC asked the same five questions of 10 media executives. Some of the 2023 predictions unearthed by our previous canvassing proved quite accurate: Most executives correctly predicted linear pay TV would still be around, albeit with fewer customers; several correctly predicted bundling streaming services together would be challenging; and more than one even predicted Paramount+ and HBO Max, specifically, would be consolidated.
+Here's the 2026 view of television by 2029:
+In three years, will we have hit a floor on cable TV subscribers?
+Chris Winfrey, Charter Communications president and CEO: I think it's going to decline dramatically, because the cost of free, over-the-air [retransmission] is now over $30 per customer for something that's essentially free. But what you're seeing already is all of that broadcast content and cable content is really all available inside of these apps, and it's available inside of big streaming bundles that I think will develop over time, and I think that will include Netflix. When you really think about it, Netflix is essentially a big cable programmer that could end up being bundled together with the other streaming apps to provide more choice, more value, and more utility for customers over time.
+Jeff Zucker, RedBird IMI CEO and former NBCUniversal CEO and WarnerMedia News and Sports chairman: I don't think we'll have a floor. I do think it will continue to decline, and it'll probably do so every year until sports rights eventually disappear from cable. But, I think that's at least a decade off.
+Charlie Collier, Roku Media president: Well, nothing truly goes to zero. Somewhere in America there's probably someone paying for AOL dial-up or renting a DVD from the last Blockbuster, which, by the way, is in Bend, Oregon. But the direction of travel is unmistakable.
+Rashida Jones, Uncensored CEO and former MSNBC president: I think it's difficult to reverse the trend that we're seeing of consumers choosing to consume content on platforms other than linear television. I think that trend continues. How fast? Frankly, we haven't been right as an industry to date. It hasn't been quite as fast and as aggressive as maybe we were forecasting even four or five years ago.
+What's one thing that will become a TV industry standard that doesn't exist today?
+Jimmy Pitaro, ESPN chairman: Ubiquitous personalization. Personalization exists today, but I'm going to say three years from now, you're going to see it pretty much everywhere, meaning networks are providing the right content to the right user at the right time, and you're going to see content being promoted based on a user's preferences, but you're also going to see content being created and tailored to a user's preferences.
+Anjali Sud, Tubi CEO: I think you'll see ads get way more useful and relevant the same way they have on social media. If you think about the experience today on television, it still largely feels like the ads are not personalized, and you can imagine a world where you can see such hyper-personalization that really — it gets to a place where what you see as an ad doesn't even feel interruptive or like friction. It actually just feels like, wow, that was really helpful and useful, because you know me so well.
+Pitaro: Commerce integration, and I think you're going to see a lot more of that. You know, we have a buy experience, a commerce experience within our enhanced ESPN app today, but I would expect that you'll see frictionless commerce really emerge over the coming years — more product placement and the opportunity for the customer to deep link directly to a partner site to make a purchase.
+John Landgraf, chairman of FX content and studios: Day and date global releases to us seem to be a really important evolution in the television ecosystem. Of course, there's still going to be shows that premiere primarily in one market, one territory — [in] North America or in Asia or Europe — but I think increasingly what you're seeing is the biggest shows are premiering everywhere in the world at the same time.
+Zucker: I think we'll see more and more podcasters and livestreaming shows being licensed to cable networks — perhaps even broadcast networks — and I think that will become much more of a TV industry standard.
+Jeffrey Hirsch, Starz president and CEO: We'll continue to see major advancements in language. And so I think you'll have a world where it's content without borders, where [artificial intelligence] will allow platforms to allow consumers to watch the content in their native language. Subbing and dubbing will go away, but you'll be able to toggle or hit a button that says I want to watch it in French, I want to watch it in Spanish, I want to watch it in English. Content without borders becomes a real kind of standard in the industry in three years. (Of note: This was also Hirsch's answer three years ago.)
+Winfrey: I think immersive programming, particularly around sports with 8K [TV], is going to be a feature, or a new set of products and content that's available, that will continue to reinvigorate the pay-TV industry. If you take a look at what we're doing with Spectrum Front Row, which is our cooperation with NBA and Apple Vision Pro ... it really just gives you a taste of where this could go. The ability to bring a courtside experience into the living room of every household inside the country — I think that'll be a unique and new experience.
+Will there be a major government action to prevent a Big Tech company from getting bigger in the entertainment industry?
+Zucker: I don't think it's any secret or would surprise anybody that Big Tech has lost a lot of goodwill among the left and Democrats, and so I think that those Big Tech companies will be in for a lot of scrutiny and will find going much more difficult, but I think that depends what happens in the next two elections, in '26 and '28.
+Jones: The goal isn't bigger and better. So, I think what we're going to see is a consumer and an industry backlash to some of these deals that will then kind of change the course. I think we're starting to see some of that even recently with the letter that was submitted by 1,000 professionals in Hollywood pushing back at the Paramount[-WBD] deal.
+Sud: The convergence between Silicon Valley tech and Hollywood, it's already happened. The shift has happened. If you look at the platforms that are taking the highest share of time spent and attention, it's tech platforms. If you look at who has the highest share of television viewing in the living room, it's YouTube. We're seeing this convergence — a collision — even more. Instagram is now doing vertical videos on TV, the Oscars are going to be on YouTube, you have creators putting movies out in theaters in the box office. So, my view is, sort of, this is all about where consumers' tastes and preferences are going, and consumers are already getting very used to the convergence of tech and entertainment, and so I don't think you can put the genie back in the bottle.
+Are we in a sports viewership ratings bubble?
+Pitaro: The answer is a fast "no." First off, [ratings] measurement is getting better and much more accurate, including, of course, out-of-home and now streaming usage being accounted for. Every time the industry expects a downturn, numbers continue up and to the right.
+Jones: I think we will get to a point of saturation. Don't know if this is true — this is a slightly adjacent industry for me — but I think every industry has a ceiling and available audience. I think with the recent distribution deals that have broadened the number of platforms where this content is distributed, I think you get to a ceiling. You get to a peak, and I think we'll start to see some of that drop down.
+Brian Fuhrer, Nielsen senior vice president of product strategy and thought leadership: It's really important to understand that Nielsen has made some methodological improvements that impact sports and everything in general, but in particular sports. The No. 1 thing there is we've expanded our out-of-home measurement ... Home markets are super important to sports rates. So, we have seen increases directly attributable to that enhancement that we expect to continue, but we won't see a big year-to-year bump.
+Winfrey: I think you're going to continue to see ratings go up. Maybe that's a little bit of a mix of short-form content, long-form content, immersive capabilities of bringing you into the stadium ... but I think it's the one area that's shown really isn't the same to be able to watch it after the fact, and I think it's going to continue to drive ratings inside the system.
+Zucker: The reality is that live works. People want live events, they want live news, and they particularly want live sports. They want things that AI is not going to be able to replicate. Live sports is going to continue to be very strong. Whether ratings go up or down depends on matchups and championships, but overall I think sports are going to continue to be very, very strong.
+Collier: Live sports remains one of the last true mass reach experiences in our culture. In a fragmented world, sports still create communal moments. Families watch them together, friends text each other in real time, and as we're seeing, entire cities change moods based on outcomes. So, I suspect premium sports remain incredibly valuable, perhaps even more than today.
+There's broad agreement that the biggest streaming services will probably still be the biggest in three years. What's another service that you think will gain significant market share?
+Debra OConnell, Disney Entertainment Television chairman: Look at Instagram's recent announcement about TV formats. I think [it's] likely a service that we're not thinking of today, but it could be more broadly services that are here today and are expanding the capability of how they engage and connect with audiences, as well as expanding those experiences.
+Winfrey: I actually think the real opportunity is for somebody who can pull it all together to be an aggregator of all these different services, much the way that cable TV was originally created to provide value and utility, to be able to provide a bundle of services at a discounted rate. I think that's the opportunity for a new entrant into the space.
+Zucker: We see TikTok videos getting longer and longer, and I think that's a trend that will continue. I also think that niche casting is also going to continue, and you will see lots of very small communities play very big roles across all of these services.
+Fuhrer: Platforms like Roku Channel, Tubi, Pluto — we've seen a tremendous adoption and increase in usage across those services. We don't see a slowing down of that, because as they continue to enhance the services and the different companies add more content to them — original content — and as these [free, ad-supported streaming television] channels gain in popularity, we think that's an area to really keep an eye on.
+Pitaro: I'm going to say Epic Games. Clearly, Walt Disney Company is invested here. We made a $1.5 billion investment in Epic Games, but from my perspective, really, the possibilities to connect gaming experiences with both entertainment and sports content, including potentially live events, are endless.
+Landgraf: Do I really think that a streamer we've never heard of is going to be meaningfully competitive in long-form video three years from now? No, I don't think so.
+Hirsch: Starz is my answer.
+Disclosure: Versant is the parent company of CNBC.
+
+</details>
 
 
 ---
@@ -73,7 +139,7 @@
 
 链接：https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html
 
-正文长度：8663
+正文长度：8742
 
 摘要：Rivian is trying to catch up to Tesla's "hands-free" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.
 
@@ -98,7 +164,7 @@ Based on a decade of experience driving with hands-free ADAS, those two technolo
 GM, not Tesla, led the development of hands-free highway systems with its Super Cruise, which I initially tested a year before its debut in 2017. But America's largest automaker was slow to roll it out on new vehicles or significantly grow its capabilities other than expanding geographies and making it able to do lane changes.
 Ford Motor also quickly caught up to GM on highways, but both continue to lack systems that are capable of hands-free driving on nonhighways. The two automakers are working on that type of technology, including so-called eyes-off capabilities, but they are not expected until 2028.
 It's a difficult leap, as Tesla's in-vehicle Grok AI told me during nearly 200 miles of driving in a 2025 Tesla Model Y: "Highways have predictable lanes, speed, fewer pedestrians and clear markings, making sensor fusion and path prediction simpler. City streets bring chaos, intersections, bikes, peds, construction and ambiguous rules that challenge even top AI vision systems."
-Challenging for some more than others. During my drives in the Model Y, the vehicle was essentially controlling itself for multiple hours and dozens of miles without intervention on highway and nonhighway roads.
+Challenging for some more than others. During my drives in the Model Y, the vehicle was essentially controlling itself for multiple hours and dozens of miles without intervention on highway and nonhighway roads. I simply put in an address and it drove me there while I monitored the system.
 It somewhat effortlessly handled several traffic circles, also known as roundabouts, and parked for me multiple times when arriving at or near destinations, including parallel parking. It also managed a semitruck blocking half a lane on a two-lane road as well as pretty complex construction zones, with Tesla's ADAS sensing each barrel or cone.
 The Rivian technology handled highway driving very well with no intervention outside of exit ramps and, at times, construction zones. It also isn't able to change lanes on its own yet, which the company promises is coming soon.
 When I asked Rivian about several of my experiences, the company said its vehicles can detect construction objects but it does not always display them on the in-vehicle screen. Its system also still needs assistance in certain locations, such as roundabouts.
@@ -229,162 +295,132 @@ Most limited editions from Lamborghini are sold out by the time they're publicly
 
 ---
 
-## Housing investors say this is their worst market in at least 3 years
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html
-
-正文长度：3115
-
-摘要：Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
-Investors in the single-family housing market are increasingly concerned about interest rates, rising insurance and home costs, and the ongoing war with Iran. As a result, they are less confident in their businesses than they have been in at least three years.
-Investor sentiment at the end of June fell for the second straight quarter to an all-time low on the quarterly RCN Capital/CJ Patrick Company Investor Sentiment Index, or ISI. The index surveys more than 300 investors in the fix-and-flip and rental businesses.
-Just 26% of respondents said they believe market conditions are better than they were a year ago, the lowest share since the survey began in 2023 and down from 35% in the first quarter. Fully 45% said the market has gotten worse, the highest in the survey's history.
-"In addition to the ongoing conflict in Iran, rising finance costs, limited inventory, escalating home and renovation costs and downward pressure on rental rates are all contributing factors for their increased pessimism," said Jeffrey Tesch, CEO of RCN Capital, a private lender to real estate investors, in a release.
-The vast majority of investors surveyed in this report were small to mid-sized. That's in contrast to large institutional investors covered by the recently enacted 21st Century ROAD to Housing Act, which will generally prohibit investors with at least 350 single-family homes from acquiring additional single-family homes. Small- to mid-sized investors tend to use bridge loans, special investor loans for rental properties and conventional loans that are typically 30-year and fixed rate. Of those surveyed, 28% reported paying cash in their recent purchases.
-Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.
-More than half of survey respondents said the high cost of financing is "one of the biggest problems in today's market," according to the report. Three-quarters of them said they do not expect to see any rate relief anytime soon, and some expect rates to rise.
-All of this is impacting investor purchase activity.
-"Real estate investors purchased 23% fewer homes in the first quarter of 2026 than they did in the previous quarter and in the first quarter of 2025. The survey also shows that 32% of the respondents don't plan to buy any properties at all this year, and only 9% plan to buy more than they did a year ago," said Rick Sharga, CEO of the CJ Patrick Company.
-More than 60% of respondents expect home prices to rise over the next six months, up from just under 52% in the prior survey. Higher prices can raise investors' acquisition costs while increasing the potential value of properties they already own.
-
-</details>
-
-
----
-
-## US considers sanctions on Brazil judge in new test of diplomatic ties - Financial Times
+## Why Maga came for Europe - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVZvNjBidE5BSXoyQllFV0RiZl92X1ZrWVpxbTdpcm5NM1lpT1V0N1ZwV3NKcnVvVS1pU3k1VktwX2hRRHUxYnlVbnNhMl92dlVfMW93RFdrT2NNbUh5U2RFbWQ2SDQ3YmFNbUE3a2lpb3k3ODFBRUllMF9yb3h4azR6OXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWpzWEdYMHBVVV91SjkxRXN5cmNVcFJMOEswUENWaWJtdVNVQ1l1NXdqR2cwRkJEaDlELS1OV05wcTlBVlZ0RDBjbmFGOHgxMzhrcXg3X1N5Njd0TlAyeklFRjNudFZGczlrTlYzY2ZIZ2RXQTFXUkFBMEhqVUdpdF9yLVQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVZvNjBidE5BSXoyQllFV0RiZl92X1ZrWVpxbTdpcm5NM1lpT1V0N1ZwV3NKcnVvVS1pU3k1VktwX2hRRHUxYnlVbnNhMl92dlVfMW93RFdrT2NNbUh5U2RFbWQ2SDQ3YmFNbUE3a2lpb3k3ODFBRUllMF9yb3h4azR6OXQ?oc=5" target="_blank">US considers sanctions on Brazil judge in new test of diplomatic ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWpzWEdYMHBVVV91SjkxRXN5cmNVcFJMOEswUENWaWJtdVNVQ1l1NXdqR2cwRkJEaDlELS1OV05wcTlBVlZ0RDBjbmFGOHgxMzhrcXg3X1N5Njd0TlAyeklFRjNudFZGczlrTlYzY2ZIZ2RXQTFXUkFBMEhqVUdpdF9yLVQ?oc=5" target="_blank">Why Maga came for Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Most US voters say they are worse off under Trump — FT poll - Financial Times
+## China investment slump deepens as economy shows signs of weakness - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGlDVFJoUmZtQTRVc1FJNWx2QmZFY0xrcHF3Mi1WWWphOERjTkR5MTNWWEZ4VnNWMDhEV09WZXl5X3RPZ3dWSEhtRHV3NkVBd09rTHdSR3kyUjNtVktzSzBGeXlVVDFOLVpLYzdUVU1uUWJhc2xmbWdQb29OSFJfWExENm8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklkMXNucEsyX2F4LXRCZENEdDRtRDRmX2RKbXVpdEtDVHlBT2dDMng4aktwelZmSzRIRUJ0UGszLWh6WDZpOHlOVFlieXJmVE5HbTltVXVTdE13MjBBeUZqbGxDaXU3Tk5oWUs5NUhZbU9tSEJ1cTh6VkV2RmJtaFh4RlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGlDVFJoUmZtQTRVc1FJNWx2QmZFY0xrcHF3Mi1WWWphOERjTkR5MTNWWEZ4VnNWMDhEV09WZXl5X3RPZ3dWSEhtRHV3NkVBd09rTHdSR3kyUjNtVktzSzBGeXlVVDFOLVpLYzdUVU1uUWJhc2xmbWdQb29OSFJfWExENm8?oc=5" target="_blank">Most US voters say they are worse off under Trump — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklkMXNucEsyX2F4LXRCZENEdDRtRDRmX2RKbXVpdEtDVHlBT2dDMng4aktwelZmSzRIRUJ0UGszLWh6WDZpOHlOVFlieXJmVE5HbTltVXVTdE13MjBBeUZqbGxDaXU3Tk5oWUs5NUhZbU9tSEJ1cTh6VkV2RmJtaFh4RlE?oc=5" target="_blank">China investment slump deepens as economy shows signs of weakness</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The billionaire threatening to upend Wall Street - Financial Times
+## Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmtPelYzSmhwZVBycnA1NHE3cG5XaWNvQTZDQlJMMGk5eGYyRHFFWDVYbGJHelNLS3NfT3o4bDNnaHhoRnp4X2JONkM0UjRCeWFrUEphUWVOdW5VU1FqV19JRlhSNmtlQ0dmUDFaNGFYS21QWnY4U0hWSjZJUzRNd3FzLWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1pWbWUyQU5DV0dEQkFJaTM0QlZtMTZaa1lNWlVNekVwMW1HVDQ2MzVZZ2JsSkRKUUN6WV93d2kxdEM4djBmQ3YtNENkVUVxNHFMUDhHT1NuWlRYSnNueE1tVU5BQTNSSEJxc1NIQTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmtPelYzSmhwZVBycnA1NHE3cG5XaWNvQTZDQlJMMGk5eGYyRHFFWDVYbGJHelNLS3NfT3o4bDNnaHhoRnp4X2JONkM0UjRCeWFrUEphUWVOdW5VU1FqV19JRlhSNmtlQ0dmUDFaNGFYS21QWnY4U0hWSjZJUzRNd3FzLWQ?oc=5" target="_blank">The billionaire threatening to upend Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1pWbWUyQU5DV0dEQkFJaTM0QlZtMTZaa1lNWlVNekVwMW1HVDQ2MzVZZ2JsSkRKUUN6WV93d2kxdEM4djBmQ3YtNENkVUVxNHFMUDhHT1NuWlRYSnNueE1tVU5BQTNSSEJxc1NIQTg?oc=5" target="_blank">Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## California billionaires add millions to bolster fight against wealth tax - Financial Times
+## Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlNvNFRGOXpORllzRXRud0x6M1h1bW8yNEFIWjBDQ0RtY1JBTDRyX0RfR0lOd1lNM2lNTUJHT2dJRGFZNFg5Q040d1NPd2ttQ1MycE5BRTBiaWNXRmJSS2RmeFVTVXJLeVZOVnFVdVZlNEF6NFdsQzB1UnlLU1RVVE9YQnc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORGJoajVUdU1rWTVTVmh4YlVTczVIbG0xX3NjbjhXUmI1WDhnWlVVMEhwN3REOE9KQ0h1N0J4SXRVZ01IcFFZOXpqT3hRM09oSzF4dnk5eU1MelJqTURkWG0tMlNIVjBzRnlQMVItOVV2eUhYTXh1ajFUZW01Y0VPajZSdTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlNvNFRGOXpORllzRXRud0x6M1h1bW8yNEFIWjBDQ0RtY1JBTDRyX0RfR0lOd1lNM2lNTUJHT2dJRGFZNFg5Q040d1NPd2ttQ1MycE5BRTBiaWNXRmJSS2RmeFVTVXJLeVZOVnFVdVZlNEF6NFdsQzB1UnlLU1RVVE9YQnc?oc=5" target="_blank">California billionaires add millions to bolster fight against wealth tax</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORGJoajVUdU1rWTVTVmh4YlVTczVIbG0xX3NjbjhXUmI1WDhnWlVVMEhwN3REOE9KQ0h1N0J4SXRVZ01IcFFZOXpqT3hRM09oSzF4dnk5eU1MelJqTURkWG0tMlNIVjBzRnlQMVItOVV2eUhYTXh1ajFUZW01Y0VPajZSdTA?oc=5" target="_blank">Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Capitalism’s not working’: why Democrats are turning to socialism - Financial Times
+## Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGIxN05sTUEzdjZncTF4TllpYldHRGtMLUYwX0RzdXMzbnkzb3hCNDZYV2FuVUJyRTgxMkY4V1d4OFA2SnFfUDZSbzA2eWg2Q0ZaX3dwcUJYeU1ZalJGR3VkLW9aQzZEbHV3MmNrU3poTVc4QUU3UTFNVGNzNzgtZ2ZOWEw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRzMWp1Znhpd1ZrWkZnWm1UV0pYR0lGTThBSmphSEstRW01NG96OXlucnRBTF95a2hMcWZJUFkzVm5rekZjb2VfV1ZHQ18ycHR5M2hYV0E3c1RjeXhfTExMcy1RTHZXSTRtVXJSRXd5QzNjN3R0ajRpWVMyYkwtY25pRnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGIxN05sTUEzdjZncTF4TllpYldHRGtMLUYwX0RzdXMzbnkzb3hCNDZYV2FuVUJyRTgxMkY4V1d4OFA2SnFfUDZSbzA2eWg2Q0ZaX3dwcUJYeU1ZalJGR3VkLW9aQzZEbHV3MmNrU3poTVc4QUU3UTFNVGNzNzgtZ2ZOWEw?oc=5" target="_blank">‘Capitalism’s not working’: why Democrats are turning to socialism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRzMWp1Znhpd1ZrWkZnWm1UV0pYR0lGTThBSmphSEstRW01NG96OXlucnRBTF95a2hMcWZJUFkzVm5rekZjb2VfV1ZHQ18ycHR5M2hYV0E3c1RjeXhfTExMcy1RTHZXSTRtVXJSRXd5QzNjN3R0ajRpWVMyYkwtY25pRnc?oc=5" target="_blank">Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump instructs Pentagon to reduce military exercises with South Korea - Reuters
+## Second wave of fuel shortages at petrol stations sweeps across Russia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5" target="_blank">Trump instructs Pentagon to reduce military exercises with South Korea</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5" target="_blank">Second wave of fuel shortages at petrol stations sweeps across Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US Attorney General Blanche publicly backs Pirro after Trump criticism over Reflecting Pool - Reuters
+## Apple to change app data consent rules, German regulator says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGpxazhlblB3SzVBVmNDV0VMRGJUNE9qN19aRUxjZ1FDbFZjdWE5N2pxXzY4U1BsT25tVUZNcHhmUjR1VzhZR3hSVkhrRjJlU1ljWWd5dzRfd2E2TWs0S2szeGtCSS1OSTBDZ2pqa0RhSi1ISXFpZmtRQmQ1bXQzeklsMk5mcGRMcW1PUmljRGhRTm40bWhzNC1TWEl0Rm1saWstNThsMWdiblpWblVQQ0JYTFJfNEdYcEdvY3ByTk5MZG1ITGtB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGpxazhlblB3SzVBVmNDV0VMRGJUNE9qN19aRUxjZ1FDbFZjdWE5N2pxXzY4U1BsT25tVUZNcHhmUjR1VzhZR3hSVkhrRjJlU1ljWWd5dzRfd2E2TWs0S2szeGtCSS1OSTBDZ2pqa0RhSi1ISXFpZmtRQmQ1bXQzeklsMk5mcGRMcW1PUmljRGhRTm40bWhzNC1TWEl0Rm1saWstNThsMWdiblpWblVQQ0JYTFJfNEdYcEdvY3ByTk5MZG1ITGtB?oc=5" target="_blank">US Attorney General Blanche publicly backs Pirro after Trump criticism over Reflecting Pool</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5" target="_blank">Apple to change app data consent rules, German regulator says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss - Reuters
+## Iran says two French embassy employees barred from returning - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5" target="_blank">New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5" target="_blank">Iran says two French embassy employees barred from returning</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters
+## S&P 500, Nasdaq futures rise on tech boost - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5" target="_blank">In Spain's Ceuta, hundreds of migrants stage protest and demand asylum</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5" target="_blank">S&amp;P 500, Nasdaq futures rise on tech boost</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Zambia's Hichilema leads presidential vote count - Reuters
+## Zambia says it arrested opposition figures on night of elections - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhnanphMWxUemllZGRNTXJqZE16ZHBWdUFIS2Q0TzZDdVBQUXFPSUUtU2xHUDVDLWRNZl9heVh1Sk9kNExJUGNEWDlZdzBmTVlCZ3NYSWZLTnJBS2hhLVQ3NXhHTWZsdkRCcTduelg5V0cwWHExbl81d1E0ai1yUkVCeThJcWdhZTI2M3RZb19iM0tab09iaVpxSGU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0tLQU1YY1lkdGk0MWxCLVJUT1h3QnNMMnQybGZyamtqdHkweEFoZ0huazZpY2tLZThybGhxS2t2YlItbmVXYW9ieDNXZDFpaGJVLVFwM1NCb0NfU1ZpWG9JSWRaZzV5Mk1NNGRZR0FSRmlyTkJkS0FhNjE1eUhnUzdqOFhtNllsaWNlcTIzejdTN1phT2dweDEzMlMzN0R6WG1YRzVHbFNhams?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhnanphMWxUemllZGRNTXJqZE16ZHBWdUFIS2Q0TzZDdVBQUXFPSUUtU2xHUDVDLWRNZl9heVh1Sk9kNExJUGNEWDlZdzBmTVlCZ3NYSWZLTnJBS2hhLVQ3NXhHTWZsdkRCcTduelg5V0cwWHExbl81d1E0ai1yUkVCeThJcWdhZTI2M3RZb19iM0tab09iaVpxSGU?oc=5" target="_blank">Zambia's Hichilema leads presidential vote count</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0tLQU1YY1lkdGk0MWxCLVJUT1h3QnNMMnQybGZyamtqdHkweEFoZ0huazZpY2tLZThybGhxS2t2YlItbmVXYW9ieDNXZDFpaGJVLVFwM1NCb0NfU1ZpWG9JSWRaZzV5Mk1NNGRZR0FSRmlyTkJkS0FhNjE1eUhnUzdqOFhtNllsaWNlcTIzejdTN1phT2dweDEzMlMzN0R6WG1YRzVHbFNhams?oc=5" target="_blank">Zambia says it arrested opposition figures on night of elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
