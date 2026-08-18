@@ -1,60 +1,6 @@
 # 每日财经新闻
 
-更新时间：2026-08-18 01:35:12
-
-## Guggenheim Ties Sink Bonds of $135 Billion Insurer Sammons
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-ties-sink-bonds-of-135-billion-life-insurer-sammons
-
-正文长度：0
-
-摘要：Bonds of Sammons Financial Group fell to the lowest since they were issued in June after a report probed the life insurer’s connections to Mark Walter’s Guggenheim Partners.
-
-
----
-
-## Asian Bonds Follow Treasuries Lower, Oil Gains: Markets Wrap
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates
-
-正文长度：0
-
-摘要：Asian bonds followed Treasuries lower as concerns over government finances mounted, while higher oil prices added to fears that inflation will quicken.
-
-
----
-
-## Prabowo’s ‘Pragmatic’ Speech Comforts Weary Indonesia Investors
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-18/prabowo-s-pragmatic-speech-comforts-weary-indonesia-investors
-
-正文长度：0
-
-摘要：Indonesian President Prabowo Subianto’s annual speech on Friday was a rare uneventful affair, and that’s exactly what investors wanted to hear.
-
-
----
-
-## Studio Ghibli’s Deepest Secret Is What Comes Next
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-08-18/studio-ghibli-s-deepest-secret-is-what-comes-next-video
-
-正文长度：0
-
-摘要：After hits like "Spirited Away" and "The Boy and the Heron," what’s next for Studio Ghibli? 
-
-Sohee Kim explains why the next chapter for Japan’s most celebrated animation studio has yet to be drawn. (Source: Bloomberg)
-
-
----
+更新时间：2026-08-18 12:55:34
 
 ## Latest Oil Market News and Analysis for Aug. 18
 
@@ -64,7 +10,135 @@ Sohee Kim explains why the next chapter for Japan’s most celebrated animation 
 
 正文长度：0
 
-摘要：Oil climbed for a third day as prospects for a near-term resolution of the US-Iran war receded, with President Donald Trump saying he’s not interested in extending an expiring agreement with Tehran.
+摘要：Oil fluctuated near a two-week high, with the US and Iran stuck in a deadlock over control of the Strait of Hormuz.
+
+
+---
+
+## Copper Supply Crunch Sends Key Spread to Highest Since 2021
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out
+
+正文长度：0
+
+摘要：The copper market had another volatile session, with a key one-day spread spiking to levels last seen during a historic squeeze in 2021.
+
+
+---
+
+## Dudley: Inflation Will Keep Bond Yields High
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-08-18/dudley-inflation-will-keep-bond-yields-high-video
+
+正文长度：0
+
+摘要：Katrina Dudley, Senior Investment Strategist at Franklin Templeton, joins Bloomberg's Vonnie Quinn on "Bloomberg Brief" to discuss the global bond market selloff and her out look for the Federal Reserve's September meeting. (Source: Bloomberg)
+
+
+---
+
+## Technology Stocks Slide as Bond Selloff Rolls On: Markets Wrap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates
+
+正文长度：0
+
+摘要：Technology stocks drove declines in global equities as long-dated bond yields pushed further into multidecade highs and oil prices extended their climb, draining traders’ appetite for risky assets.
+
+
+---
+
+## US Futures Drop, Led by Tech, as Bond-Yield Spike Sparks Angst
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise
+
+正文长度：0
+
+摘要：US stock futures fell before the bell on Tuesday as rising bond yields and an early-morning spike in oil prices unnerved investors, prompting them to pare back some of their riskier trades, such as bets on AI and related tech.
+
+
+---
+
+## Home Depot reaffirms guidance amid 'frozen housing market conditions'
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html
+
+正文长度：3538
+
+摘要：Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Home Depot on Tuesday reported fiscal second-quarter results that beat Wall Street expectations on the top and bottom lines and reaffirmed its full fiscal-year guidance.
+"We continue to operate in what I call 'frozen housing market' conditions, but we also know that we're taking share and that we're serving our customers better every day," CFO Richard McPhail told CNBC. "It's a reflection of the continued investment we've made and the focus on executing our strategy."
+McPhail said Home Depot saw "broad engagement" across its categories, including in both its pro and do-it-yourself businesses, but the greater uncertainty in the market led the company to reaffirm rather than raise its guidance.
+He added that Home Depot's customer is "a healthy cohort," though he said the company has still not seen consumers return to big projects.
+"They've told us they have the means to spend, they're just hesitant," he told CNBC. "While we're happy with their level of engagement in the first half, they do tell us they're worried about inflation, about fuel costs and about, about general uncertainty, and so there is a little bit of hesitancy there as the project gets bigger."
+Here's how Home Depot performed in its fiscal second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $4.92 adjusted vs. $4.73 expected
+- Revenue: $47.86 billion vs. $47.27 billion expected
+The home improvement retailer reported net income of $4.77 billion, or $4.79 per share, compared with $4.55 billion, or $4.58 per share, the year prior. Excluding one-time items, Home Depot reported adjusted earnings per share of $4.92. Revenue rose 5.7% to $47.86 billion.
+Home Depot saw comparable sales rise 1.7%, beating expectations that they would be up 0.9%, according to StreetAccount. McPhail said it is the highest comparable sales number the company has posted since the fiscal third quarter of 2022.
+Home Depot also reaffirmed its fiscal 2026 guidance, which it said includes tariff refunds that are "expected to partially offset unplanned fuel, energy, and other product input costs." McPhail added that the tariff refunds allow the retailer to "maintain value" despite cost pressures in other areas.
+The company expects total sales growth for the year to be between 2.5% and 4.5% and operating margin between 12.4% and 12.6%.
+"The story of the quarter is a story of share gain with the pro and the consumer, and we're confident that our investments are working to allow us to win in the market," McPhail said.
+Home Depot has been pressured by lower housing turnover, higher mortgage rates and economic uncertainty as customers have put off projects that come with buying a new home. Still, the company has been trying to attract more pro shoppers, a cohort that executives have previously said is largely unaffected by the macroeconomic conditions.
+"We're focused on controlling what we can control," McPhail said. "We have been consistent through the years that in spite of a frozen housing environment, we're going to keep leaning into investment because we know that over the long run, conditions for home improvement demand are strong."
+The company also announced last week that CEO Ted Decker is taking a "temporary medical leave of absence" for a few months. Ann-Marie Campbell, Home Depot's senior executive vice president of U.S. stores and operations, will oversee the day-to-day operations while McPhail will head the financial management and pro business, according to the company.
+
+</details>
+
+
+---
+
+## Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html
+
+正文长度：4340
+
+摘要：Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Brunswick Corp., a global leader in boat manufacturing and recreation on the water, is counting on advanced technology to help with stalling sales.
+The parent company of Sea Ray, Boston Whaler and other boat brands, says advanced navigation technology and autonomous docking can take some of the complexity out of maneuvering a vessel around a crowded marina.
+The bet is twofold: convince would-be buyers to dive into a market that's been sluggish — with retail sales of new vessels expected to remain subdued through 2026 — and increase aftermarket and recurring revenue through technology and software sales.
+Brunswick's portfolio extends well beyond the boat brands. Its Navico Group sells marine electronics and technology, while its Mercury Marine supplies engines and maintains a parts and accessories business.
+Roughly 60% of Brunswick's earnings now come from aftermarket or recurring revenue, and Roth Capital Partners analyst Scott Stember says that mix gives the company meaningful exposure beyond new boat sales.
+Brunswick told investors it anticipates annual sales of 145,000 to 160,000 units by 2030. Roth characterizes that as modest recovery in demand from estimated U.S. retail sales this year of fewer than 135,000 vessels.
+The sluggish demand is being felt most in Brunswick's least expensive models.
+"We're seeing premium boats and what we call our core portfolio being very resilient," CEO David Foulkes told CNBC. "What we're seeing is value boats, which are more typically financed or more subject to interest rate pressures ... they're not doing badly, but they're just not doing as well as some of our more premium products."
+But Brunswick could increase the amount of electronics and technology onboard, even if the number of boats sold doesn't rise dramatically.
+For instance, 55% of Navico's original-equipment customers have increased their Navico content since 2023, according to the company. And Navico has launched more than 30 new products since 2025.
+One of those is Simrad AutoCaptain, which helps navigate and dock boats. The business strategy makes sense: Make it easy to take the boat out, and more importantly back in, and you just might sell a bigger, more expensive boat. The company generates more business around the boat, too.
+Another piece of the strategy is Freedom Boat Club — a kind of country club for boaters, with locations around the globe. Members pay a fee and monthly dues for access to vessels to take out on the water at any of the locations.
+Brunswick reported during its August investor day that the club has more than tripled its membership since 2019 to more than 63,000 members. Trips and reservations have grown fourfold, while the network has expanded to more than 450 locations and a fleet of roughly 5,000 boats.
+And unlike the cyclical sales of a new boat, Freedom Boat Club lands squarely inside Brunswick's recurring-revenue profile, with about 90% of the club's sales recurring and trips running 10% higher than a year ago, one indication that consumers are continuing to take to the seas even as new-boat sales remain weak.
+That approach is becoming more important as Brunswick lays out ambitious financial targets without assuming a return to the industry's boom years.
+The company is targeting $7 billion to $8 billion in revenue by 2030, operating margins of 10% to 13% and earnings of between $8 and $12 per share.
+KeyBanc, which has a sector-weight rating on Brunswick stock, said management expects pricing, a richer premium-product mix, market-share gains and new-product innovation to help drive growth.
+Roth, which rates the shares buy with a $94 price target, is more bullish. Stember wrote that Brunswick is "uniquely positioned" within recreation and leisure to produce meaningful earnings growth even with only a "modest/non-heroic" recovery in new-boat demand.
+Shares of Brunswick currently trade at roughly $82 apiece.
+Brunswick is also trying to remove supply chain risk by reducing its China-sourced parts by as much as 75% and cutting tariff exposure by 70%.
+Foulkes said that gives Brunswick an advantage over competitors based overseas.
+Investors, of course, will weigh whether the sum total of advanced technology, more efficient engines and recurring revenue from Freedom Boat Club can keep profits afloat, even if unit growth remains challenging.
+
+</details>
 
 
 ---
@@ -182,228 +256,132 @@ In addition to California, the group of states suing to block the merger include
 
 ---
 
-## What will TV look like in three years? Media insiders share their predictions
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html
-
-正文长度：13869
-
-摘要：CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The television industry is in flux.
-Deals, spinouts and partnerships are all reshaping the landscape for traditional TV. While the industry is no stranger to turmoil, the recently rapid pace of change is keeping media investors and onlookers on their toes.
-This is the backdrop for CNBC's Future of TV survey: an update from our 2023 exercise that asks media insiders and executives to forecast the next three years in TV.
-Depending on who you ask, the TV industry may be in crisis. The number of cable TV subscribers has been declining for more than a decade. Streaming services are now profitable, but subscriber growth, for the most part, has plateaued.
-Pondering the future of TV isn't just a thought experiment. It's the underpinning of hundreds of billions of dollars' worth of mergers and acquisitions.
-In February, Paramount Skydance agreed to acquire Warner Bros. Discovery, following a sale process that saw Netflix nearly acquire WBD's film studio and HBO Max. That deal is now held up due to politicians' antitrust fears.
-In June, Fox said it would acquire streaming platform Roku for $22 billion. Comcast plans to separate out NBCUniversal in 2027, a swift follow-up to the spinout of Versant, its portfolio of cable TV networks, including CNBC. And Charter Communications recently received final regulatory approval for its $34.5 billion merger with Cox Communications, which would create the biggest cable company in the U.S.
-Media companies are also thinking about partnerships to generate revenue as the cable TV ecosystem continues its decline. NBCUniversal has already announced a partnership between its Peacock and YouTube.
-Disney has a new CEO and is focused on tying together its broad swath of media assets, including ESPN, ABC, FX, Disney+ and Hulu.
-And Netflix — the company that upended the pay-TV model more than a decade ago with binge-watching, password-sharing, and no advertisements — has reversed course on many of its previous strategies in an effort to keep investors happy. And yet, its stock is down more than 35% in the past year.
-All the while, YouTube continues to take viewing share as the rest of the media industry adjusts to how younger audiences want to consume content.
-These big events are redefining strategy for every company in the ecosystem.
-To get a read on where TV goes from here, CNBC asked the same five questions of 10 media executives. Some of the 2023 predictions unearthed by our previous canvassing proved quite accurate: Most executives correctly predicted linear pay TV would still be around, albeit with fewer customers; several correctly predicted bundling streaming services together would be challenging; and more than one even predicted Paramount+ and HBO Max, specifically, would be consolidated.
-Here's the 2026 view of television by 2029:
-In three years, will we have hit a floor on cable TV subscribers?
-Chris Winfrey, Charter Communications president and CEO: I think it's going to decline dramatically, because the cost of free, over-the-air [retransmission] is now over $30 per customer for something that's essentially free. But what you're seeing already is all of that broadcast content and cable content is really all available inside of these apps, and it's available inside of big streaming bundles that I think will develop over time, and I think that will include Netflix. When you really think about it, Netflix is essentially a big cable programmer that could end up being bundled together with the other streaming apps to provide more choice, more value, and more utility for customers over time.
-Jeff Zucker, RedBird IMI CEO and former NBCUniversal CEO and WarnerMedia News and Sports chairman: I don't think we'll have a floor. I do think it will continue to decline, and it'll probably do so every year until sports rights eventually disappear from cable. But, I think that's at least a decade off.
-Charlie Collier, Roku Media president: Well, nothing truly goes to zero. Somewhere in America there's probably someone paying for AOL dial-up or renting a DVD from the last Blockbuster, which, by the way, is in Bend, Oregon. But the direction of travel is unmistakable.
-Rashida Jones, Uncensored CEO and former MSNBC president: I think it's difficult to reverse the trend that we're seeing of consumers choosing to consume content on platforms other than linear television. I think that trend continues. How fast? Frankly, we haven't been right as an industry to date. It hasn't been quite as fast and as aggressive as maybe we were forecasting even four or five years ago.
-What's one thing that will become a TV industry standard that doesn't exist today?
-Jimmy Pitaro, ESPN chairman: Ubiquitous personalization. Personalization exists today, but I'm going to say three years from now, you're going to see it pretty much everywhere, meaning networks are providing the right content to the right user at the right time, and you're going to see content being promoted based on a user's preferences, but you're also going to see content being created and tailored to a user's preferences.
-Anjali Sud, Tubi CEO: I think you'll see ads get way more useful and relevant the same way they have on social media. If you think about the experience today on television, it still largely feels like the ads are not personalized, and you can imagine a world where you can see such hyper-personalization that really — it gets to a place where what you see as an ad doesn't even feel interruptive or like friction. It actually just feels like, wow, that was really helpful and useful, because you know me so well.
-Pitaro: Commerce integration, and I think you're going to see a lot more of that. You know, we have a buy experience, a commerce experience within our enhanced ESPN app today, but I would expect that you'll see frictionless commerce really emerge over the coming years — more product placement and the opportunity for the customer to deep link directly to a partner site to make a purchase.
-John Landgraf, chairman of FX content and studios: Day and date global releases to us seem to be a really important evolution in the television ecosystem. Of course, there's still going to be shows that premiere primarily in one market, one territory — [in] North America or in Asia or Europe — but I think increasingly what you're seeing is the biggest shows are premiering everywhere in the world at the same time.
-Zucker: I think we'll see more and more podcasters and livestreaming shows being licensed to cable networks — perhaps even broadcast networks — and I think that will become much more of a TV industry standard.
-Jeffrey Hirsch, Starz president and CEO: We'll continue to see major advancements in language. And so I think you'll have a world where it's content without borders, where [artificial intelligence] will allow platforms to allow consumers to watch the content in their native language. Subbing and dubbing will go away, but you'll be able to toggle or hit a button that says I want to watch it in French, I want to watch it in Spanish, I want to watch it in English. Content without borders becomes a real kind of standard in the industry in three years. (Of note: This was also Hirsch's answer three years ago.)
-Winfrey: I think immersive programming, particularly around sports with 8K [TV], is going to be a feature, or a new set of products and content that's available, that will continue to reinvigorate the pay-TV industry. If you take a look at what we're doing with Spectrum Front Row, which is our cooperation with NBA and Apple Vision Pro ... it really just gives you a taste of where this could go. The ability to bring a courtside experience into the living room of every household inside the country — I think that'll be a unique and new experience.
-Will there be a major government action to prevent a Big Tech company from getting bigger in the entertainment industry?
-Zucker: I don't think it's any secret or would surprise anybody that Big Tech has lost a lot of goodwill among the left and Democrats, and so I think that those Big Tech companies will be in for a lot of scrutiny and will find going much more difficult, but I think that depends what happens in the next two elections, in '26 and '28.
-Jones: The goal isn't bigger and better. So, I think what we're going to see is a consumer and an industry backlash to some of these deals that will then kind of change the course. I think we're starting to see some of that even recently with the letter that was submitted by 1,000 professionals in Hollywood pushing back at the Paramount[-WBD] deal.
-Sud: The convergence between Silicon Valley tech and Hollywood, it's already happened. The shift has happened. If you look at the platforms that are taking the highest share of time spent and attention, it's tech platforms. If you look at who has the highest share of television viewing in the living room, it's YouTube. We're seeing this convergence — a collision — even more. Instagram is now doing vertical videos on TV, the Oscars are going to be on YouTube, you have creators putting movies out in theaters in the box office. So, my view is, sort of, this is all about where consumers' tastes and preferences are going, and consumers are already getting very used to the convergence of tech and entertainment, and so I don't think you can put the genie back in the bottle.
-Are we in a sports viewership ratings bubble?
-Pitaro: The answer is a fast "no." First off, [ratings] measurement is getting better and much more accurate, including, of course, out-of-home and now streaming usage being accounted for. Every time the industry expects a downturn, numbers continue up and to the right.
-Jones: I think we will get to a point of saturation. Don't know if this is true — this is a slightly adjacent industry for me — but I think every industry has a ceiling and available audience. I think with the recent distribution deals that have broadened the number of platforms where this content is distributed, I think you get to a ceiling. You get to a peak, and I think we'll start to see some of that drop down.
-Brian Fuhrer, Nielsen senior vice president of product strategy and thought leadership: It's really important to understand that Nielsen has made some methodological improvements that impact sports and everything in general, but in particular sports. The No. 1 thing there is we've expanded our out-of-home measurement ... Home markets are super important to sports rates. So, we have seen increases directly attributable to that enhancement that we expect to continue, but we won't see a big year-to-year bump.
-Winfrey: I think you're going to continue to see ratings go up. Maybe that's a little bit of a mix of short-form content, long-form content, immersive capabilities of bringing you into the stadium ... but I think it's the one area that's shown really isn't the same to be able to watch it after the fact, and I think it's going to continue to drive ratings inside the system.
-Zucker: The reality is that live works. People want live events, they want live news, and they particularly want live sports. They want things that AI is not going to be able to replicate. Live sports is going to continue to be very strong. Whether ratings go up or down depends on matchups and championships, but overall I think sports are going to continue to be very, very strong.
-Collier: Live sports remains one of the last true mass reach experiences in our culture. In a fragmented world, sports still create communal moments. Families watch them together, friends text each other in real time, and as we're seeing, entire cities change moods based on outcomes. So, I suspect premium sports remain incredibly valuable, perhaps even more than today.
-There's broad agreement that the biggest streaming services will probably still be the biggest in three years. What's another service that you think will gain significant market share?
-Debra OConnell, Disney Entertainment Television chairman: Look at Instagram's recent announcement about TV formats. I think [it's] likely a service that we're not thinking of today, but it could be more broadly services that are here today and are expanding the capability of how they engage and connect with audiences, as well as expanding those experiences.
-Winfrey: I actually think the real opportunity is for somebody who can pull it all together to be an aggregator of all these different services, much the way that cable TV was originally created to provide value and utility, to be able to provide a bundle of services at a discounted rate. I think that's the opportunity for a new entrant into the space.
-Zucker: We see TikTok videos getting longer and longer, and I think that's a trend that will continue. I also think that niche casting is also going to continue, and you will see lots of very small communities play very big roles across all of these services.
-Fuhrer: Platforms like Roku Channel, Tubi, Pluto — we've seen a tremendous adoption and increase in usage across those services. We don't see a slowing down of that, because as they continue to enhance the services and the different companies add more content to them — original content — and as these [free, ad-supported streaming television] channels gain in popularity, we think that's an area to really keep an eye on.
-Pitaro: I'm going to say Epic Games. Clearly, Walt Disney Company is invested here. We made a $1.5 billion investment in Epic Games, but from my perspective, really, the possibilities to connect gaming experiences with both entertainment and sports content, including potentially live events, are endless.
-Landgraf: Do I really think that a streamer we've never heard of is going to be meaningfully competitive in long-form video three years from now? No, I don't think so.
-Hirsch: Starz is my answer.
-Disclosure: Versant is the parent company of CNBC.
-
-</details>
-
-
----
-
-## Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html
-
-正文长度：2290
-
-摘要：Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Synchrony Financial, the credit card issuer for brands including Amazon, Walmart and Lowe's, is working with OpenAI to allow shoppers to buy products directly inside ChatGPT using their store cards.
-The deal is one of the first major moves by a U.S. consumer lender to bring financing, payments and rewards directly into an AI chatbot.
-While agentic commerce has become a catchphrase for the next phase of online shopping, consumers who discover items in an AI agent are typically still routed to a brand's website to complete the purchase. To change that, OpenAI has signed deals with companies including Visa and Stripe to move toward in-chat purchases.
-"What happens today is the transaction doesn't cleanly happen yet at the provider like OpenAI," said Maran Nalluswami, Synchrony's chief strategy officer, in an interview. "We want to ensure that if a transaction's going to happen in that ecosystem, our cards are loaded up in the right spots to ensure that that transaction finishes."
-Still, there's work ahead before the promise of agentic commerce becomes reality.
-Nalluswami said doing the work to get its private-label store cards embedded into ChatGPT will take months as Synchrony negotiates with its brand partners.
-Consumers remain cautious about handing credit card information to AI or allowing an agent to complete a purchase. There are also questions about how to divvy up fees for purchases completed inside ChatGPT. Nalluswami said the economics will need to be negotiated among retailers, Synchrony and OpenAI.
-Synchrony is also talking with competing AI platforms, including Anthropic's Claude and Google's Gemini, on embedding their cards within those chatbots, Nalluswami said.
-Separately, Synchrony said it is launching a ChatGPT plugin that lets consumers browse its marketplace deals, promotional financing and partner offers, and that it is deploying OpenAI's latest models internally to speed up product development.
-The moves come as OpenAI prepares for its massive potential initial public offering, adding pressure on the company to turn ChatGPT into a broader platform for online commerce.
-Correction: This story has been updated to reflect corrected information from Synchrony about the timeline for integrating credit card payments into OpenAI's ChatGPT.
-
-</details>
-
-
----
-
-## Nvidia pledges $100bn backing for OpenAI data centre in Ohio - Financial Times
+## Global bond sell-off deepens amid fears over inflation and AI issuance - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEdXR1M2dHNQbklPaU5lV1ZnZUNqS09yWVQzQkhmTnFGQVE3QmlzNG9neFhZekpNeVRhN2xneFVDTl9tRmRXZXc4UU9sLXFsbHVzUDVSajhnV3Qya3ctZHFXUXlTWEU1X0xFZlZpZUx4MGRDa3pVUkVmY1lDeDdnUWNfYmk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVlheUxRMHRtQmRQWXpURzhpWENzQjRpNWZyZEdGQ3dRaEN0Z2ZTNm84X0xBYWw1WDR3VUtYYjQ3RXJ0NG9xazJneTE3TzZMNXQzblRidzlfc1pFUy16QTlkYV9JTjdKbVV6YkFmUUxVRFZMZzVXUTMxdm1CMWx6d0JHTXY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEdXR1M2dHNQbklPaU5lV1ZnZUNqS09yWVQzQkhmTnFGQVE3QmlzNG9neFhZekpNeVRhN2xneFVDTl9tRmRXZXc4UU9sLXFsbHVzUDVSajhnV3Qya3ctZHFXUXlTWEU1X0xFZlZpZUx4MGRDa3pVUkVmY1lDeDdnUWNfYmk?oc=5" target="_blank">Nvidia pledges $100bn backing for OpenAI data centre in Ohio</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVlheUxRMHRtQmRQWXpURzhpWENzQjRpNWZyZEdGQ3dRaEN0Z2ZTNm84X0xBYWw1WDR3VUtYYjQ3RXJ0NG9xazJneTE3TzZMNXQzblRidzlfc1pFUy16QTlkYV9JTjdKbVV6YkFmUUxVRFZMZzVXUTMxdm1CMWx6d0JHTXY?oc=5" target="_blank">Global bond sell-off deepens amid fears over inflation and AI issuance</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap - Financial Times
+## Trump ballroom official held quiet Kremlin talks - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORGJoajVUdU1rWTVTVmh4YlVTczVIbG0xX3NjbjhXUmI1WDhnWlVVMEhwN3REOE9KQ0h1N0J4SXRVZ01IcFFZOXpqT3hRM09oSzF4dnk5eU1MelJqTURkWG0tMlNIVjBzRnlQMVItOVV2eUhYTXh1ajFUZW01Y0VPajZSdTA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkFXbGRIZmJuYWhKMk9jTFZDQlJDci1odVFFMUxWRGI2NWFvT0J0bFdCZ255b2lRa1hpaTJUZ1Q0SFFoZG9qWFpwdU5oZGNVcW8yMXMzS3IwdWtOcUd5RjM0R0k1UHdqNzJIeDhJa1ppZFRzRzNZblczUlhYN0llSlNLN0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORGJoajVUdU1rWTVTVmh4YlVTczVIbG0xX3NjbjhXUmI1WDhnWlVVMEhwN3REOE9KQ0h1N0J4SXRVZ01IcFFZOXpqT3hRM09oSzF4dnk5eU1MelJqTURkWG0tMlNIVjBzRnlQMVItOVV2eUhYTXh1ajFUZW01Y0VPajZSdTA?oc=5" target="_blank">Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkFXbGRIZmJuYWhKMk9jTFZDQlJDci1odVFFMUxWRGI2NWFvT0J0bFdCZ255b2lRa1hpaTJUZ1Q0SFFoZG9qWFpwdU5oZGNVcW8yMXMzS3IwdWtOcUd5RjM0R0k1UHdqNzJIeDhJa1ppZFRzRzNZblczUlhYN0llSlNLN0E?oc=5" target="_blank">Trump ballroom official held quiet Kremlin talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chelsea shareholders Mark Walter and Todd Boehly in talks to sell their stakes to Clearlake - Financial Times
+## How a pesky Jordan copycat dribbled around Nike in China - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBWeWx5SFhtN0JOdnZMS01DbS1rTGE0RVBCdWxOWW1jNFlUbE9tOUc3bTJxT3ZWbXZnc3BDYXpmSDV0dU91dGM2dGpyM0NybzNWUHZLTTZFd0g1R3FTSldMWmp0Z3NQeXczck00SGM1Yk5NNVpCVUdwYnVYTnQ0OGlOVks?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3dGX0xRQjZVbmZpU0ltUUZ1V25hYzNBYXRlY1I3eWNrbndROUw0dmRTTEUwdEJaMmtiT3dZTWJ1UC01dmRveUJEVFJMMHBOM01KSWxTVkd1QXJqb19CUm52TzVoT1BETlZ2VVprTHMyRTVGTElWeU1rS3RFdWNLUXY2N1A?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBWeWx5SFhtN0JOdnZMS01DbS1rTGE0RVBCdWxOWW1jNFlUbE9tOUc3bTJxT3ZWbXZnc3BDYXpmSDV0dU91dGM2dGpyM0NybzNWUHZLTTZFd0g1R3FTSldMWmp0Z3NQeXczck00SGM1Yk5NNVpCVUdwYnVYTnQ0OGlOVks?oc=5" target="_blank">Chelsea shareholders Mark Walter and Todd Boehly in talks to sell their stakes to Clearlake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3dGX0xRQjZVbmZpU0ltUUZ1V25hYzNBYXRlY1I3eWNrbndROUw0dmRTTEUwdEJaMmtiT3dZTWJ1UC01dmRveUJEVFJMMHBOM01KSWxTVkd1QXJqb19CUm52TzVoT1BETlZ2VVprTHMyRTVGTElWeU1rS3RFdWNLUXY2N1A?oc=5" target="_blank">How a pesky Jordan copycat dribbled around Nike in China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Barclays shakes up investment bank less than three years since last overhaul - Financial Times
+## Airlines in ‘stand-off’ over price cuts as jet fuel costs ease - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEt2SnZsREtHbjJwQjdNSFFPVjFKMExrZ3Jta0xyTk02Z1NtUk5KTVYySXpXTFFnWWVVM2FmY0VpOXo4ajY4OUpGekxQSGJ2UDd1N0dvSkZ5VlBiSTM0UG1FNXhYa0lEZGVvZXN2cnBCQVpuZmxTQ1B4eEttMWFpeFQ2NVk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVGMHA0TGpGaU5jblQ1WHpLQUVFSVdNM2JiYm5xWVlwYXE4amlBS2cyTE1rSHVkQzE5Q0pVWV8wMTJPTmJKRUlhcmQ1UDlKX2dwajBLb3owa0FKZjV6OVFMelNlZnctNldsQVYxcU45d2FhMkVnRFN3b2F3VGgzZ3BybGI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEt2SnZsREtHbjJwQjdNSFFPVjFKMExrZ3Jta0xyTk02Z1NtUk5KTVYySXpXTFFnWWVVM2FmY0VpOXo4ajY4OUpGekxQSGJ2UDd1N0dvSkZ5VlBiSTM0UG1FNXhYa0lEZGVvZXN2cnBCQVpuZmxTQ1B4eEttMWFpeFQ2NVk?oc=5" target="_blank">Barclays shakes up investment bank less than three years since last overhaul</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVGMHA0TGpGaU5jblQ1WHpLQUVFSVdNM2JiYm5xWVlwYXE4amlBS2cyTE1rSHVkQzE5Q0pVWV8wMTJPTmJKRUlhcmQ1UDlKX2dwajBLb3owa0FKZjV6OVFMelNlZnctNldsQVYxcU45d2FhMkVnRFN3b2F3VGgzZ3BybGI?oc=5" target="_blank">Airlines in ‘stand-off’ over price cuts as jet fuel costs ease</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China investment slump deepens as economy shows signs of weakness - Financial Times
+## Short sellers reap $2bn profit as modular nuclear reactor stocks tumble - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklkMXNucEsyX2F4LXRCZENEdDRtRDRmX2RKbXVpdEtDVHlBT2dDMng4aktwelZmSzRIRUJ0UGszLWh6WDZpOHlOVFlieXJmVE5HbTltVXVTdE13MjBBeUZqbGxDaXU3Tk5oWUs5NUhZbU9tSEJ1cTh6VkV2RmJtaFh4RlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXJhbzkzVWc2a0hDNDJnRzlidXFvOEZMSmFTUjJiZjJMWGljWnJUV1Jjc1JFU2lKcjV1cUN1Q0UzYkhyYUN2QjRUUmVEX0Yxb3NsWk9DN1p0d3JZelpqcE8wN2RtZkoteVJSMlM0QWlFY2VEejBTQjVXMVczRWJPdkVmN08?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklkMXNucEsyX2F4LXRCZENEdDRtRDRmX2RKbXVpdEtDVHlBT2dDMng4aktwelZmSzRIRUJ0UGszLWh6WDZpOHlOVFlieXJmVE5HbTltVXVTdE13MjBBeUZqbGxDaXU3Tk5oWUs5NUhZbU9tSEJ1cTh6VkV2RmJtaFh4RlE?oc=5" target="_blank">China investment slump deepens as economy shows signs of weakness</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXJhbzkzVWc2a0hDNDJnRzlidXFvOEZMSmFTUjJiZjJMWGljWnJUV1Jjc1JFU2lKcjV1cUN1Q0UzYkhyYUN2QjRUUmVEX0Yxb3NsWk9DN1p0d3JZelpqcE8wN2RtZkoteVJSMlM0QWlFY2VEejBTQjVXMVczRWJPdkVmN08?oc=5" target="_blank">Short sellers reap $2bn profit as modular nuclear reactor stocks tumble</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic revenue run rate tops $65 billion, source says - Reuters
+## Meta faces 29-state trial that could reshape Instagram and Facebook - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5" target="_blank">Anthropic revenue run rate tops $65 billion, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5" target="_blank">Meta faces 29-state trial that could reshape Instagram and Facebook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports - Reuters
+## Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21MRUdqUU83d3Q0azhvSnhGTktWa0s5bV9zTEZrUHg1bUVDOVI4U2RVY0dSS2xuU0J6RjM3SDVuSFFQOWtkbVhnQzVHZFpndUVSdW1kR19xbGNRajNPeDNOZnBUNm0tcGNYVkQ3UEo2dkk5Q3Jja1ZKYUNKclZmRUQtZzNHc0Y2cjRSYWlFOWI0aV9PenpMQzBZeU5GX2VxWHE2VDJ1bnpkVUF5cWdzOHNXSFYyWmJtYW5rekszWTA1dUtlTks0WmtNcGlQQUpLTkFuT2FoMjBxS0JuclE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21MRUdqUU83d3Q0azhvSnhGTktWa0s5bV9zTEZrUHg1bUVDOVI4U2RVY0dSS2xuU0J6RjM3SDVuSFFQOWtkbVhnQzVHZFpndUVSdW1kR19xbGNRajNPeDNOZnBUNm0tcGNYVkQ3UEo2dkk5Q3Jja1ZKYUNKclZmRUQtZzNHc0Y2cjRSYWlFOWI0aV9PenpMQzBZeU5GX2VxWHE2VDJ1bnpkVUF5cWdzOHNXSFYyWmJtYW5rekszWTA1dUtlTks0WmtNcGlQQUpLTkFuT2FoMjBxS0JuclE?oc=5" target="_blank">Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5" target="_blank">Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters
+## EXCLUSIVE: Saudi Arabia tightens anti-crime oversight on UAE-bound bank transfers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3FiMTFmdzZfN3RFSlRJQUtGcGhwaDFXN1ZMNDh4dzNtUV9jY2YxbzJmSFBvNmhuOGtNbHc3c09WcWt6LVhoaXZTdzFFSUlQVEpZS3MyMWU5NnZYUXBzRU81X294d2lFQ3VqWWJ4SFlzanZ5Q1h5c0Fwck41aXEycnRMX1ZKRUdQNk5iSEFFMUVud3VEaFlXcFFSekdvOHlSU1NJeHdfY1Bic2tmWUt1NWhJMFd2c2haUy13V3R3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5" target="_blank">EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3FiMTFmdzZfN3RFSlRJQUtGcGhwaDFXN1ZMNDh4dzNtUV9jY2YxbzJmSFBvNmhuOGtNbHc3c09WcWt6LVhoaXZTdzFFSUlQVEpZS3MyMWU5NnZYUXBzRU81X294d2lFQ3VqWWJ4SFlzanZ5Q1h5c0Fwck41aXEycnRMX1ZKRUdQNk5iSEFFMUVud3VEaFlXcFFSekdvOHlSU1NJeHdfY1Bic2tmWUt1NWhJMFd2c2haUy13V3R3?oc=5" target="_blank">EXCLUSIVE: Saudi Arabia tightens anti-crime oversight on UAE-bound bank transfers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trading Day: Bonds play the blues - Reuters
+## As US debt mounts, investors demand higher returns to lend - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXNRN1VmWC1UTGNBUE1saC05QmZnU1U2bEYybmhOWXdvQmVYNDJKazBydkdIYzhiWkREVTBjZjE0UVI1MUpndzJWOXY4YmxBY3NhdDk3S2hoS0VONENZck9MQlBOem01SWFHYklDV0tfZ0p1SVJrNFpqR1pBXzJ6VWdia3ZpYlB5UW05Z2Q2NzBUYVFLZXJLR2NHNEY3MnFvTXVQVkRB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXNRN1VmWC1UTGNBUE1saC05QmZnU1U2bEYybmhOWXdvQmVYNDJKazBydkdIYzhiWkREVTBjZjE0UVI1MUpndzJWOXY4YmxBY3NhdDk3S2hoS0VONENZck9MQlBOem01SWFHYklDV0tfZ0p1SVJrNFpqR1pBXzJ6VWdia3ZpYlB5UW05Z2Q2NzBUYVFLZXJLR2NHNEY3MnFvTXVQVkRB?oc=5" target="_blank">Trading Day: Bonds play the blues</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5" target="_blank">As US debt mounts, investors demand higher returns to lend</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US diesel crack surpasses $100 a barrel for the first time on supply disruptions - Reuters
+## China's Pony.ai plans to deploy more than 4,000 robotaxis abroad - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUZLRVdHWnB1NFFOenZ4SHRKYmljRV9HWE9OTFMzSlBmaXNlNnFaQVNpclJjRXFCQ3V4LWxuTThwaHROd0NmeU5yc1l1QTQtOEVUNGYyX1lTM0dueHZkVGE0Y3lqbUk5QzR4d3NQZzhkcjdvWlhmMEpGd3BsRFJwd2EwMXhtWUV2a0RCMkFKei1hRUwzOGlndnlDcjBJOVlNQ19fTXJLMTBVLVVMMml4UjA2VHdQUWx5d3dtLVFxc1drc3VSVG14cGJQLXRXa2s?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5" target="_blank">US diesel crack surpasses $100 a barrel for the first time on supply disruptions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUZLRVdHWnB1NFFOenZ4SHRKYmljRV9HWE9OTFMzSlBmaXNlNnFaQVNpclJjRXFCQ3V4LWxuTThwaHROd0NmeU5yc1l1QTQtOEVUNGYyX1lTM0dueHZkVGE0Y3lqbUk5QzR4d3NQZzhkcjdvWlhmMEpGd3BsRFJwd2EwMXhtWUV2a0RCMkFKei1hRUwzOGlndnlDcjBJOVlNQ19fTXJLMTBVLVVMMml4UjA2VHdQUWx5d3dtLVFxc1drc3VSVG14cGJQLXRXa2s?oc=5" target="_blank">China's Pony.ai plans to deploy more than 4,000 robotaxis abroad</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
