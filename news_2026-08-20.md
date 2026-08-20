@@ -1,47 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-08-20 01:35:51
+更新时间：2026-08-20 12:58:44
 
-## Japan Bond Yields Slide as US Treasury Buybacks Ease Pressure
+## Walmart Posts Slowest US Sales Growth in Six Years
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-19/japan-s-20-year-bond-auction-faces-test-as-global-yields-surge
+链接：https://www.bloomberg.com/news/videos/2026-08-20/walmart-posts-slowest-us-sales-growth-in-six-years-video
 
 正文长度：0
 
-摘要：Japan’s longer-term government bond yields declined on Thursday, tracking moves in Treasuries after the US Treasury said it’s increasing debt buybacks to curb rising long-term borrowing costs.
+摘要：Walmart saw second-quarter sales at US stores open at least a year, excluding fuel, rise 2.6%, the retailer’s slowest rate of growth in more than six years. David Bellinger, senior equity analyst at Mizuho examines the results. (Source: Bloomberg)
 
 
 ---
 
-## JPMorgan Team Sees Credibility Risk in Treasury’s Bond Buybacks
+## US 30-Year Bonds Erase Gains From Treasury’s Buyback Surprise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-20/jpmorgan-team-sees-credibility-risk-in-treasury-s-bond-buybacks
+链接：https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump
 
 正文长度：0
 
-摘要：JPMorgan Chase &amp; Co. strategists warned that markets may view the US Treasury’s surprise effort to curb long-term borrowing costs as lacking credibility, potentially pushing up the term premium and yields over time.
+摘要：US bonds unwound all of the gains that followed Treasury Secretary Scott Bessent’s plan to increase buybacks of longer-dated debt, a sign that investors see it as only a short-lived remedy to curb borrowing costs.
 
 
 ---
 
-## US-Canada Trade Draft Piles Pressure on Mexico to Match Terms
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-20/us-canada-trade-draft-piles-pressure-on-mexico-to-match-terms
-
-正文长度：0
-
-摘要：Canada’s preliminary trade deal with the US caught Mexican officials and business leaders off guard. Now, Mexico wants one of its own, as questions grow over whether months of painstaking engagement can deliver comparable tariff relief from President Donald Trump.
-
-
----
-
-## Asian Stocks and Bonds Rise After Treasuries Rally: Markets Wrap
+## Stocks Fall, Treasury Rally Unravels as Oil Climbs: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +36,192 @@
 
 正文长度：0
 
-摘要：Asian stocks and bonds gained as US plans to buy back longer-dated Treasuries to curb borrowing costs buoyed sentiment. The dollar steadied after sliding to a three-month low.
+摘要：Long-dated Treasuries gave up their gains and US stock futures fell as rising oil prices put inflation risks back on investors’ radar. Walmart Inc. tumbled 6%.
 
 
 ---
 
-## CK Hutchison Seeks $1.5 Billion for Loss of Panama Assets
+## US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets
+链接：https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps
 
 正文长度：0
 
-摘要：CK Hutchison Holdings Ltd. commenced international arbitration proceedings against Panama, seeking more than $1.5 billion in damages over the loss of its investments in two ports on the country’s strategic canal.
+摘要：US stock futures were lower ahead of the market open on Thursday as a rally in government bond sputtered, sending yields higher, and oil prices rose. Walmart Inc.’s earnings disappointed, pressuring shares of the retail giant and peers.
+
+
+---
+
+## PGA of America's New CEO Is Bullish on Golf in Texas
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-08-20/pga-of-america-s-new-ceo-is-bullish-on-golf-in-texas
+
+正文长度：0
+
+摘要：Terry Clark, chief executive officer PGA of America, talks about the 2027 PGA Championship tournament in suburban Dallas, the growth of golf and planning for the next Ryder Cup competition. He speaks with Bloomberg's Julie Fine. (Source: Bloomberg)
+
+
+---
+
+## How wealthy families can prepare for aging parents and avoid a succession crisis
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html
+
+正文长度：8073
+
+摘要：Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Battles over aging parents and their fortunes are becoming increasingly common in wealthy families, with some requiring cognitive assessments for those leading family businesses.
+While many families focus on the tax or financial components of wealth transfers, fewer are addressing the question of when an aging parent should give up control, wealth advisors and lawyers told CNBC. Waiting until a parent's cognitive decline is apparent can leave families scrambling over who controls their fortune.
+"Look, most of the matriarchs and patriarchs who create family wealth are strong personalities, right?" said trust and probate attorney Scott Rahn. "They've done great things, they've created this wealth, they've created dynasties. Now you're coming face to face with the reality that despite all of their accomplishments, they're human. That can just be emotionally difficult for families."
+Rahn said delaying a transition process can come at a steep cost. His law firm, RMO LLP, specializes in inheritance disputes among ultrawealthy families. He said these types of conflicts have become more common as families grow richer and people live longer, which comes with higher chances of a family member developing conditions like Alzheimer's disease.
+Family businesses can build in legal safeguards, such as mandatory retirement ages or mental capacity evaluations, according to Rahn. But how families talk about succession can matter as much as the legal language, he said.
+"Whatever that mandatory retirement clause may be, it has to be part of a fulsome discussion around family wealth — what it means culturally to the family," he said.
+Here are four tips to make it easier for parents to pass on the reins:
+1. Talk about it earlier rather than later.
+The biggest mistake that families make is waiting for a crisis like a stroke or a disagreement to discuss succession, according to Mallory Findley of Rockefeller Capital Management. By then, emotions are running high and sometimes trust is already broken, she said.
+"The better approach is to begin while everyone is capable of participating really thoughtfully — as we like to say — while they're happy and healthy and here," said Findley, the firm's head of family dynamics and financial education.
+She said meaningful life events, like selling the family business or a birth in the family, make for natural points to evaluate future plans.
+It's easier to have these weighty conversations if the family talks regularly, said BJ Goergen Maloney, global head of J.P. Morgan Private Advisory.
+"If you don't have a cadence of talking about things, even if it's a couple of times a year, it's really hard to have those conversations," she said.
+Families can build their muscle memory, as she puts it, with casual gatherings, Maloney added.
+"People like to think of a family meeting for a very wealthy family as very formal, but a family meeting can be dinner on Sunday night," she said. "It doesn't have to be complicated. It's really about creating a place where you can talk about things and be transparent and solicit other people's opinions."
+2. The transition should be gradual.
+While families should seek a health evaluation sooner rather than later if they see signs of cognitive decline or dementia in a matriarch or patriarch, the succession process shouldn't be rushed, advisors told CNBC.
+Cognitive decline is usually a gradual process, and aging adults' needs can change over time, noted Valerie Galinskaya, head of the Merrill Center for Family Wealth. Handing over family affairs should not resemble flipping a light switch, she said.
+For instance, when a client expressed concerns that his mother, who managed multiple properties, was no longer as sharp as she used to be, Galinskaya said she framed the conversation as financial planning for the entire family. Rather than focusing on the mom's faculties, the advisor asked how each family member viewed success across different time horizons.
+"We reframe it as not taking reins away but asking who is the right individual holding reins for individual decisions at hand," she said.
+Adult children's efforts to claim control can backfire if they act too quickly or second-guess their parents' decisions, according to Dan Griffith, director of wealth strategy at Huntington Bank.
+"One of the sad scenarios I've seen is that you've got overbearing kids who drive their parents away. When they do that, they're driving their parents into the arms of somebody who potentially could take advantage of them," he said.
+3. Treat the wealth creator with respect.
+Tact is everything, according to Mark Parthemer, chief wealth strategist of Glenmede.
+"This individual — for whatever role that we're talking about getting them out of, whether it's driving the car, running the company, or being the trustee of the trust — a lot of their self identity is invested in that role, right?" he said. "They've been the key person. They've been the person everyone relies on, and so we should be delicate about removing them from that role."
+There are ways to make a transition feel empowering, Parthemer said, noting one family he advised chose to "promote" the patriarch from president of the company to chairman of the board.
+"That was a real-life situation where we were trying to allow dad to remain in a position where he felt important, needed and valued," he said. "Even though he couldn't do the multi-step business dealings, he could have done before, he was still able to attend strategy meetings and weigh in."
+Sometimes it's not possible for a parent to stay involved in the family business. Findley recommended that families in that situation discuss and acknowledge the other ways they contribute, which can make handing over financial control feel less like something is being taken away and more like a natural shift in responsibilities.
+"Our process is really to help families recognize that every family member brings value beyond financial contribution," she said. "So for the senior generation, oftentimes that looks like wisdom, family history, emotional steadiness, mentorship, or even just the ability to keep people in the family really connected."
+4. Get the family on the same page.
+When siblings are involved, it's rare for all the adult children to be on the same page, according to Galinskaya. It's common for one child to live closer to a parent and be aware of a parent's declining health while their siblings may be disengaged or in denial, she said.
+It's important to have a consensus among the siblings before broaching these subjects with a parent, she said. While some advisors prefer in-person meetings in family homes, Galinskaya said she prefers a neutral space like an office. She also said virtual meetings can be surprisingly helpful.
+"If there is a family member who takes up a lot of the airtime, Zoom is actually a good way," she said. "Everyone is a rectangle."
+She recommends setting ground rules, such as not allowing spouses or partners to participate. To prepare, Galinskaya has clients fill out pre-meeting questionnaires, which are kept confidential, about their objectives and concerns. Often family members admit to feeling judged for how they spend their money or resentful of how finances are used as a means of control, she said.
+As for meetings with the senior and next generations, the goal isn't to get everyone to agree but to clear the air, said Rick Pitcairn, chief global strategist at Pitcairn.
+"In my view, families, the succeeding generations of family members, they don't always have to agree with the decisions, but if they understand why they were made, and the person says this is why I made this decision, they're pretty accepting of those decisions," he said. "If they don't, then they start to accuse people of things that they probably didn't do, and there's mistrust and dysfunction."
+
+</details>
+
+
+---
+
+## Where commercial real estate demand is the highest, according to new data
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html
+
+正文长度：3191
+
+摘要：The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
+South Carolina ranks highest among all U.S. states in future potential demand for commercial real estate. That is the finding of a new index from the National Association of Realtors, which aims to be a crystal ball for commercial real estate investors. It uses factors in local economies to indicate future demand.
+The index looks at more than 300 metropolitan markets, with separate measures for the office, industrial, retail and multifamily sectors, and measures the economic conditions of each region. The Realtors use government data from the Bureau of Labor Statistics and the Census Bureau for population and migration, which it says informs the rankings.
+For the office sector, specifically, the index looks at growth in professional and business services employment. For industrial, it's manufacturing, transportation and warehousing employment growth. For retail, the NAR measures growth in retail trade as well as leisure and hospitality employment. In the multifamily sector, it incorporates population growth and net migration, both domestic and international. All of that gets combined into a single index.
+"It doesn't say, 'OK, go there and just buy property,' but it says … where the data shows that the momentum is building, the demand is building," said Nadia Evangelou, principal economist and director of real estate research at NAR.
+It also compares these markets to 2022, the peak of the pandemic migration boom. Raleigh, North Carolina, is the only major U.S. market that is stronger today than it was then, according to the index. Formerly superhot markets like Austin, Miami and Naples, Florida, have all declined markedly since 2022.
+The strongest metropolitan market in the index is St. George, Utah, with the strongest office employment growth in the nation.
+"It also has very strong population growth and in-migration, and its industrial demand is above average," Evangelou said. "So St. George, for example, is the No. 1, because one industry happened to have a good year, so there is a broader momentum over there."
+While other indices focus on the largest metropolitan markets, Evangelou said small and mid-sized markets could provide some of the best opportunities for investors. She cited Fayetteville, Arkansas; Huntsville, Alabama; and Spartanburg, South Carolina. Fayetteville is seeing broad-based growth, while Huntsville has one of the strongest multifamily scores in the nation, she said.
+The index also breaks down where each of the four sectors is seeing the strongest demand. For example, Salem, Oregon, and Fairbanks, Alaska, are ranked highest for industrial.
+"When we take a look at New York, San Francisco and the big coastal markets, we see that the large markets are still generally weaker than the fast-growing Sunbelt and smaller markets in this index," said Evangelou.
+
+</details>
+
+
+---
+
+## Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html
+
+正文长度：4674
+
+摘要：Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Walmart on Thursday posted quarterly sales that beat Wall Street estimates and raised its outlook for the year, as it saw another strong quarter of e-commerce growth and benefited from tariff refunds.
+"Our business is strong," CFO John David Rainey told CNBC. "We feel really good about the progress we're making."
+The retailer said revenue rose 5.9% in its fiscal second quarter as e-commerce sales jumped 23% globally. Walmart also said U.S. comparable sales grew 2.6%, offset in part by a 0.8% headwind in its health and wellness business as price caps on certain drugs took effect. That was less than the 3.5% increase Wall Street expected, according to FactSet.
+Shares of Walmart sank roughly 6% in premarket trading Thursday.
+For the third quarter, Walmart said it expects net sales to increase between 3% and 3.75% and adjusted earnings per share to be between 62 cents and 64 cents.
+The retailer expects net sales to increase between 4% and 5% for the year, compared with a previous outlook of between 3.5% and 4.5% growth. Walmart also anticipates adjusted earnings will be between $2.80 and $2.87 per share, compared with the prior guidance of between $2.75 and $2.85 per share.
+Rainey told CNBC the company was eligible to receive roughly $2.9 billion in tariff refunds, and it has not yet gotten back less than $100 million of that total. Rainey said the company plans to use those funds to lower prices for consumers, and that impact will be seen in the third quarter.
+He added that Walmart also expects to incur just over $2 billion of "incremental cost headwinds related to higher fuel prices this year."
+Programming note: Walmart CFO John David Rainey will speak to CNBC's "Squawk on the Street" at 10 a.m. ET. Watch live on CNBC and CNBC+.
+Walmart's efforts to lower prices come as many shoppers have cut back on spending as they feel a strain from high fuel and food costs. The company is typically well positioned to weather pullbacks due to its value reputation and its scale as the largest U.S. retailer.
+Rainey said Walmart continues to see consumers stretched thin, especially with higher gas prices. It's lowering prices across categories, including beef, he added.
+"But consumers are still spending, and real wage growth is keeping pace, and so they've been very resilient in this environment," Rainey told CNBC. "But all that said, we would love to be able to bring prices down more and see less pressure on their wallets."
+Here's how the company performed in its fiscal second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 81 cents adjusted, it was not immediately clear if it compared to the 74 cents expected
+- Revenue: $187.94 billion vs. $186.77 billion expected
+For the three-month period ending July 31, Walmart reported net income of $6.37 billion, or 80 cents per share, compared to $7.03 billion, or 88 cents per share, in the year-ago period. Excluding the impact of a loss on investments and including a benefit from what it called a tax matter, Walmart reported adjusted earnings per share of 81 cents. The company's gross profit rate grew to 25.4%, boosted by the tariff refund benefit.
+Total revenue climbed to $187.94 billion from $177.40 billion in the prior-year period.
+The results come as Walmart posts a stretch of solid growth, fueled by gains in segments like pickup and delivery, its third-party marketplace and advertising. The discounter has gained market share with higher-income customers in recent years as it tries to make shopping more convenient and adds perks to its Walmart+ membership, an Amazon Prime competitor.
+Walmart said companywide membership fee revenue jumped 17%, with net adds for Walmart+ hitting a high for a second quarter. Sam's Club U.S. saw net sales of $25.7 billion for the quarter, up 8.8% from the previous year, as membership fees climbed 6%.
+Meanwhile, Walmart said its global advertising revenue climbed 38%.
+In the U.S., Walmart reported net sales of $125.2 billion compared to $120.9 billion the year prior. Internationally, the company saw $35.2 billion in net sales, compared with $31.2 billion last year. It said its global inventory was up 6.7% for the quarter.
+Rainey said a significant portion of that inventory was related to more expensive and elevated brands as Walmart saw the biggest component of its market share gains coming from the high-income consumer.
+While its grocery segment saw mid-single digit percentage point growth, health and wellness saw a low single-digit decline for the quarter. General merchandise revenue was up slightly due to strength in toys and fashion, furniture and private label.
+
+</details>
+
+
+---
+
+## Hyundai's new flagship vehicle is a large luxury Genesis EV
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html
+
+正文长度：2816
+
+摘要：The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> SAN FRANCISCO — Hyundai Motor's newest luxury flagship vehicle is an all-electric large SUV called the Genesis GV90.
+The up to seven-seat EV features a new design direction for Genesis and expands the luxury brand's lineup to seven vehicles in the U.S., as Hyundai continues to grow its sales domestically.
+The Genesis GV90 is the largest vehicle the brand has offered since entering the U.S. market a decade ago. It's expected to compete against the Cadillac Vistiq and Escalade IQ, Mercedes-Benz EQS SUV and Rivian R1S in the large SUV segment.
+"Today marks a landmark arrival for Genesis and for the future of luxury mobility," Hyundai CEO José Muñoz said in a statement. "GV90 opens a new chapter for Genesis, building on our track record of bold innovation, elevated customer experiences, and an unwavering commitment to excellence."
+The GV90 will be produced at a new Hyundai facility in Ulsan, South Korea. It is expected to go on sale in the U.S. early next year. The company said pricing for the vehicle, which marks its fourth EV in the U.S, will be disclosed closer to the vehicle's arrival.
+Genesis declined to say whether the GV90 also could be offered as a hybrid or gas-powered vehicle, which it has done with other nameplate like its GV70 SUV and G80 sedan. EV sales in the U.S. have slowed during the past year with the end of federal support by the Trump administration, including up to $7,500 to purchase an EV.
+The vehicle will be available in two variants: the GV90 Neolun, which includes coach doors that open from the middle of the vehicles, or standard GV90 trims with conventional swing doors. A "First Edition" of the vehicle with special badging, wool cashmere and other plush materials also will be available.
+The coach doors — also known as suicide doors — are uncommon in the automotive industry. They make entry and egress much easier but are harder to engineer to meet safety standards, which Genesis said it has done.
+"Safety remains paramount in the GV90 Neolun, despite the absence of a [middle] pillar. Genesis engineered a new structure that seamlessly marries the doors to the vehicle body while maintaining the highest safety standards," the company said.
+The automaker said the GV90 features a new high-performance electric motor system capable of up to 490 kilowatts (about 660 horsepower) and 800 Newton-meters (590 foot-pounds) of torque. It will have an expected EV range of roughly 310 miles, according to the company.
+The design, which features a vehicle-wide dual light that meets at a point in the center, was previously previewed as a concept vehicle by the brand in 2024.
+Genesis' U.S. sales through the first six months of this year are up roughly 5% from a year earlier, to 39,088 units. The brand has achieved 22 consecutive months of year-over-year sales growth.
+
+</details>
 
 
 ---
@@ -107,271 +266,132 @@ Target's stock is up more than 55% this year.
 
 ---
 
-## Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html
-
-正文长度：4051
-
-摘要：Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Lowe's on Wednesday reported mixed quarterly results as the home improvement retailer said it saw "pressure" in spending on projects.
-Though the company did not cut its full-year guidance, it updated its outlook to the bottom end of its prior guidance. It now expects total sales of $92 billion, compared with $92 billion to $94 billion previously, and comparable sales to be flat, versus flat to up 2%. It expects adjusted earnings per share for the year of $12.25, versus $12.25 to $12.75 previously.
-CEO Marvin Ellison told CNBC that he expects to see homeowners watch their wallets for the rest of the year.
-"The good news is that we're not seeing these customers trade down," Ellison said. "They're just kind of on the sidelines, and so we're just anticipating this customer is going to remain cautious in the second half of the year."
-He added that Lowe's expects the housing market "is going to gradually recover."
-Shares of Lowe's rose roughly 2% on Wednesday despite the cautious outlook.
-Here's how the company performed in its fiscal second quarter compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
-- Earnings per share: $4.40 adjusted vs. $4.22 expected
-- Revenue: $25.96 billion vs. $26.16 billion expected
-For the quarter ended July 31, Lowe's reported net income of $2.4 billion, or $4.27 per share, roughly the same as the year-ago period. Excluding one-time factors and including tariff refund benefits, the company reported adjusted earnings of $4.40 per share.
-Lowe's also said tariff refunds provided an 11-cent boost to its earnings per share this quarter. Ellison told CNBC the company received roughly $80 million in tariff refunds for the quarter.
-The company reported total sales of $25.96 billion for the quarter, up from $23.96 billion the year prior. Comparable sales rose 0.2%, due in part to strong performance in its pro and home services sales, according to Lowe's.
-Lowe's also saw a 15.7% increase in online sales, though it added that performance was partially offset by macroeconomic pressures for the do-it-yourself customers.
-"We're really pleased to deliver our fifth consecutive quarter of positive sales comps with strong performance in pro, online and home services, which is our home installation businesses, and just the continued momentum in our total home strategy," Ellison told CNBC.
-Ellison said on a call with analysts that the company saw "heightened competitive pressures" in July, but added that Lowe's is committed to providing value, innovation and differentiation to beat its competitors.
-He emphasized that Lowe's does not believe the July impact is "the new normal" and is instead "transitory."
-"We think it's the result of competitors having tariff refund dollars and looking for different ways to use those dollars to drive the top line, and so we don't see this as something that's going to shift historically," Ellison said on the call.
-Ellison told CNBC that Lowe's did not follow the trend of competitors using tariff dollars to help lower prices because the company did not find it "prudent" to do so.
-"We feel strongly that we want to deliver strong profitability for our shareholders and and make sure that we don't follow any aggressive pricing action," he said.
-Ellison added that as the company moves into the second half of the year and receives its tariff refunds, Lowe's will "think first about how we're going to share those with the customer."
-The earnings come as the home improvement retailer grapples with a slower housing market and a more cautious consumer.
-Lowe's rival Home Depot said in its earnings report on Tuesday that the company did not see customers returning to big projects and continues to operate in "frozen housing market conditions."
-Ellison told CNBC that the company needs to see its DIY customers have more confidence with discretionary spending before it can raise its outlook.
-"I make it more about that, less about interest rates, or less about housing turnover – we have no control over those things," he said.
-
-</details>
-
-
----
-
-## Hims & Hers CEO says FTC lawsuit misunderstands how the company works
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html
-
-正文长度：3023
-
-摘要：Hims & Hers CEO Andrew Dudum spoke to CNBC about the FTC's lawsuit against the company, compounded GLP-1 drugs and AI.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Hims & Hers CEO Andrew Dudum defended the telehealth company amid a Federal Trade Commission lawsuit over its data sharing practices.
-In a wide-ranging exclusive interview aired Tuesday, Dudum contended the allegations stemmed from a misunderstanding of how the company is altering healthcare.
-"I can't say much other than the fact that, you know when you're changing the fundamental understanding of how a traditional system like healthcare works, and you're rebuilding it in the digital ecosystem," he told Andrew Ross Sorkin on CNBC's "Squawk Box." "I think it takes time for people to understand how to do that the right way, and we've worked for many years with the FTC to walk them through that. And I think ultimately they wanted more of a headline than than a real agreement here."
-In July, the FTC, Los Angeles County and Utah filed a lawsuit against Hims & Hers. It accused the company of sharing user health information with advertisers like Meta and Snap, charging for prescriptions before customers have spoken with a healthcare provider and making it hard to cancel subscriptions.
-Dudum defended the telehealth provider's business model, saying it is built around increasing access to care.
-"We are active disruptors. We take that head on, and we're willing to do it. But it is always when we believe that it's in the best interest of people and their access," said Dudum.
-The Hims & Hers CEO also weighed in on the company's transition from compounded to branded GLP-1 drugs. When popular obesity and weight loss drugs were in shortage in recent years, the company could legally sell copycat versions at a discount.
-After supply recovered, Novo Nordisk sued Hims & Hers for patent infringement. In March, the Danish drugmaker dropped its suit and the telehealth company agreed to sell Novo's branded drugs on its platform.
-That decision came at a time when Novo and its main rival Eli Lilly were cutting the prices of their GLP-1 drugs for patients paying out of pocket.
-"Ultimately, we will always apply pressure to the system if we believe it's best for the consumer. And when we were compounding the GLP-1s, there was no affordable access to these therapeutics," said Dudum. "Now, what that did in the ecosystem is it showed consumers and the drug companies these medications can be brought to consumers at a price that everyone can afford."
-Dudum said he ultimately sees prices for cash-paying patients dropping to $40 to $50 per month, from roughly $150 to $200 now, depending on the form of the medication.
-Dudum also said he believes artificial intelligence will dramatically transform healthcare, and the company is increasing its investments to ultimately go "AI native." Dudum said Hims & Hers is moving away from third-party AI agents to build everything in house.
-"The core foundational models, independent of a closed loop data set, are not that valuable. That's my honest opinion," said Dudum. "The closed loop data that you have within a healthcare system like Hims & Hers, that is the asset."
-
-</details>
-
-
----
-
-## Disney-owned ABC files First Amendment lawsuit against FCC
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html
-
-正文长度：3594
-
-摘要：Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a "retaliatory campaign" due to its programming.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Disney's ABC has filed a First Amendment lawsuit against the Federal Communications Commission, calling the government agency's recent investigation into the company a "retaliatory campaign" due to the nature of its programming, which has been critical of President Donald Trump.
-The broadcast network filed the lawsuit on Tuesday in U.S. District Court for the District of Columbia.
-It comes months after the FCC launched an early renewal of a set of ABC's broadcast station licenses, citing concerns around the company's diversity, equity and inclusion efforts.
-However, that early review process came shortly after renewed political backlash against ABC following comments made by TV host Jimmy Kimmel on his late-night show, which airs on the broadcast network. ABC has also faced criticism from the government around its daytime talk show, "The View."
-ABC's lawsuit calls for the FCC to halt its early broadcast renewal proceedings.
-An FCC spokesperson said in a statement Tuesday the government entity was working in the public interest.
-"Disney is obviously very concerned about the FCC's proceeding, as evidenced by their ongoing campaign of disinformation as well as their decision to ask a court to stop the FCC from further pursuing matters. The FCC will continue to follow the facts and law wherever they lead," the statement said.
-The agency launched its review of ABC licenses in April, years ahead of their scheduled expiration. ABC shot back in May, saying in filings that it was submitting the applications "under protest in response to an unlawful, arbitrary, and unconstitutional order" from the FCC.
-FCC Chairman Brendan Carr told CNBC at the time that the agency's focus was on Disney's DEI practices and that the early license renewal was not tied to First Amendment matters.
-Carr was appointed by Trump to lead the federal entity meant to regulate the media and telecommunications industry. It began its investigation into Disney's stations last year for possible violations of the Communications Act of 1934 and the FCC's rules regarding its prohibition on unlawful discrimination.
-On Tuesday, ABC said it "continues to face irreparable harm" from the administration, which "has been acting" through the FCC.
-Last week, Disney CEO Josh D'Amaro doubled down on the company's position in a CNBC interview.
-"I think you saw in our FCC filings our position on this is clear," D'Amaro told CNBC's Julia Boorstin at the time. "We're very principled on this. We're going to stand up to what we believe is journalistic and integrity, and we're not going to be told how to run that side of our business."
-D'Amaro took over as CEO in March from longtime Disney chief Bob Iger.
-Last week, Iger agreed to purchase a majority stake in the NBA's Los Angeles Lakers alongside Joshua Kushner, founder of Thrive Capital and brother of Jared Kushner, who is married to Trump's daughter Ivanka.
-FCC Commissioner Anna Gomez — the sole Democrat on the commission and who has opposed its actions against ABC thus far — issued a statement on Tuesday in support of ABC's move to sue the FCC.
-"For months, the FCC has waged a campaign of censorship and control against Disney's ABC stations, using the threat of broadcast license revocations to punish a company for speech this administration doesn't like," Gomez said. "I have long called on companies to push back against this kind of government intimidation, and I'm glad Disney has shown courage and stepped up. This should be a welcome sign for every broadcaster who has felt the weight of this overreaching government pressure in silence."
-
-</details>
-
-
----
-
-## American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html
-
-正文长度：2382
-
-摘要：American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Airlines is finally giving a green light to seatback screens as the carrier works to close a profit gap with rivals Delta Air Lines and United Airlines. But customers will have to wait a little while.
-The new screens, which will feature 4K displays, will start appearing with new deliveries from Boeing and Airbus in 2028. The airline will also retrofit aircraft so passengers in all cabins will be able to use the screens and other additions like Bluetooth audio pairing and USB-C charging.
-American has been "seriously considering" the technology, along with a major cabin revamp, for months. The company had long eschewed seatback screens, with executives contending that it wasn't worth the cost of equipment and weight they added to the aircraft and saying they expected flyers to use their own devices for entertainment.
-"The technology has advanced so much from when we made this decision more than a decade ago," Chief Customer Officer Heather Garboden said in an interview. "Ultimately, when you have customer preference and customer satisfaction improvements, that also generates revenue."
-She declined to say how much American is spending on the initiative but said the installations should be complete in the early 2030s.
-On Tuesday, American announced that its revamp will include more first-class seats on its Airbus A321neos and its Boeing 737 Max 10s, though deliveries of the latter are still several years away. American is also adding more extra legroom seats across its fleet.
-Those premium seats can be double the price of a coach ticket or more. For example, a round-trip ticket from New York's John F. Kennedy International Airport to Dallas Fort Worth International Airport was going for $447 in coach and $1,161 in first class.
-American CEO Robert Isom told CNBC in June that he and his team are working to close the profit gap with its large airline competitors, through more premium seats, plush lounges and improving the airline's network. He said American is also planning to refurbish its Boeing 787-8 Dreamliners with the carrier's new business-class suites, and add more of them. The carrier is also in the market for new wide-body planes and has been evaluating options from Boeing and Airbus.
-American reported a profit of $71 million for the second quarter, compared with United's $805 million and Delta's $1.6 billion in the same period.
-
-</details>
-
-
----
-
-## US government debt hits $40tn as borrowing rises at historic rate - ft.com
+## Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmJ5Y0xWdk1iUFZtVFNyWFVrQjBMbndSVTJfSll6NVBGOTRhNUNoaHhWcGM0Z281RVFxTjFqSWtYeFJPanluTVRaT3gyNHZHWHlTbm9mRlVyaWp3V2pzblNIdldDTGs3WWJpWURrWEhueHptMXdCOEN6Q1BvV1hueUhZMTI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmJ5Y0xWdk1iUFZtVFNyWFVrQjBMbndSVTJfSll6NVBGOTRhNUNoaHhWcGM0Z281RVFxTjFqSWtYeFJPanluTVRaT3gyNHZHWHlTbm9mRlVyaWp3V2pzblNIdldDTGs3WWJpWURrWEhueHptMXdCOEN6Q1BvV1hueUhZMTI?oc=5" target="_blank">US government debt hits $40tn as borrowing rises at historic rate</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5" target="_blank">Harold Hamm launches multibillion-dollar plan to drill Argentine shale</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Democratic socialist unexpectedly wins Florida primary - ft.com
+## North Korea launches missile barrage after dismissing Donald Trump’s overture - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1d4WGRSZXdndnBhNTF6ak5TODlYTzlzMnhEUXIzXzg0eDlGNDAtTVJNM2w5dFJadmRYazRtNGtzWWFwM0s5bm9UT2lUUFRIeC1lUFdWT1g3RG9WQmhUY1ZSVHU2bUxwdVdDRDVnQ19kR20xN0pvcnBVTU9iV1JKX1BHcms?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5WNzVYZFhJNVVDMllna2RZRnhaZWRpLXA4UGpkSE1qSUNhN3dqZElKRWlxYS1FbzNJcmNYM3NNWWhqSUhwOXZ1RzYyRno4eHNWRUhGV0IzZUlJazFrbl9pLWJ2dzN6czVpVDdadGQ3RERqVzhXRDY4RGhMZDZkbXFMbWU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1d4WGRSZXdndnBhNTF6ak5TODlYTzlzMnhEUXIzXzg0eDlGNDAtTVJNM2w5dFJadmRYazRtNGtzWWFwM0s5bm9UT2lUUFRIeC1lUFdWT1g3RG9WQmhUY1ZSVHU2bUxwdVdDRDVnQ19kR20xN0pvcnBVTU9iV1JKX1BHcms?oc=5" target="_blank">Democratic socialist unexpectedly wins Florida primary</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5WNzVYZFhJNVVDMllna2RZRnhaZWRpLXA4UGpkSE1qSUNhN3dqZElKRWlxYS1FbzNJcmNYM3NNWWhqSUhwOXZ1RzYyRno4eHNWRUhGV0IzZUlJazFrbl9pLWJ2dzN6czVpVDdadGQ3RERqVzhXRDY4RGhMZDZkbXFMbWU?oc=5" target="_blank">North Korea launches missile barrage after dismissing Donald Trump’s overture</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Charlesbank nears law firm deal as private equity pushes deeper into US legal sector - ft.com
+## Founder of collapsed Chinese property giant given life sentence - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEtYeVdkWG11ZWhaQmxWSHY4Y3pfZVoxQ19tel9uRWZ0X0t6enU1aFNBU2xYSmZKOUJuNDI0WmcxODJjejV6b1cxbXBMRlJzY09UWEc0VjNYZHI3eDczcWpUa0Ffa3lwakpVQm9QTWF6dFVnZkZrQWFPQWJJUjJ1YVZMTGg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVRyX3RGMjhwLVJkS1Jkc2dUWm5JYVhOcm9Za01FQjJ5UFk2anlIWjNFRjY4X2NfVzctWDh5NHpnMnNfVXpERXpzRVNGbW1meUFqQk0xdjVxTi1RVFNSSDNCYk1HSWs3dlJMS005WVN6bkFnSW8tVDNuR2ZiXzh5aFppX2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEtYeVdkWG11ZWhaQmxWSHY4Y3pfZVoxQ19tel9uRWZ0X0t6enU1aFNBU2xYSmZKOUJuNDI0WmcxODJjejV6b1cxbXBMRlJzY09UWEc0VjNYZHI3eDczcWpUa0Ffa3lwakpVQm9QTWF6dFVnZkZrQWFPQWJJUjJ1YVZMTGg?oc=5" target="_blank">Charlesbank nears law firm deal as private equity pushes deeper into US legal sector</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVRyX3RGMjhwLVJkS1Jkc2dUWm5JYVhOcm9Za01FQjJ5UFk2anlIWjNFRjY4X2NfVzctWDh5NHpnMnNfVXpERXpzRVNGbW1meUFqQk0xdjVxTi1RVFNSSDNCYk1HSWs3dlJMS005WVN6bkFnSW8tVDNuR2ZiXzh5aFppX2Y?oc=5" target="_blank">Founder of collapsed Chinese property giant given life sentence</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Moderna shares nearly triple on skin cancer vaccine success - ft.com
+## Donald Trump announces new drive to isolate and crush Iranian economy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWJYYzNKOEdmU29RTmRkM0ZOTEF1eEFVZW9BVUEwVWt6N3hKd2xNSFc0eGdRdmN2ZzJOOHA3ZFJrY0JoSzhKb2FIU01QTHdwM20xV2V4dXVGWGxDTndUbU43OUZwUTByX3pRQXlxWmVQcTZxcUVFdmc0dDJfYTVWb0ZtOG0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObU81VHlsZEdpenZRUkpVbThuWTg4N3p6Yks1bmY0azdwaTBxc1U4MkxvR2thX01xTmNNTTVzaE55WWJPRzdjWk1xZjlHM0pQT3dCN05wZ3RyQmJpampRNDNWSHktekx2akc4NkhEeks5UU9Dd3ZaWngtX3dBaUt0dDJZdmE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWJYYzNKOEdmU29RTmRkM0ZOTEF1eEFVZW9BVUEwVWt6N3hKd2xNSFc0eGdRdmN2ZzJOOHA3ZFJrY0JoSzhKb2FIU01QTHdwM20xV2V4dXVGWGxDTndUbU43OUZwUTByX3pRQXlxWmVQcTZxcUVFdmc0dDJfYTVWb0ZtOG0?oc=5" target="_blank">Moderna shares nearly triple on skin cancer vaccine success</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObU81VHlsZEdpenZRUkpVbThuWTg4N3p6Yks1bmY0azdwaTBxc1U4MkxvR2thX01xTmNNTTVzaE55WWJPRzdjWk1xZjlHM0pQT3dCN05wZ3RyQmJpampRNDNWSHktekx2akc4NkhEeks5UU9Dd3ZaWngtX3dBaUt0dDJZdmE?oc=5" target="_blank">Donald Trump announces new drive to isolate and crush Iranian economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Volodymyr Zelenskyy fires top aide as corruption allegations pile up - ft.com
+## Who is really buying China’s humanoid robots? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkRsMTlUd2U1d3lPYTZ4OHk4WkF6QjBTQlNDQjhWX1RIT3p6dmpUUFljNGczeHlLc2xYbFZfd1pKLU1RbHVYSUZCeU82cXdVUGIzbFh2QWNoNVpjNVNMZUhMWkVMNlE2Slc2aUx2QTBYZlU5YVZ6c01JdEpWbUJPWHcwTHo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2d2YVVlRE1idGpzRnBVaHJPY3NTdk1SVU8wZmlVVU05ZVEyQzZDVlRGcXJmdlJzNGZiOTlsS2JKLXdhVjZld1BlNzNhZWpMbjNKQmhJdHpBRGU3QmhNLTBnVVdNSHV1NW5DTEJpV0IyYloxZFdjZ0hMeGExOXdGZHQ0ejA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkRsMTlUd2U1d3lPYTZ4OHk4WkF6QjBTQlNDQjhWX1RIT3p6dmpUUFljNGczeHlLc2xYbFZfd1pKLU1RbHVYSUZCeU82cXdVUGIzbFh2QWNoNVpjNVNMZUhMWkVMNlE2Slc2aUx2QTBYZlU5YVZ6c01JdEpWbUJPWHcwTHo?oc=5" target="_blank">Volodymyr Zelenskyy fires top aide as corruption allegations pile up</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2d2YVVlRE1idGpzRnBVaHJPY3NTdk1SVU8wZmlVVU05ZVEyQzZDVlRGcXJmdlJzNGZiOTlsS2JKLXdhVjZld1BlNzNhZWpMbjNKQmhJdHpBRGU3QmhNLTBnVVdNSHV1NW5DTEJpV0IyYloxZFdjZ0hMeGExOXdGZHQ0ejA?oc=5" target="_blank">Who is really buying China’s humanoid robots?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Prince Harry and Meghan to move back to Britain, media reports say - Reuters
+## Bitcoin, crypto shares climb after Trump pushes Clarity Act - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5" target="_blank">Prince Harry and Meghan to move back to Britain, media reports say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5" target="_blank">Bitcoin, crypto shares climb after Trump pushes Clarity Act</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says - Reuters
+## Venezuelans and Cubans among deportees to Liberia under Trump deal, official says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXdrbkRyd3FOTF8wdXNGSkRHMWJmaEJBQUtmMDhBcnhiTHJ6bmpWRWV3LVREeGlkeC1BUFEzU2xGUmdIYVF4dXNLRmctcmtyZkMyVVJINm1GUE1yaXc4V1FzQmlNbktwVklkckZPQVV5S1kwejhDTzRLRjVQczFtRVVfSERnamVlaVFBSC13SDNfYkgwTFhtaUJ6dEdxOGlFaWJhOERncnVkWkttUV80SV80N2xOQW14WE1BRmNzaw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5" target="_blank">Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXdrbkRyd3FOTF8wdXNGSkRHMWJmaEJBQUtmMDhBcnhiTHJ6bmpWRWV3LVREeGlkeC1BUFEzU2xGUmdIYVF4dXNLRmctcmtyZkMyVVJINm1GUE1yaXc4V1FzQmlNbktwVklkckZPQVV5S1kwejhDTzRLRjVQczFtRVVfSERnamVlaVFBSC13SDNfYkgwTFhtaUJ6dEdxOGlFaWJhOERncnVkWkttUV80SV80N2xOQW14WE1BRmNzaw?oc=5" target="_blank">Venezuelans and Cubans among deportees to Liberia under Trump deal, official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters
+## EXCLUSIVE: More than 150 Polymarket wallets may have traded on military secrets, research finds - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHJQV2ZfV3M2MHJCRjFmeFZVbkh6bTR3OURqY2VYcmRVdjIzNG01dlg4bmRZcVhKakhZLWNXVjFJRHA1UTMxMWdvc3NIdW9xWVJEUjBudVZIT3ZfQkRNdXVqRFdIdHpEbDd3QXpmemNuT2pxU1o1UGtwOWZHS2R2QlBHakIwdmNGcHNVM2RyajRsdVRJX3V3WDk1RlpYSjVzQnMwNWRlWXQzU1NtUVozcmI1Um5CN3huTXZEdFUwckhfcU1BcWM2Uk1taE5vdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5" target="_blank">US debt crosses $40 trillion threshold after doubling under Trump and Biden</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHJQV2ZfV3M2MHJCRjFmeFZVbkh6bTR3OURqY2VYcmRVdjIzNG01dlg4bmRZcVhKakhZLWNXVjFJRHA1UTMxMWdvc3NIdW9xWVJEUjBudVZIT3ZfQkRNdXVqRFdIdHpEbDd3QXpmemNuT2pxU1o1UGtwOWZHS2R2QlBHakIwdmNGcHNVM2RyajRsdVRJX3V3WDk1RlpYSjVzQnMwNWRlWXQzU1NtUVozcmI1Um5CN3huTXZEdFUwckhfcU1BcWM2Uk1taE5vdw?oc=5" target="_blank">EXCLUSIVE: More than 150 Polymarket wallets may have traded on military secrets, research finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Moderna, Merck breakthrough could usher in wave of cancer vaccines - Reuters
+## Prince Harry and Meghan to move back to Britain - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXN6bjdJd2Y3Y2htcFBVT2tvVWJMMGFLRDJmUFRKMC1udGpBb1k5UC1HaVF3b0cwdW1uMWJpVVhxSWhaV19ZZ3pfRnMtZFdiQmJ0bURoYl8wZ2cyN0ctTDMwbFJkZmpSRzh1RDlMTzhqbE93MGI0TkxYaUJzNnp6c1owVjBoYnhobWU4MDBhSG5LRG1pdTBLQWxHQnY0T09HckhpMlJUVGtFS2IwS3pIYlZR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXN6bjdJd2Y3Y2htcFBVT2tvVWJMMGFLRDJmUFRKMC1udGpBb1k5UC1HaVF3b0cwdW1uMWJpVVhxSWhaV19ZZ3pfRnMtZFdiQmJ0bURoYl8wZ2cyN0ctTDMwbFJkZmpSRzh1RDlMTzhqbE93MGI0TkxYaUJzNnp6c1owVjBoYnhobWU4MDBhSG5LRG1pdTBLQWxHQnY0T09HckhpMlJUVGtFS2IwS3pIYlZR?oc=5" target="_blank">Moderna, Merck breakthrough could usher in wave of cancer vaccines</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5" target="_blank">Prince Harry and Meghan to move back to Britain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## UN's Guterres seriously concerned by US sanctions on ICC - Reuters
+## Gains in AI company stakes juice second-quarter earnings for S&P 500 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5" target="_blank">UN's Guterres seriously concerned by US sanctions on ICC</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5" target="_blank">Gains in AI company stakes juice second-quarter earnings for S&amp;P 500</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
