@@ -1,70 +1,143 @@
 # 每日财经新闻
 
-更新时间：2026-08-22 01:34:29
+更新时间：2026-08-22 12:49:29
 
-## Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel
+## Chinese AI Models Gain Ground on Price and Use
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel
+链接：https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video
 
 正文长度：0
 
-摘要：Mexico’s top trade negotiator expressed optimism he can secure less burdensome tariff terms from the US on Mexican automobile and steel exports, similar to revised measures Washington is discussing with Canada.
+摘要：Chinese AI models are rapidly narrowing the performance gap with US rivals while gaining users with lower prices and open-weight technology that lets companies deploy them locally. Bloomberg News Tech Reporter Luz Ding is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that Chinese AI Models capabilities are approaching leading US models at lower cost. (Source: Bloomberg)
 
 
 ---
 
-## Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis
+## Supreme Court Keeps Trump Ballroom Work Going
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video
+链接：https://www.bloomberg.com/news/videos/2026-08-22/supreme-court-keeps-trump-ballroom-work-going-video
 
 正文长度：0
 
-摘要：This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a “Plan B” for AI implementation. And, AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in exposed occupations.
-Plus, Canada may have dodged Trump’s newest tariffs, but the deal could leave lasting damage to USMCA, North American manufacturing and trust between two longtime allies. Later, who pays when the Colorado River can no longer meet the West’s demand?
- (Source: Bloomberg)
+摘要：Chief Justice John Roberts temporarily allowed construction of President Donald Trump’s White House ballroom to continue while the Supreme Court considers whether to grant a longer stay, after lower courts said the project required congressional authorization. Bloomberg News Supreme Court Reporter Greg Stohr joins hosts David Gura and Christina Ruffini on Bloomberg This Weekend to explain that the court also weighs challenges involving Trump’s mail ballot order and the administration prepares for expected litigation over its new Canada tariffs. (Source: Bloomberg)
 
 
 ---
 
-## Mexico Governor Accused by US of Cartel Ties Returns to Post
+## The AI Spending Spree Comes With a Catch
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-21/mexican-governor-accused-by-us-of-cartel-ties-returns-to-his-job
+链接：https://www.bloomberg.com/news/videos/2026-08-22/the-ai-spending-spree-comes-with-a-catch-video
 
 正文长度：0
 
-摘要：The Mexican governor accused by the US of conspiring with a major criminal cartel to traffic drugs is ending his leave of absence, pledging to finish out his term through next year in a move that could inflame tensions with Washington.
+摘要：Sam Palmisano says the AI boom is built on long-cycle bets in data centers, chips and energy, even as AI software changes at breakneck speed. If adoption slows or cheaper Chinese open-source models gain traction, Big Tech may have to rethink the spending plans behind today’s AI race. (Source: Bloomberg)
 
 
 ---
 
-## Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election
+## Investing in AI for More Jobs, Less Pay
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election
+链接：https://www.bloomberg.com/news/newsletters/2026-08-22/investing-in-ai-for-more-jobs-less-pay
 
 正文长度：0
 
-摘要：President Luiz Inácio Lula da Silva maintained his lead over right-wing challenger Flávio Bolsonaro ahead of Brazil’s October election, a new poll found.
+摘要：The good news and bad news about AI
 
 
 ---
 
-## Moderna, Merck Cancer Vax Gives Hope
+## India’s Foreign Minister to Visit Russia Amid US Tariff Threat
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-21/moderna-merck-cancer-vax-gives-hope-video
+链接：https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat
 
 正文长度：0
 
-摘要：Scientists are on the cusp of fulfilling a decades-long quest: to use vaccines to teach the immune system to spot and destroy cancer cells. News that an mRNA cancer vaccine developed by Merck & Co. and Moderna Inc. kept melanoma from returning in a large, late-stage trial marks a critical next chapter for a technology beleaguered by post-pandemic political backlash and years of false starts before then. Bloomberg Opinion Columnist Lisa Jarvis writes "Moderna and Merck's Cancer Vaccine Is a Marvel." (Source: Bloomberg)
+摘要：India‘s External Affairs Minister S. Jaishankar will visit Russia and co-chair the 27th India-Russia Inter-Governmental Commission meeting on trade, science, technology, and culture.
+
+
+---
+
+## Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html
+
+正文长度：12677
+
+摘要：From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> ATLANTA — Coca-Cola is branching out into new customizable drinks and trend-driven equipment as consumers — and food service operators — increasingly want more options.
+Tucked away in an anonymous office park not far from its global headquarters here, Coke has been working on a flood of innovation at its secretive labs, including a way for its Freestyle drink dispensers to make dirty sodas, which combine pop with flavored syrups, cream or other ingredients. In partnership with AMC Theatres, it is testing a Micro Matic dispenser that can make brightly colored refreshers. And Coke has more white-label beverage options on the way, like an energy drink that can be customized by color and flavor.
+For many restaurants, handcrafted drinks like refreshers or iced coffee have become an important way to drive traffic and sales, even as diners broadly cut their spending. In the second quarter of this year, beverage servings at restaurants outpaced both servings of food alone and food with beverages, according to Circana data. When consumers are away from home, a drink often represents more than hydration, particularly for Generation Z.
+"Oftentimes these beverages are an opportunity to take a break, get some energy or protein, have a treat, at a lower price point," David Portalatin, Circana senior vice president and food service industry advisor, told CNBC.
+From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to meet the shift in consumer behavior and boost their profit margins. As operators seek to add more drinks to their menus, Coke must add more convenient beverage options — or risk losing sales to a competitor.
+"It's our job to ensure that we're providing unique experiences and beverages because it's not a bonus now with consumers — it's the norm, they expect it," said Megan Tallman, Coke's vice president of dispensed equipment and innovation for its North American business. "When you think about Gen Z, they are okay paying $10 for a drink that is craveable and that they can show on their Instagram or on TikTok, which is helping our customers drive margin and also beverage attachment."
+Beyond Freestyle
+This July, Coca-Cola's Freestyle drink dispenser celebrated its 17th anniversary.
+"Honestly, if you fast forward to today, Freestyle is more relevant today than probably it was over a decade ago," Tallman said, crediting the machine's dozens of flavors.
+Even with the variety it offers, Coke is still trying to evolve to keep up.
+In the time since the Freestyle was introduced, the number of specialty beverage chains has exploded, offering customers nearly unlimited ways to customize their drinks, from sugar content to toppings. Market research firm Technomic tracks more than 100 different chains, with more than 41,000 locations across the U.S. combined, selling everything from coffee to juice to boba.
+Ever since Freestyle began popping up in restaurants and movie theaters, the dispensers have poured more than 67 billion 8-ounce servings of beverages; Coke has been able to track them all, thanks to the equipment's real-time data collection. That data is coming in handy now.
+Inside its Equipment Innovation Center in Atlanta, a massive television screen displays real-time data showing what drinks dispensed by the Freestyle are trending, what time of day and where — from the region to the type of business. AHA sparkling water, for example, is trending up at office buildings and hospitals.
+Insights from Freestyle dispensers also help the company discover new drinks that it can launch in grocery stores, like the limited-time Coca-Cola Orange Cream, which combines its namesake soda with vanilla and orange syrup.
+"If we see that the flavors that we're offering to consumers in food service are actually resonating — it's the largest testing platform out there," Tallman said.
+But Coke has more ideas in store.
+First is the Freestyle Mini, which initially launched in Europe. Intended for bars and restaurants with limited space, the dispenser holds up to 16 drink options, more than double the choices available in a traditional soda gun. Coke unveiled the new smaller machine at the National Restaurant Association Show in Chicago this spring, but the company has not yet sold it to customers in the U.S.
+And then there are other equipment ideas that aren't as far along, inspired by Coke's desire to branch out into dirty soda, refreshers and coffee.
+To automate dirty soda, Coke has created a prototype that adds a dairy module to the classic Freestyle dispenser. Utah-based chain Swig takes credit for its invention of the dirty soda, although the trendy drink has now spread far and wide, from KFC restaurants to grocery store shelves.
+The trend has helped to change soda's image from a tired, mass-market drink to a handcrafted beverage that can be a treat.
+"Gen Z is the first generation raised to believe that nothing you consume is neutral, so everything is either helping you or costing you," said Matthew Greer, food, agribusiness and beverage analyst for Truist. "So, traditional soda does nothing for me, and it gives me 40 grams of sugar, so that fails the test."
+The rise of a dirty soda is boon for Coke, because pop is still its number one category. Coke's sparkling soft drinks business, which houses soda brands like Sprite, Schweppes and Fanta, still accounts for 69% of the company's overall unit case volume, even as other ventures like coffee and dairy-based beverages have grown. Coke's namesake soda alone accounted for 47% of global unit case volume and 42% of U.S. unit case volume in 2025, according to a company filing.
+Coke's prototypical dispensed dirty soda comes with a preprogrammed recipe, allowing for little customization but eliminating mess. The prototype, which took roughly three weeks to create, keeps the recognizable drip down the sides of the cup, giving the dirty soda its trademark visual appeal.
+Refreshing its offerings
+Beyond the Freestyle, Coke is also testing Micro Matic "mixology" dispensers to make refreshers and iced coffee drinks.
+Starbucks created the refresher back in 2012 to appeal to non-coffee drinkers who wanted a boost, especially in the afternoon, when traffic to its cafes slowed. Customers can pick their bases, flavors and even caffeine level. Refreshers now represent about $2 billion in annual sales for Starbucks.
+Other restaurant chains, such as Panera Bread to Dunkin', have taken note. Refreshers can be found on 8.1% of menus at national restaurant chains, according to Datassential.
+"It's almost, I think, a compliment, the fact that our Refresher business is being imitated in so many places," Starbucks CEO Brian Niccol said on the company's earnings conference call in late April.
+For its part, Coke is hoping to make its mark on the refresher category — whatever that means.
+"There's no real definition for what a refresher is, so we're trying to take a stand on what that can be and what function that we believe it should deliver to the guest," said Sarah Kate Sims, director of dispensed innovation for Coca-Cola North America.
+To Sims, a refresher is a "healthier" beverage that delivers some kind of pick-me-up without a traditional coffee caffeine base, instead using a green tea or a natural coffee extract as a base. And a refresher must look good, too, she said.
+"So that's what I'm working on for next year," Sims said.
+Inside 'The Vault'
+Coke's innovation efforts aren't restricted to equipment either. Across the parking lot from its Global Equipment Platforms office is "The Vault," where the company tests new drinks.
+"We bring a lot of our top customers here to showcase our innovation and mixology, but also to collaborate and problem-solve and tackle the biggest challenges in the business," said Caroline Zambataro, collaboration architect at Coke.
+One of those customers is Whataburger. Coke worked with the Texas-based burger chain for about 18 months on its line of "Whatafreshers," which launched in July.
+In some cases, consumers might not even realize that they are drinking a Coke product. For example, the company considers itself a "pioneer" of premium lemonade after launching a white-label version more than a decade ago.
+More than 40,000 bubbler dispensers carry the drink, according to Tallman. That number includes Wendy's, which sells it under "Dave's Craft Lemonade," after founder Dave Thomas.
+These days, lemonade is a popular base for a lot of refreshers and other brightly colored drinks. So, too, is Sprite, which ranked fifth among U.S. carbonated soft drink brands by 2025 sales volume, according to Beverage Digest.
+But Coke is also working on a new blank slate for handcrafted beverages: a colorless, relatively unflavored energy drink that comes in frozen or liquid form. The company plans to launch the beverage with food service operators in the first half of 2027.
+Energy drinks are a much smaller category than sparkling beverages, but the segment has the highest expected growth projections for the next 10 years, according to Tallman.
+"We believe this solution really meets many consumers because more female consumers are interested in energy if it's a handcrafted solution," Tallman said.
+Starting with Celsius, the conversation around energy drinks has changed, widening their audience and the number of occasions where they can be consumed, Truist's Greer said. Rather than a beverage that you buy at the gas station for a pick-me-up, now energy drinks can become a part of some consumers' workout routines.
+Coke's take on energy drinks will be designed to be served by employees to "limit consumption," according to Tallman. A 12-ounce serving of Coke's version contains 106 milligrams of caffeine, roughly the same amount as the same size can of Red Bull and half of the caffeine content of a Celsius can. Excessive caffeine consumption has become a liability concern after Panera Bread's Charged Lemonade was named in at least two wrongful death lawsuits.
+A golden opportunity
+Broadly, Coke has been fielding more inquiries from food service partners these days about customizable drinks, according to Melinda Pritchett, director of innovation for Coke's North American business.
+"If you're looking at what McDonald's is doing with the handcrafted beverages, all of our customers are saying, 'We should be in that as well,'" she said.
+As the largest U.S. restaurant chain by system sales, McDonald's playbook is often replicated elsewhere. In May, the fast-food giant expanded its McCafe menu in the U.S. to include refreshers and crafted sodas, including Coke's Sprite and Hi-C, as part of its broader strategy to lean into beverages.
+"In the U.S., [drink] sales are ahead of plan. Guest checks are higher, and we're seeing new occasions emerge throughout the day," McDonald's CEO Chris Kempczinski said on the company's earnings conference call earlier in August. "We've also seen strong food attachment rates on these orders."
+But the drink launch arrived during what was otherwise a lackluster quarter for McDonald's U.S. business, which reported same-store sales growth of just 0.8%. The company has replaced its U.S. president in the hopes of accelerating its domestic division.
+On Monday, McDonald's further expanded its beverage options with the Red Bull Dragonberry Energizer. Red Bull is privately owned, with no connection to Coke. The chain's choice to partner with a competitor rather than using an energy drink affiliated with Coke, like Monster, has sparked speculation about the state of the companies' more than 70-year-long relationship.
+"We have a fantastic and very long-standing partnership with McDonald's, and that's intact, right? We continue to be very happy with that partnership," Coke CEO Henrique Braun said on the company's earnings conference call in late April, answering an analyst question about the partnership. "… We do respect the decisions on other choices about their relationships with other companies."
+Ultimately, the most important part of any business relationship is the effect on sales.
+When testing a new beverage with a food service partner, Coke tracks a couple of different performance metrics, like "incremental volume." In other words, would a customer buy one of the new refreshers even if they wouldn't otherwise buy a drink?
+A survey of several dozen U.S. McDonald's franchisees conducted by Kalinowski Equity Research found that more than half of operators said the specialty drinks are performing in line with their expectations.
+"They are selling great, but most of it is a trade-off from other beverages," one anonymous franchisee said in the survey. "Not many new transaction counts."
+
+</details>
 
 
 ---
@@ -262,37 +335,41 @@ There was concern that AI would reduce head counts, and consequently the need fo
 
 ---
 
-## California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
+## Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3934
+正文长度：0
 
-摘要：California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5" target="_blank">Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> California Attorney General Rob Bonta told CNBC's David Faber on Thursday that the group of states suing to block Paramount Skydance's proposed acquisition of Warner Bros. Discovery would require "robust structural remedies" to reach a settlement in the antitrust case.
-"[Paramount] wanted to talk about everything except for what this case is about. They want to talk about the streaming market, which we don't allege in our complaint. They want to talk about CNN, which is not a focus of our complaint. They want to talk about the foreign regulators. We want to talk about the three markets that we set forth in our complaint, where we think there's antitrust violation," Bonta said.
-Bonta and 11 other state attorneys general filed a lawsuit in July seeking to block the merger. The group of suing states also includes Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon and Washington. In the suit, the group focuses on the size of the combined company and how it would control nearly one-third of films and nearly a third of basic cable TV programming.
-Paramount, which initially sought to close the deal by Sept. 30, agreed to delay the proposed acquisition of WBD to as late as June 2027. A trial will be heard on the matter in March.
-There has been widespread speculation about whether Paramount and the states will hold settlement talks to bypass the March trial.
-"I will say that coming to the table has always been on the table. And if [CEO David] Ellison and Paramount want to come to the table in good faith and talk, we want to talk, too. We're happy to have that conversation," Bonta said. "We do prefer to resolve cases in the boardroom instead of the courtroom, but for now we're bringing our case, and, you know, I hope they can focus on the actual allegations we make in our complaint."
-Bonta said it's no secret Paramount wants the states to consider a settlement.
-If the two companies were to combine, it would unite the famed movie studios Warner Bros. and Paramount, as well as a massive portfolio of TV networks including Paramount's broadcast network CBS and pay TV channels such as its MTV and BET with WBD's CNN, Discovery and others. It would also bring together streaming platforms Paramount+ and HBO Max.
-"Whether the market is shrinking or growing is really irrelevant," Bonta said Thursday in response to the argument that the pay TV subscriber base has been decreasing due to the rise of streaming.
-Bonta said a combined Paramount-WBD would create a "presumptively illegal market concentration" in the film and TV markets the group of attorneys general identified in the lawsuit.
-"We are the ones who've looked at this from a straight-up law and facts perspective in the American economy under American law under Clayton Act Section 7, which applies here as antitrust law," Bonta said. "[The law has] been on the books for over a century. And it's just a straight up, meat-and-potatoes, black-and-white, bread-and-butter, antitrust case."
-The Clayton Antitrust Act is the more-than-100-year-old law that prohibits anticompetitive mergers and acquisitions.
-Paramount has previously called the states' lawsuit a "misrepresentation of competition in the entertainment industry today," and said it plans to "vigorously defend the transaction and demonstrate that this challenge is inconsistent with sound competition and policy and the competitive realities of the media marketplace."
-Paramount's lead trial counsel, Jeffrey Kessler, earlier told CNBC that Paramount "believes strongly" in the combination of the two companies and is prepared to bring the matter to the Supreme Court if it was faced with a prolonged blockade to closing the deal.
-During Paramount's August earnings call, Ellison said he's "confident" the deal will close.
-A Paramount spokesperson didn't immediately respond to a request for comment about Bonta's remarks on Thursday.
+---
 
-</details>
+## Europe’s fatal beauty - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnlTQ05hYmpjWTAxUTYxZWRyWW5SR1RNLV80UERuRjBiSzV2ZUxSM2VPSzhyc1Y4MU8wYVFQQXFTRGRVX2xILUtYanVKYUlFcGxUM0hTUmFmcDVpVm1kRUc3QkttOGZBbkRfN052VUp1OEJEOHlWZG9EUkJ0VTVjV1hEQjE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnlTQ05hYmpjWTAxUTYxZWRyWW5SR1RNLV80UERuRjBiSzV2ZUxSM2VPSzhyc1Y4MU8wYVFQQXFTRGRVX2xILUtYanVKYUlFcGxUM0hTUmFmcDVpVm1kRUc3QkttOGZBbkRfN052VUp1OEJEOHlWZG9EUkJ0VTVjV1hEQjE?oc=5" target="_blank">Europe’s fatal beauty</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Pentagon fires military newspaper staffers for insubordination - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2plQ1hyUXN3cFpnNlNPZWVDaS0tdW1ScXFybE5yX2pSX1FWQ2xXOFJHZzA1TlJWUk9SNVdLUWQ3ajluaDFxN3Y0OG5vYng5UURnSWFMZzAydkx0Z2tvdEw3WTZCNndYR2N5SERRY3dpQ1daeVpOTmdpX3NrQ3kyV21ybEw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2plQ1hyUXN3cFpnNlNPZWVDaS0tdW1ScXFybE5yX2pSX1FWQ2xXOFJHZzA1TlJWUk9SNVdLUWQ3ajluaDFxN3Y0OG5vYng5UURnSWFMZzAydkx0Z2tvdEw3WTZCNndYR2N5SERRY3dpQ1daeVpOTmdpX3NrQ3kyV21ybEw?oc=5" target="_blank">Pentagon fires military newspaper staffers for insubordination</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -310,119 +387,80 @@ A Paramount spokesperson didn't immediately respond to a request for comment abo
 
 ---
 
-## Errol Musk: ‘I’m Elon’s father, not his pal’ - Financial Times
+## Chart of the Week: Who owns government bonds? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUhXYTRHSVpxWU1BcTVyUkdTbVhNV185MXV6TnBDWi1KNWFRZ2lBU04ydlF3OFN4OEpEYW9td0pHY2ZESEV5WHdicW9BQktoS3NfblhRVWdmVk80R2NUdlpiUk5NZEQwOHFLVDl4ZlVSV2o4d3lJUzloOW00dlZCeWVGQ1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTF2WTZDM2gtOENWcldGRkpNVlV5NVNISnljV2x4UkNCYkp6SjQwemx4b3hzRnFrN3pkSEI3UHJ1VGJITlNjQTBieksyZGdWS0lXTXFCczVidTdGQm5CMzg3R0tUZzYyaUhXaHc5amdYY0VVTWc0cDJtWEJQV193dmJBUGE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUhXYTRHSVpxWU1BcTVyUkdTbVhNV185MXV6TnBDWi1KNWFRZ2lBU04ydlF3OFN4OEpEYW9td0pHY2ZESEV5WHdicW9BQktoS3NfblhRVWdmVk80R2NUdlpiUk5NZEQwOHFLVDl4ZlVSV2o4d3lJUzloOW00dlZCeWVGQ1Y?oc=5" target="_blank">Errol Musk: ‘I’m Elon’s father, not his pal’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTF2WTZDM2gtOENWcldGRkpNVlV5NVNISnljV2x4UkNCYkp6SjQwemx4b3hzRnFrN3pkSEI3UHJ1VGJITlNjQTBieksyZGdWS0lXTXFCczVidTdGQm5CMzg3R0tUZzYyaUhXaHc5amdYY0VVTWc0cDJtWEJQV193dmJBUGE?oc=5" target="_blank">Chart of the Week: Who owns government bonds?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Samsung to return record $80bn to shareholders - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzlrU2ViVnNoTUFqUDY3ek5JMndrcXBrMjN2VkxySnZvR2JEMjBPMjI0TTBiT1ZFZlZZTjBKUERSSFhObEpfY1pxV3dKVlgzS1pnVDhTYUYyNXFtcUxWbmlsNGd4OFFHSmdfVkduTDJVSFVCSFRTalhyYU51WWVmNzd1VXQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzlrU2ViVnNoTUFqUDY3ek5JMndrcXBrMjN2VkxySnZvR2JEMjBPMjI0TTBiT1ZFZlZZTjBKUERSSFhObEpfY1pxV3dKVlgzS1pnVDhTYUYyNXFtcUxWbmlsNGd4OFFHSmdfVkduTDJVSFVCSFRTalhyYU51WWVmNzd1VXQ?oc=5" target="_blank">Samsung to return record $80bn to shareholders</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The battle over golf’s future - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FtOVk5d1FQc0o4R0lsMUoxbFlZcEtud3drWjZ5TTFVV1phUElBbnJLYTZPdUFkT1hXQW5DMm43X1dqSklyODFGTlpjaG1kRDZWQ1phTno4cDhtWEk2YlhTREpMQkxHdF9uX25saEpvTFZaakR3NFYzTlFIZlk3UU9wa3o?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FtOVk5d1FQc0o4R0lsMUoxbFlZcEtud3drWjZ5TTFVV1phUElBbnJLYTZPdUFkT1hXQW5DMm43X1dqSklyODFGTlpjaG1kRDZWQ1phTno4cDhtWEk2YlhTREpMQkxHdF9uX25saEpvTFZaakR3NFYzTlFIZlk3UU9wa3o?oc=5" target="_blank">The battle over golf’s future</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnBZR252Z3dKUGNUNERwRkR2OVJaUWFNT1VKUVZRQTc3bnlTUHpGbHlMcmU1eTBMd1NnNmRzMU1Db05fZDlVVXcxdTJkd0hwT1VRc2ZwRU1yUlhVcVJvR2RWM2l4V0M1VFJJLXk1Q3VHaWNjWkJZLTJybUhaUnVFd0c0Rjg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnBZR252Z3dKUGNUNERwRkR2OVJaUWFNT1VKUVZRQTc3bnlTUHpGbHlMcmU1eTBMd1NnNmRzMU1Db05fZDlVVXcxdTJkd0hwT1VRc2ZwRU1yUlhVcVJvR2RWM2l4V0M1VFJJLXk1Q3VHaWNjWkJZLTJybUhaUnVFd0c0Rjg?oc=5" target="_blank">‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply - Reuters
+## Swedish police probe online networks after teenage girl killed in school sword attack - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5" target="_blank">EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5" target="_blank">Swedish police probe online networks after teenage girl killed in school sword attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## TikTok agrees to $400 million US children's privacy settlement - Reuters
+## Chinese robot beats Usain Bolt's 100m world record in test run - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHp4WjducldzcUtEUTljcWhGYmpkOUgzc2RKaFFhaUFyVjdCZW9XajFRb1BNTWVGUnVmdVNVWDBLQmVWS3d1UkZncVp3R2cwQWxRVDB4c1VFVW5Gc1RoUzRZVUZ0aFlQTGc2ekF3T0w5QUQtSXFPYml1cnBzamdJV0NVR3d3ZTFoTVRocVp2dm4xQXFyX0U2TXdwM2I5ZmNqa0Q1emcza0N0dkczb25xdzY0UFZvSElWLUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHp4WjducldzcUtEUTljcWhGYmpkOUgzc2RKaFFhaUFyVjdCZW9XajFRb1BNTWVGUnVmdVNVWDBLQmVWS3d1UkZncVp3R2cwQWxRVDB4c1VFVW5Gc1RoUzRZVUZ0aFlQTGc2ekF3T0w5QUQtSXFPYml1cnBzamdJV0NVR3d3ZTFoTVRocVp2dm4xQXFyX0U2TXdwM2I5ZmNqa0Q1emcza0N0dkczb25xdzY0UFZvSElWLUE?oc=5" target="_blank">TikTok agrees to $400 million US children's privacy settlement</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5" target="_blank">Chinese robot beats Usain Bolt's 100m world record in test run</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Supreme Court lets Trump continue work on White House ballroom for now - Reuters
+## Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDRsWDhPVVVzZVdpcEpaNi0tRGF3SU90MmwwcWw5UHdkb3VEM3FCcXVzQm0tWExlQUtMNy0yUGl6NVBMeWJSenN3VXNqZ251TzMySHBrTEpSVjMwQWFreFVjTE9idkFJbE1zWWtnWlBveXlLNmc3Z25pTkU1RlFLRGg0R1REZnVOeVVsRXNpNlJBN3BmakJGMWVxcFNsdkh4c00teW1OX3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDRsWDhPVVVzZVdpcEpaNi0tRGF3SU90MmwwcWw5UHdkb3VEM3FCcXVzQm0tWExlQUtMNy0yUGl6NVBMeWJSenN3VXNqZ251TzMySHBrTEpSVjMwQWFreFVjTE9idkFJbE1zWWtnWlBveXlLNmc3Z25pTkU1RlFLRGg0R1REZnVOeVVsRXNpNlJBN3BmakJGMWVxcFNsdkh4c00teW1OX3c?oc=5" target="_blank">Supreme Court lets Trump continue work on White House ballroom for now</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5" target="_blank">Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US Army Secretary Driscoll is expected to step down by year's end, WSJ reports - Reuters
+## Romania adopts new measures to boost Danube waters to cool Cernavoda nuclear plant - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEloQl93UWRETzBXZ3hIZWM1eDZFREpLN0NDZkMwM3hZVXhpMjI2dnBWdmxIVV81WVVRVG1nVEE5NkVHYTlqSE9RQWQxMy03Tl94RUU4WDZQRkc2cFBJVU0xYy1DdHpFOFRoLUVkajd0dkplRVNmZkhlSERNV1NpR3M2TXlxaGo2LWR3Yzk1ZUdtUXdmNVdKVWNJN2tHSU1qOHRIcWRZcWRZaGRkMjF6cWFSVFJNbE11U0VINW5ERDZ5QUo4ajRv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5" target="_blank">US Army Secretary Driscoll is expected to step down by year's end, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEloQl93UWRETzBXZ3hIZWM1eDZFREpLN0NDZkMwM3hZVXhpMjI2dnBWdmxIVV81WVVRVG1nVEE5NkVHYTlqSE9RQWQxMy03Tl94RUU4WDZQRkc2cFBJVU0xYy1DdHpFOFRoLUVkajd0dkplRVNmZkhlSERNV1NpR3M2TXlxaGo2LWR3Yzk1ZUdtUXdmNVdKVWNJN2tHSU1qOHRIcWRZcWRZaGRkMjF6cWFSVFJNbE11U0VINW5ERDZ5QUo4ajRv?oc=5" target="_blank">Romania adopts new measures to boost Danube waters to cool Cernavoda nuclear plant</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters
+## Imran Khan's party seeks contempt action over jailed leader's hospital move - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5" target="_blank">OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5" target="_blank">Imran Khan's party seeks contempt action over jailed leader's hospital move</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
