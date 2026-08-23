@@ -1,68 +1,217 @@
 # 每日财经新闻
 
-更新时间：2026-08-23 01:44:00
+更新时间：2026-08-23 12:50:42
 
-## Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout
+## US Push to Isolate Iran Runs Into China
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout
+链接：https://www.bloomberg.com/news/videos/2026-08-23/us-push-to-isolate-iran-runs-into-china-video
 
 正文长度：0
 
-摘要：A historic stock selloff has driven South Korea’s retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.
+摘要：The Trump administration is preparing additional measures to isolate Iran’s economy, but further pressure could mean targeting China, the dominant buyer of Iranian oil. Joining Bloomberg This Weekend to discuss the situation with hosts David Gura and Christina Ruffini is Bloomberg News Senior Editor Wendy Benjaminson.  (Source: Bloomberg)
 
 
 ---
 
-## Bloomberg Previews Jackson Hole Symposium
+## ‘It’s a Carry World’: EM Trade Notches Longest Run Since 2008
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video
+链接：https://www.bloomberg.com/news/articles/2026-08-23/-it-s-a-carry-world-em-trade-notches-longest-run-since-2008
 
 正文长度：0
 
-摘要：Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Source: Bloomberg)
+摘要：Cathy Hepworth, who heads $1.5 trillion asset manager PGIM’s emerging-markets debt team, doesn’t hesitate when asked about her highest-conviction theme across the developing world: “Carry, carry, carry.”
 
 
 ---
 
-## Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt
+## Can Canada Still Trust America on Trade?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt
+链接：https://www.bloomberg.com/news/videos/2026-08-23/can-canada-still-trust-america-on-trade-video
 
 正文长度：0
 
-摘要：Companies looking to finance data center projects are increasingly turning to junk bond investors to help them raise billions of dollars, even for debt that is investment-grade.
+摘要：Chrystia Freeland says a tentative US-Canada trade agreement may prevent new US tariffs from taking effect, but only if Canada makes major concessions including easing retaliation, allowing US alcohol back into provincial stores and aligning with Washington on some digital issues. Existing US tariffs on Canadian steel, aluminum, cars and auto parts would remain, though at lower levels. Freeland says that would mark a major shift from Canada’s long-held position that such tariffs violate USMCA, and could hurt both countries, especially US manufacturing and the Detroit-Windsor auto supply chain. This interview was recorded on Aug. 20.  (Source: Bloomberg)
 
 
 ---
 
-## Bloomberg This Weekend 8/22/2026
+## Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-08-23/saudis-oil-logistics-roiled-again-by-houthis-red-sea-threat
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former MI6 Chief Sir Richard Dearlove, American Whiskey Association President & CEO Michael Bilello, The Atlantic Contributing Writer and Columbia University Institute of Global Politics Distinguished Fellow Kim Ghattas, and Carleton College Professor of Economics and “Demographics and the Demand for Higher Education” Author Nathan Grawe. (Source: Bloomberg)
+摘要：Saudi Arabia is yet again being forced to overhaul how its oil gets to customers around the world as Yemen’s Houthis make it harder for Riyadh to use a backup route that’s been vital to the global economy since the Iran war started.
 
 
 ---
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## Europe’s Luxury Giants Discern Green Shoots in Key China Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffini as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：Europe’s biggest luxury firms are turning a little more positive on the crucial Chinese market, as a fragile spending recovery takes shape in the country.
+
+
+---
+
+## After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html
+
+正文长度：8311
+
+摘要：United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> NEWARK, New Jersey — Scott Kirby says he doesn't believe in revenge.
+"Everyone thinks I do, but no, I don't," said the United Airlines CEO, whom American Airlines fired 10 years ago, when he was president of that carrier. "I compete aggressively."
+United announced it had hired him as president on Aug. 29, 2016, a blink after American disclosed his departure. Now, Kirby is running the second-most profitable U.S. airline after Delta Air Lines. And his former employer, American, is a distant third of the big, more-than-century-old, U.S. carriers, though it's working to ramp up revenue through a host of upgrades, including bringing back seatback screens.
+Kirby floated the idea of megamergers with both Delta and American in the past year, combinations that would bring together some of the biggest airlines in the world. He's so far been rebuffed, and antitrust experts were skeptical about the possibility.
+He's thinking bigger than he has before as the industry faces ever-higher costs, limited airport infrastructure and a population that's ready to shell out more to fly — often in the expensive seats — to the next "it" destination.
+Eyeing JFK from EWR
+CNBC rode with Kirby from the west side of Midtown Manhattan to United's hub at Newark Liberty International Airport in New Jersey earlier this month, where the 59-year-old executive outlined his vision for the carrier before his flight.
+Kirby said he wants to expand United's footprint at New York's John F. Kennedy International Airport after his airline returns to the congested airport through a partnership with American's former partner, JetBlue Airways, as early as next year.
+"We got a bunch of irons in the fire to try to find ways to do it," he said, adding that United could at some point acquire slots from carriers that aren't flying profitable routes out of the airport.
+And while United already holds the crown among U.S. airlines for international flights, which are in high demand among U.S. tourists, he wants to expand the carrier's footprint abroad even more. This week, United is set to announce a host of new international routes, the carrier's annual splash that has previously included new dots on the map like Ulaanbaatar, Mongolia and Bilbao, Spain.
+United has been touting its international expansion for years, saying its vast network acts as a driver for customer loyalty and sign-ups for lucrative travel rewards credit cards. Its route announcements typically come with much fanfare.
+Kirby, a three-decade airline executive, is the United States' most outspoken airline CEO. His team knows this, and they've stopped telling him well in advance what will be on tap for the next batch of Instagram-friendly routes.
+"They no longer tell me in advance because they're afraid I'll spill the beans, which is fair," he said.
+While Delta has still had a lead on profits, CEO Ed Bastian doesn't want to give up ground to United. It is starting to expand flights over the Pacific, a United stronghold.
+"People say, 'Well, when is it someone else's turn?' Well, I'm never going to let that be someone else's turn. It's always our turn," Bastian told students at Columbia Business School in April 2024. "We always get a chance to prove it every single day. ... Yesterday really doesn't matter. It's only today and tomorrow that you can think about."
+1 minute break
+It's been a decade since Kirby started at United. He joined the airline in August 2016 after he was let go by American when he was president and didn't have a path to eventually becoming CEO.
+United dropped a securities filing just after American disclosed Kirby's departure, saying he would be taking the president role at the Chicago airline. American promoted then-Chief Operating Officer Robert Isom to president that day, Kirby's old role. Isom was named American's next CEO in late 2021.
+"I joke that most people take a few weeks, a couple months between jobs. I took 60 seconds," Kirby said.
+United promoted Kirby to CEO from president in May 2020, while the industry was reeling from Covid, its worst-ever crisis.
+The executive ranks at the tops of United and American trace their roots back to America West and other airlines, before a wave of mergers over the past two decades left four carriers holding more than three-quarters of U.S. flight capacity.
+"One of the things also I learned at American: There's only so much change you can make as the No. 2," he said. "You can push too hard and you get fired."
+United was in the midst of upgrading its cabins when Kirby joined in 2016, including with its highest-end Polaris pod seats for long-haul business class. But he said his first order of business was going through money-losing routes with a highlighter to figure out what was working and what wasn't.
+The company considered closing its bases at Los Angeles International Airport and Washington Dulles International Airport in Virginia. Kirby said he stopped that idea, and both stayed open.
+The airports are critical for United. LAX is one of the airline's most important hubs, though no carrier has a handle on that airport like they do others. And Kirby took a day trip from his son's soccer camp in Brazil last month to fly up to meet with President Donald Trump to unveil a $22.5 billion revamp of Dulles in the Oval Office.
+AI, mergers and the future of travel
+Stock analysts and legal experts were highly skeptical about a merger between United and one of the other U.S. giants.
+People familiar with the matter said Kirby approached Delta but was turned down, as The Wall Street Journal first reported last month. The people spoke on the condition of anonymity to discuss the talks. Delta declined to comment. The carrier's president, Peter Carter, told CNBC at an industry conference in June that he doesn't see a merger or acquisition in Delta's future.
+American, meanwhile, publicly rejected a merger offer from United this spring.
+"At the end of the day, we spend time looking at things that have a chance of happening. We don't spend a lot of time pursuing impossibilities," Isom told CNBC in an interview in late June.
+Kirby told CNBC that he hasn't changed his stance and he's not interested in acquiring a smaller airline, like JetBlue. "That's still the case," he said.
+"Everything I say would require a willing partner," Kirby said.
+When asked about antitrust concerns and likely pushback from state attorneys general, he said, "All of the objections are ... based on a premise that the airline industry is a commodity."
+And Kirby said the industry has since evolved and that Delta and United have differentiated themselves, with their routes, onboard cabins and other products.
+He said he wants United to grow in South America and in the Southeast U.S., but there's a lack of places to build out new hubs that make sense.
+"Those are two places that are holes for United that are hard to fix on a stand-alone basis," Kirby said.
+The best place for serving South America is Miami International Airport, he added. American had a more than 60% share of passenger enplanements in the 2025 fiscal year, according to airport data.
+Putting mergers aside, Kirby said artificial intelligence tools for both employees and customers will make traveling easier and improve reliability, a tall order for any airline that is susceptible to weather, constrained airports and a host of other daily surprises from mechanical problems.
+He wants delays expressed in clear English to customers.
+"I firmly believe in no excuses, and so we don't make excuses," he said.
+Even still, in the first half of the year, United ranked behind Delta and Alaska Airlines, which recently merged with Hawaiian Airlines, for on-time arrivals, according to the Transportation Department.
+Kirby said outside factors or outright crises will always challenge the industry and said he is focused on the long-term future of the airline.
+"Our employees often ask me like, 'What keeps you awake at night,' and I tell them, 'nothing,'" he said. "My job is to set the company up so none of you ever have to have a sleepless night worrying about your jobs."
+He said his goal is to never have another furlough at the airline.
+When asked if he would retire eventually, Kirby said, "I hope I will know when to retire and do it gracefully with a great transition with great people."
+
+</details>
+
+
+---
+
+## United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html
+
+正文长度：2151
+
+摘要：United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> In August 2018, the then-president and now CEO of United Airlines Scott Kirby told a room of reporters at an aviation conference in Denver about the airline's big plans for the new Boeing 737 Max 10: lie-flat, premium seats and a host of profitable, transcontinental routes.
+The plane was supposed to start flying in 2020.
+Hundreds of those seats have been in storage because its certification — which was expected more than six years ago — is far behind schedule. Now, Boeing and many of its customers expect the company to win federal approval for the plane, the largest in the bestselling 737 Max family, soon, so United has to decide what to do with all those seats.
+"We got a bunch of lie-flat seats that we don't know what to do with," Kirby told CNBC during an interview earlier this month at Newark Liberty International Airport in New Jersey. "They don't fit on other airplanes."
+United hasn't disclosed the layout it will use on the planes, or where it will fly them. The airline set its earlier plans for the Boeing 737 Max 10 before it even offered a premium economy section.
+The delays for both the newly approved Boeing 737 Max 7, the smallest model, and the yet-to-be-certified Max 10 came after the manufacturer had to redesign an anti-icing system. Boeing was also dealing with increased scrutiny after years of safety and manufacturing crises.
+Boeing won approval for the 737 Max 7 earlier this month, with big customer Southwest Airlines expecting to fly them sometime in the first half of 2027.
+United pivoted because of the Boeing delays and recently outfitted a subfleet of its Airbus A321neo narrow-body aircraft with 20 of the newly designed Polaris suites, premium economy options and other new seats as part of the industry's race to add high-yielding seating on its planes. It's dubbed the subfleet the "Coastliner" for transcontinental routes.
+But the dimensions and requirements aren't the same on both planes, leaving United with a decision on what its interiors will look like.
+It expects to get the first Boeing Max 10s in summer 2027. It has 167 of the aircraft on order, according to its most recent quarterly filing.
+
+</details>
+
+
+---
+
+## Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html
+
+正文长度：7374
+
+摘要：Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Walk the halls of any major banking conference or listen in on a quarterly earnings call, and one topic keeps coming up: With the window for mergers wide open under the Trump administration, who will take a swing?
+After years on the sidelines because of regulatory restrictions, large banks can once again contemplate buying other lenders, even a $100 billion-plus-asset regional bank.
+While JPMorgan Chase and Bank of America are barred from such a deal because they already have more than 10% of national deposits, there are two megabanks that could pursue a large acquisition: Citigroup and Wells Fargo. The nation's third- and fourth-largest banks have enough room under the national deposits cap to pursue a hefty regional bank, according to investment bankers, consultants and investors.
+"Two years ago, it was impossible for a bank of that size to get approval to acquire almost anything," said Brian Graham, co-founder of advisory firm Klaros. "Now, it's possible they can get a deal done. I'd be shocked if they aren't exploring it."
+After spending much of the last decade in a penalty box — Citigroup via consent orders and Wells Fargo capped by growth restrictions — both institutions have cleared key regulatory hurdles and are in growth mode.
+A large acquisition — like the ones that rival JPMorgan pulled off during the crises of 2023 and 2008 — would give Wells Fargo or Citigroup thousands of branches and billions of dollars in deposits.
+For Citigroup, which has only about 650 U.S. branches, it would offer a much-needed source of cheaper funding. For Wells Fargo, which already has a large branch network, such a transaction would add more scale and cost-cutting opportunities.
+"There's a massive race for scale, and the shot clock is running," KBW analyst Chris McGratty said about the broad need for industry consolidation. "If you want to do something, this is the time to do it."
+While there are over 4,200 banks in the U.S., only a handful would make sense as acquisition targets for Wells Fargo or Citigroup. A viable target needs to be large enough to move the needle, but small enough to keep the acquirer comfortably beneath the 10% national deposit cap. On top of that, a complementary branch network, good cultural fit and quality deposits are must-haves, making most deals hard to justify.
+Run screens on those criteria, and five regional banks emerge as strong contenders for either bank.
+Fifth Third delivers a commercial and retail engine across the Midwest and a fast-growing Southeastern footprint. Huntington provides a low-cost deposit base alongside a growing branch presence in high-growth markets in Texas and the Carolinas.
+Citizens offers dense retail and commercial coverage across affluent Mid-Atlantic and New England cities. KeyCorp brings a middle-market commercial business and branches stretching from the Great Lakes to the Pacific Northwest.
+Finally, Regions delivers a retail deposit footprint in the fast-growing Southern corridor, including Texas and Florida.
+Beyond that group, a bank that would work specifically for Wells Fargo is Zions, which provides relationships across high-growth Western states, fitting well with its footprint.
+For Citigroup, a possible target that makes sense is First Horizon, with its presence across the fast-growing U.S. Sunbelt.
+Wells Fargo and Citigroup declined to comment for this article. Most of the regional banks mentioned above also declined to comment, with the exception of Huntington, Zions and First Horizon, which did not respond.
+'We will look at it'
+When asked about the potential for Citigroup to purchase a large bank in April, CEO Jane Fraser said the bank's focus is on organic growth, not deals.
+Still, Citigroup executives reportedly discussed the idea of buying a major regional lender to bolster its deposit base, Bloomberg News said in March. Citigroup said at the time that the report was "baseless speculation." The firm's shares dropped more than 4% that day.
+To many of the analysts covering the bank, Citigroup is still trying to prove that its self-help story can deliver higher returns. Taking on a large regional bank would add branches, employees, technology systems and integration risk while Citigroup is trying to simplify itself.
+"A depository deal would be a major distraction" for Citigroup, said KBW's McGratty.
+Wells Fargo CEO Charlie Scharf, on the other hand, has telegraphed an openness to a transformative deal, from acquiring a bank to a credit-card player, even as he also emphasized the organic growth emphasis.
+"We should always consider ways to increase franchise value, including M&A," Scharf wrote in a March shareholder letter, acknowledging that regulators were more amenable to deals.
+While "we feel no pressure to pursue" a deal, Scharf said, "if a great opportunity exists, we will look at it."
+But there's one problem: So far, the wave of consolidation that many expected when Trump returned to office in 2025 hasn't materialized. In fact, the value of North America bank mergers actually fell by more than half to $30.1 billion in the first six months of 2026 compared to the year-earlier period, according to EY data.
+Yes, regulatory barriers may be falling. But few banks are eager to sell when profits and share prices are rising.
+"Most companies have good profit margins, stock prices are really good, and it just raises the bar if they are going to sell," said Frank Sorrentino, a mergers banker at Stephens. "Everybody thinks they're a buyer, not a seller."
+Activist investors who have pushed banks to improve shareholder returns say executives are now routinely comparing the economics of an acquisition with simply repurchasing their own stock, creating more discipline around deals.
+Regional champion?
+The moment is still favorable for mergers, according to Sorrentino, who called it "probably the best environment that we've seen since the financial crisis."
+Last year, Congress overturned Biden-era restrictions around mergers at the Office of Comptroller of the Currency, and the Federal Deposit Insurance Corporation reinstated its long-standing merger guidelines, effectively restoring expedited reviews and lowering the bar for regulatory clearance.
+When it comes to big acquisitions, Wells has something Citi doesn't: a stronger stock currency. That could make a deal easier to justify, particularly if the target fills a geographic or product gap.
+But another way to win the race is for regionals to team up with each other.
+For years, bankers have speculated that two of the three biggest super-regionals — PNC, U.S. Bancorp and Truist — could eventually combine to create a new banking champion capable of taking on the giants.
+Bain projects that mergers among regionals will create one to three new megabanks with at least $1 trillion in assets by 2030, according to new research shared with CNBC. The consulting firm's predictive model, which was based on two decades of data, also found that the ranks of regional banks will shrink from 49 to as few as 30.
+"We expect more banks, particularly regional players, to use M&A to add capabilities," especially around technology including artificial intelligence, Bain said.
+That idea hasn't gone away. If Wells Fargo and Citi decide not to swing, the regionals have to decide whether they can afford to sit on the bench — or merge with each other to keep pace.
+
+</details>
 
 
 ---
@@ -169,173 +318,33 @@ As a special government employee, Zames can hold his new position for 130 days, 
 
 ---
 
-## Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge
+## India’s reliance on Russian oil hits all-time high - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：10411
+正文长度：0
 
-摘要：The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Record measles cases and rising childhood vaccine exemptions in the U.S. have fueled concerns that Americans are increasingly turning against vaccines.
-But the reality may be more complicated than that.
-The biggest challenge for public health officials trying to contain deadly diseases may not be widespread anti-vaccine sentiment or the influencers and political figures who spread it. Only a small share of Americans indicate they firmly believe common myths about the shots, according to a survey released in July by health policy research organization KFF.
-Many other Americans fall into a large, uncertain middle ground — neither firmly pro-vaccine nor staunchly opposed — where they have questions or anxieties about shots and may be susceptible to conflicting messages about their safety and effectiveness.
-KFF presented adults with four common vaccine myths. Fewer than 1 in 10 respondents said each claim was definitely true. But at least half fell into a gray area, saying the claims were either "probably true" or "probably false."
-"What's more true is a lot of people are confused," Drew Altman, KFF CEO and founding president, said in an interview. "They don't know who to believe, they don't know what to believe, and that means that a lot of America is stuck in the middle, unsure and they're up for grabs."
-That uncertainty could pose a growing public health hazard as the Trump administration reshapes federal vaccine policy and health officials grapple with declining immunization rates for some shots. Vaccine misinformation has a larger megaphone than ever with Trump in the White House: Earlier this month, without evidence, he linked the measles-mumps-rubella vaccine to autism, as he called for splitting the routine childhood immunization into separate shots.
-People who are confused about vaccines may become "paralyzed" and delay or avoid decisions such as whether to immunize their children, Altman said.
-The majority of Americans still get themselves and their children vaccinated, but "even little dips in that coverage could lead to more of a highly contagious virus like measles circulating," said Jess Steier, a public health scientist and founder and CEO of Unbiased Science, which specializes in making complex scientific concepts understandable.
-Still, she emphasized that while people with questions about vaccines may be susceptible to misinformation, they can also be reached through clear, evidence-based information and conversations with trusted healthcare providers.
-"Uncertainty can resolve once people have time, information and access," she added.
-Why people are uncertain about vaccines
-Vaccine hesitancy is much more complicated than outright opposition to vaccines, Steier said. Social media and the current political environment only fuel more of the confusion, she added.
-People are often exposed to emotionally charged, alarming content online because social media algorithms tend to amplify it, Steier said. As a result, many people are encountering conflicting messages about vaccines and struggling to determine which sources are trustworthy. Rather than being firmly anti-vaccine, many are simply overwhelmed by competing information, she said.
-Some of that messaging comes from political leaders such as Trump and Health and Human Services Secretary Robert F. Kennedy Jr., which makes the challenge facing other public health officials tougher. Kennedy has frequently said that he is not "anti-vaccine," but he has a well-documented history of spreading scientifically inaccurate information around vaccine safety and efficacy.
-Based on years of reviewing comments, questions and survey responses from people engaging with Unbiased Science's social media platforms, the company developed a framework for understanding vaccine hesitancy. A narrower version named "LANDS" was specifically developed for pharmacists in partnership with the National Alliance of State Pharmacy Associations, as most adult vaccinations now occur at pharmacies, Steier noted.
-Steier said the "LANDS" framework identifies five broad groups: "Lost" people who are confused by conflicting information and don't know whom to trust; "Anxious" people who fear side effects; "Naturalists" who prefer natural immunity and are skeptical of medical interventions; "Distrusters" who are broadly suspicious of institutions such as government, medicine and pharmaceutical companies; and "Shruggers," who aren't opposed to vaccines but don't view them as a priority or necessary for themselves.
-Steier noted that while those are major factors driving vaccine hesitancy, people likely won't "cleanly fall into one of these buckets."
-Dr. Lori Handy, an attending physician and associate director of the Vaccine Education Center at Children's Hospital of Philadelphia, agrees.
-"What we actually find is that individuals don't bucket as nicely as we want because the factors that play into either having questions or having hesitancy about vaccines are really complex and are coming together as this combination of social factors, religious factors, access factors and who's on their Instagram feed," she said in an interview.
-Some people's beliefs about one vaccine may not even transfer over to another shot at times, Handy added.
-Andrew, a 19-year-old from Pennsylvania who asked that his last name be omitted for privacy, said his family is the primary reason why he has not yet received any vaccines. He said several factors shape his family's skepticism about immunization: misinformation, distrust of the healthcare industry and the government, and their religious background.
-He said he grew skeptical of his family's vaccine positions over time and eventually researched immunizations, which helped him "know the reality better" and decide to start getting vaccinated. He said he's "fairly certain" he'll get caught up on all the major vaccines over the next few months.
-He said he still has a few concerns about vaccines, such as potential side effects, but noted that the bigger issue at hand is the conflict his decision could create within his family.
-Measles cases rise, childhood vaccinations fall
-Many Americans are uncertain about vaccines at a time when the U.S. is seeing record cases of measles, potentially heightening the risk to public health.
-The U.S. has so far reported 2,777 confirmed measles cases and 36 new outbreaks across 47 jurisdictions this year, marking a 35-year high that surpasses 2025's previous multidecade record, according to data released Friday from the Centers for Disease Control and Prevention. More than 93% of the infected individuals are unvaccinated or have an unknown vaccination status, the agency said.
-At the same time, U.S. childhood vaccination rates have inched down to about 92% for kindergartners, while nonmedical exemptions reached a record high of 4.2% during the 2025-2026 school year, the CDC said this week. Those exemptions — the majority of which are for non-medical reasons — represent an estimated 155,000 children nationally.
-This postpandemic decline in both figures leaves some communities vulnerable and could help fuel the resurgence of preventable illnesses such as measles.
-"This is one of those really terrifying things about certain infectious diseases — they are just so spreadable in so many areas, and when you have a high population of unvaccinated individuals, they will inevitably get infected when they encounter that virus," Steier said.
-Handy said hesitancy around the measles vaccine dates back to 2000 or even earlier. She cited a publication, which has since been retracted, that tried to link the measles-mumps-rubella, or MMR, vaccine to autism despite studies repeatedly proving that there is no relationship.
-Still, that unfounded claim has continued to make some parents question the MMR shot, Handy said. Over the last two to three years, political leaders have further added to that skepticism by questioning the measles vaccine and attempting to change recommendations around it.
-Trump this month signed an executive order that suggests splitting the MMR shot, falsely claiming that the combined version is "quite lethal" and tying the vaccine and other jabs to autism. That type of rhetoric "makes parents less and less likely to vaccinate their child because they are seeing individuals in a position of authority who do not endorse it," Handy said.
-While the infectious disease and pediatric communities still strongly recommend the measles vaccine due to its safety record, some parents trust different authorities, she added.
-"All of a sudden, vaccine science has become a political issue or a partisan issue in a way that we've never seen before, and it is really, really challenging to be part of the American public and not know which message to trust because we are seeing different messages come out from the government, from our healthcare providers, from different health authorities, and people really have to then decide," Handy said.
-Approaching hesitant individuals
-Health experts said that addressing vaccine-hesitant people starts with listening rather than lecturing.
-"We've been a bit more paternalistic in the past, where we tell people things versus listening first and understanding why they might be hesitant or what questions they have," Steier said. "A lot of this, in my opinion, centers on listening first, understanding what's driving the hesitancy, not dismissing these things outright."
-Instead of dismissing social media as a source, providers should acknowledge that many people rely on platforms such as TikTok for health information and then help them compare that information with evidence from trusted medical sources, Handy added.
-The goal is to have an open conversation that addresses individual fears and helps people better evaluate the information they see, she said.
-Handy also argued that vaccines have become victims of their own success.
-Because diseases such as measles were largely eliminated for decades, many parents have never seen the illness firsthand and don't view it as a serious threat. As a result, the perceived risk of the disease is lower than the perceived risk of the vaccine, she said.
-"We're in a different period with a different risk profile that people need to understand for their child," Handy said. "Let's revisit this question that parents may have because times have changed, and we need to really keep their child safe."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5" target="_blank">India’s reliance on Russian oil hits all-time high</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Why some of America's biggest brands are losing ground in China
+## Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/21/us-brands-china-competition.html
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE90NnpuajF4cU9fY3VHTEpIc2tTSzU4ZGdWSmp1bFg2VkhHUnFoNVU4SlpScFI5aUtVMndMT1dkNXdBNXNEMGVlR0tKYUZmLU1GM3VuQTJabWZtaF9jSkZJVW1hNldjYTBPRXBuNVo5STU?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：10374
+正文长度：0
 
-摘要：Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> China was once one of the most attractive and fastest-growing markets for many American brands.
-With its population of more than 1.4 billion people and massive opportunities for businesses, companies were racing to take advantage of the boon that China could offer.
-But in recent years, some consumer brands, including Nike, Starbucks and General Motors, have begun to see the tide turn. With rising geopolitical tensions, a surge in domestic competition and a disconnect from the Chinese consumer, American companies have lost ground in the region that once offered fuel for growth.
-"China is such a big market. The numbers are so big so quickly when you talk about China that sort of everybody has wanted to try, and that's why all brands went there," Aaron Cheris, head of global retail practice at Bain & Company, told CNBC.
-Yet those companies haven't adjusted to the local market and its changing structures and needs, he said.
-"If anything, the question isn't what's going wrong in China — it's why isn't that happening in the rest of the world," Cheris added.
-Cheris said price premiums for American products are often not worth it for Chinese consumers, and Chinese brands often have a fast innovation cycle and better distribution within the region.
-"We're just not nearly as developed. Our brands don't necessarily think and develop quite in the same way," Cheris said.
-The U.S. and China have also been embroiled in geopolitical tensions over the past few years, especially with President Donald Trump's volatile tariff agenda. And while the political backdrop may be disincentivizing Chinese consumers from buying American, it coincides with a rise in pride for domestic brands as consumers look to buy more local.
-Some of those domestic brands have also disrupted the broader industry, reset innovation cycles and launched price wars.
-Still, some companies — such as Lululemon, Ralph Lauren and Kentucky Fried Chicken — are finding success in China with their products, a discrepancy Cheris said is due to "the basics" of their business strategies.
-"Am I coming in with a good value? Did I have a compelling product that felt locally relevant? Am I advertising and making it available in the channels and stores that are winning in that market?" he said. "It really is a blocking and tackling and running your brand right kind of story."
-For more U.S. companies to turn around their China businesses, Cheris said, they'll have to make sure the product is worth the price premium and quality.
-"The key will be which brands take it seriously enough and really build enough local capability to do that, rather than just saying, 'I'm going to take what I built globally and try to sell it to a Chinese consumer,'" he said.
-Here's how some consumer companies have seen their influence in China dwindle over the past few years:
-Retail
-Some retailers' popularity and relevance have tanked in China over recent years as their bets to go big internationally faltered.
-Nike is one of the biggest victims. The sneaker company has seen its China business shrink 30% since 2021, with its annual revenue hitting its lowest level in eight years in the spring. While China was once Nike's fastest-growing region, shoppers are increasingly turning to domestic brands over international ones, while Nike is attempting to overhaul its distribution model in the country.
-Yaling Jiang, founder of consumer research firm ApertureChina, previously told CNBC that Nike has "just become irrelevant" in China, while Adidas has gained traction.
-That slowdown is against a backdrop of China's sports renaissance, with the country's sportswear market more than doubling over the past decade, according to GlobalData.
-And Nike isn't sure it'll be able to recover its losses. On its most recent earnings call in June, outgoing CFO Matt Friend said he was unable to determine when the company's China business would return to growth. Still, Cathy Sparks, the vice president and general manager of Greater China for Nike, previously told CNBC the company is actively working to reconnect with Chinese consumers.
-Other retailers have seen similar struggles.
-Beauty retailer Estée Lauder has faced significant headwinds in China, with CEO Stéphane de La Faverie saying on a conference call in early June that he doesn't believe China will soon resume to double-digit growth.
-"We deal by making sure that our brands are the most locally relevant in the market where we operate," he said, adding that he's "confident" the company's performance will be revived.
-On an earnings call on Wednesday, de La Faverie said the company has seen net sales growth in mainland China, adding that "the market is strong."
-In 2022, Gap sold its China business to e-commerce firm Baozun in a $40 million all-cash deal after experiencing a slowdown in its business and an inability to connect with Chinese consumers. Under the deal, Baozun refined the company's local strategy and Gap broke even for the first time earlier this year, with plans to open 50 new stores in mainland China in 2026.
-Abercrombie & Fitch is also reportedly looking for local partners in China to hand off the reins of its business there and strengthen its performance.
-Some brands, such as Lululemon and Ralph Lauren,have managed to maintain relevancy and sales. Lululemon has seen its China business rise and now expects China to grow about 20% for the year, while Ralph Lauren saw 40% growth in China in its most recent quarter.
-Food and consumer packaged goods
-While some food and beverage companies, such as Kentucky Fried Chicken, have continued to see success in the region, others have seen stark declines.
-Starbucks entered mainland China in 1999, and it became the company's second-largest market by 2015. But the Covid-19 pandemic started a downward turn for the company, which saw Chinese consumers seeking out lower-priced local brands instead.
-"The market is going through a transition as we see an increase in mass market competitors, which we believe will shake out over time, and the market will emerge looking fundamentally different than what we see today," then-CEO Laxman Narasimhan said on a Starbucks earnings conference call in early 2024.
-Starbucks has seen intense competition from Chinese brand Luckin Coffee, which now has more than three times the number of stores in China. It also sells its drinks at a steep discount.
-At the same time, Starbucks' U.S. business was struggling, leading CEO Brian Niccol to create a joint venture with Boyu Capital to operate the company's business in China. Boyu holds a roughly 60% stake in the joint venture and aims to use its local knowledge to lift Starbucks' sales in China once again.
-China is also the second-largest market for consumer packaged goods giant Procter & Gamble. But in recent years, P&G's product sales have struggled in China.
-"Coming out of Covid, [Greater China] was a depressed market. It was a tough competitive environment, and the results were not great," P&G CEO Shailesh Jejurikar said on the company's earnings conference call in late July.
-Sales of its pricey SK-II skincare brand have seesawed. Chinese consumers are traveling less and scaling back spending even when they do go on vacation, hurting sales of SK-II, which relies heavily on luxury travel retail and duty-free stores. In late 2023, SK-II, which originated in Japan but is owned by P&G, also saw sales plummet, as anti-Japanese sentiment weighed on demand from Chinese consumers.
-Still, P&G maintains that many of its brands are strong in China, saying some segments are hurt more by the consumer environment than a loss in brand equity. Company executives said they can grow sales in China, such as with diapers made with silk fibers that are winning over consumers.
-"We are now growing share in China for the first time in 15 quarters, driven by fundamental changes we made similar to what we're doing in the company," Jejurikar told analysts in late July.
-Autos
-The U.S. automotive industry has been crippled in China.
-What was once the largest potential growth market for automakers a decade ago has now turned into a massive restructuring, largely driven by the rise of domestic Chinese car companies and overcapacity creating a price war.
-Detroit's "Big Three" automakers — GM, Ford Motor and Chrysler parent Stellantis, which is no longer based in the U.S. — have collectively fallen from a global market share of 21.4% in 2019 to an estimated 15.7% in 2025, according to S&P Global Mobility. As a result, they've retreated from the region or restructured their Chinese operations.
-General Motors, which is the longest-standing U.S. automaker in the country, is now just a shell of its former self in China. Its earnings in the region fell from around $2 billion annually in 2018 to two consecutive years of losses in 2024 and 2025.
-GM's fall from grace in the country comes as the automaker is seeing increased domestic competition and changing consumer sentiment. Experts have said local automakers are being fueled by government funding, as well as a culture of innovation and speed that China has instilled in its workers.
-Still, a slowing Chinese market and underutilization have forced domestic companies — such as BYD, Geely and more — to begin exporting to major auto markets globally, including Europe, Canada and South America.
-More Chinese consumers are also choosing electric vehicles over traditional gas-powered cars for their price and quality. New energy vehicles, which include battery and hybrid-powered cars, accounted for 65.1% of new passenger cars sold in July — up from 54% a year ago, according to China Passenger Car Association data released Tuesday.
-GM isn't the only American automaker considering its future in the region. EV leader Tesla is reportedly weighing the sale or spinoff of its Chinese business, according to a July report by The Wall Street Journal.
-Ford, which in recent years has worked to position itself as the most American automaker, has been moving more of its operations and sales efforts to the U.S., including shifting the production of its Lincoln models from China to the U.S. beginning in 2030.
-Between 2018 and 2022, Ford said, it saw a 32.4% decline in China sales. The company no longer reports its financial results by region.
-– CNBC's Gabrielle Fonrouge, Amelia Lucas and Mike Wayland contributed to this report.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE90NnpuajF4cU9fY3VHTEpIc2tTSzU4ZGdWSmp1bFg2VkhHUnFoNVU4SlpScFI5aUtVMndMT1dkNXdBNXNEMGVlR0tKYUZmLU1GM3VuQTJabWZtaF9jSkZJVW1hNldjYTBPRXBuNVo5STU?oc=5" target="_blank">Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## New York unseats San Francisco as the top market for tech talent, CBRE reports
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html
-
-正文长度：3326
-
-摘要：AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the new CBRE report.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
-It should come as no surprise that the number of artificial intelligence-specific tech workers is growing rapidly, and the effect of this growth on regional office markets is substantial. For the first time, New York's office market is home to the most tech workers, thanks in large part to AI, according to a new report from CBRE.
-New York's 394,300 tech talent jobs edged out the San Francisco Bay Area's 375,730 jobs, CBRE found. The report analyzes tech-specific workers in 75 metropolitan markets in the U.S. and Canada. It's the first time New York has taken the lead in the 13 years of this analysis.
-"The story there is that there's been cuts in the Bay Area, so the tech industry has contracted the size of the tech talent workforce, and the finance sector [in New York] has hired a lot of tech talent and a lot of AI workers," said Colin Yasukochi, executive director of CBRE's Tech Insights Center in San Francisco.
-For both the U.S. and Canada, AI tech roles grew by 45% in the past year, with San Francisco and New York each adding more than 20,000 AI-specific jobs since mid-2025, according to CBRE.
-As of June, there were 751,000 AI-related workers across the two countries, the report found. Those include both new jobs and conversions from existing jobs. AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the findings.
-By market, 37% of AI jobs in the U.S. are in the San Francisco Bay Area, New York, Seattle and Washington. While New York leads in overall tech talent, San Francisco still leads in AI, specifically.
-In Canada, there is greater concentration of AI employment, with 60% of those jobs based in Toronto, Montreal and Vancouver.
-Office leasing is rising accordingly in those markets where AI workers are most in demand.
-In San Francisco, AI companies made up 58% of all leasing in the first half of this year and have accounted for 30% of leasing activity, totaling about 10 million square feet, since 2023, according to CBRE.
-While overall tech drove the Bay Area's office market over the past few decades, the pandemic pushed many of those workers to remote jobs. AI, however, has a more office-centric culture and is now fueling the market's recovery.
-"It's more of the sort of startup innovation culture that we've seen, where people are in the office [a] minimum of four, but usually like five or six days a week," said Yasukochi. "Through this whole innovation process, being together and working in person is just much more efficient and innovative."
-In addition to San Francisco, AI leasing activity is concentrated most in Manhattan, Boston and Seattle, according to CBRE.
-There was concern that AI would reduce head counts, and consequently the need for office space, but in the short term, at least, that has not been the case.
-"It basically changes jobs and creates new jobs, more so than it eliminates," said Yasukochi, pointing specifically to the finance sector.
-
-</details>
-
-
----
-
-## Mark Carney says Canada is now ‘at war’ with US over trade - Financial Times
+## Mark Carney says Canada ‘at war’ with US over trade - Financial Times
 
 来源：金融时报
 
@@ -343,20 +352,7 @@ There was concern that AI would reduce head counts, and consequently the need fo
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzRsX1RtUnUzUTk5LU5LYlFlaVVZdk9jdzY4WGJqSVhFaEhhb3NjWEdpYUkyMjBrOF9XMmhLNVExSkhhbHBIR1RWQ3RKRTFyTk5uVVF4dGxVY3hmR3NpUmxvYkNTMnJMSWRLdXk2TC1qRm8zQXhJZ3NLdFZ0U3lLZVV0RWo?oc=5" target="_blank">Mark Carney says Canada is now ‘at war’ with US over trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5" target="_blank">Trump’s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzRsX1RtUnUzUTk5LU5LYlFlaVVZdk9jdzY4WGJqSVhFaEhhb3NjWEdpYUkyMjBrOF9XMmhLNVExSkhhbHBIR1RWQ3RKRTFyTk5uVVF4dGxVY3hmR3NpUmxvYkNTMnJMSWRLdXk2TC1qRm8zQXhJZ3NLdFZ0U3lLZVV0RWo?oc=5" target="_blank">Mark Carney says Canada ‘at war’ with US over trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -374,93 +370,80 @@ There was concern that AI would reduce head counts, and consequently the need fo
 
 ---
 
-## Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise - Financial Times
+## Are America’s vast Gulf bases worth rebuilding? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjFhbS01RDk0aEoyc2FnLWxlc0F5empPRGh0M0dCeEkyNjVucUVta2ZBR3JWVUVXejluVWw1NnNnNEZ4TFdmWmI4NE11TXhjZjNYc1Bub2FHakI5aG40aWFIMzE1Z3V1VnFsWWhMVkxuWlduOVdiQjlLazNnelZMaVNRYk8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0J4UUd5Z0ZwNU5wczhTYXFlbmIzYTFyWTdyLTZqd0FMdGFwSEVWaU9zbVZqaVprOF9ZaDdYWnRrQU5MZGVXQnNGZlRuSVp6NURsamFTUTdQOUkxekR2V0Q2Vld4dWtVT0xxRTNxSzFMckhHZ29NRE1Hdmg1cHhUNmZzb1A?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjFhbS01RDk0aEoyc2FnLWxlc0F5empPRGh0M0dCeEkyNjVucUVta2ZBR3JWVUVXejluVWw1NnNnNEZ4TFdmWmI4NE11TXhjZjNYc1Bub2FHakI5aG40aWFIMzE1Z3V1VnFsWWhMVkxuWlduOVdiQjlLazNnelZMaVNRYk8?oc=5" target="_blank">Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0J4UUd5Z0ZwNU5wczhTYXFlbmIzYTFyWTdyLTZqd0FMdGFwSEVWaU9zbVZqaVprOF9ZaDdYWnRrQU5MZGVXQnNGZlRuSVp6NURsamFTUTdQOUkxekR2V0Q2Vld4dWtVT0xxRTNxSzFMckhHZ29NRE1Hdmg1cHhUNmZzb1A?oc=5" target="_blank">Are America’s vast Gulf bases worth rebuilding?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s robots rock, box and mix drinks. Can they outperform humans? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGM2MWNBTzVzYkZTRHBTOW4zcFNjUXFCYnBLUXN0bzB2aGVRbTlVcWRIY1hDWmxEQWlrQTlCNGZ4MFpDUndxUC14RFdBMmlsNmRsRlRTMXFBbUdjS2RYTmVpck5hVzduN0hLMVhQNFBDS2pTTkF3eU40SGlRbU14b2s2aVA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGM2MWNBTzVzYkZTRHBTOW4zcFNjUXFCYnBLUXN0bzB2aGVRbTlVcWRIY1hDWmxEQWlrQTlCNGZ4MFpDUndxUC14RFdBMmlsNmRsRlRTMXFBbUdjS2RYTmVpck5hVzduN0hLMVhQNFBDS2pTTkF3eU40SGlRbU14b2s2aVA?oc=5" target="_blank">China’s robots rock, box and mix drinks. Can they outperform humans?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters
+## Trump caps summer of US 250th birthday with auto race through Washington - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5" target="_blank">Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5" target="_blank">Trump caps summer of US 250th birthday with auto race through Washington</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## India launches rescue operation as bulk carrier sinks off east coast - Reuters
+## Norway to give over $9 billion to Ukraine in 2027 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5" target="_blank">India launches rescue operation as bulk carrier sinks off east coast</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5" target="_blank">Norway to give over $9 billion to Ukraine in 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Israel strikes southern Syria; Damascus condemns attack - Reuters
+## Putin wants to draft 300,000 new troops, Zelenskiy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5" target="_blank">Israel strikes southern Syria; Damascus condemns attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5" target="_blank">Putin wants to draft 300,000 new troops, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters
+## Syria foreign minister sees Israel security talks resuming despite no trust - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5" target="_blank">Putin says Ukraine opened 'Pandora's box' with strikes on economic targets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5" target="_blank">Syria foreign minister sees Israel security talks resuming despite no trust</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters
+## ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5" target="_blank">Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5" target="_blank">ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
