@@ -1,47 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-08-24 01:41:47
+更新时间：2026-08-24 12:59:56
 
-## India’s $10 Billion Equity Rush Puts August on Track for Record
+## Canada’s Dollar Tumbles and Bonds Gain on US Trade Rift
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record
+链接：https://www.bloomberg.com/news/articles/2026-08-24/canadian-dollar-tumbles-as-trade-rift-threatens-growth-outlook
 
 正文长度：0
 
-摘要：India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.
+摘要：Canada’s currency tumbled against the US dollar while bonds rallied after trade talks between the two countries collapsed.
 
 
 ---
 
-## FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost
+## European Stocks Steady as Investor Focus Shifts to Economic Data
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost
+链接：https://www.bloomberg.com/news/articles/2026-08-24/european-stocks-steady-as-investor-focus-shifts-to-economic-data
 
 正文长度：0
 
-摘要：Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.
+摘要：European stocks were steady, with the macro outlook back in focus as traders looked to data for clues about the health of the region’s economy.
 
 
 ---
 
-## Partners Group Exits Bubble-Tea Brand Gong Cha After Bain Buyout
+## Braskem Reaches Deal on $10 Billion Out-of-Court Debt Rework
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout
+链接：https://www.bloomberg.com/news/articles/2026-08-24/brazil-s-braskem-files-for-out-of-court-debt-rework-estado-says
 
 正文长度：0
 
-摘要：Partners Group will exit its private credit investment in Gong cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates this month.
+摘要：Braskem SA reached an agreement with its main creditors to pursue an out-of-court debt restructuring, according to people familiar with the matter.
 
 
 ---
 
-## Asian Stocks Dip With AI in Focus, Oil Declines: Markets Wrap
+## Bessent Eyes Treasury Cashpile for Debt Buybacks, CNBC Says
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-24/treasury-could-use-its-cash-pile-to-fund-buybacks-cnbc-says
+
+正文长度：0
+
+摘要：The Treasury Department could opt to draw down some of its cash pile to fund expanded buybacks of higher-yielding, older securities, CNBC reported Monday, citing two senior Treasury officials.
+
+
+---
+
+## Stocks Fall as Tech Slides Ahead of Big Week: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +62,99 @@
 
 正文长度：0
 
-摘要：Asian stocks edged lower, with the artificial intelligence trade in focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s annual gathering. Oil fell.
+摘要：Technology stocks dragged global equities lower in a risk-off start to a week stacked with high-stakes macro events and earnings. Oil dipped, offering relief to bonds.
 
 
 ---
 
-## Shein’s Purchase of Everlane Faces US National Security Review
+## A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/shein-s-purchase-of-everlane-faces-us-national-security-review-mt6k4xb6
+链接：https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html
 
-正文长度：0
+正文长度：9005
 
-摘要：US authorities are conducting a national security review of Shein Global Holdings Ltd.’s purchase of American clothing retailer Everlane after Shein sought approval for the deal, people familiar with the matter said, adding to a growing list of regulatory hurdles for the China-founded fast-fashion giant in one of its most important markets.
+摘要：Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Long-awaited media M&A appeared to be finally getting off the ground in recent months.
+But the delay of Paramount Skydance's $110 billion proposed acquisition of Warner Bros. Discovery has industry insiders now citing a chill on mergers and acquisitions.
+Last month, Paramount agreed to put its tie-up with WBD on hold until as late as June 2027, roughly nine months past its planned closing, while an antitrust challenge brought by a group of state attorneys general heads to trial. In recent days, The New York Times reported Paramount and California Attorney General Rob Bonta, who is leading the charge against the tie-up, would begin preliminary settlement talks — which were then swiftly called off, according to the paper.
+The deal had already won approval by global regulators, including from the Antitrust Division of the U.S. Department of Justice.
+Media executives and onlookers say the threat of increased scrutiny by state regulators, as well as a monthslong process before the dust settles, could put more than just Paramount's megamerger on ice.
+"It feels like the landscape has shifted significantly in the last few weeks around larger deals and combinations," said Jonathan Miller, a media industry veteran who currently serves as CEO of Integrated Media, which owns a portfolio of media and creator ventures.
+"I think we're going to see a lull in deals," Miller said.
+Return of regulatory uncertainty
+What once felt like a regulatory environment welcoming of mergers during President Donald Trump's second term now feels hampered by the threat that states could take up the regulatory baton.
+U.S. companies have inked just over 7,500 deals so far this year through Aug. 20, up from 7,015 during the same period last year, according to data provider Dealogic. Collective deal value is up considerably, too, as more megadeals get across the finish line.
+Media companies have been raring for some time to be part of the action as they seek to cut costs and add scale to their businesses amid the bleed of pay TV subscribers.
+Besides Paramount's takeover of WBD — which itself came months after David Ellison's Skydance completed its acquisition of Paramount — the industry has seen announcements of combinations, spinoffs and partnerships accounting for tens of billions of dollars in media market cap.
+Fox Corp. plans to acquire Roku for $22 billion. Comcast, after separating out its portfolio of cable networks into Versant, is now planning to spin off NBCUniversal — which also recently formed a partnership between its Peacock streaming service and YouTube. Netflix has also come to the negotiating table after long vowing to build rather than buy.
+The future of Fox and Roku's marriage was called into question in a recent analyst note, despite the transaction having relatively fewer antitrust concerns than Paramount-WBD. The deal got a lukewarm reception from investors in June but is nonetheless considered a strategic pivot for Fox into streaming distribution.
+Bernstein analysts noted what could be a "regulatory timing risk, particularly given the ongoing PSKY-WBD process."
+"While we do not view [the] Roku transaction as creating meaningful horizontal or vertical concentration concerns, current regulatory developments for [the] PSKY-WBD process indicate that transaction timing can be unpredictable even when the underlying antitrust arguments appear relatively weak," according to the Bernstein analysts' note.
+The Fox-Roku deal is expected to close in the first half of 2027.
+A similar dynamic is playing out with broadcast station owners hungry for consolidation, CNBC previously reported. Nexstar Media Group's $6.2 billion acquisition of Tegna was announced in August 2025 and formally closed in March, but a group of state attorneys general sued to unwind the agreement. A trial is slated for next year.
+The Comcast-NBCU calculus
+Meanwhile, Comcast's planned separation of NBCUniversal — expected to be completed next summer — swiftly raised hopes of more M&A to come when the move was announced in June.
+Both companies are well positioned and flexible to do deals once they trade as standalone entities. NBCUniversal will include the Universal movie studio, Peacock streaming business, NBC broadcast network and related assets, while Comcast will house the Xfinity-branded services including broadband and mobile.
+Executives for both NBCUniversal and Comcast have previously thrown cold water on the idea that the separation was for the purpose of dealmaking, but each company will undoubtedly have more avenues for M&A once the spinoff is complete.
+As NBCUniversal prepares for its future as a standalone company, internal discussions have revolved around partnerships, bundles and other similar opportunities with media and tech companies, people familiar with the matter said. M&A has not been a topic of discussion for the near term, although minority-stake opportunities could be on the table, according to two of the people, who spoke on the condition of anonymity to discuss internal strategy.
+Incoming Comcast CEO Michael Angelakis — known in the industry as a dealmaker — said during an investor call he believed Comcast had the scale to compete, but he also didn't dismiss future M&A. While a much-speculated combination with cable peer Charter Communications doesn't appear to be in the cards, other opportunities in the broadband and tech industry could be attractive, one of the people said.
+Yet executives at both of the soon-to-be separated companies are likely to avoid M&A discussions until Paramount-WBD's process is resolved, some of the people familiar said, taking that result as an indication of what deals may or may not be doable in a more scrutinous environment.
+Comcast and NBCUniversal leadership have become less inclined to consider near-term dealmaking with such potential regulatory pressure, according to those people.
+For years, NBCUniversal, like Warner Bros. Discovery, has been frequently floated as a potential takeover target. The two companies have similar portfolios made up of linear TV, film production and streaming.
+In the event Paramount's marriage with WBD gets blocked by the state AGs, NBCU could look less appealing to some would-be suitors.
+Partnership potential
+A stall on media M&A could spur an uptick in partnerships and bundles, Integrated Media's Miller said.
+NBCUniversal's Peacock deal with YouTube to effectively ingest content from NBCU into YouTube for Premium subscribers could be a model for one of those options. YouTube has long topped Nielsen's streaming viewership list, and deals that see more of traditional media's content embedded into the tech platform could become more commonplace.
+Many in the industry have argued that creating bundles between various streaming services is the most consumer-friendly and profit-driving alternative to the current decentralized ecosystem. Peacock and Apple TV offer bundled plans, Disney offers a bundle of its various streaming services — Disney+, ESPN and Hulu — and Fox One and ESPN offer a separate bundle.
+NBCUniversal has had conversations with various media players about potential bundles and content partnerships similar to the recently announced YouTube deal, according to one of the people familiar with the matter.
+In place of M&A, media companies are also likely to focus more on deals with content creators and for intellectual property to bulk up their platforms. Media companies have been gravitating toward adding this content — along with short-form programming — to their platforms in a bid to attract younger viewers.
+The economics of a deal
+One thing is certain: Ellison's Paramount won't be merged with WBD as easily as it planned.
+Both Ellison and WBD CEO David Zaslav recently voiced their confidence in the deal, but the delay will be costly for Paramount. Under the terms of its agreement, Paramount will owe WBD shareholders a so-called ticking fee the longer the deal is delayed, beginning Sept. 30. The fee could amount to roughly $650 million in cash value per quarter.
+Paramount last week filed to compel the suing states to post a $1.88 billion bond that it says would cover the ticking fee as well as other costs associated with the delay.
+Regardless, the economics of the deal look very different if it's completed in June of next year versus September of this year. The threat of similar holdups for other deals could infiltrate deal discussions and shift financial terms.
+"The market-definition fight just got a price tag. A March 2027 trial date turns what had been an abstract antitrust debate into a potential billion-dollar delay cost before the court even rules," said Mike Proulx, vice president and research director at Forrester. "The deal may still close, but the clean-close scenario is now gone.
+"Paramount can still argue that the states are defining the market too narrowly," Proulx said, "but proving that point just became much more expensive."
+Disclosure: Versant Media Group is the parent company of CNBC.
+
+</details>
+
+
+---
+
+## UPS is investing $2 billion in international, healthcare and supply chain businesses
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html
+
+正文长度：3131
+
+摘要：UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Parcel Service is investing more than $2 billion into its business across its international, healthcare and supply chain solutions businesses, the company told CNBC exclusively on Monday.
+The ongoing investments began in 2024 and will continue through 2028, but UPS said it had not previously disclosed the total investment. The shipping giant said the aim is to help businesses move faster and stay adaptable to changing macroeconomic pressures and global supply chain disruptions.
+"These investments are really aligned to one of our big strategic areas of focus, which is creating capabilities to enable our customers, particularly in complex industries, to more effectively run their global supply chains," Scott Szwast, vice president of international strategy, told CNBC.
+Some of the projects under the investment include a new hub in the Philippines this year, a new Canadian facility opening next year in Ontario and a new air hub at Hong Kong International Airport in 2028.
+UPS has launched a tech-enabled logistics center in Taiwan and a supply chain solutions facility in Amsterdam that combines freight, brokerage and cold-chain solutions. Szwast said the new logistics center in Taiwan has been able to leverage automation and robotics to increase the total supply chain speed by a day.
+The logistics company also said it now has flights running five times a week between Paris and Hong Kong and between Shenzhen, China, and Sydney to meet growing demand.
+Szwast said as global supply chains get more complicated, certain global markets, like those across Asia, are becoming more important for companies than they were before.
+"What they find in a lot of cases is that their supply chains look more like their histories than their strategies," he said. "They need very agile, very effective solutions to connect these new parts of their businesses. They need a lot of optionality and a lot of flexibility, and that's what we're investing in."
+UPS also recently announced a $48 million investment into 27 temperature-controlled facilities across its network to supplement its healthcare initiatives, including the shipment of temperature-sensitive medications like GLP-1 drugs. That announcement came as logistics companies around the globe are racing to stay ahead of growing demand in niche areas like cold-chain storage.
+Especially as macroeconomic pressures disrupt global supply chains, Szwast said, businesses have been increasingly trying to ensure they don't have "all their operational eggs in one basket." At the same time, those companies are also innovating new products with new shipping needs at rates not seen before, he added.
+Szwast said the investments will help UPS differentiate its end-to-end logistics offerings, ensuring the logistics company can equip businesses from the first step to the last step of the shipping process.
+"We're investing to give them tailored capabilities aligned to the needs of their specific industries that cover the markets they're increasingly sourcing from and distributing to, and do it in a way that they can make commitments to their customers," Szwast said.
+
+</details>
 
 
 ---
@@ -216,104 +308,28 @@ That idea hasn't gone away. If Wells Fargo and Citi decide not to swing, the reg
 
 ---
 
-## Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+## Iran threatens 46 ships in Strait of Hormuz transit crackdown - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOakEwa2dpWkhOOUNySkhjblVGd2VqSlliSFVHMG1HN09JaG5PSTJUQXk1UU13U0MyOEgxbk9wckZxNzBYMl9rOTNpN3BtR2JPM3ZzNll5MHpFaVZMTjRoaHVYM3ZfMlRwOUFaUDl2TWl5UVlsYnRKdmJTc1pxc0pBY0w4blM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：12677
+正文长度：0
 
-摘要：From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> ATLANTA — Coca-Cola is branching out into new customizable drinks and trend-driven equipment as consumers — and food service operators — increasingly want more options.
-Tucked away in an anonymous office park not far from its global headquarters here, Coke has been working on a flood of innovation at its secretive labs, including a way for its Freestyle drink dispensers to make dirty sodas, which combine pop with flavored syrups, cream or other ingredients. In partnership with AMC Theatres, it is testing a Micro Matic dispenser that can make brightly colored refreshers. And Coke has more white-label beverage options on the way, like an energy drink that can be customized by color and flavor.
-For many restaurants, handcrafted drinks like refreshers or iced coffee have become an important way to drive traffic and sales, even as diners broadly cut their spending. In the second quarter of this year, beverage servings at restaurants outpaced both servings of food alone and food with beverages, according to Circana data. When consumers are away from home, a drink often represents more than hydration, particularly for Generation Z.
-"Oftentimes these beverages are an opportunity to take a break, get some energy or protein, have a treat, at a lower price point," David Portalatin, Circana senior vice president and food service industry advisor, told CNBC.
-From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to meet the shift in consumer behavior and boost their profit margins. As operators seek to add more drinks to their menus, Coke must add more convenient beverage options — or risk losing sales to a competitor.
-"It's our job to ensure that we're providing unique experiences and beverages because it's not a bonus now with consumers — it's the norm, they expect it," said Megan Tallman, Coke's vice president of dispensed equipment and innovation for its North American business. "When you think about Gen Z, they are okay paying $10 for a drink that is craveable and that they can show on their Instagram or on TikTok, which is helping our customers drive margin and also beverage attachment."
-Beyond Freestyle
-This July, Coca-Cola's Freestyle drink dispenser celebrated its 17th anniversary.
-"Honestly, if you fast forward to today, Freestyle is more relevant today than probably it was over a decade ago," Tallman said, crediting the machine's dozens of flavors.
-Even with the variety it offers, Coke is still trying to evolve to keep up.
-In the time since the Freestyle was introduced, the number of specialty beverage chains has exploded, offering customers nearly unlimited ways to customize their drinks, from sugar content to toppings. Market research firm Technomic tracks more than 100 different chains, with more than 41,000 locations across the U.S. combined, selling everything from coffee to juice to boba.
-Ever since Freestyle began popping up in restaurants and movie theaters, the dispensers have poured more than 67 billion 8-ounce servings of beverages; Coke has been able to track them all, thanks to the equipment's real-time data collection. That data is coming in handy now.
-Inside its Equipment Innovation Center in Atlanta, a massive television screen displays real-time data showing what drinks dispensed by the Freestyle are trending, what time of day and where — from the region to the type of business. AHA sparkling water, for example, is trending up at office buildings and hospitals.
-Insights from Freestyle dispensers also help the company discover new drinks that it can launch in grocery stores, like the limited-time Coca-Cola Orange Cream, which combines its namesake soda with vanilla and orange syrup.
-"If we see that the flavors that we're offering to consumers in food service are actually resonating — it's the largest testing platform out there," Tallman said.
-But Coke has more ideas in store.
-First is the Freestyle Mini, which initially launched in Europe. Intended for bars and restaurants with limited space, the dispenser holds up to 16 drink options, more than double the choices available in a traditional soda gun. Coke unveiled the new smaller machine at the National Restaurant Association Show in Chicago this spring, but the company has not yet sold it to customers in the U.S.
-And then there are other equipment ideas that aren't as far along, inspired by Coke's desire to branch out into dirty soda, refreshers and coffee.
-To automate dirty soda, Coke has created a prototype that adds a dairy module to the classic Freestyle dispenser. Utah-based chain Swig takes credit for its invention of the dirty soda, although the trendy drink has now spread far and wide, from KFC restaurants to grocery store shelves.
-The trend has helped to change soda's image from a tired, mass-market drink to a handcrafted beverage that can be a treat.
-"Gen Z is the first generation raised to believe that nothing you consume is neutral, so everything is either helping you or costing you," said Matthew Greer, food, agribusiness and beverage analyst for Truist. "So, traditional soda does nothing for me, and it gives me 40 grams of sugar, so that fails the test."
-The rise of a dirty soda is boon for Coke, because pop is still its number one category. Coke's sparkling soft drinks business, which houses soda brands like Sprite, Schweppes and Fanta, still accounts for 69% of the company's overall unit case volume, even as other ventures like coffee and dairy-based beverages have grown. Coke's namesake soda alone accounted for 47% of global unit case volume and 42% of U.S. unit case volume in 2025, according to a company filing.
-Coke's prototypical dispensed dirty soda comes with a preprogrammed recipe, allowing for little customization but eliminating mess. The prototype, which took roughly three weeks to create, keeps the recognizable drip down the sides of the cup, giving the dirty soda its trademark visual appeal.
-Refreshing its offerings
-Beyond the Freestyle, Coke is also testing Micro Matic "mixology" dispensers to make refreshers and iced coffee drinks.
-Starbucks created the refresher back in 2012 to appeal to non-coffee drinkers who wanted a boost, especially in the afternoon, when traffic to its cafes slowed. Customers can pick their bases, flavors and even caffeine level. Refreshers now represent about $2 billion in annual sales for Starbucks.
-Other restaurant chains, such as Panera Bread to Dunkin', have taken note. Refreshers can be found on 8.1% of menus at national restaurant chains, according to Datassential.
-"It's almost, I think, a compliment, the fact that our Refresher business is being imitated in so many places," Starbucks CEO Brian Niccol said on the company's earnings conference call in late April.
-For its part, Coke is hoping to make its mark on the refresher category — whatever that means.
-"There's no real definition for what a refresher is, so we're trying to take a stand on what that can be and what function that we believe it should deliver to the guest," said Sarah Kate Sims, director of dispensed innovation for Coca-Cola North America.
-To Sims, a refresher is a "healthier" beverage that delivers some kind of pick-me-up without a traditional coffee caffeine base, instead using a green tea or a natural coffee extract as a base. And a refresher must look good, too, she said.
-"So that's what I'm working on for next year," Sims said.
-Inside 'The Vault'
-Coke's innovation efforts aren't restricted to equipment either. Across the parking lot from its Global Equipment Platforms office is "The Vault," where the company tests new drinks.
-"We bring a lot of our top customers here to showcase our innovation and mixology, but also to collaborate and problem-solve and tackle the biggest challenges in the business," said Caroline Zambataro, collaboration architect at Coke.
-One of those customers is Whataburger. Coke worked with the Texas-based burger chain for about 18 months on its line of "Whatafreshers," which launched in July.
-In some cases, consumers might not even realize that they are drinking a Coke product. For example, the company considers itself a "pioneer" of premium lemonade after launching a white-label version more than a decade ago.
-More than 40,000 bubbler dispensers carry the drink, according to Tallman. That number includes Wendy's, which sells it under "Dave's Craft Lemonade," after founder Dave Thomas.
-These days, lemonade is a popular base for a lot of refreshers and other brightly colored drinks. So, too, is Sprite, which ranked fifth among U.S. carbonated soft drink brands by 2025 sales volume, according to Beverage Digest.
-But Coke is also working on a new blank slate for handcrafted beverages: a colorless, relatively unflavored energy drink that comes in frozen or liquid form. The company plans to launch the beverage with food service operators in the first half of 2027.
-Energy drinks are a much smaller category than sparkling beverages, but the segment has the highest expected growth projections for the next 10 years, according to Tallman.
-"We believe this solution really meets many consumers because more female consumers are interested in energy if it's a handcrafted solution," Tallman said.
-Starting with Celsius, the conversation around energy drinks has changed, widening their audience and the number of occasions where they can be consumed, Truist's Greer said. Rather than a beverage that you buy at the gas station for a pick-me-up, now energy drinks can become a part of some consumers' workout routines.
-Coke's take on energy drinks will be designed to be served by employees to "limit consumption," according to Tallman. A 12-ounce serving of Coke's version contains 106 milligrams of caffeine, roughly the same amount as the same size can of Red Bull and half of the caffeine content of a Celsius can. Excessive caffeine consumption has become a liability concern after Panera Bread's Charged Lemonade was named in at least two wrongful death lawsuits.
-A golden opportunity
-Broadly, Coke has been fielding more inquiries from food service partners these days about customizable drinks, according to Melinda Pritchett, director of innovation for Coke's North American business.
-"If you're looking at what McDonald's is doing with the handcrafted beverages, all of our customers are saying, 'We should be in that as well,'" she said.
-As the largest U.S. restaurant chain by system sales, McDonald's playbook is often replicated elsewhere. In May, the fast-food giant expanded its McCafe menu in the U.S. to include refreshers and crafted sodas, including Coke's Sprite and Hi-C, as part of its broader strategy to lean into beverages.
-"In the U.S., [drink] sales are ahead of plan. Guest checks are higher, and we're seeing new occasions emerge throughout the day," McDonald's CEO Chris Kempczinski said on the company's earnings conference call earlier in August. "We've also seen strong food attachment rates on these orders."
-But the drink launch arrived during what was otherwise a lackluster quarter for McDonald's U.S. business, which reported same-store sales growth of just 0.8%. The company has replaced its U.S. president in the hopes of accelerating its domestic division.
-On Monday, McDonald's further expanded its beverage options with the Red Bull Dragonberry Energizer. Red Bull is privately owned, with no connection to Coke. The chain's choice to partner with a competitor rather than using an energy drink affiliated with Coke, like Monster, has sparked speculation about the state of the companies' more than 70-year-long relationship.
-"We have a fantastic and very long-standing partnership with McDonald's, and that's intact, right? We continue to be very happy with that partnership," Coke CEO Henrique Braun said on the company's earnings conference call in late April, answering an analyst question about the partnership. "… We do respect the decisions on other choices about their relationships with other companies."
-Ultimately, the most important part of any business relationship is the effect on sales.
-When testing a new beverage with a food service partner, Coke tracks a couple of different performance metrics, like "incremental volume." In other words, would a customer buy one of the new refreshers even if they wouldn't otherwise buy a drink?
-A survey of several dozen U.S. McDonald's franchisees conducted by Kalinowski Equity Research found that more than half of operators said the specialty drinks are performing in line with their expectations.
-"They are selling great, but most of it is a trade-off from other beverages," one anonymous franchisee said in the survey. "Not many new transaction counts."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOakEwa2dpWkhOOUNySkhjblVGd2VqSlliSFVHMG1HN09JaG5PSTJUQXk1UU13U0MyOEgxbk9wckZxNzBYMl9rOTNpN3BtR2JPM3ZzNll5MHpFaVZMTjRoaHVYM3ZfMlRwOUFaUDl2TWl5UVlsYnRKdmJTc1pxc0pBY0w4blM?oc=5" target="_blank">Iran threatens 46 ships in Strait of Hormuz transit crackdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency
+## US widens AI-driven investment gap with Europe - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVcweTlmdVBFUklyV3JpNlI0VndUVmtHc2Q1elJxck8wVFdDeE1vUkl3dl9jSklyOGtrclE1RWM1UUhGQjh2cnp0aUV5SDRub0xrQnByNkhhdUppTVdsb1ZhUklwX1FjZURHOUV4SUlqWE5GcmZ0MllGR2RtcTJxS0IyZUk?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1775
+正文长度：0
 
-摘要：Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Former JPMorgan Chase executive Matt Zames will join the Trump administration as an advisor to the Social Security agency, CNBC has learned.
-Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano, who became Social Security commissioner last year, tackle modernization of the agency, said people with knowledge of the move, who asked not to be named because they weren't authorized to discuss it publicly.
-He starts Monday at Social Security Administration headquarters in Baltimore, Maryland, where an office placard bearing his name has already been installed, one of the people said.
-Zames, a former hedge-fund trader who rose to prominence at JPMorgan after helping clean up the bank's $6 billion "London Whale" mess, was its chief operating officer for about five years. He spearheaded technology and cost-cutting projects at the lender and was seen as a top contender to succeed CEO Jamie Dimon until his departure in 2017.
-The next year, Zames became president of private equity firm Cerberus, where he oversaw tech investments and helped turn around the firm's Deutsche Bank stake. After leaving Cerberus in 2021, Zames started an advisory and restructuring firm.
-Zames, who has also had positions on key Treasury and Federal Reserve advisory groups tied to the debt markets, is joining an agency that relies on decades-old technology systems.
-Beyond the technology issues, the SSA is projected to exhaust its retirement trust fund in less than a decade, which could require benefit cuts to millions of Americans.
-As a special government employee, Zames can hold his new position for 130 days, but that could be spread over a longer period of time because he won't be working full-time, said one of the people familiar with the move.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVcweTlmdVBFUklyV3JpNlI0VndUVmtHc2Q1elJxck8wVFdDeE1vUkl3dl9jSklyOGtrclE1RWM1UUhGQjh2cnp0aUV5SDRub0xrQnByNkhhdUppTVdsb1ZhUklwX1FjZURHOUV4SUlqWE5GcmZ0MllGR2RtcTJxS0IyZUk?oc=5" target="_blank">US widens AI-driven investment gap with Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -331,119 +347,93 @@ As a special government employee, Zames can hold his new position for 130 days, 
 
 ---
 
-## Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times
+## AI is coming for your glasses - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5" target="_blank">Anthropic’s best AI model struggles to attract users as cheaper tools thrive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5" target="_blank">AI is coming for your glasses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## India’s reliance on Russian oil hits all-time high - Financial Times
+## Kevin Warsh seeks to soothe investors’ nerves as signs of economic strain mount - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSm00MzZFZ2FTbnZydXJHVzZBSW9GMXYwTF9OREg4d0VleVdtcVhpRWoyUjQxNE1XTENRbVV3WlpPaTlOdGFNY2RLYnJ1SXRFNWNFX1plZjRIeFNJdHlEWF9Hem92MmltZGVMNWc3U2JpSEc4S1I5d2xuYlliZkV0aFRpYXE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5" target="_blank">India’s reliance on Russian oil hits all-time high</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSm00MzZFZ2FTbnZydXJHVzZBSW9GMXYwTF9OREg4d0VleVdtcVhpRWoyUjQxNE1XTENRbVV3WlpPaTlOdGFNY2RLYnJ1SXRFNWNFX1plZjRIeFNJdHlEWF9Hem92MmltZGVMNWc3U2JpSEc4S1I5d2xuYlliZkV0aFRpYXE?oc=5" target="_blank">Kevin Warsh seeks to soothe investors’ nerves as signs of economic strain mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil major Eni bets on nuclear fusion becoming its ‘next refinery’ - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQy12WTkzOE5wZGh1eU9QMVFtM1VWOXl0TVJHdFlEOFdSOGZJeFJSN19wdng0aVFPbU5SLTYwT3RXTC05bGcyRnFkMXFEeU5wUXhUUHRlZTNyclUxSC1UbjhtNFg1MUh0NUhpaGJOZm5LQXRGRktkeVNUcGJkUnpBQUZYVGs?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQy12WTkzOE5wZGh1eU9QMVFtM1VWOXl0TVJHdFlEOFdSOGZJeFJSN19wdng0aVFPbU5SLTYwT3RXTC05bGcyRnFkMXFEeU5wUXhUUHRlZTNyclUxSC1UbjhtNFg1MUh0NUhpaGJOZm5LQXRGRktkeVNUcGJkUnpBQUZYVGs?oc=5" target="_blank">Oil major Eni bets on nuclear fusion becoming its ‘next refinery’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Why is the far right so obsessed with knights? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWFRlc3RaMEVpM3hFV0JmRzBuMDdlYk1nb213SERCdjdGRlVjWm5DVk5LczZsTG5taS1nZ0pOSDRNT3lqTmJGaUlxUmxhSzQ2MDE4QzVDSm9WLXJTRG05M0dvOEZvYW5wVnZVNHpZX2k?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWFRlc3RaMEVpM3hFV0JmRzBuMDdlYk1nb213SERCdjdGRlVjWm5DVk5LczZsTG5taS1nZ0pOSDRNT3lqTmJGaUlxUmxhSzQ2MDE4QzVDSm9WLXJTRG05M0dvOEZvYW5wVnZVNHpZX2k?oc=5" target="_blank">Why is the far right so obsessed with knights?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Oil falls ahead of US announcement on new Iran sanctions - Reuters
+## French far-left leader Melenchon seen reaching presidential runoff, poll shows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2lDVjVQZnl0M0dpNHZEbGEtcDRQSzE5ekRBT0FWZ3JVZEd2VmJRSTQzTXQ4NXJuODVvVnZmbzJYM180bnNJN0RSZXctLTB2dDJsQVozQmYyRjJMVDRMXzBEcTEtcXNNdTdQZ1hiSURVRVlCcDd3SWxBaUpRU0s0SEdFYzYzWDhCdEsyMXUxd2drYXhWYWtTTDJ6b29Za0VtUzd4a1lxZGJEYUlPTVhFTVQ1RmN4VHFMNnI0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5" target="_blank">Oil falls ahead of US announcement on new Iran sanctions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2lDVjVQZnl0M0dpNHZEbGEtcDRQSzE5ekRBT0FWZ3JVZEd2VmJRSTQzTXQ4NXJuODVvVnZmbzJYM180bnNJN0RSZXctLTB2dDJsQVozQmYyRjJMVDRMXzBEcTEtcXNNdTdQZ1hiSURVRVlCcDd3SWxBaUpRU0s0SEdFYzYzWDhCdEsyMXUxd2drYXhWYWtTTDJ6b29Za0VtUzd4a1lxZGJEYUlPTVhFTVQ1RmN4VHFMNnI0?oc=5" target="_blank">French far-left leader Melenchon seen reaching presidential runoff, poll shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## UK's Burnham to visit Ukraine with plan to support long-range missile production - Reuters
+## Hungarian Gripen jet crashes, no injuries reported, PM Magyar says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJiOHBHQVlWUC1FMFFRMUctRkpSVnZlOS1LTmVQQ3kxWkZTRU9FSVJzaC0tWTJyaTlUbWhYc0pnWTdBejhaemt6YllZbUx6MDV0QVlvMTVuQUx0LURPdm9qVEZ3eEtKQ01EeHMtY0pHVVJkYTVuVUFUcENEVm53cmFFQmE2QWU4SEVBVTViS2lCUnlJaVYtUy1lQjJ6TWNEc1BYbXphMmpwT0Radkw3ejNWM19oSWtHYXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTZMYWRxUzlEUm14Q2JudnRTZ0xOY0ZIcTJHYnJsTDlYNGRwdWh5TUQ1QzZIWl9rVVdyOWFuRl9seXd3NFdZYjk1TVNmQVJoU09paE5zUUVRbVpVS2dWZTE4elVzb3dHYWUxQTdfR0Jsd3Y2UktMaTE0U2xRR0U4MzMwQTc5WFE2dkVnNnZCSGNKUU9JM3RDZnQ2M0hQY1l6Wk9jQTMzeFRhSjhkSTB0c25QUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJiOHBHQVlWUC1FMFFRMUctRkpSVnZlOS1LTmVQQ3kxWkZTRU9FSVJzaC0tWTJyaTlUbWhYc0pnWTdBejhaemt6YllZbUx6MDV0QVlvMTVuQUx0LURPdm9qVEZ3eEtKQ01EeHMtY0pHVVJkYTVuVUFUcENEVm53cmFFQmE2QWU4SEVBVTViS2lCUnlJaVYtUy1lQjJ6TWNEc1BYbXphMmpwT0Radkw3ejNWM19oSWtHYXc?oc=5" target="_blank">UK's Burnham to visit Ukraine with plan to support long-range missile production</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTZMYWRxUzlEUm14Q2JudnRTZ0xOY0ZIcTJHYnJsTDlYNGRwdWh5TUQ1QzZIWl9rVVdyOWFuRl9seXd3NFdZYjk1TVNmQVJoU09paE5zUUVRbVpVS2dWZTE4elVzb3dHYWUxQTdfR0Jsd3Y2UktMaTE0U2xRR0U4MzMwQTc5WFE2dkVnNnZCSGNKUU9JM3RDZnQ2M0hQY1l6Wk9jQTMzeFRhSjhkSTB0c25QUQ?oc=5" target="_blank">Hungarian Gripen jet crashes, no injuries reported, PM Magyar says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO - Reuters
+## Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTVYVnd5QjJpb1dJZXZhOVFLbjJfbFZRa3Y4YkpSMmJ3WjZfbE15VFB5THdHbEdSVkdsQjlGSFJwSjcyNjQ2M2U2bGNjYmdOc1hzWVA0bTdsdzlnQWo5YVNONkU5aENDQ0xvMWRyQkxxQVowZFp4TlFicnNzc1Vad1hqQ3VRdFZ6SDdkNUlFZjZzOW5XQkt1ZG12QjB3bHRERnY2UXFn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ5bXpNWkVOd1I2LXFQZHl2ZldvaHo2ZnBnVTMtUjlicmxnRlBCVk5sMjlsM2RjTkk0TkY3SlYzSnVUOTRKYXc0aW9odE5GX2NUVVBLdS1NMkdEQlNCMVdKakRDbURxVDVpX0tra3lUVWtNT3pMaEtnMkc1a3BXdm1IRWtGWnFBUWZucWZiNUJsYzFBVGFaQ2xNQUdRRncxbHhGT1ROZEk3cTl3MnhmQi1rWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTVYVnd5QjJpb1dJZXZhOVFLbjJfbFZRa3Y4YkpSMmJ3WjZfbE15VFB5THdHbEdSVkdsQjlGSFJwSjcyNjQ2M2U2bGNjYmdOc1hzWVA0bTdsdzlnQWo5YVNONkU5aENDQ0xvMWRyQkxxQVowZFp4TlFicnNzc1Vad1hqQ3VRdFZ6SDdkNUlFZjZzOW5XQkt1ZG12QjB3bHRERnY2UXFn?oc=5" target="_blank">Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ5bXpNWkVOd1I2LXFQZHl2ZldvaHo2ZnBnVTMtUjlicmxnRlBCVk5sMjlsM2RjTkk0TkY3SlYzSnVUOTRKYXc0aW9odE5GX2NUVVBLdS1NMkdEQlNCMVdKakRDbURxVDVpX0tra3lUVWtNT3pMaEtnMkc1a3BXdm1IRWtGWnFBUWZucWZiNUJsYzFBVGFaQ2xNQUdRRncxbHhGT1ROZEk3cTl3MnhmQi1rWQ?oc=5" target="_blank">Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tens of thousands ordered to evacuate in Nevada as fire threatens Reno - Reuters
+## UK briefs energy chiefs after Iran-linked cyber attack reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQRy1UV0V0SjJTWmFRM0VUNXc2WHkyNjZEU3VVU01nWkNDODRBcEd6eFhMZlZZQVM0Unh6bFZzOE5HSXJHV0NxN1hhVF9RMTBOWEJ6OUN1cjRmZTBEQWpmQjlyWlQ1ZDlFVXFHLVh2b1NrcXFqNXF1R09JR2JFbDJjdi1keUdVN1BHRzhwWmMtUlBfMlZnQkpnZDZLNndkWXhZZ3dNOGhJUFRfLTJUMXdxYzBReWY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ?oc=5" target="_blank">Tens of thousands ordered to evacuate in Nevada as fire threatens Reno</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQRy1UV0V0SjJTWmFRM0VUNXc2WHkyNjZEU3VVU01nWkNDODRBcEd6eFhMZlZZQVM0Unh6bFZzOE5HSXJHV0NxN1hhVF9RMTBOWEJ6OUN1cjRmZTBEQWpmQjlyWlQ1ZDlFVXFHLVh2b1NrcXFqNXF1R09JR2JFbDJjdi1keUdVN1BHRzhwWmMtUlBfMlZnQkpnZDZLNndkWXhZZ3dNOGhJUFRfLTJUMXdxYzBReWY?oc=5" target="_blank">UK briefs energy chiefs after Iran-linked cyber attack reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Landslide at Guinea landfill kills 30, government says - Reuters
+## German billionaire Klaus-Michael Kuehne dies at age 89 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTdhSU5pTjdVYUdWZnhGczIwbG0yYW1DZldpTDJHSkdzUFFrejlibXBSTVJIeFhQZndMd1VRUXUzSnU0MmN5UHhvV3ZuSUU5aGJVbncyb0JUcUl0RTV5XzRQTG9tZ1Y2Um41dGZ3LV9rUmdaSmstdUVyRE5NWGI3NjdWNUJ5a0xXdUJ0MGx2TENSQmR4Szd6SWYzWHZqdC1tYXhTR194aFQ1V1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3Fvc29xMF9oYUFVX1Q3dUlhUWlHcDJMTjd5NnJJQURIQ3dsZmVvR0lSaVh2dU92Vm5Ga0lUSF83VHBfQnBvM0pMbFNlemNuVkRSMWQ3T3pLZEJDWWVuaHdZOEdHOWtIYmpBU1Z3NFZBbll4VHNiaGE1aDU0SXU5ckhvUHlZRGFINXVXd3NWa0cycE9lRnBzYWtmOWFYTHNfWVhLaGFn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTdhSU5pTjdVYUdWZnhGczIwbG0yYW1DZldpTDJHSkdzUFFrejlibXBSTVJIeFhQZndMd1VRUXUzSnU0MmN5UHhvV3ZuSUU5aGJVbncyb0JUcUl0RTV5XzRQTG9tZ1Y2Um41dGZ3LV9rUmdaSmstdUVyRE5NWGI3NjdWNUJ5a0xXdUJ0MGx2TENSQmR4Szd6SWYzWHZqdC1tYXhTR194aFQ1V1E?oc=5" target="_blank">Landslide at Guinea landfill kills 30, government says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3Fvc29xMF9oYUFVX1Q3dUlhUWlHcDJMTjd5NnJJQURIQ3dsZmVvR0lSaVh2dU92Vm5Ga0lUSF83VHBfQnBvM0pMbFNlemNuVkRSMWQ3T3pLZEJDWWVuaHdZOEdHOWtIYmpBU1Z3NFZBbll4VHNiaGE1aDU0SXU5ckhvUHlZRGFINXVXd3NWa0cycE9lRnBzYWtmOWFYTHNfWVhLaGFn?oc=5" target="_blank">German billionaire Klaus-Michael Kuehne dies at age 89</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
