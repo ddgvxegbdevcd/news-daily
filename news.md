@@ -1,32 +1,6 @@
 # 每日财经新闻
 
-更新时间：2026-08-25 01:36:55
-
-## Asian Stocks Dip After US Tech Selloff, Gold Gains: Markets Wrap
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates
-
-正文长度：0
-
-摘要：Asian equities followed Wall Street lower as investors cut exposure to technology shares ahead of earnings that may test confidence in the artificial intelligence trade. Gold climbed for a fifth consecutive day.
-
-
----
-
-## Bessent Defends Buyback Plan, Stops Short of New Bond Measures
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-08-25/bessent-defends-buyback-plan-stops-short-of-new-signals-video
-
-正文长度：0
-
-摘要：Treasury Secretary Scott Bessent refrained from any further signals on revamping US debt management on Monday, following a report that his department could draw down some of its cash pile to fund buybacks of higher-yielding older securities. Bloomberg's Garfield Reynolds discusses. (Source: Bloomberg)
-
-
----
+更新时间：2026-08-25 12:56:21
 
 ## Latest Oil Market News and Analysis for Aug. 25
 
@@ -36,33 +10,205 @@
 
 正文长度：0
 
-摘要：Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.
+摘要：Oil extended declines after a US plan to ramp up economic pressure on Iran spared the country’s trading partners from harsher measures for now, while mediators said they were continuing efforts to end the conflict.
 
 
 ---
 
-## Gold Holds Near Three-Month High as Traders Weigh Treasury Moves
+## Stocks Climb as Brent Below $90 Gives Bonds a Lift: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/gold-holds-near-three-month-high-as-traders-weigh-treasury-moves
+链接：https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Gold traded near a three-month high, as traders weighed the US Treasury’s next move in the bond market after the surprise intervention that’s revived concerns around fiscal policy.
+摘要：Global stocks rose as chipmakers rebounded, with falling bond yields adding support after Brent crude slid below $90 a barrel.
 
 
 ---
 
-## Sammons Distances Itself From Guggenheim in Call With Lenders
+## Treasury Can Send Strong Signal to Market, Swiber Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-24/sammons-distances-itself-from-guggenheim-in-call-with-lenders
+链接：https://www.bloomberg.com/news/videos/2026-08-25/treasury-can-send-strong-signal-to-market-swiber-says-video
 
 正文长度：0
 
-摘要：Sammons Financial Group reiterated to lenders that it has some distance from Mark Walter’s Guggenheim Partners, after a report last week focusing on the longstanding ties between the firms hit the value of the life insurer’s bonds.
+摘要：Meghan Swiber, managing director of US rates strategy at BofA Securities, says the US Treasury can cut issuance at the back end of the yield curve, which she says would send a more impactful message to the market. Swiber also talks about what Fed Chair Kevin Warsh may say at Jackson Hole later this week. She speaks on "Bloomberg Surveillance." (Source: Bloomberg)
+
+
+---
+
+## Russia Eyes Grain Duty Pause This Year on Ukraine Strikes
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-25/russia-eyes-grain-duty-pause-through-year-end-on-ukraine-strikes
+
+正文长度：0
+
+摘要：Russia is weighing a suspension of the floating export duty on wheat, barley and corn through the end of 2026 as exporters face mounting logistics problems after Ukrainian attacks disrupted shipments through the Black and Azov seas.
+
+
+---
+
+## Meloni Ally Backs Energy Windfall Tax to Ease Italian Fuel Costs
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-08-25/meloni-ally-backs-energy-windfall-tax-to-ease-italian-fuel-costs
+
+正文长度：0
+
+摘要：A leading ally of Italian Premier Giorgia Meloni endorsed a tax on windfall energy profits as the government prepares to extend measures to cushion the effect of the Iran war.
+
+
+---
+
+## Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html
+
+正文长度：2438
+
+摘要：Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a "challenging" environment.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Dick's Sporting Goods on Tuesday reported quarterly earnings that missed Wall Street expectations and lowered its outlook for Foot Locker amid what it called a "challenging athletic footwear and apparel marketplace."
+Dick's stock fell roughly 15% in premarket trading Tuesday.
+The company said Dick's stores saw 4.9% comparable sales growth for the quarter driven by "broad-based growth" across categories, including strong results from the World Cup.
+However, Dick's said Foot Locker saw comparable sales decline by 3.6%, leading the company to revise its outlook to for the Foot Locker business to a range of flat to down 2%. It still expects the Dick's business to grow between 2.5% and 4%, but the company lowered its overall net sales outlook for the year from a range of between $22.1 billion and $22.4 billion to a range of between $21.9 billion and $22.2 billion.
+The company lowered its consolidated operating income outlook from a previous range of between $1.69 billion and $1.81 billion to a range of $1.45 billion to $1.55 billion.
+Here's how Dick's performed in its second fiscal quarter compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
+- Earnings per share: $3.53 adjusted vs. $3.76 expected
+- Revenue: $5.59 billion vs. $5.65 billion expected
+For the period ended Aug. 1, Dick's reported net income of $315 million, or $3.50 per share, down from $381 million, or $4.71 per share, the year prior. Adjusting for one-time items, including its Foot Locker acquisition, Dick's reported $3.53 per share.
+Sales rose to $5.59 billion from $3.65 billion in the year-ago period.
+"While we are taking a more cautious view of the balance of the year, we remain highly confident in the strength of the DICK'S Business and our long-term opportunity at Foot Locker," CEO Lauren Hobart said in a statement.
+The company also said it received $59 million in tariff refunds during the quarter and $2.1 million in related interest income.
+The earnings come as Dick's is in the midst of implementing a turnaround for Foot Locker, which has previously weighed on the company's bottom line. Dick's has sought to refine Foot Locker's strategy to return to growth, especially at a time when sportswear is booming.
+Dick's acquired Foot Locker for $2.4 billion in 2025, saying at the time that it planned to use the deal to expand its international presence and better position itself against its competitors.
+
+</details>
+
+
+---
+
+## United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html
+
+正文长度：3967
+
+摘要：United is betting big on premium, international travel with a host of new routes.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Airlines said Tuesday it's planning to add a host of new international destinations next year that span Ljubljana, Slovenia, to Okinawa, Japan, continuing its so-far profitable bet that consumers will keep spending big to try new destinations abroad.
+United already offers more international service than other U.S. airlines and is selling destinations well beyond major tourist draws like Tokyo and Rome to capitalize on changing traveler tastes and grow profits, even as costs soar.
+"They want to get away from the overcrowded, large European cities," said Patrick Quayle, United's senior vice president, who heads the carrier's global network planning and alliances.
+Here are the additions:
+- San Francisco to Okinawa, Japan, starting March 27, on a Boeing 777-200ER
+- Newark Liberty International Airport in New Jersey to Ljubljana, Slovenia, starting May 12, on a Boeing 767-400ER
+- Newark to Olbia, Sardinia, in Italy, starting May 27, on a Boeing 767-300ER
+- Newark to Catania, Sicily, in Italy, starting May 28, on a Boeing 767-300ER
+- Newark to Ibiza, Spain, starting May 31, on an Airbus A321XLR
+- Newark to Valencia, Spain, starting June 2, on an Airbus A321XLR
+- Newark to Marseille, France, starting June 4, on an Airbus A321XLR
+- Newark to Terceira in the Azores in Portugal, starting June 9, on a Boeing 737 MAX 8
+And two new business-travel routes:
+- Newark to Luxembourg, starting April 2, on an Airbus A321XLR
+- Washington Dulles International Airport to Toulouse, France, starting April 26, on an Airbus A321XLR
+Airbus is based in Toulouse, and its U.S. office is in Herndon, Virginia, so that route — naturally, on an Airbus — targets the aircraft manufacturer and other aerospace business travel. Meanwhile, Amazon's European headquarters is in Luxembourg, while its second U.S. headquarters is in Arlington, Virginia.
+United said it has added 49 new destinations since 2021 with its push and that it is the only U.S. airline to fly nonstop to 32 of those locations.
+"All these new international destinations ... have become much longer seasons instead of just flying during the summer," United CEO Scott Kirby told CNBC's Phil LeBeau on Tuesday. "These go all the way through October. October has become one of our best months of the year."
+Quayle said United is trying to be a "one-stop shop" for customers at all stages of life "whether you're backpacking in college, you're going to and from Paris, whether you're in your 20s and you're going to a nightclub in Ibiza ... a business trip ... or a vacation or honeymoon in Sardinia."
+He said United has noticed customers are taking more so-called open-jaw flights where they fly into one city and out of another — think into Rome and out of Bari on Italy's Adriatic coast without having to backtrack to a major city — so having multiple destinations in countries like Portugal, Italy, Spain and France could grab consumers' attention.
+Quayle added that the carrier isn't dropping any of its existing routes to make room for the new ones.
+United is the second-most profitable U.S. airline after Delta Air Lines, though Delta has fewer international destinations.
+Delta's president, Peter Carter, told CNBC in June that the airline wants to fight United's dominance, especially for trans-Pacific flights. The airline this summer announced new service to Tokyo-Narita International Airport, as well as Manila in the Philippines, while launching its previously announced Los Angeles-Hong Kong route in June.
+Other adds from United include nonstop service from Los Angeles International Airport to foodie paradise Osaka, Japan, which it already serves from its San Francisco hub. The airline is also adding flights from Denver to Paris and will restart service from San Francisco to Tel Aviv, Israel.
+It also said earlier this year that it plans to launch flights from San Francisco to Sapporo, Japan, a high-end ski destination, in December.
+— CNBC's Michele Luhn contributed to this report.
+
+</details>
+
+
+---
+
+## Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html
+
+正文长度：4518
+
+摘要：Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines "for a very long time" even with the rise of EVs.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Bugatti CEO Mate Rimac said the supercar market is entering its "Swiss watch phase," with the wealthiest buyers rejecting high-tech electronics and electric vehicles in favor of precision mechanics and hand-crafted details.
+Rimac, the 38-year-old EV entrepreneur who took over Bugatti in 2021, said the car market is splitting in two: The mainstream global car market is becoming dominated by lower-priced EVs, many from China, while the very top of the car market will be driven by wealthy buyers who want more old-school cars with loud internal combustion engines and emotional appeal.
+He compared the car industry to watches, where digital and smart watches have taken over most of the market, while high-priced Swiss mechanical options remain popular with the wealthy.
+"For normal cars, normal people, the vast majority will be electric," Rimac said. "The upper segment, like sports cars and upwards, are going to stay combustion for a very long time, exactly like watches. Only like 5% of watches are made in Switzerland, but that's where 90% of profits are made. An Apple Watch or any kind of smart watch can do so many more things. But no one will pay $200,000 for it."
+When Rimac's EV startup, Rimac Group, gained control of Bugatti from Porsche and Volkswagen in 2021, many expected the newly formed Bugatti Rimac Group to launch an electric Bugatti.
+Instead, Rimac built an entirely new car powered by one of the largest naturally aspirated combustion engines ever built for a production car. The hybrid Tourbillon has an 8.3-liter V16 that delivers 1,000 horsepower, combined with electric motors for a total 1,800 horsepower.
+"It's kind of ironic that I'm now making the world's biggest combustion engine," he said. "You have the crazy situation now at our facility in Croatia. On the same production line, you have the world's most powerful electric car being built right next to the world's biggest combustion engine. Life is strange sometimes."
+Bugatti will make only 250 Tourbillons, which are sold out at a starting price of roughly $4.5 million. Rimac said the average Tourbillon customer adds another $600,000 to $700,000 in personalization add-ons, like special paint colors, leathers, stitching and other design features.
+The rise of personalization and customization has become one of the biggest profit drivers at supercar companies like Bugatti, Ferrari and Lamborghini. Supercar companies are also launching special one-off cars for their top customers that can cost tens of millions of dollars. At Monterey Car Week, Bugatti unveiled its latest one-off, called Destrier, which reimagines its track-based Bolide model with a lower stance, larger wheels and sculptural body work.
+Rimac said customizations and one-offs reflect a growing desire among today's wealthy to have unique objects that reflect their identity.
+"For these clients, they want something that's really theirs, that's connected with them," Rimac said. "It tells their story, their personality, their preferences, not just like a car. It's a story behind it."
+Rimac said his goal for Bugatti is to continue to boost production, quality and profits, while also retaining exclusivity. He said production will never go higher than "the low three-digit numbers."
+The company earned 200 million euros (US$233 million) in earnings before interest, taxes, depreciation and amortization last year and will continue to grow profits, Rimac said.
+Porsche AG agreed in April to sell its 45% stake in Bugatti Rimac to a global consortium led by HOF Capital. While some reports cited a valuation of over $1.1 billion for Bugatti, Rimac said the valuation is "substantially higher" than $2 billion.
+"What I want to do is make the world's best cars, the most exciting cars in the world, and have the world's most profitable car company on a percentage basis," he said.
+Rimac said that in the age of artificial intelligence, autonomous vehicles and EVs, the guiding principal for Bugatti will be the human factor.
+"You can get a car that's faster than any performance car from 10 years ago for like $50,000 from China," he said. "Performance is really becoming secondary. It's more about what I call the celebration of human skills. When you look at these cars, you see the amount of ingenuity and art and beauty. The car is, like, the most complex object you can buy. It's art, but it's art that needs to go 250 miles per hour and be safe, have downforce and survive in a crash test and go in the snow and extreme heat, and all those things."
+
+</details>
+
+
+---
+
+## Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html
+
+正文长度：2682
+
+摘要：Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Lego revenue is on a tear.
+The brickmaker posted a 21% revenue bump for the first half of the year, boosted once again by its now-stalwart lines like botanical bouquets, Formula 1 race cars and collectible sets.
+Lego reported record first-half revenue of 41.9 billion Danish kroner, or about $6.54 billion, as part of its biannual earnings report on Tuesday. Operating profit rose 22% year over year to 10.9 billion Danish kroner, or roughly $1.7 billion, the company said.
+The strong first half comes as Lego continues to expand its product catalog, capturing new customers and retaining its already avid fan base of brick builders.
+So far this year, the company has launched its Smart Play platform — a new technology that enhances brick sets with sensors that can react to movement, play sound and light up — as well as its long-awaited partnership with Pokemon. It has also expanded its presence in the sports realm with its F1 and FIFA partnerships.
+Gateways into the brand such as its line of botanical models and its ongoing partnership with Epic Games — which brings Lego to the digital space and elements from the popular video game Fortnite into the physical world — continue to draw in new consumers, the company said. And once they start building, CEO Niels Christiansen told CNBC, they explore other areas of the company's portfolio.
+"[New partnerships] bring in those who have not necessarily seen their passion point really that well represented in the Lego brand before," Christiansen said .
+"So I think that has recruited new consumers," he said. "We've also seen that we retain consumers really, really well, and we're selling more to those we have."
+Lego launched 332 new sets during the first six months of the year, another record high. All the while, Lego still produces legacy sets from years prior.
+And Lego provides a range of price points for consumers. For fans of Star Wars, for example, there is a $30 set of N-1 Starfighter from the "The Mandalorian" that has a more simplistic, kid-friendly build design, and there's another, more complicated set with nearly 2,000 pieces that retails for $250.
+Christiansen said even amid macroeconomic uncertainty, the company is seeing strong sales at both ends of the pricing spectrum.
+With its growing portfolio and diversity of pricing, Lego is seeking to cater to a wider demographic of consumers, from kids to adults and across genders.
+"What is really nice is that we're growing fast with kids now," Christiansen said. "We're also growing with adults. And the fact that we can master both and we can kind of cover the universe of consumers and not just a segment of it. I think that's also been very crucial."
+
+</details>
 
 
 ---
@@ -144,162 +290,132 @@ Delays past Sept. 30 would only increase the amount of expenses on Paramount's p
 
 ---
 
-## Main Street Sports sues Comcast, Charter for underpaid licensing fees
+## Bessent gets Drucked - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUjFCUDZuNzJhQ2NQX2VIMzJPMlhzS1YxSXB0NTg3eFpVUUVBWmRkby1jTkZ6VzUyUlg2a0hUdXQtbUVEUm1qQ0RtQ0RZZV9yWXg2Umlqa0gtU25xMHEtX0Y0R0xQVEF2TU83NExIUi0?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2329
+正文长度：0
 
-摘要：Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Main Street Sports, the now-defunct owner of a portfolio of regional sports networks, is suing cable companies Comcast and Charter Communications in separate lawsuits for what it alleges are underpaid licensing fees.
-The company that began its winddown earlier this year is alleging that Comcast and Charter — the two largest pay TV providers in the U.S. — breached their contracts and underpaid Main Street in the earlier part of 2026 when its networks were still delivering NBA and NHL games to local markets across the country, according to the lawsuits, which were seen by CNBC.
-The suits were filed in Delaware Superior Court on Monday. Representatives for Comcast and Charter didn't immediately respond to requests for comment.
-Main Street, the entity that originated as Fox Sports networks, has been through a series of owners since 2019, as well as several name changes. The company emerged from bankruptcy protection in early 2025, when its channels took on the name of FanDuel Sports Network. It had about 15 channels, and at one point after its bankruptcy exit aired games for about 30 teams across Major League Baseball, the National Hockey League and the National Basketball Association.
-However, despite touting subscriber growth as recently as the spring, Main Street continued to face liquidity issues when its MLB fees payments were due, CNBC previously reported. The company had long been weighed down by a heavy debt load.
-The issues led to its inevitable winddown. While it aired its final local MLB games in 2025, the company aired the entirety of the NBA regular season, as well as the NHL regular season and first round of playoffs this year.
-Problems have been piling up for regional sports networks as the pay TV bundle continues to bleed subscribers.
-Regional sports networks were once a lucrative business model for teams and leagues, as the channels pay high fees to air local games that trickle down to team payrolls. However the proliferation of cord cutting has led many pay TV distributors to rework their agreements with these channels.
-Even the direct-to-consumer streaming offerings for these networks have been in a state of change. Last month, two of New York's independently owned regional sports networks left their own streaming app for a deal to be distributed by streaming platform DAZN.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUjFCUDZuNzJhQ2NQX2VIMzJPMlhzS1YxSXB0NTg3eFpVUUVBWmRkby1jTkZ6VzUyUlg2a0hUdXQtbUVEUm1qQ0RtQ0RZZV9yWXg2Umlqa0gtU25xMHEtX0Y0R0xQVEF2TU83NExIUi0?oc=5" target="_blank">Bessent gets Drucked</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
+## First Brands forced into liquidation by bankruptcy court - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEtOZjRqUDdLcUNORWdiTXNxR3F6Rm52Vy1wTFo2Y3NRUnFIZlBtSWZmNHcyMnRENFE3LUVTRnZaZDY0VDdUaEs3OFBtNW5qNzNJai1CcGFiR1hQam5tUzBGOFhIOUFUQXFwWDUyNzhvb0xRMExpN1lWR2xGZDdkX1VEanM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：9005
+正文长度：0
 
-摘要：Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Long-awaited media M&A appeared to be finally getting off the ground in recent months.
-But the delay of Paramount Skydance's $110 billion proposed acquisition of Warner Bros. Discovery has industry insiders now citing a chill on mergers and acquisitions.
-Last month, Paramount agreed to put its tie-up with WBD on hold until as late as June 2027, roughly nine months past its planned closing, while an antitrust challenge brought by a group of state attorneys general heads to trial. In recent days, The New York Times reported Paramount and California Attorney General Rob Bonta, who is leading the charge against the tie-up, would begin preliminary settlement talks — which were then swiftly called off, according to the paper.
-The deal had already won approval by global regulators, including from the Antitrust Division of the U.S. Department of Justice.
-Media executives and onlookers say the threat of increased scrutiny by state regulators, as well as a monthslong process before the dust settles, could put more than just Paramount's megamerger on ice.
-"It feels like the landscape has shifted significantly in the last few weeks around larger deals and combinations," said Jonathan Miller, a media industry veteran who currently serves as CEO of Integrated Media, which owns a portfolio of media and creator ventures.
-"I think we're going to see a lull in deals," Miller said.
-Return of regulatory uncertainty
-What once felt like a regulatory environment welcoming of mergers during President Donald Trump's second term now feels hampered by the threat that states could take up the regulatory baton.
-U.S. companies have inked just over 7,500 deals so far this year through Aug. 20, up from 7,015 during the same period last year, according to data provider Dealogic. Collective deal value is up considerably, too, as more megadeals get across the finish line.
-Media companies have been raring for some time to be part of the action as they seek to cut costs and add scale to their businesses amid the bleed of pay TV subscribers.
-Besides Paramount's takeover of WBD — which itself came months after David Ellison's Skydance completed its acquisition of Paramount — the industry has seen announcements of combinations, spinoffs and partnerships accounting for tens of billions of dollars in media market cap.
-Fox Corp. plans to acquire Roku for $22 billion. Comcast, after separating out its portfolio of cable networks into Versant, is now planning to spin off NBCUniversal — which also recently formed a partnership between its Peacock streaming service and YouTube. Netflix has also come to the negotiating table after long vowing to build rather than buy.
-The future of Fox and Roku's marriage was called into question in a recent analyst note, despite the transaction having relatively fewer antitrust concerns than Paramount-WBD. The deal got a lukewarm reception from investors in June but is nonetheless considered a strategic pivot for Fox into streaming distribution.
-Bernstein analysts noted what could be a "regulatory timing risk, particularly given the ongoing PSKY-WBD process."
-"While we do not view [the] Roku transaction as creating meaningful horizontal or vertical concentration concerns, current regulatory developments for [the] PSKY-WBD process indicate that transaction timing can be unpredictable even when the underlying antitrust arguments appear relatively weak," according to the Bernstein analysts' note.
-The Fox-Roku deal is expected to close in the first half of 2027.
-A similar dynamic is playing out with broadcast station owners hungry for consolidation, CNBC previously reported. Nexstar Media Group's $6.2 billion acquisition of Tegna was announced in August 2025 and formally closed in March, but a group of state attorneys general sued to unwind the agreement. A trial is slated for next year.
-The Comcast-NBCU calculus
-Meanwhile, Comcast's planned separation of NBCUniversal — expected to be completed next summer — swiftly raised hopes of more M&A to come when the move was announced in June.
-Both companies are well positioned and flexible to do deals once they trade as standalone entities. NBCUniversal will include the Universal movie studio, Peacock streaming business, NBC broadcast network and related assets, while Comcast will house the Xfinity-branded services including broadband and mobile.
-Executives for both NBCUniversal and Comcast have previously thrown cold water on the idea that the separation was for the purpose of dealmaking, but each company will undoubtedly have more avenues for M&A once the spinoff is complete.
-As NBCUniversal prepares for its future as a standalone company, internal discussions have revolved around partnerships, bundles and other similar opportunities with media and tech companies, people familiar with the matter said. M&A has not been a topic of discussion for the near term, although minority-stake opportunities could be on the table, according to two of the people, who spoke on the condition of anonymity to discuss internal strategy.
-Incoming Comcast CEO Michael Angelakis — known in the industry as a dealmaker — said during an investor call he believed Comcast had the scale to compete, but he also didn't dismiss future M&A. While a much-speculated combination with cable peer Charter Communications doesn't appear to be in the cards, other opportunities in the broadband and tech industry could be attractive, one of the people said.
-Yet executives at both of the soon-to-be separated companies are likely to avoid M&A discussions until Paramount-WBD's process is resolved, some of the people familiar said, taking that result as an indication of what deals may or may not be doable in a more scrutinous environment.
-Comcast and NBCUniversal leadership have become less inclined to consider near-term dealmaking with such potential regulatory pressure, according to those people.
-For years, NBCUniversal, like Warner Bros. Discovery, has been frequently floated as a potential takeover target. The two companies have similar portfolios made up of linear TV, film production and streaming.
-In the event Paramount's marriage with WBD gets blocked by the state AGs, NBCU could look less appealing to some would-be suitors.
-Partnership potential
-A stall on media M&A could spur an uptick in partnerships and bundles, Integrated Media's Miller said.
-NBCUniversal's Peacock deal with YouTube to effectively ingest content from NBCU into YouTube for Premium subscribers could be a model for one of those options. YouTube has long topped Nielsen's streaming viewership list, and deals that see more of traditional media's content embedded into the tech platform could become more commonplace.
-Many in the industry have argued that creating bundles between various streaming services is the most consumer-friendly and profit-driving alternative to the current decentralized ecosystem. Peacock and Apple TV offer bundled plans, Disney offers a bundle of its various streaming services — Disney+, ESPN and Hulu — and Fox One and ESPN offer a separate bundle.
-NBCUniversal has had conversations with various media players about potential bundles and content partnerships similar to the recently announced YouTube deal, according to one of the people familiar with the matter.
-In place of M&A, media companies are also likely to focus more on deals with content creators and for intellectual property to bulk up their platforms. Media companies have been gravitating toward adding this content — along with short-form programming — to their platforms in a bid to attract younger viewers.
-The economics of a deal
-One thing is certain: Ellison's Paramount won't be merged with WBD as easily as it planned.
-Both Ellison and WBD CEO David Zaslav recently voiced their confidence in the deal, but the delay will be costly for Paramount. Under the terms of its agreement, Paramount will owe WBD shareholders a so-called ticking fee the longer the deal is delayed, beginning Sept. 30. The fee could amount to roughly $650 million in cash value per quarter.
-Paramount last week filed to compel the suing states to post a $1.88 billion bond that it says would cover the ticking fee as well as other costs associated with the delay.
-Regardless, the economics of the deal look very different if it's completed in June of next year versus September of this year. The threat of similar holdups for other deals could infiltrate deal discussions and shift financial terms.
-"The market-definition fight just got a price tag. A March 2027 trial date turns what had been an abstract antitrust debate into a potential billion-dollar delay cost before the court even rules," said Mike Proulx, vice president and research director at Forrester. "The deal may still close, but the clean-close scenario is now gone.
-"Paramount can still argue that the states are defining the market too narrowly," Proulx said, "but proving that point just became much more expensive."
-Disclosure: Versant Media Group is the parent company of CNBC.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEtOZjRqUDdLcUNORWdiTXNxR3F6Rm52Vy1wTFo2Y3NRUnFIZlBtSWZmNHcyMnRENFE3LUVTRnZaZDY0VDdUaEs3OFBtNW5qNzNJai1CcGFiR1hQam5tUzBGOFhIOUFUQXFwWDUyNzhvb0xRMExpN1lWR2xGZDdkX1VEanM?oc=5" target="_blank">First Brands forced into liquidation by bankruptcy court</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
+## US grain farmers face worst crisis in decades as Iran war sends costs spiralling - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2JQdjFSOVluWVFDdDZLSzd2dV9WVjFHTHA2cV9lX3Fhc3ItdVVFTzJEaDdaVEZCS2ltSEZUYTkwV1RRRDNPbzBBOHB1ZHpNS1Y4SlNuZlZ2cmd2TnFJbFFkUkszelNRdDRkbzAtU2pTVVFINnBteG1XemFYVjNLRlJ6elo?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2484
+正文长度：0
 
-摘要：California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> California Attorney General Rob Bonta canceled a meeting with Paramount Skydance on Monday, saying the company demonstrated a "lack of good faith" in early settlement talks around its planned merger with Warner Bros. Discovery.
-"My office had a meeting with Paramount on Friday. Paramount did not maintain the confidentiality of that meeting. Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith," Bonta said in a statement.
-"As soon as Paramount stops playing games and engages sincerely, my office is happy to meet again," he said.
-Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting. The California attorney general is leading a group of states in suing to block Paramount Skydance's planned merger with WBD.
-In a statement, Paramount said it has "assured" the attorney general's office that it was not the source of the leaks.
-"We remain hopeful and stand ready to continue good faith discussions to resolve the Attorneys General suit and move forward with our plans for increased competition and increased output to the benefit of the talent and entertainment workers," the company said.
-A spokesperson for WBD declined to comment Monday. The New York Times first reported the Monday meeting and subsequent cancellation.
-Bonta told CNBC last week he was ready to come to the table and negotiate a settlement, calling the lawsuit a "black-and-white" antitrust case.
-"We do prefer to resolve cases in the boardroom instead of the courtroom, but for now we're bringing our case, and, you know, I hope they can focus on the actual allegations we make in our complaint," Bonta told CNBC on Thursday.
-Still, Bonta said a resolution of the lawsuit would require "robust structural remedies" on Paramount's part.
-Bonta and 11 other state AGs filed suit in July to block the merger, alleging that the acquisition would create a media giant that would control a sizable portion of film and basic TV programming. Bonta told CNBC last week that the focus of his lawsuit is not on streaming, CNN or foreign regulators.
-Paramount, which is proposing to acquire WBD for roughly $110 billion, agreed to delay the closing of the deal until as late as June 2027. A trial in the antitrust case is scheduled for March.
-Paramount has previously called the lawsuit a "misrepresentation of competition" and has stood by its decision to acquire WBD.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2JQdjFSOVluWVFDdDZLSzd2dV9WVjFHTHA2cV9lX3Fhc3ItdVVFTzJEaDdaVEZCS2ltSEZUYTkwV1RRRDNPbzBBOHB1ZHpNS1Y4SlNuZlZ2cmd2TnFJbFFkUkszelNRdDRkbzAtU2pTVVFINnBteG1XemFYVjNLRlJ6elo?oc=5" target="_blank">US grain farmers face worst crisis in decades as Iran war sends costs spiralling</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills
+## Tokio Marine plots multibillion-dollar deal after Berkshire takes stake - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzdURkRBZU5QaVd4ZnhXd08ySmZGN0Z3bEVaUDhRQ1hvaEM4aHJOdDhCS0RqcjloNzQ3NHhxZk1DaU1kZ0M3MEJhUEl3MVc5Y0lFSkhiZkZCMmFWMjNIMzRTWXBRc2hfX0RaZ0ZkN1pLY0ZDZ3BuNmJWbnR1RmpMNWgwazg?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3570
+正文长度：0
 
-摘要：Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzdURkRBZU5QaVd4ZnhXd08ySmZGN0Z3bEVaUDhRQ1hvaEM4aHJOdDhCS0RqcjloNzQ3NHhxZk1DaU1kZ0M3MEJhUEl3MVc5Y0lFSkhiZkZCMmFWMjNIMzRTWXBRc2hfX0RaZ0ZkN1pLY0ZDZ3BuNmJWbnR1RmpMNWgwazg?oc=5" target="_blank">Tokio Marine plots multibillion-dollar deal after Berkshire takes stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> A Goldman Sachs partner leading one of the bank's flagship artificial intelligence projects warned that AI's spread across Wall Street risks hobbling the thinking capabilities of the next generation of financiers.
-"There's a huge danger here that in the era of AI, we outsource our reasoning to these models, and we have cognitive atrophy that stops us being able to reason from first principles ourselves," said Chris Churchman, who leads Goldman's digital platform for institutional clients called Marquee.
-The comments came during the latest episode of the firm's "Exchanges" podcast, according to a transcript provided exclusively to CNBC.
-Just as people lost navigation and memorization skills with modern inventions, bankers risk losing analytical abilities if algorithms handle all the heavy lifting, Churchman said.
-"Reasoning is still important," he said. "You still need to reason about [problems] and structure it into an argument, and now we're delegating reasoning."
-Wall Street's push to enmesh AI into all of its trading and banking processes could be a kind of devil's bargain: It will make the industry more profitable today while potentially eroding the talent it needs for tomorrow. With AI taking over more of the routine work that has traditionally taught young bankers and traders how to think and make decisions, firms risk sacrificing the culture that turns junior employees into seasoned Wall Street talent.
-It could even reduce the need for junior bankers in the first place. Last year, CNBC reported that Wall Street firms were examining ways of using AI to lower the ratio of junior bankers to senior employees.
-Banks need to find a balance between using AI and preserving Wall Street's apprenticeship culture, said Churchman, who ran currency trading at UBS before joining Goldman in 2021.
-"You learn by doing, and a lot of knowledge is tacit, it was never written down," he said.
-Goldman needs "to make sure we don't lose that tacit and intuitive knowledge that some of our best people have today [and] to ensure the next generation have it too," Churchman said.
-For instance, junior traders learn by fielding client pricing requests under supervision of experienced risk takers, Churchman said.
-"We can absolutely automate that," he said, "but then do we get the senior traders that fully understand?"
-Systems must be designed so that employees still call the shots in high-stakes, high-uncertainty decisions rather than becoming passive operators, Churchman said.
-Even Goldman, one of the world's top investment banks, hasn't yet "figured out" how it will manage the transition the company has begun, said Churchman, who is also co-chair of the firm's Global Banking and Markets AI working group.
-Error-free?
-Also in the podcast interview, Churchman shared lessons from implementing AI into Marquee, which is used by hedge funds and other institutional clients to access Goldman's market data, research, risk analytics and trade execution services.
-The Marquee AI platform is only available to Goldman employees for now, he said.
-The toughest challenge, from a technical standpoint, is in ensuring that AI answers are 100% factual and can be audited, he said. While consumer AI chatbots warn users of possible mistakes, in high finance, the tolerance for errors is low.
-Churchman said that in developing the firm's AI platform for clients, the software made a startling admission.
-"When we challenged it hard, at least it was honest," Churchman said. "It was like, 'Look, in the end, I'm better at sounding thorough than being thorough.'"
+---
 
-</details>
+## JPMorgan eases approach on lending against shares to court AI’s new wealth - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVV5dVJIRVg1VnlFaWFvRExFOFAzSDJjYW52QWlLN2xGM2ZCS092VktaM3NTOTBHb3Q1X1JMbEhQeVRFUHh5bkFGVWtpaTZ4NXZvMU1uQ1F4TlBlWnUwQ0thZWhDdmpvbmIyLU04X2pFX1VIWFY4aVZqa3dnUkk4dExhcG4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVV5dVJIRVg1VnlFaWFvRExFOFAzSDJjYW52QWlLN2xGM2ZCS092VktaM3NTOTBHb3Q1X1JMbEhQeVRFUHh5bkFGVWtpaTZ4NXZvMU1uQ1F4TlBlWnUwQ0thZWhDdmpvbmIyLU04X2pFX1VIWFY4aVZqa3dnUkk4dExhcG4?oc=5" target="_blank">JPMorgan eases approach on lending against shares to court AI’s new wealth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US military transport plane lands in Moscow, Kremlin says it has no information yet - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtTWUZuaFVTZkFQLXE1SmZ0T3FKR3l5UnZSbkc2SHEwRmlnQ24tMnZBTHFvT2Rva2lsTkRFbVByTVZOMzM0am81WktOR2t5UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtTWUZuaFVTZkFQLXE1SmZ0T3FKR3l5UnZSbkc2SHEwRmlnQ24tMnZBTHFvT2Rva2lsTkRFbVByTVZOMzM0am81WktOR2t5UQ?oc=5" target="_blank">US military transport plane lands in Moscow, Kremlin says it has no information yet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## More than 120 injured in fire at Russian gas chemical complex, one Chinese worker killed - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5" target="_blank">More than 120 injured in fire at Russian gas chemical complex, one Chinese worker killed</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## US stock futures rise on tech rebound before Nvidia, inflation tests - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5" target="_blank">US stock futures rise on tech rebound before Nvidia, inflation tests</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027 - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPSktfQ1RSc2JycXBhT1pHV1lWNHVtbDdMWEJ6MjNMdm5xSnJpUkZ5QnBWa1B3T2c5SmFyZHlURmNnbUlkMHpPMFQ2ZUlxY1k2UWhINmtOLUh0d0lacXpyRGMwNkJzNVdIYWxRYjBfQS1rWW9kQzdnWEU2UWJrd0xiRVMwZENFTE96WlJvb0tqSWZPY1I0Uk1uMmpibVg2TE85NUFkTUNoMEtMeWh1Rnpr?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPSktfQ1RSc2JycXBhT1pHV1lWNHVtbDdMWEJ6MjNMdm5xSnJpUkZ5QnBWa1B3T2c5SmFyZHlURmNnbUlkMHpPMFQ2ZUlxY1k2UWhINmtOLUh0d0lacXpyRGMwNkJzNVdIYWxRYjBfQS1rWW9kQzdnWEU2UWJrd0xiRVMwZENFTE96WlJvb0tqSWZPY1I0Uk1uMmpibVg2TE85NUFkTUNoMEtMeWh1Rnpr?oc=5" target="_blank">Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Indian police use water cannon at new protest over test paper leaks - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEs4bnZtZzRVeWpXQW5VRG9ORU9ac0s3MHlaZ0p1UEVpN1BDMXc3SzA4dWc0NnRDTnVTX29Ra0NkWC1wT3prUXNLX1hUUnQwMElqRWxHVTBFVkFUcThLSHQ1WHVDOXVhUlVGaU1TQTljQjUxcmpqbWR5YXFqekFvQUJBekthaEkxOTY5WVVWdWI2SzZiS3ZST3Rzb1Zwa3ZxczNDOFhxWGpWMWtlNVNhUC1R?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEs4bnZtZzRVeWpXQW5VRG9ORU9ac0s3MHlaZ0p1UEVpN1BDMXc3SzA4dWc0NnRDTnVTX29Ra0NkWC1wT3prUXNLX1hUUnQwMElqRWxHVTBFVkFUcThLSHQ1WHVDOXVhUlVGaU1TQTljQjUxcmpqbWR5YXFqekFvQUJBekthaEkxOTY5WVVWdWI2SzZiS3ZST3Rzb1Zwa3ZxczNDOFhxWGpWMWtlNVNhUC1R?oc=5" target="_blank">Indian police use water cannon at new protest over test paper leaks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
