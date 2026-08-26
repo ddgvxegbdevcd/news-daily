@@ -1,34 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-08-26 01:41:43
+更新时间：2026-08-26 13:02:04
 
-## Gold Holds Five-Day Gain as Traders Turn Focus to Fed Rate Path
+## US Core PCE Rises 0.2% in July, Consumer Spending Stalls
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns
+链接：https://www.bloomberg.com/news/videos/2026-08-26/us-core-pce-rises-0-2-in-july-consumer-spending-stalls-video
 
 正文长度：0
 
-摘要：Gold consolidated after a five-day rally, with investors turning their focus to the Federal Reserve’s interest-rate path ahead of the annual Jackson Hole gathering this week.
+摘要：The Federal Reserve’s preferred inflation metric, the so-called core PCE price index, which excludes food and energy items, rose 0.2% in July and advanced 3.3% from a year ago. Inflation-adjusted consumer spending was flat last month. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)
 
 
 ---
 
-## Australia’s Second-Largest Pension Makes Big Bet on Yen Strength
+## Nike Stock on Pace for Worst Year Since Jordan’s ‘93 Retirement
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-26/australia-s-pension-giant-makes-its-biggest-yen-bet-in-years
+链接：https://www.bloomberg.com/news/articles/2026-08-26/nike-stock-on-pace-for-worst-year-since-jordan-s-93-retirement
 
 正文长度：0
 
-摘要：Australia’s second-largest pension has built its biggest overweight position in the Japanese yen in years, betting that markets are underpricing Bank of Japan interest rate hikes.
+摘要：When Michael Jordan quit pro basketball at just 30 years old, his exit created a headache for Nike Inc., the maker and massive beneficiary of his iconic line of sneakers.
 
 
 ---
 
-## US Stock Futures Dip Before Nvidia, Oil Declines: Markets Wrap
+## US Stocks and Treasuries Slip as Nvidia, PCE Loom: Markets Wrap
 
 来源：彭博社
 
@@ -36,33 +36,89 @@
 
 正文长度：0
 
-摘要：US equity-index futures edged lower as investors turned cautious before Nvidia Corp.’s earnings, with the results set to test confidence in the artificial intelligence trade. Oil extended its decline.
+摘要：A mixed batch of economic numbers sent stocks and bonds lower, with the market awaiting Nvidia Corp.’s results for clues on whether the artificial-intelligence trade has more room to run.
 
 
 ---
 
-## Short Squeeze in US Long Bonds Shows ‘Bessent Put’ at Work
+## BofA's Ike: Economic Stability Driving Africa IPO Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-25/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work
+链接：https://www.bloomberg.com/news/videos/2026-08-26/bofa-s-ike-economic-stability-driving-africa-ipo-boom-video
 
 正文长度：0
 
-摘要：Treasury Secretary Scott Bessent’s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and positioning show that it’s having an impact.
+摘要：Improving economic conditions are driving renewed activity in Africa's capital markets according to Yvonne Ike at Bank of America. She spoke to Chief Africa correspondent Jennifer Zabasajja on Bloomberg's Next Africa program. (Source: Bloomberg)
 
 
 ---
 
-## Citadel Securities’ Flight Reverses Bearish Call on Long Bonds
+## Stocks Waver, Treasuries Dip Ahead of Nvidia Earnings, PCE Data | Bloomberg Brief 08/26/2026
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-26/citadel-securities-flight-reverses-bearish-call-on-long-bonds
+链接：https://www.bloomberg.com/news/videos/2026-08-26/bloomberg-brief-08-26-26-video
 
 正文长度：0
 
-摘要：Citadel Securities’ Frank Flight, who just last month warned of  a “cruel summer” for US bond investors, now sees the balance of risks tilted toward a rally, citing crowded bearish positioning and improving inflation data.
+摘要：US equity futures waver and Treasuries fall ahead of quarterly results from Nvidia and July's PCE data, the Federal Reserve’s preferred inflation gauge. The Trump administration mulls additional trade measures against Canada after Prime Minister Mark Carney unveiled dollar-for-dollar retaliation to new tariffs imposed by the US. Matt Maley of Miller Tabak looks ahead to the inflation data and earnings. (Source: Bloomberg)
+
+
+---
+
+## Hyundai has grown more than any automaker in the U.S. — and it's not done yet
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html
+
+正文长度：7969
+
+摘要：The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> SAN FRANCISCO — Hyundai Motor Co. CEO José Muñoz smiled and nodded as a fellow executive discussed the automaker's "mueos-ideun ganeunghada" philosophy during the reveal of its new flagship Genesis GV90 SUV.
+The term means "anything is possible" in Korean. It's a mantra for the South Korean automaker that has proved to be true for the company's U.S. ambitions as well as for Muñoz himself, a Spanish-U.S. dual national who is the first non-Korean executive to lead the automaker.
+Hyundai has experienced rapid growth in the U.S. so far this decade despite an onslaught of geopolitical changes and a slowing market. And it's hoping to keep that going. The company is ramping up production at a new $7.6 billion plant in Georgia to continue to capture more sales and market share.
+"My top three priorities are U-S-A," Muñoz told CNBC during an interview last week after the Genesis reveal. "USA is helping us to really make good progress, not only in the most important market and the most competitive market in the world, but also elsewhere."
+Hyundai Motor Group, which includes its namesake vehicles as well as the Kia and luxury Genesis brands, has increased its market share this decade more than any major automaker in the U.S., according to data from Mobility Global.
+The group has grown its U.S. market share from 8.4% in 2020 to 11.2% through last year, and its sales have grown 50% over that period, making the South Korean company the fourth best-selling automaker in the country. Its market share is up to 11.8% through the first half of this year, according to auto intelligence firm Mobility Global.
+No other major automaker is even close to such market share gains, with most flat to down during that timeframe. Electric vehicle manufacturer Tesla, at an estimated 2.1 percentage point increase in market share, is the only company even close, according to Mobility Global.
+Hyundai's U.S. performance has helped it become the third best-selling automaker globally and the second most profitable based on operating income, Munoz said.
+Hyundai Motor Group Executive Chair Euisun Chung downplayed the company's rapid rise when speaking last week to CNBC: "It's important, but speed doesn't matter. How we grow in the right way [is what matters]. I think that's more important."
+But investors have definitely taken notice of the growth, with shares of the company on the Korea stock exchange up nearly 250% since 2020.
+Hyundai's $26 billion U.S. plan
+Hyundai expects its growth to continue with a $26 billion investment plan through 2028 that could include making its new Metaplant in Georgia the largest vehicle assembly plant in the country.
+Muñoz told CNBC the company is considering plans to increase the expected production capacity at the plant from 500,000 units to between 700,000 and 800,000 units by 2028. It currently produces the all-electric Hyundai Ioniq 5 and Ioniq 9 as well as the Kia Sportage hybrid, with additional vehicles expected in the coming years.
+The goal is for Hyundai to produce at least 80% of the vehicles it sells in the U.S. domestically by the end of this decade, up from roughly 40% in 2024.
+"For that purpose, we need to add more capacity," Muñoz said. "We are ramping up as fast as we can."
+The investment is the largest in the company's U.S. history, as it aims to increase sales to 5.55 million vehicles globally under a "Bold 2030 Vision" plan outlined by Muñoz last year at the company's first investor day ever held in the U.S.
+The plan is an ambitious outline to increase sales by roughly 35% from last year to 2030. That includes entering new markets globally, with the U.S. as an anchor for continued profitable growth.
+Muñoz on Wednesday reconfirmed those plans during the company's 2026 CEO investor day, including a 6% targeted global market share for Hyundai and Genesis.
+Muñoz last week said President Donald Trump's tariffs, including 15% on autos from South Korea, have played a role in the company accelerating its U.S. production plans.
+"Tariffs are helping accelerate our localization plan. That's very, very simple," he said. "The good thing is that we had already started before tariffs were announced. So in a way it's helping us to accelerate."
+The Georgia plant is key for Hyundai and Kia, both of which have grown sales roughly 45% in the U.S. since 2020.
+"This decade's been about a brand transformation, and the growth has been phenomenal. We've really transformed everything," Eric Watson, Kia America vice president of sales operations, said during an interview. "We continue to plan to grow."
+Kia's growth plans include increasing U.S. sales to 1.02 million vehicles in the U.S. by 2030, the company's CEO, Ho Sung Song, said earlier this year. That is expected to be assisted by Kia's entry into pickup trucks and more capable SUVs that are known as "body-on-frame" vehicles.
+"We think that's an important segment to be involved in, a body on frame vehicle/truck," Watson said. "It'll be an important piece of our growth strategy that we'll look forward to announcing more in the future."
+Hyundai also plans to add such vehicles, including a midsize pickup truck. The company earlier this year debuted a rugged concept vehicle called the Boulder, which could mean additional production capacity in the U.S. for body-on-frame models.
+"It's a new unexplored territory for us," Muñoz said. "We are always, always assessing the opportunities that we have in the market."
+From 'cheap' to luxury, value
+Hyundai entered the U.S. market in 1986, followed by Kia in 1993 with cheaper options than American consumers could get from U.S. automakers and aiming to compete against growing Japanese companies such as Toyota Motor.
+Since then, Hyundai executives said several transformations — from overhauling quality and design to logos and dealer showrooms — have led the brands to where they are today as quality value plays.
+"Both Kia and Hyundai are really good at being able to offer more in the vehicle than the consumer expects, and that they expect at that price point," said Stephanie Brinley, associate director of Mobility Global's AutoIntelligence. "It's not about being a 'cheap car.' It's just being able to offer a little bit more than expected."
+Muñoz attributed Hyundai's success to its customer focus and its ability to surprise buyers, many of whom are new to the brand, with the capabilities and features of its vehicles. He also said the global reach of Hyundai, which also owns steel plants and other suppliers, is paramount to its progress.
+"We have determined that being competitive is a key element for the American consumer. So, affordability is something that we fully understand and we apply," he said. "We want to offer the customer the right product, the right features at the right level of price."
+That "right level" has been widening for the automaker in the U.S. It continues to sell entry-level vehicles that start in the $20,000s for Kia and Hyundai, while growing the top-end sales for both brands. Its Genesis luxury brand, meanwhile, has models that reach $100,000 or more.
+Hyundai on Wednesday said it is planning more than 100 vehicle launches and refreshes across Hyundai and Genesis by 2030, including 58 in North America. It also will significantly increase its electrified vehicle offerings, including extended-range hybrids.
+Genesis, which launched a decade ago in the U.S., has seen a particularly rapid growth, to become the fastest-selling luxury brand to 1 million sales globally, according to the company.
+Executives described its newest GV90 flagship SUV, including a model with coach doors and rotating lounge seats, as a new chapter for the Genesis brand, reiterating that "anything is possible."
+"From the very beginning, the world took notice of Genesis," Genesis North America Chief Operating Officer Tedros Mengiste said at the GV90 reveal as Muñoz nodded. "And tonight you will see mueos-ideun ganeunghada – anything is possible – come to life."
+
+</details>
 
 
 ---
@@ -214,168 +270,132 @@ Correction: This story has been revised to reflect that bidding for properties i
 
 ---
 
-## Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html
-
-正文长度：4518
-
-摘要：Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines "for a very long time" even with the rise of EVs.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Bugatti CEO Mate Rimac said the supercar market is entering its "Swiss watch phase," with the wealthiest buyers rejecting high-tech electronics and electric vehicles in favor of precision mechanics and hand-crafted details.
-Rimac, the 38-year-old EV entrepreneur who took over Bugatti in 2021, said the car market is splitting in two: The mainstream global car market is becoming dominated by lower-priced EVs, many from China, while the very top of the car market will be driven by wealthy buyers who want more old-school cars with loud internal combustion engines and emotional appeal.
-He compared the car industry to watches, where digital and smart watches have taken over most of the market, while high-priced Swiss mechanical options remain popular with the wealthy.
-"For normal cars, normal people, the vast majority will be electric," Rimac said. "The upper segment, like sports cars and upwards, are going to stay combustion for a very long time, exactly like watches. Only like 5% of watches are made in Switzerland, but that's where 90% of profits are made. An Apple Watch or any kind of smart watch can do so many more things. But no one will pay $200,000 for it."
-When Rimac's EV startup, Rimac Group, gained control of Bugatti from Porsche and Volkswagen in 2021, many expected the newly formed Bugatti Rimac Group to launch an electric Bugatti.
-Instead, Rimac built an entirely new car powered by one of the largest naturally aspirated combustion engines ever built for a production car. The hybrid Tourbillon has an 8.3-liter V16 that delivers 1,000 horsepower, combined with electric motors for a total 1,800 horsepower.
-"It's kind of ironic that I'm now making the world's biggest combustion engine," he said. "You have the crazy situation now at our facility in Croatia. On the same production line, you have the world's most powerful electric car being built right next to the world's biggest combustion engine. Life is strange sometimes."
-Bugatti will make only 250 Tourbillons, which are sold out at a starting price of roughly $4.5 million. Rimac said the average Tourbillon customer adds another $600,000 to $700,000 in personalization add-ons, like special paint colors, leathers, stitching and other design features.
-The rise of personalization and customization has become one of the biggest profit drivers at supercar companies like Bugatti, Ferrari and Lamborghini. Supercar companies are also launching special one-off cars for their top customers that can cost tens of millions of dollars. At Monterey Car Week, Bugatti unveiled its latest one-off, called Destrier, which reimagines its track-based Bolide model with a lower stance, larger wheels and sculptural body work.
-Rimac said customizations and one-offs reflect a growing desire among today's wealthy to have unique objects that reflect their identity.
-"For these clients, they want something that's really theirs, that's connected with them," Rimac said. "It tells their story, their personality, their preferences, not just like a car. It's a story behind it."
-Rimac said his goal for Bugatti is to continue to boost production, quality and profits, while also retaining exclusivity. He said production will never go higher than "the low three-digit numbers."
-The company earned 200 million euros (US$233 million) in earnings before interest, taxes, depreciation and amortization last year and will continue to grow profits, Rimac said.
-Porsche AG agreed in April to sell its 45% stake in Bugatti Rimac to a global consortium led by HOF Capital. While some reports cited a valuation of over $1.1 billion for Bugatti, Rimac said the valuation is "substantially higher" than $2 billion.
-"What I want to do is make the world's best cars, the most exciting cars in the world, and have the world's most profitable car company on a percentage basis," he said.
-Rimac said that in the age of artificial intelligence, autonomous vehicles and EVs, the guiding principal for Bugatti will be the human factor.
-"You can get a car that's faster than any performance car from 10 years ago for like $50,000 from China," he said. "Performance is really becoming secondary. It's more about what I call the celebration of human skills. When you look at these cars, you see the amount of ingenuity and art and beauty. The car is, like, the most complex object you can buy. It's art, but it's art that needs to go 250 miles per hour and be safe, have downforce and survive in a crash test and go in the snow and extreme heat, and all those things."
-
-</details>
-
-
----
-
-## Trump administration pauses immigrant visa applications - Financial Times
+## China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnFJSUxFUmxkRUNkWGtzNWRVc18yQVJhRFhqXzV5UGk5aG1zOG4zSTA5TFBjbzVHS1cwTFVBaTFLdWJidWRJVmQ5V0FiWG1YaHVXdVJuMG00S1hFUVZFNFJsdVlmTjFuSldxOUNFblhBVl9tTXZUTHFEQmZxQm0wcFJLSmE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJ3UzA4Y1ZtV3hHd1RvX2ZiVTNFQXdsbXpiS1haSUtPcTdObTVLclcwSGU0ekV5bGYxVlBlNWVmckhIWW9haVpPMmsyY2NaWjF1Z3NaamZNUGtLTDh4VG5YczVLYnByV0x6QmJwTUZXdmtoc183VEd0enFpZjQ2eThaMGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnFJSUxFUmxkRUNkWGtzNWRVc18yQVJhRFhqXzV5UGk5aG1zOG4zSTA5TFBjbzVHS1cwTFVBaTFLdWJidWRJVmQ5V0FiWG1YaHVXdVJuMG00S1hFUVZFNFJsdVlmTjFuSldxOUNFblhBVl9tTXZUTHFEQmZxQm0wcFJLSmE?oc=5" target="_blank">Trump administration pauses immigrant visa applications</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJ3UzA4Y1ZtV3hHd1RvX2ZiVTNFQXdsbXpiS1haSUtPcTdObTVLclcwSGU0ekV5bGYxVlBlNWVmckhIWW9haVpPMmsyY2NaWjF1Z3NaamZNUGtLTDh4VG5YczVLYnByV0x6QmJwTUZXdmtoc183VEd0enFpZjQ2eThaMGk?oc=5" target="_blank">China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Canada announces $20bn retaliatory tariffs as US trade war escalates - Financial Times
+## Hyundai bets on US hybrid boom to take on Toyota - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWtCUEJmRjBrc0dpTUhTSTNxa0c3TGV3TEFyNWRyYUJWWjZmZzFRZzNlZW5ESUYzVzY4ZG9kU3BUQ2ZXWDdodlFSd2NiT2h2T0toVXdSVkxFTnZpenZnYUNwR3dNTlNVRUhvNWZzMEdhOUxlMmZDU1U4ZEtoYnRYVXhDZjM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1c3djZ2Y2tPUGxHTVIyYkJRVDlOU3JhV3JORVMySWxHVENteWFrcmRCNldmVm5IUjFUM0hHelRveHlyWnJweTZaSkdxZ2lLRU1DRW5RX2JvdHpDRVdyTzJRLXdEYllENFRnSzFLZDZRMnoyUHR4aG82VFd4UFpKU2RpVXQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWtCUEJmRjBrc0dpTUhTSTNxa0c3TGV3TEFyNWRyYUJWWjZmZzFRZzNlZW5ESUYzVzY4ZG9kU3BUQ2ZXWDdodlFSd2NiT2h2T0toVXdSVkxFTnZpenZnYUNwR3dNTlNVRUhvNWZzMEdhOUxlMmZDU1U4ZEtoYnRYVXhDZjM?oc=5" target="_blank">Canada announces $20bn retaliatory tariffs as US trade war escalates</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1c3djZ2Y2tPUGxHTVIyYkJRVDlOU3JhV3JORVMySWxHVENteWFrcmRCNldmVm5IUjFUM0hHelRveHlyWnJweTZaSkdxZ2lLRU1DRW5RX2JvdHpDRVdyTzJRLXdEYllENFRnSzFLZDZRMnoyUHR4aG82VFd4UFpKU2RpVXQ?oc=5" target="_blank">Hyundai bets on US hybrid boom to take on Toyota</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China warns US it could retaliate over Iran sanctions - Financial Times
+## Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE9vVDVrbmZ4ZTFWOHNpc0UtY0VDTWd0TUhJbFhqN3JOcEZxWTN6ZDhyZ2xxd3J6bVh3S05adUtiYlJIN2dWdGh0Y3JwRlQzbHI3SEJEakwzM1FJOWZjLVF6aFNuc3A5RE1JbTVNTVQyUTlqbldPRVM0dm9sby0zckt6blY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1lNMHgwa0ZtemplUEV5SVlDZkc2aEZGVjh2Rkc2ay1rc1lHOTUyTWFyQXpaaFNocE1IdXRvSlRDREo1a3hUc3pKMW0wd3hPVUlXQmZIUUdGRHhPOGNJTVJNRmNEbTFzSklGMEV0bkZYOFdxV016SVR5RGNRa0FTNXMzeUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE9vVDVrbmZ4ZTFWOHNpc0UtY0VDTWd0TUhJbFhqN3JOcEZxWTN6ZDhyZ2xxd3J6bVh3S05adUtiYlJIN2dWdGh0Y3JwRlQzbHI3SEJEakwzM1FJOWZjLVF6aFNuc3A5RE1JbTVNTVQyUTlqbldPRVM0dm9sby0zckt6blY?oc=5" target="_blank">China warns US it could retaliate over Iran sanctions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1lNMHgwa0ZtemplUEV5SVlDZkc2aEZGVjh2Rkc2ay1rc1lHOTUyTWFyQXpaaFNocE1IdXRvSlRDREo1a3hUc3pKMW0wd3hPVUlXQmZIUUdGRHhPOGNJTVJNRmNEbTFzSklGMEV0bkZYOFdxV016SVR5RGNRa0FTNXMzeUc?oc=5" target="_blank">Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia employee charged with smuggling advanced chips into China - Financial Times
+## How chicken conquered the world - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxqMEtBMmZWdG81M3ltYm5YcmJ1a1VRbm5OOFBpd2J2amhnUXJtYUpTYkNnNGxNMzViVE1EQXpiREN4dnBnQmZtajlwTDA5ZGg3RW1GRXpxTHI0cVY2OUlPeWhWeXVxLTNfZGduSi1ZVW1lR1M4Smo5TE5oLUdHZ2tRZVo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVJHSm5fVDg5VDlxVlRNUFphSDVaRUJkNnFnY0NTYW5TTU93ZmdoUUpvbTRqUldhQldPcjNoT1VEX2ZtMnN2RmNPa1dYeTJwanJqa3JLYkQtdnd1bC1iTGRJZ3IzU2N3RTgxTlhwNFM4UVF1alo0N3h0RUhKYjlaTUR3ck0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxqMEtBMmZWdG81M3ltYm5YcmJ1a1VRbm5OOFBpd2J2amhnUXJtYUpTYkNnNGxNMzViVE1EQXpiREN4dnBnQmZtajlwTDA5ZGg3RW1GRXpxTHI0cVY2OUlPeWhWeXVxLTNfZGduSi1ZVW1lR1M4Smo5TE5oLUdHZ2tRZVo?oc=5" target="_blank">Nvidia employee charged with smuggling advanced chips into China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVJHSm5fVDg5VDlxVlRNUFphSDVaRUJkNnFnY0NTYW5TTU93ZmdoUUpvbTRqUldhQldPcjNoT1VEX2ZtMnN2RmNPa1dYeTJwanJqa3JLYkQtdnd1bC1iTGRJZ3IzU2N3RTgxTlhwNFM4UVF1alo0N3h0RUhKYjlaTUR3ck0?oc=5" target="_blank">How chicken conquered the world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Deutsche banker charged with embezzling €600,000 from wealthy clients - Financial Times
+## Deloitte to pay Trump administration $21.5mn to settle ‘discriminatory’ practices investigation - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5JNnliTks5UDhyMlprZ1luZGhZek9QcW0wRHM4REZsbS1GQUIyeWoydi1FblRIU1B4Tm0yOC11MERxNmo2ZXBMRVh1Yi12dnUwZVg5c2x0SlRmOHVvUkR0SEJmYmo0QlNadWl3T1UyYTI0RGNoYVJjbTlzRDNYVFMtbVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJqY1VRbERLNmJxUEFfaGluUUVJM3E5V2dhRDFPSEtOWERuLS1xSFAtbmctVnBoNE4yUGpscVlGdWc4V3hfcTNuc1BnN0dVWlNXcm52Rk5NcHctN0taakdVSU9BM3NEMkxIYXh4UnlBT0NQX2tXd3BjY0ZaZVRSVzV0bFc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5JNnliTks5UDhyMlprZ1luZGhZek9QcW0wRHM4REZsbS1GQUIyeWoydi1FblRIU1B4Tm0yOC11MERxNmo2ZXBMRVh1Yi12dnUwZVg5c2x0SlRmOHVvUkR0SEJmYmo0QlNadWl3T1UyYTI0RGNoYVJjbTlzRDNYVFMtbVE?oc=5" target="_blank">Deutsche banker charged with embezzling €600,000 from wealthy clients</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJqY1VRbERLNmJxUEFfaGluUUVJM3E5V2dhRDFPSEtOWERuLS1xSFAtbmctVnBoNE4yUGpscVlGdWc4V3hfcTNuc1BnN0dVWlNXcm52Rk5NcHctN0taakdVSU9BM3NEMkxIYXh4UnlBT0NQX2tXd3BjY0ZaZVRSVzV0bFc?oc=5" target="_blank">Deloitte to pay Trump administration $21.5mn to settle ‘discriminatory’ practices investigation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel - Reuters
+## Boston Scientific hit by cyberattack, global operations affected - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5" target="_blank">Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5" target="_blank">Boston Scientific hit by cyberattack, global operations affected</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz - Reuters
+## Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5" target="_blank">US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5" target="_blank">Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters
+## Kremlin says US spy chief held talks with Russian counterparts during Moscow visit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5" target="_blank">U.S. Secret Service aware of Iranian video threat against Barron Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5" target="_blank">Kremlin says US spy chief held talks with Russian counterparts during Moscow visit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dolly Parton, queen of country music, dies at 80 - Reuters
+## EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmdGenJRTEljQ19aUjlCdzNCRnJwaGoyYnJBa1FrUEtRd1RpYTRhc1BCbThyaFBiYUp6UUlTMEN2dDVpN3hxeXc4UVQwQmtWdXppV2tQY19zT3FhLVpKVEFQZDBjeUw4aUx0SzhSUXBid1hwWEtINGc2ZnFxN195QS0yVndqZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmdGenJRTEljQ19aUjlCdzNCRnJwaGoyYnJBa1FrUEtRd1RpYTRhc1BCbThyaFBiYUp6UUlTMEN2dDVpN3hxeXc4UVQwQmtWdXppV2tQY19zT3FhLVpKVEFQZDBjeUw4aUx0SzhSUXBid1hwWEtINGc2ZnFxN195QS0yVndqZw?oc=5" target="_blank">Dolly Parton, queen of country music, dies at 80</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5" target="_blank">EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trading Day: Oil, yields slide - Reuters
+## Tibet's Gyirong suffers 'major casualties' from mudslide, Xinhua reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWNydl9TRXBTU3ZISVRYVVJxUGw2Sm5QZnctdVJDdXFZTW1kZDMzV1JSRkk5cGtiWjdVa1FzV2U4d3dSTU8tNkJRRE9NWUxmMVpoODZpTExIajltTW9JWnhGOEtnM0k0VC1VMnQtS2dfMGxYVW81aUNxNXJ0a1NNN2dTemFiYU5Ld3EtT3FJR2d1WUg3Nnc1QVhWWjNiZWpwUFAtYVZR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWNydl9TRXBTU3ZISVRYVVJxUGw2Sm5QZnctdVJDdXFZTW1kZDMzV1JSRkk5cGtiWjdVa1FzV2U4d3dSTU8tNkJRRE9NWUxmMVpoODZpTExIajltTW9JWnhGOEtnM0k0VC1VMnQtS2dfMGxYVW81aUNxNXJ0a1NNN2dTemFiYU5Ld3EtT3FJR2d1WUg3Nnc1QVhWWjNiZWpwUFAtYVZR?oc=5" target="_blank">Trading Day: Oil, yields slide</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5" target="_blank">Tibet's Gyirong suffers 'major casualties' from mudslide, Xinhua reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
