@@ -1,60 +1,62 @@
 # 每日财经新闻
 
-更新时间：2026-08-27 08:37:43
+更新时间：2026-08-27 22:05:04
 
-## Bessent’s Treasury Twist Makes November Refunding a Wall Street Wildcard
+## Will LIV Survive Pro Golf's Civil War?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-26/bessent-s-treasury-twist-makes-november-refunding-a-wall-street-wildcard
+链接：https://www.bloomberg.com/news/videos/2026-08-27/liv-golf-from-disruptor-to-distressed-asset-video
 
 正文长度：0
 
-摘要：US Treasury Secretary Scott Bessent’s more activist style of managing the nation’s debt has Wall Street war-gaming a potentially bigger shift in the government’s borrowing strategy over the coming months.
+摘要：Once seen as a lucrative alternative to the PGA, LIV Golf instead landed in the rough, part of an abortive effort by Saudi Arabia to exert soft power. Now LIV’s future is uncertain amid a search for new funding. (Corrects reference to LIV Golf in headline.) (Source: Bloomberg)
 
 
 ---
 
-## China to Supply Bulk of India’s Fertilizer Tender in Major Sale
+## Radiant World Leaves Top Banks, Glencore Probing Fake Invoices
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-27/china-to-supply-bulk-of-india-s-fertilizer-tender-in-major-sale
+链接：https://www.bloomberg.com/news/features/2026-08-27/radiant-world-leaves-top-banks-glencore-probing-fake-invoices
 
 正文长度：0
 
-摘要：China is expected to ship at least 1.2 million tons of a key fertilizer variety to India, marking a ramp-up in sales from the world’s top producer after Beijing loosened export controls earlier this year.
+摘要：<p>Blue-chip firms lent their money, connections and reputations to the little-known iron ore trader. Now&nbsp;several of them are counting their losses.</p>
 
 
 ---
 
-## Total Eyes $1.3 Billion Loan Repayment as It Exits Arctic LNG 2
+## Jobs Data Is in Jeopardy
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-27/total-eyes-1-3-billion-loan-repayment-as-it-exits-arctic-lng-2
+链接：https://www.bloomberg.com/news/videos/2026-08-27/opinion-jobs-data-is-in-jeopardy-video
 
 正文长度：0
 
-摘要：TotalEnergies SE said it may be reimbursed about $1.3 billion for loans to the Arctic LNG 2 project as it completed its exit from the US-sanctioned liquefied natural gas venture in Russia.
+摘要：Fed Chair Kevin Warsh announced a data task force last month, and Bloomberg Opinion columnist and economist Kathryn Anne Edwards thinks that’s a missed opportunity as well as step backward. (Source: Bloomberg)
 
 
 ---
 
-## AI Debt Tests Investor Tolerance, Says Top JPMorgan Bond Banker
+## RevMed’s Pancreatic Cancer Pill Priced Above $475K per Year
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-27/ai-debt-tests-investor-tolerance-says-top-jpmorgan-bond-banker
+链接：https://www.bloomberg.com/news/videos/2026-08-27/revmed-s-pancreatic-cancer-pill-priced-above-475k-video
 
 正文长度：0
 
-摘要：Issuance from AI leaders is testing the tolerance of the bond market, with price premiums a telltale sign, according to a top Europe bond banker at JPMorgan Chase &amp; Co.
+摘要：Revolution Medicines won US approval for a breakthrough pill that lengthens the lives of patients with advanced pancreatic cancer, a major advance against one of the hardest-to-treat tumor types.
+The once-daily drug carries a list price of more than $475,000 a year, making it one of the most expensive cancer treatments in history. The company branded it Rasonque and made it available starting Wednesday.
+It’s one of the first medicines to broadly target RAS, a protein tied to tumor growth that’s mutated in most pancreatic cancers. The approval opens a new front against a disease where treatment has advanced slowly. Bloomberg's Madison Muller reports.  (Source: Bloomberg)
 
 
 ---
 
-## US Stocks Rise as Nvidia Fuels Faith in AI Boom: Markets Wrap
+## Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap
 
 来源：彭博社
 
@@ -62,240 +64,252 @@
 
 正文长度：0
 
-摘要：US stocks advanced as a bullish sales outlook from Nvidia Corp. bolstered confidence that the rapid expansion in artificial-intelligence spending is set to run for longer.
+摘要：A blockbuster outlook from Nvidia Corp. spurred gains in technology stocks, bolstering confidence in the artificial-intelligence trade that has powered the bull market.
 
 
 ---
 
-## Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next
+## FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html
+链接：https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html
 
-正文长度：8870
+正文长度：6803
 
-摘要：Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.
+摘要：The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Warner Bros. Discovery is feeling whiplash.
-It was only last summer that the company said it would split itself in two and began the process of creating separate, publicly traded entities: Warner Bros., which would have housed the streaming and film units, and Discovery Global, which would have run its global linear TV networks.
-Change seemed to be happening at breakneck speed. The company was in the midst of an aggressive buildout for its HBO Max streaming platform, pushing into new markets and chasing subscriber and profitability growth. Its film studio was showing signs of much awaited momentum. CFO Gunnar Wiedenfels had begun strategizing with fellow executives on how to run a business of just TV networks in a period of rapid decline.
-But after a sale process and a delayed merger with David Ellison's Paramount Skydance, much of that change has ground to a halt.
-WBD CEO David Zaslav said during an earnings call earlier this month that executives have "been trying to drive the value of the company" in order to have WBD in the best shape possible for when the merger would close.
-That was after a group of states led by California Attorney General Rob Bonta filed to block the deal on antitrust grounds — and before preliminary settlement talks between the California AG and Paramount seemed to fall apart earlier this week.
-The start-and-stop means Warner Bros. Discovery has fewer options on the table at a time when the media industry as a whole is charting new paths. The company — made up of the storied film studio, a portfolio of TV networks and a prestige streaming business — once looked agile. Now it's forced into being cautious.
-"This is as good a deal as Warner Bros. Discovery's going to get, and they are going to have a difficult time totally walking away here with no more than a breakup fee," said Tom Rogers, a media veteran who's currently senior advisor to Versant Media Group and executive chairman of AI film and TV production company Fountain 0. "So I think they have plenty of incentive to also figure out how this deal could get done."
-The proposed $110 billion sale price should be a windfall for WBD, Zaslav included. Paramount has agreed to pay $31 per share to acquire WBD, and if regulatory approval is delayed beyond September, Paramount will start owing a "ticking fee," raising the deal value.
-The questions that remain are what will Paramount be buying if the deal goes through after an extended delay, and what happens to WBD if it doesn't?
-What can WBD do?
-WBD doesn't necessarily need to stand still as it waits for the merger to move forward.
-Interim operating covenants laid out in the merger agreement allow for WBD to run itself as an independent entity while the deal moves toward closing. That flexibility was a particular point of emphasis for Warner Bros. Discovery executives when it was negotiating a deal to sell itself — first with Netflix, then Paramount — according to a person familiar with the matter.
-In situations where WBD would need Paramount's blessing to do something while the transaction is pending, the agreement states those permissions can't be "unreasonably withheld."
-The agreement accounted for a merger closing process that could take 12 months or more, giving WBD some cushion in the event of a delay.
-While WBD is unable to take part in major M&A, it is still able to ink licensing deals and other types of agreements or partnerships with media peers. From a creative perspective there hasn't been much holdup on that front, according to another person familiar with the matter. Film and TV content creators are still pitching themselves to WBD, said the person.
-CNBC's sources spoke on the condition of anonymity because they weren't authorized to speak publicly.
-Licensing out content to other platforms and networks has proven to be a lucrative business model for WBD, as well as its peers.
-Since the merger between Warner Bros. and Discovery in 2022, the company has licensed out content from the highly coveted HBO library, like "Sex and the City," "Insecure" and "Band of Brothers" to Netflix, and series like "Westworld" to free ad-supported streamers.
-During the company's August earnings call, CFO Wiedenfels touted "very healthy demand" for WBD content.
-Streaming strides or sidelines
-At the same time, media's appetite has been growing for different streaming business models, such as bundling platforms for one subscription fee or ingesting content from one platform into another. NBCUniversal's Peacock, for example, agreed to embed its content into YouTube Premium in a deal that many onlookers say could set a new precedent.
-Leadership for both NBCUniversal and Fox Corp. have said their companies are open to future combinations or bundles with other platforms.
-HBO Max is already offered as part of a bundle with Disney's streaming services, and media reports have recently surfaced that Netflix is considering teaming up with some of its peers. WBD CEO Zaslav himself has long been an advocate for a bundling model, which stems from the pay TV world.
-Yet with more streamers finding their dancing partners, it's hard to imagine which, if any, companies would want to strike new agreements with HBO Max while its future remains up in the air.
-Paramount's Ellison has said upon completion of the WBD merger, Paramount+ and HBO Max would become a single service. The uncertainty of those streamers' futures likely leaves them on the outs while other smaller players make new in-roads.
-And if WBD were to strike such deals now, per the interim operating covenants they would be relatively short-lived regardless.
-"It's certainly not easy to run the WBD business with this overhang of not knowing the direction of where it's headed and the constraints on what they can do that the merger agreement sets out. It makes life more difficult," Rogers said.
-Meanwhile, the longer WBD and Paramount wait to combine their streaming services, the more lead time competitors may have to outpace them individually.
-"Currently, both Paramount Skydance and Warner Bros. Discovery own and operate subscale streaming services; combined, we believe they have a better chance competing with the bigger DTC players (namely Disney and Amazon, with Netflix and YouTube still in a league of their own)," MoffetNathanson analyst Robert Fishman said in an Aug. 5 note following Paramount's earnings report.
-"If the deal falls through, then both streamers are going to find themselves saddled with standalone platforms that are unlikely to be able to compete longer term," Fishman said.
-Earlier this month WBD's earnings report showcased record-breaking revenue growth for its streaming segment, while linear TV and the film studios weighed on results.
-However, that same momentum could soon slow. Much of HBO Max's recent growth has taken place internationally, and this past quarter marked the end of its expansion into major international markets.
-Smaller markets remain, but executives have been told not to expect streaming growth as significant as WBD has reported recently, said a third person familiar with the matter, who spoke on the condition of anonymity because they weren't authorized to speak publicly.
-WBD expects to hit its goal of surpassing 150 million global streaming subscribers by the end of this year, and says future growth will stem from its ad-supported tier and additions in various markets.
-Circling WBD
-With Paramount's deal hung up, speculation has begun about what assets Ellison would be willing to lose in order to preserve the merger. And, even with a question mark in its future, WBD's assets are still attractive to other potential buyers.
-California's Bonta told CNBC last week that settling the states' antitrust case against Paramount would require "robust structural remedies" — particularly in the pay TV and film studios businesses.
-While preliminary settlement discussions were quickly paused following media reports about potential stipulations, bankers and insiders have considered which assets could realistically be most appetizing if they were to hit the chopping block.
-WBD subsidiary New Line Cinema is likely to attract bidders, CNBC reported on Tuesday. The nearly 60-year-old film and TV production company is behind films like the Lord of the Rings and Final Destination franchises and more recently the Mortal Kombat installments.
-Some of WBD's pay TV networks may also be attractive to would-be buyers if Paramount needs to shave the portfolio down, CNBC reported, including the Turner channels such as TNT and TBS, or even its lifestyle networks like HGTV.
-Of course, the dark cloud hanging over all of this dealmaking — real or hypothetical — is the fresh threat that states could take up the regulatory mantle from federal regulators and challenge more deals on antitrust grounds.
-— CNBC's Julia Boorstin contributed to this article.
+> The Food and Drug Administration approved a once-daily HIV pill from Gilead that could help simplify care for some patients, the company announced Thursday.
+The drug, marketed as Bixlenvo, is aimed at patients whose virus is already under control but who remain on complicated treatment regimens. It could also appeal to those who simply want to switch to a new treatment alternative.
+The tablet combines bictegravir, the backbone of Gilead's blockbuster HIV pill Biktarvy, with lenacapavir, a first-in-class capsid inhibitor that has become a centerpiece of the company's long-term strategy for HIV treatment and prevention.
+The approval makes the new pill the first single-tablet regimen available for adults with HIV whose virus is suppressed but are unable to use currently available one-pill treatment options, according to Gilead. That population accounts for an estimated 5% or more of individuals in the U.S. living with HIV, the company told CNBC.
+The list price of the pill before discounts or rebates is $4,595 for a 30-day supply, which is in line with other daily single-tablet HIV treatments, Gilead told CNBC. People without health insurance may be eligible to get Bixlenvo for free through Gilead's patient assistance program, while those with commercial or private insurance may be able to receive co-pay support through another savings program, the company said.
+"It fulfills an unmet need, particularly for individuals who are on complex regimens who just would not otherwise consolidate down to something really meaningful for them and prescribers," Dr. Jared Baeten, Gilead's clinical development and virology therapeutic area head, said in an interview ahead of the approval.
+"But it's also meaningful for individuals who are seeking options for something new," he continued. "We want to build options that give people the opportunity to choose something that's going to work for them and work for them for the long haul."
+There is no cure for HIV or AIDS. But many people living with HIV can manage the disease by taking a single pill daily, a treatment plan that Gilead helped pioneer two decades ago.
+But some patients can't use any existing one-tablet options like Biktarvy and require more complex combinations of medicines because of drug resistance from older therapies, side effects or interactions with other drugs, among other treatment challenges. Those patients may have to take multiple pills a day and adhere to complicated dosing schedules.
+Baeten said that group tends to be older and have long treatment histories, saying "some had to take handfuls of pills around 25 years ago." HIV also accelerates complications of aging, such as heart disease, diabetes and high cholesterol, in that age group, he added.
+"It's incredibly meaningful to develop a medicine, in my perspective, for people aging with HIV," Baeten said.
+The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new one. Baeten stressed that Bixlenvo does not aim to replace Biktarvy.
+For patients already doing well on Biktarvy, the rationale for switching is more about expanding treatment choices, he said. He emphasized that HIV care is highly individualized and that long-term success often depends on finding a regimen that best fits a patient's preferences and lifestyle.
+Baeten also said Bixlenvo is part of Gilead's broader effort to build a range of HIV treatment options around lenacapavir, including daily pills, weekly oral regimens and long-acting injectable therapies. The goal is to give patients flexibility to choose how they want to manage the disease, he said.
+"We're going to build enough options that people can make the choice that's going to work for them," Baeten said. "Some people like the surety of once a day, and some people would want 'set it and forget it' once every six months."
+What Bixlenvo is like for patients
+Baeten called it "essential" to have more than one medicine to treat HIV because the virus can become resistant to an initial treatment.
+Combining bictegravir and lenacapavir in one pill allows it to "hit the virus in two different ways" with "high efficacy [and] strong protection" against the virus becoming resistant to treatment, Baeten added.
+The approval is based on two Phase 3 trials, which evaluated Bixlenvo in adults with HIV whose virus was already suppressed on treatment. That includes people who switched from Biktarvy or complex treatment regimens with multiple tablets.
+The first trial – ARTISTRY-1 – specifically enrolled patients with long treatment histories and drug resistance, many of whom were taking multiple HIV medications each day. Participants had a median age of 60 and were taking between two and 11 pills daily before switching to Bixlenvo.
+In both studies, the pill maintained viral suppression at rates comparable to patients' previous regimens at 48 weeks and was generally well tolerated with no new safety concerns. The most common side effects reported in at least 2% of participants across the two trials was headache, nausea and diarrhea.
+Timothy Cameron, a 64-year-old retired Seattle resident who has been living with HIV for more than 40 years, was among the participants in the first Phase 3 trial.
+When he was first diagnosed in the 1980s, doctors had few treatment options and little ability to measure how active the virus was. He spent decades cycling through HIV medications, experimental drugs and multi-pill regimens that often came with difficult side effects and eventually stopped working against his "hard-to-treat" virus.
+"It was just like throwing darts at a dartboard," Cameron said. "Because I had done so many drug trials and monotherapy, my virus had become super resistant."
+A few years before enrolling in the Gilead study, Cameron finally found a regimen that controlled his virus, though it required taking one HIV pill twice daily along with another medication. His doctor encouraged him to join the trial and switch to Bixlenvo, a once-daily pill Cameron described as "smaller than my pinky nail."
+The transition was seamless, he said. The drug maintained control of his virus without causing side effects and simplified his treatment routine by reducing the number of pills he takes and consolidating all of his medications into a single daily schedule.
+For Cameron, who spent decades exhausting HIV treatment options as his virus developed resistance, among the biggest benefits may be that the two-drug regimen effectively controls his virus while exposing him to fewer medications. He said that gives him confidence that additional treatment options could remain available in the future if he ever needs them.
+"It's one less thing I'm putting in my body, and it preserves options if I need them," Cameron said.
 
 </details>
 
 
 ---
 
-## Hyundai has grown more than any automaker in the U.S. — and it's not done yet
+## Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html
+链接：https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html
 
-正文长度：7969
+正文长度：5161
 
-摘要：The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.
+摘要：Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> SAN FRANCISCO — Hyundai Motor Co. CEO José Muñoz smiled and nodded as a fellow executive discussed the automaker's "mueos-ideun ganeunghada" philosophy during the reveal of its new flagship Genesis GV90 SUV.
-The term means "anything is possible" in Korean. It's a mantra for the South Korean automaker that has proved to be true for the company's U.S. ambitions as well as for Muñoz himself, a Spanish-U.S. dual national who is the first non-Korean executive to lead the automaker.
-Hyundai has experienced rapid growth in the U.S. so far this decade despite an onslaught of geopolitical changes and a slowing market. And it's hoping to keep that going. The company is ramping up production at a new $7.6 billion plant in Georgia to continue to capture more sales and market share.
-"My top three priorities are U-S-A," Muñoz told CNBC during an interview last week after the Genesis reveal. "USA is helping us to really make good progress, not only in the most important market and the most competitive market in the world, but also elsewhere."
-Hyundai Motor Group, which includes its namesake vehicles as well as the Kia and luxury Genesis brands, has increased its market share this decade more than any major automaker in the U.S., according to data from Mobility Global.
-The group has grown its U.S. market share from 8.4% in 2020 to 11.2% through last year, and its sales have grown 50% over that period, making the South Korean company the fourth best-selling automaker in the country. Its market share is up to 11.8% through the first half of this year, according to auto intelligence firm Mobility Global.
-No other major automaker is even close to such market share gains, with most flat to down during that timeframe. Electric vehicle manufacturer Tesla, at an estimated 2.1 percentage point increase in market share, is the only company even close, according to Mobility Global.
-Hyundai's U.S. performance has helped it become the third best-selling automaker globally and the second most profitable based on operating income, Munoz said.
-Hyundai Motor Group Executive Chair Euisun Chung downplayed the company's rapid rise when speaking last week to CNBC: "It's important, but speed doesn't matter. How we grow in the right way [is what matters]. I think that's more important."
-But investors have definitely taken notice of the growth, with shares of the company on the Korea stock exchange up nearly 250% since 2020.
-Hyundai's $26 billion U.S. plan
-Hyundai expects its growth to continue with a $26 billion investment plan through 2028 that could include making its new Metaplant in Georgia the largest vehicle assembly plant in the country.
-Muñoz told CNBC the company is considering plans to increase the expected production capacity at the plant from 500,000 units to between 700,000 and 800,000 units by 2028. It currently produces the all-electric Hyundai Ioniq 5 and Ioniq 9 as well as the Kia Sportage hybrid, with additional vehicles expected in the coming years.
-The goal is for Hyundai to produce at least 80% of the vehicles it sells in the U.S. domestically by the end of this decade, up from roughly 40% in 2024.
-"For that purpose, we need to add more capacity," Muñoz said. "We are ramping up as fast as we can."
-The investment is the largest in the company's U.S. history, as it aims to increase sales to 5.55 million vehicles globally under a "Bold 2030 Vision" plan outlined by Muñoz last year at the company's first investor day ever held in the U.S.
-The plan is an ambitious outline to increase sales by roughly 35% from last year to 2030. That includes entering new markets globally, with the U.S. as an anchor for continued profitable growth.
-Muñoz on Wednesday reconfirmed those plans during the company's 2026 CEO investor day, including a 6% targeted global market share for Hyundai and Genesis.
-Muñoz last week said President Donald Trump's tariffs, including 15% on autos from South Korea, have played a role in the company accelerating its U.S. production plans.
-"Tariffs are helping accelerate our localization plan. That's very, very simple," he said. "The good thing is that we had already started before tariffs were announced. So in a way it's helping us to accelerate."
-The Georgia plant is key for Hyundai and Kia, both of which have grown sales roughly 45% in the U.S. since 2020.
-"This decade's been about a brand transformation, and the growth has been phenomenal. We've really transformed everything," Eric Watson, Kia America vice president of sales operations, said during an interview. "We continue to plan to grow."
-Kia's growth plans include increasing U.S. sales to 1.02 million vehicles in the U.S. by 2030, the company's CEO, Ho Sung Song, said earlier this year. That is expected to be assisted by Kia's entry into pickup trucks and more capable SUVs that are known as "body-on-frame" vehicles.
-"We think that's an important segment to be involved in, a body on frame vehicle/truck," Watson said. "It'll be an important piece of our growth strategy that we'll look forward to announcing more in the future."
-Hyundai also plans to add such vehicles, including a midsize pickup truck. The company earlier this year debuted a rugged concept vehicle called the Boulder, which could mean additional production capacity in the U.S. for body-on-frame models.
-"It's a new unexplored territory for us," Muñoz said. "We are always, always assessing the opportunities that we have in the market."
-From 'cheap' to luxury, value
-Hyundai entered the U.S. market in 1986, followed by Kia in 1993 with cheaper options than American consumers could get from U.S. automakers and aiming to compete against growing Japanese companies such as Toyota Motor.
-Since then, Hyundai executives said several transformations — from overhauling quality and design to logos and dealer showrooms — have led the brands to where they are today as quality value plays.
-"Both Kia and Hyundai are really good at being able to offer more in the vehicle than the consumer expects, and that they expect at that price point," said Stephanie Brinley, associate director of Mobility Global's AutoIntelligence. "It's not about being a 'cheap car.' It's just being able to offer a little bit more than expected."
-Muñoz attributed Hyundai's success to its customer focus and its ability to surprise buyers, many of whom are new to the brand, with the capabilities and features of its vehicles. He also said the global reach of Hyundai, which also owns steel plants and other suppliers, is paramount to its progress.
-"We have determined that being competitive is a key element for the American consumer. So, affordability is something that we fully understand and we apply," he said. "We want to offer the customer the right product, the right features at the right level of price."
-That "right level" has been widening for the automaker in the U.S. It continues to sell entry-level vehicles that start in the $20,000s for Kia and Hyundai, while growing the top-end sales for both brands. Its Genesis luxury brand, meanwhile, has models that reach $100,000 or more.
-Hyundai on Wednesday said it is planning more than 100 vehicle launches and refreshes across Hyundai and Genesis by 2030, including 58 in North America. It also will significantly increase its electrified vehicle offerings, including extended-range hybrids.
-Genesis, which launched a decade ago in the U.S., has seen a particularly rapid growth, to become the fastest-selling luxury brand to 1 million sales globally, according to the company.
-Executives described its newest GV90 flagship SUV, including a model with coach doors and rotating lounge seats, as a new chapter for the Genesis brand, reiterating that "anything is possible."
-"From the very beginning, the world took notice of Genesis," Genesis North America Chief Operating Officer Tedros Mengiste said at the GV90 reveal as Muñoz nodded. "And tonight you will see mueos-ideun ganeunghada – anything is possible – come to life."
+> Gap on Thursday announced a new CEO for its Old Navy banner, effective Nov. 2, as the retailer tries to reinvigorate sluggish sales performance at the brand.
+Michael Francis, who was appointed the chief customer officer at Old Navy in May, will take over the reins from current CEO Haio Barbeito, who will become an advisor to the company. Barbeito has held the position since 2022.
+Gap CEO Richard Dickson told CNBC the move was "a planned and thoughtful transition" to better equip Old Navy for its next chapter.
+"We've been working — from fixing fundamentals to building momentum and ultimately looking to accelerate growth, and so there's not a change in strategy," Dickson said in an interview. "We're just going to continue to execute better, continuously improve our core business, while we drive some accelerators that we're really excited about."
+Shares of Gap jumped 12% in extended trading Thursday.
+In the company's fiscal second-quarter earnings report, Old Navy posted net sales of $2.1 billion — down 4% year over year. Comparable sales were also down 4%, versus comparable sales growth of 2% during the same period last year. Wall Street analysts were expecting a decline of 2.4% for the most recent period, according to StreetAccount.
+It marked Old Navy's first negative same-store sales figure since the second quarter of 2023 and was due in part to "unanticipated slowdown in traffic," the company said. The brand contributes nearly 60% to Gap's overall revenue.
+Dickson told CNBC that Old Navy specifically saw disappointing results from its summer marketing, which he said "lacked a direct product message." But he added that the brand has already begun to see "significant improvement" in its traffic and sales this past month.
+Incoming CEO Francis said in a statement the brand would "continue to sharpen our customer focus, strengthen the brand's cultural relevance, enhance the customer experience across every touchpoint and build on the momentum already underway."
+Overall, Gap reported mixed results for its fiscal second quarter, beating analysts' estimates for earnings per share but underperforming revenue expectations. Gap Inc. comparable sales were down 1% for the period, including a 3% year-over-year decline in in-store sales.
+"Ultimately, our slight miss on total company was really due to Old Navy's seasonal product assortment," Dickson said. "We know we didn't execute well on our seasonal product, but if there's good news in this, seasonal is behind us."
+For the full fiscal year, Gap narrowed its net sales growth outlook from a range of between 1% and 2% to a range of between 1% to 1.5% due to the lag at Old Navy. Still, the company hiked its expectations for adjusted earnings per share from a range of $2.30 to $2.40 for the full year to a range of $2.35 to $2.45.
+Here's how the company performed in the quarter ended Aug. 1 compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
+- Earnings per share: 52 cents adjusted vs. 48 cents expected
+- Revenue: $3.65 billion vs. $3.69 billion expected
+Gap reported net income of $501 million, or $1.38 per share, compared with $216 million, or 57 cents per share, the prior year. Sales sank slightly to $3.65 billion from $3.73 billion in the year-ago period.
+Adjusting for one-time items — in particular the impact of tariff refunds of approximately $512 million — Gap reported earnings per share of 52 cents.
+"On balance, we're running a very disciplined organization with a playbook that is working," Dickson said. "These things take time. I think, pointing to Gap as the lead success story of our playbook, you can see the ability for us to actually deliver relevance and revenue, and we're well on our way."
+At the namesake Gap banner, comparable sales soared 10% for the quarter — outpacing Wall Street expectations of 8.6% growth — and net sales jumped 9% to $844 million. The company attributed those gains to "culturally relevant storytelling" in categories across denim, fleece and kids and baby.
+As for Gap's other brands, Banana Republic saw its comparable sales up 3% for the quarter, with net sales reaching $478 million. Analysts were expecting comparable sales up 2%, according to consensus metrics from StreetAccount. The company said the brand "continued to make progress" in its assortment during the quarter.
+And, Athleta's comparable sales sank 12% for the quarter, hitting net sales of just $264 million. Gap said that Athleta "remains focused on disciplined execution to rebuild the brand profitably."
+The company also said a significant increase in gross margin during the fiscal second quarter was the result of a 11.4-percentage-point benefit from "expected recovery of tariffs." Absent that tariff impact, Gap's gross margin improved by 0.2% year over year.
+Gap said it received $95 million of tariff refunds during the quarter and used the funds to lower the costs of some of its products. The remainder of its tariff refund is expected in the third quarter, the company said.
+Dickson added that the company continues to see a "resilient but discerning" consumer with sales growth across all income cohorts.
 
 </details>
 
 
 ---
 
-## HHS plans new FDA deputy commissioner roles for technology and drugs, sources say
+## Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html
+链接：https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html
 
-正文长度：3988
+正文长度：4301
 
-摘要：HHS plans to name two deputy commissioners for technology and drugs, said two sources familiar with the matter.
+摘要：The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> The Department of Health and Human Services is planning to create two new deputy commissioner roles at the Food and Drug Administration, one of which would focus on technology and the intersection of health and artificial intelligence, CNBC has learned.
-The other new position is for a deputy commissioner for drugs, according to two sources familiar with the plan. The agency already has several deputy commissioners, including an acting deputy commissioner for food, though it is unclear who will step into that role permanently.
-HHS officials would appoint the new leaders in what some in the Trump administration view as a bid to exert greater influence over the agency, according to the sources, who asked to remain anonymous because they were not authorized to speak publicly.
-No final decisions or formal announcements about the new roles have been made, the sources said.
-Jared Seehafer, a senior advisor to the FDA and medical devices industry veteran, is the leading candidate for the technology role, according to three people familiar with the matter. Seehafer is a co-founder and former CEO of Enzyme, a life sciences compliance software company, and most recently worked at a venture capital firm in San Francisco before stepping into his FDA advisory role in August of last year.
-Kyle Diamantas was most recently the deputy commissioner for food before stepping in as the acting FDA commissioner in May after Marty Makary's resignation over the agency's authorization of fruit-flavored vapes. It's unclear if Diamantas would return to that role.
-CNBC could not learn of any specific candidates for the deputy commissioner for drugs role.
-The two new positions would report to President Donald Trump's pick for FDA commissioner, Heidi Overton, who still needs to be confirmed by the Senate, according to two people familiar with the plan.
-HHS did not respond to multiple requests for comment.
-The new leadership structure would come after a tumultuous stretch for the FDA.
-The agency has faced intense scrutiny over its handling of a multistate cyclospora outbreak linked to iceberg lettuce, which exacerbated broader concerns about federal budget and staff cuts hindering the agency's ability to rein in foodborne outbreaks.
-The FDA has also been under the spotlight for a series of decisions around certain new drug products.
-For example, the FDA earlier this month granted accelerated approval to Replimune for its melanoma drug, Tudriqev, following a high-profile regulatory battle with the company and two prior rejections of the treatment.
-In March, the FDA also drew sharp backlash from the biotech industry after demanding an extra clinical trial – including a fake or "sham" brain surgery placebo – for an experimental Huntington's disease treatment from UniQure. The agency later reversed its stance and greenlit UniQure to file for accelerated approval based on mid-stage data.
-And on Monday, the FDA granted a three-month review extension for Capricor Therapeutics' experimental Duchenne muscular dystrophy drug to consider additional data, which came after an advisory committee to the agency voted 9-3 against recommending approval of that product.
-Meanwhile, the FDA has increasingly turned to artificial intelligence to help employees with internal operations, including via its Elsa generative AI tool, which the agency has used for tasks such as document summarization and drafting. At the same time, FDA regulators are responsible for evaluating the safety and effectiveness of medical products that incorporate AI.
-Last week, the FDA released a discussion paper outlining potential approaches for regulating generative AI-enabled medical devices. Instead of issuing formal guidance, the agency seeks input from patients, clinicians, developers and other stakeholders.
-The new deputy commissioner for technology would oversee both the agency's own internal use of AI and its review of AI-enabled products, according to the people familiar with the matter.
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Family offices boosted their stock holdings in the second quarter and trimmed their exposure to real estate and private market investments, according to the latest CNBC Family Office Portfolio Tracker.
+Single family offices held 37% of their portfolios in stocks in the second quarter, up from 34% in the first quarter, according to the CNBC Portfolio Tracker powered by Addepar, the foundational data and artificial intelligence platform used by financial professionals globally.
+The surge in family office stock holdings is the largest in several years and signals their continued bullishness on the AI trade and equities, despite fears of a bubble and highly concentrated market.
+"I'd read it as family offices are more comfortable being more highly allocated to public equities," said Addepar CEO Eric Poirier. "The increase in public equities was the biggest quarter-on-quarter shift that we've seen over the over the course of the last three, four years."
+The CNBC Portfolio Tracker provides a real-time look into the portfolios of single family offices, the private investment arms of wealthy families. While most information on family office investments comes from surveys, Addepar's data reflects the actual portfolios of hundreds of family offices — aggregated and anonymized — representing a total of more than $1.4 trillion in assets.
+The rise in stocks in the second quarter was offset by a pullback in private markets and real estate. Family office holdings of private companies, real estate, private equity, venture capital and private credit dropped by 3 percentage points. They also drew down their cash piles by less than 1 percentage point in the quarter, suggesting a push to put more of their money to work.
+While the 3 percentage point swing from alts to stocks is substantial for family offices, and challenges the notion that the richest investors prefer exotic alts over retail-friendly stocks, it was largely the result of market fluctuations rather than active buying and selling. The rally in stock markets in the second quarter — with the S&P 500 up about 15% during the quarter — powered their stock gains. The declines in private market valuations, led by troubles in private credit, brought down their allocations to alts.
+Yet family offices are letting their stock allocations grow as a share of their portfolio, rather than rebalancing, suggesting a long-term bullish tilt to stocks. Poirer said the AI trade is likely driving much of the interest.
+"The AI thematic bet is getting so much action and so much activity, and it's being expressed in large part in public markets versus private markets," he said.
+The top five most commonly held stocks by family offices in the second quarter were Microsoft, owned by 77% of family offices, followed by Amazon and Alphabet (76%), Apple (70%) and Nvidia (69%).
+In private markets, family office allocations to alternatives fell to 46% from 49% in the second quarter, the largest drop in years. Addepar said the decline was mainly driven by private credit funds marking down the values of their assets. Fully 18% of recent vintage private credit funds (vintages 2020 or later) have posted markdowns in net asset values, according to Addepar. That compares with an average of 9% in write-downs for private credit funds with vintages of 2016 or later through the first four years of the lifecycle.
+Real estate and venture capital funds also had markdowns, Poirier said.
+"We're not actually seeing changes in inflows or outflows," Poirier said. "It's more just where family offices are marking their private holdings."
+Family office holdings of fixed income held steady at 8%, hedge funds remain at 7% and "other alts," which includes commodities and collectibles, held at 6%. Their largest investment segment after pubic equities was private companies, at 15% of their portfolios.
+Looking ahead to the third quarter CNBC Family Office Portfolio Tracker, Poirier said the big themes to watch will be in interest rates and bonds.
+"The rates environment, the fixed income world is very dynamic right now," he said.
 
 </details>
 
 
 ---
 
-## Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market
+## American Airlines adds batch of new international routes on its XLR planes
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html
+链接：https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html
 
-正文长度：2460
+正文长度：2743
 
-摘要：Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a "challenging" environment.
+摘要：American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Dick's Sporting Goods on Tuesday reported quarterly earnings that missed Wall Street expectations and lowered its outlook for Foot Locker amid what it called a "challenging athletic footwear and apparel marketplace."
-Dick's stock fell 30% in trading Tuesday, its worst day since 2023.
-The company said Dick's stores saw a 4.9% increase in comparable sales for the quarter driven by "broad-based growth" across categories, including strong results from the World Cup.
-However, Dick's said Foot Locker saw comparable sales decline by 3.6%, leading the company to revise its full-year outlook for the Foot Locker business to a range of flat to down 2%. It still expects the Dick's business to grow between 2.5% and 4%, but the company lowered its overall net sales outlook for the year from a range of between $22.1 billion and $22.4 billion to a range of between $21.9 billion and $22.2 billion.
-The company reduced its consolidated operating income outlook from a previous range of between $1.69 billion and $1.81 billion to a range of $1.45 billion to $1.55 billion.
-Here's how Dick's performed in its fiscal second quarter compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
-- Earnings per share: $3.53 adjusted vs. $3.76 expected
-- Revenue: $5.59 billion vs. $5.65 billion expected
-For the period ended Aug. 1, Dick's reported net income of $315 million, or $3.50 per share, down from $381 million, or $4.71 per share, the year prior. Adjusting for one-time items, including its Foot Locker acquisition, Dick's reported $3.53 per share.
-Sales rose to $5.59 billion from $3.65 billion in the year-ago period.
-"While we are taking a more cautious view of the balance of the year, we remain highly confident in the strength of the DICK'S Business and our long-term opportunity at Foot Locker," CEO Lauren Hobart said in a statement.
-The company also said it received $59 million in tariff refunds during the quarter and $2.1 million in related interest income.
-The earnings come as Dick's is in the midst of implementing a turnaround for Foot Locker, which has previously weighed on the company's bottom line. Dick's has sought to refine Foot Locker's strategy to return to growth, especially at a time when sportswear is booming.
-Dick's acquired Foot Locker for $2.4 billion in 2025, saying at the time that it planned to use the deal to expand its international presence and better position itself against its competitors.
-
-</details>
-
-
----
-
-## United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html
-
-正文长度：3967
-
-摘要：United is betting big on premium, international travel with a host of new routes.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> United Airlines said Tuesday it's planning to add a host of new international destinations next year that span Ljubljana, Slovenia, to Okinawa, Japan, continuing its so-far profitable bet that consumers will keep spending big to try new destinations abroad.
-United already offers more international service than other U.S. airlines and is selling destinations well beyond major tourist draws like Tokyo and Rome to capitalize on changing traveler tastes and grow profits, even as costs soar.
-"They want to get away from the overcrowded, large European cities," said Patrick Quayle, United's senior vice president, who heads the carrier's global network planning and alliances.
+> American Airlines announced Thursday it will add seven international routes to its 2027 schedule, with many of those on its Airbus A321XLR planes.
 Here are the additions:
-- San Francisco to Okinawa, Japan, starting March 27, on a Boeing 777-200ER
-- Newark Liberty International Airport in New Jersey to Ljubljana, Slovenia, starting May 12, on a Boeing 767-400ER
-- Newark to Olbia, Sardinia, in Italy, starting May 27, on a Boeing 767-300ER
-- Newark to Catania, Sicily, in Italy, starting May 28, on a Boeing 767-300ER
-- Newark to Ibiza, Spain, starting May 31, on an Airbus A321XLR
-- Newark to Valencia, Spain, starting June 2, on an Airbus A321XLR
-- Newark to Marseille, France, starting June 4, on an Airbus A321XLR
-- Newark to Terceira in the Azores in Portugal, starting June 9, on a Boeing 737 MAX 8
-And two new business-travel routes:
-- Newark to Luxembourg, starting April 2, on an Airbus A321XLR
-- Washington Dulles International Airport to Toulouse, France, starting April 26, on an Airbus A321XLR
-Airbus is based in Toulouse, and its U.S. office is in Herndon, Virginia, so that route — naturally, on an Airbus — targets the aircraft manufacturer and other aerospace business travel. Meanwhile, Amazon's European headquarters is in Luxembourg, while its second U.S. headquarters is in Arlington, Virginia.
-United said it has added 49 new destinations since 2021 with its push and that it is the only U.S. airline to fly nonstop to 32 of those locations.
-"All these new international destinations ... have become much longer seasons instead of just flying during the summer," United CEO Scott Kirby told CNBC's Phil LeBeau on Tuesday. "These go all the way through October. October has become one of our best months of the year."
-Quayle said United is trying to be a "one-stop shop" for customers at all stages of life "whether you're backpacking in college, you're going to and from Paris, whether you're in your 20s and you're going to a nightclub in Ibiza ... a business trip ... or a vacation or honeymoon in Sardinia."
-He said United has noticed customers are taking more so-called open-jaw flights where they fly into one city and out of another — think into Rome and out of Bari on Italy's Adriatic coast without having to backtrack to a major city — so having multiple destinations in countries like Portugal, Italy, Spain and France could grab consumers' attention.
-Quayle added that the carrier isn't dropping any of its existing routes to make room for the new ones.
-United is the second-most profitable U.S. airline after Delta Air Lines, though Delta has fewer international destinations.
-Delta's president, Peter Carter, told CNBC in June that the airline wants to fight United's dominance, especially for trans-Pacific flights. The airline this summer announced new service to Tokyo-Narita International Airport, as well as Manila in the Philippines, while launching its previously announced Los Angeles-Hong Kong route in June.
-Other adds from United include nonstop service from Los Angeles International Airport to foodie paradise Osaka, Japan, which it already serves from its San Francisco hub. The airline is also adding flights from Denver to Paris and will restart service from San Francisco to Tel Aviv, Israel.
-It also said earlier this year that it plans to launch flights from San Francisco to Sapporo, Japan, a high-end ski destination, in December.
-— CNBC's Michele Luhn contributed to this report.
+- Charlotte, North Carolina, to Barcelona, Spain, starting May 27, on a Boeing 777-200ER.
+- Chicago O'Hare International Airport to Tokyo's Narita International Airport, starting March 19, on a Boeing 787-9.
+- New York John F. Kennedy International Airport to Amsterdam, starting March 28, on an Airbus A321XLR.
+- New York JFK to Nice, France, starting May 6, on an Airbus A321XLR.
+- Philadelphia to Porto, Portugal, starting March 28, on an Airbus A321XLR.
+- Philadelphia to Reykjavik, Iceland, starting May 27, on an Airbus A321neo.
+- Philadelphia to Vienna, starting May 6, on an Airbus A321XLR.
+The carrier is also adding a fourth daily flight between JFK and London Heathrow Airport, on a Boeing 787-9, starting March 28.
+The Airbus XLR, which stands for extra long range, has the ability to go up to 4,700 nautical miles. The single-aisle planes are smaller than others in the airline's fleet, like a Boeing 777 or Boeing 787 Dreamliner, which makes them cheaper to operate.
+The airline rolled out a new interior and configuration with its inaugural XLR flight last year. It's allocated more space to premium seats — which take up a fifth of the plane — than it has on its other aircraft.
+American's plan is to use the XLRs to focus on routes to smaller European cities from its Philadelphia hub or from New York City.
+"It really opens up the menu for all these destinations that are just too small for a widebody," American's senior vice president of network and schedule planning, Brian Znotins, told CNBC last year.
+The airline said its Vienna route will extend through early January 2028 to draw tourists who are aiming to visit European Christmas markets. That follows a growing trend, as airlines have been adding more capacity in the shoulder seasons and even in the off-peak winter period as travelers opt to fly in the fall and other cooler, cheaper times of the year.
+American's announcement comes the same week that United Airlines unveiled its 2027 destinations. United is adding routes to less traditionally popular tourist destinations for U.S. travelers, spanning Ljubljana, Slovenia, to Okinawa, Japan.
+United offers more international service than other U.S. airlines.
+American has been trying to close a profit gap with rivals United and Delta Air Lines and said earlier this year that its flying is split about 80% domestic versus 20% international.
+International flights often carry a high premium compared with domestic routes — and the planes serving them generally have more luxurious seats on board, which can be more profitable for airlines.
 
 </details>
+
+
+---
+
+## What the Buss family Lakers dispute can teach the wealthy about trusts
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html
+
+正文长度：7692
+
+摘要：Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Jerry Buss structured his estate to keep the Los Angeles Lakers in the family after his death. But some of the safeguards meant to preserve that legacy have driven his children apart, according to trusts and estates attorneys.
+Five of Buss' six adult children want to sell the family's remaining stake in the basketball team, valued by a separate recent transaction at $12.5 billion. Meanwhile, their sister Jeanie contends that her siblings do not have the legal authority to give up ownership and is opposing the sale, which would result in Jeanie Buss losing her position as governor of the Lakers.
+ESPN reported this week that Jeanie Buss had asked a California court to block the sale and to remove her siblings Janie and Joey as co-trustees of the family trust that holds the NBA franchise stake.
+The trust includes a "last man standing" clause, as described by sister Janie Buss to ESPN in 2017. That provision transfers a sibling's equity upon their death to their surviving siblings rather than their own children, incentivizing the siblings to sell during their lifetime, Janie Buss told ESPN at the time.
+Steven Fox, partner at Buchalter, said it's common for parents passing down a business to want to limit the number of stakeholders. However, this type of clause is unusual, he said.
+"I rarely draft that into estate plans, because just because one sibling has cancer and all of a sudden is going to die young, it's not fair for their children to be divested," he said. Fox, like the other attorneys who spoke to CNBC, has not seen the terms of the Buss family trust.
+While few family businesses are like the Lakers, the broad strokes of the Buss family's predicament are familiar, according to lawyers who spoke to CNBC. These succession conflicts are also likely to grow more common with the great wealth transfer underway and baby boomers passing on businesses to their children, said Sean Weissbart, partner at Blank Rome LLP.
+Trusts and estates attorneys pointed to three steps that can make family business transitions smoother.
+Use life insurance to compensate family members
+The impulse behind the "last man standing" clause makes sense, Fox said. Without limits on inheriting equity, a family business can end up with dozens of shareholders. However, there are ways to avoid having too many cooks in the kitchen while compensating the next generation fairly, he said.
+Fox and Weissbart each recommended using life insurance to essentially buy grandchildren's equity. Typically, the trust would take out policies on the children of the patriarch or matriarch. After the child dies, their shares revert to their surviving siblings while the grandchildren receive cash from the life insurance payout.
+If the death benefit isn't sufficient to compensate the grandchildren, the trust can provide them with a secured note, placing a lien on the family business, according to Fox. The secured note can be paid out over time and paid in full if the business is sold.
+Even before the business is sold, "there's plenty of money for them to have a great lifestyle," he said.
+This approach can also be used a generation earlier to buy out children of the wealth creator who do not wish to be involved in the business. However, first-generation entrepreneurs are rarely able or willing to take out expensive life insurance policies while they are still relatively young, according to Fox.
+Limit decision-making power
+Jerry Buss divided the family's controlling stake in the Lakers evenly among his six children, with each child receiving an equal vote. However, he designated Jeanie Buss to replace him as the team's governor.
+According to a letter written by Jeanie Buss' lawyer, the trust requires that Janie and Joey Buss, as co-trustees, vote in a way that keeps the family's ownership above the 15% minimum for team governors.
+Lawyers for Jeanie Buss and her siblings did not respond to requests for comment.
+It's common for parents to be torn between wanting to treat their children equally while acknowledging that one child is best-suited to run the business, Weissbart said. However, dividing decision-making power may not be in the children's best interest, he added. He suggested allocating voting rights to one or two children who are best equipped to run the business while dividing the economic interest equally.
+"Giving people the say over a multibillion-dollar business who don't know how to actually manage it is detrimental to the business," he said.
+Weissbart and Fox both recommended placing the family business in a trust and naming only one child as trustee with the ability to make managerial decisions.
+The shares are pooled into one so-called pot trust, and in the event of a sale, the proceeds are distributed to the individual siblings' trusts, according to Fox. He said he sometimes adds an independent co-trustee such as an advisor from a bank or an advisory committee.
+"It's so much easier just to have one person dealing with it than to have to gain approvals from various children's trusts or children themselves," he said. "Siblings are difficult. We're talking about a lot of bad blood."
+Still, Fox said most of his clients prefer a majority-rule approach, which he believes can worsen family ties.
+"I always tell clients you're going to destroy the relationship between your children. Once three of them gang up on one of them, the one that gets outvoted — and the business then gets sold — is going to harbor bad feelings the rest of their life against these three siblings," he said.
+Though Fox and Weissbart were largely in agreement, there isn't widespread consensus.
+George Taylor, partner at Brinkley Morgan, said instead of concentrating power with one sibling, he would recommend giving each child an equal say. Each sibling would be the trustee of an individual trust with equal shares of the business, and they could act through majority when selling.
+"Obviously it's more common than not that one child is left in control," he said, "but this would be the 'let's get along, Kumbaya' approach."
+Reconsider children's involvement in the business
+Perhaps the best way to keep a business in the family is to keep family out of managing it, according to Fox.
+Keeping a family business through multiple generations is a steep challenge, he said. One of the families he works with has a fourth-generation billion-dollar company, according to Fox. He said their secret to success is that no one in the family is allowed to work for the company.
+After the second generation of the family spent 10 years battling in court for control of the company, the third generation amended the shareholder agreement in the '80s to keep family members out, he said.
+"That doesn't work for the Lakers, because there's a lot of swag that goes along with running the Lakers. But it works for some businesses, and it's worked perfectly for this family," he said. "I've now done that with several clients."
+There's no silver bullet for keeping children from taking family feuds to court, Fox said. While many trust documents have clauses requiring arbitration or disinheriting children who choose to sue, they are not necessarily enforceable, he said.
+"I tell my clients you're never going to stop your kids and grandkids from suing each other, because they didn't earn this; it's inherited," he said. "You built it up. You took all the risk when you had nothing and were putting everything on your credit card. They don't have that muscle memory."
+
+</details>
+
+
+---
+
+## Uefa prepares criminal complaint against Fifa’s Infantino - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGpQbmZSUGNWU094UlhMQlMwVy1NdjFsMEhtdFRnYzhKXzh5S21ZUDBYWTBUemZvQm1NdFcxVzliU1F2eXVwTHN5b3JMeVVrcXhJU2F1Z2xkT3VPdnN2RnRHekRTeDJldmdPT0tIRUY4MzRhY1hQbGJJY0JnMUFEbGhZM3k?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGpQbmZSUGNWU094UlhMQlMwVy1NdjFsMEhtdFRnYzhKXzh5S21ZUDBYWTBUemZvQm1NdFcxVzliU1F2eXVwTHN5b3JMeVVrcXhJU2F1Z2xkT3VPdnN2RnRHekRTeDJldmdPT0tIRUY4MzRhY1hQbGJJY0JnMUFEbGhZM3k?oc=5" target="_blank">Uefa prepares criminal complaint against Fifa’s Infantino</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Don’t draw the wrong conclusion from Treasury yields - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE94b2ZzLVU0c2R3Rk1PN0xabDZ0TmJyaG9BclN4Q3R2N3FVWFpOVDhKZVRoTlNyVUpwT3dDbGxPRFZyQ1lUXzFkMVhiTUVYQTZ0MGR5QmE1YWxSdnpWVm5qYkpXc3F5blFmN094ZWtvLXM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE94b2ZzLVU0c2R3Rk1PN0xabDZ0TmJyaG9BclN4Q3R2N3FVWFpOVDhKZVRoTlNyVUpwT3dDbGxPRFZyQ1lUXzFkMVhiTUVYQTZ0MGR5QmE1YWxSdnpWVm5qYkpXc3F5blFmN094ZWtvLXM?oc=5" target="_blank">Don’t draw the wrong conclusion from Treasury yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -313,119 +327,93 @@ It also said earlier this year that it plans to launch flights from San Francisc
 
 ---
 
-## Activist fund targets Samsung in South Korea’s first test of shareholder rights rules - Financial Times
+## Harvard Business School explored European outpost after Trump’s visa threats - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHd2S2dpZnMtcGU3M2gtUWVGbmZfakhFd2dYRGlDcTNPMmpXSjBsaWRLV3RmTU5nZ0R0NzVMNFJBaXZ5aWU1dmVLSmlXLXZjbFdONTBnemcwZU9zZWhsaGNaYURmOGVpSEcwbmpBVUFZM1BUSnQ3VTJvZXdPQ2lXRDBTUnY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzJ3Rzg5TTBsMUYzbVM2dFZrMmVkZ25HM3dmckRHbXpxbGFwbnpMVXk2TWlaSVd1N01XSGcwOXRlNE1lUGxqUnVJUlBCbFZqWmtlYzVOYURTSzJZVVpvNm9oY1dlTEd5ei1EbUhBSmp4bVVMd3BVTndrR2tLbFdZRlRwekw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHd2S2dpZnMtcGU3M2gtUWVGbmZfakhFd2dYRGlDcTNPMmpXSjBsaWRLV3RmTU5nZ0R0NzVMNFJBaXZ5aWU1dmVLSmlXLXZjbFdONTBnemcwZU9zZWhsaGNaYURmOGVpSEcwbmpBVUFZM1BUSnQ3VTJvZXdPQ2lXRDBTUnY?oc=5" target="_blank">Activist fund targets Samsung in South Korea’s first test of shareholder rights rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzJ3Rzg5TTBsMUYzbVM2dFZrMmVkZ25HM3dmckRHbXpxbGFwbnpMVXk2TWlaSVd1N01XSGcwOXRlNE1lUGxqUnVJUlBCbFZqWmtlYzVOYURTSzJZVVpvNm9oY1dlTEd5ei1EbUhBSmp4bVVMd3BVTndrR2tLbFdZRlRwekw?oc=5" target="_blank">Harvard Business School explored European outpost after Trump’s visa threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## France replaces Italy as European bond investors’ biggest worry - Financial Times
+## Canada poaches 48 US-based top academics - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGpkX2FQZ2wxcnpOLUJyYVBrbzRwc1pGbndhUENHZDlhQ3hoY20yajJCTnYzeUVPM0J6ZmtIVzZfN2M5bEZHM1BMbkZpQmRNOUZXYXVtUHVnNzVGWF90Y1REOFF0VnY3b1RqcjBscVo5NEV2OURmSHNqOV9FRDZRUHZmQmI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS09YNUVGS2VGVGJFc1BtSHVUcDVjV0drZW5DOVc5c3lmbWh0bUZhMUVZanhVSTY5VW13RWdNbHVTMDFkZkRGRmpKSVZTMkJaR1NmaGdNNjVxOXBRQy00VUxKckNfSUpDckVGWkV3MllQdS1OTlJpWXpjN0czMDdqQktJa3g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGpkX2FQZ2wxcnpOLUJyYVBrbzRwc1pGbndhUENHZDlhQ3hoY20yajJCTnYzeUVPM0J6ZmtIVzZfN2M5bEZHM1BMbkZpQmRNOUZXYXVtUHVnNzVGWF90Y1REOFF0VnY3b1RqcjBscVo5NEV2OURmSHNqOV9FRDZRUHZmQmI?oc=5" target="_blank">France replaces Italy as European bond investors’ biggest worry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS09YNUVGS2VGVGJFc1BtSHVUcDVjV0drZW5DOVc5c3lmbWh0bUZhMUVZanhVSTY5VW13RWdNbHVTMDFkZkRGRmpKSVZTMkJaR1NmaGdNNjVxOXBRQy00VUxKckNfSUpDckVGWkV3MllQdS1OTlJpWXpjN0czMDdqQktJa3g?oc=5" target="_blank">Canada poaches 48 US-based top academics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI says it took a week to detect its AI models had hacked Hugging Face - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFV3T1J1S0otT1d6ZHRmN2dFQmEzUlhyV3NJTzVEa2tQZ211ekYtTWI0V1Zkbkk2QkNfUzZjU0RYNWtsM3dFcVFpRkF4cmZOSDhsM09rMVowbExWbGd5ZjZUNzRuaEVmTnppNWlueHo2WmZEaDZmZVpDcThHTXdSbFd2Qmc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFV3T1J1S0otT1d6ZHRmN2dFQmEzUlhyV3NJTzVEa2tQZ211ekYtTWI0V1Zkbkk2QkNfUzZjU0RYNWtsM3dFcVFpRkF4cmZOSDhsM09rMVowbExWbGd5ZjZUNzRuaEVmTnppNWlueHo2WmZEaDZmZVpDcThHTXdSbFd2Qmc?oc=5" target="_blank">OpenAI says it took a week to detect its AI models had hacked Hugging Face</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## CIA chief makes rare visit to Moscow - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmIzX3RzaGQ4a1FxN05QVXNOVUtzQmw4MU51M2JtUXZfdFFJSnZVYTNCcWZnMHVYNXp4TXFWaHFoTkp4Ymc5MlhrN1I5c2hpcVl3VWV6dVpzSi1IWjhES21iZmFYcGlxNE81WFlod0RYbFd1OTF4VTNVWjNidzFfMjh1d3I?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmIzX3RzaGQ4a1FxN05QVXNOVUtzQmw4MU51M2JtUXZfdFFJSnZVYTNCcWZnMHVYNXp4TXFWaHFoTkp4Ymc5MlhrN1I5c2hpcVl3VWV6dVpzSi1IWjhES21iZmFYcGlxNE81WFlod0RYbFd1OTF4VTNVWjNidzFfMjh1d3I?oc=5" target="_blank">CIA chief makes rare visit to Moscow</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Car rams into pedestrians in France, kills 1, injures 10 - Reuters
+## Rivian's finance chief steps down, joins GE Vernova - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTAzMS1qcWV1QkFOeU81a09qdW1pREs2TkJNNUNrNFZUQjdSTE9JT0dFYWo1d2N3dlQtYlhMS1B6UkkxMDdYN1l6em5ESDQyN1F4NjBXdVRLR0J0VnhTempjY3A0b1hjS3JrNVktNjVDdGhFc2FJaXJGVkRaZl9EV09yMG9FNXVKMEhjcDBiMHA3a1V0SUJnbw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUpWNnVtZVplTGZWTnp3eW9sWVVkOEd4dkd4SExtcFAxd3dhRXV2ajFiY1JmU2RtakxvazlDSXd0bGtIRnNoSG14WkZQemFkelVqOE93djNMbGpBNXVhZkd6Z3VWNVRzd1FTTWJtMWxmRk9PQWptOHJUcHFOTVVpbFoycEEtbThEcDI5Q2tVLWRncW9LTG9jbUtrelc0YnE4WlJBSlY2dzFuNjVIME9MMm5oZXFKLUdZUkNUdVRMTU5SWG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTAzMS1qcWV1QkFOeU81a09qdW1pREs2TkJNNUNrNFZUQjdSTE9JT0dFYWo1d2N3dlQtYlhMS1B6UkkxMDdYN1l6em5ESDQyN1F4NjBXdVRLR0J0VnhTempjY3A0b1hjS3JrNVktNjVDdGhFc2FJaXJGVkRaZl9EV09yMG9FNXVKMEhjcDBiMHA3a1V0SUJnbw?oc=5" target="_blank">Car rams into pedestrians in France, kills 1, injures 10</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUpWNnVtZVplTGZWTnp3eW9sWVVkOEd4dkd4SExtcFAxd3dhRXV2ajFiY1JmU2RtakxvazlDSXd0bGtIRnNoSG14WkZQemFkelVqOE93djNMbGpBNXVhZkd6Z3VWNVRzd1FTTWJtMWxmRk9PQWptOHJUcHFOTVVpbFoycEEtbThEcDI5Q2tVLWRncW9LTG9jbUtrelc0YnE4WlJBSlY2dzFuNjVIME9MMm5oZXFKLUdZUkNUdVRMTU5SWG8?oc=5" target="_blank">Rivian's finance chief steps down, joins GE Vernova</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 - Reuters
+## Iran's security chief denies report about a potential plot against Trump's son - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5" target="_blank">EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5" target="_blank">Iran's security chief denies report about a potential plot against Trump's son</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea condemns US arms sale to South Korea, vows strong response - Reuters
+## FAA moves to fire two controllers who left work before fatal LaGuardia collision, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcy1BejAydk1HblNZZmxQQmdmbzB4X2NyLW9zQVktS1VrWmlQMHpTdjJuakpHaW01MWtlZmhJTHphVlU5QkxDOGl3akRnU2pYZlBTekFBanF5TVpjdEhDdjBZWWxCcHZNYzQ0ZHRpd09kbHNIcXJmSG1NQjlSblpVbjNlY3NaVzhsN3NFUUVWekhPMWJHZU11VVJIam9TWkZiaFNrRTNOMFl4Tm9nVTlKMVpzdnFkdGdwVEhKNzZZdnVXU3FqeVBkMQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWgxaHRxM013SEN6dEVSaWlUa2VmUGZUc0NhbnFTZVlvRTBMVERoZkhqM2xNLXZlX1h5Y0xhOV9STFlDTFlYd1Q3eVZpdUVqMzhqN2ozb1h5aEdZSGxNSTdLMlZXTmRiWFpMRGpjaXA3RnZBWGhCLW9qczJGWFMxcHE1NHVna3hGU3BvZUtYVERBV1N1d3c3NWExSUFQbm1BUVRKM0RSRko2eWxQSjhldUYzQTVrOEJ2eHU2UnUxbw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcy1BejAydk1HblNZZmxQQmdmbzB4X2NyLW9zQVktS1VrWmlQMHpTdjJuakpHaW01MWtlZmhJTHphVlU5QkxDOGl3akRnU2pYZlBTekFBanF5TVpjdEhDdjBZWWxCcHZNYzQ0ZHRpd09kbHNIcXJmSG1NQjlSblpVbjNlY3NaVzhsN3NFUUVWekhPMWJHZU11VVJIam9TWkZiaFNrRTNOMFl4Tm9nVTlKMVpzdnFkdGdwVEhKNzZZdnVXU3FqeVBkMQ?oc=5" target="_blank">North Korea condemns US arms sale to South Korea, vows strong response</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWgxaHRxM013SEN6dEVSaWlUa2VmUGZUc0NhbnFTZVlvRTBMVERoZkhqM2xNLXZlX1h5Y0xhOV9STFlDTFlYd1Q3eVZpdUVqMzhqN2ozb1h5aEdZSGxNSTdLMlZXTmRiWFpMRGpjaXA3RnZBWGhCLW9qczJGWFMxcHE1NHVna3hGU3BvZUtYVERBV1N1d3c3NWExSUFQbm1BUVRKM0RSRko2eWxQSjhldUYzQTVrOEJ2eHU2UnUxbw?oc=5" target="_blank">FAA moves to fire two controllers who left work before fatal LaGuardia collision, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nations with tourists missing in Nepal flood - Reuters
+## Trump says Putin will not attack NATO territory, downplays Ratcliffe trip - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWpjNThKZThpa3BlZTl3Rkt5cGJPMVBRcXNxVFhMdVlDSW5Ham9jSEExU3NEYjRMSWJsTU51SUVDclFJakpES1hFTjRkS2xWWkRIT3VOYVBheUxBT0ZmRy1ac1p5dHNzREtlYTR6ZW5USnBoemRUaVE2THZFcTRfdXBlSU1mRGJCNElrd0tLcTRpcDlmMXloRmhZOA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxObk1VbmRKMmJJSmtVNm84ajk2QXBHc1ZSUGpia1ptRndKVTNsaHlOUHBLdTJsSmtYUC1URUdsSkxKMlJHaE9OZHJUWVpMX3JvWXJYaDNSZjdsZGQ0S3VQdXhZWlZ0WkxyOXByd2UzenJGakZsdEdlZWtkakRORmN3WkFDdTVWejlIT0xWVEwtMXpWeGVJVW9iX0ZHVGw1elZIQ29aVWJQaGpJWmhrVElZaWtibG4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWpjNThKZThpa3BlZTl3Rkt5cGJPMVBRcXNxVFhMdVlDSW5Ham9jSEExU3NEYjRMSWJsTU51SUVDclFJakpES1hFTjRkS2xWWkRIT3VOYVBheUxBT0ZmRy1ac1p5dHNzREtlYTR6ZW5USnBoemRUaVE2THZFcTRfdXBlSU1mRGJCNElrd0tLcTRpcDlmMXloRmhZOA?oc=5" target="_blank">Nations with tourists missing in Nepal flood</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxObk1VbmRKMmJJSmtVNm84ajk2QXBHc1ZSUGpia1ptRndKVTNsaHlOUHBLdTJsSmtYUC1URUdsSkxKMlJHaE9OZHJUWVpMX3JvWXJYaDNSZjdsZGQ0S3VQdXhZWlZ0WkxyOXByd2UzenJGakZsdEdlZWtkakRORmN3WkFDdTVWejlIT0xWVEwtMXpWeGVJVW9iX0ZHVGw1elZIQ29aVWJQaGpJWmhrVElZaWtibG4?oc=5" target="_blank">Trump says Putin will not attack NATO territory, downplays Ratcliffe trip</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China’s humanoid robots aren’t smart enough to take your job – yet - Reuters
+## Trump signs order to rename Lake Ontario as Lake America - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?oc=5" target="_blank">China’s humanoid robots aren’t smart enough to take your job – yet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5" target="_blank">Trump signs order to rename Lake Ontario as Lake America</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
