@@ -1,68 +1,183 @@
 # 每日财经新闻
 
-更新时间：2026-08-28 10:50:06
+更新时间：2026-08-28 22:03:16
 
-## European Stocks Set for Fifth Monthly Gain Before Warsh Speech
+## IMF's Georgieva on Warsh's Speech, 'Stubborn' Inflation
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-28/european-stocks-set-for-fifth-monthly-gain-before-warsh-speech
+链接：https://www.bloomberg.com/news/videos/2026-08-28/imf-s-georgieva-on-warsh-s-speech-stubborn-inflation-video
 
 正文长度：0
 
-摘要：European stocks gained on Friday and were set for a fifth straight monthly advance ahead of key speeches by central bankers at the Jackson Hole economic symposium.
+摘要：IMF Managing Director Kristalina Georgieva says Federal Reserve Chairman Kevin Warsh "did a great job" in his Jackson Hole speech. Speaking with Bloomberg's Lisa Abramowicz on "Bloomberg The Close." Georgieva also discusses recent inflation pressures and whether they reflect central bank failure or other forces. (Source: Bloomberg)
 
 
 ---
 
-## Traders Expect to Be Frustrated by Warsh’s Jackson Hole Speech
+## Iran War Hits 6 Month Mark
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-08-28/traders-expect-to-be-frustrated-by-warsh-s-jackson-hole-speech
+链接：https://www.bloomberg.com/news/videos/2026-08-28/iran-war-hits-6-month-mark-video
 
 正文长度：0
 
-摘要：Investors urge the tight-lipped Fed chairmen to be forceful on inflation.
+摘要：Bloomberg Businessweek looks back on the past six months of the US war with Iran, including how President Trump's timeline for the conflict has shifted as talks with Tehran remain mostly stalled. Bloomberg News White House and National Security Editor Michelle Jamrisko discusses how the war has evolved, and what might come next. (Source: Bloomberg)
 
 
 ---
 
-## US Stocks, Bonds Drift With Focus on Jackson Hole: Markets Wrap
+## Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal
 
 正文长度：0
 
-摘要：US stocks and Treasuries drifted ahead of Federal Reserve Chair Kevin Warsh’s address at Jackson Hole, with traders looking for clarity on his economic outlook and strategy for bringing inflation back to target.
+摘要：Colombia’s richest family is nearing a Venezuela oil deal in conjunction with GeoPark Ltd, a Bogota-based oil company in which it is the largest shareholder with a 28% stake, according to people familiar with the matter who asked for anonymity discussing confidential plans.
 
 
 ---
 
-## Gold Steadies as Investors Focus on Warsh’s Jackson Hole Speech
+## Tariffs Could Bring Canada Auto "To Its Knees"
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-27/gold-holds-near-4-600-as-investors-focus-on-fed-rate-hike-path
+链接：https://www.bloomberg.com/news/videos/2026-08-28/tariffs-could-bring-canada-auto-to-its-knees-video
 
 正文长度：0
 
-摘要：Gold steadied near $4,600 an ounce, as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh.
+摘要：President Trump vowed this week to hike tariffs on Canadian cars, trucks, automotive parts, and steel to 50% at the start of next year as part of an ongoing trade war threat with the country. Linda Hasenfratz, Executive Chair of Linamar, says that after decades of free trade in automotives between he US and Canada, the implementation of such high tariffs would "cripple the industry." (Source: Bloomberg)
 
 
 ---
 
-## Ukraine Says It Attacked Major Russian Oil Refinery in Yaroslavl
+## Odd Lots: What’s Behind the Classic Jackson Hole Photo Op?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-28/ukraine-says-it-attacked-major-russian-oil-refinery-in-yaroslavl
+链接：https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video
 
 正文长度：0
 
-摘要：Ukraine said it struck the oil refinery in Yaroslavl, one of Russia’s largest fuel-producing plants, in the latest in a flurry of attacks that have sparked a new wave of gasoline shortages across the nation.
+摘要：For years, the Fed chair would give an address in Jackson Hole, Wyoming, and Wall Street and news organizations wouldn't have a recent photo of the chair to accompany stories. In steps Bloomberg's own Mike McKee. Tracy Alloway, Joe Weisenthal and Tom Keene learn the origin of the now traditional "Fed perp walk." (Source: Bloomberg)
+
+
+---
+
+## Imax says it's open to a sale. Why is no one buying?
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html
+
+正文长度：9413
+
+摘要：Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> In December, Imax CEO Rich Gelfond opened the door to a sale. Almost nine months later, the company's stock has hit an all-time high, its box office is breaking records and the stage is set to carry its momentum through the end of 2026.
+Yet, no major suitors have appeared.
+Imax held preliminary talks with potential buyers earlier this year, but as of May hadn't fielded any official pitches, CNBC reported at the time. Imax hasn't hired new bankers and doesn't have a formalized pitch book, according to a person familiar with the company, who spoke on the condition of anonymity to discuss confidential matters.
+But it's a busy time for dealmaking in the media space. Paramount Skydance is in the midst of a contested merger with Warner Bros. Discovery worth $110 billion, Fox agreed to acquire Roku in a deal worth $22 billion, and Comcast continues its corporate restructuring with the upcoming spinoff of NBCUniversal, which many in the industry say will give both resulting companies more flexibility to do deals.
+With a nearly $3 billion market cap, Imax is a relatively inexpensive asset in the entertainment landscape. And it's been on a hot streak in the wake of the pandemic as moviegoers have traded up for higher-priced premium large format cinema experiences.
+The company's momentum has been further fueled by strong box office sales from films like Universal and Christopher Nolan's "The Odyssey." Over the weekend, global Imax ticket sales for the film surpassed $400 million, the first film to exceed the benchmark in the company's history. This haul represents nearly 30% of total global sales for "The Odyssey" — despite the fact that Imax screens represent less than 1% of movie screens worldwide.
+And then there's the strong pre-sales for the December release of Warner Bros. and Denis Villeneuve's "Dune: Part Three," which has already sold out specialized screenings into January.
+Wall Street analysts foresee Imax setting a new global box office record in 2026, hot off the heels of the record $1.28 billion the company posted last year. Imax's 2025 ticket sales were more than 40% higher than 2024 and 13% higher than its previous record, set in 2019.
+"The brand value of Imax has never been higher," Eric Handler, managing director and senior research analyst at Roth, told CNBC. "They have done a really good job of situating themselves right in the center of the eco-structure for Hollywood. So, it's been a masterful, long-time-coming situation."
+Contributing to the momentum is Imax's premium ticket prices, which, despite being higher than for other screenings, have not deterred audiences.
+So far in 2026, the average adult Imax ticket cost $20.57 in the U.S., according to data from EntTelligence. That's more than 60% higher than the average standard ticket, at $12.75 each, and nearly 18% higher than rival premium large format offerings, which average around $17.46 apiece.
+The company's slate of "filmed for Imax" content is also accelerating and expected to grow materially through 2028. It's diversifying beyond the Hollywood landscape with partnerships in China, Japan and South Korea to screen local-language content.
+The company is also actively expanding. Around 160 to 175 Imax systems are expected to be installed in 2026, with contracts to build hundreds more already in place, the company told CNBC last year.
+The result, then, is less a question of what's for sale and more a question of who would buy.
+The most — and least — likely suitors
+Handler noted that a potential buyer would need to balance studio relationships and cinema partnerships, as Imax has for years. The company installs its special format screens in existing theaters and negotiates release windows for top-billed films.
+Major studios, including Disney, Universal, Paramount and Warner Bros., would have an immediate conflict of interest if they acquired Imax, Wall Street analysts told CNBC.
+Imax is "studio agnostic, and so they charge every studio the same," said Eric Wold, executive director of equity research at Texas Capital Securities. "If some studio were to purchase them, I think the other studios would always feel that they're kind of second in line for the key release slots in the holidays and summer, and so it may not be received well."
+Even in the scenario where a deal of that nature passed muster with Hollywood and regulators, a single studio would be hard-pressed to fill a 52-week theatrical calendar with only its own films. Premium large format, or PLF, is intended for blockbuster feature films, which moviegoers are willing to pay a higher price to attend. A smaller-budget film with less spectacle might not draw the same crowds for the same price on that kind of screen.
+Not to mention, few studios have purchased cinemas even after the Department of Justice rescinded the 1948 Paramount Consent Decrees, which previously disallowed studios from owning movie theater chains. Those restrictions formally sunset in 2022, but so far only Sony has done a major deal for cinemas, acquiring all 35 Alamo Drafthouse locations in 2024.
+Beyond movie studios, analysts have highlighted potential suitors in entertainment and tech: for example, Netflix, Apple, Amazon or Sony.
+Netflix long vowed to build growth rather than buy it, but more recently it's gotten a taste for M&A. The company entered into an agreement with Warner Bros. Discovery to buy its studio and streaming businesses before being outbid by Paramount Skydance.
+Its foray into dealmaking has led many in media to wonder if Netflix could be on the hunt for another opportunity.
+The streamer doesn't rely on theatrical releases as part of its main programing strategy, therefore its conflict of interest if it were to acquire Imax would be smaller than for traditional Hollywood studios. Additionally, owning Imax would provide any filmmaker that signed on to work with Netflix the opportunity for premium theatrical runs.
+Of course, Netflix historically has had limited interest in the traditional theatrical model. While the company does release some films in cinemas, it's typically done so for short runs or for eligibility for Academy Awards contention.
+As for Apple, Amazon and Sony, all three companies have strong technology businesses in addition to theatrical and streaming content, which may align nicely with Imax's tech-heavy business. While Sony does not have its own streaming platform, it partners with Netflix to distribute new content. Meanwhile, Apple has AppleTV and Amazon has Amazon Prime.
+Taking on a cinema tech firm like Imax could offer each company a new avenue for distribution.
+There's also the possibility that Imax could draw interest from a company or investor that wants to buy into Hollywood and the broader entertainment universe. Imax has a global presence and connections to most major studios as well as cinema partners worldwide.
+Analysts also noted that a private equity buyer would eliminate any potential conflict concerns and could be most interested to ride the stock's momentum.
+'Perfectly fine as a standalone company'
+Shares of Imax hit an all-time high this week of $54.79. The stock is up almost 80% in the past 12 months.
+That surge could be among the reasons it's still going it alone, according to Alicia Reese, senior vice president of equity research at Wedbush.
+"It's a lot more expensive than it has been for a long time," Reese said.
+When Gelfond first floated the idea of a sale last year, the stock was trading at around $36 per share and had a market cap of about $1.95 billion. The price tag is now a billion dollars higher.
+"Maybe those tech companies or potentially [private equity] who had considered it or had been kicking the tires would wait a little while and see what happens to the share price," Reese said. "There's a large probability that it's just going to continue to gain share and gain global growth and remain at these elevated valuation levels for some time, as the growth isn't likely to reverse."
+Several Wall Street analysts see further stock growth on the horizon, with price targets from some firms as high as $65 a share. On Monday, Drew Crum of B. Riley Securities raised his price target on the stock to $61, up from $52.
+"Taken together, we continue to forecast record financials in 2026, with share gains, higher margins, and healthy cash flow generation, as reflected in our above-consensus estimates," he wrote.
+Potential suitors would also naturally be looking at what the future holds for the entertainment business at large. The North American box office is still chasing the pre-pandemic levels of 2019, and despite a blockbuster summer, ticket sales are still lagging.
+Wedbush's Reese noted that Imax is grouped in with the theatrical exhibition space, which is traditionally a slow-growth, dividend-paying business. These types of companies will likely get back to paying those dividends once they can sustain "some very low single-digit growth," she said.
+And because Imax is not actively seeking a sale, simply entertaining offers, its executives can afford to be choosey.
+"I think the main point is that Imax is perfectly fine as a standalone company," Reese said. "And so they're not desperate in any way, shape or form. So, they're not going to go for just any bid. They want a bid that's a nice premium to where the shares are currently trading. And so it'd be hard to come to a deal, I think, right now."
+
+</details>
+
+
+---
+
+## How Taylor Farms became integral to America's food supply system
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html
+
+正文长度：7734
+
+摘要：Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The cyclospora outbreak that has sickened thousands of people across the U.S. has brought fresh scrutiny of the integral role Taylor Farms and other massive suppliers play in the country's food supply.
+The company, which the Food and Drug Administration has linked to the parasite's spread, is one of the world's largest producers of fresh-cut vegetables and salads, supplying some of the biggest grocery chains and restaurant companies in the U.S. Its products are sold at retailers including Walmart, Kroger, Whole Foods and Target, and its restaurant customers include McDonald's, Taco Bell and Chipotle. Taylor Farms says 40% of salad kits sold at grocery stores come from the company, giving it a massive role in supplying a convenient and cheap vegetable option for many shoppers.
+The company, founded in 1995, has grown through a combination of scale and acquisitions, building an operation that spans much of the food supply chain. Taylor Farms works with hundreds of family farms for its produce and handles processing, packaging and distribution itself.
+That reach has made the company an increasingly important link between farms and some of America's biggest food companies, and heightens the risk of food safety problems spreading. Taylor Farms' scale has put the company under a brighter spotlight as the FDA investigates the cyclospora outbreak that the agency has linked to iceberg lettuce processed at Taylor Farms' facility in central Mexico, some of which was served at Taco Bell restaurants.
+Taylor Farms declined CNBC's invitation for an interview but sent comments defending the steps it has taken to respond to the outbreak and keep its produce safe.
+"We are confident in our food and food safety systems and will continue to be transparent as more information becomes available," a spokesperson for Taylor Fresh Foods, the corporate name for Taylor Farms, told CNBC.
+Taylor Farms said in an August post on its website that it spends more than $200 million a year on food safety. The company added in a statement to CNBC that safety is its "biggest area of funding by several orders of magnitude."
+Taylor Farms has also voluntarily suspended iceberg lettuce sourcing and production from central Mexico and commissioned independent experts to conduct a review of food safety practices at its facility there. The FDA has not reported a positive product sample for cyclospora, because it can take weeks for symptoms to show and lettuce has a short shelf life, so it is difficult to test the right crop.
+The breadth of the outbreak, which has led Walmart to recall bagged salads and Taco Bell to pull lettuce at some restaurants, underscores how integral Taylor Farms has made itself to the U.S. food system, and why broader industry consolidation risks worsening foodborne illness outbreaks.
+Why Taylor Farms' scale is important
+Taylor Farms generated roughly $7.3 billion in sales last year, according to PitchBook.
+The company handles much of the processing and distribution of the produce it sources, including washing, chopping, packaging, labeling, shipping and refrigeration. Taylor Farms and other suppliers like it have succeeded in part by making themselves indispensable to big restaurants.
+Chains rely on their ability to offer a consistent supply on a huge scale, said Stephen Zagor, a restaurant consultant and adjunct associate professor at Columbia Business School.
+"They can promise institutions that have multiple locations all over the country that they can supply what they need on a regular basis," Zagor said. "For a restaurant chain, it's easier for them to deal with a major multinational company than it is to deal with local farmers."
+That infrastructure provides consistency and reduces the need for labor-intensive preparation at chains. Taylor Farms can dice onions for McDonald's or shred lettuce for Taco Bell.
+The company has also become more important by getting bigger. Taylor Farms has expanded its infrastructure through a string of acquisitions and investments, including its purchases of Earthbound Farm in 2019 and agricultural robotics company Farmwise in 2025.
+The benefit of that consolidation has been reliable supply, standardized products and potentially lower labor costs, said Zagor.
+But there is another side.
+"The consolidation has camouflaged sources," Zagor said. "It's all put in one big pot. And if that pot has now gone bad, that affects the entire downstream logistic food chain."
+Zagor called it a "culinary national nightmare" when a company that distributes food to so many other businesses finds itself at the center of a foodborne illness outbreak.
+It's not the first time Taylor Farms has been tied to an outbreak.
+Food safety lawyer Bill Marler compiled a list of outbreaks linked to Taylor Farms and whether they led to product recalls. Among them is a 2009 salmonella outbreak linked to shredded lettuce, along with a 2024 E. coli outbreak tied to slivered onions served at McDonald's.
+His law firm, Marler Clark, has filed five complaints based on the current cyclospora outbreak so far in Ohio, Michigan and Kentucky, against four separate Taco Bell franchise operators and the restaurant chain itself, along with Taylor entities including four operators and one supplier.
+Growth and regulation
+Taylor Farms, along with other food service giants such as US Foods and Sysco, has become bigger and more vital in part by buying other companies.
+Taylor Farms has completed more than a dozen acquisitions or investments since 2011. While the cyclospora outbreak — the largest in U.S. history — has brought fresh scrutiny of the effects of consolidation, it's unclear how much skepticism there was of the deals when they happened.
+CNBC asked the Justice Department and Federal Trade Commission whether either agency had reviewed or challenged Taylor Farms' acquisitions and investments. The DOJ did not respond. The FTC said it could not provide additional details without knowing the purchase prices of the transactions, which determines if the agency even had the opportunity to review.
+CNBC found no public evidence that the FTC has challenged a Taylor Farms acquisition. Those deals took place under multiple presidential administrations of both parties, and various FTC leaders.
+Some experts also highlighted a separate issue in the U.S. food system: the strength of oversight and regulation of food safety as distributors get larger and more influential. As the cyclospora outbreak raged, various news reports highlighted that Taylor Fresh Foods made a $1 million donation to the pro-Trump super PAC MAGA Inc. last year, around the time the Trump administration delayed a rule related to food tracing requirements. The company has also spent millions on anti-regulatory lobbying.
+"If what you want is light enforcement of anything that's going to be expensive and cost you money, it's very nice to have political power," said Marion Nestle, professor emerita of nutrition, food studies and public health at New York University. "You can go to Congress and say, we don't want to do that."
+Taylor Fresh Foods rejected suggestions that its political contributions have resulted in favorable regulatory treatment.
+"Taylor Farms categorically rejects any suggestion that the company has attempted or received favorable regulatory treatment as a result of political contributions or any other improper influence," a spokesperson said. "The allegations are false."
+Nestle worries whether regulators have enough power as a few big companies become increasingly vital parts of the food system.
+"Companies want to produce food as cheaply as possible," said Nestle.
+"And that means you need oversight," she added.
+— CNBC's Ryan Baker contributed to this report
+
+</details>
 
 
 ---
@@ -193,95 +308,15 @@ Looking ahead to the third quarter CNBC Family Office Portfolio Tracker, Poirier
 
 ---
 
-## American Airlines adds batch of new international routes on its XLR planes
+## US Treasury imposes limits on Egyptian bank for doing business with Iran - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlFyWk1PUDRYZDdPbExTVDVWdF96RVZqTG9ZbFA3dHdTZkZjVWJWdWlvbnhxaV9DUWVhSnB5ZEdTMks3dUF5X3J0M0JERXh2cXAtZkJwRVdqajRSdV9JeEVlMHYwdUVZV2ZNQXJ5RXZkWHJ3V1FkRnl5MXdnSU1HbUVSUXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2743
+正文长度：0
 
-摘要：American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Airlines announced Thursday it will add seven international routes to its 2027 schedule, with many of those on its Airbus A321XLR planes.
-Here are the additions:
-- Charlotte, North Carolina, to Barcelona, Spain, starting May 27, on a Boeing 777-200ER.
-- Chicago O'Hare International Airport to Tokyo's Narita International Airport, starting March 19, on a Boeing 787-9.
-- New York John F. Kennedy International Airport to Amsterdam, starting March 28, on an Airbus A321XLR.
-- New York JFK to Nice, France, starting May 6, on an Airbus A321XLR.
-- Philadelphia to Porto, Portugal, starting March 28, on an Airbus A321XLR.
-- Philadelphia to Reykjavik, Iceland, starting May 27, on an Airbus A321neo.
-- Philadelphia to Vienna, starting May 6, on an Airbus A321XLR.
-The carrier is also adding a fourth daily flight between JFK and London Heathrow Airport, on a Boeing 787-9, starting March 28.
-The Airbus XLR, which stands for extra long range, has the ability to go up to 4,700 nautical miles. The single-aisle planes are smaller than others in the airline's fleet, like a Boeing 777 or Boeing 787 Dreamliner, which makes them cheaper to operate.
-The airline rolled out a new interior and configuration with its inaugural XLR flight last year. It's allocated more space to premium seats — which take up a fifth of the plane — than it has on its other aircraft.
-American's plan is to use the XLRs to focus on routes to smaller European cities from its Philadelphia hub or from New York City.
-"It really opens up the menu for all these destinations that are just too small for a widebody," American's senior vice president of network and schedule planning, Brian Znotins, told CNBC last year.
-The airline said its Vienna route will extend through early January 2028 to draw tourists who are aiming to visit European Christmas markets. That follows a growing trend, as airlines have been adding more capacity in the shoulder seasons and even in the off-peak winter period as travelers opt to fly in the fall and other cooler, cheaper times of the year.
-American's announcement comes the same week that United Airlines unveiled its 2027 destinations. United is adding routes to less traditionally popular tourist destinations for U.S. travelers, spanning Ljubljana, Slovenia, to Okinawa, Japan.
-United offers more international service than other U.S. airlines.
-American has been trying to close a profit gap with rivals United and Delta Air Lines and said earlier this year that its flying is split about 80% domestic versus 20% international.
-International flights often carry a high premium compared with domestic routes — and the planes serving them generally have more luxurious seats on board, which can be more profitable for airlines.
-
-</details>
-
-
----
-
-## What the Buss family Lakers dispute can teach the wealthy about trusts
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html
-
-正文长度：7692
-
-摘要：Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-Jerry Buss structured his estate to keep the Los Angeles Lakers in the family after his death. But some of the safeguards meant to preserve that legacy have driven his children apart, according to trusts and estates attorneys.
-Five of Buss' six adult children want to sell the family's remaining stake in the basketball team, valued by a separate recent transaction at $12.5 billion. Meanwhile, their sister Jeanie contends that her siblings do not have the legal authority to give up ownership and is opposing the sale, which would result in Jeanie Buss losing her position as governor of the Lakers.
-ESPN reported this week that Jeanie Buss had asked a California court to block the sale and to remove her siblings Janie and Joey as co-trustees of the family trust that holds the NBA franchise stake.
-The trust includes a "last man standing" clause, as described by sister Janie Buss to ESPN in 2017. That provision transfers a sibling's equity upon their death to their surviving siblings rather than their own children, incentivizing the siblings to sell during their lifetime, Janie Buss told ESPN at the time.
-Steven Fox, partner at Buchalter, said it's common for parents passing down a business to want to limit the number of stakeholders. However, this type of clause is unusual, he said.
-"I rarely draft that into estate plans, because just because one sibling has cancer and all of a sudden is going to die young, it's not fair for their children to be divested," he said. Fox, like the other attorneys who spoke to CNBC, has not seen the terms of the Buss family trust.
-While few family businesses are like the Lakers, the broad strokes of the Buss family's predicament are familiar, according to lawyers who spoke to CNBC. These succession conflicts are also likely to grow more common with the great wealth transfer underway and baby boomers passing on businesses to their children, said Sean Weissbart, partner at Blank Rome LLP.
-Trusts and estates attorneys pointed to three steps that can make family business transitions smoother.
-Use life insurance to compensate family members
-The impulse behind the "last man standing" clause makes sense, Fox said. Without limits on inheriting equity, a family business can end up with dozens of shareholders. However, there are ways to avoid having too many cooks in the kitchen while compensating the next generation fairly, he said.
-Fox and Weissbart each recommended using life insurance to essentially buy grandchildren's equity. Typically, the trust would take out policies on the children of the patriarch or matriarch. After the child dies, their shares revert to their surviving siblings while the grandchildren receive cash from the life insurance payout.
-If the death benefit isn't sufficient to compensate the grandchildren, the trust can provide them with a secured note, placing a lien on the family business, according to Fox. The secured note can be paid out over time and paid in full if the business is sold.
-Even before the business is sold, "there's plenty of money for them to have a great lifestyle," he said.
-This approach can also be used a generation earlier to buy out children of the wealth creator who do not wish to be involved in the business. However, first-generation entrepreneurs are rarely able or willing to take out expensive life insurance policies while they are still relatively young, according to Fox.
-Limit decision-making power
-Jerry Buss divided the family's controlling stake in the Lakers evenly among his six children, with each child receiving an equal vote. However, he designated Jeanie Buss to replace him as the team's governor.
-According to a letter written by Jeanie Buss' lawyer, the trust requires that Janie and Joey Buss, as co-trustees, vote in a way that keeps the family's ownership above the 15% minimum for team governors.
-Lawyers for Jeanie Buss and her siblings did not respond to requests for comment.
-It's common for parents to be torn between wanting to treat their children equally while acknowledging that one child is best-suited to run the business, Weissbart said. However, dividing decision-making power may not be in the children's best interest, he added. He suggested allocating voting rights to one or two children who are best equipped to run the business while dividing the economic interest equally.
-"Giving people the say over a multibillion-dollar business who don't know how to actually manage it is detrimental to the business," he said.
-Weissbart and Fox both recommended placing the family business in a trust and naming only one child as trustee with the ability to make managerial decisions.
-The shares are pooled into one so-called pot trust, and in the event of a sale, the proceeds are distributed to the individual siblings' trusts, according to Fox. He said he sometimes adds an independent co-trustee such as an advisor from a bank or an advisory committee.
-"It's so much easier just to have one person dealing with it than to have to gain approvals from various children's trusts or children themselves," he said. "Siblings are difficult. We're talking about a lot of bad blood."
-Still, Fox said most of his clients prefer a majority-rule approach, which he believes can worsen family ties.
-"I always tell clients you're going to destroy the relationship between your children. Once three of them gang up on one of them, the one that gets outvoted — and the business then gets sold — is going to harbor bad feelings the rest of their life against these three siblings," he said.
-Though Fox and Weissbart were largely in agreement, there isn't widespread consensus.
-George Taylor, partner at Brinkley Morgan, said instead of concentrating power with one sibling, he would recommend giving each child an equal say. Each sibling would be the trustee of an individual trust with equal shares of the business, and they could act through majority when selling.
-"Obviously it's more common than not that one child is left in control," he said, "but this would be the 'let's get along, Kumbaya' approach."
-Reconsider children's involvement in the business
-Perhaps the best way to keep a business in the family is to keep family out of managing it, according to Fox.
-Keeping a family business through multiple generations is a steep challenge, he said. One of the families he works with has a fourth-generation billion-dollar company, according to Fox. He said their secret to success is that no one in the family is allowed to work for the company.
-After the second generation of the family spent 10 years battling in court for control of the company, the third generation amended the shareholder agreement in the '80s to keep family members out, he said.
-"That doesn't work for the Lakers, because there's a lot of swag that goes along with running the Lakers. But it works for some businesses, and it's worked perfectly for this family," he said. "I've now done that with several clients."
-There's no silver bullet for keeping children from taking family feuds to court, Fox said. While many trust documents have clauses requiring arbitration or disinheriting children who choose to sue, they are not necessarily enforceable, he said.
-"I tell my clients you're never going to stop your kids and grandkids from suing each other, because they didn't earn this; it's inherited," he said. "You built it up. You took all the risk when you had nothing and were putting everything on your credit card. They don't have that muscle memory."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlFyWk1PUDRYZDdPbExTVDVWdF96RVZqTG9ZbFA3dHdTZkZjVWJWdWlvbnhxaV9DUWVhSnB5ZEdTMks3dUF5X3J0M0JERXh2cXAtZkJwRVdqajRSdV9JeEVlMHYwdUVZV2ZNQXJ5RXZkWHJ3V1FkRnl5MXdnSU1HbUVSUXM?oc=5" target="_blank">US Treasury imposes limits on Egyptian bank for doing business with Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -299,15 +334,28 @@ There's no silver bullet for keeping children from taking family feuds to court,
 
 ---
 
-## US rebukes Europeans over ‘sea of red’ military gaps - Financial Times
+## Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGhubi1LLTlBY1VMbkNUeWVZUFo4bDFubC1jbUJxTFR6SDJGTlpSemhVSEl4azRBNzVLVlpwOXo2Q2dhU3lXU3pORlZlVmpnR0VqVzRaZ1N0bXJ5My04NU9CeU9mUWY2NFo5VTJJem55NkFsTGFpeDByNHB0dE1nQ1lGTkc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzVucnFIUzBZS01RRlNvd2kxUVUwcGY0SUc3UlFYTWhHSHR2VDBkU3JPYzI0TFNfbWZfU2NELU51WEZPT0U5ajRqWjB6MlNTLTFzQXZneXVFREt1aHJmbS1BS0tkRmRKVU5qWGl3UDltbHNReG9ST3FXeEthRnlUV3FSWEc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGhubi1LLTlBY1VMbkNUeWVZUFo4bDFubC1jbUJxTFR6SDJGTlpSemhVSEl4azRBNzVLVlpwOXo2Q2dhU3lXU3pORlZlVmpnR0VqVzRaZ1N0bXJ5My04NU9CeU9mUWY2NFo5VTJJem55NkFsTGFpeDByNHB0dE1nQ1lGTkc?oc=5" target="_blank">US rebukes Europeans over ‘sea of red’ military gaps</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzVucnFIUzBZS01RRlNvd2kxUVUwcGY0SUc3UlFYTWhHSHR2VDBkU3JPYzI0TFNfbWZfU2NELU51WEZPT0U5ajRqWjB6MlNTLTFzQXZneXVFREt1aHJmbS1BS0tkRmRKVU5qWGl3UDltbHNReG9ST3FXeEthRnlUV3FSWEc?oc=5" target="_blank">Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## The cult $4.99 rotisserie chicken defying inflation - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJMTnNtYjVGZncybXBCT2xkTkRuTTE1NXB1OFNDVUc1dU5pdE9ISVBRR01yTFlTeGExdWM1RklENUxNLXZLdFd3c2M3eGN5T1RpMzNmV3VpYVJTZHhraTd6c0o0NGxWc2E1NE1icmZyV2Vnd2ZZOUQxbzVESkFVVUJiX1o?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJMTnNtYjVGZncybXBCT2xkTkRuTTE1NXB1OFNDVUc1dU5pdE9ISVBRR01yTFlTeGExdWM1RklENUxNLXZLdFd3c2M3eGN5T1RpMzNmV3VpYVJTZHhraTd6c0o0NGxWc2E1NE1icmZyV2Vnd2ZZOUQxbzVESkFVVUJiX1o?oc=5" target="_blank">The cult $4.99 rotisserie chicken defying inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -316,102 +364,76 @@ There's no silver bullet for keeping children from taking family feuds to court,
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE94b2ZzLVU0c2R3Rk1PN0xabDZ0TmJyaG9BclN4Q3R2N3FVWFpOVDhKZVRoTlNyVUpwT3dDbGxPRFZyQ1lUXzFkMVhiTUVYQTZ0MGR5QmE1YWxSdnpWVm5qYkpXc3F5blFmN094ZWtvLXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWprQWtVSW9feE9iLWJBWHpsa3l5aGlhNWhXQkNQT0JudFZNTHpHT3A3R3dhcFpXU2hjc1hkb1VFMlFYQ0llNzUwQUwtenZuUUo2TFZnZWRlRWNKTEltRVI3ZkJlSmRnbVE3NEhJaU5BMlJCbThpSTk0OHVEU1FpSlM0N1M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE94b2ZzLVU0c2R3Rk1PN0xabDZ0TmJyaG9BclN4Q3R2N3FVWFpOVDhKZVRoTlNyVUpwT3dDbGxPRFZyQ1lUXzFkMVhiTUVYQTZ0MGR5QmE1YWxSdnpWVm5qYkpXc3F5blFmN094ZWtvLXM?oc=5" target="_blank">Don’t draw the wrong conclusion from Treasury yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWprQWtVSW9feE9iLWJBWHpsa3l5aGlhNWhXQkNQT0JudFZNTHpHT3A3R3dhcFpXU2hjc1hkb1VFMlFYQ0llNzUwQUwtenZuUUo2TFZnZWRlRWNKTEltRVI3ZkJlSmRnbVE3NEhJaU5BMlJCbThpSTk0OHVEU1FpSlM0N1M?oc=5" target="_blank">Don’t draw the wrong conclusion from Treasury yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Uefa prepares criminal complaint against Fifa’s Infantino - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGpQbmZSUGNWU094UlhMQlMwVy1NdjFsMEhtdFRnYzhKXzh5S21ZUDBYWTBUemZvQm1NdFcxVzliU1F2eXVwTHN5b3JMeVVrcXhJU2F1Z2xkT3VPdnN2RnRHekRTeDJldmdPT0tIRUY4MzRhY1hQbGJJY0JnMUFEbGhZM3k?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGpQbmZSUGNWU094UlhMQlMwVy1NdjFsMEhtdFRnYzhKXzh5S21ZUDBYWTBUemZvQm1NdFcxVzliU1F2eXVwTHN5b3JMeVVrcXhJU2F1Z2xkT3VPdnN2RnRHekRTeDJldmdPT0tIRUY4MzRhY1hQbGJJY0JnMUFEbGhZM3k?oc=5" target="_blank">Uefa prepares criminal complaint against Fifa’s Infantino</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Canada poaches 48 top US-based academics - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS09YNUVGS2VGVGJFc1BtSHVUcDVjV0drZW5DOVc5c3lmbWh0bUZhMUVZanhVSTY5VW13RWdNbHVTMDFkZkRGRmpKSVZTMkJaR1NmaGdNNjVxOXBRQy00VUxKckNfSUpDckVGWkV3MllQdS1OTlJpWXpjN0czMDdqQktJa3g?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS09YNUVGS2VGVGJFc1BtSHVUcDVjV0drZW5DOVc5c3lmbWh0bUZhMUVZanhVSTY5VW13RWdNbHVTMDFkZkRGRmpKSVZTMkJaR1NmaGdNNjVxOXBRQy00VUxKckNfSUpDckVGWkV3MllQdS1OTlJpWXpjN0czMDdqQktJa3g?oc=5" target="_blank">Canada poaches 48 top US-based academics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## King Harald, Norway's reform-minded head of state, dies at 89 - Reuters
+## Mother reunited with 8-year-old who climbed trees to survive Nepal floods - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEdTOE1wSHluakhCd1otX1RTSXBoMU44SnRvLWVKMlBMdWlwZ282eE9zWjZ4UFduZnhHX3N2dC1jOWVZbkVWVEJvRjdnYmdJUUFJYU4zbC1ZRVZwc25KQ3BvRDlyaW5UREo4UVFYSnUzQVVabkxHVkpOWHpOMFVBb291SWtGeUg1SWtrNHFSWmxFZHlGVFdURkRtSjlhUW9ramVN?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxObXBfS09sZG5sME9IbTIxZGEyalhSZ2YtYUk3RU81eGNMcGhjZXNzcnN5cEZLRVAwZXFlX3ZjTWMxY0JhcDVhNWFSRnV0UW55aHJfaFg1WkRJWHR0S2I1b2RzUVFOVERfcnpiNlcyZGJMbkVvbzAzcFZySGhuT3Nfa0U3TGEtM3hmbElGaFk4d0RjQ0JJVXRqMElRNFFIcFRzajdYRmp2aHRlNUFKczJxWS1WSld3VFBoV0VSblcyUXc0cmZiaXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEdTOE1wSHluakhCd1otX1RTSXBoMU44SnRvLWVKMlBMdWlwZ282eE9zWjZ4UFduZnhHX3N2dC1jOWVZbkVWVEJvRjdnYmdJUUFJYU4zbC1ZRVZwc25KQ3BvRDlyaW5UREo4UVFYSnUzQVVabkxHVkpOWHpOMFVBb291SWtGeUg1SWtrNHFSWmxFZHlGVFdURkRtSjlhUW9ramVN?oc=5" target="_blank">King Harald, Norway's reform-minded head of state, dies at 89</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxObXBfS09sZG5sME9IbTIxZGEyalhSZ2YtYUk3RU81eGNMcGhjZXNzcnN5cEZLRVAwZXFlX3ZjTWMxY0JhcDVhNWFSRnV0UW55aHJfaFg1WkRJWHR0S2I1b2RzUVFOVERfcnpiNlcyZGJMbkVvbzAzcFZySGhuT3Nfa0U3TGEtM3hmbElGaFk4d0RjQ0JJVXRqMElRNFFIcFRzajdYRmp2aHRlNUFKczJxWS1WSld3VFBoV0VSblcyUXc0cmZiaXc?oc=5" target="_blank">Mother reunited with 8-year-old who climbed trees to survive Nepal floods</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## King Harald V, Norway's reform-minded head of state, dies at 89 - Reuters
+## Zelenskiy says US gave Kyiv information about meetings in Moscow - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2Vpb1R5eWktXzhJUURtdXFSX1J2c05obUU2QkQ0T21DTjdpdUl6dHBqU3FtRlVCNkpPazBjZk5BOFNsOG5DX1RwRHlNUjhOckcwQVIyM2V2anNXdUNoUzRMWVIwdDlxVEF3TkUxemhraE1DUFBCTGk2anoyWWowdW1ReUQ1dDdWZU9WVE9pb2Uwbm5HSzBvT1lxSkdMejNmc25fVzBKM3lIRW9DbVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHMxLV9xV0M5U1ZzREhsNGJ5bnRCM2ZkREZYei1oUFFoWHo2SE5sZFA3V21zazJRdWJzX1pYcS1UTzl6S2ktV3VBanhjNUdYWm1YNFpIdDJHSVJwc3lsMnRBYVN4bjl0eUZCNldNdGxzRXNKZ2dTOGxMZFc4elB2V0ltMVAzemFFTTdtT2Z2bkEwQUpJOUg4SzZheExEMTFBYjhRVVgyQVBmcFFHMVlV?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2Vpb1R5eWktXzhJUURtdXFSX1J2c05obUU2QkQ0T21DTjdpdUl6dHBqU3FtRlVCNkpPazBjZk5BOFNsOG5DX1RwRHlNUjhOckcwQVIyM2V2anNXdUNoUzRMWVIwdDlxVEF3TkUxemhraE1DUFBCTGk2anoyWWowdW1ReUQ1dDdWZU9WVE9pb2Uwbm5HSzBvT1lxSkdMejNmc25fVzBKM3lIRW9DbVE?oc=5" target="_blank">King Harald V, Norway's reform-minded head of state, dies at 89</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHMxLV9xV0M5U1ZzREhsNGJ5bnRCM2ZkREZYei1oUFFoWHo2SE5sZFA3V21zazJRdWJzX1pYcS1UTzl6S2ktV3VBanhjNUdYWm1YNFpIdDJHSVJwc3lsMnRBYVN4bjl0eUZCNldNdGxzRXNKZ2dTOGxMZFc4elB2V0ltMVAzemFFTTdtT2Z2bkEwQUpJOUg4SzZheExEMTFBYjhRVVgyQVBmcFFHMVlV?oc=5" target="_blank">Zelenskiy says US gave Kyiv information about meetings in Moscow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China warns lake formed by glacier debris near Nepal border starting to overflow - Reuters
+## Trump signs order to create a US Space Academy - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1hIS3RucjdoUFAtckVOa3l5N2tHQk5KZGRzU1JmRnpUTVdHbHFXZDktd3RjNllOWDZLRFE5YnYxdUxGaDF3dWliVGdMSWRBdmNHZUtvWlhrTExOX241cDFIdy1MZjZ0ZHFwUEZjWGs0WVdUZUx3SUg4U0JLT0xUdHZjSHlZMDhudDJSNDNqbW9nbGpHaTJobmVtYVhGUG9VQWY1b0JQaTNQWmgtVGszU2czMERicjVmNTNrNFN4R1o5eDA2WEZB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1hIS3RucjdoUFAtckVOa3l5N2tHQk5KZGRzU1JmRnpUTVdHbHFXZDktd3RjNllOWDZLRFE5YnYxdUxGaDF3dWliVGdMSWRBdmNHZUtvWlhrTExOX241cDFIdy1MZjZ0ZHFwUEZjWGs0WVdUZUx3SUg4U0JLT0xUdHZjSHlZMDhudDJSNDNqbW9nbGpHaTJobmVtYVhGUG9VQWY1b0JQaTNQWmgtVGszU2czMERicjVmNTNrNFN4R1o5eDA2WEZB?oc=5" target="_blank">China warns lake formed by glacier debris near Nepal border starting to overflow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5" target="_blank">Trump signs order to create a US Space Academy</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump administration seeks to restrict internships for international students - Reuters
+## US judge questions but won't yet block Trump's new birthright citizenship order - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWFQejNhVHNBdHZSLTN1bkFpdDNwWnhCeGVaVGR3VTNrX1VMWU00ekxqdXlhQnp3cVlyYVRRRnhveDdqRXlzaW42ZkpaSGJJZ2tsbVF2bWY1Qm9fdEdtaGxiZmpQYUg0eGM2RElpcmdlNXF3ZU85LS13SVoyNUNpOHNxSXdta3gyWFd1ZFY3ZUlmLTNaaHJZSTdyU3ZyM0hCU3owRDZrMHpncUoyVWtzV3VJNGZfOEtBUGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDBXRDd4bU9Vck1rMWZzalNxTDRZWkFoMVp4UGtJa2g4R2VJZUZ3VWRDeUtUNUQ0XzAtMGsyTzNvWG40S2JySXEyWnVFWkhzdDdhNS1wMVFXcmlvZDN5QUVQRk9la3FkY09BUlJ3Q2NrSGh1VE45REs4VnkzREFScEhJbWhhVWd2b3RvVVk1NlpQRC1MX1JmX19DTm5NTkpWOTF3Njl0d3NteW9kZ2NrVlozSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWFQejNhVHNBdHZSLTN1bkFpdDNwWnhCeGVaVGR3VTNrX1VMWU00ekxqdXlhQnp3cVlyYVRRRnhveDdqRXlzaW42ZkpaSGJJZ2tsbVF2bWY1Qm9fdEdtaGxiZmpQYUg0eGM2RElpcmdlNXF3ZU85LS13SVoyNUNpOHNxSXdta3gyWFd1ZFY3ZUlmLTNaaHJZSTdyU3ZyM0hCU3owRDZrMHpncUoyVWtzV3VJNGZfOEtBUGc?oc=5" target="_blank">Trump administration seeks to restrict internships for international students</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDBXRDd4bU9Vck1rMWZzalNxTDRZWkFoMVp4UGtJa2g4R2VJZUZ3VWRDeUtUNUQ0XzAtMGsyTzNvWG40S2JySXEyWnVFWkhzdDdhNS1wMVFXcmlvZDN5QUVQRk9la3FkY09BUlJ3Q2NrSGh1VE45REs4VnkzREFScEhJbWhhVWd2b3RvVVk1NlpQRC1MX1JmX19DTm5NTkpWOTF3Njl0d3NteW9kZ2NrVlozSQ?oc=5" target="_blank">US judge questions but won't yet block Trump's new birthright citizenship order</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Shipping traffic via Strait of Hormuz slips below 10-day average, data shows - Reuters
+## Trump loses bid to move already-decided criminal hush money case to US court - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkIyNkNoek04XzdWM0U0Vm9vNjlPeWcteDJiSmFuMGUtQ2h3Ukl3aUdMSnVtUXRQZlVmYmFTdl9vUXNkWDUyWG5sLU1Eb2FLWDJ1ZTlZQjEtNlotUTRxOXZ0ZFpOcDBWUDJNVWhJN0NuTW9XY3ByRnRWOW1XOHhsSW93Q2hSNl85RXE0ZVBtUHVUQVd4WF8ySE5COE15QlNKVjc1dS1IdTBqUWFNVU1acDVPNF9FbUxFT3MzR3AxblhVdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUg0czFxNERQWmlNeTdTVXNmbnA3dVkzbERZSXB3OC1yTWt2RkFqd0EwSGhxUV9wc2lzbHpMa3BkWlphRG5ndmNnWmFXc2hjN3hHV2QtTzdUWHZydUJ2N1VCVWdFWDJFdFkxUWhQU2gwMGVVQmFvTVhXWVEtYmxZSzNjU1Nibi1qai1Gb2ZGVVdmdUZFeGpFbHpNS0NtX2dxNnJQdjFIWG1PLUV0Rzk5UEtR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkIyNkNoek04XzdWM0U0Vm9vNjlPeWcteDJiSmFuMGUtQ2h3Ukl3aUdMSnVtUXRQZlVmYmFTdl9vUXNkWDUyWG5sLU1Eb2FLWDJ1ZTlZQjEtNlotUTRxOXZ0ZFpOcDBWUDJNVWhJN0NuTW9XY3ByRnRWOW1XOHhsSW93Q2hSNl85RXE0ZVBtUHVUQVd4WF8ySE5COE15QlNKVjc1dS1IdTBqUWFNVU1acDVPNF9FbUxFT3MzR3AxblhVdw?oc=5" target="_blank">Shipping traffic via Strait of Hormuz slips below 10-day average, data shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUg0czFxNERQWmlNeTdTVXNmbnA3dVkzbERZSXB3OC1yTWt2RkFqd0EwSGhxUV9wc2lzbHpMa3BkWlphRG5ndmNnWmFXc2hjN3hHV2QtTzdUWHZydUJ2N1VCVWdFWDJFdFkxUWhQU2gwMGVVQmFvTVhXWVEtYmxZSzNjU1Nibi1qai1Gb2ZGVVdmdUZFeGpFbHpNS0NtX2dxNnJQdjFIWG1PLUV0Rzk5UEtR?oc=5" target="_blank">Trump loses bid to move already-decided criminal hush money case to US court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
