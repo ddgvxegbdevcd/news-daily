@@ -1,68 +1,124 @@
 # 每日财经新闻
 
-更新时间：2026-08-29 06:37:07
+更新时间：2026-08-29 16:32:18
 
-## Vietnam Restates Readiness for ‘Constructive’ US Trade Talks
+## Warsh Says Inflation Isn’t Slowing, Vows to Reach 2% Target
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-29/vietnam-restates-readiness-for-constructive-us-trade-talks
+链接：https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video
 
 正文长度：0
 
-摘要：Vietnam’s Deputy Prime Minister Nguyen Van Thang, looking to reinvigorate months-long negotiations over a final tariff deal with the Trump administration, reiterated to US Trade Representative Jamieson Greer the Southeast Asian country’s readiness for “open, constructive” trade talks.
+摘要：Warsh reiterated that policymakers have a "firm, fixed target" of 2% inflation at the 2026 Jackson Hole Economic Policy Symposium. Bloomberg's Maria Eloisa Capurro explains.  (Source: Bloomberg)
 
 
 ---
 
-## A CEO’s Sudden Exit Spotlights Troubles at German Regional Banks
+## Glencore Took $480 Million Provision on Radiant World Exposure
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-29/a-ceo-s-sudden-exit-spotlights-troubles-at-german-regional-banks
+链接：https://www.bloomberg.com/news/articles/2026-08-29/glencore-took-480-million-provision-on-radiant-world-exposure
 
 正文长度：0
 
-摘要：In a decade-and-a-half at the helm of Volksbank Brawo, Juergen Brinkmann turned the local German lender into a finance, real estate and investment group spanning hundreds of businesses, including a stake in a gym chain, restaurants and a now-insolvent brewery.
+摘要：Glencore Plc took a provision of about $480 million on its exposure to Radiant World, the iron ore trader that is under pressure amid concerns it provided falsified documents to banks, according to people familiar with the matter.
 
 
 ---
 
-## Australian Minister Denies Softer Stance on Data Center Power
+## Supercars Fuel a New Hybrid Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-29/australian-minister-denies-softer-stance-on-data-center-power
+链接：https://www.bloomberg.com/news/videos/2026-08-29/supercars-fuel-a-new-hybrid-boom-video
 
 正文长度：0
 
-摘要：Australia’s Energy Minister Chris Bowen has rejected suggestions the government is softening requirements that future data center developments be powered by renewable energy.
+摘要：Hybrids are enjoying a resurgence as slower EV adoption and continued demand for combustion engines reshape the auto industry, with the technology increasingly appearing in high-performance and luxury cars. Co-host of Bloomberg's "Hot Pursuit!" Hannah Elliott explains to Christina Ruffini and Bailey Lipschultz why brands including Audi, Lamborghini, Ferrari and Bugatti are using electric motors to boost performance while preserving the sound and feel buyers still want from combustion engines. Watch, on Bloomberg This Weekend. (Source: Bloomberg)
 
 
 ---
 
-## Trump Teleprompter Pays $170,000 to End Insider Trading Probe
+## A $2,000 Sweater Reveals Fashion’s True Cost
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-29/trump-teleprompter-pays-170-000-to-end-insider-trading-probe
+链接：https://www.bloomberg.com/news/videos/2026-08-29/a-2-000-sweater-reveals-fashion-s-true-cost-video
 
 正文长度：0
 
-摘要：A White House teleprompter operator will pay more than $172,000 to end a federal regulator’s probe into alleged well-timed prediction market bets about President Donald Trump’s speeches.
+摘要：Content creator Macy Gilliam spent 90-hours over four months and about $2,000 making a sweater from scratch, starting with wool from a sheep at New York City’s Queens County Farm Museum. Gilliam joins Christina Ruffini on Bloomberg This Weekend where she explains that the project gave her a new appreciation for the labor behind clothing and raised questions about transparency, quality and ethics across fashion’s complex supply chains.  (Source: Bloomberg)
 
 
 ---
 
-## Panama Canal Congestion Drives Gas Tankers to Unusual Routes
+## Warsh Sets the Tone for Fed’s Road Ahead
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-28/panama-canal-congestion-drives-gas-tankers-to-unusual-routes
+链接：https://www.bloomberg.com/news/videos/2026-08-29/warsh-sets-the-tone-for-fed-s-road-ahead-video
 
 正文长度：0
 
-摘要：Growing congestion at the Panama Canal is forcing some gas tankers into unusual journeys, from a rare detour around South America to the possible emergence of shuttling through the waterway.
+摘要：Federal Reserve Chair Kevin Warsh’s first Jackson Hole speech gave central bankers and investors greater clarity on how he views the economy and the Fed’s path ahead, though questions remain about the timing and number of potential rate hikes. Bloomberg Odd Lots co-host Joe Weisenthal is on Bloomberg This Weekend to discuss the annual gathering, where monetary policy debates mix with informal conversations among some of the world’s most influential central bankers.  (Source: Bloomberg)
+
+
+---
+
+## Goodyear burning rubber and cash as turnaround plan continues
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html
+
+正文长度：7720
+
+摘要：The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — Goodyear Tire & Rubber CEO Mark Stewart sits in the vehicle bay of a tire shop where the company is launching a new retail experience for customers.
+There's a freshly painted black facade on the revamped Detroit store, with the words "Motor City" added in white flanking Goodyear's winged foot logo. It's dressed up for a private event tied to a nearby annual car festival called the Woodward Dream Cruise.
+But despite the stylish touches, it's still a tire shop. The smell of rubber and oil remains in the air, and the sound of workers changing tires combines with music from a DJ inside the shop's waiting room.
+The scene symbolizes Stewart's ongoing "Goodyear Forward" turnaround plan. He's trying to make tires — a historically dirty business — more attractive to investors and friendlier for consumers.
+"We have made so much progress, and when you think about it from the standpoint of the Goodyear Forward program, it was really to get our feet back on the ground towards being the iconic company that we always were," Stewart, wearing an unbuttoned navy blue Goodyear technician shirt, told CNBC during an interview at the shop.
+But while Goodyear is well known for burning rubber, it's also burning cash as it restructures, tries to refinance, and pays down years of debt.
+The company's capital expenditures were roughly $2 billion combined in 2024 and 2025, with expectations of $725 million this year. Its debt remained above $7 billion at the end of the second quarter.
+Goodyear's net loss was $453 million through the first half of the year, while its operating income was $131 million, or a 1.6% margin.
+Under the turnaround plan, Stewart wanted Goodyear to reach a 10% operating margin by the end of last year. Instead, that came in at 8.5% in the fourth quarter, and it's still an outstanding goal for the company to hit that mark.
+"We're working on getting to that double-digit margin, and we're working on meaningfully generating cash flow," Stewart said. "It's been a long time since Goodyear's done that. That we absolutely must do."
+The automotive veteran was named CEO of Goodyear after leaving Chrysler parent Stellantis in January 2024. Since then, shares of the company have fallen more than 50% despite Goodyear achieving many of the milestones he's set out to accomplish with the plan.
+Stewart doesn't make excuses for missing the targets, even though Goodyear's business, like many, has been impacted by tariffs, inflated raw material costs, and the expansion of cheaper Chinese products.
+"We still have a lot of geopolitical headwinds that we're working through … a lot of headwinds with raw material indexes and a bit of the hangover from the tariff environment," he said, adding that overseas manufacturers continue to have cost advantages compared to Goodyear.
+Goodyear's raw material costs are expected to be roughly flat year over year, but a $200 million headwind in the second half, largely due to higher commodity costs associated with the conflict in the Middle East, according to the company and Wall Street analysts.
+"Goodyear has faced many big challenges over the past few years, ranging from slower consumer (and commercial) demand, to rising raw material costs, to higher capital expenditures (capex), to low-priced Asian imports (into the U.S.), and, more recently, to trade and tariff legislation. It hasn't been easy for Goodyear," Argus analyst Bill Selesky said in an Aug. 17 investor note.
+Goodyear is rated a hold with a price target of $7.60, according to average analyst ratings compiled by FactSet. Its shares closed Friday at $6.35, down 27% this year.
+Goodyear Forward rolls on
+The Goodyear Forward turnaround strategy was initially expected to be a two-year plan that went through last year, but the CEO has continued it as he and his executive team map out what's next for the 128-year-old Akron, Ohio-based company.
+"At the right time, we will announce that," Stewart said. "We continue to press ahead to the next challenges and make sure we get the business in the right space."
+The Goodyear Forward plan had already been released when Stewart was named incoming CEO, but he has made it his own, including by adding cuts and cost savings. The turnaround plan has cut roughly $1.5 billion in annualized costs, according to the company.
+Part of Stewart's plan has been to move Goodyear more into the premium tire segment, including by selling off units such as its Dunlop brand. It also plans to launch more than 1,600 new products this year, most of which are in higher-end segments with bigger margins.
+The product restructuring comes as non-U.S. brands, especially Asia's Sumitomo and Yokohama, have been expanding globally with cheaper products in lower-end segments, according to Stewart.
+Similar to how Chinese automakers have grown outside their own country, tire manufacturers have also been turning to more exports, including the U.S.
+"We are not going to compete against a $6 or $10 converted tire. That's not who we are as Goodyear," Stewart said, referring to the manufacturing cost required to convert raw materials into a finished tire.
+Despite global challenges, Goodyear's Asia-Pacific region is a bright spot for the company. Its segment operating income for the second quarter was $63 million, with an operating margin of 12.7%.
+Its U.S. operations have been a main drag on the company's financials. Stewart is trying to turn that around as consumer demand slows.
+The company said its cash burn is expected to continue into 2027 but moderate as the announced closure next year of a plant in Fayetteville, North Carolina, is expected to improve its Americas segment operating income by $270 million annually.
+"We had to take a very difficult decision, but a necessary one to announce the closure of our Fayetteville, North Carolina facility. We absolutely didn't take that lightly, but we just didn't have a pathway to be competitive out of that facility," Stewart said.
+The Goodyear Forward plan was prompted by activist investor Elliott Investment Management revealing a stake in the company in 2023. A spokesperson for Elliott, which supported three new Goodyear board members, declined to comment on the company or the firm's current ownership status.
+Goodyear blimps flying high
+Part of the Goodyear Forward strategy is to increase focus on marketing and advertising to connect with customers to reinforce the brand.
+A large part of that — both physically and financially — comes from the company's iconic Goodyear blimps, which have flown as giant advertisements for more than a century.
+"The blimp team and the marketing team have really embraced it. So we do a lot of activation around the blimp to literally sell tires," Stewart said. "When the blimp media marketing has their hat on, it's always in context of 'How do we tie this to the tires?'"
+Stewart said Goodyear has leaned into the promotion, using social media platforms to tout its aircraft — and their connection to tires — and launching "buy to fly" campaigns in which tire retailers and consumers can win flights aboard its blimps.
+The company was showing off its revamped store alongside a Detroit event that attracts hundreds of thousands of car enthusiasts along a 16-mile stretch annually. To celebrate and get its advertising in front of tire buyers, it held a rare double-blimp appearance, according to the company. It also featured a collection of smaller "mini blimps."
+"We've always made the tires worth bragging about," Stewart said. "We're just reminding people now, and that ties into our marketing and advertising as well."
+CORRECTION: An earlier version of this story incorrectly said two Japanese companies, Sumitomo and Yokohama, are based in China.
+
+</details>
 
 
 ---
@@ -272,38 +328,54 @@ Dickson added that the company continues to see a "resilient but discerning" con
 
 ---
 
-## Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker
+## Alex Gerko earned a record £895mn from trading firm XTX in 2025 - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnFuNXVYUndKMkRjQ3BzOHU3cFFqak9aam1LZWxseWJJR3RsTUROZ3NXaV9qeW9tZGN0c1FubHlIbW5FOFNzdUxnZEhMQk1FWVVkemVNQlZBTmVfVnBINDlIb19oRlZEdmw0NFkxZV9MZWdveVlzV1ZxemNIRTJsejZSWXU?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4301
+正文长度：0
 
-摘要：The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnFuNXVYUndKMkRjQ3BzOHU3cFFqak9aam1LZWxseWJJR3RsTUROZ3NXaV9qeW9tZGN0c1FubHlIbW5FOFNzdUxnZEhMQk1FWVVkemVNQlZBTmVfVnBINDlIb19oRlZEdmw0NFkxZV9MZWdveVlzV1ZxemNIRTJsejZSWXU?oc=5" target="_blank">Alex Gerko earned a record £895mn from trading firm XTX in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-Family offices boosted their stock holdings in the second quarter and trimmed their exposure to real estate and private market investments, according to the latest CNBC Family Office Portfolio Tracker.
-Single family offices held 37% of their portfolios in stocks in the second quarter, up from 34% in the first quarter, according to the CNBC Portfolio Tracker powered by Addepar, the foundational data and artificial intelligence platform used by financial professionals globally.
-The surge in family office stock holdings is the largest in several years and signals their continued bullishness on the AI trade and equities, despite fears of a bubble and highly concentrated market.
-"I'd read it as family offices are more comfortable being more highly allocated to public equities," said Addepar CEO Eric Poirier. "The increase in public equities was the biggest quarter-on-quarter shift that we've seen over the over the course of the last three, four years."
-The CNBC Portfolio Tracker provides a real-time look into the portfolios of single family offices, the private investment arms of wealthy families. While most information on family office investments comes from surveys, Addepar's data reflects the actual portfolios of hundreds of family offices — aggregated and anonymized — representing a total of more than $1.4 trillion in assets.
-The rise in stocks in the second quarter was offset by a pullback in private markets and real estate. Family office holdings of private companies, real estate, private equity, venture capital and private credit dropped by 3 percentage points. They also drew down their cash piles by less than 1 percentage point in the quarter, suggesting a push to put more of their money to work.
-While the 3 percentage point swing from alts to stocks is substantial for family offices, and challenges the notion that the richest investors prefer exotic alts over retail-friendly stocks, it was largely the result of market fluctuations rather than active buying and selling. The rally in stock markets in the second quarter — with the S&P 500 up about 15% during the quarter — powered their stock gains. The declines in private market valuations, led by troubles in private credit, brought down their allocations to alts.
-Yet family offices are letting their stock allocations grow as a share of their portfolio, rather than rebalancing, suggesting a long-term bullish tilt to stocks. Poirer said the AI trade is likely driving much of the interest.
-"The AI thematic bet is getting so much action and so much activity, and it's being expressed in large part in public markets versus private markets," he said.
-The top five most commonly held stocks by family offices in the second quarter were Microsoft, owned by 77% of family offices, followed by Amazon and Alphabet (76%), Apple (70%) and Nvidia (69%).
-In private markets, family office allocations to alternatives fell to 46% from 49% in the second quarter, the largest drop in years. Addepar said the decline was mainly driven by private credit funds marking down the values of their assets. Fully 18% of recent vintage private credit funds (vintages 2020 or later) have posted markdowns in net asset values, according to Addepar. That compares with an average of 9% in write-downs for private credit funds with vintages of 2016 or later through the first four years of the lifecycle.
-Real estate and venture capital funds also had markdowns, Poirier said.
-"We're not actually seeing changes in inflows or outflows," Poirier said. "It's more just where family offices are marking their private holdings."
-Family office holdings of fixed income held steady at 8%, hedge funds remain at 7% and "other alts," which includes commodities and collectibles, held at 6%. Their largest investment segment after pubic equities was private companies, at 15% of their portfolios.
-Looking ahead to the third quarter CNBC Family Office Portfolio Tracker, Poirier said the big themes to watch will be in interest rates and bonds.
-"The rates environment, the fixed income world is very dynamic right now," he said.
+---
 
-</details>
+## Warsh puts Fed on collision course with Trump ahead of midterms - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlzWmZxaFk3eXFkaWF4UERIcWZ3X0cwRDR3WGw3aEpWYnZucTIwRDRWbjVaRDR3c2U4M21nRS03VWNJQWE0UWQ2OGFTMXl3dnN2UUczNXZZbEthdE1TU0N1NXhkVnNlZ0R5OENZVzUwTUxVbWxQcDd2d0tjVXRfQjlCUXM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlzWmZxaFk3eXFkaWF4UERIcWZ3X0cwRDR3WGw3aEpWYnZucTIwRDRWbjVaRDR3c2U4M21nRS03VWNJQWE0UWQ2OGFTMXl3dnN2UUczNXZZbEthdE1TU0N1NXhkVnNlZ0R5OENZVzUwTUxVbWxQcDd2d0tjVXRfQjlCUXM?oc=5" target="_blank">Warsh puts Fed on collision course with Trump ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## China’s actors written out of dramas as AI doubles ready to take their roles - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFBGdG1VS2pBN3RmSV93WDd4X01iaDVBaHprTnZ2X0p1a0ZlSWxtV2Jadk0zeFZteUp5VjZ4Ql84OUxLWWp6WU5CUnJGUEZHTmZTY0h2OFl6TFJuTncwTEZHenRvSFN5Y0NWNU04THFyZzc4b1ZSaW9ZdGNVcm5ycHlJNzM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFBGdG1VS2pBN3RmSV93WDd4X01iaDVBaHprTnZ2X0p1a0ZlSWxtV2Jadk0zeFZteUp5VjZ4Ql84OUxLWWp6WU5CUnJGUEZHTmZTY0h2OFl6TFJuTncwTEZHenRvSFN5Y0NWNU04THFyZzc4b1ZSaW9ZdGNVcm5ycHlJNzM?oc=5" target="_blank">China’s actors written out of dramas as AI doubles ready to take their roles</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Trump says US to take control of 65bn barrels of Venezuelan oil - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOejM1MU8tWi1DcDJYNXNfMS1oYUxBX3FfclBDWVlQc3BBUUNJbFJlSFUxeFlseTNoS0NSOVVNV3pUWUVBT2ZBZlFCWVpmRFdhTTZHTC1Kek4yd1Awazd3M2FFbVIwaGZCQnF5cTBfQTdlSFBGd3NUOGxCX3pKa08xLTYzR2E?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOejM1MU8tWi1DcDJYNXNfMS1oYUxBX3FfclBDWVlQc3BBUUNJbFJlSFUxeFlseTNoS0NSOVVNV3pUWUVBT2ZBZlFCWVpmRFdhTTZHTC1Kek4yd1Awazd3M2FFbVIwaGZCQnF5cTBfQTdlSFBGd3NUOGxCX3pKa08xLTYzR2E?oc=5" target="_blank">Trump says US to take control of 65bn barrels of Venezuelan oil</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -321,119 +393,67 @@ Looking ahead to the third quarter CNBC Family Office Portfolio Tracker, Poirier
 
 ---
 
-## US corporate profits surge to record as worker payouts wilt - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnJfcnFMSnlCanJzQTQxNE5qaHRGSUFObzNFczdxdWlsSGY5T0h3cU9zQjRYRVFkQkpyMDJuSUQzSzUwaUFTX1BrLXpJUTQ2M0diamNHMnB4M2h2OFZCbGNZT0hiWGxtcVJGamhjcFM2eXZpNDVfWG9FSGVseWhCQmc4U3Q?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnJfcnFMSnlCanJzQTQxNE5qaHRGSUFObzNFczdxdWlsSGY5T0h3cU9zQjRYRVFkQkpyMDJuSUQzSzUwaUFTX1BrLXpJUTQ2M0diamNHMnB4M2h2OFZCbGNZT0hiWGxtcVJGamhjcFM2eXZpNDVfWG9FSGVseWhCQmc4U3Q?oc=5" target="_blank">US corporate profits surge to record as worker payouts wilt</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’ - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzVucnFIUzBZS01RRlNvd2kxUVUwcGY0SUc3UlFYTWhHSHR2VDBkU3JPYzI0TFNfbWZfU2NELU51WEZPT0U5ajRqWjB6MlNTLTFzQXZneXVFREt1aHJmbS1BS0tkRmRKVU5qWGl3UDltbHNReG9ST3FXeEthRnlUV3FSWEc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzVucnFIUzBZS01RRlNvd2kxUVUwcGY0SUc3UlFYTWhHSHR2VDBkU3JPYzI0TFNfbWZfU2NELU51WEZPT0U5ajRqWjB6MlNTLTFzQXZneXVFREt1aHJmbS1BS0tkRmRKVU5qWGl3UDltbHNReG9ST3FXeEthRnlUV3FSWEc?oc=5" target="_blank">Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5" target="_blank">Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The cult $4.99 rotisserie chicken defying inflation - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJMTnNtYjVGZncybXBCT2xkTkRuTTE1NXB1OFNDVUc1dU5pdE9ISVBRR01yTFlTeGExdWM1RklENUxNLXZLdFd3c2M3eGN5T1RpMzNmV3VpYVJTZHhraTd6c0o0NGxWc2E1NE1icmZyV2Vnd2ZZOUQxbzVESkFVVUJiX1o?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJMTnNtYjVGZncybXBCT2xkTkRuTTE1NXB1OFNDVUc1dU5pdE9ISVBRR01yTFlTeGExdWM1RklENUxNLXZLdFd3c2M3eGN5T1RpMzNmV3VpYVJTZHhraTd6c0o0NGxWc2E1NE1icmZyV2Vnd2ZZOUQxbzVESkFVVUJiX1o?oc=5" target="_blank">The cult $4.99 rotisserie chicken defying inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild - Reuters
+## Italian state broadcaster RAI removes veteran journalist, sparking political storm - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTd6a0dpVWh3dy1YdkZJYl82aTZKVjlmV2FIVHVtUnlZZ04yVUZGVTBtMHRYMUlBOUU4aFlnN2IxTEFqNTBrVUlGemJKWDk4ZV84QWVXYUJKTnJ4Mm1pWHp5Y01JZ1ZURE81ZHMyclRxcGszUDlsMV9nMFJhTmdmeF9Ha3h1WmtlMmpMV1c0Mno5X2V6QWlSSENVVFgzX2twb1hoUVlNQ2w4aUxxc25fY0NoU3ZfV1lpX1RvM1JHbENpS1NRSDNmY1Fwb2M5dU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5" target="_blank">EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTd6a0dpVWh3dy1YdkZJYl82aTZKVjlmV2FIVHVtUnlZZ04yVUZGVTBtMHRYMUlBOUU4aFlnN2IxTEFqNTBrVUlGemJKWDk4ZV84QWVXYUJKTnJ4Mm1pWHp5Y01JZ1ZURE81ZHMyclRxcGszUDlsMV9nMFJhTmdmeF9Ha3h1WmtlMmpMV1c0Mno5X2V6QWlSSENVVFgzX2twb1hoUVlNQ2w4aUxxc25fY0NoU3ZfV1lpX1RvM1JHbENpS1NRSDNmY1Fwb2M5dU0?oc=5" target="_blank">Italian state broadcaster RAI removes veteran journalist, sparking political storm</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue - Reuters
+## Russian strike on Kyiv-area ammunition depot triggers blast, killing 37 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5" target="_blank">Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5" target="_blank">Russian strike on Kyiv-area ammunition depot triggers blast, killing 37</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash - Reuters
+## Hungry bears wander into US West homes, shops in record numbers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU5IX3Yzc05iZ3RZa1NRb21rRnhCeEZ4akF5OHdHTE5rc0V2UEl6aWVZb21wcXg5cEx3Qjdib1BxYnJCQXFMa3JXbXYwRzE1NklZaU5WeXZZTTltZ2xMOWJDZ01ibndWR0k4c2gtQmdoUGJsdVBScDRkUjI5VzJnLWRLa1RyWndwTF9jR0hMWUFJUGRSaHdqUGVoZW1PVlFOU05Pa0lwdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5" target="_blank">OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU5IX3Yzc05iZ3RZa1NRb21rRnhCeEZ4akF5OHdHTE5rc0V2UEl6aWVZb21wcXg5cEx3Qjdib1BxYnJCQXFMa3JXbXYwRzE1NklZaU5WeXZZTTltZ2xMOWJDZ01ibndWR0k4c2gtQmdoUGJsdVBScDRkUjI5VzJnLWRLa1RyWndwTF9jR0hMWUFJUGRSaHdqUGVoZW1PVlFOU05Pa0lwdw?oc=5" target="_blank">Hungry bears wander into US West homes, shops in record numbers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Attackers target Niger's Niamey airport and presidency perimeter, sources say - Reuters
+## Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHkxZnBmQ0tpVkhlY1VBU01Nay1IUndmam9JYUZpQ0hrUk1pZ0xBM0lvLXJ4VnFXU19fdm9uRjZUNG5PM2JZOWZDc1pQZmlRejZFZGZnUHVjUWpQVjdvQkJSaXByUnVLeDNCSGYtOHFCM1NXMU9PbEVMVFFleUZCd2ZyRlNnbWNLRlk3b29tU0d2c3lfdThrYnVjemR1cnd2ZmlMLTFwN3lSWnJDSlFZ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGNCcHVYQ3R1bndna3lIMGktS3JzQ08xSVZTV3k3SERPd1N2b2l0ajRYdzZqcDRQWWdQekRSUUs0OTg1dERHUHVOUEZwak1xek1jeVlVQjkwOFZUT1N3cEdNRUx4LWxEcXY0T1JNQm9DOUltZkFyeTFzUmlHYUVVY0E3MWZuRWR4djUzdmN6UTNCdi1ySUdFUi1lTWRaVWxldEZ3Q1k5V0JXaDlQN2Qzczg0cjQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHkxZnBmQ0tpVkhlY1VBU01Nay1IUndmam9JYUZpQ0hrUk1pZ0xBM0lvLXJ4VnFXU19fdm9uRjZUNG5PM2JZOWZDc1pQZmlRejZFZGZnUHVjUWpQVjdvQkJSaXByUnVLeDNCSGYtOHFCM1NXMU9PbEVMVFFleUZCd2ZyRlNnbWNLRlk3b29tU0d2c3lfdThrYnVjemR1cnd2ZmlMLTFwN3lSWnJDSlFZ?oc=5" target="_blank">Attackers target Niger's Niamey airport and presidency perimeter, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGNCcHVYQ3R1bndna3lIMGktS3JzQ08xSVZTV3k3SERPd1N2b2l0ajRYdzZqcDRQWWdQekRSUUs0OTg1dERHUHVOUEZwak1xek1jeVlVQjkwOFZUT1N3cEdNRUx4LWxEcXY0T1JNQm9DOUltZkFyeTFzUmlHYUVVY0E3MWZuRWR4djUzdmN6UTNCdi1ySUdFUi1lTWRaVWxldEZ3Q1k5V0JXaDlQN2Qzczg0cjQ?oc=5" target="_blank">Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Chipmaker CXMT sues Pentagon over 'Chinese military company' designation - Reuters
+## Norway mourns King Harald as crowds gather at royal palace - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?oc=5" target="_blank">Chipmaker CXMT sues Pentagon over 'Chinese military company' designation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5" target="_blank">Norway mourns King Harald as crowds gather at royal palace</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
