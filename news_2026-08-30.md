@@ -1,68 +1,121 @@
 # 每日财经新闻
 
-更新时间：2026-08-30 04:50:04
+更新时间：2026-08-30 16:27:19
 
-## South Korea’s Lee Nominates New Finance, Defense Ministers
+## Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/south-korea-s-lee-nominates-new-finance-defense-ministers
+链接：https://www.bloomberg.com/news/articles/2026-08-30/aon-nears-deal-to-buy-insurance-brokerage-from-kkr-wsj-reports
 
 正文长度：0
 
-摘要：South Korean President Lee Jae Myung announced a Cabinet reshuffle, nominating new faces for positions including finance and defense ministries.
+摘要：Aon is nearing an agreement to buy insurance brokerage USI Insurance from private equity firm KKR &amp; Co. for around $17 billion, the Wall Street Journal reported, citing people familiar with the matter.
 
 
 ---
 
-## Modi’s Developed-Nation Dream Strains Against India’s Growth Gap
+## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap
+链接：https://www.bloomberg.com/news/videos/2026-08-30/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：India likely grew at more than 7% last quarter, a pace most major economies would envy. Yet, that may still be too slow to deliver on Prime Minister Narendra Modi’s dream of a developed nation.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and Bailey Lipschultz as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## Colombia Ends Talks with Rebels In Blow to Petro Peace Process
+## Rep. Krishnamoorthi Warns Iran War Weakens US in Asia
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/colombia-ends-talks-with-rebels-in-blow-to-petro-peace-process
+链接：https://www.bloomberg.com/news/videos/2026-08-30/rep-krishnamoorthi-warns-iran-war-weakens-us-in-asia-video
 
 正文长度：0
 
-摘要：Colombia’s government moved to officially end talks with some of the nation’s armed rebel groups, effectively halting the peace process that began under former President Gustavo Petro.
+摘要：Representative Raja Krishnamoorthi (D) says the Iran war is depleting key US munitions and pulling military assets from the Indo Pacific, potentially weakening deterrence against China as concerns over Taiwan grow. While on Bloomberg This Weekend, the Illinois Democrat also criticized the administration’s trade fight with Canada and Venezuela oil policy while calling for more US assistance to Nepal following catastrophic flooding. (Source: Bloomberg)
 
 
 ---
 
-## Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves
+## How YouTube Filmmakers Are Reshaping Hollywood’s Talent Pipeline
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves
+链接：https://www.bloomberg.com/news/videos/2026-08-30/is-hollywood-losing-its-stranglehold-on-filmmaking-video
 
 正文长度：0
 
-摘要：An onerous mock trading course is becoming an effective tool for South Korea to cool investor fervor over risky products that have turned the country’s $4.3 trillion stock market extremely volatile.
+摘要：YouTube creators are turning online audiences into big-screen opportunities, with filmmakers like Alex Kister moving from DIY horror videos to studio deals. As platforms, distributors and FAST services open new paths to money and viewers, the creator boom is also flooding the market with content, making it easier to start but harder to win. (Source: Bloomberg)
 
 
 ---
 
-## Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets
+## Investors Bet on a Hair Loss Treatment Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-08-30/investors-bet-on-a-hair-loss-treatment-boom-video
 
 正文长度：0
 
-摘要：It had already been a tough 2026 for Acrisure. Part fintech, part insurance broker, the firm said in late May it would cut 11% of its workforce, or some 2,250 people, as part of a sweeping overhaul to modernize operations. Some of its bonds and loans had fallen, but still remained above levels typically deemed distressed.
+摘要：Drugmakers are developing a new generation of hair loss treatments, including lotions, pills and longer-lasting injections, targeting a US market where tens of millions of men and women experience pattern hair loss. Joining Christina Ruffini and Bailey Lipschultz on Bloomberg This Weekend is Bloomberg News Equities Reporter Avalon Pernell says some treatments could seek approval and reach the market as soon as 2027, drawing investor interest in companies hoping to tap consumers already willing to spend heavily on hair restoration. (Source: Bloomberg)
+
+
+---
+
+## The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html
+
+正文长度：6710
+
+摘要：Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Tariff refunds have muddied retailers' earnings reports in recent weeks as Wall Street struggles to parse through the confusion.
+Most major retailers applied for refunds after the Supreme Court ruled in February that the International Emergency Economic Powers Act did not authorize President Donald Trump to impose the tariffs. That money began flowing in during the second quarter, as retailers saw major boosts to their profits.
+For the most part, those returns have helped companies offset cost inflation and prop up margins, especially as they face cost pressures like the rising price of fuel. But the way those retailers have reported those refunds and incorporated them into their earnings has differed greatly, leading to confusion about how to read the strength of their results and their future outlooks.
+"These trails aren't always clean in terms of finding the right way to apply, in a fair sense, the rebate to prices," Bryan Eshelman, a managing director in the retail practice at consulting firm AlixPartners, told CNBC.
+Eshelman said there are two factors at play with how retailers handled the refunds. Determining where the extra money goes depends largely on the retailer's price position in the market, where more value-driven companies are likely to apply funds to keep prices lower and "proclaim that to the marketplace," he said.
+The tariff refund situation has been further complicated for companies depending on whether they are the importer of record for the products, which determines who gets the refunds, Eshelman said. Much of what's sold in stores isn't necessarily imported by the retailer, or U.S. manufacturers may be the ones receiving rebates for raw materials.
+"There's also just the reality of record-keeping internal to retailers and whether or not they easily have a way to attribute the rebate directly back to a product that was already sold," he said. "It's not a simple task."
+Price cuts
+Some retailers chose to explicitly say they were dedicating their extra cash to lowering prices on products for consumers.
+Home Depot saw its gross margin increase 0.3% in its fiscal second quarter compared with the prior year, driven by its tariff refund. The company said it received $730 million in tariff refunds during the period, using roughly $685 million of that money to reduce the cost of goods sold.
+Chief Financial Officer Richard McPhail said on a call with analysts that those funds represent "the vast majority" of what the company was expecting to receive.
+Walmart took a similar route. CFO John David Rainey told CNBC last week that the company was eligible to receive roughly $2.9 billion in tariff refunds and has yet to get back just under $100 million of that total. Its gross profit for Walmart U.S. grew 1.6% from the boost.
+He told CNBC that the company plans to use those funds to lower prices for consumers, and shoppers and investors will see the impact during its current fiscal third quarter.
+TJX Cos. also said it used its $331 million in tariff refunds to benefit its second-quarter cost of sales.
+Eshelman said low-price operators likely have a "strategic reason" to apply refunds to prices, though enticing consumers with value has become harder in an increasingly crowded retail space.
+"At the end of the day, a product is worth what somebody's willing to pay for it, and there is a lot of choice in this marketplace," Eshelman said.
+Margin boosts
+Lowe's, on the other hand, said its tariff refund gave it an 11-cent boost to its earnings per share for the second quarter. CEO Marvin Ellison told CNBC the company received roughly $80 million in repayments and did not plan to use tariff dollars to lower prices, unlike some of its competitors.
+"We feel strongly that we want to deliver strong profitability for our shareholders and make sure that we don't follow any aggressive pricing action," he said.
+Ellison added on a call with analysts that the company took "the right planned steps to drive profitability" with its windfall.
+Target also did not explicitly say whether the company was using its tariff refunds to cut prices, though the company said it lowered prices on more than 10,000 items in the second quarter. Still, the retailer said tariff refunds gave it a $752 million boost to net earnings, or $1.65 per share, and a $994 million pretax benefit to its second-quarter gross margin and operating income.
+"We have, and will continue, to invest in price to ensure our guests are getting tremendous value each and every time they visit us at Target," CFO Jim Lee said on a call with reporters.
+Kohl's CEO Michael Bender told CNBC on Wednesday that the company put $100 million of the refunds it has received into its gross margin in the second quarter and plans to use the rest to invest in deeper inventory.
+"All of [the uses of the repayments] have to have a return, so we're not just going to be throwing money out and saying, 'I hope this works,' but we're very disciplined about it," Bender said.
+AlixPartners' Eshelman said the one-time tariff boosts are also going to have implications for future quarters, especially as retailers forecast a higher-than-expected tariff rate and Trump's tariff policies change by the day.
+Wall Street and Main Street
+The extra boosts to earnings this quarter meant that comparisons to last year's results were skewed in retailers' favor in many cases.
+But on the other side of that coin, those windfalls will also set a higher bar for comparisons next year due to the inflated numbers this season.
+"It's an unfair positive comparison to last year's quarter, and it's going to be an unfair negative comparison to next year's quarter," Eshelman said. "I think investors need to just, where it's material, make that adjustment in their expectations."
+For shoppers, Eshelman said it's likely consumers won't be able to quantify if the price cuts are truly proportionate to the refunds that the retailers received. Inflationary pressures like rising fuel prices, among other factors, can also affect those prices.
+"How does a consumer know what percentage of a price increase was tariff-related versus diesel or fuel related?" he said. "How does a consumer know that the price went down commensurate with the level of rebate?"
+Still, a silver lining from the tariff situation may be that retailers are catching on to needing to have more diverse and agile supply chains.
+And at the end of the day, Eshelman said, the tariff calculus comes down to how retailers want their core customer to perceive them.
+"To me, a lot of this is marketing," he said. "It's trying to create a price perception with consumers, which is an important part of any retailer's job, and I find it hard to untangle that."
+
+</details>
 
 
 ---
@@ -285,175 +338,132 @@ For Cameron, who spent decades exhausting HIV treatment options as his virus dev
 
 ---
 
-## Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html
-
-正文长度：5161
-
-摘要：Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Gap on Thursday announced a new CEO for its Old Navy banner, effective Nov. 2, as the retailer tries to reinvigorate sluggish sales performance at the brand.
-Michael Francis, who was appointed the chief customer officer at Old Navy in May, will take over the reins from current CEO Haio Barbeito, who will become an advisor to the company. Barbeito has held the position since 2022.
-Gap CEO Richard Dickson told CNBC the move was "a planned and thoughtful transition" to better equip Old Navy for its next chapter.
-"We've been working — from fixing fundamentals to building momentum and ultimately looking to accelerate growth, and so there's not a change in strategy," Dickson said in an interview. "We're just going to continue to execute better, continuously improve our core business, while we drive some accelerators that we're really excited about."
-Shares of Gap jumped 12% in extended trading Thursday.
-In the company's fiscal second-quarter earnings report, Old Navy posted net sales of $2.1 billion — down 4% year over year. Comparable sales were also down 4%, versus comparable sales growth of 2% during the same period last year. Wall Street analysts were expecting a decline of 2.4% for the most recent period, according to StreetAccount.
-It marked Old Navy's first negative same-store sales figure since the second quarter of 2023 and was due in part to "unanticipated slowdown in traffic," the company said. The brand contributes nearly 60% to Gap's overall revenue.
-Dickson told CNBC that Old Navy specifically saw disappointing results from its summer marketing, which he said "lacked a direct product message." But he added that the brand has already begun to see "significant improvement" in its traffic and sales this past month.
-Incoming CEO Francis said in a statement the brand would "continue to sharpen our customer focus, strengthen the brand's cultural relevance, enhance the customer experience across every touchpoint and build on the momentum already underway."
-Overall, Gap reported mixed results for its fiscal second quarter, beating analysts' estimates for earnings per share but underperforming revenue expectations. Gap Inc. comparable sales were down 1% for the period, including a 3% year-over-year decline in in-store sales.
-"Ultimately, our slight miss on total company was really due to Old Navy's seasonal product assortment," Dickson said. "We know we didn't execute well on our seasonal product, but if there's good news in this, seasonal is behind us."
-For the full fiscal year, Gap narrowed its net sales growth outlook from a range of between 1% and 2% to a range of between 1% to 1.5% due to the lag at Old Navy. Still, the company hiked its expectations for adjusted earnings per share from a range of $2.30 to $2.40 for the full year to a range of $2.35 to $2.45.
-Here's how the company performed in the quarter ended Aug. 1 compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
-- Earnings per share: 52 cents adjusted vs. 48 cents expected
-- Revenue: $3.65 billion vs. $3.69 billion expected
-Gap reported net income of $501 million, or $1.38 per share, compared with $216 million, or 57 cents per share, the prior year. Sales sank slightly to $3.65 billion from $3.73 billion in the year-ago period.
-Adjusting for one-time items — in particular the impact of tariff refunds of approximately $512 million — Gap reported earnings per share of 52 cents.
-"On balance, we're running a very disciplined organization with a playbook that is working," Dickson said. "These things take time. I think, pointing to Gap as the lead success story of our playbook, you can see the ability for us to actually deliver relevance and revenue, and we're well on our way."
-At the namesake Gap banner, comparable sales soared 10% for the quarter — outpacing Wall Street expectations of 8.6% growth — and net sales jumped 9% to $844 million. The company attributed those gains to "culturally relevant storytelling" in categories across denim, fleece and kids and baby.
-As for Gap's other brands, Banana Republic saw its comparable sales up 3% for the quarter, with net sales reaching $478 million. Analysts were expecting comparable sales up 2%, according to consensus metrics from StreetAccount. The company said the brand "continued to make progress" in its assortment during the quarter.
-And, Athleta's comparable sales sank 12% for the quarter, hitting net sales of just $264 million. Gap said that Athleta "remains focused on disciplined execution to rebuild the brand profitably."
-The company also said a significant increase in gross margin during the fiscal second quarter was the result of a 11.4-percentage-point benefit from "expected recovery of tariffs." Absent that tariff impact, Gap's gross margin improved by 0.2% year over year.
-Gap said it received $95 million of tariff refunds during the quarter and used the funds to lower the costs of some of its products. The remainder of its tariff refund is expected in the third quarter, the company said.
-Dickson added that the company continues to see a "resilient but discerning" consumer with sales growth across all income cohorts.
-
-</details>
-
-
----
-
-## Warsh puts Fed on collision course with Trump ahead of midterms - Financial Times
+## Pharma stocks soar as investors seek AI alternatives - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlzWmZxaFk3eXFkaWF4UERIcWZ3X0cwRDR3WGw3aEpWYnZucTIwRDRWbjVaRDR3c2U4M21nRS03VWNJQWE0UWQ2OGFTMXl3dnN2UUczNXZZbEthdE1TU0N1NXhkVnNlZ0R5OENZVzUwTUxVbWxQcDd2d0tjVXRfQjlCUXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlzWmZxaFk3eXFkaWF4UERIcWZ3X0cwRDR3WGw3aEpWYnZucTIwRDRWbjVaRDR3c2U4M21nRS03VWNJQWE0UWQ2OGFTMXl3dnN2UUczNXZZbEthdE1TU0N1NXhkVnNlZ0R5OENZVzUwTUxVbWxQcDd2d0tjVXRfQjlCUXM?oc=5" target="_blank">Warsh puts Fed on collision course with Trump ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5" target="_blank">Pharma stocks soar as investors seek AI alternatives</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump deportations take a bite out of an unexpected industry: US fast food - Financial Times
+## Grindr bets wealthy gay men will pay more to find the right match - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYVdKZ3lXMUZ4QUFSazhSVFdGWHdWY0RIazc4OFhyM1ZPaGVzREZHWVNFcjI4QlVZRlZTSWVxR012MUM0Q0JjTEFQVDhEQjlvMVRQMjZTREgzRkhhR2hRWGM4bVZPWnVaUEFTX3hGck0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUtYMVVqOW5jTFNHS0R1d3Rac0JhQmkxelRBcXhOODdKdXZ0MU10SFB5WXQ3UjI0QnBHeklfVTdKaEhRR1hxZjB4RTBBb1ZtTkN2SjY4Z2pMcFVPM3FhSWFTdGJxcVNZZUI2TVJxbW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYVdKZ3lXMUZ4QUFSazhSVFdGWHdWY0RIazc4OFhyM1ZPaGVzREZHWVNFcjI4QlVZRlZTSWVxR012MUM0Q0JjTEFQVDhEQjlvMVRQMjZTREgzRkhhR2hRWGM4bVZPWnVaUEFTX3hGck0?oc=5" target="_blank">Trump deportations take a bite out of an unexpected industry: US fast food</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUtYMVVqOW5jTFNHS0R1d3Rac0JhQmkxelRBcXhOODdKdXZ0MU10SFB5WXQ3UjI0QnBHeklfVTdKaEhRR1hxZjB4RTBBb1ZtTkN2SjY4Z2pMcFVPM3FhSWFTdGJxcVNZZUI2TVJxbW8?oc=5" target="_blank">Grindr bets wealthy gay men will pay more to find the right match</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chart of the Week: Is the 60-40 portfolio dead? - Financial Times
+## The Dutch city where Europe’s electricity grid crunch hits home - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlFtNjdjMmVsYlZlSmc5SWx2MTZOeW5UZ2pVaDVUekplOXBwNzl6ZU9tTWRMUVJhQkxzR1R5YlI3M0JRbGd5OHRrLUVlTTFyeWpTT05lcHlzQkZ5RWNoZU9CNkpIaG5fU1BtVGxZNkNyZ1VMd2RUZDlqTlBUQkVOMEtqU00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmxScUJNMkdFSXFrbE9zRS0ySlFTTU5BeDM3XzBzeWplcVU0QUM0OVEtWWEwcW9jLWpxWWVRZ1JxYUtOcnpKeVNXdVFDRkhWeDVfNWlrblpkbDEzdEdZZmJGb3p6RksySi1wSk5KS2pGQ1AyZjRvWDJuR2NZZTVLWllZMXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlFtNjdjMmVsYlZlSmc5SWx2MTZOeW5UZ2pVaDVUekplOXBwNzl6ZU9tTWRMUVJhQkxzR1R5YlI3M0JRbGd5OHRrLUVlTTFyeWpTT05lcHlzQkZ5RWNoZU9CNkpIaG5fU1BtVGxZNkNyZ1VMd2RUZDlqTlBUQkVOMEtqU00?oc=5" target="_blank">Chart of the Week: Is the 60-40 portfolio dead?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmxScUJNMkdFSXFrbE9zRS0ySlFTTU5BeDM3XzBzeWplcVU0QUM0OVEtWWEwcW9jLWpxWWVRZ1JxYUtOcnpKeVNXdVFDRkhWeDVfNWlrblpkbDEzdEdZZmJGb3p6RksySi1wSk5KS2pGQ1AyZjRvWDJuR2NZZTVLWllZMXM?oc=5" target="_blank">The Dutch city where Europe’s electricity grid crunch hits home</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alex Gerko earned a record £895mn from trading firm XTX in 2025 - Financial Times
+## Iceland rejects talks on EU entry - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnFuNXVYUndKMkRjQ3BzOHU3cFFqak9aam1LZWxseWJJR3RsTUROZ3NXaV9qeW9tZGN0c1FubHlIbW5FOFNzdUxnZEhMQk1FWVVkemVNQlZBTmVfVnBINDlIb19oRlZEdmw0NFkxZV9MZWdveVlzV1ZxemNIRTJsejZSWXU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjFMUi1oTENmWENmczZsR0I0UUpub0xKU1hHR0VmN2FubHk3SFlYNUV0Nm05V3UxUjRKN3FrSTZSZXg3U2RuVnV3RTg4c25iLTUyc05RY3VGdURVMzgyN25BN01hb0JITTJHRDlXc0RDZ1o2dk1yVV9Da1l6cmVGUXJuUzU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnFuNXVYUndKMkRjQ3BzOHU3cFFqak9aam1LZWxseWJJR3RsTUROZ3NXaV9qeW9tZGN0c1FubHlIbW5FOFNzdUxnZEhMQk1FWVVkemVNQlZBTmVfVnBINDlIb19oRlZEdmw0NFkxZV9MZWdveVlzV1ZxemNIRTJsejZSWXU?oc=5" target="_blank">Alex Gerko earned a record £895mn from trading firm XTX in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjFMUi1oTENmWENmczZsR0I0UUpub0xKU1hHR0VmN2FubHk3SFlYNUV0Nm05V3UxUjRKN3FrSTZSZXg3U2RuVnV3RTg4c25iLTUyc05RY3VGdURVMzgyN25BN01hb0JITTJHRDlXc0RDZ1o2dk1yVV9Da1l6cmVGUXJuUzU?oc=5" target="_blank">Iceland rejects talks on EU entry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Warsh charts a forward-looking path for the Fed at Jackson Hole - Financial Times
+## Americans feel they have lost their agency - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTlmeHRuMkVoamFTWWxGR01aYzlUZUZLVWJLeVBKcGNHUjYxSjlmUHFPcWc4cDEyVVAyV19LdHR1dGN0bzdNOWh6ekh2MWxuVDZOMnRkcnZWSnB6ZEljSU1oa2xIaGd3ZUtmR0JkanoxZkJ0R2FXTFp2NXotdWFtanMxVWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTJjNjJ3UXRTaUhrWXB0cC1WUVExbUxDbUxaS2lmTlFWempmV0s0c0VBTFJLNXdjZ2RjWTNqU3pUeWpJX0M1TUY3OWlvZlVlVjVWR0RsRXdIZEp5eFVUY21KQ3RnOUE1Y213d0ticTNLSFQtSW5YcXJ4LUZnZDBCQVh6OXI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTlmeHRuMkVoamFTWWxGR01aYzlUZUZLVWJLeVBKcGNHUjYxSjlmUHFPcWc4cDEyVVAyV19LdHR1dGN0bzdNOWh6ekh2MWxuVDZOMnRkcnZWSnB6ZEljSU1oa2xIaGd3ZUtmR0JkanoxZkJ0R2FXTFp2NXotdWFtanMxVWc?oc=5" target="_blank">Warsh charts a forward-looking path for the Fed at Jackson Hole</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTJjNjJ3UXRTaUhrWXB0cC1WUVExbUxDbUxaS2lmTlFWempmV0s0c0VBTFJLNXdjZ2RjWTNqU3pUeWpJX0M1TUY3OWlvZlVlVjVWR0RsRXdIZEp5eFVUY21KQ3RnOUE1Y213d0ticTNLSFQtSW5YcXJ4LUZnZDBCQVh6OXI?oc=5" target="_blank">Americans feel they have lost their agency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China identifies countries of 261 foreigners missing in Himalayan mudslide - Reuters
+## Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5" target="_blank">China identifies countries of 261 foreigners missing in Himalayan mudslide</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5" target="_blank">Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Far-right commentator Milo Yiannopoulos deported to UK - Reuters
+## Google Maps will show 'Lake America' in US, not 'Lake Ontario' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3RKRnR5NHhzZERZZmNwYkVzSTZFVGdPZ0tlbjdGTUtxcjhMMWI1bGFTWVAtdy1Xd0tZdWpjOEoxN29BdnRsZE5UWl9oRXQzQ2QwNWFHaTRpaEJmdlFWOU9OR2lwZUNDdEpUQmZDaF9TZUhwR19CQk5RX05TdFdaT0I4VDlZeUlvQ0ZNelRxcWVRLVMtdjRkdzdCc0tfZFBI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5" target="_blank">Far-right commentator Milo Yiannopoulos deported to UK</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3RKRnR5NHhzZERZZmNwYkVzSTZFVGdPZ0tlbjdGTUtxcjhMMWI1bGFTWVAtdy1Xd0tZdWpjOEoxN29BdnRsZE5UWl9oRXQzQ2QwNWFHaTRpaEJmdlFWOU9OR2lwZUNDdEpUQmZDaF9TZUhwR19CQk5RX05TdFdaT0I4VDlZeUlvQ0ZNelRxcWVRLVMtdjRkdzdCc0tfZFBI?oc=5" target="_blank">Google Maps will show 'Lake America' in US, not 'Lake Ontario'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure - Reuters
+## Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE?oc=5" target="_blank">GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5" target="_blank">Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Finland's Stubb tells German newspaper Russia unlikely to risk attack on NATO - Reuters
+## NATO sees no imminent threat of attack, official says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xYTXJsTlRhWVhlTDNhNU9ROUwtQzloNGt5Ul9FenFCcFdlSWJNbGsxVnBHQkpCMno0UWg0NDNOWExtMlpsTFBqOE4xOTYtNTdmUDZEWFRzYW1PbGtrWUJqSFNuR0pCVEd1ZG1jSFhvN3BkOTJ5czJybE5kNXFrT0tpcGhudWV2ZDdvWGJER1ZUN0loOUdybUxpdDBnQk1qYmlWcjhWeHpqZURDN2dZTlFB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGlOUzNwdF82eE9iTjh5TVo3eUJ3RFkxdWVhMEJLM3BuVk1KSHlMU2dCMktSSFhwZllSd1ZIajlKZzU0SXFOQWh2bXlTQk5RZllPaVpuRHc1SGFDb3FJY0Q1Sk9Bc3FQc2xFNDNERkdQc2NkcUR1UG9OTFNsYnRpQUlnNWxRdUFJZ2Z4dDh4X19fWmJxZUNtQ1VsTm4yWFY0YmNyTVNaWE1mMTlxSGN2T1pn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xYTXJsTlRhWVhlTDNhNU9ROUwtQzloNGt5Ul9FenFCcFdlSWJNbGsxVnBHQkpCMno0UWg0NDNOWExtMlpsTFBqOE4xOTYtNTdmUDZEWFRzYW1PbGtrWUJqSFNuR0pCVEd1ZG1jSFhvN3BkOTJ5czJybE5kNXFrT0tpcGhudWV2ZDdvWGJER1ZUN0loOUdybUxpdDBnQk1qYmlWcjhWeHpqZURDN2dZTlFB?oc=5" target="_blank">Finland's Stubb tells German newspaper Russia unlikely to risk attack on NATO</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGlOUzNwdF82eE9iTjh5TVo3eUJ3RFkxdWVhMEJLM3BuVk1KSHlMU2dCMktSSFhwZllSd1ZIajlKZzU0SXFOQWh2bXlTQk5RZllPaVpuRHc1SGFDb3FJY0Q1Sk9Bc3FQc2xFNDNERkdQc2NkcUR1UG9OTFNsYnRpQUlnNWxRdUFJZ2Z4dDh4X19fWmJxZUNtQ1VsTm4yWFY0YmNyTVNaWE1mMTlxSGN2T1pn?oc=5" target="_blank">NATO sees no imminent threat of attack, official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bessent says disorderly yen moves can destabilize global markets - Reuters
+## Nepal begins mass burials of unidentified flood victims as families seek missing - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVFHVmljdEdJUTJ0Z24zM21xcVM1QmdnVVo0ZDQtcHB2c0dMbVBoN18zZzdWVXcwMGp4LXRXRmF1TDVCUXJUTjFURnpEUlRqUTBRdkROajdPcUJLc213ejhQYm5BZ1J3TzRsbXEwY0duWmZwUGFHejhwd0RsRHVVRzdmU2JLc0ZzN1Qyd25IOF83RGlFQkdTWmhxSm9GaG10UG5WQjRFZkt6Q25SZ0dpN0FGcDJlZGtBbnpqR3k2T1VnSVR5UlJGZmFGWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5" target="_blank">Bessent says disorderly yen moves can destabilize global markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVFHVmljdEdJUTJ0Z24zM21xcVM1QmdnVVo0ZDQtcHB2c0dMbVBoN18zZzdWVXcwMGp4LXRXRmF1TDVCUXJUTjFURnpEUlRqUTBRdkROajdPcUJLc213ejhQYm5BZ1J3TzRsbXEwY0duWmZwUGFHejhwd0RsRHVVRzdmU2JLc0ZzN1Qyd25IOF83RGlFQkdTWmhxSm9GaG10UG5WQjRFZkt6Q25SZ0dpN0FGcDJlZGtBbnpqR3k2T1VnSVR5UlJGZmFGWQ?oc=5" target="_blank">Nepal begins mass burials of unidentified flood victims as families seek missing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
