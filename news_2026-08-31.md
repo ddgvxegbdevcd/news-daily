@@ -1,68 +1,160 @@
 # 每日财经新闻
 
-更新时间：2026-08-31 04:53:57
+更新时间：2026-08-31 19:00:18
 
-## Stocks, Gold Drop on Fed Rate-Hike Bets; Oil Gains: Markets Wrap
+## Yen Breach of 160 Revives Japan Intervention Watch Ahead of BOJ
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-08-31/yen-s-breach-of-160-to-dollar-puts-traders-on-intervention-watch
 
 正文长度：0
 
-摘要：Global stocks and gold extended losses as hawkish comments from Federal Reserve Chair Kevin Warsh fueled bets on an interest-rate hike next month. Oil climbed as Middle East tensions flared.
+摘要：The yen’s breach of 160 versus the dollar underscores the currency’s vulnerability to further weakness and the risk that authorities enter the market again to slow its decline.
 
 
 ---
 
-## Sungrow Shares Slump After Profit Tumbles by Almost a Third
+## Small Cap Full of 'Horrible' Cos.: Panitsas
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-31/sungrow-shares-slump-after-profit-tumbles-by-almost-a-third
+链接：https://www.bloomberg.com/news/videos/2026-08-31/small-cap-full-of-horrible-cos-panitsas-video
 
 正文长度：0
 
-摘要：The shares of Sungrow Power Supply Co., one of the world’s biggest renewable energy equipment makers, tumbled after the Chinese company reported a sharp drop in first-half profit.
+摘要：Nick Panitsas, CIO of Farther Asset Management, joins Scarlet Fu and Eric Balchunas on "Bloomberg ETF IQ." They discuss 'Boomer candy' ETFs, the outperformance of Avantis US Small Cap Value ETF (Ticker: AVUV), and active ETFs.
+ (Source: Bloomberg)
 
 
 ---
 
-## Bond Investors Wary After Warsh Speech Fuels Rate-Hike Bets
+## Bloomberg This Weekend 08/30/2026
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike
+链接：https://www.bloomberg.com/news/videos/2026-08-30/bloomberg-this-weekend-08-30-2026-video
 
 正文长度：0
 
-摘要：Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global Investment Management are voicing skepticism about mounting speculation that Federal Reserve Chairman Kevin Warsh is poised to raise interest rates.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Space Network Co-Founder & COO Ross Hamilton, RUV Iceland Correspondent Ingólfur Sigfússon, ABC News State Department Reporter Shannon Kingston, Heritage Foundation Inst. for National Security & Foreign Policy Victoria Coates, CSIS Director of Economics Program Philip Luck, Illinois Rep. Raja Krishnamoorthi, Unleash Prosperity Chairman and Co-founder Stephen Moore and  “Autokill” Author and Fmr. New York City Transit Commissioner Sam Schwartz. (Source: Bloomberg)
 
 
 ---
 
-## Radiant World’s Senior China Trader Quits as Pressure Builds
+## Dollar Set to Weaken for a Second Month on Treasury Buyback
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-31/radiant-world-s-senior-china-trader-quits-as-pressure-builds
+链接：https://www.bloomberg.com/news/articles/2026-08-31/dollar-set-to-weaken-for-a-second-month-on-treasury-buyback
 
 正文长度：0
 
-摘要：A leading executive at Radiant World’s China office has quit, according to sources familiar with the matter, as the iron ore trader comes under pressure over concerns it provided falsified documents to banks.
+摘要：The dollar is on pace to fall for a second straight month as US plans to accelerate buyback of government debt weighed on the greenback.
 
 
 ---
 
-## India Share Sale Pipeline Swells as Firms Rush to Raise Funds
+## Investors Bet on a Hair Loss Treatment Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-08-31/india-share-sale-pipeline-swells-as-firms-rush-to-raise-funds
+链接：https://www.bloomberg.com/news/videos/2026-08-30/investors-bet-on-a-hair-loss-treatment-boom-video
 
 正文长度：0
 
-摘要：Indian listed companies are ramping up equity offerings to institutional investors as ample liquidity and improving sentiment open a window for one of the fastest routes to raise funds.
+摘要：Drugmakers are developing a new generation of hair loss treatments, including lotions, pills and longer-lasting injections, targeting a US market where tens of millions of men and women experience pattern hair loss. Joining Christina Ruffini and Bailey Lipschultz on Bloomberg This Weekend is Bloomberg News Equities Reporter Avalon Pernell says some treatments could seek approval and reach the market as soon as 2027, drawing investor interest in companies hoping to tap consumers already willing to spend heavily on hair restoration. (Source: Bloomberg)
+
+
+---
+
+## Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html
+
+正文长度：2065
+
+摘要：The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A jump in oil prices after renewed hostilities in the Iran war is pushing bond yields higher, and mortgage rates are following suit.
+The average rate on the 30-year fixed loan jumped 6 basis points on Monday to 6.87%, according to Mortgage News Daily. That is the highest level since June 2025. It's now up 12 basis points since Thursday and has risen more than 30 basis points in the last two months.
+"While rates are technically at their highest level in more than a year, they haven't exactly exploded with surprising, new momentum," said Matthew Graham, chief operating officer at Mortgage News Daily. "Instead, it's been more of a slow grind fueled by the usual suspects: inflation expectations, elevated bond issuance, and economic resilience. All three of those factors are subject to at least some variability in the future."
+The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that. The day before the war started, at the end of February, the rate on the 30-year fixed was 5.99%.
+To put that into perspective, for someone buying a $450,000 home, which is right around the national median, putting 20% down on a 30-year fixed mortgage, the monthly principal and interest payment today would be $2,363. That is $207 a month more than it would have been back at the end of February.
+And that's just the payment. When rates go up, fewer borrowers can qualify for a mortgage, as it shifts the debt-to-income ratios that lenders rely on for safe lending.
+This comes on top of higher home prices, which seem to now be accelerating again in some parts of the country, due to lean supply.
+Nationally, prices in June were up 1.5% year over year, up from the 1.2% rise in May, according to the latest S&P Cotality Case-Shiller home price index.
+"As financing costs are kept high for prospective buyers, current homeowners remain reluctant to give up the low mortgage rates secured in prior years," said Rebecca Kaufman, associate director of commodities at S&P Dow Jones Indices, in a news release.
+
+</details>
+
+
+---
+
+## Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html
+
+正文长度：2923
+
+摘要：The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Nearly a dozen drugmakers are slated to ink deals with President Donald Trump on Monday to voluntarily sell their medications for less, MS NOW reported, building on his push to link the nation's drug prices to cheaper ones abroad.
+It is unclear which companies will be included, according to the MS NOW report. Trump is scheduled to make an announcement on healthcare affordability at 3:00 p.m. ET on Monday.
+Over the past year, the Trump administration has reached drug pricing deals with 17 pharmaceutical companies, including Pfizer, Eli Lilly and Novo Nordisk, as part of its "most favored nation" policy. Trump signed an executive order in May 2025 to revive that policy, calling for prices to be increased outside of the U.S. and to "end global freeloading."
+The reported deals would add to the White House's efforts to spotlight healthcare affordability ahead of the midterm elections.
+Bloomberg reported last week that the drugmakers on Monday are expected to agree to provide discounts on outpatient drugs to state Medicaid programs so that prices states pay align with what companies charge in foreign countries. Participation by state Medicaid programs is optional.
+In exchange, those companies will be exempt from pilot programs mandating similar discounts in Medicare, Bloomberg reported.
+Medicaid already receives steep discounts from companies under federal law, so it's unclear how the new deals will impact what patients pay out of pocket.
+The "most favored nation" deals that have been signed with the Trump administration have already impacted the commercial strategies, bottom lines and manufacturing pipelines of major pharmaceutical companies.
+To insulate themselves from future tariff threats, drugmakers are spending billions of dollars to bring manufacturing capabilities back to the U.S. Companies are also drastically expanding direct-to-consumer channels for their products, including by offering their medicines on the president's TrumpRx portal. Lower prices in the U.S. are weighing on bottom lines, with manufacturers like Novo Nordisk saying that it will take time for prescription volumes to offset the revenue dip.
+U.S. prescription drug prices on average are nearly three times higher than they are overseas, according to a 2024 study by Rand Corp. Prices for branded drugs were more than four times higher, the report found.
+The trade association PhRMA, which represents many major pharma companies, has previously said that most-favored nation pricing isn't the best way to lower drug costs for Americans and instead blamed pharmacy benefit managers for the price disparity.
+The U.S. is the single most important market for many drugmakers, regardless of their home country. Despite being based across the Atlantic, European pharma companies are heavily exposed to the U.S. market, with half of the 10 largest companies on the continent generating a majority of their sales in the U.S.
+
+</details>
+
+
+---
+
+## Manhattan's luxury rental market is booming, with units reaching $100,000 a month
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html
+
+正文长度：2844
+
+摘要：New York City brokers said they've seen a surge in the number of wealthy renters, which is driving Manhattan rents to new records.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+A surge in wealthy renters is driving Manhattan rents to new records, according to brokers.
+Median rents in Manhattan reached an all-time high of $5,000 a month in July, according to the Real Deal Report, authored by Jonathan Miller, director of markets for Street Matrix. The average rent jumped 15% compared with a year ago, to $6,306.
+Wealthy renters are driving most of the growth. The average price for luxury rentals — the top 10% of the market — jumped 35% over the past year, to $17,464 a month, according to the Real Deal Report. Luxury rentals are now fetching an average of $121 per square foot.
+Typically, renters are those who can't yet afford to buy. In today's market, ultra-wealthy New Yorkers who have plenty of cash to buy are choosing to rent. A record low supply of high-end properties for sale has led many to wait in a rental until they find their dream home. Others are spooked by falling or flat prices for Manhattan resales, which make apartments less attractive as investments.
+"These are people who can easily afford $20 million, $50 million trophy homes," said Laura Klein of Bespoke Real Estate, who recently brokered a rental for a penthouse in Chelsea for $177,000 a month. "There is so little inventory. And they don't want to compromise."
+Other brokers said New York's new pied-a-terre tax on high-value second homes has caused many wealthy would-be buyers to rent instead.
+"The sharp increase in rentals following the pied-a-terre tax announcement suggests that some prospective purchasers may already be choosing flexibility over ownership," said Pam Liebman, president and CEO of The Corcoran Group.
+The rush of wealthy New Yorkers into the rental market has created a new market for mega-rentals. The number of apartments renting for more than $50,000 a month so far this year has more than doubled compared with 2025, while the number renting for more than $100,000 a month is up sevenfold, according to The Real Deal.
+Klein said none of the ultra-high-end rentals are publicly listed and are instead offered quietly to wealthy clients through a small network of high-end brokers. She currently has a rental for $175,000 a month in Tribeca, as well as one for $95,000 a month on the Upper East Side.
+"The $100,000-a-month number is almost normal now," Klein said. "These are renters who want turnkey, unique, trophy properties."
+She said owners of the luxury rentals don't need the income but are opportunistic given demand.
+"They say to me, 'If the number is right, I'll rent.' These are properties that if they were on the market would be listed for tens of millions" of dollars, she said.
+
+</details>
 
 
 ---
@@ -73,7 +165,7 @@
 
 链接：https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html
 
-正文长度：6710
+正文长度：6855
 
 摘要：Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
 
@@ -99,7 +191,7 @@ Eshelman said low-price operators likely have a "strategic reason" to apply refu
 Margin boosts
 Lowe's, on the other hand, said its tariff refund gave it an 11-cent boost to its earnings per share for the second quarter. CEO Marvin Ellison told CNBC the company received roughly $80 million in repayments and did not plan to use tariff dollars to lower prices, unlike some of its competitors.
 "We feel strongly that we want to deliver strong profitability for our shareholders and make sure that we don't follow any aggressive pricing action," he said.
-Ellison added on a call with analysts that the company took "the right planned steps to drive profitability" with its windfall.
+Ellison added on a call with analysts that the company took "the right planned steps to drive profitability" with its windfall. He said as the company moves into the second half of the year, Lowe's will "think first about how we're going to share those with the customer."
 Target also did not explicitly say whether the company was using its tariff refunds to cut prices, though the company said it lowered prices on more than 10,000 items in the second quarter. Still, the retailer said tariff refunds gave it a $752 million boost to net earnings, or $1.65 per share, and a $994 million pretax benefit to its second-quarter gross margin and operating income.
 "We have, and will continue, to invest in price to ensure our guests are getting tremendous value each and every time they visit us at Target," CFO Jim Lee said on a call with reporters.
 Kohl's CEO Michael Bender told CNBC on Wednesday that the company put $100 million of the refunds it has received into its gross margin in the second quarter and plans to use the rest to invest in deeper inventory.
@@ -176,294 +268,132 @@ CORRECTION: An earlier version of this story incorrectly said two Japanese compa
 
 ---
 
-## Imax says it's open to a sale. Why is no one buying?
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html
-
-正文长度：9413
-
-摘要：Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> In December, Imax CEO Rich Gelfond opened the door to a sale. Almost nine months later, the company's stock has hit an all-time high, its box office is breaking records and the stage is set to carry its momentum through the end of 2026.
-Yet, no major suitors have appeared.
-Imax held preliminary talks with potential buyers earlier this year, but as of May hadn't fielded any official pitches, CNBC reported at the time. Imax hasn't hired new bankers and doesn't have a formalized pitch book, according to a person familiar with the company, who spoke on the condition of anonymity to discuss confidential matters.
-But it's a busy time for dealmaking in the media space. Paramount Skydance is in the midst of a contested merger with Warner Bros. Discovery worth $110 billion, Fox agreed to acquire Roku in a deal worth $22 billion, and Comcast continues its corporate restructuring with the upcoming spinoff of NBCUniversal, which many in the industry say will give both resulting companies more flexibility to do deals.
-With a nearly $3 billion market cap, Imax is a relatively inexpensive asset in the entertainment landscape. And it's been on a hot streak in the wake of the pandemic as moviegoers have traded up for higher-priced premium large format cinema experiences.
-The company's momentum has been further fueled by strong box office sales from films like Universal and Christopher Nolan's "The Odyssey." Over the weekend, global Imax ticket sales for the film surpassed $400 million, the first film to exceed the benchmark in the company's history. This haul represents nearly 30% of total global sales for "The Odyssey" — despite the fact that Imax screens represent less than 1% of movie screens worldwide.
-And then there's the strong pre-sales for the December release of Warner Bros. and Denis Villeneuve's "Dune: Part Three," which has already sold out specialized screenings into January.
-Wall Street analysts foresee Imax setting a new global box office record in 2026, hot off the heels of the record $1.28 billion the company posted last year. Imax's 2025 ticket sales were more than 40% higher than 2024 and 13% higher than its previous record, set in 2019.
-"The brand value of Imax has never been higher," Eric Handler, managing director and senior research analyst at Roth, told CNBC. "They have done a really good job of situating themselves right in the center of the eco-structure for Hollywood. So, it's been a masterful, long-time-coming situation."
-Contributing to the momentum is Imax's premium ticket prices, which, despite being higher than for other screenings, have not deterred audiences.
-So far in 2026, the average adult Imax ticket cost $20.57 in the U.S., according to data from EntTelligence. That's more than 60% higher than the average standard ticket, at $12.75 each, and nearly 18% higher than rival premium large format offerings, which average around $17.46 apiece.
-The company's slate of "filmed for Imax" content is also accelerating and expected to grow materially through 2028. It's diversifying beyond the Hollywood landscape with partnerships in China, Japan and South Korea to screen local-language content.
-The company is also actively expanding. Around 160 to 175 Imax systems are expected to be installed in 2026, with contracts to build hundreds more already in place, the company told CNBC last year.
-The result, then, is less a question of what's for sale and more a question of who would buy.
-The most — and least — likely suitors
-Handler noted that a potential buyer would need to balance studio relationships and cinema partnerships, as Imax has for years. The company installs its special format screens in existing theaters and negotiates release windows for top-billed films.
-Major studios, including Disney, Universal, Paramount and Warner Bros., would have an immediate conflict of interest if they acquired Imax, Wall Street analysts told CNBC.
-Imax is "studio agnostic, and so they charge every studio the same," said Eric Wold, executive director of equity research at Texas Capital Securities. "If some studio were to purchase them, I think the other studios would always feel that they're kind of second in line for the key release slots in the holidays and summer, and so it may not be received well."
-Even in the scenario where a deal of that nature passed muster with Hollywood and regulators, a single studio would be hard-pressed to fill a 52-week theatrical calendar with only its own films. Premium large format, or PLF, is intended for blockbuster feature films, which moviegoers are willing to pay a higher price to attend. A smaller-budget film with less spectacle might not draw the same crowds for the same price on that kind of screen.
-Not to mention, few studios have purchased cinemas even after the Department of Justice rescinded the 1948 Paramount Consent Decrees, which previously disallowed studios from owning movie theater chains. Those restrictions formally sunset in 2022, but so far only Sony has done a major deal for cinemas, acquiring all 35 Alamo Drafthouse locations in 2024.
-Beyond movie studios, analysts have highlighted potential suitors in entertainment and tech: for example, Netflix, Apple, Amazon or Sony.
-Netflix long vowed to build growth rather than buy it, but more recently it's gotten a taste for M&A. The company entered into an agreement with Warner Bros. Discovery to buy its studio and streaming businesses before being outbid by Paramount Skydance.
-Its foray into dealmaking has led many in media to wonder if Netflix could be on the hunt for another opportunity.
-The streamer doesn't rely on theatrical releases as part of its main programing strategy, therefore its conflict of interest if it were to acquire Imax would be smaller than for traditional Hollywood studios. Additionally, owning Imax would provide any filmmaker that signed on to work with Netflix the opportunity for premium theatrical runs.
-Of course, Netflix historically has had limited interest in the traditional theatrical model. While the company does release some films in cinemas, it's typically done so for short runs or for eligibility for Academy Awards contention.
-As for Apple, Amazon and Sony, all three companies have strong technology businesses in addition to theatrical and streaming content, which may align nicely with Imax's tech-heavy business. While Sony does not have its own streaming platform, it partners with Netflix to distribute new content. Meanwhile, Apple has AppleTV and Amazon has Amazon Prime.
-Taking on a cinema tech firm like Imax could offer each company a new avenue for distribution.
-There's also the possibility that Imax could draw interest from a company or investor that wants to buy into Hollywood and the broader entertainment universe. Imax has a global presence and connections to most major studios as well as cinema partners worldwide.
-Analysts also noted that a private equity buyer would eliminate any potential conflict concerns and could be most interested to ride the stock's momentum.
-'Perfectly fine as a standalone company'
-Shares of Imax hit an all-time high this week of $54.79. The stock is up almost 80% in the past 12 months.
-That surge could be among the reasons it's still going it alone, according to Alicia Reese, senior vice president of equity research at Wedbush.
-"It's a lot more expensive than it has been for a long time," Reese said.
-When Gelfond first floated the idea of a sale last year, the stock was trading at around $36 per share and had a market cap of about $1.95 billion. The price tag is now a billion dollars higher.
-"Maybe those tech companies or potentially [private equity] who had considered it or had been kicking the tires would wait a little while and see what happens to the share price," Reese said. "There's a large probability that it's just going to continue to gain share and gain global growth and remain at these elevated valuation levels for some time, as the growth isn't likely to reverse."
-Several Wall Street analysts see further stock growth on the horizon, with price targets from some firms as high as $65 a share. On Monday, Drew Crum of B. Riley Securities raised his price target on the stock to $61, up from $52.
-"Taken together, we continue to forecast record financials in 2026, with share gains, higher margins, and healthy cash flow generation, as reflected in our above-consensus estimates," he wrote.
-Potential suitors would also naturally be looking at what the future holds for the entertainment business at large. The North American box office is still chasing the pre-pandemic levels of 2019, and despite a blockbuster summer, ticket sales are still lagging.
-Wedbush's Reese noted that Imax is grouped in with the theatrical exhibition space, which is traditionally a slow-growth, dividend-paying business. These types of companies will likely get back to paying those dividends once they can sustain "some very low single-digit growth," she said.
-And because Imax is not actively seeking a sale, simply entertaining offers, its executives can afford to be choosey.
-"I think the main point is that Imax is perfectly fine as a standalone company," Reese said. "And so they're not desperate in any way, shape or form. So, they're not going to go for just any bid. They want a bid that's a nice premium to where the shares are currently trading. And so it'd be hard to come to a deal, I think, right now."
-
-</details>
-
-
----
-
-## How Taylor Farms became integral to America's food supply system
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html
-
-正文长度：7734
-
-摘要：Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The cyclospora outbreak that has sickened thousands of people across the U.S. has brought fresh scrutiny of the integral role Taylor Farms and other massive suppliers play in the country's food supply.
-The company, which the Food and Drug Administration has linked to the parasite's spread, is one of the world's largest producers of fresh-cut vegetables and salads, supplying some of the biggest grocery chains and restaurant companies in the U.S. Its products are sold at retailers including Walmart, Kroger, Whole Foods and Target, and its restaurant customers include McDonald's, Taco Bell and Chipotle. Taylor Farms says 40% of salad kits sold at grocery stores come from the company, giving it a massive role in supplying a convenient and cheap vegetable option for many shoppers.
-The company, founded in 1995, has grown through a combination of scale and acquisitions, building an operation that spans much of the food supply chain. Taylor Farms works with hundreds of family farms for its produce and handles processing, packaging and distribution itself.
-That reach has made the company an increasingly important link between farms and some of America's biggest food companies, and heightens the risk of food safety problems spreading. Taylor Farms' scale has put the company under a brighter spotlight as the FDA investigates the cyclospora outbreak that the agency has linked to iceberg lettuce processed at Taylor Farms' facility in central Mexico, some of which was served at Taco Bell restaurants.
-Taylor Farms declined CNBC's invitation for an interview but sent comments defending the steps it has taken to respond to the outbreak and keep its produce safe.
-"We are confident in our food and food safety systems and will continue to be transparent as more information becomes available," a spokesperson for Taylor Fresh Foods, the corporate name for Taylor Farms, told CNBC.
-Taylor Farms said in an August post on its website that it spends more than $200 million a year on food safety. The company added in a statement to CNBC that safety is its "biggest area of funding by several orders of magnitude."
-Taylor Farms has also voluntarily suspended iceberg lettuce sourcing and production from central Mexico and commissioned independent experts to conduct a review of food safety practices at its facility there. The FDA has not reported a positive product sample for cyclospora, because it can take weeks for symptoms to show and lettuce has a short shelf life, so it is difficult to test the right crop.
-The breadth of the outbreak, which has led Walmart to recall bagged salads and Taco Bell to pull lettuce at some restaurants, underscores how integral Taylor Farms has made itself to the U.S. food system, and why broader industry consolidation risks worsening foodborne illness outbreaks.
-Why Taylor Farms' scale is important
-Taylor Farms generated roughly $7.3 billion in sales last year, according to PitchBook.
-The company handles much of the processing and distribution of the produce it sources, including washing, chopping, packaging, labeling, shipping and refrigeration. Taylor Farms and other suppliers like it have succeeded in part by making themselves indispensable to big restaurants.
-Chains rely on their ability to offer a consistent supply on a huge scale, said Stephen Zagor, a restaurant consultant and adjunct associate professor at Columbia Business School.
-"They can promise institutions that have multiple locations all over the country that they can supply what they need on a regular basis," Zagor said. "For a restaurant chain, it's easier for them to deal with a major multinational company than it is to deal with local farmers."
-That infrastructure provides consistency and reduces the need for labor-intensive preparation at chains. Taylor Farms can dice onions for McDonald's or shred lettuce for Taco Bell.
-The company has also become more important by getting bigger. Taylor Farms has expanded its infrastructure through a string of acquisitions and investments, including its purchases of Earthbound Farm in 2019 and agricultural robotics company Farmwise in 2025.
-The benefit of that consolidation has been reliable supply, standardized products and potentially lower labor costs, said Zagor.
-But there is another side.
-"The consolidation has camouflaged sources," Zagor said. "It's all put in one big pot. And if that pot has now gone bad, that affects the entire downstream logistic food chain."
-Zagor called it a "culinary national nightmare" when a company that distributes food to so many other businesses finds itself at the center of a foodborne illness outbreak.
-It's not the first time Taylor Farms has been tied to an outbreak.
-Food safety lawyer Bill Marler compiled a list of outbreaks linked to Taylor Farms and whether they led to product recalls. Among them is a 2009 salmonella outbreak linked to shredded lettuce, along with a 2024 E. coli outbreak tied to slivered onions served at McDonald's.
-His law firm, Marler Clark, has filed five complaints based on the current cyclospora outbreak so far in Ohio, Michigan and Kentucky, against four separate Taco Bell franchise operators and the restaurant chain itself, along with Taylor entities including four operators and one supplier.
-Growth and regulation
-Taylor Farms, along with other food service giants such as US Foods and Sysco, has become bigger and more vital in part by buying other companies.
-Taylor Farms has completed more than a dozen acquisitions or investments since 2011. While the cyclospora outbreak — the largest in U.S. history — has brought fresh scrutiny of the effects of consolidation, it's unclear how much skepticism there was of the deals when they happened.
-CNBC asked the Justice Department and Federal Trade Commission whether either agency had reviewed or challenged Taylor Farms' acquisitions and investments. The DOJ did not respond. The FTC said it could not provide additional details without knowing the purchase prices of the transactions, which determines if the agency even had the opportunity to review.
-CNBC found no public evidence that the FTC has challenged a Taylor Farms acquisition. Those deals took place under multiple presidential administrations of both parties, and various FTC leaders.
-Some experts also highlighted a separate issue in the U.S. food system: the strength of oversight and regulation of food safety as distributors get larger and more influential. As the cyclospora outbreak raged, various news reports highlighted that Taylor Fresh Foods made a $1 million donation to the pro-Trump super PAC MAGA Inc. last year, around the time the Trump administration delayed a rule related to food tracing requirements. The company has also spent millions on anti-regulatory lobbying.
-"If what you want is light enforcement of anything that's going to be expensive and cost you money, it's very nice to have political power," said Marion Nestle, professor emerita of nutrition, food studies and public health at New York University. "You can go to Congress and say, we don't want to do that."
-Taylor Fresh Foods rejected suggestions that its political contributions have resulted in favorable regulatory treatment.
-"Taylor Farms categorically rejects any suggestion that the company has attempted or received favorable regulatory treatment as a result of political contributions or any other improper influence," a spokesperson said. "The allegations are false."
-Nestle worries whether regulators have enough power as a few big companies become increasingly vital parts of the food system.
-"Companies want to produce food as cheaply as possible," said Nestle.
-"And that means you need oversight," she added.
-— CNBC's Ryan Baker contributed to this report
-
-</details>
-
-
----
-
-## FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html
-
-正文长度：6803
-
-摘要：The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The Food and Drug Administration approved a once-daily HIV pill from Gilead that could help simplify care for some patients, the company announced Thursday.
-The drug, marketed as Bixlenvo, is aimed at patients whose virus is already under control but who remain on complicated treatment regimens. It could also appeal to those who simply want to switch to a new treatment alternative.
-The tablet combines bictegravir, the backbone of Gilead's blockbuster HIV pill Biktarvy, with lenacapavir, a first-in-class capsid inhibitor that has become a centerpiece of the company's long-term strategy for HIV treatment and prevention.
-The approval makes the new pill the first single-tablet regimen available for adults with HIV whose virus is suppressed but are unable to use currently available one-pill treatment options, according to Gilead. That population accounts for an estimated 5% or more of individuals in the U.S. living with HIV, the company told CNBC.
-The list price of the pill before discounts or rebates is $4,595 for a 30-day supply, which is in line with other daily single-tablet HIV treatments, Gilead told CNBC. People without health insurance may be eligible to get Bixlenvo for free through Gilead's patient assistance program, while those with commercial or private insurance may be able to receive co-pay support through another savings program, the company said.
-"It fulfills an unmet need, particularly for individuals who are on complex regimens who just would not otherwise consolidate down to something really meaningful for them and prescribers," Dr. Jared Baeten, Gilead's clinical development and virology therapeutic area head, said in an interview ahead of the approval.
-"But it's also meaningful for individuals who are seeking options for something new," he continued. "We want to build options that give people the opportunity to choose something that's going to work for them and work for them for the long haul."
-There is no cure for HIV or AIDS. But many people living with HIV can manage the disease by taking a single pill daily, a treatment plan that Gilead helped pioneer two decades ago.
-But some patients can't use any existing one-tablet options like Biktarvy and require more complex combinations of medicines because of drug resistance from older therapies, side effects or interactions with other drugs, among other treatment challenges. Those patients may have to take multiple pills a day and adhere to complicated dosing schedules.
-Baeten said that group tends to be older and have long treatment histories, saying "some had to take handfuls of pills around 25 years ago." HIV also accelerates complications of aging, such as heart disease, diabetes and high cholesterol, in that age group, he added.
-"It's incredibly meaningful to develop a medicine, in my perspective, for people aging with HIV," Baeten said.
-The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new one. Baeten stressed that Bixlenvo does not aim to replace Biktarvy.
-For patients already doing well on Biktarvy, the rationale for switching is more about expanding treatment choices, he said. He emphasized that HIV care is highly individualized and that long-term success often depends on finding a regimen that best fits a patient's preferences and lifestyle.
-Baeten also said Bixlenvo is part of Gilead's broader effort to build a range of HIV treatment options around lenacapavir, including daily pills, weekly oral regimens and long-acting injectable therapies. The goal is to give patients flexibility to choose how they want to manage the disease, he said.
-"We're going to build enough options that people can make the choice that's going to work for them," Baeten said. "Some people like the surety of once a day, and some people would want 'set it and forget it' once every six months."
-What Bixlenvo is like for patients
-Baeten called it "essential" to have more than one medicine to treat HIV because the virus can become resistant to an initial treatment.
-Combining bictegravir and lenacapavir in one pill allows it to "hit the virus in two different ways" with "high efficacy [and] strong protection" against the virus becoming resistant to treatment, Baeten added.
-The approval is based on two Phase 3 trials, which evaluated Bixlenvo in adults with HIV whose virus was already suppressed on treatment. That includes people who switched from Biktarvy or complex treatment regimens with multiple tablets.
-The first trial – ARTISTRY-1 – specifically enrolled patients with long treatment histories and drug resistance, many of whom were taking multiple HIV medications each day. Participants had a median age of 60 and were taking between two and 11 pills daily before switching to Bixlenvo.
-In both studies, the pill maintained viral suppression at rates comparable to patients' previous regimens at 48 weeks and was generally well tolerated with no new safety concerns. The most common side effects reported in at least 2% of participants across the two trials was headache, nausea and diarrhea.
-Timothy Cameron, a 64-year-old retired Seattle resident who has been living with HIV for more than 40 years, was among the participants in the first Phase 3 trial.
-When he was first diagnosed in the 1980s, doctors had few treatment options and little ability to measure how active the virus was. He spent decades cycling through HIV medications, experimental drugs and multi-pill regimens that often came with difficult side effects and eventually stopped working against his "hard-to-treat" virus.
-"It was just like throwing darts at a dartboard," Cameron said. "Because I had done so many drug trials and monotherapy, my virus had become super resistant."
-A few years before enrolling in the Gilead study, Cameron finally found a regimen that controlled his virus, though it required taking one HIV pill twice daily along with another medication. His doctor encouraged him to join the trial and switch to Bixlenvo, a once-daily pill Cameron described as "smaller than my pinky nail."
-The transition was seamless, he said. The drug maintained control of his virus without causing side effects and simplified his treatment routine by reducing the number of pills he takes and consolidating all of his medications into a single daily schedule.
-For Cameron, who spent decades exhausting HIV treatment options as his virus developed resistance, among the biggest benefits may be that the two-drug regimen effectively controls his virus while exposing him to fewer medications. He said that gives him confidence that additional treatment options could remain available in the future if he ever needs them.
-"It's one less thing I'm putting in my body, and it preserves options if I need them," Cameron said.
-
-</details>
-
-
----
-
-## Taliban makes overtures to Trump administration over mineral deals - Financial Times
+## Donald Trump says US will hit Iran ‘hard’ as conflict reignites - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmZRbHp5NUl6N1FwYWdnUWxWYVlhLWlFMnFQV0FvWENDMTBhNmhMNUI3ZHNoU20yb2NXVWxZNVpXbWdsUUFvNUh3MW1sSFMzUHExT2gwaGREbDRLcGNpVWVhZTJlT2pseHlhcU1NODEzRnV5cGFKeG9JZDE5U2J4ZHhqSUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUYwb2Y0RnFESWdoUWRnSUtya3owcWNkQmFXSDNuVTBuaDduVTFfbFdsVTFyYmN2cTFkQjRRVDQ0ZEZaMWh1MDd3SlFua25wRkk0RzlGUWlMa3RpWlJPSzB5Sm9FeWNkdlUyZkU5WEIwWERiNEVwNkhsN3Z1Y0lwWTZiYnI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmZRbHp5NUl6N1FwYWdnUWxWYVlhLWlFMnFQV0FvWENDMTBhNmhMNUI3ZHNoU20yb2NXVWxZNVpXbWdsUUFvNUh3MW1sSFMzUHExT2gwaGREbDRLcGNpVWVhZTJlT2pseHlhcU1NODEzRnV5cGFKeG9JZDE5U2J4ZHhqSUE?oc=5" target="_blank">Taliban makes overtures to Trump administration over mineral deals</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUYwb2Y0RnFESWdoUWRnSUtya3owcWNkQmFXSDNuVTBuaDduVTFfbFdsVTFyYmN2cTFkQjRRVDQ0ZEZaMWh1MDd3SlFua25wRkk0RzlGUWlMa3RpWlJPSzB5Sm9FeWNkdlUyZkU5WEIwWERiNEVwNkhsN3Z1Y0lwWTZiYnI?oc=5" target="_blank">Donald Trump says US will hit Iran ‘hard’ as conflict reignites</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US and Iran exchange fire for the first time in more than a month - Financial Times
+## The rise of physical AI: can robots save US manufacturing? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEdZOWE1aVdjQUFnSVpzMFZOOTE0MVFJdy1mdW9SX0xsS05nd0VXc0lhT1pHSlZvREM5RTc3VDJVMllQeHNMbktYSjZxdUEzUVotN1NZVU5kanhjd3RCWURicXRDel9GUjV4SkxEUDVkZnlSdFZTTkxNb0FzRHBhMG1rRmk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEdZOWE1aVdjQUFnSVpzMFZOOTE0MVFJdy1mdW9SX0xsS05nd0VXc0lhT1pHSlZvREM5RTc3VDJVMllQeHNMbktYSjZxdUEzUVotN1NZVU5kanhjd3RCWURicXRDel9GUjV4SkxEUDVkZnlSdFZTTkxNb0FzRHBhMG1rRmk?oc=5" target="_blank">US and Iran exchange fire for the first time in more than a month</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5" target="_blank">The rise of physical AI: can robots save US manufacturing?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Pharma stocks soar as investors seek AI alternatives - Financial Times
+## Japan’s bonds and yen under pressure after Kevin Warsh’s Jackson Hole speech - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhMbkNWMGdJbVdNWXRPV0Q4SnAxeXkyb2k5bHIwMjF5dC1nbjBweFIxZTNhX3NiMlY3UDY0NXFJMzcwN29kS0Y3TTV4UXBTODVwM1RzWDY1emU1WUUzRG9sVnU0Q2R4N0tuV3Zib2U4UEltTk1WNDg1N1I5NjI3MGxCOUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5" target="_blank">Pharma stocks soar as investors seek AI alternatives</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhMbkNWMGdJbVdNWXRPV0Q4SnAxeXkyb2k5bHIwMjF5dC1nbjBweFIxZTNhX3NiMlY3UDY0NXFJMzcwN29kS0Y3TTV4UXBTODVwM1RzWDY1emU1WUUzRG9sVnU0Q2R4N0tuV3Zib2U4UEltTk1WNDg1N1I5NjI3MGxCOUg?oc=5" target="_blank">Japan’s bonds and yen under pressure after Kevin Warsh’s Jackson Hole speech</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Grindr bets wealthy gay men will pay more to find the right match - Financial Times
+## LIV Golf prepares for imminent bankruptcy filing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUtYMVVqOW5jTFNHS0R1d3Rac0JhQmkxelRBcXhOODdKdXZ0MU10SFB5WXQ3UjI0QnBHeklfVTdKaEhRR1hxZjB4RTBBb1ZtTkN2SjY4Z2pMcFVPM3FhSWFTdGJxcVNZZUI2TVJxbW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkZtUmlkdzB6SXRUUlRmS1ljOV9rT3VwaWJvcmk3c24zbkg3N0RkZGVaUGZFdkY1SXRsakJKMERQUWE4Zy1HSExiMEtLaWF6MXFYeHhGYnZYaF9jQVhLbFpTNGlBa2tfb0d6NlU5YzdIQ0NHNXhCT3NyMVpadXJmZ09pQ2U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUtYMVVqOW5jTFNHS0R1d3Rac0JhQmkxelRBcXhOODdKdXZ0MU10SFB5WXQ3UjI0QnBHeklfVTdKaEhRR1hxZjB4RTBBb1ZtTkN2SjY4Z2pMcFVPM3FhSWFTdGJxcVNZZUI2TVJxbW8?oc=5" target="_blank">Grindr bets wealthy gay men will pay more to find the right match</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkZtUmlkdzB6SXRUUlRmS1ljOV9rT3VwaWJvcmk3c24zbkg3N0RkZGVaUGZFdkY1SXRsakJKMERQUWE4Zy1HSExiMEtLaWF6MXFYeHhGYnZYaF9jQVhLbFpTNGlBa2tfb0d6NlU5YzdIQ0NHNXhCT3NyMVpadXJmZ09pQ2U?oc=5" target="_blank">LIV Golf prepares for imminent bankruptcy filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund - Financial Times
+## Scramble for gas assets pushes dealmaking to decade high - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2ViZUNYYzFZT2VGdXhoUVQwOGlKZlN0TWVJMW9GZHJINzczYy1jWHlEMmViMkxQZWktUEVBYXFsY3QxMlZOVkYtZ3ZsRjIxLU41eU1md0Jpc0xYenlVRnFKYjlnNGtXWlRaa0tyVGtpMzVXUlVYbjBKbzM3aDFMZ2MxdWM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFRYQ25xalZsQURRbXk3UzI0TmhnN2twRldndEVoUW53X2txcDY3MUd3bE1Pb2xGNVhQUUNzVG1ROWk4dndySGhjYk1IX1RJWWY4SFNzRE1FczZxRHhSdWtRRzlYUk1YaGltUFdmR2ppMG9heUNGbWs1eGFsb0dxWUVEM2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2ViZUNYYzFZT2VGdXhoUVQwOGlKZlN0TWVJMW9GZHJINzczYy1jWHlEMmViMkxQZWktUEVBYXFsY3QxMlZOVkYtZ3ZsRjIxLU41eU1md0Jpc0xYenlVRnFKYjlnNGtXWlRaa0tyVGtpMzVXUlVYbjBKbzM3aDFMZ2MxdWM?oc=5" target="_blank">Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFRYQ25xalZsQURRbXk3UzI0TmhnN2twRldndEVoUW53X2txcDY3MUd3bE1Pb2xGNVhQUUNzVG1ROWk4dndySGhjYk1IX1RJWWY4SFNzRE1FczZxRHhSdWtRRzlYUk1YaGltUFdmR2ppMG9heUNGbWs1eGFsb0dxWUVEM2c?oc=5" target="_blank">Scramble for gas assets pushes dealmaking to decade high</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters
+## No fairytale ending, but Messi leaves defining legacy for Argentina - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5" target="_blank">Trump says Iran's Kharg is being 'blown to smithereens', but gives no details</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5" target="_blank">No fairytale ending, but Messi leaves defining legacy for Argentina</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says - Reuters
+## India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTVSMGtMQjc2LVJlNXM3RUVQQ0hSSmtoSzhqUHc1VEREdVZaX0xPMFdwZ3lNc3B0MHp6Ui1jNi1wLUx5Y29zMHBDZDdQVWlWR3BCTVpMWE44ck1CWlBOdExSZUhrdEN3Wk5YdEJ3LUhkMENJSUVzek41VnRLbzN2RHdadHpUaXFOSlhEUmp1TnhXeVFCd3AxTHc0TW84cDhEU2NFbzZydnpPQkNONnRDc0haNDI4Q0xheW0zTElmSWJaNzBKYmNFckRENUQ5ZkJ5U0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTVSMGtMQjc2LVJlNXM3RUVQQ0hSSmtoSzhqUHc1VEREdVZaX0xPMFdwZ3lNc3B0MHp6Ui1jNi1wLUx5Y29zMHBDZDdQVWlWR3BCTVpMWE44ck1CWlBOdExSZUhrdEN3Wk5YdEJ3LUhkMENJSUVzek41VnRLbzN2RHdadHpUaXFOSlhEUmp1TnhXeVFCd3AxTHc0TW84cDhEU2NFbzZydnpPQkNONnRDc0haNDI4Q0xheW0zTElmSWJaNzBKYmNFckRENUQ5ZkJ5U0E?oc=5" target="_blank">NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5" target="_blank">India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters
+## Kalshi permanently bans George Santos over State of the Union bets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQOC1XV3BkUFBqTkhua2EwT05ZTDhVU1AxcEJBbmxpZnltZUtXZXRHS2JQeWtjcktzYlVmTkx3dFNjZW1HRENueUxEZjA4MkRLZDYzMjlvWndkNjZfQXN6SFgwenlJNVNhSEtITmc5RVNRTkdfY3FUTkxwR2pKS1MyRjdBdkZLSmhobk5PTHRfNHFlTG5ROTZjcFgwZnpjTlMyX1hiYnFjMWVzbXlKeU9zdkVR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5" target="_blank">Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQOC1XV3BkUFBqTkhua2EwT05ZTDhVU1AxcEJBbmxpZnltZUtXZXRHS2JQeWtjcktzYlVmTkx3dFNjZW1HRENueUxEZjA4MkRLZDYzMjlvWndkNjZfQXN6SFgwenlJNVNhSEtITmc5RVNRTkdfY3FUTkxwR2pKS1MyRjdBdkZLSmhobk5PTHRfNHFlTG5ROTZjcFgwZnpjTlMyX1hiYnFjMWVzbXlKeU9zdkVR?oc=5" target="_blank">Kalshi permanently bans George Santos over State of the Union bets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran's IRGC says it launched attack on two US bases in Jordan - Reuters
+## Argentina's Messi ends international career - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOclJRRzlZV2lpOFlsSGdGcE1fUXVlel9CRndnX1NoM3lHcXkya2JMMWdrTEhUcnJyTHY0WDBqeFVoRzJmdEw5TlFXSGY1SVd1NXJERFdHS0IzQkhtRTdNTlJOMlp3RjgwYVVFYjY3NnV6d1c5cEt0UlVmaDJOdFBlT1ZRc0RpTVRVSkliRkU0SWZGYXZFa1JJdzNaOGxqVEFkX0FuV0l5WUNoaEFO?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOclJRRzlZV2lpOFlsSGdGcE1fUXVlel9CRndnX1NoM3lHcXkya2JMMWdrTEhUcnJyTHY0WDBqeFVoRzJmdEw5TlFXSGY1SVd1NXJERFdHS0IzQkhtRTdNTlJOMlp3RjgwYVVFYjY3NnV6d1c5cEt0UlVmaDJOdFBlT1ZRc0RpTVRVSkliRkU0SWZGYXZFa1JJdzNaOGxqVEFkX0FuV0l5WUNoaEFO?oc=5" target="_blank">Iran's IRGC says it launched attack on two US bases in Jordan</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5" target="_blank">Argentina's Messi ends international career</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil jumps more than 2% after US attack on Iran's Larak island - Reuters
+## Trump was sending message to Iran with Kharg Island post, says Vance - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPeElJSjJGWk5EandMUHVfb3J5dmhzdzh2eVNWQjdZYnFPaGFzMmNLX2N1c21TQzFtb0tfeTRhTlBJMnlUVThxR1FqNXg2Q0pTanRSMnVlY0s5RDNqcHhqVVE3YjVrTnlTWGVXd3hERnc0N0lsdmJLcEM2Yk5EUnBKSnI4UUZKeDkwY2ZFVm1aRFJYRG8yR3hRV0RzZFhucUNzdnNjcTJGN3lPdVdPQXVwYmVOUHdzS01zRVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5" target="_blank">Oil jumps more than 2% after US attack on Iran's Larak island</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPeElJSjJGWk5EandMUHVfb3J5dmhzdzh2eVNWQjdZYnFPaGFzMmNLX2N1c21TQzFtb0tfeTRhTlBJMnlUVThxR1FqNXg2Q0pTanRSMnVlY0s5RDNqcHhqVVE3YjVrTnlTWGVXd3hERnc0N0lsdmJLcEM2Yk5EUnBKSnI4UUZKeDkwY2ZFVm1aRFJYRG8yR3hRV0RzZFhucUNzdnNjcTJGN3lPdVdPQXVwYmVOUHdzS01zRVE?oc=5" target="_blank">Trump was sending message to Iran with Kharg Island post, says Vance</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
