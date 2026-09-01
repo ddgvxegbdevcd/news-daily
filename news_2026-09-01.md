@@ -1,21 +1,48 @@
 # 每日财经新闻
 
-更新时间：2026-09-01 04:33:01
+更新时间：2026-09-01 16:22:58
 
-## Japan 10-Year Bond Sale Passes Smoothly After Yield Hits 3%
+## Bond Market Selloff: Are Surging Yields a Threat to the Global Stock Rally?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-01/japan-10-year-bond-sale-demand-in-line-with-12-month-average-mti4bzbk
+链接：https://www.bloomberg.com/news/articles/2026-09-01/bond-market-selloff-are-surging-yields-a-threat-to-the-global-stock-rally
 
 正文长度：0
 
-摘要：A sale of Japan’s 10-year government debt passed smoothly after the yield on the key maturity hit the milestone of 3% and investors positioned for an interest rate hike.
+摘要：In equity markets, the myth goes that the only way is up. That perception has gained traction as global stock prices have largely ignored the selloff in bond markets. Yields on long-dated government debt have surged to near two-decade highs as investors worry about whether inflation and fiscal deficits can be tamed, and as sovereign bonds compete with an AI-fueled corporate borrowing boom.
 
 
 ---
 
-## Fed Rate-Hike Bets Sink Global Bonds as Oil Gains: Markets Wrap
+## Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-01/oil-extends-advance-on-us-iran-escalation-video
+
+正文长度：0
+
+摘要：Oil rose for a second session as fresh hostilities between the US and Iran raised concerns about prolonged disruptions to energy flows through the Strait of Hormuz, where crude carriers were hit by projectiles.
+Leslie Palti-Guzman, Founder at Energy Vista, discusses the outlook for global energy as conflict in the Middle East continues to disrupt flow. (Source: Bloomberg)
+
+
+---
+
+## Peru Inflation Just Tops Estimate to Hit Fastest Since 2023
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-01/peru-inflation-jumps-more-than-expected-to-fastest-since-2023
+
+正文长度：0
+
+摘要：Inflation in Peru’s capital accelerated slightly more than expected in August, hitting the fastest pace in almost three years, pressured by housing and utilities including electricity and gas.
+
+
+---
+
+## Stocks Fall as Oil Jump Keeps Bond Yields Elevated: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +50,181 @@
 
 正文长度：0
 
-摘要：Global bonds fell, pushing yields to multi-decade highs, as concern over quicker inflation boosted bets on a Federal Reserve interest-rate hike this month. Oil climbed as geopolitical tensions flared.
+摘要：A fresh bout of bond volatility left traders unwilling to make riskier bets, with stocks falling on worries that an oil rally will fuel inflation and force the Federal Reserve to lift rates.
 
 
 ---
 
-## Japan’s 10-Year Bond Yield Hits 3% for First Time Since 1996
+## Uruguay acelera desdolarización con nuevos fondos Money Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-01/japan-s-10-year-bond-yield-hits-3-for-first-time-since-1996-mti4e8ui
+链接：https://www.bloomberg.com/news/articles/2026-09-01/uruguay-acelera-desdolarizacion-con-nuevos-fondos-money-market-mtiulw5w
 
 正文长度：0
 
-摘要：Japan’s 10-year government bond yield touched 3% for the first time this century, an important milestone for a debt market that is returning to normality after benchmark borrowing costs languished near zero for years.
+摘要：Los inversores en Uruguay están colocando una mayor parte de su patrimonio en fondos Money Market y bonos del gobierno en pesos, lo que da un mayor impulso a los esfuerzos de este país sudamericano, considerado un refugio seguro, por reducir su dependencia del dólar.
 
 
 ---
 
-## Shein Shares Plunge in HK Debut After Rocky Road to IPO
+## Toyota's hybrid RAV4 is in demand as dealers wait for more supply
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/videos/2026-09-01/shein-shares-plunge-in-hk-debut-after-rocky-road-to-ipo-video
+链接：https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html
 
-正文长度：0
+正文长度：2874
 
-摘要：Shein struggled in its Hong Kong debut, with shares falling as much as 10% to HK$43.72 in early trading before paring losses. Bloomberg's Winnie Hsu reports from the Hong Kong Stock Exchange. (Source: Bloomberg)
+摘要：When Toyota announced the new version of its SUV, it said the RAV4 would only be available as a hybrid and that production would be limited at first.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Toyota Motor has a rare problem for an automaker: There is so much demand for its new RAV4 and the inventory is so limited that dealers only have a few days' supply.
+"It is really unusual to see cars fly off the dealers' lots like this," said Jessica Caldwell, head of product insight at Edmunds. "It is not something that exists in that very practical, very suburban, small-midsize crossover segment."
+At Colonial Toyota in Milford, Connecticut, the lack of RAV4s has left owner Bobby Crabtree with several open spots for new vehicles at his dealership.
+"This lot can handle another 250 vehicles, so I am probably about a third full of that capacity," Crabtree said as he looked out at scores of new and used Toyotas.
+Not all of those open spaces would be filled with new RAV4s during normal times, but there certainly would be more, he said.
+Toyota's RAV4 has been a red-hot model over the past several years, with almost 480,000 sold in the U.S. last year. It was the third best-selling model in the country in 2025 behind the Ford F-150 and Chevrolet Silverado, two full-size pickups that have been top sellers for years, according to Cox Automotive.
+When Toyota announced it would be rolling out new versions of the RAV4, two things stood out. First, the crossover utility vehicle would only be sold as a hybrid. Second, production would be limited at first and then steadily increase. In other words, there would not be the normal allotment of new RAV4s at dealerships.
+That has not stopped buyers like Nancy and Ira Berman of Danbury, Connecticut. When they ordered their RAV4 in March, they knew they would be waiting a while before they got their new SUV.
+"The wait was a slight annoyance," said Nancy Berman. "It didn't stop us from going and doing this because we do have our other Toyotas to drive."
+Six months after placing their order, the Bermans will soon get their new RAV4.
+For Toyota, the shift to an all-hybrid RAV4 lineup comes as more buyers are pivoting to those types of cars due to gas prices that remain elevated. In 2026, more than 18% of the vehicles sold in the U.S. have been hybrids, according to J.D. Power, still well behind the 75% of vehicles with internal combustion engines but above the 7% of pure electric vehicles.
+With dealers unable to stock their lots with new RAV4s and customers being told they will have to wait weeks or perhaps even months for a vehicle, it raises the question of whether Toyota could lose sales. So far, Toyota's U.S. sales in 2026 are still up 0.3% through July. Given the appeal of the RAV4, Caldwell said the impact of dealers having a limited supply is likely limited.
+"There are other vehicles within the Toyota lineup that consumers can go to," Caldwell said. "Toyota has a lot of brand loyalty, people who buy a Toyota usually stay with Toyota for many years not just one vehicle purchase but several."
+
+</details>
 
 
 ---
 
-## India Stock Auction Needs Market Makers as Price Swings Persist
+## Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-01/india-stock-auction-needs-market-makers-as-price-swings-persist
+链接：https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html
 
-正文长度：0
+正文长度：7436
 
-摘要：India’s new closing system absorbed a record $4.2 billion of stock trades linked to MSCI Inc. index rebalancing on Monday. Yet the sharp price swings that have plagued it since launch persisted, underscoring a key challenge to its long-term success: the lack of market makers.
+摘要：Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> From a warehouse just north of Chicago, Sarah Potempa – celebrity hairstylist and CEO of the viral Beachwaver hair curling iron – keeps thousands of viewers hooked for hours selling products on TikTok live.
+This kind of livestream shopping, which has boomed in China over the past decade, is building momentum in the U.S. thanks to social media giant TikTok and live commerce platform Whatnot, which just reached a $20 billion valuation.
+Beachwaver did about $8,000 in sales during the first four hours of a TikTok livestream in late July, which CNBC sat in for. She auctioned off limited-edition curling irons as her teenage son DJed behind her; demoed hair care products; and promised viewers she would shave her brother-in-law's head live on camera if they sold 500 orders.
+It was one of hundreds of livestreamed shows that Beachwaver does each year. About a quarter of its $1 million in TikTok Shop sales so far in 2026 originated from livestreams, where the company hosts its own selling shows and works with affiliate creators on the popular social media app.
+Reminiscent of the QVC craze of the past few decades, livestream shopping puts consumers in front of hosts who sell products in real time.
+Now, QVC is live on TikTok for more than 200 hours per week across seven channels, according to the company, as it prioritizes digital after recently emerging from bankruptcy.
+"QVC is a great example of a large established retailer that might have been seen as a competitor to TikTok shop … but in fact they have turned out to be a really successful merchant," said Patrick Nommensen, president of strategic initiatives for TikTok Shop in the Americas.
+Beachwaver got its start on QVC. TikTok and Whatnot have reinvented the wheel.
+"Nobody is saying, OK, you have 10 minutes at 7 p.m. and get ready and here's your 10 minutes and you're done," said Potempa. "You definitely need to be on longer on a digital platform, but you really are more in control of the revenue."
+Following in China's footsteps
+The U.S. live shopping industry is forecast to reach nearly $20 billion in sales in 2026, about 35% higher year over year, according to eMarketer industry estimates.
+Still, it's a far cry from the rapid growth that live shopping experienced in China.
+Alibaba introduced Taobao Live in China in 2016. Within five years, the market crossed $50 billion, and it's projected to top $1.1 trillion in 2026, according to eMarketer.
+Live shopping has been increasingly integrated into Chinese "super apps," which are utilized by millions of users and combine features like social media and messaging in the case of WeChat or artificial intelligence assistance, food delivery and travel booking on Alibaba's Qwen.
+"[Chinese consumers] still like stores, but they use the livestream part of the digital experience as the entertainment, the engagement, the inspiration," said Globaldata managing director Neil Saunders. "In the U.S., we've tended to rely traditionally more on stores to fulfill that role."
+Saunders said that's changing now as younger consumers lean more into live commerce to discover products.
+U.S. live shopping winners
+TikTok Shop launched in 2023. The company shared exclusively with CNBC that live shopping sales more than doubled in the first half of 2026 compared with the same time frame in 2025.
+The number of live shopping sessions increased by more than 60% during the same period, TikTok said, and total live hours grew by more than 80%.
+Founded in 2019, Whatnot built its audience on novelties and collectibles. It's grown rapidly over the past year, doubling its valuation since October. Whatnot ranked No. 8 on this year's CNBC Disruptor 50 list, which identifies the most promising venture-backed companies.
+Whatnot says it's the largest live shopping platform in the U.S. but declined to share its domestic sales figures. The company told CNBC that a majority of the $8 billion in global sales it reported for 2025 were in the U.S.
+"You can have [5,000], 10,000 people on Whatnot or TikTok watching your show at one time," said Eric Pagan, who sells for brands on both platforms, during an interview in mid-August. "I did a show on TikTok this weekend that was well into six figures … I think what brands are not aware of yet is that that exists."
+Whatnot's core focus is auctions, where viewers can bid on products in real time. TikTok rolled out live auctions in January.
+"It feels like things are really, really clicking and live shopping is becoming a bit more mainstream," said Whatnot's chief revenue officer, Armand Wilson. "In year one, it was largely all collectibles. … Now pretty much anyone can download Whatnot and find something for them."
+Legacy online marketplaces like Amazon, Walmart and eBay also have native platforms for sellers to host live shopping streams, though those platforms aren't as inherently video-first as social media sites.
+Amazon and Walmart declined to comment about their live shopping businesses, while a representative for eBay Live described the offering as making shopping "more human." All three companies declined to share livestream sales figures with CNBC.
+Mark Yuan, a former business development lead for eBay's live shopping division and now the owner of e-commerce consulting company And Luxe, said legacy marketplaces benefit from the consumer trust that comes with how long they have been around.
+"Those are the things you can't buy with money, but unfortunately, what gives them the advantage also might be their barriers as well," he said. "Structurally it's very hard to transform themselves into a discovery-first or content-first [platform]."
+The future of shopping?
+Where newer entrants are succeeding is in creating forums for like-minded consumers.
+Whatnot, which is especially popular for collectibles, says it prioritizes community and has seen success in areas like Funko Pop figurines, Pokemon cards, sneakers and fashion.
+"Going into a community, really deeply understanding their problems and building a product around them has been the ethos that I think has gotten us to where we are today and what really differentiates us" said Wilson.
+Pagan, the livestream host, said without the trust of your viewers, "there is no point in even being live."
+"Those people are my friends," he added. "I believe that they know things about me that a normal person on the street wouldn't know. And we had those conversations on a livestream."
+Marshal Cohen, chief retail analyst at Circana, said livestream shopping helps to bridge the gap between e-commerce and traditional retail.
+"You can't touch and feel the product, but you can hear from others what they think about it," said Cohen. "[Live shopping] bridges that shortfall of the inability to touch and feel. And that's always been online's biggest challenge."
+But the platforms have their own set of challenges. Whatnot and TikTok have had to contend with issues of counterfeit and stolen goods.
+For the sellers, leveraging a large platform comes at a cost: Whatnot takes a commission fee of between 4% and 8% of sales depending on the product, and TikTok takes 6% — plus additional payment processing fees.
+And, the growing popularity of live shopping has made it harder to compete for eyeballs.
+"The biggest challenge really is visibility," said Globaldata's Saunders. "You have to make sure that your feed is aligned with the algorithm and that it's putting you in front of the right people."
+
+</details>
+
+
+---
+
+## How one of the largest investors in student housing is playing this school year
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/01/university-student-housing-investor.html
+
+正文长度：3868
+
+摘要：Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
+Students are heading back to school across the nation and leasing student housing at a faster clip than they were last year.
+For investors, that creates new opportunities, but one leader in the field cautions that the differences in market fundamentals are widening across universities and regional markets. Some types of universities are seeing much higher occupancies and lagging construction, while others are overbuilt with falling demand.
+On a national level, pre-leasing across the Yardi 200 — a curated set of the most important student housing markets, representing 90% of the institutional space — reached 89.1% in July ahead of fall move-ins. That is up from 88.1% in July 2025 but still below August 2025 levels of 89.9%.
+According to Yardi, 117 of the 200 markets surveyed in July were at or above their year-earlier pre-leasing levels, but there was significant variation across different markets.
+"New supply is increasingly concentrated in large markets, dragging down performance at schools with the most beds and weighing more heavily on national metrics," wrote Tyson Huebner, director of research at Yardi Matrix, in the report.
+Harrison Street Asset Management is one of the largest investors and developers in the sector, with more than $24 billion allocated across 432 student housing properties since its launch in 2005. Its investments total more than 238,000 beds across 200 university markets in North America and Europe.
+"Our conviction in student housing is really high, but our conviction in every student housing market is not," said Mike Gordon, global chief investment officer for real estate at Harrison Street. "Frankly, I think that creates a really interesting investment environment."
+Gordon said there are a lot of investors trying to get access to the sector, but only a limited number of managers with long-term experience in it. Specialization, he said, is more vital than ever, because the differences between university markets have grown quickly due to funding cuts, enrollment and specific student demand.
+"Enrollment, applications, selectivity, research funding, student outcomes are increasingly concentrated at many of the leading institutions. Michigan, UVA, UNC, a number of the large public Power Four universities," said Gordon, referring to the schools that belong to the four major athletic conferences. "Prospective students continue to value strong graduation incomes, alumni earnings, research capabilities, and many of the university markets that we focus on are really operating at or above 95% occupancy."
+He noted that housing supply has lagged enrollment growth at the universities in a number of these markets, specifically citing Virginia Tech, Auburn University and Penn State.
+"I think about the best university towns almost like factory towns where the factory is never closing. The university is the factory, and what it produces is intellectual capital. It attracts students, obviously, but also professors and researchers, entrepreneurs, companies that want to be close to that intellectual capital, and everyone needs somewhere to live," Gordon said.
+Harrison Street acquires and develops assets on its own and through public-private partnerships with state universities. It has also been selling some of its assets given rising demand in certain markets.
+Earlier this year, Harrison Street sold a 12-property student housing portfolio for $910 million, one of the largest student housing portfolio dispositions in recent years.
+
+</details>
+
+
+---
+
+## OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
+
+正文长度：3746
+
+摘要：Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Logistics company OneRail is launching a platform using Nvidia's artificial intelligence software to help retailers make faster decisions on the most efficient delivery options at scale, CNBC has learned.
+The new platform, called OmniStar, allows retailers to use AI to evaluate all of their delivery options and identify the best one for each individual order, using OneRail's proprietary data.
+The last-mile delivery company told CNBC the new platform will allow smaller companies to deliver at scale and improve margins to compete with the retail giants of the world, including Amazon and Walmart.
+As e-commerce grows, retailers have had to keep up with surging demand and invest in nimble supply chains to optimize their efficiency. But those manual processes are often fragmented across the retailer and the logistics businesses.
+"If you don't have the ability to make lightning-fast decisions, you're giving up margin," OneRail CEO Bill Catania told CNBC. "Last-mile fulfillment is expensive."
+Where choosing the best routing for a package may have previously taken 20 minutes, OneRail said its platform can do it in 2½ minutes leveraging AI. That time saved means retailers can operate larger, faster and more precise supply chains, Catania said.
+"That's where the artificial intelligence comes in. It's making those kinds of decisions extremely rapidly, and so to do that, that's where the Nvidia hardware and the software comes in and really makes this thing work at scale," said David Daeschler, the head of AI at OneRail.
+Daeschler said the company began partnering with Nvidia three years ago to explore ways to incorporate AI into the logistics process.
+"The result is a real-time decision layer that can route an order to the right carrier and delivery mode at the right cost, rather than relying on static rules or manual planning," said Azita Martin, Nvidia's vice president and general manager of retail and consumer packaged goods.
+Catania said OneRail's proprietary data, which includes a network of more than 12 million drivers and over 1,000 logistics partners, is being used to train the AI on the most efficient routes and delivery options.
+"It's for the benefit of them and us: We operate more efficiently. They save money and provide a better customer experience," Daeschler said.
+The company told CNBC its platform has already been deployed with some customers, including a large tire distributor that saw OmniStar save the company a run rate of $40 million over three years because it's able to use its resources more efficiently.
+It's also estimating the platform will surpass $6 billion in gross merchandise volume in the fourth quarter.
+Nvidia's Martin said the platform will allow retailers to make much faster decisions.
+"For retailers, the bigger value is the ability to evaluate more scenarios, respond more quickly as conditions change and improve delivery economics without sacrificing service," Martin said.
+OneRail said the platform could help smaller retailers compete more effectively on delivery speed and efficiency.
+OneRail announced a partnership earlier this year with FedEx to bring same-day delivery services to all of its customers, joining a rush of retailers trying to offer their customers the best and fastest delivery options. That partnership will now allow OneRail to better work with smaller businesses as well, Catania added.
+"We're kind of doing for delivery what ChatGPT and Anthropic have done for words – it all works the same way," Daeschler said. "They give people more access to knowledge. We're giving people access to being able to do delivery in a way that's affordable. … That's all done based on original models, training on data that we have, just like words on the internet."
+
+</details>
 
 
 ---
@@ -95,180 +257,7 @@ Nationally, prices in June were up 1.5% year over year, up from the 1.2% rise in
 
 ---
 
-## Trump strikes new drug pricing deals with nine midsized drugmakers
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html
-
-正文长度：3630
-
-摘要：The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> President Donald Trump on Monday said he struck new drug pricing deals with nine drugmakers to voluntarily sell their medications for less, building on his push to link the nation's pharmaceutical prices to cheaper ones abroad.
-The drugmakers signing the new deals are Alcon, Astellas Pharma, BeOne Medicines, BridgeBio, CSL, Kyowa Kirin, Sun Pharma, Teva Pharmaceuticals and UCB, according to the White House. Shares of most of those companies closed relatively flat on Monday, while Teva and BeOne fell around 1%.
-Under the new deals, the nine companies agreed to provide discounts on outpatient drugs to every state Medicaid program so that prices states pay align with what companies charge in foreign countries. The agreements impact drugs that treat several chronic and rare diseases, such as hemophilia, liver disease, skin conditions and certain forms of cancer.
-The companies committed to invest at least $19.6 billion collectively in U.S. manufacturing in the near term, according to the White House.
-Astellas, Sun Pharma, Teva and UCB also agreed to donate active pharmaceutical ingredients for key products to the federal government's strategic reserve of those ingredients, which aims to reduce reliance on foreign supply and ensure the U.S. is prepared in the event of an emergency. For example, UCB will contribute 163 tons of levetiracetam, an anticonvulsant used to control and prevent certain types of seizures.
-The new agreements bring the Trump administration's total number of drug pricing deals to 26 companies, which the president said represents 90% of the domestic pharmaceutical market. He said the other 10% of the industry is "also coming in" and "have no choice."
-Over the past year, the Trump administration reached drug pricing deals with 17 other pharmaceutical companies, including Pfizer, Eli Lilly and Novo Nordisk, as part of its "most favored nation" policy. Trump signed an executive order in May 2025 to revive that policy, calling for prices to be increased outside of the U.S. and to "end global freeloading."
-The deals add to the White House's efforts to spotlight healthcare affordability ahead of the midterm elections.
-The "most favored nation" deals that have been signed with the Trump administration have already impacted the commercial strategies, bottom lines and manufacturing pipelines of major pharmaceutical companies.
-To insulate themselves from future tariff threats, drugmakers are spending billions of dollars to bring manufacturing capabilities back to the U.S. Companies are also drastically expanding direct-to-consumer channels for their products, including by offering their medicines on the president's TrumpRx portal. Lower prices in the U.S. are weighing on bottom lines, with manufacturers like Novo Nordisk saying that it will take time for prescription volumes to offset the revenue dip.
-U.S. prescription drug prices on average are nearly three times higher than they are overseas, according to a 2024 study by Rand Corp. Prices for branded drugs were more than four times higher, the report found.
-The trade association PhRMA, which represents many major pharma companies, has previously said that most-favored nation pricing isn't the best way to lower drug costs for Americans and instead blamed pharmacy benefit managers for the price disparity.
-The U.S. is the single most important market for many drugmakers, regardless of their home country. Despite being based across the Atlantic, European pharma companies are heavily exposed to the U.S. market, with half of the 10 largest companies on the continent generating a majority of their sales in the U.S.
-
-</details>
-
-
----
-
-## Manhattan's luxury rental market is booming, with units reaching $100,000 a month
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html
-
-正文长度：2844
-
-摘要：New York City brokers said they've seen a surge in the number of wealthy renters, which is driving Manhattan rents to new records.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-A surge in wealthy renters is driving Manhattan rents to new records, according to brokers.
-Median rents in Manhattan reached an all-time high of $5,000 a month in July, according to the Real Deal Report, authored by Jonathan Miller, director of markets for Street Matrix. The average rent jumped 15% compared with a year ago, to $6,306.
-Wealthy renters are driving most of the growth. The average price for luxury rentals — the top 10% of the market — jumped 35% over the past year, to $17,464 a month, according to the Real Deal Report. Luxury rentals are now fetching an average of $121 per square foot.
-Typically, renters are those who can't yet afford to buy. In today's market, ultra-wealthy New Yorkers who have plenty of cash to buy are choosing to rent. A record low supply of high-end properties for sale has led many to wait in a rental until they find their dream home. Others are spooked by falling or flat prices for Manhattan resales, which make apartments less attractive as investments.
-"These are people who can easily afford $20 million, $50 million trophy homes," said Laura Klein of Bespoke Real Estate, who recently brokered a rental for a penthouse in Chelsea for $177,000 a month. "There is so little inventory. And they don't want to compromise."
-Other brokers said New York's new pied-a-terre tax on high-value second homes has caused many wealthy would-be buyers to rent instead.
-"The sharp increase in rentals following the pied-a-terre tax announcement suggests that some prospective purchasers may already be choosing flexibility over ownership," said Pam Liebman, president and CEO of The Corcoran Group.
-The rush of wealthy New Yorkers into the rental market has created a new market for mega-rentals. The number of apartments renting for more than $50,000 a month so far this year has more than doubled compared with 2025, while the number renting for more than $100,000 a month is up sevenfold, according to The Real Deal.
-Klein said none of the ultra-high-end rentals are publicly listed and are instead offered quietly to wealthy clients through a small network of high-end brokers. She currently has a rental for $175,000 a month in Tribeca, as well as one for $95,000 a month on the Upper East Side.
-"The $100,000-a-month number is almost normal now," Klein said. "These are renters who want turnkey, unique, trophy properties."
-She said owners of the luxury rentals don't need the income but are opportunistic given demand.
-"They say to me, 'If the number is right, I'll rent.' These are properties that if they were on the market would be listed for tens of millions" of dollars, she said.
-
-</details>
-
-
----
-
-## The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html
-
-正文长度：6855
-
-摘要：Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Tariff refunds have muddied retailers' earnings reports in recent weeks as Wall Street struggles to parse through the confusion.
-Most major retailers applied for refunds after the Supreme Court ruled in February that the International Emergency Economic Powers Act did not authorize President Donald Trump to impose the tariffs. That money began flowing in during the second quarter, as retailers saw major boosts to their profits.
-For the most part, those returns have helped companies offset cost inflation and prop up margins, especially as they face cost pressures like the rising price of fuel. But the way those retailers have reported those refunds and incorporated them into their earnings has differed greatly, leading to confusion about how to read the strength of their results and their future outlooks.
-"These trails aren't always clean in terms of finding the right way to apply, in a fair sense, the rebate to prices," Bryan Eshelman, a managing director in the retail practice at consulting firm AlixPartners, told CNBC.
-Eshelman said there are two factors at play with how retailers handled the refunds. Determining where the extra money goes depends largely on the retailer's price position in the market, where more value-driven companies are likely to apply funds to keep prices lower and "proclaim that to the marketplace," he said.
-The tariff refund situation has been further complicated for companies depending on whether they are the importer of record for the products, which determines who gets the refunds, Eshelman said. Much of what's sold in stores isn't necessarily imported by the retailer, or U.S. manufacturers may be the ones receiving rebates for raw materials.
-"There's also just the reality of record-keeping internal to retailers and whether or not they easily have a way to attribute the rebate directly back to a product that was already sold," he said. "It's not a simple task."
-Price cuts
-Some retailers chose to explicitly say they were dedicating their extra cash to lowering prices on products for consumers.
-Home Depot saw its gross margin increase 0.3% in its fiscal second quarter compared with the prior year, driven by its tariff refund. The company said it received $730 million in tariff refunds during the period, using roughly $685 million of that money to reduce the cost of goods sold.
-Chief Financial Officer Richard McPhail said on a call with analysts that those funds represent "the vast majority" of what the company was expecting to receive.
-Walmart took a similar route. CFO John David Rainey told CNBC last week that the company was eligible to receive roughly $2.9 billion in tariff refunds and has yet to get back just under $100 million of that total. Its gross profit for Walmart U.S. grew 1.6% from the boost.
-He told CNBC that the company plans to use those funds to lower prices for consumers, and shoppers and investors will see the impact during its current fiscal third quarter.
-TJX Cos. also said it used its $331 million in tariff refunds to benefit its second-quarter cost of sales.
-Eshelman said low-price operators likely have a "strategic reason" to apply refunds to prices, though enticing consumers with value has become harder in an increasingly crowded retail space.
-"At the end of the day, a product is worth what somebody's willing to pay for it, and there is a lot of choice in this marketplace," Eshelman said.
-Margin boosts
-Lowe's, on the other hand, said its tariff refund gave it an 11-cent boost to its earnings per share for the second quarter. CEO Marvin Ellison told CNBC the company received roughly $80 million in repayments and did not plan to use tariff dollars to lower prices, unlike some of its competitors.
-"We feel strongly that we want to deliver strong profitability for our shareholders and make sure that we don't follow any aggressive pricing action," he said.
-Ellison added on a call with analysts that the company took "the right planned steps to drive profitability" with its windfall. He said as the company moves into the second half of the year, Lowe's will "think first about how we're going to share those with the customer."
-Target also did not explicitly say whether the company was using its tariff refunds to cut prices, though the company said it lowered prices on more than 10,000 items in the second quarter. Still, the retailer said tariff refunds gave it a $752 million boost to net earnings, or $1.65 per share, and a $994 million pretax benefit to its second-quarter gross margin and operating income.
-"We have, and will continue, to invest in price to ensure our guests are getting tremendous value each and every time they visit us at Target," CFO Jim Lee said on a call with reporters.
-Kohl's CEO Michael Bender told CNBC on Wednesday that the company put $100 million of the refunds it has received into its gross margin in the second quarter and plans to use the rest to invest in deeper inventory.
-"All of [the uses of the repayments] have to have a return, so we're not just going to be throwing money out and saying, 'I hope this works,' but we're very disciplined about it," Bender said.
-AlixPartners' Eshelman said the one-time tariff boosts are also going to have implications for future quarters, especially as retailers forecast a higher-than-expected tariff rate and Trump's tariff policies change by the day.
-Wall Street and Main Street
-The extra boosts to earnings this quarter meant that comparisons to last year's results were skewed in retailers' favor in many cases.
-But on the other side of that coin, those windfalls will also set a higher bar for comparisons next year due to the inflated numbers this season.
-"It's an unfair positive comparison to last year's quarter, and it's going to be an unfair negative comparison to next year's quarter," Eshelman said. "I think investors need to just, where it's material, make that adjustment in their expectations."
-For shoppers, Eshelman said it's likely consumers won't be able to quantify if the price cuts are truly proportionate to the refunds that the retailers received. Inflationary pressures like rising fuel prices, among other factors, can also affect those prices.
-"How does a consumer know what percentage of a price increase was tariff-related versus diesel or fuel related?" he said. "How does a consumer know that the price went down commensurate with the level of rebate?"
-Still, a silver lining from the tariff situation may be that retailers are catching on to needing to have more diverse and agile supply chains.
-And at the end of the day, Eshelman said, the tariff calculus comes down to how retailers want their core customer to perceive them.
-"To me, a lot of this is marketing," he said. "It's trying to create a price perception with consumers, which is an important part of any retailer's job, and I find it hard to untangle that."
-
-</details>
-
-
----
-
-## Goodyear burning rubber and cash as turnaround plan continues
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html
-
-正文长度：7720
-
-摘要：The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — Goodyear Tire & Rubber CEO Mark Stewart sits in the vehicle bay of a tire shop where the company is launching a new retail experience for customers.
-There's a freshly painted black facade on the revamped Detroit store, with the words "Motor City" added in white flanking Goodyear's winged foot logo. It's dressed up for a private event tied to a nearby annual car festival called the Woodward Dream Cruise.
-But despite the stylish touches, it's still a tire shop. The smell of rubber and oil remains in the air, and the sound of workers changing tires combines with music from a DJ inside the shop's waiting room.
-The scene symbolizes Stewart's ongoing "Goodyear Forward" turnaround plan. He's trying to make tires — a historically dirty business — more attractive to investors and friendlier for consumers.
-"We have made so much progress, and when you think about it from the standpoint of the Goodyear Forward program, it was really to get our feet back on the ground towards being the iconic company that we always were," Stewart, wearing an unbuttoned navy blue Goodyear technician shirt, told CNBC during an interview at the shop.
-But while Goodyear is well known for burning rubber, it's also burning cash as it restructures, tries to refinance, and pays down years of debt.
-The company's capital expenditures were roughly $2 billion combined in 2024 and 2025, with expectations of $725 million this year. Its debt remained above $7 billion at the end of the second quarter.
-Goodyear's net loss was $453 million through the first half of the year, while its operating income was $131 million, or a 1.6% margin.
-Under the turnaround plan, Stewart wanted Goodyear to reach a 10% operating margin by the end of last year. Instead, that came in at 8.5% in the fourth quarter, and it's still an outstanding goal for the company to hit that mark.
-"We're working on getting to that double-digit margin, and we're working on meaningfully generating cash flow," Stewart said. "It's been a long time since Goodyear's done that. That we absolutely must do."
-The automotive veteran was named CEO of Goodyear after leaving Chrysler parent Stellantis in January 2024. Since then, shares of the company have fallen more than 50% despite Goodyear achieving many of the milestones he's set out to accomplish with the plan.
-Stewart doesn't make excuses for missing the targets, even though Goodyear's business, like many, has been impacted by tariffs, inflated raw material costs, and the expansion of cheaper Chinese products.
-"We still have a lot of geopolitical headwinds that we're working through … a lot of headwinds with raw material indexes and a bit of the hangover from the tariff environment," he said, adding that overseas manufacturers continue to have cost advantages compared to Goodyear.
-Goodyear's raw material costs are expected to be roughly flat year over year, but a $200 million headwind in the second half, largely due to higher commodity costs associated with the conflict in the Middle East, according to the company and Wall Street analysts.
-"Goodyear has faced many big challenges over the past few years, ranging from slower consumer (and commercial) demand, to rising raw material costs, to higher capital expenditures (capex), to low-priced Asian imports (into the U.S.), and, more recently, to trade and tariff legislation. It hasn't been easy for Goodyear," Argus analyst Bill Selesky said in an Aug. 17 investor note.
-Goodyear is rated a hold with a price target of $7.60, according to average analyst ratings compiled by FactSet. Its shares closed Friday at $6.35, down 27% this year.
-Goodyear Forward rolls on
-The Goodyear Forward turnaround strategy was initially expected to be a two-year plan that went through last year, but the CEO has continued it as he and his executive team map out what's next for the 128-year-old Akron, Ohio-based company.
-"At the right time, we will announce that," Stewart said. "We continue to press ahead to the next challenges and make sure we get the business in the right space."
-The Goodyear Forward plan had already been released when Stewart was named incoming CEO, but he has made it his own, including by adding cuts and cost savings. The turnaround plan has cut roughly $1.5 billion in annualized costs, according to the company.
-Part of Stewart's plan has been to move Goodyear more into the premium tire segment, including by selling off units such as its Dunlop brand. It also plans to launch more than 1,600 new products this year, most of which are in higher-end segments with bigger margins.
-The product restructuring comes as non-U.S. brands, especially Asia's Sumitomo and Yokohama, have been expanding globally with cheaper products in lower-end segments, according to Stewart.
-Similar to how Chinese automakers have grown outside their own country, tire manufacturers have also been turning to more exports, including the U.S.
-"We are not going to compete against a $6 or $10 converted tire. That's not who we are as Goodyear," Stewart said, referring to the manufacturing cost required to convert raw materials into a finished tire.
-Despite global challenges, Goodyear's Asia-Pacific region is a bright spot for the company. Its segment operating income for the second quarter was $63 million, with an operating margin of 12.7%.
-Its U.S. operations have been a main drag on the company's financials. Stewart is trying to turn that around as consumer demand slows.
-The company said its cash burn is expected to continue into 2027 but moderate as the announced closure next year of a plant in Fayetteville, North Carolina, is expected to improve its Americas segment operating income by $270 million annually.
-"We had to take a very difficult decision, but a necessary one to announce the closure of our Fayetteville, North Carolina facility. We absolutely didn't take that lightly, but we just didn't have a pathway to be competitive out of that facility," Stewart said.
-The Goodyear Forward plan was prompted by activist investor Elliott Investment Management revealing a stake in the company in 2023. A spokesperson for Elliott, which supported three new Goodyear board members, declined to comment on the company or the firm's current ownership status.
-Goodyear blimps flying high
-Part of the Goodyear Forward strategy is to increase focus on marketing and advertising to connect with customers to reinforce the brand.
-A large part of that — both physically and financially — comes from the company's iconic Goodyear blimps, which have flown as giant advertisements for more than a century.
-"The blimp team and the marketing team have really embraced it. So we do a lot of activation around the blimp to literally sell tires," Stewart said. "When the blimp media marketing has their hat on, it's always in context of 'How do we tie this to the tires?'"
-Stewart said Goodyear has leaned into the promotion, using social media platforms to tout its aircraft — and their connection to tires — and launching "buy to fly" campaigns in which tire retailers and consumers can win flights aboard its blimps.
-The company was showing off its revamped store alongside a Detroit event that attracts hundreds of thousands of car enthusiasts along a 16-mile stretch annually. To celebrate and get its advertising in front of tire buyers, it held a rare double-blimp appearance, according to the company. It also featured a collection of smaller "mini blimps."
-"We've always made the tires worth bragging about," Stewart said. "We're just reminding people now, and that ties into our marketing and advertising as well."
-CORRECTION: An earlier version of this story incorrectly said two Japanese companies, Sumitomo and Yokohama, are based in China.
-
-</details>
-
-
----
-
-## Japan’s benchmark bond yield hits 3% for first time since 1996 - Financial Times
+## Global bond sell-off deepens amid inflation fears - Financial Times
 
 来源：金融时报
 
@@ -276,124 +265,124 @@ CORRECTION: An earlier version of this story incorrectly said two Japanese compa
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5" target="_blank">Japan’s benchmark bond yield hits 3% for first time since 1996</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5" target="_blank">Global bond sell-off deepens amid inflation fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Japan’s bonds and yen under pressure after Kevin Warsh’s Jackson Hole speech - Financial Times
+## Wall Street banks push Big Law to cut fees because of AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhMbkNWMGdJbVdNWXRPV0Q4SnAxeXkyb2k5bHIwMjF5dC1nbjBweFIxZTNhX3NiMlY3UDY0NXFJMzcwN29kS0Y3TTV4UXBTODVwM1RzWDY1emU1WUUzRG9sVnU0Q2R4N0tuV3Zib2U4UEltTk1WNDg1N1I5NjI3MGxCOUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhMbkNWMGdJbVdNWXRPV0Q4SnAxeXkyb2k5bHIwMjF5dC1nbjBweFIxZTNhX3NiMlY3UDY0NXFJMzcwN29kS0Y3TTV4UXBTODVwM1RzWDY1emU1WUUzRG9sVnU0Q2R4N0tuV3Zib2U4UEltTk1WNDg1N1I5NjI3MGxCOUg?oc=5" target="_blank">Japan’s bonds and yen under pressure after Kevin Warsh’s Jackson Hole speech</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5" target="_blank">Wall Street banks push Big Law to cut fees because of AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The rise of physical AI: can robots save US manufacturing? - Financial Times
+## Europeans shun Russian finance minister at US-hosted G20 meeting - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09oWXhmUVZiYXpSYVZ6OE14ZldndFQ2cHZOVENTOGxnR1RyOGxNQU9NUTJIQjF4OW45SXg1TUdNeWEwMEtQV1RaMl91X0hIMzlMc09hX0ZyQ25PLVBjVV9qSkd2SFgxN3lPQnZ6NkIxQWhWV21HNlJ6R3RtMVg5SEhVR0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5" target="_blank">The rise of physical AI: can robots save US manufacturing?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09oWXhmUVZiYXpSYVZ6OE14ZldndFQ2cHZOVENTOGxnR1RyOGxNQU9NUTJIQjF4OW45SXg1TUdNeWEwMEtQV1RaMl91X0hIMzlMc09hX0ZyQ25PLVBjVV9qSkd2SFgxN3lPQnZ6NkIxQWhWV21HNlJ6R3RtMVg5SEhVR0E?oc=5" target="_blank">Europeans shun Russian finance minister at US-hosted G20 meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## India’s GDP beats growth forecast at 7.8% - Financial Times
+## WPP cutting up to 1,000 more jobs as AI reshapes advertising industry - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhISnpJVzJlQWliUHRRT2VYN1VDcGdhUld6dDF4Z25IZnl3ZnB0b0xXcm1BVG5qanRoODFYMU9RbXdCMTBVeF9iVDZQMWNhdkp0eEc2ZjNyakJXczhDUzNGV1A5UWhhNWNnRVZ1cXJJdjRqbzRZdDN6TUJBRlI5azRQT3Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVS1tZ2tpYlduUEZYUW5OVWpTSnUtRjd6TWZXTUNGdmR6WWMzSGtBQk1kRGdrckRsSFRjc2J5SzV3WHBjSFVYM3Azdk9PU2FZQW01cjFIRVk3QWVrZ1NhWXB4X3FpdzVzYzUwTloxczhGSG91UmFwamt3a3d1MW5uQUhMT2g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhISnpJVzJlQWliUHRRT2VYN1VDcGdhUld6dDF4Z25IZnl3ZnB0b0xXcm1BVG5qanRoODFYMU9RbXdCMTBVeF9iVDZQMWNhdkp0eEc2ZjNyakJXczhDUzNGV1A5UWhhNWNnRVZ1cXJJdjRqbzRZdDN6TUJBRlI5azRQT3Y?oc=5" target="_blank">India’s GDP beats growth forecast at 7.8%</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVS1tZ2tpYlduUEZYUW5OVWpTSnUtRjd6TWZXTUNGdmR6WWMzSGtBQk1kRGdrckRsSFRjc2J5SzV3WHBjSFVYM3Azdk9PU2FZQW01cjFIRVk3QWVrZ1NhWXB4X3FpdzVzYzUwTloxczhGSG91UmFwamt3a3d1MW5uQUhMT2g?oc=5" target="_blank">WPP cutting up to 1,000 more jobs as AI reshapes advertising industry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## After years of losses, Victoria Beckham marks her brand’s turnaround - Financial Times
+## US Army secretary resigns after tension with Pete Hegseth - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnJnTjh3ZnhnVHFuMXhIMU9EeVRNeHBKZm92NnFMeXFQSzFlZ3MyOWloWHpZOHhTQUcwMTFhUUpBcEhQTmdYckJZd181cjZrUWQxakJKcURyVEtJckphRm4zZkNOR1BlZ3BIZWVxR2xyZXNDS2hOSW1HZ1JvcG10aWVGMUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGxsVjRyVUR4Y05uT3lLakZIeFk2SjlSZHBlNlYyVWlIRmpuRDYtX1ZjZVlpY3ZKU0paN0xFQXNYUjZrYU42YnpSQ3Foekd4Q3BTZmpXOE5vOVNjSWxOYlNWRVBtMWh1TXhzMWZjS1FvRUFIMTRYZmtOdTdEZ00tRnUzejI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnJnTjh3ZnhnVHFuMXhIMU9EeVRNeHBKZm92NnFMeXFQSzFlZ3MyOWloWHpZOHhTQUcwMTFhUUpBcEhQTmdYckJZd181cjZrUWQxakJKcURyVEtJckphRm4zZkNOR1BlZ3BIZWVxR2xyZXNDS2hOSW1HZ1JvcG10aWVGMUU?oc=5" target="_blank">After years of losses, Victoria Beckham marks her brand’s turnaround</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGxsVjRyVUR4Y05uT3lLakZIeFk2SjlSZHBlNlYyVWlIRmpuRDYtX1ZjZVlpY3ZKU0paN0xFQXNYUjZrYU42YnpSQ3Foekd4Q3BTZmpXOE5vOVNjSWxOYlNWRVBtMWh1TXhzMWZjS1FvRUFIMTRYZmtOdTdEZ00tRnUzejI?oc=5" target="_blank">US Army secretary resigns after tension with Pete Hegseth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bond selloff pressures stocks as oil crosses $91 a barrel - Reuters
+## BofA banker Piacenti killed in Times Square stabbing - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXlqbHNRekhVbmlvR2JmZS1TazVKVGxRVFA4a0oxNjl4SHF1cUhaQmNqM1RySGlJYS1zUl9OYnBTOFRnb0JLTVdaZTJiN0ZQTDRqcHJmVVNaN21McWhUV0lTR19HWVF3LUc0d1dXVDJBaW9qYWpUeTRPVE9ETUVYS3FZenBqRWRHR2lGN1RRQzFYeEE2a3Mxb19GNlpObDVXZE8wSEx0UVpDTFlES3QxbjBaQlhkeTQ4OGR6NXFR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5" target="_blank">Bond selloff pressures stocks as oil crosses $91 a barrel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXlqbHNRekhVbmlvR2JmZS1TazVKVGxRVFA4a0oxNjl4SHF1cUhaQmNqM1RySGlJYS1zUl9OYnBTOFRnb0JLTVdaZTJiN0ZQTDRqcHJmVVNaN21McWhUV0lTR19HWVF3LUc0d1dXVDJBaW9qYWpUeTRPVE9ETUVYS3FZenBqRWRHR2lGN1RRQzFYeEE2a3Mxb19GNlpObDVXZE8wSEx0UVpDTFlES3QxbjBaQlhkeTQ4OGR6NXFR?oc=5" target="_blank">BofA banker Piacenti killed in Times Square stabbing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices rise as latest fighting resurrects Middle East supply disruption risks - Reuters
+## Jury in Lindsay Clancy's murder trial says it is deadlocked; deliberations continue - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlpXQ203Y0ozaWpxdUFZWjNtYU1vVkZsWXJaQk42Z18tMUlrZW5OS2dldlp3QXJ0a2l6LUxqZVAwLVlXMUVkX3lHa2kyRkRaaVUwYU9Ua0U4NlVWc2ZscDlhYTN5SDdYRjZid2NENmxqbVNBMVhXRkEwSjAzMVpJYUJOSWhXRzljVUhJdUdqdEE2OUpmU3dqaHR2OGxvVGh4UC1jVFBXREFOcU1oSURYX2VQUHpYX2JP?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5" target="_blank">Oil prices rise as latest fighting resurrects Middle East supply disruption risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlpXQ203Y0ozaWpxdUFZWjNtYU1vVkZsWXJaQk42Z18tMUlrZW5OS2dldlp3QXJ0a2l6LUxqZVAwLVlXMUVkX3lHa2kyRkRaaVUwYU9Ua0U4NlVWc2ZscDlhYTN5SDdYRjZid2NENmxqbVNBMVhXRkEwSjAzMVpJYUJOSWhXRzljVUhJdUdqdEE2OUpmU3dqaHR2OGxvVGh4UC1jVFBXREFOcU1oSURYX2VQUHpYX2JP?oc=5" target="_blank">Jury in Lindsay Clancy's murder trial says it is deadlocked; deliberations continue</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Jury finds ex-gang leader guilty of murder in Tupac killing case - Reuters
+## Putin envoy warns of Russian economy going 'berserk' on war footing - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkx1ekFyVFR1S0RtSWU3V05wcWJzbWYybmxFRWkzWDlINDdpSFRNZHc5QVNhcVpWb3IzNXMxdlBIVFpkS0FuVnZ0TmxxOUw2ekFRS2s3MTNqZVFacGFsRlBhYm42X3g5RHhNX3pvVDF3RGtfSl9yUDJJeVltRmhqcTVPT2ZwZzZnalpvblprdjdDaXFQcVRNTA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUNUYWRsV3FBcnZsLVk1ZVltRW9wZGxhV2wxcGJfRWNoS18tby1ZSDBya19Oci12aEdNOEMwRDJYNjN1TGxXR1JQM0d1OUJ6cWU3aDBMZmxXeFNmUE1sOWxRb05oUGpmQTZ4dGJRanNkM3hnZ2RPYkprMmFvNTNTaWM5VkFWY2psRUh5RHZFQ25wN3loVW5VZ2tmQjlmaXFISXZJekI4WQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkx1ekFyVFR1S0RtSWU3V05wcWJzbWYybmxFRWkzWDlINDdpSFRNZHc5QVNhcVpWb3IzNXMxdlBIVFpkS0FuVnZ0TmxxOUw2ekFRS2s3MTNqZVFacGFsRlBhYm42X3g5RHhNX3pvVDF3RGtfSl9yUDJJeVltRmhqcTVPT2ZwZzZnalpvblprdjdDaXFQcVRNTA?oc=5" target="_blank">Jury finds ex-gang leader guilty of murder in Tupac killing case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUNUYWRsV3FBcnZsLVk1ZVltRW9wZGxhV2wxcGJfRWNoS18tby1ZSDBya19Oci12aEdNOEMwRDJYNjN1TGxXR1JQM0d1OUJ6cWU3aDBMZmxXeFNmUE1sOWxRb05oUGpmQTZ4dGJRanNkM3hnZ2RPYkprMmFvNTNTaWM5VkFWY2psRUh5RHZFQ25wN3loVW5VZ2tmQjlmaXFISXZJekI4WQ?oc=5" target="_blank">Putin envoy warns of Russian economy going 'berserk' on war footing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters
+## Bessent says U.S. likely to announce Iran bank sanctions this week - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEY5Z1hsMHdwMm1tT1QxU0JvSllPd1V0eFVXWTlTYlRHMHphTDFnbENycVpzeWcxUmFHZ3I3ZUhEdDNaYkJueWotd2h0ZUFySE9GUGthYzlfcFJxVzZiMlhGbXZSSDAwTlJiRlZEQXVCYks4UUUyVFdWSHItUDN0MDZLU1pKZzFFZ2l3X2dBVmVCNVpFRFFKS2lmNUxVeGdIcDBrbk90SDY1ZWNOM1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5" target="_blank">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEY5Z1hsMHdwMm1tT1QxU0JvSllPd1V0eFVXWTlTYlRHMHphTDFnbENycVpzeWcxUmFHZ3I3ZUhEdDNaYkJueWotd2h0ZUFySE9GUGthYzlfcFJxVzZiMlhGbXZSSDAwTlJiRlZEQXVCYks4UUUyVFdWSHItUDN0MDZLU1pKZzFFZ2l3X2dBVmVCNVpFRFFKS2lmNUxVeGdIcDBrbk90SDY1ZWNOM1E?oc=5" target="_blank">Bessent says U.S. likely to announce Iran bank sanctions this week</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China warns of 'consequences' over Taiwan presence at Pacific leaders meeting - Reuters
+## US manufacturing activity slows in August; input prices still elevated - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?oc=5" target="_blank">China warns of 'consequences' over Taiwan presence at Pacific leaders meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5" target="_blank">US manufacturing activity slows in August; input prices still elevated</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
