@@ -1,21 +1,35 @@
 # 每日财经新闻
 
-更新时间：2026-09-02 03:55:55
+更新时间：2026-09-02 16:21:00
 
-## India’s Diaspora Deposit Flows Surpass $100 Billion, FE Reports
+## Circle K Owner Says Inflation, Fuel Costs Curb Consumer Spending
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-02/india-s-diaspora-deposit-flows-surpass-100-billion-fe-reports
+链接：https://www.bloomberg.com/news/articles/2026-09-02/circle-k-owner-says-inflation-fuel-costs-curb-consumer-spending
 
 正文长度：0
 
-摘要：Inflows under the Reserve Bank of India’s special overseas deposit facility have topped the $100 billion mark, the Financial Express newspaper reported Wednesday, citing officials it did not identify.
+摘要：Convenience and gas station retailer Alimentation Couche-Tard Inc. reported record fuel sales as oil prices soared amid the Middle East conflict, but consumers are also tightening their budgets and visiting stores less often. Shares dropped the most in more than five months.
 
 
 ---
 
-## Stocks, Bonds Extend Losses as Oil Gains on Iran: Markets Wrap
+## Stocks, Bonds Bounce as Oil Halts War-Fueled Rally
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-02/stocks-bonds-bounce-as-oil-halts-war-fueled-rally-video
+
+正文长度：0
+
+摘要：A pullback in oil prices brought some relief to traders worried about inflation, with stocks and bonds bouncing after recent losses.
+Sebastien Page, CIO and Head: Global Multi-Asset at T. Rowe Price, discusses the markets and recent moves that have long bonds hovering at multi-year highs. (Source: Bloomberg)
+
+
+---
+
+## Stocks Rise as Buyers Scoop Up Bargains After Rout: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +37,101 @@
 
 正文长度：0
 
-摘要：Stocks and bonds sold off, while gold extended its decline, as renewed fighting in the Middle East drove oil prices higher, fueling inflation fears and expectations for tighter monetary policy.
+摘要：Stocks rose after a drop fueled by concerns about inflation, with attractive valuations and solid corporate earnings luring bargain hunters.
 
 
 ---
 
-## Minimax Emerges as Mainland China Investors’ New Favorite Stock
+## Why Florida Rep. Moskowitz Isn't Running Away From AIPAC
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-02/minimax-emerges-as-mainland-china-investors-new-favorite-stock
+链接：https://www.bloomberg.com/news/videos/2026-09-02/why-florida-rep-moskowitz-isn-t-running-away-from-aipac-video
 
 正文长度：0
 
-摘要：Minimax Group Inc. became the most popular Hong Kong-listed stock among mainland Chinese investors last month, in the latest sign of the latter’s voracious appetite for the country’s new-generation AI model developers.
+摘要：Many Democratic congressional candidates have seemingly spent the summer running away from AIPAC, but not Florida Rep. Jared Moskowitz. "I'm real worried about Jews here," he tells Bloomberg. 
+
+Original filename: Moskowitz Interview AIPAC_1.mp4 (Source: Bloomberg)
 
 
 ---
 
-## Copper’s Rally Stalls as Worries About Global Economy Resurface
+## Uber Shutting Down Operations in Nigeria After Global Shake-Up
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-02/copper-s-rally-stalls-as-worries-about-global-economy-resurface
+链接：https://www.bloomberg.com/news/articles/2026-09-02/uber-shutting-down-operations-in-nigeria-after-global-shake-up
 
 正文长度：0
 
-摘要：Copper fell for a second day, dropping with other metals, as resurgent oil prices fanned concerns about prospects for the world economy.
+摘要：Ride-hailing company Uber Technologies Inc. is shutting down its services in Nigeria effective September 2, following a review of its operations in the West African nation.
 
 
 ---
 
-## Gold Extends Decline as Inflation Risks Lift Fed Rate-Hike Bets
+## Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-01/gold-holds-drop-as-higher-oil-bond-selloff-raise-rate-hike-bets
+链接：https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html
 
-正文长度：0
+正文长度：3379
 
-摘要：Gold extended a three-day decline as escalating attacks in the Middle East and concerns about inflation ratcheted up bets on interest rate hikes and pushed bond yields higher.
+摘要：Ford reported its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — Ford Motor is increasing production of its crucial F-Series trucks after fires at an aluminum supplier severely impacted output over the past year.
+The automaker confirmed Wednesday to CNBC that production of its large, highly profitable "Super Duty" trucks last month hit a 20-year high, while output of F-150 pickups reached their highest level in two years.
+Ford's F-Series trucks — which include the F-150 and larger "Super Duty" models such as F-250, F-350 and F-450 — were severely impacted by the supplier issues due to their large aluminum bodies and other components.
+The Detroit automaker has spent the past year helping aluminum supplier Novelis get the impacted plant in Oswego, New York, back up and running following fires in September and November of last year.
+The increases in production mean an influx of pickups are expected to arrive on dealership lots over the coming weeks and months, according to Rob Kaffl, Ford's head of U.S. sales.
+"We're increasing production. Dealers will start seeing in the next 30, 60, 90 days that ramp-up in production," Kaffl said Wednesday. "We have a healthy chain of in-transit and in-system."
+Ford said Super Duty production was more than 39,000 units in August, for its best month since March 2006, while F-150 production was its highest since August 2024.
+The Ford Pro business is led by sales of the automaker's Super Duty trucks that range from the F-150 to commercial trucks and chassis cabs.
+The increase in the supply of pickup trucks comes as Ford experienced its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August. The automaker reported Wednesday that sales were down 10.3% for the month compared with a year earlier.
+"Our gross availability of products coming in, I would say, is returning back to normalcy – the normal levels our dealers would have," Kaffl said.
+Ford said Wednesday F-Series sales remain off 10.9% through August compared to a year earlier, including a 1.2% decrease last month.
+Ford dealers currently have a roughly 40 days' supply of pickup trucks, which is about half of what the industry has typically considers a healthy level for those vehicles. Kaffl reiterated that Ford is targeting a days' supply of the trucks of between 50 days and 60 days, compared with historical industry levels of 75 to 90 days.
+"We're being very intentional to make sure the production is meeting the demand," he said.
+To meet that pent-up demand, Ford has been increasing manufacturing to higher levels than it had last year in an attempt to make up lost production. The Novelis issues are expected to cost the automaker $1.5 billion this year.
+In addition to the pickup truck issues, Ford said its sales have been impacted by the discontinuation of two vehicles earlier this year that makes comparisons harder to meet as well as planned lower sales to daily rental fleets.
+Ford also said Labor Day — which is historically a major sales weekend — was a touch comparison since it falls in September this year compared to August of last year.
+The automaker noted that despite the year-over-year sales drops, its U.S. retail market share, which excludes sales to fleet customers, has remained relatively level this year at 11.7% in August.
+U.S. automakers overall are experiencing slowing sales, with Ford estimating an industry-wide decline of 6% in new vehicle sales.
+
+</details>
+
+
+---
+
+## American Airlines continues premium push with redesigned Boeing planes
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/02/american-airlines-flagship-suite.html
+
+正文长度：1717
+
+摘要：American Airlines is adding its most premium seats to its largest planes, which it uses for its most popular long international flights.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> American Airlines is expanding its push into premium travel on its largest planes.
+The carrier on Wednesday launched its first retrofitted Boeing 777-300ER, which it uses for its most popular long-haul international flights, including routes to London, Tokyo and Sydney.
+The new layout on the wide-body plane features 144 premium seats, including 70 lie-flat seats with sliding doors in its Flagship Suite section at the front of the plane.
+American said in 2022 that it planned to get rid of its international first class on many of its planes in favor of the single, larger premium cabin at the front of the plane. It started flying the suites last year after facing delays from suppliers.
+The lie-flat seats can bring in close to $10,000 on some long-haul international routes compared with $2,000 or much less for a seat in the back.
+There's also a Premium Economy section, with 44 seats that have privacy headrest wings and adjustable calf and footrests, as well as 30 Main Cabin Extra seats with additional legroom.
+There are 186 regular seats in updated plane's Main Cabin.
+American said its full fleet of 20 Boeing 777-300ER aircraft will be retrofitted by next year. The carrier will have a similar but smaller layout on its Airbus A321XLRs.
+The airline has been trying to catch up to its rivals Delta Air Lines and United Airlines, which have a head start on catering to high-spending travelers. The airline's new suites are a key part of that strategy.
+American has also been working to grow its loyalty program, improve its on-time rate and expand its network. Last week, the airline announced it will add seven international routes to its 2027 schedule, though none of those are on the Boeing 777-300ERs.
+
+</details>
 
 
 ---
@@ -186,202 +255,132 @@ And, the growing popularity of live shopping has made it harder to compete for e
 
 ---
 
-## How one of the largest investors in student housing is playing this school year
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/01/university-student-housing-investor.html
-
-正文长度：3856
-
-摘要：Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
-Students are heading back to school across the nation and leasing student housing at a faster clip than they were last year.
-For investors, that creates new opportunities, but one leader in the field cautions that the differences in market fundamentals are widening across universities and regional markets. Some types of universities are seeing much higher occupancies and lagging construction, while others are overbuilt with falling demand.
-On a national level, pre-leasing across the Yardi 200 — a curated set of the most important student housing markets, representing 90% of the institutional space — reached 89.1% in July ahead of fall move-ins. That is up from 88.1% in July 2025 but still below August 2025 levels of 89.9%.
-According to Yardi, 117 of the 200 markets surveyed in July were at or above their year-earlier pre-leasing levels, but there was significant variation across different markets.
-"New supply is increasingly concentrated in large markets, dragging down performance at schools with the most beds and weighing more heavily on national metrics," wrote Tyson Huebner, director of research at Yardi Matrix, in the report.
-Harrison Street Asset Management is one of the largest investors and developers in the sector, with more than $24 billion allocated across 432 student housing properties since its launch in 2005. Its investments total more than 238,000 beds across 200 university markets in North America and Europe.
-"Our conviction in student housing is really high, but our conviction in every student housing market is not," said Mike Gordon, global chief investment officer for real estate at Harrison Street. "Frankly, I think that creates a really interesting investment environment."
-Gordon said there are a lot of investors trying to get access to the sector, but only a limited number of managers with long-term experience in it. Specialization, he said, is more vital than ever, because the differences between university markets have grown quickly due to funding cuts, enrollment and specific student demand.
-"Enrollment, applications, selectivity, research funding, student outcomes are increasingly concentrated at many of the leading institutions. Michigan, UVA, UNC, a number of the large public Power Four universities," said Gordon, referring to the schools that belong to the four major athletic conferences. "Prospective students continue to value strong graduation incomes, alumni earnings, research capabilities, and many of the university markets that we focus on are really operating at or above 95% occupancy."
-He noted that housing supply has lagged enrollment growth at the universities in a number of these markets, specifically citing Virginia Tech, Auburn University and Penn State.
-"I think about the best university towns almost like factory towns where the factory is never closing. The university is the factory, and what it produces is intellectual capital. It attracts students, obviously, but also professors and researchers, entrepreneurs, companies that want to be close to that intellectual capital, and everyone needs somewhere to live," Gordon said.
-Harrison Street acquires and develops assets on its own and through public-private partnerships with state universities. It has also been selling some of its assets given rising demand in certain markets.
-Earlier this year, Harrison Street sold a 12-property student housing portfolio for $910 million, one of the largest dispositions in the sector in recent years.
-
-</details>
-
-
----
-
-## OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
-
-正文长度：3746
-
-摘要：Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Logistics company OneRail is launching a platform using Nvidia's artificial intelligence software to help retailers make faster decisions on the most efficient delivery options at scale, CNBC has learned.
-The new platform, called OmniStar, allows retailers to use AI to evaluate all of their delivery options and identify the best one for each individual order, using OneRail's proprietary data.
-The last-mile delivery company told CNBC the new platform will allow smaller companies to deliver at scale and improve margins to compete with the retail giants of the world, including Amazon and Walmart.
-As e-commerce grows, retailers have had to keep up with surging demand and invest in nimble supply chains to optimize their efficiency. But those manual processes are often fragmented across the retailer and the logistics businesses.
-"If you don't have the ability to make lightning-fast decisions, you're giving up margin," OneRail CEO Bill Catania told CNBC. "Last-mile fulfillment is expensive."
-Where choosing the best routing for a package may have previously taken 20 minutes, OneRail said its platform can do it in 2½ minutes leveraging AI. That time saved means retailers can operate larger, faster and more precise supply chains, Catania said.
-"That's where the artificial intelligence comes in. It's making those kinds of decisions extremely rapidly, and so to do that, that's where the Nvidia hardware and the software comes in and really makes this thing work at scale," said David Daeschler, the head of AI at OneRail.
-Daeschler said the company began partnering with Nvidia three years ago to explore ways to incorporate AI into the logistics process.
-"The result is a real-time decision layer that can route an order to the right carrier and delivery mode at the right cost, rather than relying on static rules or manual planning," said Azita Martin, Nvidia's vice president and general manager of retail and consumer packaged goods.
-Catania said OneRail's proprietary data, which includes a network of more than 12 million drivers and over 1,000 logistics partners, is being used to train the AI on the most efficient routes and delivery options.
-"It's for the benefit of them and us: We operate more efficiently. They save money and provide a better customer experience," Daeschler said.
-The company told CNBC its platform has already been deployed with some customers, including a large tire distributor that saw OmniStar save the company a run rate of $40 million over three years because it's able to use its resources more efficiently.
-It's also estimating the platform will surpass $6 billion in gross merchandise volume in the fourth quarter.
-Nvidia's Martin said the platform will allow retailers to make much faster decisions.
-"For retailers, the bigger value is the ability to evaluate more scenarios, respond more quickly as conditions change and improve delivery economics without sacrificing service," Martin said.
-OneRail said the platform could help smaller retailers compete more effectively on delivery speed and efficiency.
-OneRail announced a partnership earlier this year with FedEx to bring same-day delivery services to all of its customers, joining a rush of retailers trying to offer their customers the best and fastest delivery options. That partnership will now allow OneRail to better work with smaller businesses as well, Catania added.
-"We're kind of doing for delivery what ChatGPT and Anthropic have done for words – it all works the same way," Daeschler said. "They give people more access to knowledge. We're giving people access to being able to do delivery in a way that's affordable. … That's all done based on original models, training on data that we have, just like words on the internet."
-
-</details>
-
-
----
-
-## Russia secretly helping Iran develop supersonic cruise missiles - Financial Times
+## Growth is a life-and-death matter for Europe - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY28tbWlxbWNXdjJIMVp0YkQzNC16R1VEWEdUY016cjJENEtsLVdlb2prX1BPeE5xT2pxVEFheHVfbVhjMDNCdVptT3dUdzZGTm9HM2pFeFlKeDhuZlRQWWJYS0FoZlZaRzlJdnB5d19SZTdyanRTWDNjNmNCYnA4T1hWWjg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkxaYjNTUjVLRjNYSk9wcl9XY19RU2RKeFFGSC1sNzV0UXNpRVBmcEJsbS11VVdmcGp6d0x1VHQ5Zk9jeEhtdHNfN25RMzBZR0JtN1hvakJfNkhvYkFUcHluQTE5ZFRiTjQ1RVdfMVpwVnZTUUFwWWFvNFhPcjF1QmV2R2k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY28tbWlxbWNXdjJIMVp0YkQzNC16R1VEWEdUY016cjJENEtsLVdlb2prX1BPeE5xT2pxVEFheHVfbVhjMDNCdVptT3dUdzZGTm9HM2pFeFlKeDhuZlRQWWJYS0FoZlZaRzlJdnB5d19SZTdyanRTWDNjNmNCYnA4T1hWWjg?oc=5" target="_blank">Russia secretly helping Iran develop supersonic cruise missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkxaYjNTUjVLRjNYSk9wcl9XY19RU2RKeFFGSC1sNzV0UXNpRVBmcEJsbS11VVdmcGp6d0x1VHQ5Zk9jeEhtdHNfN25RMzBZR0JtN1hvakJfNkhvYkFUcHluQTE5ZFRiTjQ1RVdfMVpwVnZTUUFwWWFvNFhPcjF1QmV2R2k?oc=5" target="_blank">Growth is a life-and-death matter for Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China derails consensus on communiqué after US-hosted G20 - Financial Times
+## Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5" target="_blank">China derails consensus on communiqué after US-hosted G20</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5" target="_blank">Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Action camera maker GoPro to be acquired after decade-long decline - Financial Times
+## The wheels are coming off the US world order - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEZKS0YtU2M5RW9XYmZaZi0zWnNMVndDMTJQcUR6czZfVVdSWWpHdk5qNFY5dmRPMThSMF9Nd0pVYnY5QWQtWjIxOWREb1o4T0t0V2lHZ1Ria1FjdWE4Ti02LWtpbkd4NFAxUlRZdXNXbTJSMXZVMHpFV2MtNFUxZVZ4ZEs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxucXlQb2F1OHNqU2o4OFBNd0dLNEtrYTU5ek9MMm1vUXlSNjd0WEYwZ0JIbXpnLTRfZ1pSbFhrWjExV21TZmh5QTZtR2VuWEpBT2NWLXQzdjFtcV95LWZVUWx2cFR1eTFlMzhYZzlQeDJzZ0t0UE9sSkRMMjdBN0lJMGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEZKS0YtU2M5RW9XYmZaZi0zWnNMVndDMTJQcUR6czZfVVdSWWpHdk5qNFY5dmRPMThSMF9Nd0pVYnY5QWQtWjIxOWREb1o4T0t0V2lHZ1Ria1FjdWE4Ti02LWtpbkd4NFAxUlRZdXNXbTJSMXZVMHpFV2MtNFUxZVZ4ZEs?oc=5" target="_blank">Action camera maker GoPro to be acquired after decade-long decline</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxucXlQb2F1OHNqU2o4OFBNd0dLNEtrYTU5ek9MMm1vUXlSNjd0WEYwZ0JIbXpnLTRfZ1pSbFhrWjExV21TZmh5QTZtR2VuWEpBT2NWLXQzdjFtcV95LWZVUWx2cFR1eTFlMzhYZzlQeDJzZ0t0UE9sSkRMMjdBN0lJMGk?oc=5" target="_blank">The wheels are coming off the US world order</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Global bond sell-off deepens amid inflation fears - Financial Times
+## China’s real robot revolution is not about humanoids - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5" target="_blank">Global bond sell-off deepens amid inflation fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5" target="_blank">China’s real robot revolution is not about humanoids</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Wall Street banks push Big Law to cut fees because of AI - Financial Times
+## The Takaichi revolution - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVJxcWZ2Uno3YjI3RENHUF92ZXFuSFdKMUV2ak9OdzFCX2sxOTRUbTcyRW1ORkFnc3R6cllpZFZwYkVnMm5TZFFaVGRBbkFNRlFBOEk2N25CdEJuZThEVjF6bmhIcjhkeEhLcHlGdzR1dkNkRnllT1htTzNiLTFaQzlGRV8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5" target="_blank">Wall Street banks push Big Law to cut fees because of AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVJxcWZ2Uno3YjI3RENHUF92ZXFuSFdKMUV2ak9OdzFCX2sxOTRUbTcyRW1ORkFnc3R6cllpZFZwYkVnMm5TZFFaVGRBbkFNRlFBOEk2N25CdEJuZThEVjF6bmhIcjhkeEhLcHlGdzR1dkNkRnllT1htTzNiLTFaQzlGRV8?oc=5" target="_blank">The Takaichi revolution</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Hong Kong activist Joshua Wong pleads guilty to collusion with foreign entities - Reuters
+## Google defeats US bid to force ad tech sale - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnpSZHphcnBZa0dMUHlhUldUbDZ3NVF3eUtSc3MxVXZTMTM2OE9KTEEzT3FQWWo1M09TdHVrVnczWm9TSHoxMUR3cUV1c0tOQm5TYjVHdG1HdlRfbFRLMmVVclhRczBnU1lFMjJfdkVyQUNucmRDSElFYmpSZEtGdDdjMjFRQng5M0ExRDlCeko5Z2pfSmNtbk14LXdZWHdVZjdMclgxYjdQZWYxTW50Ujl0MHIwa2pQT0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnpSZHphcnBZa0dMUHlhUldUbDZ3NVF3eUtSc3MxVXZTMTM2OE9KTEEzT3FQWWo1M09TdHVrVnczWm9TSHoxMUR3cUV1c0tOQm5TYjVHdG1HdlRfbFRLMmVVclhRczBnU1lFMjJfdkVyQUNucmRDSElFYmpSZEtGdDdjMjFRQng5M0ExRDlCeko5Z2pfSmNtbk14LXdZWHdVZjdMclgxYjdQZWYxTW50Ujl0MHIwa2pQT0E?oc=5" target="_blank">Hong Kong activist Joshua Wong pleads guilty to collusion with foreign entities</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5" target="_blank">Google defeats US bid to force ad tech sale</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dollar holds firm as Middle East hostilities lift oil - Reuters
+## US urges G20 countries to allow AI training on creators' work - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5" target="_blank">Dollar holds firm as Middle East hostilities lift oil</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5" target="_blank">US urges G20 countries to allow AI training on creators' work</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil up nearly 1% as US and Iran trade fresh strikes - Reuters
+## Uber to lay off 10% of staff in biggest cuts since COVID - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5" target="_blank">Oil up nearly 1% as US and Iran trade fresh strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5" target="_blank">Uber to lay off 10% of staff in biggest cuts since COVID</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters
+## Estonia elects human rights ombudsman Madise as its next president - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5" target="_blank">Asian markets tumble as US-Iran fighting lifts oil and bond yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY?oc=5" target="_blank">Estonia elects human rights ombudsman Madise as its next president</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nicaraguan Congress passes Ortega-backed reform excluding opposition from elections - Reuters
+## Erdogan says Turkey would consider full membership of China- and Russia-led security bloc - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczY1ckdkVjh3T3JHVXRVZHByZ0pRdlpCOURoYmN0dTB5NF9mUVMtVEVyUkxFbmFlU1hVV3NPMGZld2hJSEwtTkxDVWdST2ExTWJJRWw4YnVIOWdlRFZnMmdPb2dnSU5Jc1hYMjZaUWFza2thWnBQemhsSVdVekxYSW9RWlNYSGluRnRNTXJaZWZPNHAwbldITTIwUXVUbElMQjdYN2ZLVVFsRExKbDVpYVZEeURSN1JnUU01RlhSbzJpVjNSUWlPVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczY1ckdkVjh3T3JHVXRVZHByZ0pRdlpCOURoYmN0dTB5NF9mUVMtVEVyUkxFbmFlU1hVV3NPMGZld2hJSEwtTkxDVWdST2ExTWJJRWw4YnVIOWdlRFZnMmdPb2dnSU5Jc1hYMjZaUWFza2thWnBQemhsSVdVekxYSW9RWlNYSGluRnRNTXJaZWZPNHAwbldITTIwUXVUbElMQjdYN2ZLVVFsRExKbDVpYVZEeURSN1JnUU01RlhSbzJpVjNSUWlPVA?oc=5" target="_blank">Nicaraguan Congress passes Ortega-backed reform excluding opposition from elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ?oc=5" target="_blank">Erdogan says Turkey would consider full membership of China- and Russia-led security bloc</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
