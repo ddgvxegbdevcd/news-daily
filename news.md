@@ -1,68 +1,218 @@
 # 每日财经新闻
 
-更新时间：2026-09-04 03:56:35
+更新时间：2026-09-04 16:06:21
 
-## Is the Chip Supercycle Here to Stay?
+## S&P 500 Slumps as Strong Jobs Growth Fuels Fed-Hike Bets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-04/is-the-chip-supercycle-here-to-stay-video
+链接：https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data
 
 正文长度：0
 
-摘要：Semiconductor industry executives share their insights with Bloomberg on the sidelines of the SEMICON Taiwan 2026 in Taipei, weighing in on the AI-driven chip supercycle and its sustainability. (Source: Bloomberg)
+摘要：US stocks fell on Friday, with the S&amp;P 500 Index on track to finish the week virtually unchanged after the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.
 
 
 ---
 
-## PNJ Taps Chairwoman’s Family for Loan After Diamond Scandal
+## VW's CEO Wins Backing for Turnaround Plans
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-04/pnj-taps-chairwoman-s-family-for-loan-after-diamond-scandal
+链接：https://www.bloomberg.com/news/videos/2026-09-04/vw-s-ceo-wins-backing-for-turnaround-plans-video
 
 正文长度：0
 
-摘要：Phu Nhuan Jewelry JSC, Vietnam’s largest listed jeweler known as PNJ, is securing a loan from the family of Chairwoman Cao Thi Ngoc Dung to rebuild its business after a national diamond-smuggling scandal battered the industry.
+摘要：Europe's largest carmaker Volkswagen plans to slash an additional 50,000 jobs as it struggles to compete with cheaper Chinese rivals.
+
+Melanie Boeff explains. (Source: Bloomberg)
 
 
 ---
 
-## Stocks Rise as Fed Rate-Hike Bets Ease, Yen Gains: Markets Wrap
+## US Retail Diesel Hits Record
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-09-04/us-retail-diesel-hits-record-video
 
 正文长度：0
 
-摘要：Asian stocks and currencies rose as investors pared bets on a Federal Reserve interest-rate hike this month, weakening the dollar. The yen strengthened.
+摘要：US retail diesel rose to a record, threatening to further spike energy-driven inflation as wars in Iran and Russia roil the market.
+The widely used fuel climbed to a nationwide average of $5.85 a gallon at the pump on Thursday, according to the American Automobile Association.
+Ed Hirs, Energy Fellow at the University of Houston, discusses the record diesel prices and energy outlook ahead of the midterms. (Source: Bloomberg)
 
 
 ---
 
-## India’s SEBI to Review Options Settlement Pricing After Closing Auction Chaos
+## European Stocks Post Weekly Drop as Hot US Jobs Boost Fed Bets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-03/india-s-sebi-to-review-f-o-settlement-prices-on-auction-feedback
+链接：https://www.bloomberg.com/news/articles/2026-09-04/european-stocks-muted-before-us-data-vw-soars-on-restructuring
 
 正文长度：0
 
-摘要：India’s markets regulator may propose changes to equity derivatives settlement pricing after feedback that the new closing-auction system triggered sharp price swings.
+摘要：European stocks posted their third weekly decline in four, as traders added to wagers on a US interest-rate hike following a hotter-than-expected jobs report.
 
 
 ---
 
-## Sharp Price Swings Prompt SEBI Review of India’s Closing Auction
+## Dangote Gets Regulator’s Approval for $1.6 Billion IPO
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-09-04/sharp-price-swings-prompt-sebi-review-of-india-s-closing-auction
+链接：https://www.bloomberg.com/news/articles/2026-09-04/dangote-sets-pricing-gets-regulator-s-approval-1-6-billion-ipo
 
 正文长度：0
 
-摘要：Regulator may propose changes to the way settlement prices for equity derivatives contracts are calculated.
+摘要：Nigerian billionaire Aliko Dangote is looking to raise $1.6 billion in the initial public offering for his refinery, Africa’s largest.
+
+
+---
+
+## WBNA Commissioner Cathy Engelbert to retire at the end of 2026
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html
+
+正文长度：2999
+
+摘要：Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> WNBA Commissioner Cathy Engelbert will retire at the end of 2026, the league announced on Friday.
+The decision comes as the league has experienced unprecedented growth, but Engelbert has faced criticism from some players over her leadership.
+A successor has not yet been named.
+"In 2019, I had the privilege of being appointed the league's first commissioner and to lead a league with enormous potential yet untapped awareness and significant undervaluation. Over the years, it has been amazing to watch WNBA players thrive and lead the massive cultural surge around women's sports," Engelbert said in a statement.
+During her tenure, the league has seen huge spikes in television viewership, game attendance, corporate sponsorship and franchise valuations. Viewership has jumped roughly 454% and attendance has climbed about 70% since 2019, according to the WNBA.
+"Cathy has presided over the WNBA through the most significant period of growth in the league's 30-year history," said NBA Commissioner Adam Silver. "We are grateful for Cathy's leadership and unwavering commitment to the advancement of women's basketball."
+The average WNBA team is now worth $460 million, according to CNBC's Official WNBA Team valuations for 2026. The Golden State Valkyries, which joined the league in 2025, were the first women's team in any sport to be valued at $1 billion.
+Engelbert oversaw the league's expansion from 12 to 18 teams by 2030. She also helped negotiate a landmark collective bargaining agreement earlier this year, leading to the biggest pay increases in the WNBA's history.
+"Being able to have your worth tied mostly in your salary is all that we've been fighting for, and it's what we were able to achieve," WNBPA President Nneka Ogwumike told CNBC Sport in an interview.
+Yet Engelbert's time as commissioner was often overshadowed by her rocky relationship with some players over compensation, officiating issues, and her response to racism and online harassment. Many WNBA players have argued the benefits the league offers and its protections for its players have failed to keep pace with the boom in attention on the WNBA.
+"We have the best players in the world. We have the best fans in the world. But, right now, we have the worst leadership in the world," Minnesota Lynx player Napheesa Collier famously said about Engelbert last year.
+Most recently, concerns have grown that Engelbert failed to respond appropriately to political protests over transgender women playing sports, which began to overshadow the league's season in recent weeks. There are no known trans players in the WNBA.
+In her statement, Engelbert said she is grateful to WNBA and NBA team owners, staff, players, investors and fans who believed in what the league could become.
+"I retire knowing we have built something bigger, stronger and more enduring than we could have imagined, she said. "I retire with immense gratitude and tremendous optimism for the future of the WNBA, with the best yet to come," she added.
+
+</details>
+
+
+---
+
+## THC drinks could soon be harder to find as Congress delays hemp ban again
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html
+
+正文长度：5223
+
+摘要：THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Erica Fabian says THC-infused drinks have become an alcohol alternative that have made a profound difference in her family.
+"Drinking [alcohol] is not healthy for both myself and my husband," said Fabian, a business owner and military spouse.
+Her husband, a retired 20-year Navy SEAL veteran with severe post-traumatic stress disorder, has found THC beverages particularly helpful, she said.
+"It's an actual game-changer," Fabian said. "I've seen it with my own eyes."
+But now, uncertainty around the category is creating concerns that it could become harder to get those beverages. Congress this week once again pushed off a federal crackdown on hemp-derived THC products, which companies have sold for years through an existing legal loophole even though recreational cannabis use remains illegal at the federal level.
+The House on Tuesday passed a stopgap spending measure that, in addition to keeping the U.S. government funded, delays new federal restrictions on hemp-derived THC products from Nov. 12 to Dec. 11. The measure buys the hemp industry another month to persuade lawmakers to create a regulatory framework to allow the continued sale of those products rather than ban them.
+The stakes are growing as consumer demand booms. THC beverages generated $239 million in measured U.S. retail sales in the 52 weeks through April, up 135% from a year earlier, according to NielsenIQ. The data tracked more than 1,170 products across more than 200 brands.
+Though the drinks are legal for now, the prospect of a ban has already affected beverage makers.
+Jake Bullock is the CEO of THC beverage maker Cann, which he said has become the top-selling THC drink at Target and the No. 2 nonalcoholic beverage at Sprouts. He said the company is seeing record sales to retailers, but a sharp pullback from wholesalers who are trying to avoid being stuck with inventory if Congress bans the product.
+"Our distributors should be buying more from us, but they're not," he said.
+Meanwhile, Joe Gerrity, CEO and co-founder of hemp beverage manufacturer Crescent Canna, said his company has already laid off half of its employees because of how congressional inaction has affected the business this year.
+Congress approved a measure as part of its government funding bill in November 2025, initially giving companies until this November to comply with new restrictions on intoxicating hemp products that had been allowed under the 2018 farm bill.
+"Nine months after passing a bill that would kill tens of thousands of small businesses, Congress has come together and done something tremendous — given themselves an additional month to solve a problem that they created" Gerrity said.
+"I want to celebrate, but it shouldn't take an army of lobbyists and tens of millions of dollars for Congress to protect small businesses from Congress," he added.
+Other, smaller brands face a potential supply-chain squeeze on the horizon.
+For now, retailers can keep selling the drinks and consumers can continue buying them, but distributors may become increasingly reluctant to replenish inventory while Congress debates the category's future.
+"Many distributors are requiring documentation stipulating manufacturers will take back and reimburse them financially for any product unable to be sold due to regulatory changes," said Gerrity. "This is an unprecedented situation, and nobody wants to get left holding the bag."
+Bullock said Cann is making a bet that Congress will reach an agreement on regulation, and is building inventory in anticipation of continued demand.
+High rise for THC beverages
+Many consumers have found THC-infused beverages to be a welcome alternative to alcohol, in particular because they contain lower levels of the psychoactive compound than traditional marijuana products do. The industry's opponents in Congress, however, argue that uncertainty around the safety of the relatively new beverages makes a ban the safest option.
+Rep. Andy Harris, R-Md., has been among the leading House Republicans pushing to bar hemp products from being sold, arguing that intoxicating hemp products are unregulated and pose risks to children.
+The debate extends beyond hemp-derived beverages to other intoxicating products sold under the hemp label.
+Other critics in Congress have focused on products that can be inhaled and high-potency candy products, as well as the lack of THC caps and testing requirements for those products. They have also expressed concerns about items containing synthetic cannabinoids.
+Bullock, however, said the beverage industry's goal isn't to preserve a regulatory vacuum, but rather set up new rules governing the products similar to the alcohol industry.
+"We're winning against an abolishing argument," he said, adding that Congress is "not worried" about drinks containing lower-milligram dosages of THC.
+Every time Congress extends the deadline, businesses question how much product they should make for distributors, making it hard for them to plan ahead, Bullock said.
+For consumers like Fabian who can see the beverages as both a recreational and wellness option, the stakes are more immediate.
+"If there is a responsible way to regulate it, I absolutely think that is the way to go," she said.
+
+</details>
+
+
+---
+
+## Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html
+
+正文长度：3656
+
+摘要：Wealthy travelers are moving their typical summer getaways to autumn.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Fall is the new peak season for luxury travel, as the wealthy continue to shift their holidays to September and October to avoid the summer crowds, according to a new study.
+Fall bookings for luxury travel and experiences are up 59% compared with last year, while sales surged 69%, according to Virtuoso, the global luxury travel network. September is now a peak month, with sales up 77%. October and November sales are up 54% and 71%, respectively.
+Virtuoso calls it the "fallcation," with the wealthy moving their typical summer getaways to autumn.
+"Especially for the high-net-worth and ultra-high-net-worth group, we're seeing huge gains for fall this year," said Misty Belles, vice president at Virtuoso. "September is really eclipsing August. That shoulder season is no longer really a shoulder season. It's becoming a peak season unto itself."
+While the shift to fall has been happening for years, it accelerated in 2025 and 2026, travel experts said.
+Summer heat waves in Europe have made travel in July or August increasingly unpleasant. Growing wealth and the shift in spending from goods to experiences have fueled more luxury travel and ever-growing crowds in popular destinations like southern Italy and France. Top hotels and restaurants are often fully booked and charging ever higher prices, making a summer trip to Europe often an exercise in disappointment.
+Demographics also play a role. Most wealth is now held by baby boomers, who are often retired and enjoying global travel. Gen Xers are joining them, since their kids are often grown and are no longer tied to the school calendar. Add in the millennial and Gen Z digital nomads, who aren't tied to the office, and the population of wealthy travelers who can ditch the traditional summer months in favor of fall is growing.
+"Wealthy travelers have more experience. They have experienced destinations in the summer," Belles said. "They know it's hot. They know it's crowded. They know it's not often the best time to see a destination, so they're shifting over to fall because the lines are going to be shorter, less crowded and the temperatures are more moderate."
+The most popular destinations for wealthy Americans this fall are largely in Europe, according to Virtuoso. Paris is the top destination, followed by the Amalfi Coast, the French Riviera, Tuscany and then New York. London, Lake Como, Maui and Rome are also popular.
+There are signs, however, that the fallcation is recreating some of same problems travelers are trying to avoid in the summer. Hotel rates in Europe for September are now close to summer rates, with some charging even more, travel experts said. Average daily hotel rates are up 131% in the Greek Isles, 78% in Puglia and 179% in the French Riviera, according to Virtuoso.
+Crowds in Southern Europe could start to rival July and August, especially in wealthier resorts.
+"I don't think they're expecting no crowds," Belles said. "But they are expecting a better experience than they would see in the summer and I think that's going to continue for a while."
+Belles recommended traveling in November to avoid the September and October crowds, although November bookings are also up 70%.
+More broadly, demand for luxury travel is pushing up high-end hotel rates around the world. Bookings at hotels charging $1,500 or more per night are up 37% compared with last year. Luxury international hotels now average $1,653 a night, up from $985 in 2019, according to Virtuoso.
+"Rates are growing at a faster clip [for luxury] than the lower-rate hotels, so that tells us there is a premium placed on the experience," Belles said. "The demand is certainly strong."
+
+</details>
+
+
+---
+
+## The wealth of the world's billionaires reached $15.1 trillion last year, per a new report
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html
+
+正文长度：2959
+
+摘要：The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+The ranks of the world's billionaires hit a record 3,795 people in 2025 as the artificial intelligence boom turbocharged wealth creation across the globe, according to a recent report published by Altrata.
+That finding marks an 8.2% uptick in billionaire headcount, the largest annual jump in five years, per the wealth intelligence firm. The combined wealth of the world's billionaires surged by 12.8% to a record $15.1 trillion last year, it found.
+Altrata identified 150 publicly listed companies that contributed the most to billionaire wealth. Firms that invested at least $30 million in AI over the past five years outperformed those that did not by 23% in market capitalization growth from 2024 through 2025, Altrata said.
+Wall Street's AI fervor also contributed to the widening wealth gap in the three-comma club, according to Maya Imberg, head of thought leadership and analytics at Altrata.
+The report identified 29 "superbillionaires" — individuals worth more than $50 billion — with a combined net worth of $4.1 trillion, or 27% of all billionaire wealth. In 2017, per the firm's estimate, there were only 10 superbillonaires, who represented 7.2% of all billionaire wealth.
+While the rise in tech stocks has created historic fortunes, wealth built on AI-exposed tech stocks can be volatile, Imberg said.
+"We expect the fortunes of many of the richest billionaires, those whose companies are tech-focused, to go up and down in response to the AI story," she said via email.
+This year has seen wild swings in the stock market, including a $1.3 trillion selloff in major chip stocks in July. For the richest of the rich, this translates into staggering and rapid gains and losses in paper wealth, such as an $18 billion one-day drop for Elon Musk and $50 billion week-long plunge for Larry Ellison, according to Forbes.
+"Market concentration doesn't necessarily mean it's a bubble. But there's certainly risk when exposure is concentrated within one main sector (tech), and to AI within that," Imberg said.
+The billionaire population of North America, the largest in the world at 1,337 people, grew by 11.6% in 2025, a faster rate than any other region, according to Altrata. Imberg credited part of this rapid growth to the U.S.'s dominance in private and public tech markets.
+Europe's billionaire ranks stands at 1,081 people after a 7.9% jump last year. Asia's billionaire population reached 881 after a 6.5% increase.
+While AI enthusiasm was a major boon to billionaire wealth, the report noted that 2025 was an unusually fortuitous year in many respects. All major asset classes tracked by Altrata delivered positive returns in 2025, a first since the pandemic, despite the turbulence of U.S. President Donald Trump's trade war.
+
+</details>
 
 
 ---
@@ -94,277 +244,132 @@ Automakers have been worried that Chinese rivals like BYD and Geely are flooding
 
 ---
 
-## ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html
-
-正文长度：3588
-
-摘要：The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> ChargePoint Holdings CEO Rick Wilmer believes a surge in the electric vehicle charging company's stock Thursday is just "the beginning of the momentum," he told CNBC.
-Shares of ChargePoint soared more than 70% Thursday after the company significantly beat Wall Street's second-quarter expectations for its 2027 fiscal year and guided toward continued improvements in its performance.
-It's the most notable increase since it underwent a reverse stock split last year to raise its share price and maintain compliance with the New York Stock Exchange's minimum trading price requirement of $1 per share.
-"The growth is starting to accelerate," Wilmer told CNBC during an interview Thursday morning. "It'll be driven substantially by the new products and technology we're putting into the market."
-ChargePoint, unlike some EV charging companies, does not actually own and operate its chargers. It provides hardware, software and services to customers, such as businesses, that want to offer chargers to their employees or customers.
-The company after markets closed Wednesday reported revenue of $116.1 million and a loss per share of 35 cents during the quarter. That compared with analyst expectations of $105.2 million in revenue and a loss of 85 cents, according to average estimates compiled by LSEG.
-Its performance was assisted by a one-time tariff refund of approximately $4.2 million in the quarter, but the company said its normalized gross margin would have still set a new record without the benefit.
-"We've now had our fourth consecutive quarter of year-over-year growth, and this quarter we just reported yesterday was obviously another good growth quarter," Wilmer said. "And now [we're] expecting that to accelerate, especially as we move into next year."
-As part of its growth plan, the company has been introducing faster high-performance chargers, known as "Level 3," in Europe, as well as next-generation products for the U.S., including Level 2 and Level 3 chargers.
-The company also is using artificial intelligence to improve charging times for its customers, reduce how long it takes to develop software and improve efficiency across its business, Wilmer said.
-Wilmer's optimism comes despite a slowdown in all-electric vehicle sales during the past year, following the elimination of federal support for the industry in the U.S., including the end of an up to $7,500 consumer benefit for purchasing an EV.
-"I think, altogether, the down cycle, or the doom and gloom, has been a bit overstated. I think there's a lot more positivity at the ground level," Wilmer said. "I just think in the end, better products can win."
-U.S. automakers are continuing to sell EVs, and demand in the used vehicle market is strong amid high gas prices, but the move to non-gas-powered vehicles has been significantly lower than many companies and analysts previously expected.
-ChargePoint is toward the end of a three-year business plan spearheaded by Wilmer that focused on reducing cash burn and profits, including cutting net losses from $125.3 million three years ago to $35.6 million during its most recent quarter.
-The company has not disclosed when it plans to be profitable, but Wilmer said the company is on its way to achieve a profit on an earnings before interest, taxes, depreciation and amortization basis.
-"We're approaching that quickly, and we want to get there ASAP," he said Thursday.
-ChargePoint's third-quarter guidance for its 2027 fiscal year included revenue between $105 million and $115 million, which would be a mid-point increase of roughly 4% year-over-year.
-
-</details>
-
-
----
-
-## NFL set for first-ever game in Melbourne, Australia, in international expansion
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html
-
-正文长度：4559
-
-摘要：The San Francisco 49ers and the L.A. Rams are playing the NFL's first-ever game in Australia, marking an expanded push to grow the game internationally.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The San Francisco 49ers and the Los Angeles Rams are heading to Australia, marking the longest-ever distance two NFL teams have traveled for a game.
-It's all part of the league's push to expand American football globally. A record nine international regular-season games will be played in 2026 – kicking off in Melbourne, the city's first NFL game, and followed by inaugural match-ups in Rio de Janeiro and Paris. The schedule also brings professional football to London, Madrid, Munich and Mexico City.
-NFL owners have already approved 10 international games for the 2027 season – the maximum number of games the league can play outside the United States per its current collective bargaining agreement with players.
-While NFL games are consistently the most-watched programming on television, the vast majority of the league's interest is American. For some context, last year's Week 1 game in Sao Paulo, Brazil — streamed on YouTube — between the Kansas City Chiefs and the San Diego Chargers drew 18.5 million viewers in the U.S. and just 1.2 million viewers internationally.
-That delta is what's driving NFL Commissioner Roger Goodell to seek global growth. Goodell has previously said he'd like to have up to 16 international games on the schedule. He also recently said he had "no doubt" a team would eventually be permanently located outside the U.S.
-"We are committed to continue to grow every year in what we're doing," NFL Executive Vice President Peter O'Reilly said in a conference call for reporters on Wednesday. "We learn in each new market and then build upon that. That will be true as we move forward. As the commissioner said, we have aspirations to go beyond that. We want to do it the right way – to go to the right markets at the right time."
-The NFL has a designed strategy to grow the game internationally. One key part is the league's relatively little-known Global Markets Program. Launched in 2022, the program gives NFL teams specific international marketing rights to build brand awareness and fandom.
-Every team owns at least one market. When games are played abroad, the teams that own those markets are the de facto "home team." The Rams own marketing rights in Australia. Later this year, when the 49ers play in Mexico – a region where they own rights – they'll be the home team.
-NFL clubs can apply for rights to international markets by submitting proposals to the International Committee for review each spring. The markets are often mildly based on geography. For example, the Rams own marketing rights in countries more easily accessible by West Coast teams, such as Australia, China, Japan, South Korea, New Zealand and — like the 49ers — Mexico. It also owns rights in the United Arab Emirates.
-Other franchises' rights are more driven by their specific owners' wishes. The Detroit Lions own Austria, Brazil, Canada, Germany and Switzerland. The Los Angeles Chargers have Greece – and only Greece. Chargers owner Dean Spanos has Greek heritage.
-The NFL has chosen a team-led strategy to grow fandom internationally because it wants buy-in from its franchise owners, O'Reilly said.
-"It's one part of a larger strategy," O'Reilly said. "Having a favorite team is a key driver of lifelong fandom. Giving the clubs the option to apply, you want them to align with markets they're going to get behind. For the vast majority, those markets align with the markets we're committed to. It allows clubs the freedom to tailor to their priorities … working with our folks on the ground. "
-Entering this season, 62 regular-season NFL games have been played outside the United States.
-But there's no certainty the NFL's international strategy will significantly increase the sport's popularity.
-Some of the challenge lies in time zone differences. Primetime games timed for a U.S. market mean taking the field in the middle of the night in Europe and in the morning in Australia.
-The Rams and Niners are kicking off at 10:35 a.m. local time on a Friday next week.
-It's difficult to grow a sport globally when start times need to cater toward Americans. The NFL has found 9:30 a.m. ET to be a sweet sport start time for European games – but TV ratings for those games have consistently been lower than Sunday afternoon and night contests.
-It's also an open question of just how popular this international movement is with players, who must take long plane rides and battle jet lag with time differences.
-While the 49ers left Wednesday for Australia, the Rams aren't arriving in the country until next week, 24 hours before game time.
-
-</details>
-
-
----
-
-## Billionaire family offices back healthcare and biotech startups in August
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html
-
-正文长度：2306
-
-摘要：The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-Investment firms of ultra-wealthy families are helping fuel the venture capital rebound in biotechnology. In August, family offices made 52 direct investments in private companies, with biotech startups representing about 20% of transactions, according to data provided exclusively to CNBC by Fintrx, a private wealth intelligence platform.
-Stanley Druckenmiller's Duquesne Family Office, one of the most active family offices in the U.S., has backed at least four pharmaceuticals or life sciences companies this year, according to Fintrx. Last month, Duquesne participated in a $90 million Series C round for Epicrispr Biotechnologies. The 8-year-old startup is pioneering a new gene therapy for a rare muscle disorder known as facioscapulohumeral muscular dystrophy, or FSHD.
-Druckenmiller said in January that Duquesne had made substantial investments in biotech due to the potential of artificial intelligence.
-"I knew because I've been on the board of Memorial Sloan Kettering for 30 years, that probably the best use case out there of AI is biotech through drug discovery, diagnostics, monitoring everything," he said in an interview conducted by Morgan Stanley.
-In August, the namesake family office of Jeff Bezos also joined a $188 million Series E for LifeMine Therapeutics, which uses AI to analyze fungal genomes to develop new drugs. LifeMine is currently testing a drug compound to prevent organ failure in transplant recipients.
-Bill Gates' venture capital firm, Gates Frontier, also participated in the megaround.
-Venture funding for biotechnology has rebounded strongly this year. U.S. and European biopharma startups raised a whopping $12.6 billion in the first half of 2026, a five-year high, according to analysis by Silicon Valley Bank, now a division of First Citizens Bank after its 2023 collapse and subsequent sale.
-That said, investors are writing fewer checks overall, especially for early-stage startups, with a greater share of funding going toward companies with drugs already in testing, according to SVB's analysis, citing its own data and data from PitchBook.
-
-</details>
-
-
----
-
-## NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html
-
-正文长度：5772
-
-摘要：The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The NBA on Wednesday suspended Los Angeles Clippers owner Steve Ballmer for one year as part of a broad array of sanctions on the basketball team and two senior executives for violating the league's salary cap circumvention rules related to star player Kawhi Leonard and four companies that did business with the team.
-Ballmer "knowingly" sought to help Leonard, 35, obtain off-court income opportunities worth millions of dollars, and approved a business deal that the billionaire former Microsoft CEO "knew was a precondition for Aspiration [Partners] to enter into an endorsement agreement with Mr. Leonard," the league said in a statement.
-The Clippers were also fined $30 million — the largest in NBA history — and will forfeit five first-round draft picks, one each year beginning in 2029.
-The Clippers and their personnel will be subject to a compliance and monitoring program overseen by the league office for five years, according to the NBA.
-Clippers President of Business Operations Gillian Zucker was suspended without pay for one year, and President of Basketball Operations Lawrence Frank was suspended without pay for six months. Zucker provided false and misleading statements to investigators, according to a summary of findings released Wednesday.
-The league said that an investigation of the Clippers by the law firm Wachtell, Lipton, Rosen & Katz "found a pattern of misconduct and multiple significant rules violations" by the organization, which had previously violated salary cap circumvention rules.
-"The three individuals most responsible for the Clippers' rule-breaking are Mr. Ballmer, Ms. Zucker, and Mr. Frank," a 36-page report by Wachtell, Lipton said.
-Ballmer is the ninth-richest person in the world, according to Forbes' real-time billionaires list, which puts his fortune at more than $152 billion.
-The Clippers, in a statement, said, "We vehemently reject the NBA's findings."
-"We intend to vigorously challenge these findings and penalties through every avenue available to us and look forward to an ethical and impartial arbitration process," the team said.
-In a summary of its findings, Wachtell, Lipton said the organization's violations included "initiating off-court income opportunities between" the 35-year-old Leonard and four companies doing business with the team — Aspiration Partners, Boingo Wireless, Daktronics, and Lockton Insurance — and facilitating endorsement deals between those companies and the seven-time NBA All-Star.
-The Clippers also induced those companies to enter into deals with Leonard by offering them business from the team, paying personal expenses for Leonard and his representatives, and failing "to report improper solicitations for off-court income opportunities made on Mr. Leonard's behalf through his then-business manager, Dennis Robertson," the summary said. Robertson is Leonard's uncle.
-Leonard was ordered to pay the league $700,000 in connection with his own violations, through Robertson's conduct, which included pressuring the team to help Leonard obtain off-court income opportunities and failing to reimburse payments by the Clippers for personal expenses.
-The NBA banned Robertson from conducting business or otherwise engaging with the league's teams and their affiliates, players or personnel for five years.
-The report comes nearly a year to the day after the podcast Pablo Torre Finds Out began a series of episodes alleging that the Clippers and Ballmer violated salary cap circumvention rules in dealings with the now-collapsed green energy financial company Aspiration Partners, which had a four-year, $28 million endorsement agreement with Leonard. The podcast reported that the agreement was never publicly announced, and that Leonard did not perform any services under it.
-NBA Commissioner Adam Silver, in a statement Wednesday, said, "The NBA's collectively bargained system for determining player compensation is a fundamental component of the basketball competition that the league oversees for the benefit of the teams and players and ultimately the fans."
-"I am deeply disappointed by the flagrant violations of our rules and by the Clippers' institutional and leadership failures that led to this misconduct. The severity of the penalties reflects the seriousness of the violations," Silver said.
-Leonard, in a statement through his new agent, said, "Integrity and respect for this game are fundamental to who I am. I accept full responsibility for lapses in judgment by people within my inner circle and regret the distraction this situation has caused the fans and my family.
-"I entered into my contract with the Clippers as well as the agreements in question in good faith, fully committed to fulfilling my obligations and with no knowledge of any intent on anyone's part to circumvent the salary cap," Leonard said.
-The probe's close could clear the way for the Clippers and Leonard to part ways. A trade that would send Leonard to the Toronto Raptors, the team he played for before the Clippers, was put on hold this summer while the investigation concluded.
-"As I return to Toronto, I am focused on what I can control, closing this chapter, and moving forward with a clean slate," Leonard said.
-In its own statement, the Clippers said the report's findings "are the result of a heavily biased investigation seeking to justify a predetermined narrative rather than facts and evidence."
-"What the league told us privately differs from what it announced today publicly, and they have not held themselves close to the standard Commissioner Silver set at the start of this investigation to ensure [its] fairness and accuracy," the team said.
-"For the past year, we cooperated fully and in good faith and we will now fight just as hard to demonstrate our innocence."
-
-</details>
-
-
----
-
-## Star Citadel trader to step down amid tumult in energy markets - Financial Times
+## Why the US and Iran keep escalating - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXh5NnI5ZUNiOU1TTUljam5fZ1NtSHdwQmIwYi1MWmpjU1A3VzhjOFVtM01ZYnlmdEFzQzQxM0k3dHBfQ01CcFM1cjIzUjdDOWdSUC1ncjBaWi1xZnZEaHQtcW9HQlY2Vnd1a1QxcUFVdld4akVrcHpTV0U1UjhMM01yMjY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkhMbUlSNm9PVEtvaDlNbDlOdjNKUktrdmszTGZsM3pjWFZYRWp4NEtlODhJQ0JvX014ZFZGbHVjUXpsMm9XQjFCbTlkU09qWnNVQkVmc216ck02YlB5SjlBRFZoTGxmNTl4Qlk1b09idFpwakNIaUdtMGZaYVJFTG1sS18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXh5NnI5ZUNiOU1TTUljam5fZ1NtSHdwQmIwYi1MWmpjU1A3VzhjOFVtM01ZYnlmdEFzQzQxM0k3dHBfQ01CcFM1cjIzUjdDOWdSUC1ncjBaWi1xZnZEaHQtcW9HQlY2Vnd1a1QxcUFVdld4akVrcHpTV0U1UjhMM01yMjY?oc=5" target="_blank">Star Citadel trader to step down amid tumult in energy markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkhMbUlSNm9PVEtvaDlNbDlOdjNKUktrdmszTGZsM3pjWFZYRWp4NEtlODhJQ0JvX014ZFZGbHVjUXpsMm9XQjFCbTlkU09qWnNVQkVmc216ck02YlB5SjlBRFZoTGxmNTl4Qlk1b09idFpwakNIaUdtMGZaYVJFTG1sS18?oc=5" target="_blank">Why the US and Iran keep escalating</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times
+## Pig kidneys successfully transplanted into humans - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTJCblBuMDFwcEV0eGhXZFZCZDhTNGZjb0t3NkxvQTdWUERjT3VlUWZTaWVabU1mbGVwNzVjVi1FcFJDMTdxLXRIek5NU2VQd0NmVHdOMzJJR181Z0llcFJ2Q0VrTWF1eW5LcktabHVINU1xSFpyN3dQYWg1ajh5bjhuLWU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5" target="_blank">OpenAI says it has overtaken Anthropic with its latest AI model</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTJCblBuMDFwcEV0eGhXZFZCZDhTNGZjb0t3NkxvQTdWUERjT3VlUWZTaWVabU1mbGVwNzVjVi1FcFJDMTdxLXRIek5NU2VQd0NmVHdOMzJJR181Z0llcFJ2Q0VrTWF1eW5LcktabHVINU1xSFpyN3dQYWg1ajh5bjhuLWU?oc=5" target="_blank">Pig kidneys successfully transplanted into humans</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia to buy open-source AI platform Hugging Face for $13bn - Financial Times
+## Giorgia Meloni celebrates Italy’s longest-serving government since 1945 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2gwNDYwMGIzakI1N0tRcnBtNnFoczYtVnZVQkJpeGQ1TDR1dnhPUG9LVVRIRGQwOEk1VU00UkdwamhxRE1pbklKS2ZEVHhIUlptcGo0d1E1UXZ6cTJyVDZOcTdvT1JSTXprblMxcVNOYWxmNkY0eWljOTBkb3libklRdlI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0RydFZxeTN4WUJobUpmd1ZVRm9RMlBrQ0NkSXN4VFRmLUJ1MzFDeWh3WGR6VFJJYWNoX3RiV084d015MHpsQWs4VU5LLWJoXzZxalRSbEZUdTdZd1pnUDlBVWtMeHhEQnJQWW81Q2Rxdi1ZT0kya1hsNkZrWWF0SE5FVWE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2gwNDYwMGIzakI1N0tRcnBtNnFoczYtVnZVQkJpeGQ1TDR1dnhPUG9LVVRIRGQwOEk1VU00UkdwamhxRE1pbklKS2ZEVHhIUlptcGo0d1E1UXZ6cTJyVDZOcTdvT1JSTXprblMxcVNOYWxmNkY0eWljOTBkb3libklRdlI?oc=5" target="_blank">Nvidia to buy open-source AI platform Hugging Face for $13bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0RydFZxeTN4WUJobUpmd1ZVRm9RMlBrQ0NkSXN4VFRmLUJ1MzFDeWh3WGR6VFJJYWNoX3RiV084d015MHpsQWs4VU5LLWJoXzZxalRSbEZUdTdZd1pnUDlBVWtMeHhEQnJQWW81Q2Rxdi1ZT0kya1hsNkZrWWF0SE5FVWE?oc=5" target="_blank">Giorgia Meloni celebrates Italy’s longest-serving government since 1945</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Volkswagen to slash up to 50,000 jobs in historic restructuring - Financial Times
+## The university degree is losing its lustre - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORnRIMXRSd1hhWWxxR01Ra2RHek5MV0ZYNHdCYWNLeXdyaU5VNm9iRUt3MXoySkJMNkdrTFF0bU9aNHJraUpyNnZTc21rNmp2VWU2V21wcFk2b0UxNjAtclBjXzdqM19DVi02R0tZcFA1NVhjaG1pU296S2xEYmI3aFRSOWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUIwbVZVSHRvbFY3LWplRTQ1ODYwbVd3UEM3Y1MtZktrOHJhaF9BZmwxVVFMWVZ2a2hGQTl6TDB2YXlGbTlzNVlSZE02WHBfNEhhcVMyU1JDLXF5ZEZwVGZuUEIzZEdhajdyTWp4QXQzdi1jdGtIb25nQ0VMbEpoU1J3Z3Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORnRIMXRSd1hhWWxxR01Ra2RHek5MV0ZYNHdCYWNLeXdyaU5VNm9iRUt3MXoySkJMNkdrTFF0bU9aNHJraUpyNnZTc21rNmp2VWU2V21wcFk2b0UxNjAtclBjXzdqM19DVi02R0tZcFA1NVhjaG1pU296S2xEYmI3aFRSOWQ?oc=5" target="_blank">Volkswagen to slash up to 50,000 jobs in historic restructuring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUIwbVZVSHRvbFY3LWplRTQ1ODYwbVd3UEM3Y1MtZktrOHJhaF9BZmwxVVFMWVZ2a2hGQTl6TDB2YXlGbTlzNVlSZE02WHBfNEhhcVMyU1JDLXF5ZEZwVGZuUEIzZEdhajdyTWp4QXQzdi1jdGtIb25nQ0VMbEpoU1J3Z3Q?oc=5" target="_blank">The university degree is losing its lustre</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Milei dials up Argentina’s claim to Falklands - Financial Times
+## Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNRb0hKMm9qYnRxbWo3bWx6V1EwRXlJUVl1Uld1cmtuU3E3RGY1VHU5QzF0bWtoOU0wYm9yNElGdXRMakN3UEZNc2FKU1o0ZUgwZ3dWZ2xCR0dCZkRIb2RhdTNhSTh1bmJKcGtwbXdWOXpzR0l6cnhDd2dEOUYweGxLcUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUpYWG56T0hlU0FuRzZRd2E2TW5PZWtQN2s2SXVzYnpTQjBNQzdQSVl4YVV3VEdfLUN2MFM3OHZBMjFYcWZmTFFUR2tqZWZyNUhJQjhNcXN4NF9NbkRfOHg4VGN5Z0UxTDNFUTE1WERRYWRkRndndHhaT0JvdDdES21xbU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjNRb0hKMm9qYnRxbWo3bWx6V1EwRXlJUVl1Uld1cmtuU3E3RGY1VHU5QzF0bWtoOU0wYm9yNElGdXRMakN3UEZNc2FKU1o0ZUgwZ3dWZ2xCR0dCZkRIb2RhdTNhSTh1bmJKcGtwbXdWOXpzR0l6cnhDd2dEOUYweGxLcUg?oc=5" target="_blank">Milei dials up Argentina’s claim to Falklands</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUpYWG56T0hlU0FuRzZRd2E2TW5PZWtQN2s2SXVzYnpTQjBNQzdQSVl4YVV3VEdfLUN2MFM3OHZBMjFYcWZmTFFUR2tqZWZyNUhJQjhNcXN4NF9NbkRfOHg4VGN5Z0UxTDNFUTE1WERRYWRkRndndHhaT0JvdDdES21xbU8?oc=5" target="_blank">Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions - Reuters
+## Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5" target="_blank">Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5" target="_blank">Trump says if the Fed doesn't cut rates, he'll stop trading with some nations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## How engineers in a WhatsApp group are guiding Nepal's flood rescue efforts - Reuters
+## Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5" target="_blank">How engineers in a WhatsApp group are guiding Nepal's flood rescue efforts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5" target="_blank">Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows - Reuters
+## Musk pushes regulatory limits with Tesla's Cybercab robotaxi service - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5" target="_blank">Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5" target="_blank">Musk pushes regulatory limits with Tesla's Cybercab robotaxi service</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Korea prepares Hormuz military deployment, media reports say - Reuters
+## US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5" target="_blank">South Korea prepares Hormuz military deployment, media reports say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5" target="_blank">US nonfarm payrolls surge in August; unemployment rate steady at 4.1%</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Musk super PAC wades into US midterms with $800,000 for Republicans in close races - Reuters
+## EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEZaSV9aS2VLVHZSSjB4cW5qeld3cjJocF9ldnd1UGRtSXZxU21xRjFreTBWanN2eXNzVDdRZlFxMFF2SUxDcnYwcEFYOVotRklseE04TzAwbG44TlNlQUFNMmI4YjBFTnF6WHNSX0J1R0V5NkZJWnN5cjY0c0NaZWRWWllaakhZQ2JKTXlZODBFbXBzZ1EtTzdFTHBHejlHSmRFelpwWEJnUHNUVDVDbURqUFJNbzZMdmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEZaSV9aS2VLVHZSSjB4cW5qeld3cjJocF9ldnd1UGRtSXZxU21xRjFreTBWanN2eXNzVDdRZlFxMFF2SUxDcnYwcEFYOVotRklseE04TzAwbG44TlNlQUFNMmI4YjBFTnF6WHNSX0J1R0V5NkZJWnN5cjY0c0NaZWRWWllaakhZQ2JKTXlZODBFbXBzZ1EtTzdFTHBHejlHSmRFelpwWEJnUHNUVDVDbURqUFJNbzZMdmc?oc=5" target="_blank">Musk super PAC wades into US midterms with $800,000 for Republicans in close races</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5" target="_blank">EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
