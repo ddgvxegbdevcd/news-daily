@@ -1,56 +1,66 @@
 {
-  "update_time": "2026-09-05 03:54:07",
-  "news_count": 10,
+  "update_time": "2026-09-05 14:55:42",
+  "news_count": 20,
   "news": [
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "HK’s Lee Says City to Expand Offshore Yuan Usage in 5-Year Plan",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
-      "publish_time": "Sat, 05 Sep 2026 02:45:07 GMT",
-      "summary": "Hong Kong Chief Executive John Lee said the city’s first five-year plan will focus on areas including expanding offshore yuan usage and cross-border investment with the mainland.",
+      "title": "US Strikes Iranian Tankers After Attack on US Warships",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/us-strikes-iranian-tankers-after-attack-on-us-warships-video",
+      "publish_time": "Sat, 05 Sep 2026 14:34:22 GMT",
+      "summary": "Bloomberg This Weekend has breaking news that US forces struck three Iranian crude carriers after the Islamic Revolutionary Guard Corps launched ballistic missiles toward two US Navy warships, according to US Central Command. The renewed fighting around the Strait of Hormuz adds pressure to shipping and energy markets as President Donald Trump continues to downplay the conflict as something short of war. (Source: Bloomberg)",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
-      "publish_time": "Fri, 04 Sep 2026 21:43:05 GMT",
-      "summary": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&amp;P 500 in the latest quarterly rebalance, S&amp;P Dow Jones Indices said Friday.",
+      "title": "Esper Raises Concern Over Pentagon Leadership Loss",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video",
+      "publish_time": "Sat, 05 Sep 2026 14:26:07 GMT",
+      "summary": "On Bloomberg This Weekend Former Defense Secretary Mark Esper calls the Pentagon’s polygraph testing of roughly 50 Joint Staff members unprecedented in scale as officials investigate leaks about US munitions stocks. Esper tells hosts Christina Ruffini and Jeff Mason that he is less concerned about immediate combat readiness than the institutional impact of leadership turnover and its potential effect on the military’s tradition of an apolitical officer corps. (Source: Bloomberg)",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Emerging Currencies Cap Longest Winning Streak Since 2007",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/emerging-market-stocks-currencies-rise-as-fed-hike-bets-ease",
-      "publish_time": "Fri, 04 Sep 2026 04:11:05 GMT",
-      "summary": "An index for emerging-market currencies rose for a 10th successive week, its longest winning streak since 2007, even as a blowout US jobs report briefly jolted global markets on Friday.",
+      "title": "EU Envoy Urges Maximum Pressure on Russia",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video",
+      "publish_time": "Sat, 05 Sep 2026 13:55:08 GMT",
+      "summary": "EU Ambassador to the United States Jovita Neliupšienė joins Bloomberg This Weekend and discusses with hosts Christina Ruffini and Jeff Mason that Europe must keep supporting Ukraine while applying “maximum pressure” on Moscow because Russia has not changed its war aims. The comments come as US envoys Steve Witkoff and Jared Kushner visit Moscow before heading to Kyiv in an effort to revive stalled peace negotiations. (Source: Bloomberg)",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
-      "publish_time": "Fri, 04 Sep 2026 20:14:30 GMT",
-      "summary": "The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.",
+      "title": "By The Way: Headlines You Should See",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video",
+      "publish_time": "Sat, 05 Sep 2026 13:20:13 GMT",
+      "summary": "Canned cocktails, the science behind the Gen Z stare and the US Open becoming a food fest: Join Bloomberg's Lisa Mateo, Christina Ruffini and Jeff Mason to hear about the headlines from this week you may have missed but need to check out. Watch, on Bloomberg This Weekend! Live Saturday and Sunday, 7am - 10am EST on Bloomberg.com  (Source: Bloomberg)",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Acuerdo de Trump con Venezuela inquieta a petroleras de EE.UU.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu",
-      "publish_time": "Fri, 04 Sep 2026 20:52:08 GMT",
-      "summary": "El presidente Donald Trump se ha jactado de que su amplio acuerdo petrolero con Venezuela, que en la práctica da a Estados Unidos control sobre gran parte de la riqueza petrolera del país, es posiblemente “el mejor acuerdo jamás firmado”.",
+      "title": "AI May Transform How Humans Understand Animals",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
+      "publish_time": "Sat, 05 Sep 2026 12:46:10 GMT",
+      "summary": "Researchers are using AI to analyze vast collections of animal vocalizations, looking for patterns that could help humans better understand how species such as crows communicate. Bloomberg Weekend Senior Writer Morgan Meaker is on Bloomberg This Weekend and says the technology could reshape humans’ relationship with animals, but researchers warn it also raises ethical questions about privacy, exploitation and how those discoveries might be used. (Source: Bloomberg)",
       "content": "",
       "content_length": 0
+    },
+    {
+      "source": "CNBC",
+      "source_cn": "CNBC",
+      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+      "url": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+      "publish_time": "Sat, 05 Sep 2026 12:00:01 GMT",
+      "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+      "content": "DETROIT — General Motors and Ford Motor have rivaled each other for more than a century in racing, vehicle sales and many other automobile-related activities.\nBut their latest battlegrounds have moved to actual battlefields and the U.S. energy grid.\nFord joined GM this year in seeking U.S. military contracts after the Trump administration approached U.S. companies about assisting the military with their expertise in mass manufacturing. The automakers' efforts so far are largely focused on military vehicles, but could grow with time.\nSimultaneously, both companies are entering the energy storage system, or ESS, market amid an expected growing need related to rising consumer energy costs and data centers. Energy storage systems use a lot of the same underlying technology as electric vehicle batteries to store power for homes, businesses and even utilities.\nBoth markets are viewed by Wall Street analysts as new potential growth areas for the automakers. At one point, it was thought new opportunities might come from all-electric vehicles, but Ford and GM have since lost billions of dollars on those efforts.\n\"They're looking for new verticals,\" Morningstar senior equity analyst David Whiston told CNBC. \"Ford's following GM's lead into defense, and energy makes a lot of sense because you have all this EV capacity that now you don't need. So instead of selling those factories, it's a way to try and capitalize on the data center boom.\"\nThe two markets are expected to be small portions of the companies' focus and revenue for the foreseeable future, but they could help the automakers diversify their operations and complement their core businesses as new vehicle sales slow in the U.S.\n\"It'll be hard to move the needle here massively, given the auto business's top line, but it certainly can be helpful,\" Whiston said.\nEnergy storage\nThe global ESS market is estimated to grow from $668.7 billion in 2024 to $5.12 trillion by 2034, according to research and consulting firm Global Market Insights. As part of that, the firm expects to see a significant expansion in the U.S.\n\"We're seeing this huge projection of growth, and it's already started growing,\" Devon Wilson, vice president of sales and marketing at LG Energy Solution's U.S. energy storage division, said during a recent event. \"There's a massive amount of just fundamental electricity need within the country.\"\nGM and Ford are attempting to capitalize on such expected growth to fill a void. The companies invested billions of dollars in plants to produce battery cells to meet EV demand that didn't materialize.\nGM's energy business does not currently offer its own ESS, but its military division does and its Ultium Cells joint venture in Tennessee produces cells for its partner LG Energy Solution for storage.\nLong-term, GM could move further into ESS, including developing next-generation sodium-ion batteries with Denver-based startup Peak Energy. Kurt Kelty, GM's vice president of battery and sustainability, said he believes that technology can reshape grid-scale energy storage.\n\"We're developing the cells right now. The performance on these cells is tremendous,\" Kelty said. \"The ESS market is a very attractive market. It's a big market. It's growing very quickly, and it's something that we can contribute to.\"\nGM also has a partnership with Redwood Materials for reusing its large EV batteries for energy storage systems. GM also offers EV charging and ESS for residential use through its energy unit.\nMeanwhile, Ford said in December that it plans to spend $2 billion to launch an energy business, including converting a Kentucky battery factory it had recently built with partner SK On to make units for energy storage by late 2027. It also plans to devote some factory space to make cells for residential storage at a factory in Marshall, Michigan.\n\"Investors see value in Ford's ESS business,\" Morgan Stanley analyst Andrew Percoco said in an investor note in June. He's also called it an \"underappreciated driver\" of a path to profitability for Ford's Model e electric vehicle business.\nFord Energy is part of the company's Model e electric vehicle segment, which has guided for $4 billion in losses in 2026 before reaching breakeven by 2029. A key turning point is expected to be the company's ESS business coming online in 2027.\nFord CEO Jim Farley told investors on the automaker's second-quarter earnings call in July that it's in the \"third inning\" of selling out the 20 gigawatt hours of production capacity for ESS after announcing a five-year framework agreement with renewable-energy service provider EDF Power Solutions North America.\nDefense industry\nGM is years ahead of Ford when it comes to the U.S. defense industry. GM resurrected its defense unit in 2017 after a 14-year hiatus.\nIt has worked with the U.S. military on many projects, but the automaker was recently awarded a contract by the U.S. Army to build infantry squad vehicles, or ISVs, that it said could exceed $1 billion, depending on congressional appropriations.\nWhile the contract amount is small compared with the company's $48 billion in revenue during the second quarter, the opportunities for the automotive industry in U.S. military operations are expected to grow.\n\"Leveraging the capabilities, the scalability and the manufacturing abilities that come with all of the automotive companies and their tiered supplier is a huge benefit,\" Alfred Grein, executive director for research and technology integration for the U.S. Army Combat Capabilities Development Command Ground Vehicle Systems Center, told CNBC.\nGM said it expects its 2026 defense revenue to grow to almost $700 million and is targeting positive results on an earnings before interest and tax basis this year, while also building a backlog of future business.\n\"We are also working with Lockheed Martin and other leading companies to expand speed, scale and resilience in the defense industrial base,\" GM CEO Mary Barra told investors in July. \"Over time, all of this should make GM Defense a more meaningful and diversified contributor to our earnings.\"\nGrein, who manages the technology of manned and unmanned ground systems throughout the U.S. Army, said the Trump administration has made it easier for new companies, including automakers, to be granted such contracts. He also said domestic manufacturing in the U.S. is critical.\n\"Obviously, the concern about foreign entities' involvement in particularly Department of Defense product becomes more and more crucial,\" Grein said.\nGM and Ford were included in a group of companies that were awarded prototype contracts to produce heavy infantry squad vehicles, which are bulkier versions of what the companies have worked on previously.\nFord has not released many details about its U.S. defense efforts. The automaker on Wednesday, though, announced a tie-up with General Dynamics Land Systems and engineering firm Ricardo to compete for a next-generation vehicle for the United Kingdom's Ministry of Defence's Light Mobility Vehicle program.\nThe defense efforts of GM and Ford are the latest in a long line of such initiatives, including, most notably, the \"Arsenal of Democracy\" during World War II in which the companies worked with the U.S. and the Allied nations to provide military supplies to fight Nazi Germany.\n\"We already dominate in that market in the commercial world. We want to offer the U.S. government the same advantages that our commercial customers get,\" Farley told investors in July. \"It's a great opportunity for us. … We are discussing, continue to discuss, additional defense-related projects with the U.S. government.\"",
+      "content_length": 7646
     },
     {
       "source": "CNBC",
@@ -93,14 +103,104 @@
       "content_length": 3690
     },
     {
-      "source": "CNBC",
-      "source_cn": "CNBC",
-      "title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
-      "url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
-      "publish_time": "Fri, 04 Sep 2026 11:32:55 GMT",
-      "summary": "The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.",
-      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.\nThe ranks of the world's billionaires hit a record 3,795 people in 2025 as the artificial intelligence boom turbocharged wealth creation across the globe, according to a recent report published by Altrata.\nThat finding marks an 8.2% uptick in billionaire headcount, the largest annual jump in five years, per the wealth intelligence firm. The combined wealth of the world's billionaires surged by 12.8% to a record $15.1 trillion last year, it found.\nAltrata identified 150 publicly listed companies that contributed the most to billionaire wealth. Firms that invested at least $30 million in AI over the past five years outperformed those that did not by 23% in market capitalization growth from 2024 through 2025, Altrata said.\nWall Street's AI fervor also contributed to the widening wealth gap in the three-comma club, according to Maya Imberg, head of thought leadership and analytics at Altrata.\nThe report identified 29 \"superbillionaires\" — individuals worth more than $50 billion — with a combined net worth of $4.1 trillion, or 27% of all billionaire wealth. In 2017, per the firm's estimate, there were only 10 superbillonaires, who represented 7.2% of all billionaire wealth.\nWhile the rise in tech stocks has created historic fortunes, wealth built on AI-exposed tech stocks can be volatile, Imberg said.\n\"We expect the fortunes of many of the richest billionaires, those whose companies are tech-focused, to go up and down in response to the AI story,\" she said via email.\nThis year has seen wild swings in the stock market, including a $1.3 trillion selloff in major chip stocks in July. For the richest of the rich, this translates into staggering and rapid gains and losses in paper wealth, such as an $18 billion one-day drop for Elon Musk and $50 billion week-long plunge for Larry Ellison, according to Forbes.\n\"Market concentration doesn't necessarily mean it's a bubble. But there's certainly risk when exposure is concentrated within one main sector (tech), and to AI within that,\" Imberg said.\nThe billionaire population of North America, the largest in the world at 1,337 people, grew by 11.6% in 2025, a faster rate than any other region, according to Altrata. Imberg credited part of this rapid growth to the U.S.'s dominance in private and public tech markets.\nEurope's billionaire ranks stands at 1,081 people after a 7.9% jump last year. Asia's billionaire population reached 881 after a 6.5% increase.\nWhile AI enthusiasm was a major boon to billionaire wealth, the report noted that 2025 was an unusually fortuitous year in many respects. All major asset classes tracked by Altrata delivered positive returns in 2025, a first since the pandemic, despite the turbulence of U.S. President Donald Trump's trade war.",
-      "content_length": 2959
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Rerun or sequel? Naomi Klein and Astra Taylor on end times fascism - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlMmlBbUplcS1qc0RvbUEzYXdRYUJKeWVDblJDSnV0MEtHRlptS1pRT2dzTXF4Ui1JQkI3ZWZPQ3M0NXJUc25LVlVYa19MWkFXMmJrTUFNRlRJNWZBM1pRNm54SHVORU9wNTUzOTRiZTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 04:00:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBlMmlBbUplcS1qc0RvbUEzYXdRYUJKeWVDblJDSnV0MEtHRlptS1pRT2dzTXF4Ui1JQkI3ZWZPQ3M0NXJUc25LVlVYa19MWkFXMmJrTUFNRlRJNWZBM1pRNm54SHVORU9wNTUzOTRiZTA?oc=5\" target=\"_blank\">Rerun or sequel? Naomi Klein and Astra Taylor on end times fascism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDVfcWlFSFNyS1ZBaVVfcHRzTFZaLWNVQkpnRmNuSHhleEY2X09ZVTdOeUx1ZUVNU3JPMWVFUTVxRmlJVTV6QVl5azFPbkdLNzFpaGJmRjRnRV94THd5N1NCU1dRcHRQVlBmanhVTEg2UnJSZ1NWclBpTnFkUXdISFZUTzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 04:05:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDVfcWlFSFNyS1ZBaVVfcHRzTFZaLWNVQkpnRmNuSHhleEY2X09ZVTdOeUx1ZUVNU3JPMWVFUTVxRmlJVTV6QVl5azFPbkdLNzFpaGJmRjRnRV94THd5N1NCU1dRcHRQVlBmanhVTEg2UnJSZ1NWclBpTnFkUXdISFZUTzg?oc=5\" target=\"_blank\">US Republicans revolt against Flock AI surveillance as tech backlash intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Is Keynesianism dead? - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzRCdV9qTXF5b0xrc0lRWEhXcUFYNlJGcU85cUt6N08wWXdaeXJyLS1CR2Zra0g0aVdfTVlaTWNERmFoUWFMYXdvX1RUUWZlaUtjakZST3pRdUZMZHZPa1IyU21IUnJydk9fS3BSeGd3cXdDY3ZkZk9tSktVN3E2QWpBeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 10:02:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzRCdV9qTXF5b0xrc0lRWEhXcUFYNlJGcU85cUt6N08wWXdaeXJyLS1CR2Zra0g0aVdfTVlaTWNERmFoUWFMYXdvX1RUUWZlaUtjakZST3pRdUZMZHZPa1IyU21IUnJydk9fS3BSeGd3cXdDY3ZkZk9tSktVN3E2QWpBeVE?oc=5\" target=\"_blank\">Is Keynesianism dead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Scotland has a whisky problem - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNQXhGWE9UeUF5ZW1hRmw3Rmc0Vkk1OTZsNjBCeXQxTXdyd1F3Rmp0aFB0MTJieEV0SlpWM3FpSzJYQ2xQejZTNzlub1gycEQ1WkJmdXdlbnJEa0RtMDZLLWxzZzdzSzFJVnpselNXaEIzN2s2V1UyNmpNSW8xbnlXZUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 04:00:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNQXhGWE9UeUF5ZW1hRmw3Rmc0Vkk1OTZsNjBCeXQxTXdyd1F3Rmp0aFB0MTJieEV0SlpWM3FpSzJYQ2xQejZTNzlub1gycEQ1WkJmdXdlbnJEa0RtMDZLLWxzZzdzSzFJVnpselNXaEIzN2s2V1UyNmpNSW8xbnlXZUk?oc=5\" target=\"_blank\">Scotland has a whisky problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "EU counterterror envoy urges pressure on social platforms over youth extremism - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWNxa095OF9FaEpKZV8wNUdWa3VvS05pQjctYjR5andDSnYxTjh5eENtNktPQkh3dF9vWVlCaXVKNDlSY1VteDBYNWhLcmtFYmtkNEw2MG16akpESmpDaUZpYmFXNnltWk1OZXc3LS13T0VNSXJkSnk0a3QyTXMyVTEtN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 04:00:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWNxa095OF9FaEpKZV8wNUdWa3VvS05pQjctYjR5andDSnYxTjh5eENtNktPQkh3dF9vWVlCaXVKNDlSY1VteDBYNWhLcmtFYmtkNEw2MG16akpESmpDaUZpYmFXNnltWk1OZXc3LS13T0VNSXJkSnk0a3QyTXMyVTEtN0E?oc=5\" target=\"_blank\">EU counterterror envoy urges pressure on social platforms over youth extremism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 12:53:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5\" target=\"_blank\">Tens of thousands rally in Zagreb over Croatia waste cleanup delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Greek F-4 crashes during an air show near Athens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 12:45:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5\" target=\"_blank\">Greek F-4 crashes during an air show near Athens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Missouri asks Supreme Court to revive Republican-drawn congressional map - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDZhTmZ3aUFBR1RfOFU0c29EQ0pFeTFyV0Mxb19pemdhMlllWVlZOHlnd1pGdTZYSGdib211VGhoLUlZVjBQVjRmVTJKNHpFb1cycWR3YjFKTDFodDVNUjZpV2trRUh4VGVvOFQ0ZXB5SkVkNzAxcHFZMlhzcFpBUG5mdXJGcnZ5RUJ2QjJtNDhyRTRoWGY4R3hNZm1ibUpzbGZRZFlnNlRNOHhmV2ZVc0dmLWNLdXVHdUJteDJ6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 12:17:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDZhTmZ3aUFBR1RfOFU0c29EQ0pFeTFyV0Mxb19pemdhMlllWVlZOHlnd1pGdTZYSGdib211VGhoLUlZVjBQVjRmVTJKNHpFb1cycWR3YjFKTDFodDVNUjZpV2trRUh4VGVvOFQ0ZXB5SkVkNzAxcHFZMlhzcFpBUG5mdXJGcnZ5RUJ2QjJtNDhyRTRoWGY4R3hNZm1ibUpzbGZRZFlnNlRNOHhmV2ZVc0dmLWNLdXVHdUJteDJ6QQ?oc=5\" target=\"_blank\">Missouri asks Supreme Court to revive Republican-drawn congressional map</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 14:15:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5\" target=\"_blank\">US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Sat, 05 Sep 2026 14:36:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5\" target=\"_blank\">The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "",
+      "content_length": 0
     }
   ]
 }
