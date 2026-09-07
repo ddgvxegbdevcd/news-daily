@@ -1,21 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-09-07 03:58:16
+更新时间：2026-09-07 17:36:45
 
-## Iron Ore Tops $100 on Position Unwinds and China Buying Hopes
+## High Expectations Leave Stocks Vulnerable: Noviskis
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-07/iron-ore-tops-100-on-position-unwinds-and-china-buying-hopes
+链接：https://www.bloomberg.com/news/videos/2026-09-07/high-expectations-leave-stocks-vulnerable-noviskis-video
 
 正文长度：0
 
-摘要：Iron ore broke above $100 a ton for the first time in seven weeks as traders unwound bets that favored coking coal, adding to support from expectations for pre-holiday restocking in China and high freight costs.
+摘要：Jessica Noviskis, OCIO portfolio strategist at Marquette Associates, says strong earnings continue to support US stocks, but elevated expectations and higher yields leave the market vulnerable if results disappoint. “When we do see those hiccups, we can see a bigger correction,” she says on “Bloomberg Markets.” (Source: Bloomberg)
 
 
 ---
 
-## EM Stocks Jump to 2-Month High as Tech Rally Offsets Higher Oil
+## US Stocks Slip as Oil Gains Keep Traders Cautious: Markets Wrap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates
+
+正文长度：0
+
+摘要：US stock futures fell in cautious trading as an escalation in the Middle East pushed oil prices higher, adding to an already difficult inflationary backdrop.
+
+
+---
+
+## EM Stocks Jump to Highest Since June as Tech Offsets Higher Oil
 
 来源：彭博社
 
@@ -23,47 +36,33 @@
 
 正文长度：0
 
-摘要：Emerging-market equities rallied at the start of the week as optimism over new AI models boosted heavyweight tech stocks, helping counter the drag on sentiment from higher oil prices.
+摘要：An index tracking emerging-market equities rallied at the start of the week — reaching its highest level in more than two months — as optimism over new AI models helped counter the drag from increased oil prices.
 
 
 ---
 
-## Multiple Dead in New Delhi Building Collapse
+## France Champagne Output Set to Halve on Heat Waves and Drought
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-07/multiple-dead-in-new-delhi-building-collapse-video
+链接：https://www.bloomberg.com/news/articles/2026-09-07/france-champagne-output-set-to-halve-on-heat-waves-and-drought
 
 正文长度：0
 
-摘要：Several people are dead after a multi-storey building collapsed in New Delhi. Rescue crews worked through the night, searching through the rubble for people who may still be trapped.
- (Source: Bloomberg)
+摘要：France’s Champagne output is set to fall by almost half from 2025 as extreme weather batters yields.
 
 
 ---
 
-## Peso Left Behind in Asia as Oil Shock Erodes Dollar Reserves
+## Latest Oil Market News and Analysis for September 7
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-06/peso-left-behind-in-asia-as-oil-shock-erodes-dollar-reserves
+链接：https://www.bloomberg.com/news/articles/2026-09-06/latest-oil-market-news-and-analysis-for-september-7
 
 正文长度：0
 
-摘要：The Philippine peso just can’t catch a break.
-
-
----
-
-## Indonesia Extends Volcano Airport Closures
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-09-07/indonesia-extends-volcano-airport-closures-video
-
-正文长度：0
-
-摘要：Indonesia extended airport closures and halted free school meals in some areas as ash from Mount Anak Krakatau continued to disrupt activities. (Source: Bloomberg)
+摘要：Oil moved higher on a thin day of holiday trading as risks to oil flows through the Strait of Hormuz continued to support prices, alongside the return of Chinese crude purchasing.
 
 
 ---
@@ -262,132 +261,132 @@ More broadly, demand for luxury travel is pushing up high-end hotel rates around
 
 ---
 
-## Donald Trump’s approval rating falls to lowest yet in FT poll - Financial Times
+## Shipping through Panama Canal faces new cuts as water dries up - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0FfUXlTZTZpaEI3OFd6Tk9iZURUZ1diUUZlb1ZPbUtLa1lqVVl1QmE1WEVUcG5QWk1PVllnOFpLUGFCRFFGM09ZM19HWnRVTEgzb2JJMTNEVjF4Z0dkeFIzNzRkcHJrcFF1T29fSzVrMXlpMjdOd0QtSTI2d21xWDh3Z2M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlpNcHFXd1M1VmR0VmYzVy1HS3VId1lzczV0Mks5bWk4cm1GekZuYWVKZ1F2TS1rc2RJbXlPWDlLUDdDOXFlYWcwOGhXTDExUXp5aGlaSXE2dmsxb0U1b2RYY2JoaHh6TDhTUlhUTE9LZ1BvS1NjS0NFTFBuSmN0eHROcXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0FfUXlTZTZpaEI3OFd6Tk9iZURUZ1diUUZlb1ZPbUtLa1lqVVl1QmE1WEVUcG5QWk1PVllnOFpLUGFCRFFGM09ZM19HWnRVTEgzb2JJMTNEVjF4Z0dkeFIzNzRkcHJrcFF1T29fSzVrMXlpMjdOd0QtSTI2d21xWDh3Z2M?oc=5" target="_blank">Donald Trump’s approval rating falls to lowest yet in FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlpNcHFXd1M1VmR0VmYzVy1HS3VId1lzczV0Mks5bWk4cm1GekZuYWVKZ1F2TS1rc2RJbXlPWDlLUDdDOXFlYWcwOGhXTDExUXp5aGlaSXE2dmsxb0U1b2RYY2JoaHh6TDhTUlhUTE9LZ1BvS1NjS0NFTFBuSmN0eHROcXc?oc=5" target="_blank">Shipping through Panama Canal faces new cuts as water dries up</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Was Huawei’s rise built on crime? A US jury will decide - Financial Times
+## Deutsche Bank settles €152mn lawsuit with former executive - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDgxbVg1a1RRTkQ1ZnVjRzU4ZmpQczFOdVNUUVVTTjVRQW5BWVVwSDVmQ3dUUXR5VFFwMGVKRnB0UHpfTS1PX0ZULTVFdE5TLVdVd25VY0thbXVySm5jX0tXWkhidmtmSXhPbFZDRFFmVm96empwdEJYTzNpaGptdzhuc1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2NqVnVLUXRJMVhNY0xyYlRXZEdCYVBVRk1YSi1PZGY4UkEzcnRNWUdaQ1BNaDlDNW5yODJWd3IxMEV2a2o0SUhNaF9NenJnMFZUM3FmOWRfMmxGQnRJQTVyNEwyUzAtZkFfaVgyaUxETFhUNWEyM2J3OGVHYTFDY2UtWG4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDgxbVg1a1RRTkQ1ZnVjRzU4ZmpQczFOdVNUUVVTTjVRQW5BWVVwSDVmQ3dUUXR5VFFwMGVKRnB0UHpfTS1PX0ZULTVFdE5TLVdVd25VY0thbXVySm5jX0tXWkhidmtmSXhPbFZDRFFmVm96empwdEJYTzNpaGptdzhuc1E?oc=5" target="_blank">Was Huawei’s rise built on crime? A US jury will decide</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2NqVnVLUXRJMVhNY0xyYlRXZEdCYVBVRk1YSi1PZGY4UkEzcnRNWUdaQ1BNaDlDNW5yODJWd3IxMEV2a2o0SUhNaF9NenJnMFZUM3FmOWRfMmxGQnRJQTVyNEwyUzAtZkFfaVgyaUxETFhUNWEyM2J3OGVHYTFDY2UtWG4?oc=5" target="_blank">Deutsche Bank settles €152mn lawsuit with former executive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow - Financial Times
+## A German election result heard around the world - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzlfVHZ4TE0zbU1xU2NkRHdiRkhoMHdnMjhIT09ldV9SeUhoZ0RBQ2FJd3dGVURKVUxZQXBzWXNzNHVSOXdHZ1BWeXl0dWdHYVN4U1NOSDY5ZWpoV0xmQmFqbHBRYmZaLUkwNGp1UzY4MUVPRzRpNlVtMlVNTERpMndIdUs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmtVTlVqWWEzMUtsUm93d3hmLWI5SkpITktuOFRUNHowTDMtOWJ2M1prdDE0VUNNcGFrcHVsYmpXQWh3ckZ2WmxnWS02Y256ZXRseGI0bEM2LWU1aWdlaVVjQ0M5N2xSTEhDd3RWbXhHSDlFSmNER1hGRTY0el91TGdyT1Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzlfVHZ4TE0zbU1xU2NkRHdiRkhoMHdnMjhIT09ldV9SeUhoZ0RBQ2FJd3dGVURKVUxZQXBzWXNzNHVSOXdHZ1BWeXl0dWdHYVN4U1NOSDY5ZWpoV0xmQmFqbHBRYmZaLUkwNGp1UzY4MUVPRzRpNlVtMlVNTERpMndIdUs?oc=5" target="_blank">Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmtVTlVqWWEzMUtsUm93d3hmLWI5SkpITktuOFRUNHowTDMtOWJ2M1prdDE0VUNNcGFrcHVsYmpXQWh3ckZ2WmxnWS02Y256ZXRseGI0bEM2LWU1aWdlaVVjQ0M5N2xSTEhDd3RWbXhHSDlFSmNER1hGRTY0el91TGdyT1Q?oc=5" target="_blank">A German election result heard around the world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Far-right AfD surges to first place in German state elections - Financial Times
+## Iran to raise petrol prices as US war triggers shortages - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWllkTVdzYl9JcW5sQmdJalFtWjVfY1V3dWFBUEhtOGM2eGtOM3ZwQ09MbkdROTE0bUpOTUxlNnlRMnk0Nl95R3RRVlB4N2E3M3F2SFpSUmRJcE1xTXhxUkMtaXdQWFNabjRZMkRLcnVoOTYwOVJ1ajhCdUMyUmpyNGsxM3k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOejA0YmpvTi1FS0NFQUZyeXlwU3g1OWVlVkxQTzZESlQ2bGRnMG91b2cwVVd1TnNhUl8zY2FzMnlybjh5ZlpVY1FBTkhWVW9LRDFVOFA2cFNLQjc1dGFxUHU1QVNOcXJkODZoOC15cnNKeTVneXNfeUNpTk9EQ0plWEtBTW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWllkTVdzYl9JcW5sQmdJalFtWjVfY1V3dWFBUEhtOGM2eGtOM3ZwQ09MbkdROTE0bUpOTUxlNnlRMnk0Nl95R3RRVlB4N2E3M3F2SFpSUmRJcE1xTXhxUkMtaXdQWFNabjRZMkRLcnVoOTYwOVJ1ajhCdUMyUmpyNGsxM3k?oc=5" target="_blank">Far-right AfD surges to first place in German state elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOejA0YmpvTi1FS0NFQUZyeXlwU3g1OWVlVkxQTzZESlQ2bGRnMG91b2cwVVd1TnNhUl8zY2FzMnlybjh5ZlpVY1FBTkhWVW9LRDFVOFA2cFNLQjc1dGFxUHU1QVNOcXJkODZoOC15cnNKeTVneXNfeUNpTk9EQ0plWEtBTW4?oc=5" target="_blank">Iran to raise petrol prices as US war triggers shortages</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## European SpaceX rival launches rocket into orbit - Financial Times
+## AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmRGSWNPUDVROFFtYy1vQktIYjF0dVMyWTloOUVzbVRmQTVkS254d0d2LWNhTVNBTXVQMy05by1WT2Q2WkMwT3lRbzVlQllJRWROeWEtZTlxTWtqemRaMXhidnEyOWFKNXpvTUZjQkF6UDlpdFAweEI4RTRiU1VZSmNnUDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmRGSWNPUDVROFFtYy1vQktIYjF0dVMyWTloOUVzbVRmQTVkS254d0d2LWNhTVNBTXVQMy05by1WT2Q2WkMwT3lRbzVlQllJRWROeWEtZTlxTWtqemRaMXhidnEyOWFKNXpvTUZjQkF6UDlpdFAweEI4RTRiU1VZSmNnUDg?oc=5" target="_blank">European SpaceX rival launches rocket into orbit</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5" target="_blank">AI computing demand may never be sated, says CEO of Nvidia partner Iren</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau - Reuters
+## Small German leftist party emerges as potential far-right kingmaker - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3lQYWRaNm1SWnd1TzhrOUJkMHBWVUt2aXJqZ1pmRzF0dERJeHhSYUxJX0w0amVjOGt5NWFhSGhrNTZuSE9vR05NY1JjM3NXZDNVbl9ZYWJON0dHdkIxTS1wWWt5dExNbjlkZkh1THJBbXl3N1huQlJpSFo1cF9XWDhHMElBXzg3UmYzVTlzdmZzZURzTkIxOXBVUnVHSHd2N0pkbHdzZjZtTGZ2MktKcF9kNkMtQnlaT3RVUFNURXVGQS1rMDRV?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOTS1MSTVIVUx1b2tyNlRJZnBEQTZEV1g2dmg1VmVDV1I3OUtHeWIweFpPQkpROUZUNXZXcXpxeEw0ZUpfN3lmaEFOdFM5MS1GOExQTE11TjBSQ1VHREFrSDRsR24yakwweDNMcTlUVWJ6cTFyWnhNTnJYczNEa1BHMkdqN3JVYmFUeEVuVExxVDZ5OUczdjZmUk9sWnM0VHFkNEFpc1ZQbWJ6dGlGaGhwcVpXWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3lQYWRaNm1SWnd1TzhrOUJkMHBWVUt2aXJqZ1pmRzF0dERJeHhSYUxJX0w0amVjOGt5NWFhSGhrNTZuSE9vR05NY1JjM3NXZDNVbl9ZYWJON0dHdkIxTS1wWWt5dExNbjlkZkh1THJBbXl3N1huQlJpSFo1cF9XWDhHMElBXzg3UmYzVTlzdmZzZURzTkIxOXBVUnVHSHd2N0pkbHdzZjZtTGZ2MktKcF9kNkMtQnlaT3RVUFNURXVGQS1rMDRV?oc=5" target="_blank">Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOTS1MSTVIVUx1b2tyNlRJZnBEQTZEV1g2dmg1VmVDV1I3OUtHeWIweFpPQkpROUZUNXZXcXpxeEw0ZUpfN3lmaEFOdFM5MS1GOExQTE11TjBSQ1VHREFrSDRsR24yakwweDNMcTlUVWJ6cTFyWnhNTnJYczNEa1BHMkdqN3JVYmFUeEVuVExxVDZ5OUczdjZmUk9sWnM0VHFkNEFpc1ZQbWJ6dGlGaGhwcVpXWQ?oc=5" target="_blank">Small German leftist party emerges as potential far-right kingmaker</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil extends gains after US and Iran strike ships - Reuters
+## King Charles confirms Harry and Meghan remain non-working royals - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2JtZ1FvZnJraE04d2pwUlAwVGZyNXR6aVNRTHRPeFFTVnZrNkZLMWg5Y2ZMaGp2c0ZZbV85ZzBpSkdOLTNjTjFYc0VXclhwajh4X1ZfUHRtcnMyYjBLVzZpZUZ0eHR4aDVXd2lsdDJUMGhVNi02bjZqQU9YUXRkN0tJZ1d1cFoxUGxYTWxVS1RraXZyMGxzTXJJSUt6YnNpLTdmUWFDb2xfN3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5" target="_blank">Oil extends gains after US and Iran strike ships</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2JtZ1FvZnJraE04d2pwUlAwVGZyNXR6aVNRTHRPeFFTVnZrNkZLMWg5Y2ZMaGp2c0ZZbV85ZzBpSkdOLTNjTjFYc0VXclhwajh4X1ZfUHRtcnMyYjBLVzZpZUZ0eHR4aDVXd2lsdDJUMGhVNi02bjZqQU9YUXRkN0tJZ1d1cFoxUGxYTWxVS1RraXZyMGxzTXJJSUt6YnNpLTdmUWFDb2xfN3M?oc=5" target="_blank">King Charles confirms Harry and Meghan remain non-working royals</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hormuz traffic dips to lowest since May after US, Iranian strikes on ships - Reuters
+## Syrian nuclear reactor could have been useful for weapons, IAEA chief says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1Yzd0xQX3FmaWVJVjdQREFrMWR1ZEZfaHlPNmpTY1FJRFRNYmN0YWVTSHB6NVNvTnJ5R0VYaS1RLXg5TUh5cjEzMmFzV0Nyb0FWUmRZSXlBMUlSQjRZbGFzQll1X0kzcXdBdnVsT25ncEhNY2Z3ME5IQTMzSk9TZEdDbGx5RFh2VEJjMzdKMy1uUlBPbWZ0NWgyLTh3cmU0cTA1bTE1Rnh0cWhpd1dKaWZlTDhQeGJKVWxJeHVB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHJMdjM1XzU0QWJDZXR0SFRSWkNKaGtZMzI2NURjQi1zNm12bDVIaHlGbDR3Tm5XZnk2RHoyZVZrQ21hR0hNSFdqZ1hWUVJWNEpCTkMwbzVfRTc1TkE0bmYxYUN0aVNtMWFsTEd4cktFWHV0RWdIRWdQZXZQVmpmY2x2RDh2VE02TzNwM0FqOElRXy15OG1IZ0F6bEI0dHJuRjNDYzMzWkpxVFlBbkpfTy1vX2VvRXM1eDJhWUtWVlk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1Yzd0xQX3FmaWVJVjdQREFrMWR1ZEZfaHlPNmpTY1FJRFRNYmN0YWVTSHB6NVNvTnJ5R0VYaS1RLXg5TUh5cjEzMmFzV0Nyb0FWUmRZSXlBMUlSQjRZbGFzQll1X0kzcXdBdnVsT25ncEhNY2Z3ME5IQTMzSk9TZEdDbGx5RFh2VEJjMzdKMy1uUlBPbWZ0NWgyLTh3cmU0cTA1bTE1Rnh0cWhpd1dKaWZlTDhQeGJKVWxJeHVB?oc=5" target="_blank">Hormuz traffic dips to lowest since May after US, Iranian strikes on ships</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHJMdjM1XzU0QWJDZXR0SFRSWkNKaGtZMzI2NURjQi1zNm12bDVIaHlGbDR3Tm5XZnk2RHoyZVZrQ21hR0hNSFdqZ1hWUVJWNEpCTkMwbzVfRTc1TkE0bmYxYUN0aVNtMWFsTEd4cktFWHV0RWdIRWdQZXZQVmpmY2x2RDh2VE02TzNwM0FqOElRXy15OG1IZ0F6bEI0dHJuRjNDYzMzWkpxVFlBbkpfTy1vX2VvRXM1eDJhWUtWVlk?oc=5" target="_blank">Syrian nuclear reactor could have been useful for weapons, IAEA chief says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EU to give Greenland a cash boost amid Trump annexation drive - Reuters
+## EU announces €200 million partnership deal with Greenland - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEowN0xTcUtyLU1rMXoxb0NNYWZaVi02WHJXNlhWZzRqWTNKbFpKckFNdUEzOFJaUWxRZHNyMUJBZXBuUk9VZXF0VkVsNjl3ZEtnWDI5aTlwSjdCS2FxcmUyclExS3lNTVZJTUlFMmY5dXhEREFKR1A0Qkg4Z0syanJmNWdialFqTHdIakZaQlgwMW5tYjA4YnRwbE5fOWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjJXQTZHMFRyNVlzb2tiOXV2eDRZcmdYZ1pJVFBtZFktYXFpTldMWVJaQUJmYUFDUmlVUEt6b191R3ZQYlZud2J6dTY5XzBsN1lyaTl1ZXhLckFXZ0RoSUdKTG12eWZibVZ5aW51V28wNktGWmtscFNCTDNMMjYzSXlzaUFEc0ZLYURLS3dXbmpiTE9tM0tqM3U5aDV4dUtYbnAw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEowN0xTcUtyLU1rMXoxb0NNYWZaVi02WHJXNlhWZzRqWTNKbFpKckFNdUEzOFJaUWxRZHNyMUJBZXBuUk9VZXF0VkVsNjl3ZEtnWDI5aTlwSjdCS2FxcmUyclExS3lNTVZJTUlFMmY5dXhEREFKR1A0Qkg4Z0syanJmNWdialFqTHdIakZaQlgwMW5tYjA4YnRwbE5fOWc?oc=5" target="_blank">EU to give Greenland a cash boost amid Trump annexation drive</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjJXQTZHMFRyNVlzb2tiOXV2eDRZcmdYZ1pJVFBtZFktYXFpTldMWVJaQUJmYUFDUmlVUEt6b191R3ZQYlZud2J6dTY5XzBsN1lyaTl1ZXhLckFXZ0RoSUdKTG12eWZibVZ5aW51V28wNktGWmtscFNCTDNMMjYzSXlzaUFEc0ZLYURLS3dXbmpiTE9tM0tqM3U5aDV4dUtYbnAw?oc=5" target="_blank">EU announces €200 million partnership deal with Greenland</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dollar gets little lift from boost in Fed hike expectations - Reuters
+## Saxony-Anhalt election delivers a blow to Merz and a warning to Europe - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmdkeWFmV2FTc2lKQlRsS3YxZ3Fkbjg1Q1VMY25hZ0ViWmdGUGRjSk45QU5Zbmg1aVk5UjZZVlVaTU9KX0pCRDVTSDdIZVhtM2d3ZEdJQ1RQVW9VSy1FUTNTT04yemtkaXFXMV9vUl80R0Rhend5bkM5UGZudkRGaWlQMGR4Z0duc0pXME4tUWF1NHkxQnhNbUZsMWp4cjg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5" target="_blank">Dollar gets little lift from boost in Fed hike expectations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmdkeWFmV2FTc2lKQlRsS3YxZ3Fkbjg1Q1VMY25hZ0ViWmdGUGRjSk45QU5Zbmg1aVk5UjZZVlVaTU9KX0pCRDVTSDdIZVhtM2d3ZEdJQ1RQVW9VSy1FUTNTT04yemtkaXFXMV9vUl80R0Rhend5bkM5UGZudkRGaWlQMGR4Z0duc0pXME4tUWF1NHkxQnhNbUZsMWp4cjg?oc=5" target="_blank">Saxony-Anhalt election delivers a blow to Merz and a warning to Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
