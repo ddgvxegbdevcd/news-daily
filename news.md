@@ -1,68 +1,148 @@
 # 每日财经新闻
 
-更新时间：2026-09-08 04:00:22
+更新时间：2026-09-08 16:23:52
 
-## Longsys Founder Bets Big on R&D to Ride AI Memory Wave
+## Ivanhoe Talking to Big Tech as Congo Copper Project Expands
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-08/longsys-founder-bets-big-on-r-d-to-ride-ai-memory-wave-video
+链接：https://www.bloomberg.com/news/articles/2026-09-08/ivanhoe-talking-to-big-tech-as-congo-copper-project-expands
 
 正文长度：0
 
-摘要：Longsys Electronics Founder Cai Huabo says 78% of proceeds will go into research and development as the company shifts from a module house to a semiconductor memory brand. With expansion plans in Brazil, Europe, and the US, Longsys aims to break the industry’s price‑driven cycle and position itself at the forefront of AI‑era innovation. (Source: Bloomberg)
+摘要：Mining tycoon Robert Friedland said he’s fielding “unconventional interest,” including from US Big Tech, in Ivanhoe Mines Ltd.’s fast-expanding copper exploration project in the Democratic Republic of Congo, highlighting growing anxieties about future supplies of the key metal.
 
 
 ---
 
-## Insilico's Lung Drug Reverses Aging Markers in Study
+## Stocks Fall as Oil Gain Stokes Inflation Worries: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-08/insilico-s-lung-drug-reverses-aging-markers-in-study-video
+链接：https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Alex Zhavoronkov, Founder and CEO of Insilico Medicine, discusses the implications after an AI-discovered lung drug developed by his company showed promise in reversing biological signs of aging. (Source: Bloomberg)
+摘要：An advance in oil prices sent stocks lower, fueling concerns about higher interest rates just days ahead of key inflation data.
 
 
 ---
 
-## Cigna Healthcare on Business Strategy
+## US Targets Iran’s Airlines As New Sanctions Push Continues
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-08/cigna-healthcare-on-business-strategy-video
+链接：https://www.bloomberg.com/news/articles/2026-09-08/us-targets-iran-s-airlines-as-new-sanctions-push-continues
 
 正文长度：0
 
-摘要：Jason Sadler, International Health Global President at Cigna Healthcare, discusses the company's business outlook amid the growing use of AI and rising healthcare costs. (Source: Bloomberg)
+摘要：The US took action against dozens of firms supporting Iran’s aviation sector on Tuesday, as part of a new sanctions effort from the Trump administration that hasn’t yet appeared to have much impact on Tehran’s main trading partners.
 
 
 ---
 
-## Japan 5-Year Bond Sale Sees Weaker Demand Than 12-Month Average
+## Carry Trades Can Withstand Yen Strength, Morgan Stanley Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-08/japan-5-year-bond-sale-sees-weaker-demand-than-12-month-average-mts4hwpf
+链接：https://www.bloomberg.com/news/articles/2026-09-08/carry-trades-can-withstand-yen-strength-morgan-stanley-says
 
 正文长度：0
 
-摘要：Japan’s five-year government bond auction drew slightly weaker demand than its 12-month average as investors turned cautious ahead of this month’s Bank of Japan meeting.
+摘要：The yen’s recent surge is unlikely to derail popular carry trades across emerging markets, according to Morgan Stanley strategists.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Sept. 8
+## Senegal to Negotiate Debt Reprofiling in Creditor Talks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-07/latest-oil-market-news-and-analysis-for-sept-8
+链接：https://www.bloomberg.com/news/articles/2026-09-08/senegal-to-negotiate-a-debt-reprofiling-in-talks-with-creditors
 
 正文长度：0
 
-摘要：Brent oil held gains near $100 a barrel as traders watched for details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, while strong Chinese buying tightened the market.
+摘要：Senegal will seek to negotiate a debt reprofiling instead of a restructuring in talks with creditors, as the West African nation moves to make its loans sustainable to qualify for an International Monetary Fund program.
+
+
+---
+
+## Here’s where rental demand is heading and what it means for future home sales
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html
+
+正文长度：3228
+
+摘要：As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
+Prices in the for-sale housing market are showing no signs of cooling off, causing more renters to stay on the buying sidelines. And as rents start to heat back up, too, more tenants are relocating to cheaper markets.
+Buffalo, New York; Chicago; and Houston are seeing the biggest growth in out-of-town searches on Zillow, followed by New Orleans and Dallas, according to the real estate listing site. Among markets that have already seen significant in-migration, like Salt Lake City; Raleigh, North Carolina; Hartford, Connecticut; and Nashville, Tennessee; out-of-town searches now outnumber local searches, Zillow found.
+Rental demand is typically a leading indicator of home sales.
+"Renting is often how people try out a new community before committing. When we see a market with a growing share of rental searches coming from outside the metro, that tips us off to a developing pipeline," said Mischa Fisher, chief economist at Zillow, in a release. "A year-over-year surge in out-of-town browsing in places like Buffalo and Chicago tells us a wave of newcomers may not be far behind."
+The markets seeing the biggest renter interest also have lower home prices. The national median price of an existing home sold in July was $434,100, according to the National Association of Realtors.
+Buffalo, Chicago and Houston all have lower median prices, according to Realtor.com.
+Rents had been easing over the past few years due to increased supply in most markets, but they are now back on the rise. August rents turned positive month to month for the first time in four years, according to Apartment List, but they were still slightly lower than August 2025.
+While most out-of-town rental searches on Zillow come from neighboring states, the one exception is New York City. Renters there continue to look for listings in the Sunbelt, making up large shares of views in Raleigh and in the Florida cities of Miami, Orlando and Tampa, according to Zillow.
+"When we see strong out-of-town interest flowing into a smaller market, it's often an affordability story. So renters in pricier places are choosing or discovering that they can get a lot more for their money somewhere new," said Fisher. "When the flow goes the other direction, into a major metro, it's frequently regional pull, people drawn to a big city's job market or opportunities from nearby."
+Despite huge migration to the South during and after the pandemic, these markets remain more affordable than the East and West coasts, so the flow continues. Both lifestyle and affordability are playing into the decision.
+In fact, 37 of the top 50 cities listed in RentCafe's "Best Cities for Renters" are in the South. The top three cities are McKinney, Texas; Huntsville, Alabama; and Austin, Texas. This ranking factors in cost of living, renter income growth and employment growth, among other things.
+
+</details>
+
+
+---
+
+## The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html
+
+正文长度：6362
+
+摘要：The Department of Energy has given grants to small battery tech companies. But the U.S. has a few years to do what took China decades.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Trump administration has been trying to build up the U.S. battery supply chain and reduce its reliance on China. But the funding it has set aside for the effort is small compared with what would be needed to substantially loosen China's grip on the industry, according to analysts and executives who spoke with CNBC.
+The Department of Energy awarded $500 million this August to seven companies related to battery minerals or materials, manufacturing or recycling. It is part of a much larger push by the administration to secure critical minerals and other materials. It also follows the cancellation of many Biden-era policies that supported battery manufacturing and funding for electric vehicles — by far the largest market globally for battery tech.
+This is the first round of funding by the Trump administration under two $3 billion DOE battery technology and materials programs that were created through the Biden-era Infrastructure Investment and Jobs Act. Boosting the U.S. battery supply chain had been a high priority for the Biden administration, said Richard Wang, CEO of Voya Energy, a battery technology company.
+"A lot of those policies have reversed themselves under the Trump administration and/or shifted," he said.
+The efforts come as China has a majority of the global share of several points along the battery supply chain — from raw minerals and chemicals all the way to finished products like electric vehicles and energy storage systems.
+"It takes decades and tens, if not hundreds of billions of dollars" to achieve the kind of comprehensive scale across the supply chain that China now has, said Tu Le, founder and managing director of Sino Auto Insights. "We don't have decades. We have five, six, seven years to try to become competitive."
+China's dominance in refining
+China is a major supplier of several critical minerals used in batteries, including graphite. But its real strength is in refining and processing. The country's share of mineral refining has grown since 2020, according to the International Energy Agency.
+China used that position as leverage in 2025, when it imposed strict export controls on rare earths and a range of other minerals and processing equipment.
+Several companies receiving DOE funds target spots where China has a strong presence. Coreshell Technologies, which was awarded $50 million by the department, makes battery anodes — an essential battery component — from domestically sourced silicon, rather than Chinese-sourced graphite.
+Lilac Solutions, meanwhile, received $100 million. That company has a method for extracting lithium from salt water brine, skipping a common refining process typically needed to get the material from hard rock.
+The global lithium market grew from about 150,000 metric tons in 2015 to 1.5 million metric tons in 2025, said Raef Sully, CEO of Lilac Solutions. The bulk of that growth came from lithium extracted from hard rock mines in the form of a mineral called spodumene. That rock needs to be processed to extract lithium, and 95% of spodumene processing happens in China, Sully said.
+"If you use our technology, you're producing battery grade lithium carbonate or hydroxide at the site of production," Sully said. "And you're bypassing that important step, that processing step that China has a chokehold on today."
+China's dominance continues further down the supply chain. It produces about 85% of the world's EV battery cathode active material and more than 90% of anode active material, according to the IEA. Then it makes 80% of the world's battery cells.
+The IEA said the lack of investment in these midstream stages in countries like the U.S. "poses a growing risk to global supply security."
+Scale is one of China's biggest advantages, said Wang, pointing to CATL, the world's largest EV and energy storage battery manufacturer, which is based in China.
+"They have built up an incredible lead in terms of technology and manufacturing capabilities across the world," he said. "They are one of the only battery companies in the world that's not only high in revenue, but is significantly profitable because of how strong their manufacturing and supply chain capabilities are."
+That is the competition that any U.S. firm faces.
+"We have a ton of innovation coming out of the United States," Le said. "These small fledgling companies are super innovative, but getting and building prototypes of what they're trying to sell is one thing. Being able to mass produce them at a high quality level, repeatably in the millions of units is another thing entirely."
+Batteries and EVs
+Batteries have become important to China as it has focused on scaling EVs domestically and started exporting more of those vehicles overseas.
+"New energy vehicles," which include hybrids, EVs and extended-range EVs, were 65% of China's new car sales in July, according to the China Passenger Car Association.
+The U.S. hasn't seen that same level of interest, as EVs, hybrids and plug-ins accounted for about 24% of sales in the U.S. in the second quarter of 2026, according to the Energy Information Administration. The U.S.'s total new car sales volume in 2025 was about 16.3 million, according to Cox Automotive, compared with 23.7 million in China.
+Despite the DOE grants that have been putting some money in the battery space, the Trump administration ended federal tax credits for EVs and other funding for those vehicles and batteries.
+Since January 2025, when Trump took office, nearly $24 billion in announced battery projects have been canceled, according to Atlas Public Policy, a think tank.
+"When you look at China, they are incredibly dominant in EVs at a time when the U.S. is slowing down its EV development," Voya Energy's Wang said. "What this is really jeopardizing is the ability of U.S. automakers to compete globally, where China is taking the lion's share of all the growth globally."
+Energy storage demand is growing, averaging 70% growth since 2022, according to the EIA. EVs still account for more than 70% of total lithium-ion battery deployment, the IEA said.
+Sully, of Lilac Solutions, said even though China has a big lead, he thinks the U.S. needs to start somewhere.
+Over the next decade, he said, the U.S. could see more domestic lithium, cathode material and battery cell production.
+"So early days, but a step in the right direction," he said.
+
+</details>
 
 
 ---
@@ -180,213 +260,132 @@ In her statement, Engelbert said she is grateful to WNBA and NBA team owners, st
 
 ---
 
-## THC drinks could soon be harder to find as Congress delays hemp ban again
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html
-
-正文长度：5223
-
-摘要：THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Erica Fabian says THC-infused drinks have become an alcohol alternative that have made a profound difference in her family.
-"Drinking [alcohol] is not healthy for both myself and my husband," said Fabian, a business owner and military spouse.
-Her husband, a retired 20-year Navy SEAL veteran with severe post-traumatic stress disorder, has found THC beverages particularly helpful, she said.
-"It's an actual game-changer," Fabian said. "I've seen it with my own eyes."
-But now, uncertainty around the category is creating concerns that it could become harder to get those beverages. Congress this week once again pushed off a federal crackdown on hemp-derived THC products, which companies have sold for years through an existing legal loophole even though recreational cannabis use remains illegal at the federal level.
-The House on Tuesday passed a stopgap spending measure that, in addition to keeping the U.S. government funded, delays new federal restrictions on hemp-derived THC products from Nov. 12 to Dec. 11. The measure buys the hemp industry another month to persuade lawmakers to create a regulatory framework to allow the continued sale of those products rather than ban them.
-The stakes are growing as consumer demand booms. THC beverages generated $239 million in measured U.S. retail sales in the 52 weeks through April, up 135% from a year earlier, according to NielsenIQ. The data tracked more than 1,170 products across more than 200 brands.
-Though the drinks are legal for now, the prospect of a ban has already affected beverage makers.
-Jake Bullock is the CEO of THC beverage maker Cann, which he said has become the top-selling THC drink at Target and the No. 2 nonalcoholic beverage at Sprouts. He said the company is seeing record sales to retailers, but a sharp pullback from wholesalers who are trying to avoid being stuck with inventory if Congress bans the product.
-"Our distributors should be buying more from us, but they're not," he said.
-Meanwhile, Joe Gerrity, CEO and co-founder of hemp beverage manufacturer Crescent Canna, said his company has already laid off half of its employees because of how congressional inaction has affected the business this year.
-Congress approved a measure as part of its government funding bill in November 2025, initially giving companies until this November to comply with new restrictions on intoxicating hemp products that had been allowed under the 2018 farm bill.
-"Nine months after passing a bill that would kill tens of thousands of small businesses, Congress has come together and done something tremendous — given themselves an additional month to solve a problem that they created" Gerrity said.
-"I want to celebrate, but it shouldn't take an army of lobbyists and tens of millions of dollars for Congress to protect small businesses from Congress," he added.
-Other, smaller brands face a potential supply-chain squeeze on the horizon.
-For now, retailers can keep selling the drinks and consumers can continue buying them, but distributors may become increasingly reluctant to replenish inventory while Congress debates the category's future.
-"Many distributors are requiring documentation stipulating manufacturers will take back and reimburse them financially for any product unable to be sold due to regulatory changes," said Gerrity. "This is an unprecedented situation, and nobody wants to get left holding the bag."
-Bullock said Cann is making a bet that Congress will reach an agreement on regulation, and is building inventory in anticipation of continued demand.
-High rise for THC beverages
-Many consumers have found THC-infused beverages to be a welcome alternative to alcohol, in particular because they contain lower levels of the psychoactive compound than traditional marijuana products do. The industry's opponents in Congress, however, argue that uncertainty around the safety of the relatively new beverages makes a ban the safest option.
-Rep. Andy Harris, R-Md., has been among the leading House Republicans pushing to bar hemp products from being sold, arguing that intoxicating hemp products are unregulated and pose risks to children.
-The debate extends beyond hemp-derived beverages to other intoxicating products sold under the hemp label.
-Other critics in Congress have focused on products that can be inhaled and high-potency candy products, as well as the lack of THC caps and testing requirements for those products. They have also expressed concerns about items containing synthetic cannabinoids.
-Bullock, however, said the beverage industry's goal isn't to preserve a regulatory vacuum, but rather set up new rules governing the products similar to the alcohol industry.
-"We're winning against an abolishing argument," he said, adding that Congress is "not worried" about drinks containing lower-milligram dosages of THC.
-Every time Congress extends the deadline, businesses question how much product they should make for distributors, making it hard for them to plan ahead, Bullock said.
-For consumers like Fabian who can see the beverages as both a recreational and wellness option, the stakes are more immediate.
-"If there is a responsible way to regulate it, I absolutely think that is the way to go," she said.
-
-</details>
-
-
----
-
-## Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html
-
-正文长度：3690
-
-摘要：Wealthy travelers are moving their typical summer getaways to autumn.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Fall is the new peak season for luxury travel, as the wealthy continue to shift their holidays to September and October to avoid the summer crowds, according to a new study.
-Fall bookings for luxury travel and experiences are up 59% compared with last year, while sales surged 69%, according to Virtuoso, the global luxury travel network. September is now a peak month, with sales up 77%. October and November sales are up 54% and 71%, respectively.
-Virtuoso calls it the "fallcation," with the wealthy moving their typical summer getaways to autumn.
-"Especially for the high-net-worth and ultra-high-net-worth group, we're seeing huge gains for fall this year," said Misty Belles, vice president at Virtuoso. "September is really eclipsing August. That shoulder season is no longer really a shoulder season. It's becoming a peak season unto itself."
-While the shift to fall has been happening for years, it accelerated in 2025 and 2026, travel experts said.
-Summer heat waves in Europe have made travel in July or August increasingly unpleasant. Growing wealth and the shift in spending from goods to experiences have fueled more luxury travel and ever-growing crowds in popular destinations like southern Italy and France. Top hotels and restaurants are often fully booked and charging ever-higher prices, making a summer trip to Europe often an exercise in disappointment.
-Demographics also play a role. Most wealth is now held by baby boomers, who are often retired and enjoying global travel. Gen Xers are joining them, since their kids are often grown and are no longer tied to the school calendar. Add in the millennial and Gen Z digital nomads, who aren't tied to the office, and the population of wealthy travelers who can ditch the traditional summer months in favor of fall is growing.
-"Wealthy travelers have more experience. They have experienced destinations in the summer," Belles said. "They know it's hot. They know it's crowded. They know it's not often the best time to see a destination, so they're shifting over to fall because the lines are going to be shorter, less crowded and the temperatures are more moderate."
-The most popular destinations for wealthy Americans this fall are largely in Europe, according to Virtuoso. Paris is the top destination, followed by the Amalfi Coast, the French Riviera, Tuscany in Italy and then New York. London, Lake Como, Italy, Maui, Hawaii, and Rome are also popular.
-There are signs, however, that the fallcation is recreating some of same problems travelers are trying to avoid in the summer. Hotel rates in Europe for September are now close to summer rates, with some charging even more, travel experts said. Average daily hotel rates are up 131% in the Greek Isles, 78% in Puglia in Italy and 179% on the French Riviera, according to Virtuoso.
-Crowds in Southern Europe could start to rival July and August, especially in wealthier resorts.
-"I don't think they're expecting no crowds," Belles said. "But they are expecting a better experience than they would see in the summer and I think that's going to continue for a while."
-Belles recommended traveling in November to avoid the September and October crowds, although November bookings are also up 70%.
-More broadly, demand for luxury travel is pushing up high-end hotel rates around the world. Bookings at hotels charging $1,500 or more per night are up 37% compared with last year. Luxury international hotels now average $1,653 a night, up from $985 in 2019, according to Virtuoso.
-"Rates are growing at a faster clip [for luxury] than the lower-rate hotels, so that tells us there is a premium placed on the experience," Belles said. "The demand is certainly strong."
-
-</details>
-
-
----
-
-## Oil closes in on $100 as renewed supply crunch looms - Financial Times
+## Reading scores plummet as ‘digital distraction’ harms students - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkdGSmh4blg0OWhNOUFRNVRqTUhTMkFaZXRsLXB2c3lIY0d6ZHF3R0xNb1hhblkxUzZWWWpHTkdfUW9WR21YWU1pS0t3M1VJMlNkc1Y0SUo2aVA4REx5aXhGcXpyV3A4dlAzTUwySG5MbkN6NHpybjRzcDZyMWlOcFp5UjE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDFoazJCZEJ4RG1abXpOT2RwRURVelNXcnBONE11b0I1UTZwSXdrRDNtQ2xvZ2pKQ3pjUkdBOWU0alduZzY2Z1d1RVE5S0FHYmJlQ0xESUVMV2FiZ09fQ1hoUWcwdDhtTno5NG5XWW9mdlprbnNjTk5sYlNaenl5N3JSb1I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkdGSmh4blg0OWhNOUFRNVRqTUhTMkFaZXRsLXB2c3lIY0d6ZHF3R0xNb1hhblkxUzZWWWpHTkdfUW9WR21YWU1pS0t3M1VJMlNkc1Y0SUo2aVA4REx5aXhGcXpyV3A4dlAzTUwySG5MbkN6NHpybjRzcDZyMWlOcFp5UjE?oc=5" target="_blank">Oil closes in on $100 as renewed supply crunch looms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDFoazJCZEJ4RG1abXpOT2RwRURVelNXcnBONE11b0I1UTZwSXdrRDNtQ2xvZ2pKQ3pjUkdBOWU0alduZzY2Z1d1RVE5S0FHYmJlQ0xESUVMV2FiZ09fQ1hoUWcwdDhtTno5NG5XWW9mdlprbnNjTk5sYlNaenl5N3JSb1I?oc=5" target="_blank">Reading scores plummet as ‘digital distraction’ harms students</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Yen surges to six-month high as traders stay alert for signs of intervention - Financial Times
+## The world’s $2tn interest bill - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTW1iQURkTWNpamRkUkE4dnJITl9LMXgta1A3a0ZZR0paWHV2MU5yLWRPdThCUkhsRGZjWXVPVzRfclpkX1Frd1hxdEVma1k2OWNueGVGVUFRRmdXM0V3Uzk5ck1VUXNaenBMbVNHUXdWME00RThQNGE2Qi1PbG5OT2NrMTc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTW1iQURkTWNpamRkUkE4dnJITl9LMXgta1A3a0ZZR0paWHV2MU5yLWRPdThCUkhsRGZjWXVPVzRfclpkX1Frd1hxdEVma1k2OWNueGVGVUFRRmdXM0V3Uzk5ck1VUXNaenBMbVNHUXdWME00RThQNGE2Qi1PbG5OT2NrMTc?oc=5" target="_blank">Yen surges to six-month high as traders stay alert for signs of intervention</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5" target="_blank">The world’s $2tn interest bill</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Shipping through Panama Canal faces new cuts as water dries up - Financial Times
+## European ‘wealth’ threatened by decline of region’s carmakers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlpNcHFXd1M1VmR0VmYzVy1HS3VId1lzczV0Mks5bWk4cm1GekZuYWVKZ1F2TS1rc2RJbXlPWDlLUDdDOXFlYWcwOGhXTDExUXp5aGlaSXE2dmsxb0U1b2RYY2JoaHh6TDhTUlhUTE9LZ1BvS1NjS0NFTFBuSmN0eHROcXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzVnQmxwMjlKc1Fsbk5Mb2RDbzg1M2NqV2V4QzE4Z2o3OElmMG1WdzFfOEJ4NXhRUElPY0gxNkdxSko2VHVIUWFCSnBYODRDTkFGUldHbGFyZ3psSmZmcGFscGlNMTllc1Y5ajVJZFJCdV95UUUxOWFxM3MxcWRmVXd4aVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlpNcHFXd1M1VmR0VmYzVy1HS3VId1lzczV0Mks5bWk4cm1GekZuYWVKZ1F2TS1rc2RJbXlPWDlLUDdDOXFlYWcwOGhXTDExUXp5aGlaSXE2dmsxb0U1b2RYY2JoaHh6TDhTUlhUTE9LZ1BvS1NjS0NFTFBuSmN0eHROcXc?oc=5" target="_blank">Shipping through Panama Canal faces new cuts as water dries up</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzVnQmxwMjlKc1Fsbk5Mb2RDbzg1M2NqV2V4QzE4Z2o3OElmMG1WdzFfOEJ4NXhRUElPY0gxNkdxSko2VHVIUWFCSnBYODRDTkFGUldHbGFyZ3psSmZmcGFscGlNMTllc1Y5ajVJZFJCdV95UUUxOWFxM3MxcWRmVXd4aVE?oc=5" target="_blank">European ‘wealth’ threatened by decline of region’s carmakers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## A German election result heard around the world - Financial Times
+## Huawei drives China’s push to make advanced chips - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmtVTlVqWWEzMUtsUm93d3hmLWI5SkpITktuOFRUNHowTDMtOWJ2M1prdDE0VUNNcGFrcHVsYmpXQWh3ckZ2WmxnWS02Y256ZXRseGI0bEM2LWU1aWdlaVVjQ0M5N2xSTEhDd3RWbXhHSDlFSmNER1hGRTY0el91TGdyT1Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmtVTlVqWWEzMUtsUm93d3hmLWI5SkpITktuOFRUNHowTDMtOWJ2M1prdDE0VUNNcGFrcHVsYmpXQWh3ckZ2WmxnWS02Y256ZXRseGI0bEM2LWU1aWdlaVVjQ0M5N2xSTEhDd3RWbXhHSDlFSmNER1hGRTY0el91TGdyT1Q?oc=5" target="_blank">A German election result heard around the world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?oc=5" target="_blank">Huawei drives China’s push to make advanced chips</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Deutsche Bank settles €152mn lawsuit with former executive - Financial Times
+## China’s 25% export surge sets stage for record annual trade surplus - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2NqVnVLUXRJMVhNY0xyYlRXZEdCYVBVRk1YSi1PZGY4UkEzcnRNWUdaQ1BNaDlDNW5yODJWd3IxMEV2a2o0SUhNaF9NenJnMFZUM3FmOWRfMmxGQnRJQTVyNEwyUzAtZkFfaVgyaUxETFhUNWEyM2J3OGVHYTFDY2UtWG4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2NqVnVLUXRJMVhNY0xyYlRXZEdCYVBVRk1YSi1PZGY4UkEzcnRNWUdaQ1BNaDlDNW5yODJWd3IxMEV2a2o0SUhNaF9NenJnMFZUM3FmOWRfMmxGQnRJQTVyNEwyUzAtZkFfaVgyaUxETFhUNWEyM2J3OGVHYTFDY2UtWG4?oc=5" target="_blank">Deutsche Bank settles €152mn lawsuit with former executive</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5" target="_blank">China’s 25% export surge sets stage for record annual trade surplus</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Asia stocks waver as yen surges, Iran warns of retaliation - Reuters
+## Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDJYQkNPTFV4ckJ1Tmk4QnFSRnlqbTlxY0xUcDZNckh5RmNFQ0NPVTMxRXJaVFJoclNkMWttclpEODJFSFhOcE5yVjJzcms0SmZVRjFqNGVLbVJtY0RJMGE5VmdhUmc0aE9URWV0SzZBNVh5OFRkNVVnZXlwTkpLelhNSXdvcWNwbU1rVzVCSjI4QVpJTTQxUHdYTTRoTFVMUEtvV0ZsMDdGdnh3V2U2NGRycTI5R2R3RS1Nc2xn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5" target="_blank">Asia stocks waver as yen surges, Iran warns of retaliation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDJYQkNPTFV4ckJ1Tmk4QnFSRnlqbTlxY0xUcDZNckh5RmNFQ0NPVTMxRXJaVFJoclNkMWttclpEODJFSFhOcE5yVjJzcms0SmZVRjFqNGVLbVJtY0RJMGE5VmdhUmc0aE9URWV0SzZBNVh5OFRkNVVnZXlwTkpLelhNSXdvcWNwbU1rVzVCSjI4QVpJTTQxUHdYTTRoTFVMUEtvV0ZsMDdGdnh3V2U2NGRycTI5R2R3RS1Nc2xn?oc=5" target="_blank">Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles - Reuters
+## US issues fresh Iran-related sanctions, Treasury website shows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGdHdXJpOEljWVdDWlBhWFFpS2w2YmtsSm5hUmkyanBIUWV2eWdEX0trcFpIRU1abHpTNjdTcHlNYWNOMWFQTjBvUDdscjVKc2k4a0hWSmxvZ0c1UWo4YWtkaFF5alY3UXFuOUZpZHByRHFQVkdCU2ZZT29kRTBMcGZ4aFN2b1Z5b2FNQk56bjJrVGxFMzBEMk9kTGhxOG5EWU9lRlVfclhQTFgyMFh5cU5CdzVYaE1BelF0WEw4LU5GZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5" target="_blank">Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGdHdXJpOEljWVdDWlBhWFFpS2w2YmtsSm5hUmkyanBIUWV2eWdEX0trcFpIRU1abHpTNjdTcHlNYWNOMWFQTjBvUDdscjVKc2k4a0hWSmxvZ0c1UWo4YWtkaFF5alY3UXFuOUZpZHByRHFQVkdCU2ZZT29kRTBMcGZ4aFN2b1Z5b2FNQk56bjJrVGxFMzBEMk9kTGhxOG5EWU9lRlVfclhQTFgyMFh5cU5CdzVYaE1BelF0WEw4LU5GZw?oc=5" target="_blank">US issues fresh Iran-related sanctions, Treasury website shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises as risks of prolonged Mideast conflict heighten supply worries - Reuters
+## Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdlRUdC0wWEtieFkxa2dibzVNNWxEc1lhUzRwcG1MWVpPMUtDOW5EaTVfdzJwR3JBQWx5bjc2VHBUUG96bTR5VXg0SDVNYk0wMU13MmlzamFkMkVaWjdVZDdqeGxFcThXdTZNZU9TOXdXcjRXYnVwMUl2N19oc3VzR2xGRWZxenk2b3NFazZ4RlVucmNxZUtKQ1hCYjRaazE1MWF0MmduOURqdGtBMEF6MFU0UVZZY1BJUFJmZGNBT1hxdkQ2bFNZOHVvMUh1M0JvVHNj?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5" target="_blank">Oil rises as risks of prolonged Mideast conflict heighten supply worries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdlRUdC0wWEtieFkxa2dibzVNNWxEc1lhUzRwcG1MWVpPMUtDOW5EaTVfdzJwR3JBQWx5bjc2VHBUUG96bTR5VXg0SDVNYk0wMU13MmlzamFkMkVaWjdVZDdqeGxFcThXdTZNZU9TOXdXcjRXYnVwMUl2N19oc3VzR2xGRWZxenk2b3NFazZ4RlVucmNxZUtKQ1hCYjRaazE1MWF0MmduOURqdGtBMEF6MFU0UVZZY1BJUFJmZGNBT1hxdkQ2bFNZOHVvMUh1M0JvVHNj?oc=5" target="_blank">Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Indonesia reopens Jakarta airport, four others after Anak Krakatau ash clears - Reuters
+## Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEtSRElVbnpqS2tCYkhsVk5NTV9hNlpaWVRCSzA2NGVRVkhxTkhtUkZTa2R0SUNtYnlUSDVrTE1JLWgwZnpiY01nZ2N6NWVhaUdtX3ZqMW1mNGRyZ2c2TVNIaGtGTGFaWW1sM3BhbTBGOFJiTzBTdnBrNER6cF8xWWdNQjJfbmRjWGZzN29hMlFpaVZqcWVIaFZ1Z1VEbGFKelN0TGM4ZVZqVWMzRlBCQ2xqVWdrTVV3M0IyRDJ0T3U1MzFCU2pYcWdWZU15UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEtSRElVbnpqS2tCYkhsVk5NTV9hNlpaWVRCSzA2NGVRVkhxTkhtUkZTa2R0SUNtYnlUSDVrTE1JLWgwZnpiY01nZ2N6NWVhaUdtX3ZqMW1mNGRyZ2c2TVNIaGtGTGFaWW1sM3BhbTBGOFJiTzBTdnBrNER6cF8xWWdNQjJfbmRjWGZzN29hMlFpaVZqcWVIaFZ1Z1VEbGFKelN0TGM4ZVZqVWMzRlBCQ2xqVWdrTVV3M0IyRDJ0T3U1MzFCU2pYcWdWZU15UQ?oc=5" target="_blank">Indonesia reopens Jakarta airport, four others after Anak Krakatau ash clears</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5" target="_blank">Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity - Reuters
+## Romanian intelligence service says it prevented Russian sabotage operation - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUtMaFc5ZHJDWWNvWFNvTHRFX2dsLVg1cEsxSkNYaGYxQTlCM290OUI0Z1JsMkVhbDlJazBpVnhNbklQVDNpT2l2SnVjRDlkbW14dXd4M0VFeXptei1pRXhxc3hHYU85VmFZTjNBSGRmVUN0Rk0zZVZzWnRRZldiNE43cGVPR3FSblpETEdwTEdvQ1FyNTJHeU54VUJKZk5VR2Q3WTM3Y25VNHpVOVlkY3U1ZXZXOUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5" target="_blank">Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUtMaFc5ZHJDWWNvWFNvTHRFX2dsLVg1cEsxSkNYaGYxQTlCM290OUI0Z1JsMkVhbDlJazBpVnhNbklQVDNpT2l2SnVjRDlkbW14dXd4M0VFeXptei1pRXhxc3hHYU85VmFZTjNBSGRmVUN0Rk0zZVZzWnRRZldiNE43cGVPR3FSblpETEdwTEdvQ1FyNTJHeU54VUJKZk5VR2Q3WTM3Y25VNHpVOVlkY3U1ZXZXOUE?oc=5" target="_blank">Romanian intelligence service says it prevented Russian sabotage operation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
