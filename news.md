@@ -1,8 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-09-10 04:04:57
+更新时间：2026-09-10 16:10:13
 
-## Stocks Drop in Asia as Oil Stokes Inflation Fears: Markets Wrap
+## Stocks, Bonds Fall as Oil Jump Fuels Fed-Hike Bets: Markets Wrap
 
 来源：彭博社
 
@@ -10,241 +10,279 @@
 
 正文长度：0
 
-摘要：Asian stocks fell, following losses in their US peers, as surging oil prices added to concern that inflation will accelerate and lead to higher global interest rates. Brent crude held above $101 a barrel.
+摘要：Another rally in oil prices spurred losses in stocks and bonds, with the latest inflation data reinforcing bets the Federal Reserve will lift interest rates soon amid pressures from higher energy costs.
 
 
 ---
 
-## JPMorgan, Jane Street Probes Show India Scrutinizing Traders
+## IMF Ends Long Silence on El Salvador Program, Lifting Bonds
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street
+链接：https://www.bloomberg.com/news/articles/2026-09-10/imf-ends-long-silence-on-el-salvador-program-lifting-bonds
 
 正文长度：0
 
-摘要：India is ramping up scrutiny of Wall Street traders with the nation’s securities regulator turning more aggressive in targeting even prominent foreign players like JPMorgan Chase &amp; Co. in its $5 trillion stock market.
+摘要：After a year of delays, El Salvador’s $1.4 billion International Monetary Fund program is finally back on track, and reviving a rally in the nation’s bonds.
 
 
 ---
 
-## Weak Southeast Asia Bond Sales Offer Opportunity, Funds Say
+## Ukraine Arctic Drone Attacks Reveal New Risks for Gas Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-09/weak-southeast-asia-bond-auctions-offer-buying-chance-funds-say
+链接：https://www.bloomberg.com/news/articles/2026-09-10/ukraine-s-arctic-drone-attacks-reveal-new-risks-for-gas-market
 
 正文长度：0
 
-摘要：Sluggish demand at Southeast Asian bond auctions is creating entry points for fund managers drawn to the region’s economic resilience.
+摘要：Ukraine’s unprecedented attacks on Russia’s gas assets in a remote Arctic region region revealed new risks for the Kremlin’s battered energy industry and the global market.
 
 
 ---
 
-## Bank of Korea Warns on Derivatives Tied to Korean Chipmakers
+## AFP de Chile entrarían al mercado repo para impulsar bonos
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-10/bank-of-korea-warns-on-derivatives-tied-to-korean-chipmakers
+链接：https://www.bloomberg.com/news/articles/2026-09-10/afp-de-chile-entrarian-al-mercado-repo-para-impulsar-bonos
 
 正文长度：0
 
-摘要：The Bank of Korea called for stronger monitoring of overseas derivatives tied to Korean chipmakers, warning their rapid growth risks amplifying domestic market swings as it cited leveraged bets by hedge fund Situational Awareness as a driver of recent volatility.
+摘要：Read the story in English Chile permitirá por primera vez que los fondos de pensiones locales participen en pactos de recompra y retroventa inversa, una medida que busca mejorar su gestión de liquidez y reduciendo costos, al tiempo que impulsa los volúmenes de negociación en un segmento poco activo del mercado de deuda latinoamericano.
 
 
 ---
 
-## Trump Says Strait of Hormuz Should Be 'Trump Strait'
+## Macy's and American Eagle Drop, JetBlue Dips | Stock Movers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-10/trump-says-strait-of-hormuz-should-be-trump-strait
+链接：https://www.bloomberg.com/news/videos/2026-09-10/macy-s-american-eagle-drop-jetblue-dips-stock-movers-video
 
 正文长度：0
 
-摘要：Donald Trump suggested renaming the Strait of Hormuz after himself during remarks on Iran, claiming theUS controls the key trade route and predicting lower oil prices. (Source: Bloomberg)
+摘要：On this episode of Stock Movers:
+
+- Macy's (M) shares are lower, erasing an earlier advance, as investors weigh much better-than-expected comparable sales and adjusted EPS in the second quarter against a less robust third-quarter guidance. The full magnitude of the 2Q beat is not reflected in the annual guidance boost. 
+
+- American Eagle (AEO) is falling after the apparel firm’s second-quarter total comparable sales fell short of the average analyst estimate. 
+
+- JetBlue (JBLU) shares are falling after the airline slashed its available seat miles forecast for the third quarter. (Source: Bloomberg)
 
 
 ---
 
-## What a historic summer box office reveals about massive shifts in the theatrical industry
+## Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html
+链接：https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html
 
-正文长度：7064
+正文长度：2674
 
-摘要：The domestic box office posted a record-breaking summer movie season, which was bolstered by an extra week of ticket sales and higher-priced premium screenings.
+摘要：ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Hollywood has a new summer record.
-The domestic box office tallied $4.76 billion in ticket sales during the period between May 1 and Sept. 7, the highest haul in cinematic history.
-The key moviegoing season, which starts the first weekend in May and runs through Labor Day weekend, is a pivotal piece of the theatrical calendar, typically responsible for 40% of the total annual domestic box office.
-The previous summer record was cemented in 2013 when films including Disney and Marvel's "Iron Man 3," Illumination's "Despicable Me 2," Warner Bros.' "Man of Steel," Pixar's "Monsters University" and Universal's "Fast & Furious 6" led the period to $4.75 billion.
-The 2026 season was boosted by Sony's "Spider-Man: Brand New Day" and Universal's "The Odyssey," which together contributed more than $1.5 billion to the summer tally, or more than 30%.
-It was also helped by an extra week of ticket sales. In 2013, the summer began on May 3 and ended Sept. 2, a period that was seven days shorter.
-"This should be a blueprint for future summers," said Paul Dergarabedian, head of marketplace trends at Rentrak. "One movie should not have to carry an entire season. You need the event pictures, the family films, the breakout surprises, and the independent films working together to keep people coming back. This summer showed what that combination can deliver."
-The summer 2026 box office ended nearly 10% ahead of 2019, according to data from Rentrak, the year before Covid shutdowns hamstrung ticket sales and before streaming took a bite out of moviegoing in earnest.
-This strong showing has positioned the 2026 year-to-date haul to be just 7.5%, or $595 million, behind that pre-pandemic marker and reaffirmed box office analysts' predictions that the full-year box office can top $10 billion for the first time in seven years.
-Heading into the summer movie season, 2026 lagged behind 2019 by 24%, or about $830 million in sales, according to Rentrak.
-While this year's box office is making gains, the figures don't tell the full story.
-The shifting movie landscape
-Cinema operators, studios and analysts are celebrating the strong summer, citing a return to pre-pandemic normalcy, but industry dynamics have shifted.
-The post-pandemic era in the theatrical space has been defined by fewer screens, fewer moviegoers and fewer movies.
-Theaters may still appear crowded, but there are fewer auditoriums, meaning attendance remains down from 2019 levels by almost a quarter of a billion admissions, according to data from S&P Global Market Intelligence.
-And, there are fewer films to see on the big screen. So far in 2026, only 68 films have garnered wide releases — meaning they opened in or eventually played in more than 2,000 theaters — according to data from Rentrak. That's a 14% drop from the same period in 2019, when 79 films had wide releases.
-These declines have been masked by higher movie ticket prices, particularly from premium large-format, or PLF, experiences, which are particularly popular with Gen Z and millennials.
-In 2019, the average movie ticket cost $9.16, according to exhibition trade organization Cinema United. In 2026, a ticket costs an average of $12.75, according to market research from EntTelligence. And that's just for a standard screening.
-PLF tickets average around $18.26, according to data from EntTelligence, with Imax skewing that figure with its $20.57 average ticket price.
-Audiences are increasingly opting for these more expensive PLF screenings and have yet to be deterred by the price tag. Tickets are consistently selling out for specialty screenings like Imax's 70 mm showings of "The Odyssey" and the upcoming "Dune: Part Three."
-There's such demand for premium screenings that studios are getting creative when marketing their films.
-Disney, for example, will be shut out of Imax screens when "Avengers: Doomsday" is released on the same day as the third "Dune" in December. In response, the company has created a certification for PLF theaters that it's calling "Infinity Vision." Essentially, Disney is promoting cinemas that have big screens, "bright images and outstanding sound."
-"When you see the Infinity Vision badge, you know you are in for an incredible theatrical experience," the company touts on a dedicated website for the certification.
-Already the film has snared more than $50 million in presales, Disney said Wednesday during the Goldman Sachs' Communcacopia + Technology conference. The company noted that more than 70% of sales are for Infinity Vision tickets.
-What are moviegoers watching?
-At the same time that audiences are embracing big blockbusters on the biggest screens, the theatrical industry has also seen a return of moviegoers for smaller-budget and genre films.
-Notably, this summer movie season didn't kick off with a big-budget action film or superhero team-up. Instead, the first major hit of the season came with the release of Disney's "The Devil Wears Prada 2." That was followed by Universal's "Obsession" and A24's "Backrooms," two low-budget horror films from YouTube creators-turned-filmmakers.
-It was further fueled by residual ticket sales of Lionsgate's "Michael," the Michael Jackson biopic, which debuted in April. Then "Toy Story 5" arrived in mid-June. Those five films combined generated more than $1.4 billion toward the summer haul.
-"This summer demonstrated the importance of a consistent flow of compelling content that appeals to a wide variety of moviegoers, coupled with the unique draw of the larger-than-life, immersive environment our movie theaters provide," Justin McDaniel, senior vice president of global content at Cinemark, wrote in a statement last week after the cinema chain surpassed its previous summer box office record ahead of Labor Day weekend.
-Marcus Theatres, the fourth-largest theater circuit in North America, also posted a record summer period. The company noted that not only did summer revenue hit an all-time high, but so did its concession, merchandise and food and beverage sales. It also marked the highest summer attendance since 2019 and the highest premium large-format screen attendance for any summer, Marcus said.
-"The tremendous turnouts for a wide range of diverse films created unique memory-making moments for all audiences — from the tears to the laughter to the thrills and chills — that cannot be replicated at home," Jeff Tomachek, president of Marcus Theatres, wrote in a statement Tuesday. "As we look ahead to the rest of the year, several new and highly anticipated films await, giving moviegoers even more reason to enjoy a great time at the movies with friends and family."
-In addition to the dual release of "Dune: Part Three" and "Avengers: Doomsday," dubbed "Dunesday," the final four months of the 2026 slate include a slew of horror films — "Resident Evil," "Clayface" and "Other Mommy" — as well as smaller-budget genre films like "Practical Magic 2," "Digger," "Wicker" and "Verity" alongside bigger-budget movies like "The Hunger Games: Sunrise on the Reaping," "Hexed" and "Jumanji: Open World."
+> Jimmy Kimmel, the late-night talk show host with Disney-owned ABC, is taking some precautions in the face of scrutiny by the Federal Communications Commission.
+Kimmel said on Wednesday night that he will not air an interview with Democratic U.S. Senate candidate James Talarico on national television. The interview will air on YouTube on Thursday instead.
+"For some reason, and I can't seem to figure out what that reason is, something has changed," Kimmel said during his Wednesday night broadcast. "Now that [Trump] is president, his FCC has threatened me, threatened our show, threatened our network, ABC, our affiliates, our local stations, based on simple, traditional editorial decisions."
+He added that the decision not to broadcast the interview on TV is "out of consideration" for ABC affiliates who he said would have to "deal with this nonsense" of FCC scrutiny.
+"In the America we live in right now, that is the best we can do, until November, of course," Kimmel said.
+The FCC did not immediately respond to a request for comment.
+Talarico, a Texas state representative, is locked in a tight Senate race against Texas Attorney General Ken Paxton, who's gotten an endorsement from President Donald Trump. Public polling has shown Talarico slightly ahead of Paxton, a controversial figure in Texas who was impeached by the state House of Representatives over allegations of corruption. He was acquitted by the state Senate.
+In January, the FCC called into question whether TV talk shows are "bona fide" news programs and are therefore exempt from equal airtime rules for political candidates. "The View," another ABC program, has faced similar scrutiny from the FCC.
+Kimmel said Wednesday that he has been interviewing political candidates, including Trump himself, for years.
+Kimmel's show has become a lightning rod for debates around broadcasting rights, First Amendment protections and government intervention.
+Last year, ABC-affiliate station owners opted not to air "Jimmy Kimmel Live!" after comments he made during a monologue following the killing of Charlie Kirk. ABC suspended the show for roughly a week, and Kimmel later said, "It was never my intention to make light of the murder of a young man."
+But ABC has faced continued pressure from the Trump administration since.
+In April, the FCC launched an early renewal process for ABC-owned stations, citing an investigation into the company's diversity, equity and inclusion practices.
+ABC filed the license renewals, but in August it sued the agency over First Amendment concerns, calling its investigation into the company a "retaliatory campaign."
+— CNBC's Garrett Downs contributed to this report.
 
 </details>
 
 
 ---
 
-## LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game
+## NFL Commissioner Roger Goodell says league could rework TV packages in next media deal
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html
+链接：https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html
 
-正文长度：3642
+正文长度：3378
 
-摘要：The Rams spent five years building their brand in Australia. This week, Los Angeles will face San Francisco in the NFL’s first regular-season game Down Under.
+摘要：The NFL has an opt-out clause at the end of the 2029-30 season in which it can resell and redistribute its media rights.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> MELBOURNE, Australia — The Los Angeles Rams will play the first-ever regular-season NFL game Down Under this week, but the team has been quietly building its profile in the country for the past five years.
-"We basically have full activation rights here in many ways that we would ... in Los Angeles," Kevin Demoff, president of the Rams, told CNBC. "We consider this an extension of our city, our market, our brand."
-In 2021, the Rams purchased NFL marketing rights for the Australian market as part of the league's Global Markets Program. It allows the team to use logos and marks in the region and to partner with local brands in an effort to build fandom overseas.
-The NFL has been expanding its international reach, playing a record nine games outside the U.S. during the 2026 season. The game in Melbourne between the Rams and the San Francisco 49ers is set for the Melbourne Cricket Ground at 10:35 a.m. Melbourne time on Friday, or 8:35 p.m. ET on Thursday.
-Demoff said the Rams own the rights to seven international markets, mostly in the Pacific Rim, and that Australia has felt like a natural fit.
-"Being a global city in Los Angeles, it's important to tap into those roots," he said. "When you think about Australia, everybody here flies over SoFi Stadium in Hollywood Park, [California,] as they come to the U.S. to enter to go to any other global destination."
-As part of the team's presence in Melbourne, the Rams built a 22-yard floating football field on the Yarra River. It will be open to the public via an LA Tailgate experience.
-Rams players, however, are arriving in Melbourne just one day before the game, while their opponents chartered a plane last week and have already been acclimating to the 17-hour time zone difference.
-"For us, this is a year-round effort, and I would much rather win the game and grow the market the other 51 weeks a year than focus on having our players here for that week," Demoff said in defense of his team's travel strategy.
-Because the Rams are among several NFL teams that own league marketing rights in Australia, they act as the home team for this week's game. The Rams have made several trips to Australia over the years, ranging from Super Bowl trophy tours and a flag football event to visits by mascot Rampage and the Rams cheerleaders.
-Beyond football
-Kroenke Sports and Entertainment owns both the Rams and the NBA's Denver Nuggets.
-Last week, the NBA handed Steve Ballmer's Los Angeles Clippers one of the strongest punishments in league history for what it said amounted to "circumventing the salary cap rules," in connection with Kawhi Leonard's contract.
-Demoff, who has no involvement in the matter but runs team and media operations for all KSE portfolio teams, said the penalty — which the Clippers strongly denounced — puts other NBA teams on notice.
-"I think this is a great lesson for all of us in making sure we understand what the rules are," he said. "I do think it represents what the gray area is as sports grows."
-Demoff also commented on KSE's recent deal to buy MLB's Los Angeles Angels, an agreement that would give KSE ownership stakes across every major professional sport in the U.S.
-While the deal still needs final approval from MLB, Demoff said the real estate surrounding the stadium is a big part of KSE's plan.
-KSE has created mixed-use districts near many of its stadiums to create additional economic activity. Demoff said that approach could work well with the Angels.
-"I think you can build the infrastructure up — from the ground up — and really change the team, improve the processes [and] use data technology to make the team better," he added.
+> MELBOURNE, Australia — NFL Commissioner Roger Goodell said he will consider reworking game packages when the league inks its next media rights deal to adjust for modern TV consumption habits and the shift to streaming.
+"One of the things we're doing as a league is talking to our partners, talking to future partners, potential partners ... and evaluating, should we repackage our current packages? Should we think differently about where we go with those things?" Goodell said in an exclusive interview with CNBC ahead of the Week 1 game between the San Francisco 49ers and the Los Angeles Rams, the league's first regular-season matchup in Australia. The game will take place Thursday night at 8:35 p.m. ET.
+The NFL currently sells two Sunday afternoon game packages, a Sunday Night Football slate, a Monday Night Football package, and Thursday Night Football games. Fox and Paramount Skydance-owned CBS have the Sunday afternoon game rights, while NBC has Sunday Night Football, Disney's ESPN and ABC own Monday Night Football and Amazon has Thursday Night Football.
+Netflix also bought the rights to five additional NFL games this season.
+The NFL has an opt-out clause that it can trigger at the end of the 2029-30 season to redo and resell its existing packages. Goodell wouldn't say if the league plans to take advantage of that option.
+"We don't have to make that decision today. That's the reason you have an option," Goodell said. "[What] we said all along is that the option would be incredibly valuable to the NFL — to be able to evaluate what's happening in the media landscape, to be able to look at the things that are happening out there and make the best decision for our fans and for our clubs and how we make sure we present our game in the best possible way and do it with the proper value."
+Several of the NFL's current media partners are undergoing significant transformations this year.
+Paramount is attempting to acquire Warner Bros. Discovery for $110 billion in a deal that's been delayed amid an antitrust challenge. Fox has agreed to buy Roku for $22 billion. Comcast said earlier this year it plans to spin off NBCUniversal.
+The shifting media landscape is likely to factor in when the NFL renegotiates its packages.
+Goodell also noted that reaching fans globally is a new priority for the league, which will play games in countries including Spain, France and Brazil this season. Netflix owns the global broadcast rights to the 49ers-Rams game.
+Still, most NFL game rights are U.S.-only.
+"The world is changing for our partners. It's changing for us. It's changing for fans. Our fans are moving to other platforms," said Goodell. "I think one of the challenges for us is to look at the changes, evaluate what's working, what's not, what we think is going to work beyond those option dates and the partners that can bring the greatest opportunity to reach those fans on a global basis. ... We've never looked at it that way until recently."
+Goodell said broadcast TV will continue to play a major role in the league's media rights strategy to ensure that local markets have free, over-the-air access to games. Local broadcast stations simulcast games on streaming services such as Netflix and Amazon Prime Video so regional fans can watch.
+"One hundred percent of our games are available on broadcast television. I see that continuing," said Goodell.
 
 </details>
 
 
 ---
 
-## LIV Golf files for Chapter 11 bankruptcy protection
+## NFL's Roger Goodell is playing the international long game ahead of league's Australia debut
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html
+链接：https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html
 
-正文长度：2055
+正文长度：4373
 
-摘要：As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.
+摘要：Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> LIV Golf has filed for bankruptcy protection as the upstart golf league faces a Saudi funding cliff and searches for new investment.
-The golf venture — initially backed by Saudi Arabia's Public Investment Fund, or PIF — said Tuesday it has entered into a restructuring support agreement with BC Partner Advisors LP, the credit arm of private equity firm BC Partners. As part of the agreement LIV agreed to seek Chapter 11 protection in the U.S. Bankruptcy Court for the District of New Jersey.
-CNBC previously reported PIF was set to pull its funding from LIV at the end of the 2026 schedule. Earlier this year LIV launched an investor roadshow in an effort to raise up to $350 million from stakeholders to fund its operations.
-As part of the proposed bankruptcy deal, for which LIV will need court approval, the venture is expected to be majority owned by its players. LIV remains in advanced talks with the players, it said in a Tuesday news release.
-PIF has agreed to provide $49.6 million in bankruptcy financing that will allow LIV to stay afloat during proceedings. Following the exit from bankruptcy protection, BC Partners Credit and other minority stakeholders are expected to provide financing.
-"This process gives us the structure and time to pursue a landmark transaction and begin the next chapter of LIV Golf — one built around the fans, an innovative, player-first ownership model, and a part of the global golf ecosystem," CEO Scott O'Neil said in Tuesday's release. "We are excited about what lies ahead and yet, there is still much to accomplish in the months ahead."
-In June, amid reports that PIF funding could end even sooner than previously understood, O'Neil told CNBC that the organization had to trust that the sovereign wealth fund would continue to back the venture through the conclusion of the season.
-LIV had been positioned as a rival to the PGA Tour and beckoned high-profile athletes, in part thanks to hefty paychecks. By 2023 the league had agreed to merge with the PGA Tour, although a deal has yet to come to fruition.
+> MELBOURNE, Australia — The NFL is making history this week with its first-ever regular-season game in Australia, but Commissioner Roger Goodell is already thinking well into the future.
+"Whether it's media, or whether it's labor, or whether it's our international plans or what we're doing with stadiums, all of that [requires] taking a 5-, 10-, 15-year look, and it's critical to do that," Goodell said in an exclusive interview with CNBC here ahead of the Week 1 game between the San Francisco 49ers and the Los Angeles Rams, set to kick off Thursday night at 8:35 pm ET.
+"If you're not, you're being irresponsible," he added.
+Earlier this month, Goodell, 67, signed a four-year contract extension that will keep him as the league's commissioner until March 2031. This year marks Goodell's 20th season on the job.
+He has overseen significant growth and change for the most popular U.S. sports league, including the addition of a 17th regular season game and its sale of media rights to streaming platforms. But no change may factor more into his long-term plans than adding recent regular-season games in a range of countries from Germany and France to Brazil and Mexico.
+NFL games are routinely the most-watched programming in the U.S., but international interest is still sparse. Last year's Week 1 international game between the Kansas City Chiefs and the Los Angeles Chargers — streamed on YouTube — was watched by 18.5 million viewers in the U.S. and just 1.2 million abroad.
+Goodell's global growth plans include playing nine games outside of the U.S. in 2026 and 10 international contests in 2027. He's previously said he'd like to get that number to 16, but he'll need player buy-in to do so.
+The league's current collective bargaining agreement caps the number of international games at 10. The CBA expires in March 2031 — aligning with Goodell's contract.
+Banking on branding
+International travel can be disruptive to players who rely on routines to maximize their health and limit injuries over the course of a 17-game regular season. Still, Goodell said he believes players enjoy the global games.
+"I think they see the opportunity. I get calls, texts from our players during the offseason, and they're all over the world, so I think this generation of players is used to being international," said Goodell. "I think they're used to looking at opportunities to continue to grow their brands, and I think it's great for the NFL."
+The league's international strategy is predicated on holistic growth that goes beyond playing a once-a-year game in a certain city, said Goodell. It's unclear how much flying into an international city for a week to play a game moves the needle for sustained fandom.
+The league is relying on its Global Markets Program to build interest around the world. Each team owns the marketing rights to at least one international market. The NFL is still tweaking the program to maximize ways to build fan bases in countries without natural alliances to teams, Goodell said.
+"You don't want to be at the circus to come in and play a game and leave," he said. "You want to have events and sponsors and media partners. I think we'll continue to modify [the Global Markets Program], but I think it's worked well."
+Goodell has also said he expects to one day have a team based permanently outside the U.S.
+Hypothetically, Goodell said, he could envision an NFL with multiple teams based in Europe. Still, he declined to put a time frame on establishing an international franchise because "it's all part of a broader plan to continue to develop our business."
+"As you develop your business, at some point in time, you may get to that place where you say, you know, putting a franchise or franchises globally is a good idea," Goodell said. "You're looking down the road, maybe you do a division in Europe, so they're playing against one another. The beauty and the advantage we have is that we're playing once a week."
+The league's international growth is also tied to expanding global media exposure, he said. Netflix has the global broadcast rights to the 49ers-Rams game from Melbourne.
+"We're looking at how we continue to grow our media exposure globally," Goodell said. "More and more of our games are on free television and on media partners that are promoting the game, and they're expanding the game, and that's really important to us."
 
 </details>
 
 
 ---
 
-## Trump administration expresses 'profound concern' over Ford's ties to China
+## Home sales fall in August despite the highest supply in over a decade
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html
+链接：https://www.cnbc.com/2026/09/10/home-sales-august-supply.html
 
-正文长度：2898
+正文长度：2267
 
-摘要：In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.
+摘要：Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> The Trump administration expressed "profound concern" Tuesday about Ford Motor's ties to Chinese companies that it believes could be detrimental to the Detroit carmaker and U.S. automotive industry.
-In a letter addressed to Ford CEO Jim Farley, Transportation Secretary Sean Duffy questioned the automaker's strategic trajectory with Chinese companies "as it pertains to American national automotive manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries."
-Ford, which regularly touts its position as the top-producing automaker in the U.S., called the letter a "wrongheaded attempt to capture headlines."
-It also defended its stance as America's top-producing carmaker and said it employs more hourly workers in the country than any other automaker, while calling out "factual errors" in the letter. Ford said those errors included Duffy's comments about Farley proposing a joint-venture framework for Chinese automakers to enter the U.S.
-The letter is the latest incident in a series of contentious discussions between the U.S. automotive industry and the Trump administration, which has caused uncertainty with its changes to trade and federal rules and regulations.
-In the letter, Duffy took issue with Ford's ties to Chinese companies such as battery provider CATL and a framework Farley proposed during an auto show earlier this year in Detroit "to facilitate Chinese joint ventures on United States soil."
-Ford has a licensing agreement to utilize battery technologies, including the production of lithium iron phosphate batteries, from Contemporary Amperex Technology Co., or CATL.
-Ford's deal with CATL was originally announced in 2023 but has drawn renewed attention amid tensions between the U.S. and China as well as Ford's plan to use the battery technologies for energy storage systems.
-"While DOT recognizes the intense competitive pressures of the global market, the Company's recent strategic decisions paint a troubling picture of a foundational American brand actively intertwining its future with Chinese state-backed enterprises," Duffy's letter read.
-Duffy urged Farley, who has been complimentary of Chinese competitors as well as the Trump administration's attempt to promote U.S. manufacturing, to "reflect on these concerns and national necessities and adopt reasonable strategies that prioritize American workers, utilize allied supply chains, and promote the self-reliance and integrity of the domestic automotive industry."
-Ford urged Duffy to more openly communicate with the company.
-"Ford supports the Trump administration's vision for advancing American innovation and manufacturing," the company said. "Had Secretary Duffy reached out before issuing his letter to the press, we would have been happy to share more details about Ford's U.S. commitment."
-— CNBC's Meghan Reeder and Phil LeBeau contributed to this report.
+> Homebuyers continue to struggle amid higher mortgage rates and lofty home prices.
+Sales of previously owned homes fell 2% in August from July to 3.98 million units on a seasonally adjusted, annualized basis, according to the National Association of Realtors. The sales activity marked the slowest pace since June 2025 and was felt hardest in the Northeast and Midwest.
+Sales were down 1.2% year over year.
+This count is based on closings, so contracts likely signed in June and July, when mortgage rates were higher than they were in the spring. Rates moved sharply higher in the middle of July.
+"Mortgage rates and home sales move in opposite directions, so it's not surprising to see a mild dip in home buying activity due to high mortgage rates," said Lawrence Yun, chief economist for the Realtors. "Still, home prices are rising, and existing home sales are actually up 1.6% year-to-date through the first eight months of the year."
+Housing supply totaled 1.62 million homes for sale at the end of August, up 3.2% from July and up 5.9% from the year before. At the current sales pace, that represents a 4.9-month supply — the highest level in over a decade, according to NAR.
+Despite more supply, prices continue to rise. The median price of a home sold in august was $429,100, up 1.6% from August 2025. That is a new record high for the month of August.
+Price gains were strongest in the Northeast, where inventory is lowest. The West was the only region to see median price decline year over year.
+Sales continue to be strongest on the highest end of the market. Compared with August 2025, sales of homes priced between $100,000 and $250,000 were down 10%, while sales of homes priced above $1 million were 3.9% higher. The million-dollar-plus range was the only price range that saw increased sales.
+Homes are sitting on the market longer, averaging 31 days in August compared with 29 days in July.
+Buyers paying entirely in cash made up 27% of August sales, slightly higher than July but down slightly from August of last year. First-time buyers made up 30% of sales, up slightly from both July and from August 2025.
+Investors and second-homebuyers, however, fell off compared to 2025 — accounting for just 15% of August sales, down from 21% the year before.
 
 </details>
 
 
 ---
 
-## How one hedge-fund manager built his firm to be powered entirely by AI agents
+## Macy's posts strong results, raises guidance as turnaround begins to take hold
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html
+链接：https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html
 
-正文长度：2785
+正文长度：4188
 
-摘要：It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.
+摘要：Macy's posted strong fiscal second-quarter results on Thursday and raised its full-year guidance.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Hedge-fund manager Brian Kelly has his staff working 24/7, yet his payroll costs are a fraction of what they once were.
-That's because Kelly — who previously ran a cryptocurrency hedge fund — created his new trading firm, Bracket22, to be powered entirely by agentic artificial intelligence.
-"I used to have about seven or eight employees all around the world. A lot of them were based in New York," Kelly told CNBC. "Between their salaries and compute and healthcare and everything like that, my payroll was well into the millions of dollars per year."
-Factoring in things such as office space and bonuses, Kelly estimated his total labor-related costs before he began using AI were roughly $5 million a year.
-"Now, when I'm using AI, I run somewhere around [$30,000] to $40,000 a year, total. And that's with every AI agent, that's with all my compute, that's with everything I need to completely replicate a hedge fund ... with AI," he said.
-Bracket22 is a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance.
-JPMorgan Chase CEO Jamie Dimon said in February the tech was already reshaping his workforce and that his bank had "huge redeployment" plans for its employees. The company plans to launch AI agents later this year that it has said can work autonomously for hours at a time.
-Morgan Stanley is similarly funneling some work to AI.
-There has been some hesitation, though. A Goldman Sachs partner, for example, recently warned of the dangers in letting AI erode bankers' reasoning skills.
-Kelly — a former trader on CNBC's "Fast Money" — closed his cryptocurrency hedge fund in early 2025. Later that year, he began testing out uses of artificial intelligence. Bracket22 invests only Kelly's own capital and trades cryptocurrencies, stocks and commodities.
-Kelly introduced CNBC to several of his AI agents, each with its own distinct role. A bot called "Steffi" is in charge of technical analysis. "Desmond" handles quantitative strategies, and "Houston" is, fittingly, mission control and pulls all the pieces together.
-"I've crafted each of these agents to be a specialist in their field," Kelly said. "I wanted to isolate them and I wanted to get their unbiased view on what I'm doing."
-"And then I use my human judgment and human insight to make the final decision," he added.
-Kelly said he would estimate he's "at least 10 times more productive" with his agents. And while he's replaced his staff with AI, he said the real opportunity lies in augmenting human workforces.
-"If you take a staff of 100, [with AI] you've got a staff of a thousand," he said. "It's not necessarily just, hey, you can replace everybody with AI agents. You can make your existing employees at least 10 times — maybe more — more productive."
+> Macy's on Thursday posted growth across the company in its fiscal second quarter and raised guidance as it continues its turnaround.
+The retailer said overall comparable sales rose 2.7% for the quarter, with comparable sales for its namesake brand up 1.1%. The company said that growth was largely driven by its so-called reimagined stores, locations it has revamped as one of the focuses of its turnaround.
+Macy's said its higher-end store line Bloomingdale's saw an 11.3% increase in comparable sales, while beauty brand Bluemercury was up 6.2%.
+"I think it's a different Macy's Inc. today," CEO Tony Spring told CNBC. "We're in a healthier position. We're catering to our customers while we're also becoming a more interesting investment option for our shareholders."
+Spring added that Bloomingdale's has seen success by "doing innovative things" to remain "accessible and very differentiated" for a higher-end consumer. On the other side, Spring said the overhauled Macy's stores have had better assortments, more customer assistance and stronger displays of merchandise to help improve the experience.
+The company also raised its full-year guidance and now projects net sales to be between $21.68 billion and $21.83 billion, compared with a prior expectation of between $21.5 billion and $21.75 billion. It also raised its comparable sales outlook range from between 0.5% and 1.2% growth to a 1% to 1.5% increase.
+Macy's hiked its full-year earnings per share outlook to a range of $2.15 to $2.35, up from $2 to $2.20. It said that included a roughly 5-cent per-share bump from tariff repayments it will apply to its bottom line.
+The retailer reported that it has received a total of $116 million in tariff refunds, and will invest most of that — about $96 million — in the customer experience and its turnaround plan. Spring said Macy's would rather put the money toward long-term improvements than temporary price reductions, a step some retailers have taken to cater to cash-strapped shoppers.
+"There is great value being offered across all of our nameplates, and we just really wanted to make sure that the reinvestment of the tariff refunds were things that were beyond one-time benefits that really had lasting power to support the overarching intent of our strategy," Spring told CNBC.
+He added that the company is holding back a small portion of those refunds due to uncertainty around fuel costs to make sure Macy's is "not surprised by anything else."
+Despite the results, Macy's shares dropped slightly in morning trading.
+Here's how the company performed in its fiscal second quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
+- Earnings per share: 40 cents adjusted vs. 37 cents expected
+- Revenue: $4.87 billion vs. $4.83 billion expected
+The company reported net income of $169 million, or 62 cents per share, compared with $87 million, or 31 cents per share, a year earlier. Adjusting for one-time items, Macy's reported earnings per share of 40 cents.
+Sales rose to roughly $4.87 billion, up just slightly from $4.81 billion the year prior.
+The company added that credit card revenue rose 2%, or $3 million, for the quarter, due to what it called a "healthy credit portfolio and stable net credit card losses."
+Spring said while the company is seeing a bifurcation among income cohorts, it's still well positioned to win both higher- and lower-income shoppers.
+"For the people that have the discretionary income, they're wanting to participate and enjoy the benefits of fashion and its accessibility to everyone to really create your own style," he told CNBC. "At the same time, people that are navigating month-to-month or quarter-to-quarter based on interest rates or the price of food or the price of gas, they're going to be leveraging more value and off-price in order to participate in the economy."
+Macy's is nearing the end of a three-year turnaround plan under Spring that aims to spark growth and invest in locations that perform well against a challenging backdrop for department stores. Spring told CNBC last quarter that the company was seeing strong consumer behavior despite a challenging macroenvironment.
 
 </details>
+
+
+---
+
+## Moonshot capitalism: AI rewrites the venture capital playbook - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5" target="_blank">Moonshot capitalism: AI rewrites the venture capital playbook</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Latham & Watkins buys Nvidia servers to set up in-house AI systems - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnFPNnhOMnhyQ04temgycHAySld0OGFiVjdFZUppS25Ob3RLMS1mTDJGY2ZYMm1wTjdObzU2aDdjbkdQTkFxM2hrc3NwREdtamdqOHRvY2VNazJfMWhVYTcwZ1dGcm9fWGx5elVtcUNhTnNvS0RBSTBzMUJSeWF6ZFlDcGI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnFPNnhOMnhyQ04temgycHAySld0OGFiVjdFZUppS25Ob3RLMS1mTDJGY2ZYMm1wTjdObzU2aDdjbkdQTkFxM2hrc3NwREdtamdqOHRvY2VNazJfMWhVYTcwZ1dGcm9fWGx5elVtcUNhTnNvS0RBSTBzMUJSeWF6ZFlDcGI?oc=5" target="_blank">Latham & Watkins buys Nvidia servers to set up in-house AI systems</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US-China borrowing costs diverge to widest level ever - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWw3WE1FRlp6NDk5Y2djeXpkRGlma0RtTXVUUmNpckhLb3pUTDNVNmRyWEs0WFRzRHgwYlVqc0lkOUxXWm9uemJBYUFGS1FWd2dFT3o1UmRzMHFyb2k5VEU2em13ajhpOVk3ZFNiai1NZXgwQmhxRWdiX0hQazJPUklRV3k?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWw3WE1FRlp6NDk5Y2djeXpkRGlma0RtTXVUUmNpckhLb3pUTDNVNmRyWEs0WFRzRHgwYlVqc0lkOUxXWm9uemJBYUFGS1FWd2dFT3o1UmRzMHFyb2k5VEU2em13ajhpOVk3ZFNiai1NZXgwQmhxRWdiX0hQazJPUklRV3k?oc=5" target="_blank">US-China borrowing costs diverge to widest level ever</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -262,119 +300,80 @@ Kelly said he would estimate he's "at least 10 times more productive" with his a
 
 ---
 
-## US spy chief prepares for greater role in Russia-Ukraine talks - Financial Times
+## Must high bond yields crack stocks? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNksxM1IxX3hZOEVpR2RDaTliYmNVOFZwZzFta2VpeXpEbFNoRHRYenB1c1EtdVhLVUZWUDJRSW5CaTVMUGd3QjlHYXVuZlJNZTE4U0lWblV6YzVCZkRQek1DazZsVkhQdlowRmMyc0tnZzcydFhEV0xCWVJvLXRqZTdXXzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHR3dVlmdm5qSGdiZTRNSmFaMVAwVzgwRDlfUnVBZDZaOENPdnpYUU5WTEhPbmc1ZE5OMXJqa0RDLWtYbnduVFVLRWpldDR2dm5DWDJ3eUpCVHV0bXJudkxOOUxqbXpNTEZyLVJRN0lnenU5MGlxQVVENjlSSEtucWhQNlQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNksxM1IxX3hZOEVpR2RDaTliYmNVOFZwZzFta2VpeXpEbFNoRHRYenB1c1EtdVhLVUZWUDJRSW5CaTVMUGd3QjlHYXVuZlJNZTE4U0lWblV6YzVCZkRQek1DazZsVkhQdlowRmMyc0tnZzcydFhEV0xCWVJvLXRqZTdXXzg?oc=5" target="_blank">US spy chief prepares for greater role in Russia-Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHR3dVlmdm5qSGdiZTRNSmFaMVAwVzgwRDlfUnVBZDZaOENPdnpYUU5WTEhPbmc1ZE5OMXJqa0RDLWtYbnduVFVLRWpldDR2dm5DWDJ3eUpCVHV0bXJudkxOOUxqbXpNTEZyLVJRN0lnenU5MGlxQVVENjlSSEtucWhQNlQ?oc=5" target="_blank">Must high bond yields crack stocks?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Kushner and Witkoff’s blind amateurism - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2hSRUxhbE5EV0tpaF9MWHNRN20yVkRMdlhzd0NDZ2ZvXzBNRUZmOGxqdU8yZS00NTZZaklmaEtfdGxoNFQ0d09rTDQwOFR0ZmxicWNIZ19ZSzl1bDRCcGIwQndKVERfbnVTV0lray1xWjZOM0wyMWFXUHlrMTNqaUM0RXM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2hSRUxhbE5EV0tpaF9MWHNRN20yVkRMdlhzd0NDZ2ZvXzBNRUZmOGxqdU8yZS00NTZZaklmaEtfdGxoNFQ0d09rTDQwOFR0ZmxicWNIZ19ZSzl1bDRCcGIwQndKVERfbnVTV0lray1xWjZOM0wyMWFXUHlrMTNqaUM0RXM?oc=5" target="_blank">Kushner and Witkoff’s blind amateurism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE95dDNESHJwT3Fpc3dxT3pERW81ZXRhdUh2LXpub2hzN2YxM0hWS0U2ejROZmtwUXR2UUNyMjZmelVXV3BuUmZ1emdNMHZlQmxmSlltazdvTEdEc2U1NEFMNWsyNXNKV1BXaVI1aDFQaU93SlhlR0hGdno1Wi0wNEcyQ1o?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE95dDNESHJwT3Fpc3dxT3pERW81ZXRhdUh2LXpub2hzN2YxM0hWS0U2ejROZmtwUXR2UUNyMjZmelVXV3BuUmZ1emdNMHZlQmxmSlltazdvTEdEc2U1NEFMNWsyNXNKV1BXaVI1aDFQaU93SlhlR0hGdno1Wi0wNEcyQ1o?oc=5" target="_blank">Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## ‘I am the house now’: Bessent warns currency traders not to bet against yen - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUtsYVFnRU1jNEJYZGhzeVdDcGF3N0V6UGl2aFNjMGg4Q1I0ZDVrWkJDTnItU2hWdXBSeFYyajFicTM0MWdFZ1dxN0RFRWtfU3FZaF9kQWlHbTBQZm13ZGdMZTBkaDRtRTZKdDJiMnNhZzQzenhUcS1RVHlOdm16T1A5N1A?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUtsYVFnRU1jNEJYZGhzeVdDcGF3N0V6UGl2aFNjMGg4Q1I0ZDVrWkJDTnItU2hWdXBSeFYyajFicTM0MWdFZ1dxN0RFRWtfU3FZaF9kQWlHbTBQZm13ZGdMZTBkaDRtRTZKdDJiMnNhZzQzenhUcS1RVHlOdm16T1A5N1A?oc=5" target="_blank">‘I am the house now’: Bessent warns currency traders not to bet against yen</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump promises $5,000 payout to U.S. adults if Republicans win election - Reuters
+## US Supreme Court blocks Republican-drawn congressional map in Missouri - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEFFd19FaHhIWU1ueFQwa1lDUWZMNTBZR1drTW1lRUV3a0Q1eUhYbFZJYjdmX3BEbWJudThqUFpldmNoODNhS2NubGw2Q3o0aC1TU3AwQnc0bXdsUDJPSk9oX3l2anhGMkRXTDIzYnppLVB2eTZMUExKbnh5R1VMY0FOOC12NTI3R3kyOUdvTXI1SHdRQTFWNnB5QzFfU0JiQ3d4Tkt1aDllRjA2R1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhNVFBiOTdvaDJwUXAzX3JOem1PQ1RhNmF5R0sxTjZtRXZSc1E1NWZzbGpmMlp6TEhyVk9JWUtRY3UtZ3FTSk1ZY3RoX3VFMnB4ZnZBY0RrbjZkNEFuY1BEWldvMmpOSExaWE01ZVA2UzhGS2E5UlNLYWlpa2tiVEpVei04ZWlPZUVhbDRhT1J5d3dRNi04bDdaN0JYbjNvb3JRTGE2NjNndGtxSnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEFFd19FaHhIWU1ueFQwa1lDUWZMNTBZR1drTW1lRUV3a0Q1eUhYbFZJYjdmX3BEbWJudThqUFpldmNoODNhS2NubGw2Q3o0aC1TU3AwQnc0bXdsUDJPSk9oX3l2anhGMkRXTDIzYnppLVB2eTZMUExKbnh5R1VMY0FOOC12NTI3R3kyOUdvTXI1SHdRQTFWNnB5QzFfU0JiQ3d4Tkt1aDllRjA2R1E?oc=5" target="_blank">Trump promises $5,000 payout to U.S. adults if Republicans win election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhNVFBiOTdvaDJwUXAzX3JOem1PQ1RhNmF5R0sxTjZtRXZSc1E1NWZzbGpmMlp6TEhyVk9JWUtRY3UtZ3FTSk1ZY3RoX3VFMnB4ZnZBY0RrbjZkNEFuY1BEWldvMmpOSExaWE01ZVA2UzhGS2E5UlNLYWlpa2tiVEpVei04ZWlPZUVhbDRhT1J5d3dRNi04bDdaN0JYbjNvb3JRTGE2NjNndGtxSnc?oc=5" target="_blank">US Supreme Court blocks Republican-drawn congressional map in Missouri</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says - Reuters
+## US producer prices increase as expected in August - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYThzMWZWYWVaeVkzaGR4Z3AxbHpidm9CMTFNSTVKWmNvVGZoRkg5MjJRV1RvdW9wWWtWS3R6V1dNWmFQUEl1Y0Q4dWdYY19EMUk3RkE4aUlsYVRLbkxmemVJM1gxVzlSNGs5a24wbjg5dWxBZ2tRallJTTV0UExCUFZXWGxYZXhsZHA4clFtT2JPa3IxbHpnVnZnU2RMTnpsZDVLU0RMYW9RM0x6TlY5aUtXRU9tZzJRZ0hV?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxQSllzbWpfQ2xZcDA5eExQYUxKdVRwdEdUdFFpMzJPWW1ib29Ocm85Z3ZDaVFpMkZGQnpUQ1Z2Zy1pelQ5Tk5TY0lKSUJ5RlZiUDhoeU5jWHpRX3dZQzFqcWtfT3J2UTM3Q2doaTdRUHEtczI1TDVkOE5jN2V1b2h1S01fYktSLV9yTERENnpxeHVLdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYThzMWZWYWVaeVkzaGR4Z3AxbHpidm9CMTFNSTVKWmNvVGZoRkg5MjJRV1RvdW9wWWtWS3R6V1dNWmFQUEl1Y0Q4dWdYY19EMUk3RkE4aUlsYVRLbkxmemVJM1gxVzlSNGs5a24wbjg5dWxBZ2tRallJTTV0UExCUFZXWGxYZXhsZHA4clFtT2JPa3IxbHpnVnZnU2RMTnpsZDVLU0RMYW9RM0x6TlY5aUtXRU9tZzJRZ0hV?oc=5" target="_blank">Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQSllzbWpfQ2xZcDA5eExQYUxKdVRwdEdUdFFpMzJPWW1ib29Ocm85Z3ZDaVFpMkZGQnpUQ1Z2Zy1pelQ5Tk5TY0lKSUJ5RlZiUDhoeU5jWHpRX3dZQzFqcWtfT3J2UTM3Q2doaTdRUHEtczI1TDVkOE5jN2V1b2h1S01fYktSLV9yTERENnpxeHVLdw?oc=5" target="_blank">US producer prices increase as expected in August</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Brent holds above $100 as tanker attacks deepen supply fear - Reuters
+## Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5" target="_blank">Brent holds above $100 as tanker attacks deepen supply fear</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5" target="_blank">Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Five dead, more than 80 missing after Philippine ferry fire - Reuters
+## Casablanca will host 2030 World Cup final, says Moroccan federation chief - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2d4ekhwd2hlUTVSSHhxMFRsTzNXQjc4M0xjRzhHLXQzcjQtOF9XZHFLOExQNkhXQS13MHBoRkpqM2kzb2kyZ1JiYk1YQ2FwRUdxNEl4TUl3d1MzcW1QVXNiQlRSN0ZLenQ0NGk2MDIzTkZRMTd3V29VRVZuWm96cnlkd2wxNTViMS1mNE40T0k3V29GVVF2c2g3WnRsVkJSUXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGYyZWpLekQzV2ZfNlVoUzVpUEh4Q0tLb3hpVGwzaGo0ODFBcHB6dUNhUHJCSzVPdFo1YUIta2QyVU51QUNDbng0d05Pa1hGcmcwaGE0dGh3S2t1aXMzSUp4SXczeWJKNWxtWC15dDNIdUxzYkpOZ2Z4aW84YmZLVUF1dmhmV1dZTEFfWEh3N1hsQmhNQlRpWjVBV1MwV1NjSWozaGFUVUhMMkp6WEFZTEUzM2JTSVJUVVBPOTdrWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2d4ekhwd2hlUTVSSHhxMFRsTzNXQjc4M0xjRzhHLXQzcjQtOF9XZHFLOExQNkhXQS13MHBoRkpqM2kzb2kyZ1JiYk1YQ2FwRUdxNEl4TUl3d1MzcW1QVXNiQlRSN0ZLenQ0NGk2MDIzTkZRMTd3V29VRVZuWm96cnlkd2wxNTViMS1mNE40T0k3V29GVVF2c2g3WnRsVkJSUXc?oc=5" target="_blank">Five dead, more than 80 missing after Philippine ferry fire</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGYyZWpLekQzV2ZfNlVoUzVpUEh4Q0tLb3hpVGwzaGo0ODFBcHB6dUNhUHJCSzVPdFo1YUIta2QyVU51QUNDbng0d05Pa1hGcmcwaGE0dGh3S2t1aXMzSUp4SXczeWJKNWxtWC15dDNIdUxzYkpOZ2Z4aW84YmZLVUF1dmhmV1dZTEFfWEh3N1hsQmhNQlRpWjVBV1MwV1NjSWozaGFUVUhMMkp6WEFZTEUzM2JTSVJUVVBPOTdrWQ?oc=5" target="_blank">Casablanca will host 2030 World Cup final, says Moroccan federation chief</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Xi's India visit to help diplomatic thaw, but business ties bound by suspicion - Reuters
+## IBM, NASA launch AI model to help map ice, craters on Moon - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5" target="_blank">Xi's India visit to help diplomatic thaw, but business ties bound by suspicion</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5" target="_blank">IBM, NASA launch AI model to help map ice, craters on Moon</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
