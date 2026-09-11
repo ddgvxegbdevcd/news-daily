@@ -1,8 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-09-11 04:02:35
+更新时间：2026-09-11 16:13:58
 
-## Asian Stocks, Bonds Fall on Oil and Inflation Woes: Markets Wrap
+## 9/11 Observed With Somber Remembrance on 25th Anniversary
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-11/9-11-observed-with-somber-remembrance-on-25th-anniversary
+
+正文长度：0
+
+摘要：A quarter-century after the Sept. 11, 2001, terror attacks, families returned to the World Trade Center site on Friday to read aloud the names of the dead, marking a milestone anniversary of a tragedy that reshaped America. (Source: Bloomberg)
+
+
+---
+
+## Stocks Climb as Oil Drop Outweighs Inflation Worry: Markets Wrap
 
 来源：彭博社
 
@@ -10,59 +23,173 @@
 
 正文长度：0
 
-摘要：Asian stocks and bonds dropped following a surge in oil prices, as investors awaited key US inflation data later Friday that may determine whether the Federal Reserve raises interest rates this month.
+摘要：The final stretch of a jittery week on Wall Street saw stocks rising, with a decline in oil prices tempering concerns about inflationary pressures ahead of next week’s Federal Reserve decision.
 
 
 ---
 
-## Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5%
+## The First Interesting Consumer Sentiment Report in a Long Time
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5
+链接：https://www.bloomberg.com/news/newsletters/2026-09-11/the-first-interesting-consumer-sentiment-report-in-a-long-time
 
 正文长度：0
 
-摘要：Bond bears are pushing benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week.
+摘要：Even Republicans are souring on the economy.
 
 
 ---
 
-## China Halts New Battery Factories on Capacity Concerns
+## In Post 9/11 Era, NYC's Downtown Forges Life Beyond Wall Street
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin
+链接：https://www.bloomberg.com/news/videos/2026-09-11/lower-manhattan-s-25-year-reinvention-creates-a-neighborhood-beyond-wall-street
 
 正文长度：0
 
-摘要：China has temporarily suspended construction of new projects to manufacture power and energy-storage batteries, pending a year-end review of industry capacity, Caixin reported.
+摘要：Twenty-five years after 9/11, New York City's Financial District is thriving again, transformed by housing, culture and business. Nacha Cattan reports.  (Source: Bloomberg)
 
 
 ---
 
-## Iron Ore Heads For Weekly Loss With Margins Under Pressure
+## US Airline Sanctions Sever Some of Iran’s Last Outside Links
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-11/iron-ore-heads-for-weekly-loss-with-margins-under-pressure
+链接：https://www.bloomberg.com/news/articles/2026-09-11/us-airline-sanctions-sever-some-of-iran-s-last-outside-links
 
 正文长度：0
 
-摘要：Iron ore was headed for its steepest weekly loss since June as steel mill margins deteriorated and hot metal output remained seasonally weak.
+摘要：The US Treasury’s sanctions on additional Iranian airlines threaten permanent damage to an already badly bruised industry, all but severing the country’s limited air connections to the rest of the world.
 
 
 ---
 
-## DeepSeek Hands Memory Stock Investors Fresh Reason for Caution
+## Record U.S. cyclosporiasis outbreak is over, CDC says
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution
+链接：https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html
 
-正文长度：0
+正文长度：1359
 
-摘要：Fund managers wading back into South Korean memory makers’ stocks got a fresh gut check after DeepSeek’s latest artificial intelligence model raised doubts on the strength of demand.
+摘要：The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The largest-ever outbreak of cyclosporiasis in the U.S. has ended, the Centers for Disease Control and Prevention said Friday.
+The foodborne illness sickened 12,833 people in 21 states in recent months in the largest cluster, the CDC said. Health officials have linked that outbreak to shredded iceberg lettuce supplied by Taylor Farms in Mexico.
+It fueled the worst cyclosporiasis season in U.S. history, with 19,595 overall cases of the illness caused by the parasite cyclospora. The U.S. recorded two deaths, both in Michigan, the epicenter of the biggest outbreak.
+The foodborne illness spread sparked scrutiny of U.S. food safety procedures and corporate consolidation in the country's food supply, along with staffing and funding at the U.S. Food and Drug Administration.
+The outbreak also led to lower sales at restaurants that offer fresh lettuce — particularly Taco Bell, which served shredded iceberg lettuce from Taylor Farms — and dampened lettuce sales at grocery stores.
+Cyclospora was challenging for health officials to track because of its long incubation period. It can take weeks to trace back the source of the illness, after which implicated produce may have spoiled.
+Taylor Farms recalled the iceberg lettuce, including packages sold in grocers such as Walmart, in July. Taco Bell also pulled the lettuce from its restaurants that month.
+
+</details>
+
+
+---
+
+## 25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html
+
+正文长度：5314
+
+摘要：Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Sept. 11, 2001, terror attacks reshaped how we travel, from how we pack our toiletries to what we wear when we fly. Airport checkpoints for almost a quarter century for most travelers have meant shoes off. Limitations on liquids. And no tearful, cinematic gateside farewells or joyful welcomes.
+But 25 years later, the U.S. government is starting to ease some of the restrictions, which include measures that were tied to other attacks attempted in the months after 9/11.
+Last year, the Department of Homeland Security, which was formed after the attacks, said flyers can leave their shoes on at airports, a major change for travelers going through regular security.
+That rule was introduced after Richard Reid, who became known as the "shoe bomber," tried and failed to ignite explosive material in his shoe on a Paris-to-Miami flight in December 2001.
+Rules for liquids are officially unchanged. Those regulations for liquids in carry-ons stem from 2006, when British officials foiled a plot to bring liquid explosives on flights.
+New scanners installed at some airport checkpoints allow travelers to leave liquids in their bags before going through screening, though availability varies by airport and checkpoint. Limits on liquid container size remain in effect.
+"The technologies today are better than they were a long time ago and some of the technology that's been deployed is better than it was five years ago," said Jeff Price, a professor at the Metropolitan State University of Denver's Department of Aviation and Aerospace Science and an airport management consultant.
+Another change since that era is the number of options customers have for airport screening. The Transportation Security Administration, for $76.75 covering five years, offers PreCheck, in which travelers undergo prescreening services and can use expedited screening lanes.
+"If you've got a few bucks, yeah, you can reduce the amount of screening and jump the line," Price said. "The other side of that is when you do become a member of PreCheck, you give up a lot more of your personal data to the government, and that's the trade-off."
+There's also a private option with Clear, with a shorter identification check line, in exchange for prescreened biometric data.
+Gate greetings return
+The new changes are going beyond security.
+TSA this week launched a free program allowing eligible trusted travelers, including TSA PreCheck members, to apply for access to secure gate areas without a boarding pass.
+The program is called "Gateside," and the agency has rolled it out at 13 U.S. airports, including Dallas Fort Worth International Airport, Los Angeles International Airport, Detroit Metropolitan Wayne County Airport and Salt Lake City International Airport.
+The area beyond TSA screening has been heavily restricted since 9/11. In launching the program, the agency said PreCheck members who use the program can "meet family members at their gate, join a friend on a long layover for lunch or dinner, visit airport dining and shopping locations, or greet service members returning from deployment."
+Participants must apply online one to three days in advance and receive approval before entering through security.
+Privatization attempt
+Some of the tweaks to security have been more rocky.
+The TSA late last month scrapped a program it called TSA Gold+ that would provide privatized security at certain airports.
+The new head of TSA, David Cummins, who took the top role in early August, said that a new screening partnership program will "replace TSA Gold+ to better harness the role of the private sector in delivering a safer, more secure, and more efficient aviation system."
+TSA didn't respond to requests for further comment.
+Tampa International Airport in Florida had reviewed the program starting in May, in part because it could shield the airport from the impact of government shutdowns, airport Chief Operating Officer John Tiliacos told reporters last month. Those shutdowns left TSA officers without regular paychecks for months, and staffing shortages led to long lines at airports around the country. The chance to add new technology was also a draw.
+Tampa decided not to move forward with the program, and TSA announced its replacement shortly after. Tampa's Tiliacos told reporters last month "we weren't quite satisfied that we were getting all of the answers to our questions regarding the technology" and that drove the airport's decision to opt out.
+Evolving threats
+While some rules travelers have lived with for decades might be fading, the aviation sector is still dealing with changing threats.
+"You have AI. You've got cybersecurity issues that continue to pop up. Drones are a major issue," said Keith Jeffries, vice president of aviation security company K2 Security Screening Group, who is retired from the TSA and was the agency's security director at Los Angeles International Airport. "It's the role of security and protecting, especially the transportation sector, it's getting broader, and other technologies are trying to keep up."
+As security technology evolves, so does the energy of potential attackers to overcome whatever obstacle they have and send their message.
+Deterrents are important, but Jeffries said: "There is no such thing as the perfect security mousetrap. It doesn't exist."
+
+</details>
+
+
+---
+
+## Wealthy investors are pouring billions into this new tax strategy despite risks
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html
+
+正文长度：7354
+
+摘要：Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
+Wealthy investors are pouring billions into a new tax-saving strategy despite potential risks, according to investment experts.
+Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion from $2 billion in 2022, according to Tax Alpha Insider. The strategies seek to track equity indexes while generating tax losses that can offset capital gains taxes.
+TALS products and their variants have caught fire among wealthy investors. After three years of double-digit increases in the stock market, high-net-worth investors are sitting on large gains they don't want taxed. Business owners who have sold a company and executives who hold concentrated stock positions also are flocking to the products. The surge in IPOs, with many employees holding stock that soars in value, is adding to demand for products that can offset big realized gains.
+For the wealth management industry, tax-aware products have become a bonanza. As other investment strategies become commoditized or automated, complex long-short strategies command hefty fees and attract new clients.
+"These are phenomenally profitable and sticky products that the wealth management industry is incentivized to sell," said Bob Casey, CEO of Santa Barbara Management, which advises family offices. "They are growing at eye-popping rates."
+The tax benefits can be substantial. Casey gives the example of a portfolio with a $1 million investment. With a tax-aware long-short strategy, the portfolio could generate capital losses of $250,000 in the first year, though that would decline over time. For a California-based investor, the $250,000 in losses could be worth up to $137,500 if they're offsetting short-term capital gains, he said.
+Those tax benefits, however, come with risks. Tax attorneys and investment experts say too many wealthy investors are rushing into TALS strategies without fully understanding the details or investment implications. The surge in assets is also attracting scrutiny from tax authorities.
+Here are four main risks wealthy investors should understand before investing in tax-aware long-short strategies.
+IRS crackdown
+Earlier this summer, Treasury officials speaking at a Wall Street Tax Association seminar warned of "aggressive planning" involving investment products that offer tax losses. They didn't name tax-aware long-short strategies specifically. But they cited similar so-called "tax-alpha" products, like 351 conversions, box-spread ETFs and other funds that generate losses.
+"We're not going to let sophisticated abusive tax structuring become a runaway train," one Treasury official said at the seminar, according to two people who attended.
+The officials didn't say the practices are illegal. For now, they're seeking more information and input from Wall Street and tax attorneys. Tax lawyers add that the Trump administration touts its light touch with financial regulation, so any changes will likely be well-telegraphed.
+Yet attorneys said the Treasury has now put Wall Street on notice.
+"Treasury seemed to be suggesting that they would be taking a look at a lot of different products and they're going to use the different tools at their disposal," said Mohsen Ghazi, partner at Ashurst Perkins Coie.
+The Treasury Department could choose to issue new guidance, ban the products or perhaps not make any changes. With so much unclear, attorneys and advisors are advising clients to be aware of potential fallout. Family offices, which are especially sensitive to their reputations, may be especially wary of being named in a potential tax-avoidance scandal.
+"Based on what we've heard [from the Treasury], if you're a potential investor, you should just be a little bit more cautious," said Vivek Chandrasekhar, partner at Ashurst Perkins Coie.
+No easy exit
+While wealth advisors market the strategies as tax savings, they're actually more like tax deferrals. While you're invested, the losses from the leveraged short positions help to offset gains from the leveraged longs.
+Getting out, however, isn't so easy. While exiting a direct index fund is relatively straightforward, moving out of a tax-aware long-short strategy involves deleveraging, which means the unrealized gains can all get realized at once. Investors can find themselves after several years with large embedded gains in their portfolios. Selling or liquidating generates a surprise tax bill on the accumulated gain.
+"You can't just say, 'let's turn this off,'" said Christopher Houston, head of private wealth strategies and family office services at Cambridge Associates. "You could wind up back in the same place."
+Ultra-wealthy investors and family offices that are gifting the appreciated stock to charity or certain trusts still benefit, since they never have to realize the gains. And many may be counting on the step-up in basis after death to erase the tax.
+"Tax deferral can have a true economic benefit," Houston said. "But you have to know what your endgame is."
+It's complicated
+Wealthy investors are being lured into TALS by the tax savings, but they often don't understand the underlying complexity. One account can involve thousands of individual stock bets, frequent trading, leverage, short positions and loan details that are difficult even for sophisticated investors to fully assess.
+For wealth advisors and the product providers, like AQR and Quantinno, the complexity justifies the fees and benefits.
+"Complexity is a feature, not a bug, from a wealth manager's perspective," Casey said.
+Yet some clients might be surprised to learn how much leverage they're taking on. The most popular strategies involve a "130/30" ratio, with $100 invested, and $30 borrowed for added long positions and $30 for short positions. Yet some funds are selling $150/$50 products or even higher.
+"Leverage can make fortunes and leverage can end fortunes," Houston said.
+A related problem is underperformance. So-called "tracking error" — or the difference between a portfolio's returns and the returns of the benchmark or index — can be larger for tax-aware long-short strategies due to leverage, investment experts said.
+"If you run this strategy long enough, you should reasonably expect to experience periods in which your portfolio materially underperforms the index on a pre-tax basis," Casey said. The tax benefits, however, can help offset the underperformance.
+High fees
+TALS fees can range between 1% and 3% for the entire portfolio. That includes the investment management fee, financing and borrowing fees.
+The layers of fees on top of fees have been a boon to RIAs, lenders and managers. Financing fees, or "spreads," have widened over the past year for many tax-aware long-short clients as lenders demand more compensation for risk. Analysts said investors need to question whether the annual fees are more than offset by the tax savings.
+"There are fees and expenses that are associated with this that you wouldn't have with direct indexing," Houston said. "Those can often be justified by the tax benefits. But you still need to understand them and understand how they can change over time."
+
+</details>
 
 
 ---
@@ -73,7 +200,7 @@
 
 链接：https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html
 
-正文长度：4348
+正文长度：4360
 
 摘要：OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.
 
@@ -90,7 +217,7 @@ Turley told reporters during the briefing OpenAI plans to release tailored solut
 In a live demonstration of the new offering, Turley showed the platform analyzing a potential M&A target, pulling financial figures from industry-standard data sources and creating a formatted PowerPoint deck based on a bank's preformatted style guide.
 "It's very easy to make slides that look good, but it's much harder to make slides [that] actually make sense," Turley said. "To get here, ChatGPT had to choose the relevant peers. It had to pull the prices into a spreadsheet. It had to check the chart against the data, and it had to explain the sell-off and the rebound."
 Banker disruption?
-What separates this version from the product it's based on, ChatGPT Work, is native data access from LSEG, Daloopa and PitchBook that furnishes the system with things like financial statements and earnings transcripts as well as automated access to users' existing data subscriptions.
+What separates this version from the product it's based on, ChatGPT Work, is native data access from LSEG, Daloopa, Crunchbase and PitchBook that furnishes the system with things like financial statements and earnings transcripts as well as automated access to users' existing data subscriptions.
 Other features tailor-built for finance include citations that allow users to trace data back to source filings and audit charts as well as administrative controls for sensitive deal materials.
 While Turley said that there was "a ton of demand" for this version of ChatGPT, which is initially geared toward investment banking and equity research, he declined to name banks that have signed on for it.
 When asked by CNBC whether this latest version of ChatGPT would reduce the need for investment banks to hire junior bankers, Turley framed the release as an efficiency boost that maximizes productivity per employee.
@@ -132,237 +259,132 @@ Duffy's criticism was addressed to Farley in a letter released by the Trump admi
 
 ---
 
-## Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html
-
-正文长度：2674
-
-摘要：ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Jimmy Kimmel, the late-night talk show host with Disney-owned ABC, is taking some precautions in the face of scrutiny by the Federal Communications Commission.
-Kimmel said on Wednesday night that he will not air an interview with Democratic U.S. Senate candidate James Talarico on national television. The interview will air on YouTube on Thursday instead.
-"For some reason, and I can't seem to figure out what that reason is, something has changed," Kimmel said during his Wednesday night broadcast. "Now that [Trump] is president, his FCC has threatened me, threatened our show, threatened our network, ABC, our affiliates, our local stations, based on simple, traditional editorial decisions."
-He added that the decision not to broadcast the interview on TV is "out of consideration" for ABC affiliates who he said would have to "deal with this nonsense" of FCC scrutiny.
-"In the America we live in right now, that is the best we can do, until November, of course," Kimmel said.
-The FCC did not immediately respond to a request for comment.
-Talarico, a Texas state representative, is locked in a tight Senate race against Texas Attorney General Ken Paxton, who's gotten an endorsement from President Donald Trump. Public polling has shown Talarico slightly ahead of Paxton, a controversial figure in Texas who was impeached by the state House of Representatives over allegations of corruption. He was acquitted by the state Senate.
-In January, the FCC called into question whether TV talk shows are "bona fide" news programs and are therefore exempt from equal airtime rules for political candidates. "The View," another ABC program, has faced similar scrutiny from the FCC.
-Kimmel said Wednesday that he has been interviewing political candidates, including Trump himself, for years.
-Kimmel's show has become a lightning rod for debates around broadcasting rights, First Amendment protections and government intervention.
-Last year, ABC-affiliate station owners opted not to air "Jimmy Kimmel Live!" after comments he made during a monologue following the killing of Charlie Kirk. ABC suspended the show for roughly a week, and Kimmel later said, "It was never my intention to make light of the murder of a young man."
-But ABC has faced continued pressure from the Trump administration since.
-In April, the FCC launched an early renewal process for ABC-owned stations, citing an investigation into the company's diversity, equity and inclusion practices.
-ABC filed the license renewals, but in August it sued the agency over First Amendment concerns, calling its investigation into the company a "retaliatory campaign."
-— CNBC's Garrett Downs contributed to this report.
-
-</details>
-
-
----
-
-## NFL Commissioner Roger Goodell says league could rework TV packages in next media deal
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html
-
-正文长度：3378
-
-摘要：The NFL has an opt-out clause at the end of the 2029-30 season in which it can resell and redistribute its media rights.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> MELBOURNE, Australia — NFL Commissioner Roger Goodell said he will consider reworking game packages when the league inks its next media rights deal to adjust for modern TV consumption habits and the shift to streaming.
-"One of the things we're doing as a league is talking to our partners, talking to future partners, potential partners ... and evaluating, should we repackage our current packages? Should we think differently about where we go with those things?" Goodell said in an exclusive interview with CNBC ahead of the Week 1 game between the San Francisco 49ers and the Los Angeles Rams, the league's first regular-season matchup in Australia. The game will take place Thursday night at 8:35 p.m. ET.
-The NFL currently sells two Sunday afternoon game packages, a Sunday Night Football slate, a Monday Night Football package, and Thursday Night Football games. Fox and Paramount Skydance-owned CBS have the Sunday afternoon game rights, while NBC has Sunday Night Football, Disney's ESPN and ABC own Monday Night Football and Amazon has Thursday Night Football.
-Netflix also bought the rights to five additional NFL games this season.
-The NFL has an opt-out clause that it can trigger at the end of the 2029-30 season to redo and resell its existing packages. Goodell wouldn't say if the league plans to take advantage of that option.
-"We don't have to make that decision today. That's the reason you have an option," Goodell said. "[What] we said all along is that the option would be incredibly valuable to the NFL — to be able to evaluate what's happening in the media landscape, to be able to look at the things that are happening out there and make the best decision for our fans and for our clubs and how we make sure we present our game in the best possible way and do it with the proper value."
-Several of the NFL's current media partners are undergoing significant transformations this year.
-Paramount is attempting to acquire Warner Bros. Discovery for $110 billion in a deal that's been delayed amid an antitrust challenge. Fox has agreed to buy Roku for $22 billion. Comcast said earlier this year it plans to spin off NBCUniversal.
-The shifting media landscape is likely to factor in when the NFL renegotiates its packages.
-Goodell also noted that reaching fans globally is a new priority for the league, which will play games in countries including Spain, France and Brazil this season. Netflix owns the global broadcast rights to the 49ers-Rams game.
-Still, most NFL game rights are U.S.-only.
-"The world is changing for our partners. It's changing for us. It's changing for fans. Our fans are moving to other platforms," said Goodell. "I think one of the challenges for us is to look at the changes, evaluate what's working, what's not, what we think is going to work beyond those option dates and the partners that can bring the greatest opportunity to reach those fans on a global basis. ... We've never looked at it that way until recently."
-Goodell said broadcast TV will continue to play a major role in the league's media rights strategy to ensure that local markets have free, over-the-air access to games. Local broadcast stations simulcast games on streaming services such as Netflix and Amazon Prime Video so regional fans can watch.
-"One hundred percent of our games are available on broadcast television. I see that continuing," said Goodell.
-
-</details>
-
-
----
-
-## NFL's Roger Goodell is playing the international long game ahead of league's Australia debut
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html
-
-正文长度：4373
-
-摘要：Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> MELBOURNE, Australia — The NFL is making history this week with its first-ever regular-season game in Australia, but Commissioner Roger Goodell is already thinking well into the future.
-"Whether it's media, or whether it's labor, or whether it's our international plans or what we're doing with stadiums, all of that [requires] taking a 5-, 10-, 15-year look, and it's critical to do that," Goodell said in an exclusive interview with CNBC here ahead of the Week 1 game between the San Francisco 49ers and the Los Angeles Rams, set to kick off Thursday night at 8:35 pm ET.
-"If you're not, you're being irresponsible," he added.
-Earlier this month, Goodell, 67, signed a four-year contract extension that will keep him as the league's commissioner until March 2031. This year marks Goodell's 20th season on the job.
-He has overseen significant growth and change for the most popular U.S. sports league, including the addition of a 17th regular season game and its sale of media rights to streaming platforms. But no change may factor more into his long-term plans than adding recent regular-season games in a range of countries from Germany and France to Brazil and Mexico.
-NFL games are routinely the most-watched programming in the U.S., but international interest is still sparse. Last year's Week 1 international game between the Kansas City Chiefs and the Los Angeles Chargers — streamed on YouTube — was watched by 18.5 million viewers in the U.S. and just 1.2 million abroad.
-Goodell's global growth plans include playing nine games outside of the U.S. in 2026 and 10 international contests in 2027. He's previously said he'd like to get that number to 16, but he'll need player buy-in to do so.
-The league's current collective bargaining agreement caps the number of international games at 10. The CBA expires in March 2031 — aligning with Goodell's contract.
-Banking on branding
-International travel can be disruptive to players who rely on routines to maximize their health and limit injuries over the course of a 17-game regular season. Still, Goodell said he believes players enjoy the global games.
-"I think they see the opportunity. I get calls, texts from our players during the offseason, and they're all over the world, so I think this generation of players is used to being international," said Goodell. "I think they're used to looking at opportunities to continue to grow their brands, and I think it's great for the NFL."
-The league's international strategy is predicated on holistic growth that goes beyond playing a once-a-year game in a certain city, said Goodell. It's unclear how much flying into an international city for a week to play a game moves the needle for sustained fandom.
-The league is relying on its Global Markets Program to build interest around the world. Each team owns the marketing rights to at least one international market. The NFL is still tweaking the program to maximize ways to build fan bases in countries without natural alliances to teams, Goodell said.
-"You don't want to be at the circus to come in and play a game and leave," he said. "You want to have events and sponsors and media partners. I think we'll continue to modify [the Global Markets Program], but I think it's worked well."
-Goodell has also said he expects to one day have a team based permanently outside the U.S.
-Hypothetically, Goodell said, he could envision an NFL with multiple teams based in Europe. Still, he declined to put a time frame on establishing an international franchise because "it's all part of a broader plan to continue to develop our business."
-"As you develop your business, at some point in time, you may get to that place where you say, you know, putting a franchise or franchises globally is a good idea," Goodell said. "You're looking down the road, maybe you do a division in Europe, so they're playing against one another. The beauty and the advantage we have is that we're playing once a week."
-The league's international growth is also tied to expanding global media exposure, he said. Netflix has the global broadcast rights to the 49ers-Rams game from Melbourne.
-"We're looking at how we continue to grow our media exposure globally," Goodell said. "More and more of our games are on free television and on media partners that are promoting the game, and they're expanding the game, and that's really important to us."
-
-</details>
-
-
----
-
-## Stanley Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields - Financial Times
+## Scott Bessent fails to break ‘fever’ in US bond market - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjJiS19uN2ZoblVwekowTzJUdTVYZ21BbUZNZDdDbVlYX2hzaVVRN281VUlNQlZVRE9rQy0tN0hHUGhzdkUzZkRnV0VPVFVBRm96ckxTcEZmOXpNR3llR2l2NF9NVDBZREhSVTdsd2tHb1JxTkF0cmZoZVVOQ3B4bS1nN1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjJiS19uN2ZoblVwekowTzJUdTVYZ21BbUZNZDdDbVlYX2hzaVVRN281VUlNQlZVRE9rQy0tN0hHUGhzdkUzZkRnV0VPVFVBRm96ckxTcEZmOXpNR3llR2l2NF9NVDBZREhSVTdsd2tHb1JxTkF0cmZoZVVOQ3B4bS1nN1E?oc=5" target="_blank">Stanley Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5" target="_blank">Scott Bessent fails to break ‘fever’ in US bond market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Latham & Watkins buys Nvidia servers to set up in-house AI systems - Financial Times
+## How big is the open-model threat to AI hyperscalers? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnFPNnhOMnhyQ04temgycHAySld0OGFiVjdFZUppS25Ob3RLMS1mTDJGY2ZYMm1wTjdObzU2aDdjbkdQTkFxM2hrc3NwREdtamdqOHRvY2VNazJfMWhVYTcwZ1dGcm9fWGx5elVtcUNhTnNvS0RBSTBzMUJSeWF6ZFlDcGI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOFlzbVlVbUFRV19icThTZDA5bXdWNXVUbFFIbWFOOENXS2MzOU5OWlVDbjRaQ29zNXVCaDlPNllWdWpxS3VMT29vcmlZTmZpT1JoZktJNTJpd1MwYlV6VXJmMVJiUGdaRDJQWVVvRDA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnFPNnhOMnhyQ04temgycHAySld0OGFiVjdFZUppS25Ob3RLMS1mTDJGY2ZYMm1wTjdObzU2aDdjbkdQTkFxM2hrc3NwREdtamdqOHRvY2VNazJfMWhVYTcwZ1dGcm9fWGx5elVtcUNhTnNvS0RBSTBzMUJSeWF6ZFlDcGI?oc=5" target="_blank">Latham & Watkins buys Nvidia servers to set up in-house AI systems</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOFlzbVlVbUFRV19icThTZDA5bXdWNXVUbFFIbWFOOENXS2MzOU5OWlVDbjRaQ29zNXVCaDlPNllWdWpxS3VMT29vcmlZTmZpT1JoZktJNTJpd1MwYlV6VXJmMVJiUGdaRDJQWVVvRDA?oc=5" target="_blank">How big is the open-model threat to AI hyperscalers?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Is now really the time to worry about a new China shock? - Financial Times
+## How China is extending its legal reach abroad to fight US sanctions - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdXJJRWtpT0xyUUdiVU10Y1pjSHhKWjgwQUhpa2pDaUllXzV1Zk5OOWVINWQ5NHBXSVViME5vWVpkcDVudVNROE5faFgxZUxXUTBPcHpPdHpIQlZQVVB1X1ItRW5uWkFLamVmS2htaHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdXJJRWtpT0xyUUdiVU10Y1pjSHhKWjgwQUhpa2pDaUllXzV1Zk5OOWVINWQ5NHBXSVViME5vWVpkcDVudVNROE5faFgxZUxXUTBPcHpPdHpIQlZQVVB1X1ItRW5uWkFLamVmS2htaHA?oc=5" target="_blank">Is now really the time to worry about a new China shock?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?oc=5" target="_blank">How China is extending its legal reach abroad to fight US sanctions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Moonshot capitalism: AI rewrites the venture capital playbook - Financial Times
+## EU looks for new path to tap Russian assets for Ukraine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUV9NbU5RakZnOEJOb2thUjAxcmNHQWg0RTV3LU9MOGtIeHVDU2dpY0RJODZJdGl3dEk2R0NMV1lLbnp4MFdQLVByR1N3M0F2VVdHazVGSjFSR19SMW1PY2g2SGY1VEhQd0lRU3ZRR2hmWlhnWmxKQWxLTnNvNFVpTFF3aGU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5" target="_blank">Moonshot capitalism: AI rewrites the venture capital playbook</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUV9NbU5RakZnOEJOb2thUjAxcmNHQWg0RTV3LU9MOGtIeHVDU2dpY0RJODZJdGl3dEk2R0NMV1lLbnp4MFdQLVByR1N3M0F2VVdHazVGSjFSR19SMW1PY2g2SGY1VEhQd0lRU3ZRR2hmWlhnWmxKQWxLTnNvNFVpTFF3aGU?oc=5" target="_blank">EU looks for new path to tap Russian assets for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Global bond sell-off reignites as oil jumps to $109 - Financial Times
+## Brics on the rise - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkJRTDQ0bmVZbzZoNlNuc3M3djNhSllYZnJrVm5PME9BVEZfSmJDWDJyTlZRMFk1QXJ2WFczOE5YQlVGcV9fWW5BOEpnczF2c1Fuc0NuQXV6cl9LN1BBR1RWczd2ZkJEWW1fbjRMUi1SSGFWWTVOLTVfSWJLZ21BZWMzSk8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2Jpc01lSnliWlVyZDVrNDVkZHV2X1V3TXlsdVZCWDAzT0V6UWM3dF9WT1V1c1FVenlyT3Mxd1h0bDRvSElXZldzQVdOTkM0aGJQODRCU3VNdlFaeFpPQTNJR2l5NmhsekcxNldlc2VWQUNrSml6QXFDZnBrZGh6UDZsZGg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkJRTDQ0bmVZbzZoNlNuc3M3djNhSllYZnJrVm5PME9BVEZfSmJDWDJyTlZRMFk1QXJ2WFczOE5YQlVGcV9fWW5BOEpnczF2c1Fuc0NuQXV6cl9LN1BBR1RWczd2ZkJEWW1fbjRMUi1SSGFWWTVOLTVfSWJLZ21BZWMzSk8?oc=5" target="_blank">Global bond sell-off reignites as oil jumps to $109</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2Jpc01lSnliWlVyZDVrNDVkZHV2X1V3TXlsdVZCWDAzT0V6UWM3dF9WT1V1c1FVenlyT3Mxd1h0bDRvSElXZldzQVdOTkM0aGJQODRCU3VNdlFaeFpPQTNJR2l5NmhsekcxNldlc2VWQUNrSml6QXFDZnBrZGh6UDZsZGg?oc=5" target="_blank">Brics on the rise</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil prices set to end week over $100 for first time in nearly 4 months - Reuters
+## Norway's Princess Astrid dies, aged 94, two days after king's funeral - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjNHOXRmeHF4SFNSbWF3d2tvaGJ1RjhWUGE5Ulg5cDdUXzExS0xvY3Y5SjNJSDg0VE5HYl8wVXNwcTluQXVsNGtWNHlKa0dmcDNuaEtqbFoyR19mNUI1dlJFSElMQkMtZ0NOeVpCNTlwdTc0aUdJUjVWN1BUMUJ5ajNsVFZ0ZVJhY3RhcFZ4by1Kc1VhMzZLN0c4Y1J5Z3dqQnI2QjVrcXQ0aUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5" target="_blank">Oil prices set to end week over $100 for first time in nearly 4 months</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjNHOXRmeHF4SFNSbWF3d2tvaGJ1RjhWUGE5Ulg5cDdUXzExS0xvY3Y5SjNJSDg0VE5HYl8wVXNwcTluQXVsNGtWNHlKa0dmcDNuaEtqbFoyR19mNUI1dlJFSElMQkMtZ0NOeVpCNTlwdTc0aUdJUjVWN1BUMUJ5ajNsVFZ0ZVJhY3RhcFZ4by1Kc1VhMzZLN0c4Y1J5Z3dqQnI2QjVrcXQ0aUE?oc=5" target="_blank">Norway's Princess Astrid dies, aged 94, two days after king's funeral</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he does not regret Iran war despite impact it may have on midterm elections - Reuters
+## VIEW Stocks, bonds rally after August inflation report - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmZLSXdlTkU0cmx1cTlYYV9KVUliY1k4aUNpNjQxZ2ZyamhIWklodVVZTW1rZkhhNEpwQmM0dFQycmhpR2NzeGVReVYyYjNtV281QlpyMDVHeFUzLTUteGc1NTl6SWhUdzQyZUtlblFkdTVPYUZ0bkt5WTg5dm9walJFeUE0aWJrQjVjZk5KY01OUUFPeHZ4b2pWVGZybWtIb3NOOVFBak9ZajA0WlQ3T3FzeHV2Zw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmZLSXdlTkU0cmx1cTlYYV9KVUliY1k4aUNpNjQxZ2ZyamhIWklodVVZTW1rZkhhNEpwQmM0dFQycmhpR2NzeGVReVYyYjNtV281QlpyMDVHeFUzLTUteGc1NTl6SWhUdzQyZUtlblFkdTVPYUZ0bkt5WTg5dm9walJFeUE0aWJrQjVjZk5KY01OUUFPeHZ4b2pWVGZybWtIb3NOOVFBak9ZajA0WlQ3T3FzeHV2Zw?oc=5" target="_blank">Trump says he does not regret Iran war despite impact it may have on midterm elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5" target="_blank">VIEW Stocks, bonds rally after August inflation report</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Global bonds buckle as surging oil prices inflame inflation risks - Reuters
+## US consumer inflation picks up in August - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMifEFVX3lxTE1rQ3pYNkdSYUhxbHl1RjJnc01XMWdUV2NHRFBXaTJhN0FzcUtqV3RFOU5EaUZyTnZYTVJ5ZlduWkJGTzB1Wm8xdmpLdXNBSzdubXRLbmxZRlQtTkh4YkRrbjUwQVFScUVBM3MxLTdITll1ZnZmUGljV1NtRXk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1rQ3pYNkdSYUhxbHl1RjJnc01XMWdUV2NHRFBXaTJhN0FzcUtqV3RFOU5EaUZyTnZYTVJ5ZlduWkJGTzB1Wm8xdmpLdXNBSzdubXRLbmxZRlQtTkh4YkRrbjUwQVFScUVBM3MxLTdITll1ZnZmUGljV1NtRXk?oc=5" target="_blank">Global bonds buckle as surging oil prices inflame inflation risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5" target="_blank">US consumer inflation picks up in August</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Finnair says Chinese access to Russian airspace creates unfair competition - Reuters
+## Israel kills Hamas commander in Gaza strike, military and militants say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEZLZU1YTW96SVA5RDRVajVuRjdMaEh1OU5iYnQ3dXdpbmR1ajdpcG9qU2RrbTJHMElIZ0VZZ3AxYVF5MXN2bjYzcnJKdzJQQXpUYnJFQUgxdU55cDZlVXhKRHZ5NlhZTUJySW9iRU5xZGJib2luM2pTTk5nMFN5amRxTGlJUXR5eVhYaG0xQVd0TDROak43NHduRVFPSEtnNy1ndzlxYzQ0NXV0ZGhBUUFBSFFEYWEzTjg0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0dtUWsxT3VGczFfNC1Yakk4VVMxTTVhZHEwVWlTOUhMMmtmOEhkWm1tTDJ1X2NzRkoteHFIWi1HZEU4MjU0b2ZGNFR5RERGSFozWlVYRnFpZ3EtM1QxTEt2NFg5SWpINEdQcC1yWmZ0LWhjZzZxdGdIOVl6X1FobG03SmlLN21ZNUZJdTNQbEVsRF9QSVpUS2VqUTdUOU54R1ZJ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEZLZU1YTW96SVA5RDRVajVuRjdMaEh1OU5iYnQ3dXdpbmR1ajdpcG9qU2RrbTJHMElIZ0VZZ3AxYVF5MXN2bjYzcnJKdzJQQXpUYnJFQUgxdU55cDZlVXhKRHZ5NlhZTUJySW9iRU5xZGJib2luM2pTTk5nMFN5amRxTGlJUXR5eVhYaG0xQVd0TDROak43NHduRVFPSEtnNy1ndzlxYzQ0NXV0ZGhBUUFBSFFEYWEzTjg0?oc=5" target="_blank">Finnair says Chinese access to Russian airspace creates unfair competition</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0dtUWsxT3VGczFfNC1Yakk4VVMxTTVhZHEwVWlTOUhMMmtmOEhkWm1tTDJ1X2NzRkoteHFIWi1HZEU4MjU0b2ZGNFR5RERGSFozWlVYRnFpZ3EtM1QxTEt2NFg5SWpINEdQcC1yWmZ0LWhjZzZxdGdIOVl6X1FobG03SmlLN21ZNUZJdTNQbEVsRF9QSVpUS2VqUTdUOU54R1ZJ?oc=5" target="_blank">Israel kills Hamas commander in Gaza strike, military and militants say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters
+## ChatGPT invented fake police testimony in murder appeal, New Mexico high court says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmhINTM0ai1SSk9LTVNmUk1SUVRpeUF1bnRGQkRMTVE4RVBCM01KdFpHZ3VJN1ZvUmNUakFlZmNUYWdjakxERkNobmhSVmVZWWpTSVpyLTNLV1VMLXJQNU9EOGd3RE1MVTYydm10VHZLVWJGMU4tYjRZU1Awa19NOWpzWXhJbjNaTDAtaTUyVGczWkJTN05DRkljRGhmLVNPNVhCVkZpam9fcEQ0MGwxcXh3TGFwRTRaelo1eFhkQU9tWVNGN0pmYWJ0dGw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5" target="_blank">Apple’s foldable iPhone poses a $1,999 question: Who is it for?</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmhINTM0ai1SSk9LTVNmUk1SUVRpeUF1bnRGQkRMTVE4RVBCM01KdFpHZ3VJN1ZvUmNUakFlZmNUYWdjakxERkNobmhSVmVZWWpTSVpyLTNLV1VMLXJQNU9EOGd3RE1MVTYydm10VHZLVWJGMU4tYjRZU1Awa19NOWpzWXhJbjNaTDAtaTUyVGczWkJTN05DRkljRGhmLVNPNVhCVkZpam9fcEQ0MGwxcXh3TGFwRTRaelo1eFhkQU9tWVNGN0pmYWJ0dGw?oc=5" target="_blank">ChatGPT invented fake police testimony in murder appeal, New Mexico high court says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
