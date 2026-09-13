@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-09-13 04:14:53
+更新时间：2026-09-13 15:57:46
 
-## Korea Tests Global Investor Appetite With Longer Trading Hours
+## Ukraine Says Passenger Train Headed to Warsaw Hit by Drone
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-13/korea-tests-global-investor-appetite-with-longer-trading-hours
+链接：https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone
 
 正文长度：0
 
-摘要：South Korea’s main stock exchange is extending into evening sessions, breaking with Asia’s trading-hour norms to tap what it hopes will be sustained demand from global investors.
+摘要：The locomotive of a passenger train traveling from Kyiv to Warsaw was hit by a Russian drone just kilometers from the Polish border on Sunday morning, Ukraine’s foreign minister said, as Moscow’s airstrikes push closer to NATO territory.
 
 
 ---
 
-## SpaceX to Get Weighting Boost in Nasdaq 100 After Rebalance
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance
+链接：https://www.bloomberg.com/news/videos/2026-09-13/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：SpaceX is set to get a larger weighting in the Nasdaq 100 later this month, a change that could trigger billions of dollars of buying by passive funds tied to the benchmark.
+摘要：The middle-class side-hustle, mean girl moms, and the 2026 Emmy awards: Watch Lisa Mateo, Christina Ruffini and Jeff Mason talk about headlines from this week you may have missed on Bloomberg This Weekend! (Source: Bloomberg)
 
 
 ---
 
-## Bloomberg This Weekend 09/12/2026
+## Refining Bottleneck Sends Diesel to Record High
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-12/bloomberg-this-weekend-09-12-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-09-13/refining-bottleneck-sends-diesel-to-record-high-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. Ambassador to NATO Nick Burns, Council on Foreign Relations Ray Takeyh, Future of Life Institute Co-Founder and MIT Professor of Physics Max Tegmark, EFI Foundation CEO and Fmr. US Energy Secretary Ernest Moniz, PNC Asset Management Group Chief Investment Officer Amanda Agati and Author “In the Realm of the Last Man” Francis Fukuyama. (Source: Bloomberg)
+摘要：Record diesel prices are exposing a critical constraint in global energy markets as refinery disruptions abroad collide with limited capacity in the US. GasBuddy’s Patrick De Haan is on Bloomberg This Weekend and says producing more crude alone won’t solve the problem because refiners are already operating near their limits, leaving little room to boost gasoline and diesel supplies quickly.  (Source: Bloomberg)
 
 
 ---
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## Iran Seeks Gulf Support for Hormuz Plan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-12/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/videos/2026-09-13/iran-seeks-gulf-support-for-hormuz-plan-video
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini, and Jeff Mason as they play and check out the quiz for yourself at Bloomberg.com  (Source: Bloomberg)
+摘要：Gulf states are weighing how to respond to Iran’s push for a new arrangement governing the Strait of Hormuz as continued attacks threaten shipping and drive up energy costs. On Bloomberg This Weekend,  Bloomberg News Middle East Reporter Dan Williams and Bloomberg News White House Correspondent Skylar Woodhouse discuss growing regional frustration with the conflict, pressure on US allies and signs Gulf governments may be looking for a larger role in shaping a path forward. (Source: Bloomberg)
 
 
 ---
 
-## Trump’s Foes Find Common Ground at Modi’s New Delhi Summit
+## Drone Threats Force Cities to Rethink Defenses
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-12/trump-s-foes-find-common-ground-at-modi-s-new-delhi-summit
+链接：https://www.bloomberg.com/news/videos/2026-09-13/drone-threats-force-cities-to-rethink-defenses-video
 
 正文长度：0
 
-摘要：Leaders of emerging powers including Russia and Iran projected a united front at a weekend summit in New Delhi, with a joint statement that targeted a US-launched war in the Middle East, Washington’s tariff campaign and its sanctions policy.
+摘要：As drones become cheaper, faster and harder to detect, cities far from traditional battlefields are confronting the challenge of protecting civilians without creating new risks from falling debris or costly interceptions. Bloomberg Weekend Senior Writer Morgan Meaker is on Bloomberg This Weekend and examines how governments are testing everything from jammers and interceptor drones to surprisingly effective low tech nets as they search for defenses that can keep pace with rapidly evolving threats. (Source: Bloomberg)
 
 
 ---
@@ -275,6 +275,58 @@ Last month, Chris Churchman, the Goldman Sachs partner in charge of one of the b
 
 ---
 
+## Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTJzQkI5aGdteWVCN1JlcXg4RlNGWFdTbW9iMXBoSHE3SjIwdzNWSGlaV3F2NXkwNmwyY0NuUlBheFRJLXd5VExtMVB1VWRxUTFrVUlXbUlYT2xQcFVqSTVHLVlzYzZKYW9jbFJoQ29rZHM5RmF6ejRUd1p6Nm1mSmNfTHc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTJzQkI5aGdteWVCN1JlcXg4RlNGWFdTbW9iMXBoSHE3SjIwdzNWSGlaV3F2NXkwNmwyY0NuUlBheFRJLXd5VExtMVB1VWRxUTFrVUlXbUlYT2xQcFVqSTVHLVlzYzZKYW9jbFJoQ29rZHM5RmF6ejRUd1p6Nm1mSmNfTHc?oc=5" target="_blank">Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## How Russia’s new drones are changing the air war - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1o2eVBfWm1GZGFWb2hoUDNRYnk3U1VhVUFMZm5CU29kdU5zWk1kUDROTDJkeW95OXZ2dWVabFhiQkNobVN6WTh0ZkdqZHQ4NnRxOUxqYTRZSFlIZl9DWW0wVldqaDlLWjliNlBDeVlBd2I0ZkJETFZ2cHFIRW5sUWVJYkI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1o2eVBfWm1GZGFWb2hoUDNRYnk3U1VhVUFMZm5CU29kdU5zWk1kUDROTDJkeW95OXZ2dWVabFhiQkNobVN6WTh0ZkdqZHQ4NnRxOUxqYTRZSFlIZl9DWW0wVldqaDlLWjliNlBDeVlBd2I0ZkJETFZ2cHFIRW5sUWVJYkI?oc=5" target="_blank">How Russia’s new drones are changing the air war</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Elon Musk’s secretive backer builds $40bn SpaceX stake - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMS1SM04wYWdkM0JGdVl0a2pyTk90Q0NIaC1lUmw1LXhkSlpxR215eWxPdXUzMkFVUmJEeExseDZOazd6RkQ3SVBPeFpURkpkMjVuUnJPblBDMG0tR0VNaGxwS0tRZ2YxTVp2VnNiYjl5OGpTQW9hcEtfT1djTnJubGYzZ0U?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMS1SM04wYWdkM0JGdVl0a2pyTk90Q0NIaC1lUmw1LXhkSlpxR215eWxPdXUzMkFVUmJEeExseDZOazd6RkQ3SVBPeFpURkpkMjVuUnJPblBDMG0tR0VNaGxwS0tRZ2YxTVp2VnNiYjl5OGpTQW9hcEtfT1djTnJubGYzZ0U?oc=5" target="_blank">Elon Musk’s secretive backer builds $40bn SpaceX stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnNheElvSEM2dVdXN3FjV0wtWndhdWJTc2s1cllPWURCRUlqV1N6anUyWXFPVWE3UmRaRFhZRUw0bjRoQ2xYMjByeWZCRVhpbDBRVlNSYmY5TFYxRXNSNnRYdkw0dEJHRzZOU2JJMnpBV0pyV2RHckVxWHVUNFJxOUVGWk4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnNheElvSEM2dVdXN3FjV0wtWndhdWJTc2s1cllPWURCRUlqV1N6anUyWXFPVWE3UmRaRFhZRUw0bjRoQ2xYMjByeWZCRVhpbDBRVlNSYmY5TFYxRXNSNnRYdkw0dEJHRzZOU2JJMnpBV0pyV2RHckVxWHVUNFJxOUVGWk4?oc=5" target="_blank">GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown - Financial Times
 
 来源：金融时报
@@ -288,119 +340,67 @@ Last month, Chris Churchman, the Goldman Sachs partner in charge of one of the b
 
 ---
 
-## US limits air defence time slots for tankers sailing through Hormuz - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSlZ4a2p0SHpURGQ0cXRYTEF5aW1jYWJjRXJIc0E2T2NDb05IbnlRRThDcDBBbDVjTUZfbDlUZ3kxVUN6b1hTcDBMNTNSRDJ1SWdRVFZJLWRkMklWUUNOVnF4SjZxMmRlTURkVlVUN0FLUjdiei1EemhObXFLOU13NUxlZlo?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSlZ4a2p0SHpURGQ0cXRYTEF5aW1jYWJjRXJIc0E2T2NDb05IbnlRRThDcDBBbDVjTUZfbDlUZ3kxVUN6b1hTcDBMNTNSRDJ1SWdRVFZJLWRkMklWUUNOVnF4SjZxMmRlTURkVlVUN0FLUjdiei1EemhObXFLOU13NUxlZlo?oc=5" target="_blank">US limits air defence time slots for tankers sailing through Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EU races to Le Pen-proof its agenda - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGtIV01vVDBJZEZMeFRJOVlBWnN4TFNfYk4wSllWYTBlSzQ2Y0o0SmdBQmRFTXJ3VEdTdm54T2tvdkU1WVpKd3VPRDFETjNXaTFIMEJFSE5ic3pYVTZWdFUzR3ZqdElvN0F1dDRsTU9uRFp1T3hpLW55Z1haRHZNdEZ5ckY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGtIV01vVDBJZEZMeFRJOVlBWnN4TFNfYk4wSllWYTBlSzQ2Y0o0SmdBQmRFTXJ3VEdTdm54T2tvdkU1WVpKd3VPRDFETjNXaTFIMEJFSE5ic3pYVTZWdFUzR3ZqdElvN0F1dDRsTU9uRFp1T3hpLW55Z1haRHZNdEZ5ckY?oc=5" target="_blank">EU races to Le Pen-proof its agenda</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Africa redraws the map - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0I0ejJRb2RqWWdTUWlIWXltLWI0VXB0djBfN1IwT3l3SVVJQlE1aTVqU1Q3YnlvSndyR0tod1JFUzRqVTdtTG9tY1JMNHdzYXo0S3hDaEUwRG4tVzVacVZpQTRmTk4zTmNYdDBRTFNqazBSNGdWaTkxUzY3MWc1STVjbFo?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0I0ejJRb2RqWWdTUWlIWXltLWI0VXB0djBfN1IwT3l3SVVJQlE1aTVqU1Q3YnlvSndyR0tod1JFUzRqVTdtTG9tY1JMNHdzYXo0S3hDaEUwRG4tVzVacVZpQTRmTk4zTmNYdDBRTFNqazBSNGdWaTkxUzY3MWc1STVjbFo?oc=5" target="_blank">Africa redraws the map</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## We are setting up a generation to fail at school - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXk5alVjTkFLWWNtb0hkSEhVdXlnSGYzbW5XWENCVkJDZU81OW5uNWM0VWVVbFJhOXlLcDRNaXgweVFyeTJ6Y1VCQWpCc2lZaVIxQWhtUXAwR1RpUDJhTXVSTEpDdGcyRXY5c1R3blVTbVkxNDYzOUE4WXQwSTBuWjdqNUU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXk5alVjTkFLWWNtb0hkSEhVdXlnSGYzbW5XWENCVkJDZU81OW5uNWM0VWVVbFJhOXlLcDRNaXgweVFyeTJ6Y1VCQWpCc2lZaVIxQWhtUXAwR1RpUDJhTXVSTEpDdGcyRXY5c1R3blVTbVkxNDYzOUE4WXQwSTBuWjdqNUU?oc=5" target="_blank">We are setting up a generation to fail at school</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - Reuters
+## Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ?oc=5" target="_blank">New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5" target="_blank">Trump says 'very negative forces' raising exaggerated concerns over AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Korea's expanded espionage law takes effect amid push to protect chip technology - Reuters
+## Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVc2VklDSTJqenp5QnFhX2s4NFg3SHlkMndlZ3dXT3NfdDhYUnlVMXU0eldKbktyWmNrUkRMZkw4bTJyMHE1cldIUDVKNk41clpBWjkyUlA4c2RMM1dONkZPZEZMTlpCTk5nMmxxcjVXcU50RXoxM2xWOGlLZWtlOE5iTUR6ZkNiaTVGbzVfdXJrNkZxT2ljamQ5MWNsQ0h3UHJLYWlxOG45YVlqa2FsOHRZbDlRbWprY19F?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1o5cTJrWHRkQWxRa1JJbWp5SXc1bENTNS1MU3JJMHlGOWhtUnlaZEhqcG5MNE5MZHBhaE56OW9aNm81SWpYcmVaaFY4QS1Dc25OZXdrS3VYdnRiTnFLN05NTUFoemdCQjFxZ1NaUWlzQ3A5bmhWbzdTWGpJXzRSdFMyTGYzeTBuc21pS0kzbldZQ1plNDRsNDlPYjBGN01La0xwc0I2Z1lBU1lILUJv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVc2VklDSTJqenp5QnFhX2s4NFg3SHlkMndlZ3dXT3NfdDhYUnlVMXU0eldKbktyWmNrUkRMZkw4bTJyMHE1cldIUDVKNk41clpBWjkyUlA4c2RMM1dONkZPZEZMTlpCTk5nMmxxcjVXcU50RXoxM2xWOGlLZWtlOE5iTUR6ZkNiaTVGbzVfdXJrNkZxT2ljamQ5MWNsQ0h3UHJLYWlxOG45YVlqa2FsOHRZbDlRbWprY19F?oc=5" target="_blank">South Korea's expanded espionage law takes effect amid push to protect chip technology</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1o5cTJrWHRkQWxRa1JJbWp5SXc1bENTNS1MU3JJMHlGOWhtUnlaZEhqcG5MNE5MZHBhaE56OW9aNm81SWpYcmVaaFY4QS1Dc25OZXdrS3VYdnRiTnFLN05NTUFoemdCQjFxZ1NaUWlzQ3A5bmhWbzdTWGpJXzRSdFMyTGYzeTBuc21pS0kzbldZQ1plNDRsNDlPYjBGN01La0xwc0I2Z1lBU1lILUJv?oc=5" target="_blank">Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says - Reuters
+## Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5" target="_blank">OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5" target="_blank">Saudi pipeline outage threatens loss of 4% of global oil supply</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hyundai Motor to roll out in-house driver-assist system in 2029 - Reuters
+## Carney pushes idea of making Canada 'associate member' of EU, WSJ reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVhXVEpKMlIzcFp1cW5CS3VMQVZ4OE9NMWFJbnJ5V29Sdk1nZ1NTbXFhZGpFM0dfN2NKQ1l4aTdDUFVUb2tYaExkbVZiSFRZSVdfMm1sNzJLT1JlckY2TVROWHVlcFNzc1VybXp0SjZUWmkxV3pIQlo2QWxnTjNUOERpWEE1Ym1rTXBpNXZnaEFIbkN4cFV1SWpvLTZraDliTmdoeUZrRzVMSmVRU19mUW05UngwNDl6LTNOaXF3SUI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVhXVEpKMlIzcFp1cW5CS3VMQVZ4OE9NMWFJbnJ5V29Sdk1nZ1NTbXFhZGpFM0dfN2NKQ1l4aTdDUFVUb2tYaExkbVZiSFRZSVdfMm1sNzJLT1JlckY2TVROWHVlcFNzc1VybXp0SjZUWmkxV3pIQlo2QWxnTjNUOERpWEE1Ym1rTXBpNXZnaEFIbkN4cFV1SWpvLTZraDliTmdoeUZrRzVMSmVRU19mUW05UngwNDl6LTNOaXF3SUI?oc=5" target="_blank">Hyundai Motor to roll out in-house driver-assist system in 2029</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5" target="_blank">Carney pushes idea of making Canada 'associate member' of EU, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tesla to unveil long-delayed Roadster on Oct. 1, Musk says - Reuters
+## Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5" target="_blank">Tesla to unveil long-delayed Roadster on Oct. 1, Musk says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5" target="_blank">Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
