@@ -1,248 +1,287 @@
 # 每日财经新闻
 
-更新时间：2026-09-15 04:22:22
+更新时间：2026-09-15 16:41:30
 
-## Treasury 10-Year Yield Rises Past 5%, Oil Advances: Markets Wrap
+## Emerging Assets Extend Four-Day Slide as Oil, 5% US Yield Bite
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-09-15/emerging-currencies-extend-losses-as-bond-market-stress-builds
 
 正文长度：0
 
-摘要：Treasuries edged lower and Asian bonds followed as rising energy costs fueled inflation concerns and strengthened bets on a Federal Reserve interest-rate hike. Crude oil extended its rally.
+摘要：Emerging-market stocks and currencies fell for a fourth session as rising global bond yields and oil prices kept riskier assets under pressure.
 
 
 ---
 
-## Indian Bonds Sink on Central Bank Debt-Sale Plan, Global Selloff
+## Dutch to Propose Capital Gains Tax to Break Reform Deadlock
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures
+链接：https://www.bloomberg.com/news/articles/2026-09-15/dutch-to-propose-capital-gains-tax-in-reform-of-levies-on-wealth
 
 正文长度：0
 
-摘要：Indian bonds declined after the central bank said it would sell sovereign notes to drain cash from lenders, adding to the supply of debt in a year when the market is already under pressure from record government borrowing.
+摘要：The Dutch government will propose a capital gains levy next year, bringing the Netherlands in line with most European countries on how they tax wealth.
 
 
 ---
 
-## Japan’s 20-Year Bond Sale Draws Stronger Demand on Higher Yields
+## Maduro Fixer Saab Pleads Guilty in US Money-Laundering Case
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-15/japan-s-20-year-bond-sale-demand-stronger-than-12-month-average
+链接：https://www.bloomberg.com/news/articles/2026-09-15/maduro-fixer-saab-pleads-guilty-in-us-money-laundering-case
 
 正文长度：0
 
-摘要：Japan’s 20-year government bond auction Tuesday saw stronger demand than the 12-month average as elevated yields underpinned buying.
+摘要：A close financial fixer for ousted Venezuelan President Nicolas Maduro pleaded guilty in Miami to a money laundering charge related to the South American country’s food-import contracts and oil sales that violated US sanctions.
 
 
 ---
 
-## Bourses and Brokers May Win From India’s Proposed Auction Revamp
+## Radiant World Group Sues Glencore For $2 Billion, Executive Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-15/bourses-and-brokers-may-win-from-india-s-proposed-auction-revamp
+链接：https://www.bloomberg.com/news/articles/2026-09-15/radiant-world-group-sues-glencore-for-2-billion-executive-says
 
 正文长度：0
 
-摘要：Stock exchanges and brokers may be among the biggest beneficiaries of the Securities and Exchange Board of India’s proposed changes to the newly launched closing auction system that’s caused chaos, while market makers may face tighter constraints.
+摘要：Radiant World and Sapphire Minmetals have filed a lawsuit against Glencore Plc in Singapore claiming $2 billion in damages, according to a senior executive at the group of companies.
 
 
 ---
 
-## Tata Sons’s Listed Shareholders Rally After RBI Renews IPO Push
+## History Shows Fed Will Deliver Rate Hike Markets Have Locked In
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-15/tata-group-stocks-rise-on-optimism-over-holding-company-ipo
+链接：https://www.bloomberg.com/news/articles/2026-09-15/history-shows-fed-will-deliver-rate-hike-markets-have-locked-in
 
 正文长度：0
 
-摘要：Tata Group companies with minority ownership of Tata Sons Pvt. jumped following Indian banking regulator’s refusal to exempt the conglomerate’s holding entity from a rule that requires it to go for a public listing.
+摘要：Bond traders are pricing in a Federal Reserve interest-rate hike Wednesday with a level of conviction that has proven right for decades.
 
 
 ---
 
-## Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide
+## Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html
+链接：https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html
 
-正文长度：1684
+正文长度：3104
 
-摘要：The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.
+摘要：The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Bank of America is seeing a far more subdued few months for its Wall Street advisory and trading businesses after a blockbuster second quarter, CEO Brian Moynihan told analysts Monday. 
-Investment banking fees will likely decline by more than 10% in the third quarter from the year-earlier period, while trading revenue will be roughly flat, Moynihan said at a conference. That compares to a second quarter in which the bank posted a 50% jump in investment banking fees and a 33% jump in trading revenue.
-"What we're seeing is the market generally in investment banking is down 10%," Moynihan said, citing Dealogic data. "We're not as well positioned in some of the businesses that have more activity, so we'll be down probably a bit more than that."
-Bank of America shares were down 5% in afternoon trading Monday following Moynihan's comments.
-The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI-fueled advisory and trading boom might have hit turbulence.
-While Moynihan pointed to a robust deal pipeline, particularly in middle-market investment banking, the projected double-digit decline in investment banking may make investors wonder if the industry's surge in capital markets activity will prove short-lived.
-Later Monday, Citigroup CFO Gonzalo Luchetti told analysts that investment banking is tracking for "low-single-digit" revenue growth in the third quarter, while trading was heading for "mid-single-digit" revenue growth.
-Those figures could climb if Citigroup's bankers and traders end the quarter on a strong note, he said.
-"September is a key month," Luchetti said. "These few weeks are very meaningful."
+> Nike co-founder Phil Knight and his wife, Penny, will donate $1.1 billion to Providence St. Vincent Medical Center in Oregon and its Providence Heart Institute, according to a press release published Tuesday.
+The gift marks one of the largest donations to a healthcare institution in American history, according to the release, and the second significant donation from the Knight family in roughly the last year after the couple gifted $2 billion to Oregon Health & Science University's Knight Cancer Institute.
+The latest donation will be used to "create Oregon's first hospital dedicated to women's health" and fund cardiological care at Providence's eight hospitals across the state.
+"Today's gift marks a significant and transformational milestone for Providence and healthcare in the greater Northwest," said Erik Wexler, president and CEO of Providence, in the release. "It enables us to create new possibilities in women's health, in cardiovascular care as well as enhance access and support for patients, as we work to be the best place to give and receive care."
+The Knights' donation is only their latest gift to Providence. The couple has already donated $200 million to the Providence Heart Institute over the past decade, according to the release.
+Dr. Dan Oseran, executive medical director of the Providence Heart Institute, noted the immense impact that the Knights' philanthropy has already had on cardiovascular care at the hospitals in an interview with CNBC.
+"We were able, with their funding, to start a heart transplant program, which has been very successful," Oseran said. "And we've been able to recruit people and give physicians administrative or research time to pursue their passion. So it's created a very unique environment for us here."
+The latest donation will continue to support cardiac care by recruiting top physicians to Providence hospitals, funding technological innovation and clinical trials, and supporting personalized patient treatment.
+The gift will also lead to the creation of a women's hospital on the Providence St. Vincent Medical Center campus in Portland. The new hospital, which will include a modernized neonatal intensive care unit, intends to provide integrated care across gynecology, pregnancy, labor and delivery, menopause, and cardiology.
+The sportswear company co-founder and his wife are well known for their philanthropic efforts, making Time Magazine's TIME100 Philanthropy 2025 list. Forbes estimates that before Tuesday's announcement, the couple had already given away $4.5 billion to charity.
+Knight made his fortune by selling running shoes. A college runner himself, Knight co-founded Nike with his former track coach, Bill Bowerman, in 1964 under the name Blue Ribbon Sports. Sixteen years later, Knight and his team took the company public. Knight led the "Just Do It" brand to become one of the top athletic apparel companies in the world. He retired as chair in 2016.
+The company has struggled in recent years due to slumping sales and rising competition in China. Last month, its stock price reached its lowest level since 2014.
 
 </details>
 
 
 ---
 
-## Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy
+## Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html
+链接：https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html
 
-正文长度：4334
+正文长度：4184
 
-摘要：The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly.
+摘要：Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump after warnings over AI advancements.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Novo Nordisk on Monday said it is rebranding its name to "Novo" and updating its corporate culture, as the company works to win back market share in the obesity drug space.
-The Danish drugmaker called the changes the beginning of a new chapter, as it has been grappling with stiff competition from chief rival Eli Lilly and investor pressure to deliver new blockbuster products and chart a path toward long-term growth. Novo is preparing to detail its business strategy changes during its Capital Markets Day event on Sept. 21.
-In an exclusive interview with CNBC, Novo CEO Mike Doustdar said the rebrand and culture shift are "part of the same package" for the company to evolve its strategy as it tries to win back customers from Lilly.
-"I think there's no secret that over the last four or five years, the external environment and what has happened to Novo Nordisk has really made us reflect how we need to readjust and rethink about the next decade to come and what shifts are needed in our strategic direction," he told CNBC.
-Doustdar said the "work is cut out for us," adding that Novo needs to improve several aspects – from research and development and manufacturing to sales and marketing – to be able to compete in the obesity drug market.
-Shares of Novo have dropped about 15% this year despite the successful launch of the oral version of Wegovy, which surpassed 3 million prescriptions as of June. The company recently scrapped three trials on an experimental cardiovascular drug. That challenge came as it continues to lag in the obesity space with 38.8% market share compared to Lilly's 60.9% in the second quarter, according to a Lilly earnings presentation citing IQVIA data.
-In a release, Novo also announced a broader company rebrand focused around the phrase "Lasting Health Starts Now," which promotes the idea that patients should make progress toward long-term well-being immediately rather than later. The company said the marketing is a bid to build relevance and trust with the public and other stakeholders, and bring "breakthrough science closer to people's daily lives."
-When asked whether the rebrand and cultural overhaul were driven by Novo's recent market share losses in obesity, Doustdar said the changes were less about competitive setbacks and more about adapting to a dramatically different operating environment.
-He said the rapid growth of obesity treatments has transformed Novo's patient base and shifted the market toward a more consumer-oriented model, where patients move on and off therapies more frequently than in traditional diabetes care. As a result, Doustdar said Novo needs to become more focused on meeting patients where they are, while increasing the speed and clarity of its decision-making to keep pace with the evolving market.
-"Our operating environment phenomenally changed compared to just 10 years ago," he told CNBC.
-Novo Nordisk will remain the legal name for the company, according to the release. That original name dates back to the 1989 merger of two competing Danish pharmaceutical companies: Novo Terapeutisk Laboratorium and Nordisk Insulinlaboratorium.
-The drugmaker said its corporate culture will be based on a new set of four principles that will help it gain advantages in an increasingly competitive market where more of its products have gone direct-to-consumer.
-Those tenets are innovating with patients as the primary focus, raising the company's performance to "create greater value for all stakeholders," setting clearer priorities and simpler workflows and never compromising on patient safety and ethics.
-"When you think about strategy, that's really the the journey you're taking and the direction you're setting the company to go forward with," Doustdar said. "But you also need behaviors. You need a cultural element that allows your colleagues and yourself to really make sure that a strategy gets executed."
-Despite its challenges, Novo has had one significant tailwind this year in the launch of the oral version of Wegovy. On top of its explosive launch, the pill had a head start over a rival weight loss pill from Lilly called Foundayo.
-Doustdar said Novo has maintained "a lion's share" of the oral market even with competition, noting that physicians find the Wegovy pill to be more effective than Lilly's, with around 17% of weight loss.
+> A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies. Sign up to receive future editions, straight to your inbox.
+Calls for a slowdown in the pace of AI development have hit related stocks in recent days and could have broad ramifications for every industry involved. Real estate is no exception.
+While cloud, storage, enterprise IT and internet services all require data center capacity, artificial intelligence has quickly become the dominant driver of demand. AI could account for about 70% of global data center capacity demand by 2030, according to a report from McKinsey. The report said the capital outlay needed to meet total data center demand by 2030 will be nearly $7 trillion. Just the real estate portion of that could account for $3 trillion in investment in the next five years, according to JLL, which provides end-to-end data center real estate services globally.
+Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump on Monday following the weekend warnings over AI advancements.
+Digital Realty CEO Andrew Power, however, said the pledges for a slowdown by major AI players Anthropic, OpenAI and xAI do not mean "pencils down" for AI and the real estate that supports it.
+"There's tremendous digital transformation happening that is not connected to AI," said Power in an exclusive interview with Property Play. "There is tremendous cloud computing growth. Frankly, from my business lens, my seat, I think those demand trends, which are massive drivers of our business, have been stifled in these days of AI."
+Power said hyperscalers have had to choose between growing their commercial cloud businesses or allocating capacity to AI labs. He also said not all markets will be impacted equally.
+Digital Realty's markets include Northern Virginia, Dallas, Chicago, Singapore, Tokyo, Frankfurt and Amsterdam, where Power said customers are competing for the same space.
+"Our markets' demand has been outpacing supply now for several years. There's pent-up need for infrastructure in those markets. There's locational sensitivity. Those workloads can't choose any one of the 50 states," said Power. "We have a global company portfolio, so we've got data sovereignty and support in other countries as well."
+Analysts agree that a slowdown would not directly impact the physical needs of AI, especially given what a change of pace would actually affect, which is training in new models.
+"The real growth in data centers over the next handful of years is in inference — that's the adoption by businesses and citizens of the tool into daily workflow," said Andrew Batson, global head of data center research and strategy at JLL.
+"Only 1 in 4 Americans use AI daily, so even if models are slow to be released, there is significant runway for adoption to grow and data center demand to increase," he said.
+Batson pointed to institutional money from Blackstone, BlackRock and KKR, which he said "have high conviction in this space."
+"That, on paper, still looks quite strong, despite some of the headlines here," he added.
+Power said that while data center REIT stocks get punished, his message to shareholders is that the company has been ready for this.
+"The first, most important part is, make sure that the daily gyrations, our stock price, don't affect our strategy, our business," said Power. "We evolved our funding model a couple of years ago. We are an incredibly capital-intensive business."
+Digital Realty's development pipeline totals $20 billion under construction, up from $10 billion at the end of 2023, according to the company.
+"We're on to the next iteration of that in raising private capital. We've also done one-off joint ventures, and we positioned the balance sheet in probably the most liquidity, the lowest leverage, the best place it could be in any potential storm," Power said. "And I'm not suggesting today is an end-of-the-world storm or anything like that."
 
 </details>
 
 
 ---
 
-## GM plans U.S. battery development as Trump's DOT attacks Ford for China ties
+## GM launching new customer software experience with redesigned Chevy, GMC pickups
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html
+链接：https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html
 
-正文长度：5251
+正文长度：2853
 
-摘要：Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.
+摘要：The new system comes as vehicles are becoming more digital, leading GM to also redesign its organizational processes.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> DETROIT — General Motors is in the early stages of developing next-generation battery cells that the company believes can reduce U.S. dependence on China, while boosting domestically sourced materials.
-"We're developing a supply chain such that, two years from now, three years from now, it will be domestic," Kurt Kelty, GM vice president of battery and sustainability, told CNBC during an exclusive interview. "That's what we're aiming for — when we get into market, we've got a domestic source for that."
-Kelty was referring mainly to battery cells that the automaker expects to use in energy storage systems, or ESS, which are stationary devices for homes and businesses, including data centers. But the company plans to similarly prioritize domestic battery cell production for its future all-electric vehicles, a spokesperson reaffirmed to CNBC.
-Kelty's comments came days before GM's crosstown rival Ford Motor fielded criticism by the Trump administration for its ties to Chinese companies, including for domestic battery cell production.
-For ESS, GM has partnered with Denver-based startup Peak Energy to develop sodium-ion battery cells. The idea is to lower the need for materials that China dominates — such as lithium and ferrous sulfate, a byproduct of titanium production — and instead, use domestic-made batteries utilizing more prevalent materials in the U.S., such as sodium from soda ash.
-GM is working on a variety of battery chemistries for different applications of ESS as well as its EVs. Much like baking, each ingredient and the amount put into a battery cell can change the outcome of the product. In the case of battery cells, that can mean differences in performance, cost and stability.
-GM expects to launch commercial production of sodium-ion battery cells with Peak around 2029. In the meantime, it's producing other chemistries through a joint venture for ESS and EVs that use undisclosed amounts of materials from China.
-Most battery cells currently rely on raw materials from China. The International Energy Agency reports the country produces about 85% of the world's EV battery cathode active material and more than 90% of anode active material, leading to an 80% control of battery production.
-For example, China largely controls the sourcing and production of lithium iron phosphate, or LFP, batteries through its supply chains. GM currently manufactures LFP cells with its partner LG Energy Solution in the U.S. for ESS, while Ford has licensed technology from China's CATL for LFP battery cells for its EVs and ESS plans.
-"It's a really good story, because you've got the resources [in the U.S.] that you can keep it totally domestic," Kelty said. "It's going to take some time to build this industry up, but the potential for sodium-ion is just much greater than LFP."
-The Trump administration has placed particular focus on building up the U.S. battery supply chain and reducing its reliance on China.
-And, earlier this week, Transportation Secretary Sean Duffy expressed "profound concern" over Ford's China ties, specifically citing the CATL licensing. That's despite Ford being the top-producing automaker of vehicles in the U.S.
-Kelty, days earlier, said of Ford, "they're following a different path."
-"We think it's more valuable to develop this all domestically, take advantage of domestic supply chains, and develop a technology that's actually better than the incumbent technology," said Kelty, a former battery executive with U.S. EV leader Tesla.
-'Leapfrog' China tech?
-Sam Abuelsamid, a battery expert and vice president of market research at Telemetry, noted it will likely take years to domesticate a battery supply chain.
-At the same time, China continues to develop and produce new types of chemistries, including sodium-ion.
-"There's no reason why the LFP materials couldn't also be produced here," Abuelsamid said. "There's ways to do that, but ... the sodium-ion would be even cheaper and easier to do."
-Kelty numerous times said GM hopes to "leapfrog" China's battery technologies, noting that competing directly with Chinese supply chains or mimicking what that market has already established would be difficult.
-"The better thing to do is try to leapfrog, come up with a different technology that's actually better that we can actually source here," Kelty said.
-Kelty said he views sodium-ion as the best solution for ESS, because its chemistry and temperature tolerance allow for the cells to function without active cooling — a major source of cost and complexity associated with ESS. That improvement means lowering the cost of ownership for energy storage, he said.
-The Detroit automaker is spending $900 million on new battery lab facilities at its global tech campus in suburban Detroit. That includes a more-than-500,000-square-foot facility for prototyping manufacturing of cells that's set to begin operations later this year.
-Still, that funding amount is small compared with what would be needed to substantially loosen China's grip on the industry.
-"We are purposely going down the path of having American-developed technology," Kelty said. "Batteries are really critical for a lot of different areas of of our economy here."
-— CNBC's Robert Ferris contributed to this report.
+> DETROIT — General Motors is releasing a new in-vehicle information and entertainment software experience for its customers, beginning later this year with its redesigned Chevrolet Silverado and GMC Sierra pickup trucks, it said Tuesday.
+The Detroit automaker is touting the new user interface, controls and software as offering convenience and customization similar to a smartphone.
+The new system comes as vehicles are becoming more digital. GM has also revamped its organizational processes to put its digital experience operations under design rather than software, led by former Apple and Google executive Sebastian Bauer.
+"This was all part of a very strategic, very intentional restructuring to ensure that we are best positioned to create the best possible customer experience," Bauer, GM executive director of human interface design, told CNBC. "Our job is to make sure that we reduce cognitive load, and we give people the information that they need to see at the moment when they see it."
+For example, GM designed the system to proactively surface relevant controls without requiring drivers to navigate several screens or menus. That can apply to opening or closing a garage door, answering a call or other functions.
+The system will also launch the most significant visual upgrade for GM's Super Cruise advanced driver-assistance system, including by showing objects, such as other vehicles or pedestrians, on the driver cluster screen. The "hands-free" system did not previously provide the surroundings as many other non-GM vehicles do.
+"It's making sure, especially as you are in a hands-off situation, that you understand that the vehicle sees what is happening around it," Bauer said.
+Another major update is how the vehicles will operate with popular Apple CarPlay and Android Auto phone projection systems, which have previously caused problems for many automakers.
+Instead of the Apple or Android systems taking over the entire screen, which can make it difficult to get back to other in-vehicle features, they show on part of the screen, allowing both systems to operate as needed for drivers.
+Those issues with the third-party programs have been included in third-party surveys such as J.D. Power's 2026 U.S. Vehicle Dependability Study. The study found that infotainment and connectivity remain the least reliable parts of the vehicle across the U.S. automotive industry.
+"The thought here is that these should coexist and you should get the best of both worlds," Colin McCormick, a GM product manager overseeing in-vehicle phone projection, said during a demo of the system in a new GMC Sierra. "We're constantly working with Google and Apple on what else we can bring to make this even better."
+GM said the system is expected to expand "across the broader portfolio" of the company's vehicles over an undisclosed amount of time.
 
 </details>
 
 
 ---
 
-## Record U.S. cyclosporiasis outbreak is over, CDC says
+## Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html
+链接：https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html
 
-正文长度：1359
+正文长度：4873
 
-摘要：The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.
+摘要：Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> The largest-ever outbreak of cyclosporiasis in the U.S. has ended, the Centers for Disease Control and Prevention said Friday.
-The foodborne illness sickened 12,833 people in 21 states in recent months in the largest cluster, the CDC said. Health officials have linked that outbreak to shredded iceberg lettuce supplied by Taylor Farms in Mexico.
-It fueled the worst cyclosporiasis season in U.S. history, with 19,595 overall cases of the illness caused by the parasite cyclospora. The U.S. recorded two deaths, both in Michigan, the epicenter of the biggest outbreak.
-The foodborne illness spread sparked scrutiny of U.S. food safety procedures and corporate consolidation in the country's food supply, along with staffing and funding at the U.S. Food and Drug Administration.
-The outbreak also led to lower sales at restaurants that offer fresh lettuce — particularly Taco Bell, which served shredded iceberg lettuce from Taylor Farms — and dampened lettuce sales at grocery stores.
-Cyclospora was challenging for health officials to track because of its long incubation period. It can take weeks to trace back the source of the illness, after which implicated produce may have spoiled.
-Taylor Farms recalled the iceberg lettuce, including packages sold in grocers such as Walmart, in July. Taco Bell also pulled the lettuce from its restaurants that month.
+> Children's clothing brand Carter's is undergoing a revamp to better align with the new generation of parents as its namesake company tries to recover from sluggish performance in recent years.
+The rebrand, announced Tuesday, includes a new logo and marketing campaign that Chief Marketing Officer Sarah Crockett told CNBC aims to keep the 161-year-old company relevant with its core customer.
+"We recognize that the market difference of our parents in the communities that we're serving is significant," Crockett said. "We had an opportunity to really tap into the values that parents are bringing into the household."
+Carter's largest brands include its namesake banner and OshKosh B'gosh, which are sold in standalone stores around the U.S. and in retailers including Walmart, Target and Amazon. The rebrand comes as the overall company has shrunk its store footprint and laid off some employees over the past year to try to reposition itself for growth, especially as the market for baby and kids clothing has grown more competitive.
+Wall Street has taken note of the company's issues. Over the past three years, Carter's stock has plunged more than 50%, bringing its market cap to around $1 billion.
+For the full 2025 fiscal year, Carter's reported adjusted net income of $126.1 million, down sharply from $210.7 million the year before. Last year, then-CEO Douglas Palladini said elevated product costs, higher tariffs and additional investments "weighed meaningfully" on the company's profitability.
+Last October, Palladini said Carter's was eliminating 15% of its corporate workforce and shuttering 150 North American stores as leases expired in an effort to "rightsize" the company.
+Since then, Carter's has started to show more bright spots. And the rebrand aims in part to capitalize on the momentum.
+In the first quarter of 2026, the company reported a 10.5% increase in U.S. comparable sales and an 8.1% jump in net sales. Shortly before it reported those results in May, Carter's announced it was hiring Sharon Price John, formerly the CEO of Build-A-Bear Workshop, to lead the company as it tried to regain strength.
+In June, Wells Fargo analysts upgraded Carter's from underweight to hold, saying that while the retailer's performance "isn't perfect," the changes the company was instituting were "driving fundamental improvements."
+Price John told CNBC the struggles Carter's went through before she joined the company were par for the course and a "natural evolution."
+"Like any company at our scale, you're going to have a pretty standard process of evolving your retail footprint, and in many ways that's just exactly what the company's doing, which is the right thing to do," she said.
+"That is just running a business," she added, saying she doesn't believe Carter's has lost its connection with the parents who buy its clothing.
+The positive signs appeared to continue during the retailer's second quarter, part of which Price John oversaw. During its most recent earnings call, Carter's said it grew its new customers, including Generation Z shoppers, which it said rose by a mid-teens percentage.
+For the full fiscal year, the company said it expects net sales to climb between 2% and 3%. It also said it received roughly $128 million in tariff refunds, after costs from those duties posed such a challenge to Carter's in the prior year.
+Still, Price John said on the late July call with analysts that there was "more to be done."
+With the new rebrand for Carter's, Price John told CNBC the company is tracking an evolution of its core customer base of parents that is more dramatic in this generation than it has been in 25 years.
+Gen Z is expected to account for a major portion of new parents over the next few years, according to Carter's, making the population even more crucial to the brand's business.
+Crockett, the CMO, told CNBC the company is taking note that Gen Z parents often encourage their children to make their own decisions about what they wear rather than mirroring their own fashion choices onto them. Those parents and children are also heavily influenced by and crowdsource decisions from social media, she said.
+The rebrand and marketing campaign will attempt in part to cater to those tendencies.
+"This provides a whole new set of tools for us to really leverage in connecting with today's parents and caregivers, and this is a large mission, a large brand promise that we will always be in pursuit of," Crockett said.
+At the same time, Crockett and Price John said the revamp of Carter's namesake brand aims to lift the performance of the broader Carter's Inc. as well. The rebrand will roll out across Carter's channels in 2026, with additional retail and packaging elements in 2027, according to the company.
+"This is time, because brands evolve. They have to. If they don't evolve, they're left behind," Price John said.
 
 </details>
 
 
 ---
 
-## 25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access
+## Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html
+链接：https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html
 
-正文长度：5314
+正文长度：4942
 
-摘要：Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.
+摘要：Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> The Sept. 11, 2001, terror attacks reshaped how we travel, from how we pack our toiletries to what we wear when we fly. Airport checkpoints for almost a quarter century for most travelers have meant shoes off. Limitations on liquids. And no tearful, cinematic gateside farewells or joyful welcomes.
-But 25 years later, the U.S. government is starting to ease some of the restrictions, which include measures that were tied to other attacks attempted in the months after 9/11.
-Last year, the Department of Homeland Security, which was formed after the attacks, said flyers can leave their shoes on at airports, a major change for travelers going through regular security.
-That rule was introduced after Richard Reid, who became known as the "shoe bomber," tried and failed to ignite explosive material in his shoe on a Paris-to-Miami flight in December 2001.
-Rules for liquids are officially unchanged. Those regulations for liquids in carry-ons stem from 2006, when British officials foiled a plot to bring liquid explosives on flights.
-New scanners installed at some airport checkpoints allow travelers to leave liquids in their bags before going through screening, though availability varies by airport and checkpoint. Limits on liquid container size remain in effect.
-"The technologies today are better than they were a long time ago and some of the technology that's been deployed is better than it was five years ago," said Jeff Price, a professor at the Metropolitan State University of Denver's Department of Aviation and Aerospace Science and an airport management consultant.
-Another change since that era is the number of options customers have for airport screening. The Transportation Security Administration, for $76.75 covering five years, offers PreCheck, in which travelers undergo prescreening services and can use expedited screening lanes.
-"If you've got a few bucks, yeah, you can reduce the amount of screening and jump the line," Price said. "The other side of that is when you do become a member of PreCheck, you give up a lot more of your personal data to the government, and that's the trade-off."
-There's also a private option with Clear, with a shorter identification check line, in exchange for prescreened biometric data.
-Gate greetings return
-The new changes are going beyond security.
-TSA this week launched a free program allowing eligible trusted travelers, including TSA PreCheck members, to apply for access to secure gate areas without a boarding pass.
-The program is called "Gateside," and the agency has rolled it out at 13 U.S. airports, including Dallas Fort Worth International Airport, Los Angeles International Airport, Detroit Metropolitan Wayne County Airport and Salt Lake City International Airport.
-The area beyond TSA screening has been heavily restricted since 9/11. In launching the program, the agency said PreCheck members who use the program can "meet family members at their gate, join a friend on a long layover for lunch or dinner, visit airport dining and shopping locations, or greet service members returning from deployment."
-Participants must apply online one to three days in advance and receive approval before entering through security.
-Privatization attempt
-Some of the tweaks to security have been more rocky.
-The TSA late last month scrapped a program it called TSA Gold+ that would provide privatized security at certain airports.
-The new head of TSA, David Cummins, who took the top role in early August, said that a new screening partnership program will "replace TSA Gold+ to better harness the role of the private sector in delivering a safer, more secure, and more efficient aviation system."
-TSA didn't respond to requests for further comment.
-Tampa International Airport in Florida had reviewed the program starting in May, in part because it could shield the airport from the impact of government shutdowns, airport Chief Operating Officer John Tiliacos told reporters last month. Those shutdowns left TSA officers without regular paychecks for months, and staffing shortages led to long lines at airports around the country. The chance to add new technology was also a draw.
-Tampa decided not to move forward with the program, and TSA announced its replacement shortly after. Tampa's Tiliacos told reporters last month "we weren't quite satisfied that we were getting all of the answers to our questions regarding the technology" and that drove the airport's decision to opt out.
-Evolving threats
-While some rules travelers have lived with for decades might be fading, the aviation sector is still dealing with changing threats.
-"You have AI. You've got cybersecurity issues that continue to pop up. Drones are a major issue," said Keith Jeffries, vice president of aviation security company K2 Security Screening Group, who is retired from the TSA and was the agency's security director at Los Angeles International Airport. "It's the role of security and protecting, especially the transportation sector, it's getting broader, and other technologies are trying to keep up."
-As security technology evolves, so does the energy of potential attackers to overcome whatever obstacle they have and send their message.
-Deterrents are important, but Jeffries said: "There is no such thing as the perfect security mousetrap. It doesn't exist."
+> Philadelphia cream cheese will release three new flavors on Tuesday as part of Kraft Heinz's broader plan to reinvest in its iconic brands and win back shoppers.
+Previously, the 154-year-old brand released about one or two new flavors such as garden vegetable or pineapple every year. Over the next two years, it plans to launch 10 new varieties, with the goal of "creating some excitement" within the cream cheese category, according to Jerome Drolet, Kraft Heinz's president of taste elevation.
+Drolet's position is a nod to Kraft Heinz's now-paused split. When the packaged foods giant planned to spin off into two separate companies, one had the temporary name of "Global Taste Elevation," which would house condiments, sauces and Kraft Mac & Cheese. For now, Kraft Heinz is sticking together and trying to stage a comeback by making its legacy brands more relevant.
+In the period since Kraft Heinz announced the split was paused, the company's shares have fallen 2%. Some investors are pessimistic that its well-known but stalled brands can ever regain shoppers' favor, even with a $700 million investment from Kraft Heinz.
+Some of that money is pouring into Philadelphia. The company's spending on the cream cheese brand is expected to climb 63% this year compared with 2025, including more backing for its research and development, according to Drolet. And investment in new flavors has quadrupled, he said.
+Philadelphia accounts for about 62% of U.S. cream cheese sales, according to data from Euromonitor International. But its dominance means that it is responsible for growing sales of the overall cream cheese category.
+Kraft Heinz is hoping that new flavors will drive more cream cheese sales. The first round of new Philadelphia releases includes Mike's Hot Honey whipped cream cheese, salted caramel and a seasonal cranberry orange, which will only be available for a limited time. The Mike's Hot Honey flavor will launch in Walmart exclusively until it hits other retailers' shelves in January.
+"We want to make sure that the profile of the products we're launching are hitting critical masses," Drolet said. "It needs to be incremental, but it also cannot be too niche so that it only sells a few units."
+As part of the strategy to widen cream cheese's appeal to shoppers, Philadelphia also launched a lactose-free version earlier this year.
+Some of Philadelphia's expanded marketing spend will once again focus on the brand's "pure dairy equity," according to Drolet. The strategy recalls the ethos that inspired its Philadelphia cream cheese angel campaigns of the 1990s. In February, it launched its "Really Philly good" campaign.
+The brand is also trying to reach consumers to encourage them to use cream cheese as more than a schmear for a bagel. Philadelphia's cream cheese brick has already been a cooking and baking staple for decades. Expect to see more TikTok influencers and recipe websites using Philadelphia cream cheese in creative ways.
+Drolet sees opportunities to use them in dips and even pasta sauce — like swapping out heavy cream for the Mike's Hot Honey cream cheese in a Bolognese.
+"We're definitely the leader in the category, and as the leader, it's also on us to really drive the occasion," he said.
+Spreading the investment
+While Kraft Heinz does not break down sales for Philadelphia, the cream cheese is one of the company's billion-dollar brands, along with the likes of Kraft Mac & Cheese, Kraft Singles, Heinz, Lunchables and Oscar Mayer.
+But the size of those brands conceals their struggles. For years after the 2015 megamerger that created Kraft Heinz, the company saw its U.S. sales slip as its biggest names lost shoppers. In early 2019, Philadelphia was one of six brands the company wrote down as the value of its intangible assets fell.
+Executives and analysts have pointed to previous management's underinvestment in the company's products as the primary culprit for many of its business challenges.
+A year ago, Kraft Heinz announced plans to break up, which would effectively unwind much of the merger that combined Kraft with Heinz. But in February, new CEO Steve Cahillane announced that Kraft Heinz would pause the split to fix the company instead. He also said that Kraft Heinz would invest $600 million back into the business.
+Kraft Heinz recently upped that number to $700 million, saying that early investments were already paying off for the company. About 35% of Kraft Heinz's portfolio is holding or gaining market share, up from 21% at the end of 2025, Cahillane said at the Barclays Global Consumer Conference earlier this month.
+Of course, Philadelphia isn't the only Kraft Heinz brand netting more investment during the company's turnaround. The company has released improved packaging for Oscar Mayer products and unveiled Kool-Aid electrolyte packets and protein-packed Kraft Mac & Cheese PowerMac, among other efforts to grow sales for some of its best-known brands.
 
 </details>
+
+
+---
+
+## The ex-JPMorgan banker facing Wall Street’s toughest turnaround job - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOckRFQ1lJWThuVVFETUkxOEsyN2VPQ1R4V25ydVZTNE5Nckc4d3RtLUJDNmN6ZzI2MkRDTXpIOWZaMXZjT2pnLXJYREp1VHZSeUZLdExIWWRBWHprQVVhdEpKUlpFWXg1QUJWckZKLTA1NlNxZmZOTFFuUXJiR3gwcE5LMEI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOckRFQ1lJWThuVVFETUkxOEsyN2VPQ1R4V25ydVZTNE5Nckc4d3RtLUJDNmN6ZzI2MkRDTXpIOWZaMXZjT2pnLXJYREp1VHZSeUZLdExIWWRBWHprQVVhdEpKUlpFWXg1QUJWckZKLTA1NlNxZmZOTFFuUXJiR3gwcE5LMEI?oc=5" target="_blank">The ex-JPMorgan banker facing Wall Street’s toughest turnaround job</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Iran’s allies squeeze Saudi Arabia ‘on all fronts’ - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3FXa1paQnBlT243aXZHQ29adnM5MUhqNG4xbWZZSDExUG84WmRibEt6clRJR002UnpScDdTTlE2eGw2OGN4eENjMzVNUTExLXRhUXNvVTN4Tno3T1J6RHdlQ3B1c09YdHI4TGExMm9UMlBhMGZoZnh5bWhBTHQ3ei1fWGw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3FXa1paQnBlT243aXZHQ29adnM5MUhqNG4xbWZZSDExUG84WmRibEt6clRJR002UnpScDdTTlE2eGw2OGN4eENjMzVNUTExLXRhUXNvVTN4Tno3T1J6RHdlQ3B1c09YdHI4TGExMm9UMlBhMGZoZnh5bWhBTHQ3ei1fWGw?oc=5" target="_blank">Iran’s allies squeeze Saudi Arabia ‘on all fronts’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Vladimir Putin moves summit over Ukrainian drone threat - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDZxTVdTbEgxZVlJZjc1bndFQ25VclRrbEU3NGpWYS1qdGoxTlNndVQzN3dWU0MzaDVYUjN0bDU4ZUFUaU1rTFBBcHEtaG9GS284WG05Qk1QclM0QUNkZDV4SU9PMGFTYThFZ09zVW9EOC0yenFFWGZaWE02LWdvbHpnUkU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDZxTVdTbEgxZVlJZjc1bndFQ25VclRrbEU3NGpWYS1qdGoxTlNndVQzN3dWU0MzaDVYUjN0bDU4ZUFUaU1rTFBBcHEtaG9GS284WG05Qk1QclM0QUNkZDV4SU9PMGFTYThFZ09zVW9EOC0yenFFWGZaWE02LWdvbHpnUkU?oc=5" target="_blank">Vladimir Putin moves summit over Ukrainian drone threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -260,119 +299,80 @@ Deterrents are important, but Jeffries said: "There is no such thing as the perf
 
 ---
 
-## China tightens control of overseas travel in sweeping new law - Financial Times
+## Supreme Court rejects Donald Trump’s restrictions on mail-in ballots for midterms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlotQnFjTHlVcnF4RERVRWEtRENHQjFoZXVhWWJMS3F3Z3NKLW9IV2RocWdDcWRsa2VjSFJBVVRLNjVmT0gtOWRGeGRHM0lySDJZQUp6aktGUnRzZlA4S0E4aEh5UUtuS2tVZC1wSUY5Sm9JRldnc2pmZURhYTlJSEoyOXE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5" target="_blank">China tightens control of overseas travel in sweeping new law</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlotQnFjTHlVcnF4RERVRWEtRENHQjFoZXVhWWJMS3F3Z3NKLW9IV2RocWdDcWRsa2VjSFJBVVRLNjVmT0gtOWRGeGRHM0lySDJZQUp6aktGUnRzZlA4S0E4aEh5UUtuS2tVZC1wSUY5Sm9JRldnc2pmZURhYTlJSEoyOXE?oc=5" target="_blank">Supreme Court rejects Donald Trump’s restrictions on mail-in ballots for midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Hong Kong’s AI listings glut drags stock market lower - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm1yR2gwN0pUUzRtZVA5VmNmVlRJNEFYc3Ixb1hVQzdWSTVuUEhUZ05ERTVoRzUwSWlzc2JJajFtV05JSllnS3pucExBTXV2QkZpY2VyeWdXQmxZTVE5Y3JQcVV2UHM1bi0xbEFkRlYtQS0wcDh3Tm5oaU9JT2JaN0NyTUs?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm1yR2gwN0pUUzRtZVA5VmNmVlRJNEFYc3Ixb1hVQzdWSTVuUEhUZ05ERTVoRzUwSWlzc2JJajFtV05JSllnS3pucExBTXV2QkZpY2VyeWdXQmxZTVE5Y3JQcVV2UHM1bi0xbEFkRlYtQS0wcDh3Tm5oaU9JT2JaN0NyTUs?oc=5" target="_blank">Hong Kong’s AI listings glut drags stock market lower</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Novo ditches Nordisk from name as drugmaker attempts revival - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTQ2a3FvR2ZtVzVybUlvUTNFaGZUSmlmeFNaVXZLMDM1Ykd3OHVWUWduNi0yZ0FraDhNNDItZU5LQ2xkM09qMXhzRHpvVjEzc1JxNkYwRjFMbUxvZ3R0WTdHYVRDQkpPN1RRWTR5WHI3b3hMa2U2VldDNWRueEFwT2U5cEk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTQ2a3FvR2ZtVzVybUlvUTNFaGZUSmlmeFNaVXZLMDM1Ykd3OHVWUWduNi0yZ0FraDhNNDItZU5LQ2xkM09qMXhzRHpvVjEzc1JxNkYwRjFMbUxvZ3R0WTdHYVRDQkpPN1RRWTR5WHI3b3hMa2U2VldDNWRueEFwT2U5cEk?oc=5" target="_blank">Novo ditches Nordisk from name as drugmaker attempts revival</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## A spreading war threatens Trump and MBS - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFpBYlJTSktGSHJqcDlLdUZhQWstdGJBcmE3Uy1jRmpVN1o3eUpnamhZcU0wS0J4anBoNDJZQVNtUHVUWFhWdW1ycjRVRXVIQUN1WWs0b2Z0T1NibUlsRm94NVY1Rm5QaVBFQ3VxcDB1T0h0V3pqTklWMC1mZlVMeDRHZ04?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFpBYlJTSktGSHJqcDlLdUZhQWstdGJBcmE3Uy1jRmpVN1o3eUpnamhZcU0wS0J4anBoNDJZQVNtUHVUWFhWdW1ycjRVRXVIQUN1WWs0b2Z0T1NibUlsRm94NVY1Rm5QaVBFQ3VxcDB1T0h0V3pqTklWMC1mZlVMeDRHZ04?oc=5" target="_blank">A spreading war threatens Trump and MBS</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Dollar near two-week high as oil surge lifts yields, Fed hike bets - Reuters
+## Trump lashes out at US Supreme Court justices after ballot ruling - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5" target="_blank">Dollar near two-week high as oil surge lifts yields, Fed hike bets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5" target="_blank">Trump lashes out at US Supreme Court justices after ballot ruling</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters
+## UN weighs moving Ukraine aid supplies underground after warehouse hits - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1FQSkxwTlg4STFja25TdjNRNEx4YjhGeWpTYW5BZlVRc2pGTlVkdW83Q3NIM2xwTXd1dXFlS0pCMW1IZXFDQ2tpdFJQTU82YTNJcXB3aXlnWmJmNDBxc1VWbEx5LTB5V1hiU1lIdEtUQ3pOM2RDd3YtdFZxLTV3Rl9oeFM5bW9CYTMydUMwQW1jMnQ3NENGeFhvZjlveWtRRExleW01eHNHVWs0MGVaSi05LVIyd3YyVGY0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5" target="_blank">Houthis strike Saudi targets anew as talks over Strait of Hormuz stall</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1FQSkxwTlg4STFja25TdjNRNEx4YjhGeWpTYW5BZlVRc2pGTlVkdW83Q3NIM2xwTXd1dXFlS0pCMW1IZXFDQ2tpdFJQTU82YTNJcXB3aXlnWmJmNDBxc1VWbEx5LTB5V1hiU1lIdEtUQ3pOM2RDd3YtdFZxLTV3Rl9oeFM5bW9CYTMydUMwQW1jMnQ3NENGeFhvZjlveWtRRExleW01eHNHVWs0MGVaSi05LVIyd3YyVGY0?oc=5" target="_blank">UN weighs moving Ukraine aid supplies underground after warehouse hits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## In loss for Trump, US Supreme Court won't let Postal Service restrict mail ballots - Reuters
+## Britain upgrades diplomatic relations with Venezuela - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3JBM19oZUVHOUxTMlhoLWZFOVRXMHp2cmg1bHRoWkRvZmtseERtN1ZfWnBRX1lDRlRFYkFXT1hoMFR0cDRGZjBBbm5aLWFCem5WaUZSZm5jdGpKRXlGaHl5d2gxQTV1NjJNTnprVDVwNlVBS0ZWVThUbVRvZjRJWjJyZGgyeklfc09IOVdpa0xkOFIzQ3FjMnhTODkxcFF0U1BZUW1Pb1oxdzFUd0RQdmRNU3VOZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxPU2FCMnhvbWtJbVpjci16Z3V0OC1HVmJQNlhaQlZjaFYyb25sSEViUWJwZ0VaUW9PWTFHdncxelAtSHpLenU4YjFlQXJCb1FLNDMwYnZ0ZUNVRDZtbWx6R2oyZU5xMDB2RXc1em1JOTFwTHNHZEJtYi10RFh6bEUwODlXdktrUGV0SEFMdzZlNHpKNEdWQldjZzdxUkw2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3JBM19oZUVHOUxTMlhoLWZFOVRXMHp2cmg1bHRoWkRvZmtseERtN1ZfWnBRX1lDRlRFYkFXT1hoMFR0cDRGZjBBbm5aLWFCem5WaUZSZm5jdGpKRXlGaHl5d2gxQTV1NjJNTnprVDVwNlVBS0ZWVThUbVRvZjRJWjJyZGgyeklfc09IOVdpa0xkOFIzQ3FjMnhTODkxcFF0U1BZUW1Pb1oxdzFUd0RQdmRNU3VOZw?oc=5" target="_blank">In loss for Trump, US Supreme Court won't let Postal Service restrict mail ballots</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPU2FCMnhvbWtJbVpjci16Z3V0OC1HVmJQNlhaQlZjaFYyb25sSEViUWJwZ0VaUW9PWTFHdncxelAtSHpLenU4YjFlQXJCb1FLNDMwYnZ0ZUNVRDZtbWx6R2oyZU5xMDB2RXc1em1JOTFwTHNHZEJtYi10RFh6bEUwODlXdktrUGV0SEFMdzZlNHpKNEdWQldjZzdxUkw2UQ?oc=5" target="_blank">Britain upgrades diplomatic relations with Venezuela</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - Reuters
+## Poland reinforces protection of border crossings with Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOczlDNFhibHBsRmhvaml5bnRfYWlYdnZJMUpBb0NzTU1YeHphSWxtTDVuRGJQVHFGS3VjUDE5clYyQUFYM1l0NkJ2SWh5elkza0dzQndLMUhmSFJRejhtdGV1MjFZYU1LeUxJMmNJOWRYd2NsZjhGYTg4Vm1pOWNWVGFVMENvMnVLRm52SjZ3elltNHNxMjRKbF9MU1loc2paUk16WWVzR1Z4WmRSbDRyVlVCSmxPQ2xaUjdpU05B?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5" target="_blank">Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOczlDNFhibHBsRmhvaml5bnRfYWlYdnZJMUpBb0NzTU1YeHphSWxtTDVuRGJQVHFGS3VjUDE5clYyQUFYM1l0NkJ2SWh5elkza0dzQndLMUhmSFJRejhtdGV1MjFZYU1LeUxJMmNJOWRYd2NsZjhGYTg4Vm1pOWNWVGFVMENvMnVLRm52SjZ3elltNHNxMjRKbF9MU1loc2paUk16WWVzR1Z4WmRSbDRyVlVCSmxPQ2xaUjdpU05B?oc=5" target="_blank">Poland reinforces protection of border crossings with Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## A frail-looking McConnell returns to the US Senate after three-month absence - Reuters
+## US orbital weapons acknowledgment a landmark moment, US Space Command official says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRwaEhkLTBZb2x1QWVSRFdiTTdienp6UV9UeW1CMnlKQi1VQ1VDYTlCcl9nV29NRDY1TkVwOEV2SndfU3hreUZtdUpfZl9sNWlLZnZBZGVral8zeHp2WWhxRUZqNmxYcS0zbjFVYVRNLVR4Slh6S05Lb0R5dlRPeVRBOFRtMzJwQk1ya1MtdXhGV2s1dE5JcDZ4dzZVNzhRbUNGYWtKR0NrWThNWE9scHV3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMExKc2lMT2dKSTQtc04tcGJoQ2FCa2dTelRkelJzaHRJdG1yQ1Z5ZFhjb2hLZ2VSQ2pBSVdodDZvemtvUDV0d2NZY2NURW1kanJpWHhERWl6eTF0QWhxZ0F5MFZpOTlnUG80SENfQUN4YXlURmgwZzRjamR5VzdtMXdCZEJXMEVfLXRTdXVwODd0b21rNUNqYjhreFQtbGtjX3laOG1CYjEyaFhCZmdCT0ZLZERHbTctdkpUUFBWS3pKS0NNclM4MTlfYjVTeTNwWEFPYk1Rdl9IZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRwaEhkLTBZb2x1QWVSRFdiTTdienp6UV9UeW1CMnlKQi1VQ1VDYTlCcl9nV29NRDY1TkVwOEV2SndfU3hreUZtdUpfZl9sNWlLZnZBZGVral8zeHp2WWhxRUZqNmxYcS0zbjFVYVRNLVR4Slh6S05Lb0R5dlRPeVRBOFRtMzJwQk1ya1MtdXhGV2s1dE5JcDZ4dzZVNzhRbUNGYWtKR0NrWThNWE9scHV3?oc=5" target="_blank">A frail-looking McConnell returns to the US Senate after three-month absence</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMExKc2lMT2dKSTQtc04tcGJoQ2FCa2dTelRkelJzaHRJdG1yQ1Z5ZFhjb2hLZ2VSQ2pBSVdodDZvemtvUDV0d2NZY2NURW1kanJpWHhERWl6eTF0QWhxZ0F5MFZpOTlnUG80SENfQUN4YXlURmgwZzRjamR5VzdtMXdCZEJXMEVfLXRTdXVwODd0b21rNUNqYjhreFQtbGtjX3laOG1CYjEyaFhCZmdCT0ZLZERHbTctdkpUUFBWS3pKS0NNclM4MTlfYjVTeTNwWEFPYk1Rdl9IZw?oc=5" target="_blank">US orbital weapons acknowledgment a landmark moment, US Space Command official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
