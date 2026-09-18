@@ -1,34 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-09-18 04:08:04
+更新时间：2026-09-18 16:10:54
 
-## Yen Extends Declines After BOJ Hikes Rates With Two Dissents
+## BofA Warns of Warsh’s Fed Hiking Rate Above 5% in 2022 Redux
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-18/yen-drops-against-dollar-after-boj-raises-rates-as-expected
+链接：https://www.bloomberg.com/news/articles/2026-09-18/bofa-warns-of-warsh-s-fed-raising-rates-above-5-in-2022-redux
 
 正文长度：0
 
-摘要：The yen extended its drop against the dollar after the Bank of Japan lifted interest rates as expected, with two dissents casting doubts on the outlook for further policy tightening.
+摘要：It’s time for investors to prepare for the risk that the Federal Reserve raises its benchmark rate above 5%, according to Bank of America Corp. strategists.
 
 
 ---
 
-## Japan Central Bank Hikes Rates, With Surprise Dissenters
+## Soccer Star Mbappé Leaves Nike to Sign With On
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-18/japan-central-bank-hikes-rates-with-surprise-dissenters-video
+链接：https://www.bloomberg.com/news/videos/2026-09-18/mbappe-signs-with-on-video
 
 正文长度：0
 
-摘要：The Bank of Japan raised its benchmark interest rate, ramping up the pace of hikes to the fastest in 36 years. Bloomberg journalists and an economist discuss what this means. (Source: Bloomberg)
+摘要：French soccer superstar Kylian Mbappé is leaving Nike to sign with Swiss sneaker company On. The 27-year-old striker is the World Cup's all-time goal leader. It's said to be a 10 year deal. On shares rose with the news. Randall Williams reports.  (Source: Bloomberg)
 
 
 ---
 
-## Stocks Rise, Yen Slips as BOJ Hikes in Split Vote: Markets Wrap
+## France Bond Risk Gauge Reaches New Milestone on Budget Risks
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-18/french-yield-premium-rises-to-one-percentage-point-on-debt-risks
+
+正文长度：0
+
+摘要：A measure of French bond risk rose above one percentage point for the first time in 14 years, a sign of growing caution among investors given the country’s large budget deficit and ongoing political uncertainty.
+
+
+---
+
+## Stocks Fall as Fed-Hike Bets Boost Treasury Yields: Markets Wrap
 
 来源：彭博社
 
@@ -36,33 +49,132 @@
 
 正文长度：0
 
-摘要：Wall Street’s stock rally carried into Asia as falling oil prices and optimism that inflation will be contained lifted sentiment. The yen extended its decline after the Bank of Japan raised interest rates in a split vote.
+摘要：The last stretch of a busy week for markets saw stocks falling as bond yields rose, with traders also facing the expiration of a pile of options that threatens to trigger sudden price swings.
 
 
 ---
 
-## Vietnam Stocks See Early Foreign Flows as FTSE Upgrade Nears
+## VW Cuts Profit Outlook After China Sales Slump, Costs Rise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-18/vietnam-stocks-see-early-foreign-inflows-as-ftse-upgrade-nears
+链接：https://www.bloomberg.com/news/articles/2026-09-18/vw-cuts-outlook-after-writedown-on-porsche-decline-in-china
 
 正文长度：0
 
-摘要：Global funds are dipping back into Vietnamese stocks ahead of their inclusion in FTSE Russell’s emerging markets universe next week.
+摘要：Volkswagen AG lowered its operating margin forecast, reflecting a sharp contraction in the Chinese car market and costs related to its job-cutting plan. The carmaker also cited a €6 billion ($6.9 billion) writedown on the value of its stake in Porsche AG.
 
 
 ---
 
-## BOJ Split Vote Sends Bearish Signal on Yen, Strategists Say
+## Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-18/boj-split-vote-sends-bearish-signal-on-yen-strategists-say
+链接：https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html
 
-正文长度：0
+正文长度：1650
 
-摘要：The yen dropped after the Bank of Japan’s decision to hike rates as a split vote sent bearish signals, strategists said. The Japanese currency fell as much as 0.5% after the central bank raised its benchmark interest rate by a quarter percentage point to 1.25%.
+摘要：One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Meritage Hospitality, one of Wendy's largest U.S. franchisees, filed for Chapter 11 bankruptcy protection on Thursday.
+The filing comes as the burger chain has struggled to win over diners who have become increasingly focused on value. For six straight quarters, Wendy's has reported same-store sales declines. A revolving door of chief executives in recent years has led to muddled turnaround strategies, and its stock has lost two-thirds of its value over the last three years.
+"Because the substantial majority of Meritage's restaurant portfolio operates under Wendy's brand, those system-wide pressures have had a significant impact on the Company's financial position," Meritage said in a press release announcing the filing.
+At an investor conference in June, Meritage CEO Bob Schermer said that store-level earnings before interest, taxes, depreciation and amortization had plummeted 48% in 2025. Rising beef costs and increased discounts weighed on the franchisee's profits.
+Meritage said it filed for bankruptcy to strengthen its balance sheet, and the company plans to keep its restaurants running during the restructuring process. Meritage operates 314 Wendy's restaurants across 15 states, as well as one Bojangle's location and five independently branded stores.
+Meritage estimated that its assets are valued at $10 million to $50 million, with liabilities within the same range, according to a filing with the Bankruptcy Court of the Western District of Michigan. Quality Is Our Recipe LLC, the legal name for Wendy's franchise business, is listed as its top unsecured creditor with a claim of $24.9 million for deferred franchise fees.
+
+</details>
+
+
+---
+
+## Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html
+
+正文长度：3437
+
+摘要：Ticket prices are rising for Macklemore's upcoming solo concert after the rapper was removed from Ed Sheeran's tour for making pro-Palestine comments.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Macklemore's removal from Ed Sheeran's tour is having ripple effects on the ticket market.
+Ticket prices for an upcoming Macklemore performance are climbing after the rapper was dropped from the remainder of Sheeran's Loop tour for making pro-Palestine comments onstage earlier this month. Meanwhile, secondary market prices for the remainder of Sheeran's concerts have dipped.
+Resale prices for Macklemore's October concert at Red Rocks in Colorado are increasing this week, even though the performance was announced in March.
+"The get-in price [or the price for the cheapest available ticket] for that show is up 45% in the past 3 days, from $108 to $157," Keith Pagello, founder of price tracking company TicketData, said in a statement to CNBC on Thursday. "That's a surge we can say with confidence would not have happened absent this week's events."
+Macklemore said on social media on Monday that he was removed from the tour after stadium owners threatened to cancel shows following his pro-Palestinian remarks during a performance at MetLife Stadium in New Jersey on Sept. 4. He announced on Thursday that he will donate his $1 million in earnings from the tour to Palestinian aid organizations.
+All of Sheeran's other supporting acts, Finneas, Aaron Rowe, Beoga and Lukas Graham, said they would leave the tour after Macklemore's removal. It is unclear who will replace the performers.
+Following the Macklemore headlines, ticket prices for Sheeran's tour have decreased at nine of the ten remaining venues, according to TicketData which aggregates statistics from platforms including SeatGeek, Vivid Seats, Gametime, and StubHub.
+However, Pagello said the drops are normal and may not be related to the controversy.
+"Across the whole universe of concerts, more shows decline in price as the date approaches than rise," Pagello said.
+Ticket prices to Sheeran's North American concerts this summer dropped by an average of 22% in the final two weeks leading up to the show, according to Pagello.
+Pagello sees the amount of ticket resales to Sheeran's upcoming concerts as more significant.
+"There has been a clear uptick in resale volume: since Monday, tickets have been selling at a slight to moderately increased pace compared to earlier tour stops at the same distance out, even with prices trending down," Pagello said.
+While more tickets are changing hands, it's unclear how much of the trend relates to opposition to Sheeran, support of him or other factors.
+Sheeran maintained that Macklemore's removal was the promoter's decision and not his own in an Instagram post Wednesday. He also justified his decision to not speak publicly about his personal beliefs.
+"I have always used my platform and music to bring people from all backgrounds and cultures together and this won't ever change," he wrote. "There is a reason I do not use my professional platform for politics – my audience includes young people, often children, of all backgrounds. Those who come to my shows do not expect a political forum."
+The concert promoting Sheeran's eighth album "Play" kicked off late last year in New Zealand. The February leg in Australia was the high-grossing tour in the world that month, bringing in $70.8 million, according to Billboard.
+Sheeran has historically led some of the biggest tours in the world. His most recent tour, which wrapped last year, grossed $875.7 million and sold 8.8 million tickets, according to Billboard.
+
+</details>
+
+
+---
+
+## Why more companies are fighting over consumers' beauty, health and wellness spending
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html
+
+正文长度：6832
+
+摘要：As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> As consumers become more educated about the products they're buying and look to make more holistic purchases, a new retail category is emerging.
+What were once three separate sections — beauty, health and wellness — have converged into one large category as consumers look for products that serve multiple purposes. That change in consumer behavior is creating more competition for companies racing to win over the corresponding share of customers' wallets, industry experts said.
+According to a new study from consulting firm AlixPartners, nearly 100% of consumers surveyed believe that the category is just one budget item, whereas it was three before.
+The survey, conducted jointly between CEW and AlixPartners between May and June, sampled 1,000 consumers age 18 and over and split across gender, age, income brackets and regions. The survey also polled 127 executives in the beauty, health and wellness industries.
+"What we found in the data is a consumer is just as likely to trade off a night cream for another night cream as a night cream for a personal trainer," Lindy Firstenberg, co-lead of the company's beauty, health and wellness practice, told CNBC. "Anything in beauty, health and wellness is within the consideration set."
+As wellness becomes more mainstream, 40% of consumers in the survey said they want traditional beauty companies to expand their reach in terms of the products they offer. At the same time, the AlixPartners study found that 42% of executives said they wanted their companies to stay in their lane.
+"What that shows is a fundamental disconnect that consumers are asking for more; they're asking for different, they're asking for a new playbook, and executives are saying, 'No, that's way too scary. That's not going to happen,'" Firstenberg said.
+Firstenberg said she believes companies may be hesitant to take on a big bet that won't necessarily immediately pay off on a quarterly cycle. It's a move that would also include lengthy time for research and development and consumer profiling.
+"They're not willing to look outside of themselves in order to see that broader beauty, health and wellness bucket, which is the exact opposite of consumers," Firstenberg said.
+That trend comes as consumers are also becoming more knowledgeable about the products they're buying and integrating a more science-backed approach to their beauty purchases, a trend AlixPartners calls the "consumer PhD."
+Firstenberg said people are also looking to other consumers, especially on social media, for which products to buy and which ones will have the best results, instead of relying on the brands.
+How retailers are responding
+Some companies are choosing to team up with existing brands on the other side of the sector to expand their offerings.
+In 2022, luxury brand Gucci partnered with wearable fitness tracker brand Oura on a specially designed ring. Last month, consumer packaged goods company Procter & Gamble agreed to acquire supplements brand Thorne for $3.8 billion in a bid to grow its health business.
+Another approach is making sure those products are highlighted together.
+Ulta Beauty has launched in-store wellness boutiques, which feature product categories such as supplements and skin and hair serums. Target launched the Target Beauty Studio on Sept. 10 after phasing out its shop-in-shop partnership with Ulta in August. And Sephora now has a dedicated wellness and skincare section on its website.
+Walmart has been investing in varied product assortments in its stores over the past few years and leaning into both entry-level price points and premium brands, said Silvia Kawas, who leads the consumables business for Walmart U.S.
+"Our customers today are actually thinking about solving problems across their health and wellness and beauty journeys more holistically than ever, and so you'll see a lot of blurring of the lines," Kawas told CNBC.
+Kawas said Walmart, which is currently in the process of remodeling many of its stores, is placing beauty products in high-traffic areas to ensure the company stays ahead of trends. It's also making sure store associates who are knowledgeable in the beauty and wellness industry are available to help customers, in addition to leveraging the expertise of its pharmacists.
+"We have this unique advantage of being an omnichannel retailer that allows us to help service customers both from a store perspective through great assortments. … [And] we also are trusted for our everyday low price and consistency," Kawas said.
+She added that Walmart has seen its consumers going through a trial-and-error process, so the company has had success with its mini and single-serve products.
+"We're very intentional about creating this exploration, discovery and navigation in-store and online that gives [customers] confidence in the solutions that they're buying from Walmart," Kawas said.
+A new retail landscape
+While some larger players in the retail space are leaning into the trend, others may be missing the mark, said Pierre Dupreelle, the global leader for beauty at Boston Consulting Group.
+Dupreelle said the "revolution" of the beauty and wellness industry is leading to a "complete reshape," especially with the rise of GLP-1 drugs as consumers focus on how health intersects with beauty.
+"The brands that consumers are now favoring are extremely efficacious brands that are very focused on science, derm-backed, doctor-backed type of products, so there's a set of brands that are really benefiting from this explosion of the category," Dupreelle said. "The more traditional, more sensible skincare brands, even at the top of the price points, are definitely struggling."
+Even as consumers are squeezed by macroeconomic pressures like high gas prices, rising inflation and uncertainty from global politics, Dupreelle said they're more likely to cut their spending on other categories before they rein in their beauty, health and wellness budget.
+According to an August report from market research firm Circana, unit demand in the beauty industry remained positive through the first half of 2026 despite consumer selectivity.
+The report found that skincare sales revenue grew 8% in the first half of the year, benefiting from consumers' interest in whole body wellness.
+For retailers like Walmart, that means leaning into the product assortments and price points that customers are looking for to ensure they keep coming back.
+Kawas said the company is already seeing returns on that strategy with customers building bigger baskets on their way to the cash register.
+"That's the advantage, is affordability, access and flexibility to customize and personalize," Kawas said. "I think that's the role that we need to be playing. … The more we do that, the more repeat and loyalty we will get out of them because we're consistent in our offering."
+
+</details>
 
 
 ---
@@ -154,295 +266,132 @@ Disclosure: CNBC and Golf Channel are divisions of Versant Media.
 
 ---
 
-## Charities say gifts by deceased donors are getting held up at financial firms
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html
-
-正文长度：13731
-
-摘要：Nonprofits are pushing back against policies by financial institutions to collect personal information of charity employees before releasing a gift.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> A version of this article appeared in CNBC's Inside Wealth newsletter, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox.
-For donors who want to leave a legacy and save on taxes, naming a charity to receive their retirement account upon their death is one of the simplest ways to do so. But nonprofit leaders and lawyers warn of a growing wrinkle in carrying out these last wishes.
-Typically, donors can leave their IRA to a nonprofit without adjusting their will. The amount is subtracted from their taxable estate, and the assets go to the charity — free of the income taxes that would otherwise be paid by the individual who inherits the estate.
-But collecting these gifts can take months or even years of navigating red tape, according to experts. Some brokerages and banks require a nonprofit to open a new account with the institution before they'll release the IRA assets, often asking for detailed and sometimes sensitive information.
-Experts told CNBC that in some cases, IRA custodians have sought the personal information of nonprofits' employees or board members, such as Social Security numbers or home addresses, without even disclosing the gift's value.
-The hurdles force charities to spend scarce staff time chasing funds intended for their missions and, occasionally, walk away from the gift altogether, the experts said.
-"These contributions are important, because a person has chosen to leave part of what they worked their entire life for to support our mission, and we want to honor that designation," said Rob Hilbert, president of the Iowa PBS Foundation. "But we can't do it if we don't receive the funds."
-Hilbert said his nonprofit once spent more than five years sending paperwork back and forth to receive a gift that turned out to be $6,000. While he acknowledged that was an extreme case, he said pushing back against what he characterized as invasive demands by brokerages is a frequent burden for the foundation.
-Lawyers told CNBC that IRA custodians are generally not required to inform nonprofits or individuals that they are beneficiaries of these gifts, or how much they are owed.
-Jon Kraus, executive director of gift planning at the University of Denver, said it once took two years to collect a donor's investment account, which turned out to be worth $2 million. The university initially resisted the financial institution's requests to open an account and to provide personal information of its then-chief financial officer, but ultimately gave in, Kraus said.
-"That $2 million at 4.5% would have spun off $90,000 a year that we could have been awarding in student scholarships," he said. "Instead it sat at the company in their assets under management."
-Many of the nonprofit leaders who shared their experiences with CNBC asked to keep some details, including the institutions they worked with, confidential, citing donor privacy and concerns about retaliation.
-Some nonprofits are now advocating for state laws that require financial firms to release funds and benefits in a timely manner and without forcing charities to create new accounts.
-In the past two years, six states have passed such bills. California is set to become the seventh with a donor intent bill sitting on Gov. Gavin Newsom's desk.
-Kraus helped champion reform in Colorado that was signed into law in April. He said such legislation is critical, since the problem is likely to become more prevalent as the great wealth transfer triggers a wave of bequests and retirement-account gifts.
-By Cerulli Associates' estimate, $18 trillion is expected to be donated to charities and philanthropic causes by 2048.
-"There's trillions of dollars sitting in these IRA and stock accounts," Kraus said. "Getting this right and having a process, not just state-by-state, but hopefully, eventually at the national level — it's going to have a huge impact on the ability of nonprofits to get these funds quickly and be able to use them for what the donor intended."
-Few good options
-Not all banks and brokerages require nonprofits to jump through hoops to receive designated funds. The charity leaders and lawyers who spoke with CNBC said some institutions, including Edward Jones and Merrill Lynch, are easier to work with.
-But the result is a patchwork of procedures and policies that vary by firm. And while IRA accounts are the most frequently cited example of the problem, it can also arise with other accounts that pass directly to named beneficiaries rather than through probate, including 401(k)s, life insurance policies and brokerage accounts.
-Lawyer Johni Hays has spent a decade helping charities push back against policies from custodians that she deems to be unreasonable. The estate and charitable gift planner said she provides advice and template letters on a volunteer basis to nonprofits including the University of Denver and the Iowa PBS Foundation.
-Hays said she's seen institutions require photos of employees' driver's licenses, their personal asset information and consent to credit checks.
-"Charities are, frankly, willing to give their tax ID, their articles of incorporation, their 501(c)(3) status — all those things they have given for decades and decades," she said. "It's this extraneous stuff that has gone too far."
-Melanie Sadek, CEO of Valley Humane Society, an animal-welfare nonprofit, said these types of gifts are especially significant as they tend to be much larger than lifetime donations.
-Sadek said she was inspired to advocate for reform in California after a two-and-a-half-year effort to collect a $70,000 IRA gift.
-In 2021, the humane society was named as one of nine beneficiaries of a donor's IRA, which Sadek said the nonprofit only learned about through the donor's sister.
-The charity's paperwork to collect the gift was repeatedly denied over a period of two years, despite Sadek providing her SSN and personal information and that of two board members, she said.
-The problem, Sadek learned, was that the bank required all nine beneficiaries to complete the paperwork within the same 90-day window. It took five months to coordinate with the other beneficiaries – whose names had to be obtained from the donor's sister – and to submit the paperwork all on the same day, she said.
-These policies often pressure charity employees to choose between giving personal information or having their employer forgo needed funds. LCMS Foundation Vice President Brad Conrad said he's provided such information at least 50 times since he joined the foundation, which supports the Lutheran Church, in 2019.
-Conrad said he worries about having his identity stolen in the event of a data breach at any of the various institutions that now have his information on hand. Last year, Conrad said, he was particularly concerned about consenting to a credit check as he and his wife were in the middle of trying to buy a house.
-"This is not something that I anticipated when I took this job, and I don't love doing it. My wife and three kids didn't sign up for any of that," he said. "Because I love the mission, I'm OK putting myself at risk, but yes, it is something that weighs on me."
-Customer protections
-The experts who spoke with CNBC said the problem has gotten worse in the past five to 10 years. The sole cause is unclear, but there are several possible culprits: institutions becoming more aggressive, charities better marketing the tax-efficient strategy, or more donors dying as the population ages.
-They all said they still support this type of giving as it's simple and tax-friendly for donors, despite the headaches that sometimes arise.
-Hays, the lawyer leading efforts to smooth out the process of collecting IRA donations, said Fidelity and Schwab are two of the biggest brokerage firms known to frequently enforce requirements that can result in delays or denials related to beneficiary-designated accounts.
-Fidelity reported holding 20.3 million active IRA accounts as of the end of June. Schwab does not disclose this figure.
-Fidelity declined to comment for this article.
-A spokesperson for Schwab said its policies are intended to execute clients' wishes while meeting legal, tax-reporting and fraud-prevention obligations. The representative added that Schwab "continually evaluates opportunities to simplify the inheritance experience for all beneficiaries" in accordance with these requirements.
-"Schwab is committed to carrying out a client's beneficiary instructions and distributing inherited assets," the spokesperson said in a written statement. "Upon receiving confirmation of a client's death, Schwab makes every reasonable effort to identify and contact named beneficiaries and guide them through the inheritance process."
-While financial institutions' policies vary, they often invoke anti-money-laundering and customer-identification rules designed to prevent financial crime as the basis for such protocols, according to five lawyers who spoke with CNBC. However, those lawyers said custodians are not legally required to make charities open accounts to receive funds.
-In 2020, a coalition of government agencies including the Financial Crimes Enforcement Network, or FinCEN, issued a fact sheet to "remind banks that the U.S. government does not view the charitable sector as a whole as presenting a uniform or unacceptably high risk of being used or exploited for money laundering, terrorist financing (ML/TF), or sanctions violations."
-In a 2024 administrative ruling, FinCEN said Bank Secrecy Act laws do not require broker-dealers to make charities open new accounts to receive inherited IRA funds. If a broker-dealer chooses to require a new account, however, it must collect identifying information from a charity official per customer due-diligence rules.
-"They don't have to require it. The proof is other major financial institutions are not requiring charities to jump through all those hoops," said lawyer David Cahoone, who was Brown University's director of philanthropic strategies and planned giving until 2024.
-Representatives for FinCEN and the Treasury Department did not comment for this story.
-Iowa State Representative Bill Gustoff said some concerns about liability could be genuine. For instance, a bank might need to reclaim distributed funds to cover a donor's estate debts, said Gustoff, who is also a lawyer.
-However, he said, there are also financial incentives behind the practice, like collecting fees for managing assets. Gustoff introduced Iowa's reform bill after becoming aware of the issue from Hays, who works at the same law firm, Thompson & Associates.
-"I think, unfortunately, there are some who are just unscrupulous who are trying to hold on to funds for various reasons or open and close accounts for various reasons," said Gustoff. "I think that's a lot of the driver behind this, just money and profit. And the person who left it to them is dead, so who's going to complain, right?"
-Lawyer J. Scott Kilpatrick said regardless of the motivation, firms that market IRAs to wealthy clients as estate-planning tools should have clear systems in place to distribute the money efficiently.
-"You would think that if you're an international, multibillion-dollar financial custodian … that you would have it built out so that when the person does pass, you are ready to fulfill the promise," he said. "But many don't."
-What donors can do
-The first state-level reform law passed in 2024 in Iowa. Charity advocates in Missouri and Florida are working on similar efforts, experts in those states told CNBC.
-Each of the six state laws that have passed has its nuances, but they generally require financial institutions to transfer assets in a timely manner. In Colorado, custodians have to transfer assets within 60 days of receiving an affidavit from the charity claiming the funds.
-These laws, except Iowa's, also stipulate that charities cannot be required to open an account, according to Hays.
-While Iowa's version faced no opposition, Hays said there has been pushback from lobbyists for the finance industry in other states, especially on requirements to inform charities that they are beneficiaries. Two states, Illinois and Tennessee, successfully included that provision in their laws, she said.
-North Carolina's bill, introduced in March 2025, has been stalled in the state Senate since July.
-California State Senator John Laird, author of that state's bill on the matter, was optimistic about what reforms lie ahead. He noted that the California bill applies not just to charities but all types of beneficiaries.
-"It's considered a niche issue for anybody it doesn't affect, and then when you're affected, it is not a niche issue," he said. "If you were left a large bequest for somebody's house, and you don't know for three years, that is just a problem that needs to be addressed."
-And while reform gets underway state-by-state, experts said IRA donors can head off some of the anticipated hurdles before their death.
-Anne Calder, vice president of philanthropy at the Quad Cities Community Foundation, said donors can make it easier for their charities of choice by providing the intended recipients a copy of their beneficiary designation form and their account number.
-Hays said donors can vote with their feet and move to financial firms that have smoother practices. She also recommended that donors tell charities in advance about the designation, though some donors can be shy about it.
-"They don't want the charity to think that they're getting this wonderful, generous gift, and then the donor had to end up using the money and leave them with nothing," she said. "But the charities are obviously fine with that. It's the donor's money."
-
-</details>
-
-
----
-
-## Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html
-
-正文长度：5702
-
-摘要：Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Netflix's live sports strategy is predicated on finding games and tournaments it believes can be turned into events. That makes defining "event" paramount to the company's success.
-"The thing about an event is it's buzzy, cultural, zeitgeist — that really sort of unmissable moment," said Netflix Chief Content Officer Bela Bajaria in an exclusive interview last week with CNBC Sport. "There's something in that that just feels like it's very appointment TV, but also with great conversation around it."
-Bajaria spoke from Melbourne, Australia, the site of the first-ever, regular-season NFL game in the country. Netflix owned the global rights to the game, which resulted in a 27-7 victory by the San Francisco 49ers over the Los Angeles Rams.
-CNBC asked Bajaria if NBC's "Sunday Night Football," the most popular primetime program for 15 consecutive years, would classify as a Netflix "event."
-"If I had a dollar for every time I'm asked that, that money would just pay for 'Sunday Night Football,' and I wouldn't even have to take it out of the $20 billion content budget," Bajaria joked.
-"The first NFL game [ever on Netflix] was Christmas Day, right?" Bajaria said. "So we're like, Christmas is a holiday, Beyoncé is gonna do the halftime, and we can sort of turn that into an event. And it can be World Baseball Classic in Japan. It can be Home Run Derby, but it also can be Alex Honnold Taipei 101, when he climbed a building. It can be when we did the BTS concert in Seoul."
-Bajaria's explanation suggests a large package of NFL games isn't suitable for Netflix's strategy, which echoes comments from Netflix co-CEO Ted Sarandos earlier this year. The NFL can potentially renegotiate its media rights for games beginning after the 2029-30 season, when the league has an opt-out clause on its current deal. NFL Commissioner Roger Goodell told CNBC last week that the league would consider reworking its established game packages.
-Netflix is airing five NFL games during the 2026-27 season — last week's Australia game, the first-ever Thanksgiving Eve game, two Christmas Day games and a Week 18 game that's guaranteed to be one of significance — either to decide a playoff spot or to determine seeding.
-The NFL doesn't currently sell a package of international games, but that might be appealing to Netflix if it existed, Bajaria said. There are nine international games this year and 10 scheduled for next season.
-"We obviously have this large global audience and a very engaged global audience," Bajaria said. "I think people will probably just go to that as kind of like a natural, 'Would we do international?' We have lots of U.S. members who obviously love NFL and football, and so I think we're always going to continue to have conversations."
-Bajaria also confirmed Netflix's potential interest in bidding on the FIFA Men's World Cup in 2030 and 2034. Netflix already has the Women's World Cup U.S. and Canadian rights for 2027 and 2031. CNBC first reported Netflix's interest earlier this year.
-"Obviously it's a beloved sport around the world, and we have the Women's World Cup, so I'm really excited about that. We have a great partnership and relationship with FIFA, so we're definitely going to always have those conversations," Bajaria said.
-Ingesting other streamers
-At the same time more media companies are pushing into live sports, the legacy players are also inking new strategies for streaming.
-YouTube announced in July it would ingest content from NBCUniversal's Peacock into its Premium subscription platform, a new model for the industry.
-Bajaria suggested Netflix could be open to a similar arrangement. She called an existing partnership with France's TF1 Group a "test" to embed live content from other media companies in its service.
-"The business is changing," Bajaria said. "We can partner with TF1 locally, and that was sort of a conversation to like, oh, let's try to test it."
-Bajaria specifically noted NBCUniversal as a company that already partners with Netflix in a variety of ways, which she said can sometimes help both companies get comfortable with the idea of trying something like ingestion.
-Netflix already has an exclusive licensing deal with Universal on its feature films. NBC Sports also produces live sports on Netflix, including last week's Australia NFL game.
-"What I love is we can continue to grow and evolve the business," Bajaria said. "There's already a natural partnership in most of these countries, and so that's going to always be continuing the conversations."
-Competing with YouTube
-Still, Bajaria isn't interested in completely rewriting the rulebook.
-She dismissed the idea that Netflix would change its business strategy to compete with YouTube and other short-form video services.
-YouTube's streaming market share consistently grows each month, according to Nielsen data. For July, the video platform accounted for 14.2% of all streaming viewership. Netflix was the No. 2 service at 7.8%.
-But Bajaria said she has no plans to change course at Netflix: TV series and movies will continue to be the platform's bread and butter, she said.
-"It's too hand-wavy or dismissive to say, 'Oh, young people only watch short things,'" Bajaria said. "When we make things for young people that they feel are really authentic and great, they will come. And that's the business. We're still in that. We support creators and filmmakers and visions. We invest in film and TV. Really great stories connect with people all day long."
-Correction: This article has been updated to correct a transcription error in a quote attributed to Netflix Chief Content Officer Bela Bajaria. She said, "The thing about an event is it's buzzy, cultural, zeitgeist."
-
-</details>
-
-
----
-
-## NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html
-
-正文长度：3260
-
-摘要：CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film "Days of Thunder 2" will help raise brand awareness and broaden its fan base.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> NASCAR CEO Steve O'Donnell said the company has seen "a lot of momentum" after a challenging few years, touting NASCAR's presence on multiple streaming platforms and the recently announced sequel to "Days of Thunder" as opportunities to raise the company's profile.
-The auto racing company CEO, in an interview with CNBC's Brian Sullivan, credited the company's growing popularity among a younger audience, in part, to its ability to connect with fans online.
-"The media partners are just the foundation of the sport [that] help us grow," he told CNBC.
-NASCAR content is available through streaming, cable and digital platforms across Fox, Comcast's NBC, Versant's USA Network, Warner Bros. Discovery's TNT Sports and Amazon Prime Video, thanks to seven-year media rights agreements — worth an estimated $7.7 billion, according to various media reports.
-When asked whether the patchwork nature of exclusive streaming rights to races would confuse viewers, O'Donnell said the breadth was actually a benefit.
-"For us [it's] how many front doors can we give to a fan to come through and experience NASCAR, and we used to just be maybe on one or two networks," he said. "And as you look at where media is going long-term, we realized to get younger we needed to try some different things, go where some of the younger fans are maybe watching or just tuning in for a couple minutes."
-The release of "Days of Thunder 2," the sequel to the 1990 hit, will be another way to reach new fans, O'Donnell said. Tom Cruise will be reprising his role as Cole Trickle, a NASCAR driver, with Anne Hathaway set to co-star. The Paramount film is slated to premiere in summer 2028, Cruise announced on social media.
-O'Donnell said Cruise recently visited NASCAR headquarters in Daytona Beach, Florida, and believes that the sequel will bring new audiences to the league.
-"He could not have been more enthusiastic," O'Donnell told CNBC. "Tom's No. 1 message to us: He's like, 'You got to be ready because I'm going to put people [on], and they're going to know what NASCAR'S about.'"
-Global racing league Formula 1 has notched success in recent years garnering new fans via streaming and film, including Netflix's "Drive to Survive" docuseries and Apple's "F1" movie, which premiered in 2025.
-The Brad Pitt blockbuster became Apple's highest-grossing film.
-Similarly, "Ford v Ferrari," a biopic about a legendary team of British and American race-car drivers, became one of the highest-grossing original movies of 2019.
-And while NASCAR seeks to grow its reach domestically, O'Donnell said that he is "absolutely" open to international expansion.
-The league currently races only in the U.S. and Mexico but is weighing options for additional international locations.
-O'Donnell said that brand awareness must be established internationally before plans for future race locations can be solidified.
-"I don't want to just export a race and plop it somewhere," O'Donnell said. "We want to build the culture so that when you go to a race, if we're in Europe, you know, hey, that's the NASCAR experience."
-O'Donnell was named CEO in April, replacing Jim France and becoming the league's first CEO outside the founding family.
-Disclosure: Versant Media Group is the parent company of CNBC.
-
-</details>
-
-
----
-
-## US regulator opens markets to tokenised stock trading - Financial Times
+## Blockbuster Ed Sheeran tour in doubt after fallout from protests - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVZHQ0hsdFlEcG5RWnA1WG5CZEtiSVpiOTJnSWVuWE9KMzBBa0J3elM1T1hjTmxaUG9ad3E2dUVqcG9jZ1hFazFiN3hQZVAtN0MtLXRrWko4TWJBeWF3Q29WRTdWZXNvR1BybVlDOThYZS00WFhPdHdmV2lxRDdxRkdXS1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFMybWlaVk4yenhyN040OUdGV0pnbi1GZmVPUFJoT3MtZXVyTUNxM3hLOFhwUmFjYURmREUwaG9MY0RCYURIRnlSNkxIVEVZek5pNzJJVVFkZDhjaXBlVlJucUtDYWVUVkxoMFRsSUJsTlVKVUdhZUstWnV5X2c0bHJkTDA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVZHQ0hsdFlEcG5RWnA1WG5CZEtiSVpiOTJnSWVuWE9KMzBBa0J3elM1T1hjTmxaUG9ad3E2dUVqcG9jZ1hFazFiN3hQZVAtN0MtLXRrWko4TWJBeWF3Q29WRTdWZXNvR1BybVlDOThYZS00WFhPdHdmV2lxRDdxRkdXS1E?oc=5" target="_blank">US regulator opens markets to tokenised stock trading</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFMybWlaVk4yenhyN040OUdGV0pnbi1GZmVPUFJoT3MtZXVyTUNxM3hLOFhwUmFjYURmREUwaG9MY0RCYURIRnlSNkxIVEVZek5pNzJJVVFkZDhjaXBlVlJucUtDYWVUVkxoMFRsSUJsTlVKVUdhZUstWnV5X2c0bHJkTDA?oc=5" target="_blank">Blockbuster Ed Sheeran tour in doubt after fallout from protests</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## China’s US Treasury holdings fall to lowest level since 2008 - Financial Times
+## Howard Buffett to succeed father Warren as Berkshire Hathaway chair - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmlGSzBIZExHWHRqWlNVdWdYdWpVQWo2YlZjb21EODlCUThFamIyZzhoUWRrTzRaU0NBWVkzY3hYcktUU2liTWNQcGo3WFVlWU9LS2c4eWlzb3BVdFpwa3hOeDdsaEQ0czYyZVJNZHR1N0d4d0NWNkdSdDY5a2lQM0ozaDU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1xQ1FlY3dKdEdndmVTWlI4WXo0azNYelUtRGJSSUJMbF9obkFSQkdFN0piSldyVXpXX19UUnNDdnB4M1Q5d1E0UFJBUllMelRlWmQwakNQam1nZjNpLVVRMXNGRHpmbjFualVMcGtPYUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmlGSzBIZExHWHRqWlNVdWdYdWpVQWo2YlZjb21EODlCUThFamIyZzhoUWRrTzRaU0NBWVkzY3hYcktUU2liTWNQcGo3WFVlWU9LS2c4eWlzb3BVdFpwa3hOeDdsaEQ0czYyZVJNZHR1N0d4d0NWNkdSdDY5a2lQM0ozaDU?oc=5" target="_blank">China’s US Treasury holdings fall to lowest level since 2008</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1xQ1FlY3dKdEdndmVTWlI4WXo0azNYelUtRGJSSUJMbF9obkFSQkdFN0piSldyVXpXX19UUnNDdnB4M1Q5d1E0UFJBUllMelRlWmQwakNQam1nZjNpLVVRMXNGRHpmbjFualVMcGtPYUE?oc=5" target="_blank">Howard Buffett to succeed father Warren as Berkshire Hathaway chair</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Barclays hit by staff backlash over return-to-office rules - Financial Times
+## Iran activates land routes to bypass US blockade - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTduamdPNkFkUWRQZW95UVRJVHRZS0dweGsyMGRBbDRTSjNWYnowNC1zOHMwQ2swM3J0UDdyaUdzRGI5Ymxpc0JEZTIzVUxuZThsblk3Z0hYdzlUN2M0aW12NE1mYjFHTk1wZnFtbl9nd3N3eHB2cjdhYlRHY0ZqUnIycDM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2NGaXh4V3dyNGJEdjNCY29nbkV1TGJpUFdLZXVpNUI0VlNNVzF4NG9LeXVpTWNlcnZxZDVmM0lfWGlsVi1EN3k5aGVCZFY1Wk40SUxyTmx5bV92UjFrUU1sbFNGRFFsRy1WTFVFbzZLd296LTk1TlRqekwtMkdYTjVYMEw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTduamdPNkFkUWRQZW95UVRJVHRZS0dweGsyMGRBbDRTSjNWYnowNC1zOHMwQ2swM3J0UDdyaUdzRGI5Ymxpc0JEZTIzVUxuZThsblk3Z0hYdzlUN2M0aW12NE1mYjFHTk1wZnFtbl9nd3N3eHB2cjdhYlRHY0ZqUnIycDM?oc=5" target="_blank">Barclays hit by staff backlash over return-to-office rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2NGaXh4V3dyNGJEdjNCY29nbkV1TGJpUFdLZXVpNUI0VlNNVzF4NG9LeXVpTWNlcnZxZDVmM0lfWGlsVi1EN3k5aGVCZFY1Wk40SUxyTmx5bV92UjFrUU1sbFNGRFFsRy1WTFVFbzZLd296LTk1TlRqekwtMkdYTjVYMEw?oc=5" target="_blank">Iran activates land routes to bypass US blockade</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## ‘I had a superpower’: investors pile into mind-reading brain implants - Financial Times
+## Medical AI has a proof problem - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtjM2ZFQUUxYlJZRlFtX1Znd1pGbHpiXzdybFRGcWw5Z1Zpa2JWV0ZCT0w3R3VSUThqV3dMUHVjeUxxNks2bk81Mk1zVjNmX2NpdWlUeVJoOGZqcWFDZFdlaklWNlhMTXExOUVQd2lFM2hPZkFfRFJnNmtvYjhqa3Frbk4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHh1OXRja21yY1BGU0pacGhEQTEtOV9yOWFJbGpkbHpzZlhrNlN3MTNBeVR3SG5EdEktVzVJVEw3WUx6WDF4SGJjZTJxV21XRzF1RUVjUE9ERUQ0QjRmOWhTdXZLMFRLSGFCeDVGTVFOQ3dYdkNFRW4zWGlyekRQSEdrd2M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtjM2ZFQUUxYlJZRlFtX1Znd1pGbHpiXzdybFRGcWw5Z1Zpa2JWV0ZCT0w3R3VSUThqV3dMUHVjeUxxNks2bk81Mk1zVjNmX2NpdWlUeVJoOGZqcWFDZFdlaklWNlhMTXExOUVQd2lFM2hPZkFfRFJnNmtvYjhqa3Frbk4?oc=5" target="_blank">‘I had a superpower’: investors pile into mind-reading brain implants</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHh1OXRja21yY1BGU0pacGhEQTEtOV9yOWFJbGpkbHpzZlhrNlN3MTNBeVR3SG5EdEktVzVJVEw3WUx6WDF4SGJjZTJxV21XRzF1RUVjUE9ERUQ0QjRmOWhTdXZLMFRLSGFCeDVGTVFOQ3dYdkNFRW4zWGlyekRQSEdrd2M?oc=5" target="_blank">Medical AI has a proof problem</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Trump administration approves $24bn sale of F-35 jets to Saudi Arabia - Financial Times
+## Yen sinks after Bank of Japan raises rates to highest level since 1995 - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHJqblZNQTdESU1Xa1FCamotYkxYTWxhX1NCV3F2aDZtOXpMbXlheGg4aVgwa0Q0eWU5MTVnam1HRGNhdGZVTmJjOGstaF9SMXI4WnZFS2lNenRlOWVNdG9ISGQySzZ5LVZEMWFvVVZZVnJXb3Y4a3prTW9FSXRRZ1RkdjE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHJqblZNQTdESU1Xa1FCamotYkxYTWxhX1NCV3F2aDZtOXpMbXlheGg4aVgwa0Q0eWU5MTVnam1HRGNhdGZVTmJjOGstaF9SMXI4WnZFS2lNenRlOWVNdG9ISGQySzZ5LVZEMWFvVVZZVnJXb3Y4a3prTW9FSXRRZ1RkdjE?oc=5" target="_blank">Trump administration approves $24bn sale of F-35 jets to Saudi Arabia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5" target="_blank">Yen sinks after Bank of Japan raises rates to highest level since 1995</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## BOJ raises interest rates to 31-year high in widely expected move - Reuters
+## Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXZOci1kaFhqMWtjVXZMN1BDS0Q0LUF0UjNEVUlIMHlJR2x0bkNvZlhnX3FSQXg1T0lyRlVHSDlIV09xOFBOdUFSWU4yMmpMOUE5aXpJYjdJaGNZVTdwVmdxWlZuNmd1OU5hUXh5clNDbHh0dFNTQVJRaUdJdGNfdk4ySE1NVXZtODQ1UENyczdUMGpTTzNBaG82bjBvSm94WGxLZFNIOXFBQy1xb0Zqb0d6cVRISG52UkNSOXc0aGJROUgzLUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5" target="_blank">BOJ raises interest rates to 31-year high in widely expected move</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXZOci1kaFhqMWtjVXZMN1BDS0Q0LUF0UjNEVUlIMHlJR2x0bkNvZlhnX3FSQXg1T0lyRlVHSDlIV09xOFBOdUFSWU4yMmpMOUE5aXpJYjdJaGNZVTdwVmdxWlZuNmd1OU5hUXh5clNDbHh0dFNTQVJRaUdJdGNfdk4ySE1NVXZtODQ1UENyczdUMGpTTzNBaG82bjBvSm94WGxLZFNIOXFBQy1xb0Zqb0d6cVRISG52UkNSOXc0aGJROUgzLUE?oc=5" target="_blank">Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Oil prices fall 1% on hopes of limited supply disruptions - Reuters
+## EXCLUSIVE: Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany, sources say - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxOYW1YaE5VZXdZbXVmcVlIMVBDRVFZNC1BRjlmSmplVHdSbXJuX0c0eTJPTkVVeWZZME1kODNrVkV4Wi1ZVmRDd1lTV1h1WDJoYmFKVzhtZDRrRmpub0hPV3RuZDduM29Bb2o3QkhnRmJBZ0tydnNrZGFTLVppWFlBNk9TdHc1QnNRd2h4X3c0U2hyWnNXa2dJdkVTU0FsZ0doNjVFb0NOZHNaT05KaFc3SVpWRGptcUZXTVE2Nlcxdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5" target="_blank">Oil prices fall 1% on hopes of limited supply disruptions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOYW1YaE5VZXdZbXVmcVlIMVBDRVFZNC1BRjlmSmplVHdSbXJuX0c0eTJPTkVVeWZZME1kODNrVkV4Wi1ZVmRDd1lTV1h1WDJoYmFKVzhtZDRrRmpub0hPV3RuZDduM29Bb2o3QkhnRmJBZ0tydnNrZGFTLVppWFlBNk9TdHc1QnNRd2h4X3c0U2hyWnNXa2dJdkVTU0FsZ0doNjVFb0NOZHNaT05KaFc3SVpWRGptcUZXTVE2Nlcxdw?oc=5" target="_blank">EXCLUSIVE: Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Yen weak ahead of BOJ decision; rate hike expected - Reuters
+## Mbappe leaves Nike, signs with On as it forays into soccer - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEplMVM4YWswdDhOamVlXzZYS0d5dzFaVUZNSHJxdHE4cTd5c2s1Yjc0N2pkVkU5N0hhV2N4TGxFa0FiV3RHQUdVMG15NUFsRjFwRV9qSFFPcmtOVGpfM3ZkS2ZyUHJnMG8waHJ1NW9Qb0FNeDJXSDU5dnNRMURFcG1CazM3Y0FZZS1YVkowcllmZHdXRkFGNElsc2NoaDd2emc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5" target="_blank">Yen weak ahead of BOJ decision; rate hike expected</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEplMVM4YWswdDhOamVlXzZYS0d5dzFaVUZNSHJxdHE4cTd5c2s1Yjc0N2pkVkU5N0hhV2N4TGxFa0FiV3RHQUdVMG15NUFsRjFwRV9qSFFPcmtOVGpfM3ZkS2ZyUHJnMG8waHJ1NW9Qb0FNeDJXSDU5dnNRMURFcG1CazM3Y0FZZS1YVkowcllmZHdXRkFGNElsc2NoaDd2emc?oc=5" target="_blank">Mbappe leaves Nike, signs with On as it forays into soccer</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Anthropic says Claude now leads a quarter of work building its next AI models - Reuters
+## Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZngyZ3RoMER3Sl83bUtlX2VfdUs0Z3pRR0l5VGRUR2dubzZucnRIbW5oQy1zS19ZMUdLLU5neTc0eU41WUpwV05tUVh3Z1VFdXhpdklUTmZLNVVkMTJ2RTQyaG55clRYR0hZV3JCdGZOMFZXWHVuNVdjR2NxMF94a1FlY240ajRkSWdTaTNSelNuZUFmOW9FUU9DRTl4QVo1a2psNF82ekNkbDA2WURRbnVKcDZOdlRPSTVrMmF1V2JGc2Y5SnplQzJYbng2Zm8w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5" target="_blank">Anthropic says Claude now leads a quarter of work building its next AI models</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZngyZ3RoMER3Sl83bUtlX2VfdUs0Z3pRR0l5VGRUR2dubzZucnRIbW5oQy1zS19ZMUdLLU5neTc0eU41WUpwV05tUVh3Z1VFdXhpdklUTmZLNVVkMTJ2RTQyaG55clRYR0hZV3JCdGZOMFZXWHVuNVdjR2NxMF94a1FlY240ajRkSWdTaTNSelNuZUFmOW9FUU9DRTl4QVo1a2psNF82ekNkbDA2WURRbnVKcDZOdlRPSTVrMmF1V2JGc2Y5SnplQzJYbng2Zm8w?oc=5" target="_blank">Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Bank of Japan set to raise interest rates to 31-year high - Reuters
+## Europe's AI firms, playing catch-up, challenge US calls for slowdown - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5" target="_blank">Bank of Japan set to raise interest rates to 31-year high</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5" target="_blank">Europe's AI firms, playing catch-up, challenge US calls for slowdown</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
