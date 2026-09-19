@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-09-19 04:05:19
+更新时间：2026-09-19 15:42:39
 
-## China’s Fiscal Pullback Extends to August as Spending Slumps
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-18/china-s-fiscal-pullback-stretches-into-august-as-spending-slumps
+链接：https://www.bloomberg.com/news/videos/2026-09-19/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：China’s public expenditure declined at a quicker rate in August, indicating the government was still withdrawing fiscal support for the economy despite cooling growth momentum.
+摘要：Immersive movie screening, the plea for headphones, all-you-can-drink German method coming to the US, and old rock stars still rocking: Join Lisa Mateo, David Gura and Christina Ruffini as they go over interesting headlines from this week. (Source: Bloomberg)
 
 
 ---
 
-## South Korea’s Justice Minister Nominee Withdraws After Reshuffle
+## New York Builds Data Team to Target Consumer Ripoffs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-19/south-korea-s-justice-minister-nominee-withdraws-after-reshuffle
+链接：https://www.bloomberg.com/news/videos/2026-09-19/new-york-builds-data-team-to-target-consumer-ripoffs-video
 
 正文长度：0
 
-摘要：South Korea’s nominee for justice minister has withdrawn from consideration for the role before being confirmed, the second ministerial nominee to pull out in a week after the president reshuffled his cabinet.
+摘要：New York City is building a 36-person bureau of data scientists, technologists and economists to analyze company records for potential violations involving pricing, wages and other consumer and worker protections. NYC Consumer and Worker Protection Commissioner Sam Levine tells David Gura and Christina Ruffini on Bloomberg This Weekend that the effort is designed to give the city the technical expertise to enforce existing laws as algorithms and AI play a growing role in how companies set prices and compensation. (Source: Bloomberg)
 
 
 ---
 
-## Mark Walter’s Lieutenants Give Prosecutors Firsthand Accounts
+## Governor Cox Says Americans Need Healthier Conflict
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-19/mark-walter-s-lieutenants-give-prosecutors-firsthand-accounts
+链接：https://www.bloomberg.com/news/videos/2026-09-19/governor-cox-says-americans-need-healthier-conflict-video
 
 正文长度：0
 
-摘要：Federal prosecutors have collected statements from some of billionaire Mark Walter’s most senior executives as authorities probe dealings at his insurance companies and the investment firm he runs, Guggenheim Partners LLC, according to people with knowledge of the matter.
+摘要：Utah Governor Spencer Cox joins Bloomberg This Weekend and argues Americans need more substantive disagreement without the contempt he says is fueling polarization, damaged relationships and political violence. In his new book, Off Ramp, Cox calls for healthier political conflict and stronger local connections while also arguing that policymakers need more expertise to address emerging challenges such as AI. (Source: Bloomberg)
 
 
 ---
 
-## Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital
+## Hormuz Oil Shipments Hit Six-Month High, US Commander Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video
+链接：https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says
 
 正文长度：0
 
-摘要：This week, a special edition of Wall Street Week from the fastest growing large economy in the world: India. The country's technology sector has helped power its growth, but its success has led to uneven progress that could turn its strengths into weaknesses. Bangalore became India’s tech capital by attracting global investment and growing a deep talent pool, but infrastructure and policies to support the expansion have struggled to keep up. Plus, can Hyderabad overtake Bangalore as India’s leading tech city? Later, Blackstone’s investment in Royal Challengers Bengaluru reflects just how much potential India’s sports and entertainment economy has.  (Source: Bloomberg)
+摘要：Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “paying off,” a regional US commander said.
 
 
 ---
 
-## $370 'Home Alone Sundae' on The Plaza's Menu
+## Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-18/-370-home-alone-sundae-on-the-plaza-s-menu-video
+链接：https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus
 
 正文长度：0
 
-摘要：Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on "Bloomberg Money." They discuss New York City's Plaza Hotel as it is set to welcome events and guests tied to the United Nations General Assembly and the Qatar Economic Forum. The menu includes the $370 "Home Alone Sundae". (Source: Bloomberg)
+摘要：An investment firm for one of Saudi Arabia’s richest families is relocating from London to Dubai, according to people familiar with the matter, the latest example of private wealth outflows from the UK to the Gulf despite heightened uncertainty from the Iran war.
 
 
 ---
@@ -223,15 +223,15 @@ Sheeran has historically led some of the biggest tours in the world. His most re
 
 ---
 
-## Paramount in talks to settle antitrust lawsuit blocking WBD deal - Financial Times
+## Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzRma0VEM2VyTHpCQzg1Z1k1RmVsUXhES25JcVMydUFkS216MnVTcHhQX3lhaVd4bC1rZnVDOFZtOE9Rb3ZIT2J0ckRLX3ByU0doLVhxZ3NTTFBYVXpGem9sQUNTdkVNS1VPOU5zZHBOZ1h5cjI5VGlha3R0Q2xyVC1hN2E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHlWc1I1bW5JN243Qk1QaERIaktRX05iTFZwTTB2ZVpSRnRDdGlEaHFlZ2lHMzVnRzZkUEw0Y0l1allHbjRZeVRKM0lYY0oxZDhjWXpHb3Uxb0poTEhjN3BvU3h2Uk0ydlFvdEVxRjc0Mkx0WUpzVGZNSnlDWjdwMldfR3k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzRma0VEM2VyTHpCQzg1Z1k1RmVsUXhES25JcVMydUFkS216MnVTcHhQX3lhaVd4bC1rZnVDOFZtOE9Rb3ZIT2J0ckRLX3ByU0doLVhxZ3NTTFBYVXpGem9sQUNTdkVNS1VPOU5zZHBOZ1h5cjI5VGlha3R0Q2xyVC1hN2E?oc=5" target="_blank">Paramount in talks to settle antitrust lawsuit blocking WBD deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHlWc1I1bW5JN243Qk1QaERIaktRX05iTFZwTTB2ZVpSRnRDdGlEaHFlZ2lHMzVnRzZkUEw0Y0l1allHbjRZeVRKM0lYY0oxZDhjWXpHb3Uxb0poTEhjN3BvU3h2Uk0ydlFvdEVxRjc0Mkx0WUpzVGZNSnlDWjdwMldfR3k?oc=5" target="_blank">Investors warn Anthropic could struggle to sustain revenues post-IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -249,28 +249,15 @@ Sheeran has historically led some of the biggest tours in the world. His most re
 
 ---
 
-## Anthropic brings in Accenture for AI safety testing - Financial Times
+## Donald Trump says US has deal with Denmark for ‘control’ of Greenland’s security - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTBUbXMwUjMtRFlCLWhqNlJqLVlZeldiSHpWaHRWdXVHNkN6R1BDR1lJa2s5SzVTb1lRekFTZmRIeVFDU2FwMTRORmRJUjY3UUFvbmxhU3kzN3h0SlBUNjNtZWpGS21maVlONDFlU1JCRjhKTS00eUwwU3l4UHBucGdYUko?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZBZ1U3YXEzUkRNT29hOGNublZ1NTJlaUVTM292VlBhRmNzRjRneWg3Q2xlak1ZeVZzQmwtcWZoWWlzVjh3VEdDc3o4ejduSmhDN043elhEMjZhUUlSbGo2MXFobGJtaGw5dFB2OUt3QzB1ek9XT0thRm5Qamhzd0FCWjE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTBUbXMwUjMtRFlCLWhqNlJqLVlZeldiSHpWaHRWdXVHNkN6R1BDR1lJa2s5SzVTb1lRekFTZmRIeVFDU2FwMTRORmRJUjY3UUFvbmxhU3kzN3h0SlBUNjNtZWpGS21maVlONDFlU1JCRjhKTS00eUwwU3l4UHBucGdYUko?oc=5" target="_blank">Anthropic brings in Accenture for AI safety testing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Gavin Newsom advances AI ‘kill switch’ in response to safety fears - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQakdGeDFZWDh6d0NfeGJhWFUtSFFXZllzTDM0MmI4eTNGV2FBMXV6Zk9xOFdnT0E5UmVyWkpJalpFM2lzRDF6WDN4VUlaakJtemFBd2VRUmM3cVVVSURBejVrSkhHTTRhei1GSkUtbU5kZmlGTXlOZWdKTkZTV3kzWXNlZmg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQakdGeDFZWDh6d0NfeGJhWFUtSFFXZllzTDM0MmI4eTNGV2FBMXV6Zk9xOFdnT0E5UmVyWkpJalpFM2lzRDF6WDN4VUlaakJtemFBd2VRUmM3cVVVSURBejVrSkhHTTRhei1GSkUtbU5kZmlGTXlOZWdKTkZTV3kzWXNlZmg?oc=5" target="_blank">Gavin Newsom advances AI ‘kill switch’ in response to safety fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZBZ1U3YXEzUkRNT29hOGNublZ1NTJlaUVTM292VlBhRmNzRjRneWg3Q2xlak1ZeVZzQmwtcWZoWWlzVjh3VEdDc3o4ejduSmhDN043elhEMjZhUUlSbGo2MXFobGJtaGw5dFB2OUt3QzB1ek9XT0thRm5Qamhzd0FCWjE?oc=5" target="_blank">Donald Trump says US has deal with Denmark for ‘control’ of Greenland’s security</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -288,67 +275,80 @@ Sheeran has historically led some of the biggest tours in the world. His most re
 
 ---
 
-## EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters
+## Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2hWZ0RyVndiRUFjX01FYWIxdjIxbHMxUWRsMEJab09tWUVKZTU4TGVXcENTNDY0dUlKR0tadzdodTZYQWI1UjlPdGZ5RnhOcWpLOGs0UDVmRERiUEVLUG9tb0ZuRWpWUlhvclVJME9kd29GNnZYZmVXalZWdW5ZNHpvOWg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5" target="_blank">EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2hWZ0RyVndiRUFjX01FYWIxdjIxbHMxUWRsMEJab09tWUVKZTU4TGVXcENTNDY0dUlKR0tadzdodTZYQWI1UjlPdGZ5RnhOcWpLOGs0UDVmRERiUEVLUG9tb0ZuRWpWUlhvclVJME9kd29GNnZYZmVXalZWdW5ZNHpvOWg?oc=5" target="_blank">Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades - Reuters
+## Flames, black smoke seen near Riyadh airport, eyewitness says - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVhEVEhONEZLVTN1Q0NyUzZwOXdIS3JLY0VVMVhabU40LV96QjY3d3A5M3NNTElCTy1SdzFFSVIyOEhxWW1OMUxKM1hHUFc0UDNnaXpLRlBPR2VhZkdsWVktOWtCSWxTUWhYV1FFcnN6c3A1WVVoc192OWNJSWhJQnc0U1QwZ1ZtRXd2a0hlNkJJMVVrckJpSXFlZzJDNVhUTVI5RWtGcVd6SW01UHNEWk9lMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5" target="_blank">US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVhEVEhONEZLVTN1Q0NyUzZwOXdIS3JLY0VVMVhabU40LV96QjY3d3A5M3NNTElCTy1SdzFFSVIyOEhxWW1OMUxKM1hHUFc0UDNnaXpLRlBPR2VhZkdsWVktOWtCSWxTUWhYV1FFcnN6c3A1WVVoc192OWNJSWhJQnc0U1QwZ1ZtRXd2a0hlNkJJMVVrckJpSXFlZzJDNVhUTVI5RWtGcVd6SW01UHNEWk9lMA?oc=5" target="_blank">Flames, black smoke seen near Riyadh airport, eyewitness says</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## EXCLUSIVE: Paramount could settle with states over Warner Bros. as soon as this weekend, sources say - Reuters
+## Greenland, Denmark say US deal will not cede sovereignty - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2pYS0hPRy14UHpMOG52MzdmUjgyRTljSTFKeVhic0pJUGFkamVyT29JTE5kZ2hvU1o3bTdyQzhkZEtDSzlkZm9UZS1EZHgtWkpmM01zQ1BTQ19HYzFPS2xlY2QxV1FWZ3owWTdLUmVxMllzY0pfZ2YwU1ZodlB2SElINWxQZVI5QkpkLTBxSTMwWXh2OHZwN0VwQS1HTmZTUTJ0cnVTbUVOZmV0QmdfeU1uekRWeFROSDQyc18yVVprOXdKZzBBY1p4M2xJSkk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2pYS0hPRy14UHpMOG52MzdmUjgyRTljSTFKeVhic0pJUGFkamVyT29JTE5kZ2hvU1o3bTdyQzhkZEtDSzlkZm9UZS1EZHgtWkpmM01zQ1BTQ19HYzFPS2xlY2QxV1FWZ3owWTdLUmVxMllzY0pfZ2YwU1ZodlB2SElINWxQZVI5QkpkLTBxSTMwWXh2OHZwN0VwQS1HTmZTUTJ0cnVTbUVOZmV0QmdfeU1uekRWeFROSDQyc18yVVprOXdKZzBBY1p4M2xJSkk?oc=5" target="_blank">EXCLUSIVE: Paramount could settle with states over Warner Bros. as soon as this weekend, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5" target="_blank">Greenland, Denmark say US deal will not cede sovereignty</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Gemini hacked three companies in first known breakout by Google's AI - Reuters
+## IMF tells EU ministers AI could boost growth but increase economic strains - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2lXSXpMMndMb252WEs4QzA5enZuMFJQWm03MnV5TlgxM0Z6dm1ZZGYzdEk1OUplWjFuYTdUMGxLUlpfSkZ2SWNuUWJEaVpPWmpSV3ZPUW94NHNrZzdsYVN6ZzJaTVdhZVFiUnpiVnFVbnh1ME5EVGVPSkt5VmRVdEVrd0pfM1NRRm9YYjA4R0RhSW1SSTlXYjlCajMyZXZFX08wZ2ZmY2tnQUtEM2pYRTFQNmRydw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5" target="_blank">Gemini hacked three companies in first known breakout by Google's AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2lXSXpMMndMb252WEs4QzA5enZuMFJQWm03MnV5TlgxM0Z6dm1ZZGYzdEk1OUplWjFuYTdUMGxLUlpfSkZ2SWNuUWJEaVpPWmpSV3ZPUW94NHNrZzdsYVN6ZzJaTVdhZVFiUnpiVnFVbnh1ME5EVGVPSkt5VmRVdEVrd0pfM1NRRm9YYjA4R0RhSW1SSTlXYjlCajMyZXZFX08wZ2ZmY2tnQUtEM2pYRTFQNmRydw?oc=5" target="_blank">IMF tells EU ministers AI could boost growth but increase economic strains</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
 
-## Trump declines to say whether he will tear down Kennedy Center - Reuters
+## Porsche could face another 4,000 job cuts, Handelsblatt reports - reuters.com
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGlSWk9aVU1zU0J2UXk5LTlSZGxVbm1qYmFUMVJLVk9WeVZpMm5oU1FYdWczZ1pGV0dJNlhyMVlLWEtNdGhyRnhLeXpqNElzQkNSc1h6V3VDY3ByNFoxZ01TTlY2SDE3YWZmaV9WSjg3Tjk3SDNZTWxNMEdkbVdrNm1kZ1FLZUtOZ3VRT3BHWnNnTnpLVmp6R1ZibmdEaGc4M3YzZjlXVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3k3ZTJIT1kwS0JvVlM4eGc5QVV3TmhlNDFSMW85TlhDYTFqSTdYWFhPTl84QjUwVTNQaEgtNExRWnVtRklmeUdDLVlmc2JacTlWSGpseDAxbVo1VWU3MkpZd0UzWkJmdE9KQkhkQjFZWC1YbGlRMC1zTkQ3REtNOUVva092RFZUc2RWdERpRVVLOURZcFpsbXVDZEJCMDFtTTJNbzBOYWExZXpQU3lmMlREOTJlMUVFd090NA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGlSWk9aVU1zU0J2UXk5LTlSZGxVbm1qYmFUMVJLVk9WeVZpMm5oU1FYdWczZ1pGV0dJNlhyMVlLWEtNdGhyRnhLeXpqNElzQkNSc1h6V3VDY3ByNFoxZ01TTlY2SDE3YWZmaV9WSjg3Tjk3SDNZTWxNMEdkbVdrNm1kZ1FLZUtOZ3VRT3BHWnNnTnpLVmp6R1ZibmdEaGc4M3YzZjlXVQ?oc=5" target="_blank">Trump declines to say whether he will tear down Kennedy Center</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3k3ZTJIT1kwS0JvVlM4eGc5QVV3TmhlNDFSMW85TlhDYTFqSTdYWFhPTl84QjUwVTNQaEgtNExRWnVtRklmeUdDLVlmc2JacTlWSGpseDAxbVo1VWU3MkpZd0UzWkJmdE9KQkhkQjFZWC1YbGlRMC1zTkQ3REtNOUVva092RFZUc2RWdERpRVVLOURZcFpsbXVDZEJCMDFtTTJNbzBOYWExZXpQU3lmMlREOTJlMUVFd090NA?oc=5" target="_blank">Porsche could face another 4,000 job cuts, Handelsblatt reports</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+
+
+---
+
+## Russia reports online attacks on electoral system on second day of parliamentary vote - reuters.com
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjhnX1U4Y1h3LXgzS1FVRjg1X2xNR3BfU3FQbk9MT3ZrZG9BSFFGQ3FyUzM4Szk5cV94VWNUd0hkckRZNVVjMTBuak0wUXdMenJ0WHd3WXZaQnZaT3lyY2N5NkV3UzlNRzNvc1BkYWdCZjhiMmVTOG03czV3LTJfeGVJSUpkdHVWTE1kU0kzXzNQZFVXTmh2d29oa0JLNDFzblhVRGtvQURpd013NVpldHhSV1NJYk1kZjNpdVY0aHhnODA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjhnX1U4Y1h3LXgzS1FVRjg1X2xNR3BfU3FQbk9MT3ZrZG9BSFFGQ3FyUzM4Szk5cV94VWNUd0hkckRZNVVjMTBuak0wUXdMenJ0WHd3WXZaQnZaT3lyY2N5NkV3UzlNRzNvc1BkYWdCZjhiMmVTOG03czV3LTJfeGVJSUpkdHVWTE1kU0kzXzNQZFVXTmh2d29oa0JLNDFzblhVRGtvQURpd013NVpldHhSV1NJYk1kZjNpdVY0aHhnODA?oc=5" target="_blank">Russia reports online attacks on electoral system on second day of parliamentary vote</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
 
 
 ---
