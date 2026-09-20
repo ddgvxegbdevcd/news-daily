@@ -1,68 +1,190 @@
 # 每日财经新闻
 
-更新时间：2026-09-20 04:24:03
+更新时间：2026-09-20 15:48:29
 
-## Heavy Rain Disrupts Trains in Japan as Tropical Storm Approaches
+## Rubio Takes on Expansive Foreign Policy Role
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-20/heavy-rain-disrupts-trains-in-japan-as-tropical-storm-approaches
+链接：https://www.bloomberg.com/news/videos/2026-09-20/rubio-takes-on-expansive-foreign-policy-role-video
 
 正文长度：0
 
-摘要：The approaching tropical cyclone Dujuan could cause suspensions and delays on train lines in the greater Tokyo area, with possible disruptions from as early as Sunday evening through Tuesday morning, major operator East Japan Railway Co. warned.
+摘要：Bloomberg News State Department reporter Eric Martin joins Bloomberg This Weekend and says Secretary of State Marco Rubio has embraced an unusually broad portfolio in the Trump administration, simultaneously serving as national security adviser while taking leading roles on Venezuela, Cuba and other foreign-policy priorities. Martin tells hosts David Gura and Christina Ruffini that Rubio has largely worked behind the scenes on Iran while adapting his positions to his executive-branch role, a shift examined in Bloomberg Businessweek’s recent profile of the secretary.
+
+At the 2026 Qatar Economic Forum, UNGA Special Edition; Powered by Bloomberg. (Source: Bloomberg)
 
 
 ---
 
-## Australia Home Auction Clearance Rates Fall Amid Rate Hike Fears
+## Can India Turn Its Promise Into Prosperity?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-20/australia-home-auction-clearance-rates-fall-amid-rate-hike-fears
+链接：https://www.bloomberg.com/news/videos/2026-09-19/can-india-turn-its-promise-into-prosperity
 
 正文长度：0
 
-摘要：Australia’s residential real estate market remained subdued with auction clearance rates falling this week as concerns the central bank will increase interest rates later this month grow, according to property researcher Cotality.
+摘要：Blackstone COO Jon Gray says India’s young population, expanding middle class and improving infrastructure are drawing interest from global investors. But India’s demographic advantage also creates pressure: millions of young people graduate every year, while formal-sector job creation has not kept pace with their skills and expectations. At the same time, Indian states are competing aggressively for investment by cutting regulatory barriers, building industrial infrastructure and targeting sectors from electronics to semiconductors. The question is whether India can turn its scale, talent and investment momentum into enough productive jobs to sustain its growth. This version corrects a map of India. (Source: Bloomberg)
 
 
 ---
 
-## Venezuela, TotalEnergies Pave Way for Oil Company’s Return
+## QEF UNGA Edition Prime Minister Opening Speech
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-20/venezuela-totalenergies-pave-way-for-oil-company-s-return
+链接：https://www.bloomberg.com/news/videos/2026-09-20/qef-unga-edition-prime-minister-opening-speech-video
 
 正文长度：0
 
-摘要：Venezuela and TotalEnergies SE signed a memorandum of understanding on Saturday, setting up the French company for a return to operations in the South American country.
+摘要：H.E. Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Prime Minister & Minister of Foreign Affairs for the State of Qatar opens the Qatar Economic Forum UNGA Special Edition in New York in 2026, announcing Doha Investment. (Source: Bloomberg)
 
 
 ---
 
-## Hormuz Oil Shipments Hit Six-Month High, US Commander Says
+## How Prediction Markets Upstaged Election Polls
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says
+链接：https://www.bloomberg.com/news/articles/2026-09-20/how-prediction-markets-upstaged-election-polls
 
 正文长度：0
 
-摘要：Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “paying off,” a regional US commander said.
+摘要：<p>Voters, donors and media increasingly use the betting platforms Kalshi and Polymarket to forecast election outcomes. Critics warn of new risks to democracy.</p>
 
 
 ---
 
-## Companies Avoid Selling the Bonds Investors Crave: Credit Weekly
+## Qatar Economic Forum UNGA Edition Opening
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-09-20/qatar-economic-forum-unga-edition-opening-video
 
 正文长度：0
 
-摘要：Investors are clamoring for the kind of debt companies are reluctant to sell now: longer-term bonds.
+摘要：Michael R. Bloomberg, Founder of Bloomberg L.P. & Bloomberg Philanthropies welcomes leaders to discuss capital, risk and resilience at the Qatar Economic Forum UNGA Special Edition in New York in 2026. (Source: Bloomberg)
+
+
+---
+
+## ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html
+
+正文长度：8149
+
+摘要：Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.
+For American companies large and small, the combination of tariffs imposed under President Donald Trump's trade policies, surging fuel prices from the Iran war and, now, rising interest rates is forcing executives to make tough choices.
+Allen Eden has been holding onto extra inventory for his 25-person business, the Original Saw Co. in Britt, Iowa, which makes industrial power saws for wood and metalwork, as he grapples with spiking prices for aluminum, steel and essential parts.
+One example: A "little bracket" used for his saw motors more than doubled in price this summer, surging to $87 from $42, he said.
+"It's awful," Eden, 56, told CNBC. "[I'm] just trying to keep more of the stuff around because I don't know if we can get it down the road."
+It's a three-way squeeze for businesses across manufacturing, transportation and retail: Tariffs are making raw materials and goods more expensive. Higher fuel prices are pushing up the cost of making and moving them. And rising rates are making it more expensive to finance the inventory and equipment businesses need to keep running.
+While few sectors are completely insulated from these pressures, middle-market manufacturers are caught in a particularly tight vise. Rising steel and fuel costs are forcing them to pass at least some of those expenses on through higher prices, helping feed the stubborn inflation of the past few years.
+But to wrangle inflation, the Federal Reserve raised interest rates for the first time in three years and signaled another hike is possible this year. That makes it more expensive for businesses to finance inventory and borrow for growth at the same time that higher input costs and record prices for diesel, which is used for trucking, squeeze margins.
+Price increases for Eden's saws, sold both to megaretailers like Home Depot and directly to small- and medium-sized manufacturers, look inevitable, the business owner said.
+The pain isn't being evenly distributed. Smaller companies typically rely on shorter-term lending, meaning Fed hikes pass more directly into their costs, JPMorgan Chase global strategy head Dubravko Lakos-Bujas said in a Sept. 14 note.
+But regardless of size, capital-intensive sectors like manufacturing and equipment suppliers, logistics firms including trucking fleets, and commercial real estate also suffer more in a rising-rate environment, according to Lakos-Bujas.
+"The combination of higher rates and higher fuel prices means that sectors with heavy exposure to both are first in the line of fire," said Gregory Daco, chief economist at EY-Parthenon, the global consulting arm of Ernst & Young.
+"Any type of manufacturing is going to be disproportionately exposed to higher fuel prices," he said.
+Rising fuel and commodity costs have strained both material makers and the retailers they serve.
+Mark Costa, CEO of industrial giant Eastman Chemical, said in May that the one-two punch of interest rates and inflation was forcing his industry into a corner. Eastman makes the plastics, additives, and other materials used in products as diverse as medical devices, animal feed, and car windshields.
+"Everyone had their back against the wall and had no room to absorb these increases," Costa said. "Everyone is very quickly raising prices faster than I've ever seen in 20 years."
+On the retail side, unexpected pressure from energy and raw materials costs will "fully offset" the benefit of $730 million in tariff refunds, Home Depot CFO Richard McPhail said last month.
+"There's just so much uncertainty right now. … You think inflation, interest rates, fuel prices," McPhail said last week at a conference.
+Supply chain holes
+Among those hardest hit are manufacturers in the domestic automobile supply chain.
+Lucerne International, a privately held auto parts maker based in suburban Detroit, stopped manufacturing operations in the U.S. and canceled plans last year for a $50 million aluminum forging plant in Michigan.
+"The onset of the Trump tariffs 2.0 has just really torn holes in our global supply chains and increased costs significantly," Lucerne CEO Mary Buchzeiger said, citing higher costs for raw materials, including aluminum, as well as finished parts.
+Buchzeiger, whose firm still manufactures overseas, said she has shifted U.S. operations to warehousing, distribution, and tariff-mitigation solutions for other companies, which offer "much better margins."
+"There's no doubt that there's margin pressure for suppliers," Paul McCarthy, CEO of vehicle supplier trade association MEMA, said. "Some of it, we try to absorb … and then some of it does have to be passed on."
+Growth, as measured by earnings before interest and taxes for the top 100 auto suppliers, fell last year to 4.2%, down from more than 6% in 2021, according to consulting firm Berylls by AlixPartners. Among the top 10 automakers, that figure is 5.2%, down from nearly 8% in 2022.
+Not all auto companies have managed the additional costs. Spanish auto parts maker Grupo Antolin, which supplies components to automakers including Ford, GM, Volkswagen and Stellantis, filed for Chapter 15 bankruptcy protection in the U.S. in July. The company cited tariffs, higher raw-material and energy costs, and supply-chain disruptions as reasons for its restructuring.
+Divide in corporate America
+Better off are the giants of the corporate world, like the tech and finance companies that fill the S&P 500. These firms typically have more cash reserves and take out long-term debt, insulating them somewhat from the sting of higher rates.
+Most larger companies can thrive until borrowing costs rise much further. The pain would hit when the yield on the 10-year Treasury bond reaches 6%, up from around 5% now, according to JPMorgan's Lakos-Bujas, who cited 80 years of data.
+Borrowing costs are expected to stay higher for longer. Persistent inflation, which forced Warsh to raise the benchmark Fed rate against Trump's wishes, along with heavy borrowing from the U.S. government, is keeping upward pressure on rates.
+Across corporate America, companies are grappling with these shocks in different ways. The divide comes down to one question: Who has pricing power?
+Some industries have learned they can readily pass higher costs on to consumers, while others are caught in a catch-22: If they raise prices too much, they risk destroying demand.
+Airline executives last week boasted of higher fares as customers keep booking trips, especially abroad, allowing them to pass increased fuel costs on to travelers. Airlines scaled back growth plans, cutting less profitable flights even after the collapse of Spirit Airlines this year.
+Fewer flights can mean pricier airline tickets, and fares were up more than 23% in August from last year, according to the latest inflation read. Yet even strong demand has its limits.
+"The consumer has been incredibly, incredibly resilient," United Chief Financial Officer Mike Leskinen said Wednesday during a Morgan Stanley conference in Laguna Beach, California.
+"But there's some marginal routes that don't make sense in a higher fuel environment. So we cut them," Leskinen said. "You should see us continue to ... behave that way."
+Much of corporate America remains resilient despite higher fuel and financing costs. Profit margins for major companies hover near historic highs, propelled by strong productivity gains, labor costs that have stayed in check and surging artificial intelligence investment that is driving growth.
+But a risk of Warsh's efforts is that higher rates don't directly address the root causes of inflation: the Iran war, the Trump administration's tariffs, and the AI boom, which has driven up the prices for everything required to build and run data centers, from electricity to memory chips, copper, and land.
+Raising rates to tap the brakes on the U.S. economy could slow it down too much, or send stocks into a tailspin, said EY-Parthenon's Daco.
+"The economy is resilient, but it's exposed to growing pockets of risk," he said. "A shock could materialize faster than we all think."
+
+</details>
+
+
+---
+
+## Budget airline king Bill Franke warms to first-class seats and premium upgrades
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html
+
+正文长度：8278
+
+摘要：Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> SCOTTSDALE, Ariz. — For decades, William Augustus Franke, Frontier Airlines' chairman and a serial airline investor, made a killing selling cheap plane tickets and charging fees to check bags, to pick seats and for everything else. Now, he says first-class seats and other traveler comforts are in order — at least in the United States.
+Frontier is planning to roll out first-class seats next year on its Airbus fleet. It's also joined a growing list of airlines adding SpaceX's Starlink Wi-Fi on board as it seeks to return to steady profitability.
+"We're not trying to have a Singapore Airlines first class," Franke, 89, told CNBC in late June at the model airplane-filled offices of Indigo Partners, the private equity firm he founded. "What we're trying to do is give the consumer an option," he said, calling it at once upscale and competitive.
+The ultra-low-cost airline model that Franke, who goes by Bill, pioneered has faced a reckoning in recent years. A jump in pilot salaries, maintenance costs and operating expenses, along with a boom in premium travel, have hit long-profitable and fast-growing budget carriers. Maintaining strong growth and keeping costs low were sacrosanct for that sector for years.
+Another pillar was not giving things away for free. At the 2017 Dubai Air Show, where he made a record Airbus aircraft order for the empire of airlines he invested in, Franke likened some consumers to teenagers and "spoiled brats," saying they expected to get low fares and what are now add-ons without paying for them, CNBC reported at the time.
+"They had been flying with all the amenities for ever and ever and that's what they think they ought to get," Franke said at the time.
+But since then, larger, more powerful rivals like United Airlines and Delta Air Lines have copied the model for their cheapest tickets. They've started offering bare-bones fare options and adding fees for everything else. This year, they even brought that pricing strategy to their first classes and plush, long-haul suites to increase revenue, stripping customers who choose that option of a free seat choice, among other restrictions.
+Franke has owned, operated or invested in budget airlines around the world, from Chile to Hungary to the Philippines to the U.S. He was an early investor in European budget carrier Ryanair.
+His legacy stretches across the airline industry: Many top airline executives, including the CEOs of United Airlines and American Airlines, worked under him earlier in their careers.
+Franke also ran Spirit Airlines until 2013, before becoming the chairman at Frontier at the end of that year.
+He tried to merge the two carriers in 2022 but Spirit shareholders voted for another offer, all cash, from JetBlue Airways. That deal fell apart after a federal court ruled it violated antitrust laws in January 2024.
+Struggling on its own, Spirit collapsed in May, the biggest U.S. airline failure in decades, leaving Frontier as the largest discounter in the country.
+Franke said he's far from out of the game and remains a major Frontier shareholder.
+"We see startup ideas probably one a month," he said.
+'They still focus on price'
+Franke started flying frequently when he was a little kid because his father worked for the State Department and was based in Paraguay.
+He said a lot has changed since. "Consumers are much smarter today" than they used to be, armed with new data and tools like artificial intelligence that help them better compare fares and options, he noted.
+"None of the airlines are quite sure what AI ... is going to do to your decision to book," he said.
+But "price and schedule are still at the top," Franke added.
+"For a lot of consumers, whether the ticket costs $200 or $125 is not going to be the decision-maker, but for a lot of people it is still," he continued. "Middle class, younger flyers, they still focus on price."
+But the ultra-low-cost and low-fare model has struggled in the United States. It's based on keeping costs minimal and maintaining rapid growth, both of which have been more difficult since the pandemic. Higher fuel prices since the start of the Iran war have been an added challenge.
+Spirit is the obvious casualty, with its CEO saying it "ran out of runway" after facing increasing challenges, but Frontier has only been profitable one year since 2019 and JetBlue hasn't been profitable since that year.
+"We're not forecasting next year, but the airline is certainly on the right trajectory to return to sustainable profitability," Frontier CEO Jimmy Dempsey said on a July 29 earnings call. He became the carrier's chief executive in December, succeeding Barry Biffle who headed the airline for close to a decade.
+Airlines, including Frontier, have been jacking up fares to cover costs. August airfares were up more than 23% over last year, according to federal data released Sept. 11.
+Frontier isn't alone in wanting to add pricier and roomier seats. Allegiant Air recently announced it would add a first class to its currently single-cabin planes, and JetBlue Airways is adding a domestic first class. Meanwhile, larger competitors are growing their premium cabins.
+Franke said the new upscale moves don't fit everywhere, and that efficiency remains key.
+"In the U.S. market where you have mature large airlines — Delta, United, American — who are changing the interior of their aircraft on a regular basis, it could well be that a low-cost or a lower-cost airline, in order to properly compete, needs to make adjustments to its business model," he said. "That doesn't mean you have to do that in an emerging market like Hungary or Peru."
+All roads lead to Tempe
+Franke's legacy extends beyond the low-cost model. Many of the leaders of the modern U.S. airline industry can trace their roots back to Franke and to Tempe, Arizona, where America West — which through mega-mergers evolved into modern-day American Airlines — was based.
+Franke, who had studied and practiced law, got into the airline business more than 30 years ago. The then governor of Arizona tapped him to save America West when it was mired in bankruptcy in the early 1990s and he became chief executive in 1993.
+His proteges include American Airlines CEO Robert Isom; Isom's predecessor, former American Chief Executive Doug Parker; and United Airlines CEO Scott Kirby.
+Franke's former employees told CNBC that they keep up with him regularly.
+Isom told CNBC in an interview in late June that Franke is "pretty good at giving jabs." For many years, they would bet on college football, specifically, games between Stanford University, where Franke studied, and Notre Dame, where Isom studied.
+"His rule was fast pay makes fast friends," Isom recalled, showing CNBC some of his winnings: Chilean pesos with Franke's business card attached by paperclip and, in another win by Isom, euro coins taped to a sheet of paper with "PAID IN FULL" written out by his former boss.
+Kirby told CNBC at an industry conference in Rio de Janeiro in June that after The Wall Street Journal profiled him this spring, Franke told him it made him "throw up in his coffee when he opened his newspaper." Franke didn't comment on that, but said he recalled the exchange.
+Even still, Kirby called Franke a mentor, and clarified that he was "a hard-ass mentor."
+"All of us, our formative years were working for Bill, getting screamed at by Bill. ... He should take more credit for that," he said. (Franke said he didn't yell at him. "That's just not me.")
+Franke was demanding, especially when it counted, his alumni said.
+Steve Johnson, American Airlines vice chair and chief strategy officer, and another Franke America West alum, likened Franke to a second father.
+Johnson was a partner from 2003 to 2009 at Indigo when it owned Spirit. During the summer 2008 fuel spike that saw prices hit more than $147 a barrel (more than $200 in today's dollars), Spirit was running out of money but had a portfolio of fuel hedges, a series of contracts that locks in future pricing.
+He was about to head to a California-bound plane that summer when Franke called him about the fuel and told him to "sell it now," Johnson recalled. They did and generated about $30 million. Oil prices later crashed.
+"It turned out to be just exactly what Spirit needed," Johnson said.
+
+</details>
 
 
 ---
@@ -153,202 +275,132 @@ Meritage estimated that its assets are valued at $10 million to $50 million, wit
 
 ---
 
-## Nike parts ways with Kylian Mbappé; soccer superstar signs with On
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html
-
-正文长度：2804
-
-摘要：Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> French soccer phenom Kylian Mbappé signed his new endorsement deal with On after Nike chose not to renew its deal with the international superstar, a person familiar with the matter told CNBC.
-Earlier Friday, the Swiss sportswear company On said it reached an agreement with Mbappé, marking the brand's first signing in football. The company also announced it named retired French star Thierry Henry as director of football.
-As Mbappé's contract ended in July, Nike felt it had benefitted from the prime years of his career and decided to use its endorsement money elsewhere, said the person, who asked not to be named because the discussions were private. The 27-year-old will be 31 when the 2030 World Cup kicks off.
-The move is another major change for Nike, which is trying to rebuild brand loyalty and product innovation under CEO Elliott Hill. The company's sluggish sales, particularly its struggles in China, have contributed to its stock falling about 50% in the past year.
-Meanwhile, it's a coup for On, which has branched more outside of its core running segment.
-Mbappé joined the swoosh in 2006, when he was still a child, and has since emerged as one of the sport's highest-profile stars. The Real Madrid star is the all-time leading scorer for Paris Saint-Germain, the French national team and the FIFA World Cup, and he won the tournament with France in 2018.
-In a statement, Mbappé said he was drawn to On by the opportunity to build something entirely new.
-"I want to bring my experience and perspective into what we create, push what's possible through innovation, and always stay true to the joy of football. We have a shared dream, and this is only the beginning," he said.
-On said it wants to bring a "fresh perspective" to the sport.
-"Football doesn't need another sportswear brand to do more of the same," said David Allemann, founder and co-CEO of On, in a statement. "Football needs new ideas and a challenge to what is possible.
-For years, Nike has represented many of the top soccer stars in the world, including Erling Haaland, Vinicius Junior, Alexia Putellas and Sam Kerr.
-Nike wished Mbappé well in a statement.
-"Over nearly two decades, we've shared moments that shaped the game and he has been an important part of Nike Football," the company said. "We are proud of what we achieved together on and off the pitch. As he moves into the next phase of his career, we wish him continued success for what comes next."
-In an analyst note assessing On's ambitions in the sport, Jefferies warned that football is one of the most expensive categories to enter and that "performance credibility cannot simply be bought."
-"We see parallels to [Under Armour's past partnership with Stephen Curry]: a star athlete who failed to establish the brand as a dominant player in the sport."
-
-</details>
-
-
----
-
-## Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html
-
-正文长度：3437
-
-摘要：Ticket prices are rising for Macklemore's upcoming solo concert after the rapper was removed from Ed Sheeran's tour for making pro-Palestine comments.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Macklemore's removal from Ed Sheeran's tour is having ripple effects on the ticket market.
-Ticket prices for an upcoming Macklemore performance are climbing after the rapper was dropped from the remainder of Sheeran's Loop tour for making pro-Palestine comments onstage earlier this month. Meanwhile, secondary market prices for the remainder of Sheeran's concerts have dipped.
-Resale prices for Macklemore's October concert at Red Rocks in Colorado are increasing this week, even though the performance was announced in March.
-"The get-in price [or the price for the cheapest available ticket] for that show is up 45% in the past 3 days, from $108 to $157," Keith Pagello, founder of price tracking company TicketData, said in a statement to CNBC on Thursday. "That's a surge we can say with confidence would not have happened absent this week's events."
-Macklemore said on social media on Monday that he was removed from the tour after stadium owners threatened to cancel shows following his pro-Palestinian remarks during a performance at MetLife Stadium in New Jersey on Sept. 4. He announced on Thursday that he will donate his $1 million in earnings from the tour to Palestinian aid organizations.
-All of Sheeran's other supporting acts, Finneas, Aaron Rowe, Beoga and Lukas Graham, said they would leave the tour after Macklemore's removal. It is unclear who will replace the performers.
-Following the Macklemore headlines, ticket prices for Sheeran's tour have decreased at nine of the ten remaining venues, according to TicketData which aggregates statistics from platforms including SeatGeek, Vivid Seats, Gametime, and StubHub.
-However, Pagello said the drops are normal and may not be related to the controversy.
-"Across the whole universe of concerts, more shows decline in price as the date approaches than rise," Pagello said.
-Ticket prices to Sheeran's North American concerts this summer dropped by an average of 22% in the final two weeks leading up to the show, according to Pagello.
-Pagello sees the amount of ticket resales to Sheeran's upcoming concerts as more significant.
-"There has been a clear uptick in resale volume: since Monday, tickets have been selling at a slight to moderately increased pace compared to earlier tour stops at the same distance out, even with prices trending down," Pagello said.
-While more tickets are changing hands, it's unclear how much of the trend relates to opposition to Sheeran, support of him or other factors.
-Sheeran maintained that Macklemore's removal was the promoter's decision and not his own in an Instagram post Wednesday. He also justified his decision to not speak publicly about his personal beliefs.
-"I have always used my platform and music to bring people from all backgrounds and cultures together and this won't ever change," he wrote. "There is a reason I do not use my professional platform for politics – my audience includes young people, often children, of all backgrounds. Those who come to my shows do not expect a political forum."
-The concert promoting Sheeran's eighth album "Play" kicked off late last year in New Zealand. The February leg in Australia was the high-grossing tour in the world that month, bringing in $70.8 million, according to Billboard.
-Sheeran has historically led some of the biggest tours in the world. His most recent tour, which wrapped last year, grossed $875.7 million and sold 8.8 million tickets, according to Billboard.
-
-</details>
-
-
----
-
-## Investors warn Anthropic could struggle to sustain revenues post-IPO - ft.com
+## Russia’s new air campaign seeks to destroy Ukrainian economy - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHlWc1I1bW5JN243Qk1QaERIaktRX05iTFZwTTB2ZVpSRnRDdGlEaHFlZ2lHMzVnRzZkUEw0Y0l1allHbjRZeVRKM0lYY0oxZDhjWXpHb3Uxb0poTEhjN3BvU3h2Uk0ydlFvdEVxRjc0Mkx0WUpzVGZNSnlDWjdwMldfR3k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVE5TZ05ia3RYOXZRMzhhMmU1SE8yOS1qQnNKRjhiMk9zUjluSVJxY1d5TlVsUXZVVXZSc0k1NVZleE14MFluMldLakk2dWZxcTZhVmZ6eTFOUjlURFVycTBFVnBxX2lXekFIRjJteFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHlWc1I1bW5JN243Qk1QaERIaktRX05iTFZwTTB2ZVpSRnRDdGlEaHFlZ2lHMzVnRzZkUEw0Y0l1allHbjRZeVRKM0lYY0oxZDhjWXpHb3Uxb0poTEhjN3BvU3h2Uk0ydlFvdEVxRjc0Mkx0WUpzVGZNSnlDWjdwMldfR3k?oc=5" target="_blank">Investors warn Anthropic could struggle to sustain revenues post-IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVE5TZ05ia3RYOXZRMzhhMmU1SE8yOS1qQnNKRjhiMk9zUjluSVJxY1d5TlVsUXZVVXZSc0k1NVZleE14MFluMldLakk2dWZxcTZhVmZ6eTFOUjlURFVycTBFVnBxX2lXekFIRjJteFA?oc=5" target="_blank">Russia’s new air campaign seeks to destroy Ukrainian economy</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Oracle’s $18bn data centre debt under strain amid local pushback - ft.com
+## Saudi Arabia quits China-led cross-border currency platform - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlVmT1Z4WkZXUlB4Q0xwNUxkVFRtbTdlaXNKNVdzWkRvNU41c3BHS1RRYWJZbnBaTVQwYTgyeGlKbE8taVBrTGRKRU5LVENqUXltTU96dTZMTllvWjZiejB0YV9KUUxhYmpBVUJpSDBlLWozUHEwVnJyWWJQTVNjVUExQTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnRTa2luWWxsRVE0YjhyaE5xM2lNeEp0VW43LXhDMmVUbXVKakVfem9kQnZZUVVhTTVHbWtSOEZjaDFGUXpJdWVkYkdrd1djd2w3U1hGOVJOTjhLaEhTWWhUSVc5QS1wb1o5U3djZi1leDByMUZQbTdGdGhUSHdkckYyaUo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlVmT1Z4WkZXUlB4Q0xwNUxkVFRtbTdlaXNKNVdzWkRvNU41c3BHS1RRYWJZbnBaTVQwYTgyeGlKbE8taVBrTGRKRU5LVENqUXltTU96dTZMTllvWjZiejB0YV9KUUxhYmpBVUJpSDBlLWozUHEwVnJyWWJQTVNjVUExQTQ?oc=5" target="_blank">Oracle’s $18bn data centre debt under strain amid local pushback</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnRTa2luWWxsRVE0YjhyaE5xM2lNeEp0VW43LXhDMmVUbXVKakVfem9kQnZZUVVhTTVHbWtSOEZjaDFGUXpJdWVkYkdrd1djd2w3U1hGOVJOTjhLaEhTWWhUSVc5QS1wb1o5U3djZi1leDByMUZQbTdGdGhUSHdkckYyaUo?oc=5" target="_blank">Saudi Arabia quits China-led cross-border currency platform</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Donald Trump says US has deal with Denmark for ‘control’ of Greenland’s security - ft.com
+## Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZBZ1U3YXEzUkRNT29hOGNublZ1NTJlaUVTM292VlBhRmNzRjRneWg3Q2xlak1ZeVZzQmwtcWZoWWlzVjh3VEdDc3o4ejduSmhDN043elhEMjZhUUlSbGo2MXFobGJtaGw5dFB2OUt3QzB1ek9XT0thRm5Qamhzd0FCWjE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZBZ1U3YXEzUkRNT29hOGNublZ1NTJlaUVTM292VlBhRmNzRjRneWg3Q2xlak1ZeVZzQmwtcWZoWWlzVjh3VEdDc3o4ejduSmhDN043elhEMjZhUUlSbGo2MXFobGJtaGw5dFB2OUt3QzB1ek9XT0thRm5Qamhzd0FCWjE?oc=5" target="_blank">Donald Trump says US has deal with Denmark for ‘control’ of Greenland’s security</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5" target="_blank">Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets - ft.com
+## Ukraine hits Moscow with ‘largest ever’ drone attack - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2hWZ0RyVndiRUFjX01FYWIxdjIxbHMxUWRsMEJab09tWUVKZTU4TGVXcENTNDY0dUlKR0tadzdodTZYQWI1UjlPdGZ5RnhOcWpLOGs0UDVmRERiUEVLUG9tb0ZuRWpWUlhvclVJME9kd29GNnZYZmVXalZWdW5ZNHpvOWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTlsM0tXcndOS042dmZrNTJzUV8yNWtxSng2QXJ1US1Tdy1menI4N1VhX05wNWo3enZOcUV5ZzZZV2w5TlFUSnFwai15MzJoQmZIVk1GYUh5Z0MxazljVm1hc2hrQ1BUWUNiRnMwMkZsVmk0V1N6UjZSYnFWWldSd0w1a18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2hWZ0RyVndiRUFjX01FYWIxdjIxbHMxUWRsMEJab09tWUVKZTU4TGVXcENTNDY0dUlKR0tadzdodTZYQWI1UjlPdGZ5RnhOcWpLOGs0UDVmRERiUEVLUG9tb0ZuRWpWUlhvclVJME9kd29GNnZYZmVXalZWdW5ZNHpvOWg?oc=5" target="_blank">Abdulmalik al-Houthi, the Yemeni rebel leader spooking oil markets</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTlsM0tXcndOS042dmZrNTJzUV8yNWtxSng2QXJ1US1Tdy1menI4N1VhX05wNWo3enZOcUV5ZzZZV2w5TlFUSnFwai15MzJoQmZIVk1GYUh5Z0MxazljVm1hc2hrQ1BUWUNiRnMwMkZsVmk0V1N6UjZSYnFWWldSd0w1a18?oc=5" target="_blank">Ukraine hits Moscow with ‘largest ever’ drone attack</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## OpenAI expects to burn $280bn by 2030 - ft.com
+## India gets hooked on ‘snackable’ micro-dramas - ft.com
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFJUYnM1WGQ5aHhEU0FMdHRPbjkzSWI4UnNHTkRESlJ6OURsTlNzN25fWWsyTHhHcGpSM0xQZXVuU1FtRW1WNFZ6T3BJcXRNTWFoRlhZcktaVE1IUmZ4Ykkwc253em1Jai10dGxUbFk0d0t5VEUyemwtajF2MURaQnFKTW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0ZJQ29fNy1EUGg5bUFUT0xad1Nub1R3Q0lSLUVUOExSY3pTaV96cFVxaTJoQ0hXUDRxYm1aTkFJT29MclY1bk42eTdnNWY3emRwT0R5T0xaQ2N4aTlnN1k0S3FFSXdGNXhlcG5oYUp2U1dVbGFiN2F0WjVtbzB3THpCTWo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFJUYnM1WGQ5aHhEU0FMdHRPbjkzSWI4UnNHTkRESlJ6OURsTlNzN25fWWsyTHhHcGpSM0xQZXVuU1FtRW1WNFZ6T3BJcXRNTWFoRlhZcktaVE1IUmZ4Ykkwc253em1Jai10dGxUbFk0d0t5VEUyemwtajF2MURaQnFKTW8?oc=5" target="_blank">OpenAI expects to burn $280bn by 2030</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0ZJQ29fNy1EUGg5bUFUT0xad1Nub1R3Q0lSLUVUOExSY3pTaV96cFVxaTJoQ0hXUDRxYm1aTkFJT29MclY1bk42eTdnNWY3emRwT0R5T0xaQ2N4aTlnN1k0S3FFSXdGNXhlcG5oYUp2U1dVbGFiN2F0WjVtbzB3THpCTWo?oc=5" target="_blank">India gets hooked on ‘snackable’ micro-dramas</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## China keeps benchmark lending rates unchanged for 16th month in September - Reuters
+## Iran warns against new escalation by US and allies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5" target="_blank">China keeps benchmark lending rates unchanged for 16th month in September</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5" target="_blank">Iran warns against new escalation by US and allies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US says it killed four in strike on vessel in the Caribbean - Reuters
+## Italy to ban veils in schools, limit foreign students per class, Meloni says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3ZDNjluUlBlYTVDbFpkamRIZUdhVUNsTk5XUFZ0UzU5MmpUZ0NtZGs0NFNuWXJ6aUx1dnNsN2VMd1RuNGlfZTZUNklVQXRUa2R5a19wUGc0SmJ0SzlsSW9aRGRGTnExYkRYZXp3TGE5eThhekFRTlFKejdhZGRmbzRrdDYyM2dkNEFDMTl2bDNlX1pRUlUwTVZXQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3ZDNjluUlBlYTVDbFpkamRIZUdhVUNsTk5XUFZ0UzU5MmpUZ0NtZGs0NFNuWXJ6aUx1dnNsN2VMd1RuNGlfZTZUNklVQXRUa2R5a19wUGc0SmJ0SzlsSW9aRGRGTnExYkRYZXp3TGE5eThhekFRTlFKejdhZGRmbzRrdDYyM2dkNEFDMTl2bDNlX1pRUlUwTVZXQQ?oc=5" target="_blank">US says it killed four in strike on vessel in the Caribbean</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5" target="_blank">Italy to ban veils in schools, limit foreign students per class, Meloni says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters
+## Trump to use Washington triumphal arch as military complex - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5" target="_blank">Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5" target="_blank">Trump to use Washington triumphal arch as military complex</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkey says it could help meet Saudi military needs under defence pact - Reuters
+## Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVE03eUJ3dTJkVEpVNXZXT3dXZVVBT2Nzel9PSVVRSHBSOTEyRDB1UmxGcUlyTDR2WHo2MjdoZGp0Z1ozOU9RSEdLQTZqNWw0R1VyanNvY1NEWFlVeEgwT00zcWtDTUMzU3Rud25ZbDlrMDdPakJIWnItVjNGWWR5b1ZIRTR5WjRoMlIyWDg5dmhiYnlRVzctR3VNNXQzQWZaVGZiNTBKTk9pNkJmMGF2Y2M4Nk5wTGZDRG9IV1ZsWTdvREE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5" target="_blank">Turkey says it could help meet Saudi military needs under defence pact</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVE03eUJ3dTJkVEpVNXZXT3dXZVVBT2Nzel9PSVVRSHBSOTEyRDB1UmxGcUlyTDR2WHo2MjdoZGp0Z1ozOU9RSEdLQTZqNWw0R1VyanNvY1NEWFlVeEgwT00zcWtDTUMzU3Rud25ZbDlrMDdPakJIWnItVjNGWWR5b1ZIRTR5WjRoMlIyWDg5dmhiYnlRVzctR3VNNXQzQWZaVGZiNTBKTk9pNkJmMGF2Y2M4Nk5wTGZDRG9IV1ZsWTdvREE?oc=5" target="_blank">Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Slovak PM Fico says some in West seek war between Russia and NATO - Reuters
+## Luxembourg deploys additional detection assets following drone sightings - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5" target="_blank">Slovak PM Fico says some in West seek war between Russia and NATO</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5" target="_blank">Luxembourg deploys additional detection assets following drone sightings</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
