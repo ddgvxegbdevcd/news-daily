@@ -1,8 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-09-21 04:21:58
+更新时间：2026-09-21 18:05:58
 
-## Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap
+## AMC Is Overhauling Billions in Debt After Box Office Wins
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-21/amc-is-overhauling-billions-in-debt-after-box-office-successes
+
+正文长度：0
+
+摘要：AMC Entertainment Holdings Inc. is seeking to raise almost $4 billion of debt to overhaul much of its capital structure, seizing on a box-office recovery to lure investors.
+
+
+---
+
+## Radiant World Table Shows Six Lenders With $870 Million Exposure
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-21/radiant-world-table-shows-six-lenders-with-870-million-exposure
+
+正文长度：0
+
+摘要：Radiant World has disclosed $870 million outstanding to six creditors who financed its receivables, according to a spreadsheet included in a legal filing by the embattled commodity trader.
+
+
+---
+
+## Meta, Tech Stocks Push Indexes Higher as Oil Prices Slide
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips
+
+正文长度：0
+
+摘要：Strength in the tech sector spurred US stock benchmarks to extend gains midday Monday as oil prices slide and officials signaled optimism about a summit between US President Donald Trump and China’s Xi Jinping this week.
+
+
+---
+
+## Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap
 
 来源：彭博社
 
@@ -10,60 +49,158 @@
 
 正文长度：0
 
-摘要：Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this week. Oil fell for a fourth day.
+摘要：Stocks and bonds kicked off the week on a positive note as hopes for diplomatic efforts to end the war in Iran drove oil prices lower, easing inflation anxiety.
 
 
 ---
 
-## BofA's Cabana: Front-End Yields Face Repricing Risk
+## Stocks Climb on US-China Optimism, Copper's AI Bppm
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video
+链接：https://www.bloomberg.com/news/videos/2026-09-21/open-interest-9-21-2026-video
 
 正文长度：0
 
-摘要：Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodation. He spoke on the sidelines of the BofA APAC Conference in Hong Kong.
- (Source: Bloomberg)
+摘要：Get a jump start on the US trading day with Dani Burger and Michael Ball on "Bloomberg Open Interest." Stocks rally and oil drops as investors look to diplomacy, with President Trump and China’s Xi Jinping preparing for a high-stakes White House meeting later this week.
+Plus, inside Anthropic’s new AI safety partnership with Accenture, and Wall Street’s race to manage the risks and rewards of artificial intelligence.And legendary mining investor Robert Friedland joins us on why copper and rare earths are becoming the new front line in the US, China resource race. (Source: Bloomberg)
 
 
 ---
 
-## BlackRock's Vavrek: AI Hardware to Drive EM
+## Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/videos/2026-09-21/blackrock-s-vavrek-ai-hardware-to-drive-em-video
+链接：https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html
 
-正文长度：0
+正文长度：2570
 
-摘要：Egon Vavrek, Head of Emerging Markets at BlackRock, says AI hardware and the "picks-and-shovels" players serving hyperscalers will carry emerging markets forward. He spoke on the sidelines of the BofA APAC Conference in Hong Kong. (Source: Bloomberg)
+摘要：Eli Lilly is trying to catch up in the GLP-1 pill market to Novo, which got a head start in the space.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Eli Lilly CEO Dave Ricks told CNBC on Monday that one-third of new GLP-1 pill patients are taking the drugmaker's Foundayo, as the company tries to catch up to a lead in the space established by rival Novo.
+In an exclusive interview, he said the company's share of the oral market is growing week over week.
+"We're confident long term" about Lilly's place in the pill segment, Ricks said, especially as the company plans to launch Foundayo in more international markets in the coming months.
+Ricks spoke with CNBC in front of the roughly 240 acres of land that will eventually host Lilly's new $6.5 billion manufacturing facility at Generation Park in Houston, Texas. The company on Monday broke ground on the upcoming site nearly a year after first announcing it, and said it expects the plant to be operational by 2030.
+The facility will most notably produce Lilly's closely watched GLP-1 pill for obesity, Foundayo, which entered the U.S. market in April.
+But the plant will be responsible for manufacturing the active ingredients for Lilly's other small-molecule medicines across several disease areas, such as cardiometabolic health, oncology, immunology and neuroscience.
+His comments and the groundbreaking came as Novo shares fell after the company's long-term strategy failed to assuage investor concerns about its ability to compete with Lilly in the obesity and diabetes market. While Novo beat Lilly to releasing a pill, Lilly said in August that it held about a 61% share in the overall market in the second quarter.
+The production site is part of a string of new investments Lilly has funneled into reshoring manufacturing across the U.S. over the last year. In February 2025, Lilly committed to spending an additional $27 billion to build four new facilities, including the Houston site, in part to build goodwill with President Donald Trump.
+But Lilly has also emphasized manufacturing capacity as a key competitive advantage against its main rival Novo alongside its drug portfolio. Since 2020, the company has committed more than $50 billion to expanding its manufacturing network, positioning itself to meet growing demand for obesity and diabetes treatments while supporting future product launches.
+Demand for Foundayo is rising in the U.S. The company said in August that the pill booked $98 million in sales for the second quarter -- its first three-month period on the market. Medicare's new landmark coverage of obesity drugs, which began in July, is expected to open up more access to the pill and Lilly's blockbuster weight loss drug Zepbound.
+
+</details>
 
 
 ---
 
-## Gold Edges Lower as Traders Weigh Inflation and Fed Rate Path
+## Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook
+链接：https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html
 
-正文长度：0
+正文长度：3306
 
-摘要：Gold edged lower as traders weighed the risk of persistent inflation and the path for interest rates after the Federal Reserve’s first hike since 2023.
+摘要：The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Paramount Skydance's $110 billion merger with Warner Bros. Discovery will move forward as the company settled Monday with a group of state attorneys general that sought to block the deal on antitrust grounds.
+The lawsuit, brought by a group led by California's Rob Bonta, was previously set to head to trial in March and would have left the deal in limbo through mid-2027.
+Details of the agreement have yet to be made public. However, sources told Reuters that the settlement includes the creation of independent editorial boards for CNN and CBS and also stipulates a $30 million penalty per film if Paramount falls short of CEO David Ellison's pledge to release 30 movies annually.
+Spokespeople for Paramount and Bonta did not immediately respond to requests for comment.
+The acquisition would bring together two storied film studios, Paramount and Warner Bros. Discovery; a portfolio of TV networks; broadcast network CBS; and two popular streaming services in Paramount+ and HBO Max.
+The deal previously won approval from U.S. and other international regulators, and Paramount had told investors it expected to close the deal by Sept. 30.
+However, California and 11 other states filed suit in mid-July seeking to block the merger, citing antitrust concerns in film and pay TV.
+In July, Paramount agreed to delay the merger until June 2027 while the legal challenge played out. That delay would have proven costly for Paramount.
+As part of the merger agreement, Paramount agreed to a so-called ticking fee that would have kicked in after Sept. 30 and meant an additional 25 cents per share, per quarter to WBD shareholder until the transaction closed. The fee would have added an estimated $650 million per quarter in cash value to the deal.
+The Writers Guild of America sued to block the merger, too, citing "specific harm to writers." Many creatives throughout Hollywood, including actors, directors, producers and other crew members, penned open letters opposing the deal.
+California, the entertainment hub of the U.S., has suffered job losses after the industry shifted dramatically following the pandemic, as streaming has disrupted the traditional linear TV business and the theatrical film pipeline. Hollywood, as a result, is shooting fewer pilots, taking advantage of tax incentives in other states and countries and greenlighting fewer productions overall.
+One big sticking point around the deal for industry insiders is the fact that mergers in the past have drastically decreased the number of films released annually. The most recent example was the 2019 merger between Disney and 21st Century Fox. In the decade before Fox was acquired, the studio released between 13 and 23 films each year, while Disney put out between nine and 13 films. Since 2019, the highest combined release from the merged company has been 16, according to data from Rentrak.
+Theater owners and longtime industry players were skeptical that Paramount could deliver on Ellison's annual 30-film promise. After all, in the past 25 years, no studio has put out more than 25 wide releases in a single year. Ellison offered three-year contracts to cinema operators and at least one exhibitor signed that contract, which allowed the cinema chain to sue Paramount for monetary compensation if it did not fulfill its promise.
+
+</details>
 
 
 ---
 
-## Taiwan Forms First Global Entity to Tackle Disasters as China Squeezes its Space
+## FAA halts flights to Newark, Philadelphia, New York because of equipment problem
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-21/taiwan-forms-first-global-entity-to-tackle-disasters-as-china-squeezes-its-space
+链接：https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html
 
-正文长度：0
+正文长度：1719
 
-摘要：Taiwan’s government has launched an international organization for the first time, highlighting its efforts to push back at China’s growing campaign to isolate it on the global stage.
+摘要：An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> An equipment outage on Monday delayed hundreds of flights bound for Newark, New Jersey, and Philadelphia and forced close to 70 planes to divert to other airports. As of 1 p.m. ET, the disruptions had spread to New York City, where flights into LaGuardia Airport and John F. Kennedy International Airport were also halted by the Federal Aviation Administration.
+The FAA earlier halted flights into Newark Liberty International Airport, United Airlines' busiest international hub, as well as Philadelphia International Airport and New Jersey's Teterboro Airport "due to issues with some frequencies at Philadelphia TRACON."
+That Terminal Radar Approach Control, or TRACON, facility, guides planes in and out of Newark and Philadelphia.
+United waived flight change fees for travelers affected by the disruption.
+Roughly 250 flights in and out of Newark were delayed, more than a fifth of the day's schedule, according to FlightAware.
+As of about 1 p.m. ET, 67 flights bound for Newark were forced to divert, according to Flightradar24, including international flights from Iceland, Egypt, Greece, Spain and France.
+A United flight from Berlin diverted to Detroit Metropolitan Wayne County Airport, while an SAS flight from Stockholm bound for Newark was sent to Washington Dulles International Airport.
+Aging air traffic control equipment and technology issues have vexed airline executives for years. The Trump administration last year announced a multibillion-dollar overhaul of U.S. air traffic control equipment and resources.
+On Monday, the Transportation Department and FAA unveiled a new artificial intelligence-powered tool meant to analyze data to minimize flight delays, rolling it out first in Washington, D.C.
+
+</details>
+
+
+---
+
+## Nissan eyes increasing U.S. production as new Rogue hybrid launches
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html
+
+正文长度：5416
+
+摘要：Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
+"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
+The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
+Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
+U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
+In the meantime, Meunier said Nissan plans to import the hybrid vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
+Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
+Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
+"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
+Nissan e-Power
+Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
+The "e-Power" system is called a series hybrid.
+It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
+Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
+Nissan said Monday that the starting pricing of the Rogue hybrid will be between $35,490 for the entry-level model to $43,490 for a "Platinum" version.
+The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
+"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
+Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
+The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
+Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
+"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
+Nissan said the fuel economy for the Rogue hybrid will be 38 miles per gallon combined. That compares to the Toyota RAV4 hybrid at 43 miles mpg and the Honda CR-V at 40 mpg.
+Nissan turnaround
+Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
+Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
+The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
+For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
+After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
+"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."
+
+</details>
 
 
 ---
@@ -74,7 +211,7 @@
 
 链接：https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html
 
-正文长度：8149
+正文长度：8165
 
 摘要：Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
 
@@ -96,7 +233,7 @@ But regardless of size, capital-intensive sectors like manufacturing and equipme
 "Any type of manufacturing is going to be disproportionately exposed to higher fuel prices," he said.
 Rising fuel and commodity costs have strained both material makers and the retailers they serve.
 Mark Costa, CEO of industrial giant Eastman Chemical, said in May that the one-two punch of interest rates and inflation was forcing his industry into a corner. Eastman makes the plastics, additives, and other materials used in products as diverse as medical devices, animal feed, and car windshields.
-"Everyone had their back against the wall and had no room to absorb these increases," Costa said. "Everyone is very quickly raising prices faster than I've ever seen in 20 years."
+"Everyone had their back against the wall and had no room to absorb these increases," Costa said on Fox Business. "Everyone is very quickly raising prices faster than I've ever seen in 20 years."
 On the retail side, unexpected pressure from energy and raw materials costs will "fully offset" the benefit of $730 million in tariff refunds, Home Depot CFO Richard McPhail said last month.
 "There's just so much uncertainty right now. … You think inflation, interest rates, fuel prices," McPhail said last week at a conference.
 Supply chain holes
@@ -127,279 +264,132 @@ Raising rates to tap the brakes on the U.S. economy could slow it down too much,
 
 ---
 
-## Budget airline king Bill Franke warms to first-class seats and premium upgrades
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html
-
-正文长度：8278
-
-摘要：Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> SCOTTSDALE, Ariz. — For decades, William Augustus Franke, Frontier Airlines' chairman and a serial airline investor, made a killing selling cheap plane tickets and charging fees to check bags, to pick seats and for everything else. Now, he says first-class seats and other traveler comforts are in order — at least in the United States.
-Frontier is planning to roll out first-class seats next year on its Airbus fleet. It's also joined a growing list of airlines adding SpaceX's Starlink Wi-Fi on board as it seeks to return to steady profitability.
-"We're not trying to have a Singapore Airlines first class," Franke, 89, told CNBC in late June at the model airplane-filled offices of Indigo Partners, the private equity firm he founded. "What we're trying to do is give the consumer an option," he said, calling it at once upscale and competitive.
-The ultra-low-cost airline model that Franke, who goes by Bill, pioneered has faced a reckoning in recent years. A jump in pilot salaries, maintenance costs and operating expenses, along with a boom in premium travel, have hit long-profitable and fast-growing budget carriers. Maintaining strong growth and keeping costs low were sacrosanct for that sector for years.
-Another pillar was not giving things away for free. At the 2017 Dubai Air Show, where he made a record Airbus aircraft order for the empire of airlines he invested in, Franke likened some consumers to teenagers and "spoiled brats," saying they expected to get low fares and what are now add-ons without paying for them, CNBC reported at the time.
-"They had been flying with all the amenities for ever and ever and that's what they think they ought to get," Franke said at the time.
-But since then, larger, more powerful rivals like United Airlines and Delta Air Lines have copied the model for their cheapest tickets. They've started offering bare-bones fare options and adding fees for everything else. This year, they even brought that pricing strategy to their first classes and plush, long-haul suites to increase revenue, stripping customers who choose that option of a free seat choice, among other restrictions.
-Franke has owned, operated or invested in budget airlines around the world, from Chile to Hungary to the Philippines to the U.S. He was an early investor in European budget carrier Ryanair.
-His legacy stretches across the airline industry: Many top airline executives, including the CEOs of United Airlines and American Airlines, worked under him earlier in their careers.
-Franke also ran Spirit Airlines until 2013, before becoming the chairman at Frontier at the end of that year.
-He tried to merge the two carriers in 2022 but Spirit shareholders voted for another offer, all cash, from JetBlue Airways. That deal fell apart after a federal court ruled it violated antitrust laws in January 2024.
-Struggling on its own, Spirit collapsed in May, the biggest U.S. airline failure in decades, leaving Frontier as the largest discounter in the country.
-Franke said he's far from out of the game and remains a major Frontier shareholder.
-"We see startup ideas probably one a month," he said.
-'They still focus on price'
-Franke started flying frequently when he was a little kid because his father worked for the State Department and was based in Paraguay.
-He said a lot has changed since. "Consumers are much smarter today" than they used to be, armed with new data and tools like artificial intelligence that help them better compare fares and options, he noted.
-"None of the airlines are quite sure what AI ... is going to do to your decision to book," he said.
-But "price and schedule are still at the top," Franke added.
-"For a lot of consumers, whether the ticket costs $200 or $125 is not going to be the decision-maker, but for a lot of people it is still," he continued. "Middle class, younger flyers, they still focus on price."
-But the ultra-low-cost and low-fare model has struggled in the United States. It's based on keeping costs minimal and maintaining rapid growth, both of which have been more difficult since the pandemic. Higher fuel prices since the start of the Iran war have been an added challenge.
-Spirit is the obvious casualty, with its CEO saying it "ran out of runway" after facing increasing challenges, but Frontier has only been profitable one year since 2019 and JetBlue hasn't been profitable since that year.
-"We're not forecasting next year, but the airline is certainly on the right trajectory to return to sustainable profitability," Frontier CEO Jimmy Dempsey said on a July 29 earnings call. He became the carrier's chief executive in December, succeeding Barry Biffle who headed the airline for close to a decade.
-Airlines, including Frontier, have been jacking up fares to cover costs. August airfares were up more than 23% over last year, according to federal data released Sept. 11.
-Frontier isn't alone in wanting to add pricier and roomier seats. Allegiant Air recently announced it would add a first class to its currently single-cabin planes, and JetBlue Airways is adding a domestic first class. Meanwhile, larger competitors are growing their premium cabins.
-Franke said the new upscale moves don't fit everywhere, and that efficiency remains key.
-"In the U.S. market where you have mature large airlines — Delta, United, American — who are changing the interior of their aircraft on a regular basis, it could well be that a low-cost or a lower-cost airline, in order to properly compete, needs to make adjustments to its business model," he said. "That doesn't mean you have to do that in an emerging market like Hungary or Peru."
-All roads lead to Tempe
-Franke's legacy extends beyond the low-cost model. Many of the leaders of the modern U.S. airline industry can trace their roots back to Franke and to Tempe, Arizona, where America West — which through mega-mergers evolved into modern-day American Airlines — was based.
-Franke, who had studied and practiced law, got into the airline business more than 30 years ago. The then governor of Arizona tapped him to save America West when it was mired in bankruptcy in the early 1990s and he became chief executive in 1993.
-His proteges include American Airlines CEO Robert Isom; Isom's predecessor, former American Chief Executive Doug Parker; and United Airlines CEO Scott Kirby.
-Franke's former employees told CNBC that they keep up with him regularly.
-Isom told CNBC in an interview in late June that Franke is "pretty good at giving jabs." For many years, they would bet on college football, specifically, games between Stanford University, where Franke studied, and Notre Dame, where Isom studied.
-"His rule was fast pay makes fast friends," Isom recalled, showing CNBC some of his winnings: Chilean pesos with Franke's business card attached by paperclip and, in another win by Isom, euro coins taped to a sheet of paper with "PAID IN FULL" written out by his former boss.
-Kirby told CNBC at an industry conference in Rio de Janeiro in June that after The Wall Street Journal profiled him this spring, Franke told him it made him "throw up in his coffee when he opened his newspaper." Franke didn't comment on that, but said he recalled the exchange.
-Even still, Kirby called Franke a mentor, and clarified that he was "a hard-ass mentor."
-"All of us, our formative years were working for Bill, getting screamed at by Bill. ... He should take more credit for that," he said. (Franke said he didn't yell at him. "That's just not me.")
-Franke was demanding, especially when it counted, his alumni said.
-Steve Johnson, American Airlines vice chair and chief strategy officer, and another Franke America West alum, likened Franke to a second father.
-Johnson was a partner from 2003 to 2009 at Indigo when it owned Spirit. During the summer 2008 fuel spike that saw prices hit more than $147 a barrel (more than $200 in today's dollars), Spirit was running out of money but had a portfolio of fuel hedges, a series of contracts that locks in future pricing.
-He was about to head to a California-bound plane that summer when Franke called him about the fuel and told him to "sell it now," Johnson recalled. They did and generated about $30 million. Oil prices later crashed.
-"It turned out to be just exactly what Spirit needed," Johnson said.
-
-</details>
-
-
----
-
-## Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html
-
-正文长度：1854
-
-摘要：Leaders of six major auto trade groups joined to sign a letter to the president.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The American automotive industry wants President Donald Trump to maintain policies that make it difficult for Chinese automakers to operate in the U.S. — or even ban them altogether.
-In a letter to Trump dated Thursday and viewed by CNBC, groups representing major facets of the U.S. automotive industry — from franchised dealers and suppliers to domestic and foreign automakers — urged the president to "maintain policies that keep the door firmly shut to Chinese automakers seeking to sell, import or manufacture vehicles inside the U.S."
-"The automotive sector is foundational to our advanced manufacturing and defense base, with the capacity and workforce to respond during a national emergency. Once that base is hollowed out, it can't be rebuilt overnight," the letter reads.
-The letter comes ahead of Trump's expected visit next week with Chinese President Xi Jinping in Washington, as well as Trump last week saying he would permit Chinese automakers to move manufacturing to the U.S.
-"If China wanted to come in and open a plant to build their cars here, I'd be OK with it," Trump said Sept. 11 on Fox News' "The Ingraham Angle."
-The letter argues that allowing Chinese automakers to manufacture in the U.S. would "undermine fair competition and jeopardize the progress" the administration has made in preventing "Chinese dominance in key industries." Chinese automakers are heavily subsidized by their government and are rapidly expanding outside of China to other countries.
-The letter is the latest in a string of messages from the automotive industry to the Trump administration, but this time represented a more unified coalition.
-It was signed by leaders of six trade associations that represent every major automaker operating in the U.S., including Tesla and foreign automakers, as well as the nation's roughly 17,000 franchised dealers.
-
-</details>
-
-
----
-
-## Disney names CTO for the first time as media giant expands tech push
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/18/disney-cto-tech.html
-
-正文长度：3456
-
-摘要：Disney has hired a chief technology officer, a newly minted role for the company, as it looks to further its embrace of tech under CEO Josh D'Amaro.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Disney is looking to increase its foothold in the technology space with its latest hire.
-The media giant said Friday it hired Karandeep Anand, most recently CEO of Character.AI, effective Oct. 2 as senior executive vice president and chief technology officer. The newly created position in the Mouse House's C-suite will report directly to CEO Josh D'Amaro.
-The leadership expansion comes months after D'Amaro took the top post at Disney and emphasized the need to embrace technology to advance all parts of the company.
-Disney said Anand will oversee enterprise technology, infrastructure, data and artificial intelligence platforms, product and engineering at Disney, and will work across across various tech teams to "further modernize how Disney builds and delivers technology company-wide."
-"Karandeep brings a rare mix of experience across infrastructure, consumer technology and AI, and will be a vital addition to Disney's senior leadership team as we further our three priorities: great storytelling as our North Star, technology in service of creativity, and operating as One Disney," D'Amaro said in Friday's release.
-D'Amaro's immediate goal has been to maintain Disney's momentum in its core growth areas -- particularly streaming and parks, which have helped lift the company's earnings in recent quarters.
-In March D'Amaro outlined his strategy and focused on the importance of Disney's storytelling and intellectual property to all parts of the business, as well as expanding its concentration in tech to fuel growth. Since then, the CEO has made various moves to show his focus on that initiative.
-The company's streaming service, Disney+, has been at the center of such plans. D'Amaro has said Disney is considering a free, ad-supported tier for its Disney+ streaming service as a so-called "front porch" to get more consumers onto the platform.
-On Thursday, Disney also named Adam Smith as chairman of its direct-to-consumer for Disney Entertainment, overseeing the streaming business.
-Executives have also teased that streaming and shopping will be integrated on Disney+, and more details are expected to come in the spring. At an investor conference earlier this month, CFO Hugh Johnston called it an "integrated ecosystem" under the Disney+ banner, which would bring together TV and film content with consumer products, Disney's parks and cruises, and interacting with Disney's library of intellectual property in various ways, including gaming.
-Character.AI
-Anand comes to Disney after overseeing Character.AI, a platform that allows users to create and interact with character-based chatbots. In addition to Anand, Disney is hiring members from Character.AI's technical team.
-Disney said Friday that Anand managed Character.AI through a "period of explosive growth, building one of the most engaged consumer-AI audiences in the world, while also making user trust and safety a priority at the platform." Anand has also held positions at financial tech company Brex and Meta's Facebook.
-Disney has clashed with the company before. Last year, Disney sent a cease and desist letter to the startup as a warning to stop using its copyrighted characters without authorization. Character.AI told CNBC it removed the mentioned characters in Disney's letter.
-The spokesperson acknowledged at the time that while some characters on its platform are completely original creations, others are "inspired by existing characters that people love."
-
-</details>
-
-
----
-
-## Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html
-
-正文长度：1669
-
-摘要：One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Meritage Hospitality, one of Wendy's largest U.S. franchisees, filed for Chapter 11 bankruptcy protection on Thursday.
-The filing comes as the burger chain has struggled to win over diners who have become increasingly focused on value. For six straight quarters, Wendy's has reported same-store sales declines. A revolving door of chief executives in recent years has led to muddled turnaround strategies, and the company's stock has lost two-thirds of its value over the past three years.
-"Because the substantial majority of Meritage's restaurant portfolio operates under Wendy's brand, those system-wide pressures have had a significant impact on the Company's financial position," Meritage said in a press release announcing the filing.
-At an investor conference in June, Meritage CEO Bob Schermer Jr. said that store-level earnings before interest, taxes, depreciation and amortization had plummeted 48% in 2025. Rising beef costs and increased discounts weighed on the franchisee's profits.
-Meritage said it filed for bankruptcy to strengthen its balance sheet, and the company plans to keep its restaurants running during the restructuring process. Meritage operates 314 Wendy's restaurants across 15 states, as well as one Bojangles location and five independently branded stores.
-Meritage estimated that its assets are valued at $10 million to $50 million, with liabilities within the same range, according to a filing with the U.S. Bankruptcy Court for the Western District of Michigan. Quality Is Our Recipe LLC, the legal name for Wendy's franchise business, is listed as its top unsecured creditor with a claim of $24.9 million for deferred franchise fees.
-
-</details>
-
-
----
-
-## US and China agree to dialogue on AI ahead of Trump-Xi meeting - ft.com
+## Paramount reaches settlement to clear path for $110bn Warner Bros deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDYzWGZJakVxQzJXLU5iczZOeFZjeW9BSE90ZU1rbl8xMlpyUFY3SllzdEhLNFVMNFlpWlNYblRUUFZEMHIzQUJJZ1FPNENJMGctVUZzYUsySjJBM0FWOEVnTjM3VFI4REFZSUxGZ09TRXYxZUgzeVc2V1hyNUJyenQzZEk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS21HckkyQnVxSFdzU3paN09SUzNoSENEUmswMDN3eGJ2RVBEY1lSYjZUYTlHSHpFTktyTHpraDg2SnMxUUtjR0Z1MG8zNDVVOWNrdW5Xb2FQZ2dZOTVJSzdHTTVqX1hLcHdoamZYZ2x5WV9VaHhfeDRuX2ZVam9ZTG9hd0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDYzWGZJakVxQzJXLU5iczZOeFZjeW9BSE90ZU1rbl8xMlpyUFY3SllzdEhLNFVMNFlpWlNYblRUUFZEMHIzQUJJZ1FPNENJMGctVUZzYUsySjJBM0FWOEVnTjM3VFI4REFZSUxGZ09TRXYxZUgzeVc2V1hyNUJyenQzZEk?oc=5" target="_blank">US and China agree to dialogue on AI ahead of Trump-Xi meeting</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS21HckkyQnVxSFdzU3paN09SUzNoSENEUmswMDN3eGJ2RVBEY1lSYjZUYTlHSHpFTktyTHpraDg2SnMxUUtjR0Z1MG8zNDVVOWNrdW5Xb2FQZ2dZOTVJSzdHTTVqX1hLcHdoamZYZ2x5WV9VaHhfeDRuX2ZVam9ZTG9hd0o?oc=5" target="_blank">Paramount reaches settlement to clear path for $110bn Warner Bros deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Multilateralism is not idealism, it is a necessity - ft.com
+## Donald Trump presses Volodymyr Zelenskyy to stop hitting Russian refineries - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE43d1B5M1VPUy1tWTVFNWh3d2RBM1Bza3NTNUZLUXluMkU5YkxIbWFUNUgwRVd3akhLb1htMTgzM1k4Zm9LQXVBUUEtOG12MXNvT0FTb3hWZUtLWGF4QmJWRUYtaGRNT1lOOFVDcWhBWHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHVxNlY3TG15bzR0bG1JLXIyNkFGRkExRFdwUFBiM3hHdmU2Y2pEdXpmQnB1WDdSWVhneHNWdW9sY3FrLWpLOTg4RURCZGxSOXBFdXRIb1ZhUVdwMzZpenpwZ09CaWo0bnpNNlIzbHZlVkttTHF2ZTVOY2VzUS1JdW1Pd2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE43d1B5M1VPUy1tWTVFNWh3d2RBM1Bza3NTNUZLUXluMkU5YkxIbWFUNUgwRVd3akhLb1htMTgzM1k4Zm9LQXVBUUEtOG12MXNvT0FTb3hWZUtLWGF4QmJWRUYtaGRNT1lOOFVDcWhBWHc?oc=5" target="_blank">Multilateralism is not idealism, it is a necessity</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHVxNlY3TG15bzR0bG1JLXIyNkFGRkExRFdwUFBiM3hHdmU2Y2pEdXpmQnB1WDdSWVhneHNWdW9sY3FrLWpLOTg4RURCZGxSOXBFdXRIb1ZhUVdwMzZpenpwZ09CaWo0bnpNNlIzbHZlVkttTHF2ZTVOY2VzUS1JdW1Pd2Y?oc=5" target="_blank">Donald Trump presses Volodymyr Zelenskyy to stop hitting Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - ft.com
+## Saudi wealth fund presses LIV Golf’s saviour to prove its commitment to tour - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONGVyQkQ5NEh2Q3QwcGdZVTNUMVpaZlZTZlg1dXNlYkRYQWt3RG5NVzF0Y01BSXNDTV9RdXdvS19NNVpBRDRBR0Z4V04tamxlQTBBV3JaWWpfd1JJZkl0dTh5Yl9PejRrUld3S0Z5Nm1FRHlGems0MjJMNEtVWVZQUHozWHg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5" target="_blank">Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONGVyQkQ5NEh2Q3QwcGdZVTNUMVpaZlZTZlg1dXNlYkRYQWt3RG5NVzF0Y01BSXNDTV9RdXdvS19NNVpBRDRBR0Z4V04tamxlQTBBV3JaWWpfd1JJZkl0dTh5Yl9PejRrUld3S0Z5Nm1FRHlGems0MjJMNEtVWVZQUHozWHg?oc=5" target="_blank">Saudi wealth fund presses LIV Golf’s saviour to prove its commitment to tour</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russia’s new air campaign seeks to destroy Ukrainian economy - ft.com
+## Nepotism at Berkshire - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVE5TZ05ia3RYOXZRMzhhMmU1SE8yOS1qQnNKRjhiMk9zUjluSVJxY1d5TlVsUXZVVXZSc0k1NVZleE14MFluMldLakk2dWZxcTZhVmZ6eTFOUjlURFVycTBFVnBxX2lXekFIRjJteFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONFY3dkc4YlA0VThzcWhhb2g0cWc2MGxfSUdPc01QYXNlSTgtUU91Qm1wYXNpLUdwX09Zd1dRQURweDBJeXZ4UkxXb2Y2clNnNHo1M0JWU2lvYWhiZ2VzcWJPckNCVDc3bEJ3M2dqakxsSUZaYU1ENmtiXzBMNXNhbGpnU3U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVE5TZ05ia3RYOXZRMzhhMmU1SE8yOS1qQnNKRjhiMk9zUjluSVJxY1d5TlVsUXZVVXZSc0k1NVZleE14MFluMldLakk2dWZxcTZhVmZ6eTFOUjlURFVycTBFVnBxX2lXekFIRjJteFA?oc=5" target="_blank">Russia’s new air campaign seeks to destroy Ukrainian economy</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONFY3dkc4YlA0VThzcWhhb2g0cWc2MGxfSUdPc01QYXNlSTgtUU91Qm1wYXNpLUdwX09Zd1dRQURweDBJeXZ4UkxXb2Y2clNnNHo1M0JWU2lvYWhiZ2VzcWJPckNCVDc3bEJ3M2dqakxsSUZaYU1ENmtiXzBMNXNhbGpnU3U?oc=5" target="_blank">Nepotism at Berkshire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Saudi Arabia quits China-led cross-border currency platform - ft.com
+## Trafigura to float supertanker arm in first IPO of a business - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnRTa2luWWxsRVE0YjhyaE5xM2lNeEp0VW43LXhDMmVUbXVKakVfem9kQnZZUVVhTTVHbWtSOEZjaDFGUXpJdWVkYkdrd1djd2w3U1hGOVJOTjhLaEhTWWhUSVc5QS1wb1o5U3djZi1leDByMUZQbTdGdGhUSHdkckYyaUo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlVSHVtVnVNYUhGMTg4ZXFUNm5HOTl0RjZhbXVZUEpYQ1doVW9pOWthT0kxeXd3eUtadDF0MzQwdTh2UkRVcU9UQWQwMG4yS0ROVjh2MUNZT3pjblNUdEFFR2J5QnlfRElvZ0pDRkd3SVRiYmctLU4yUFN3NW8zaHBfSm4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnRTa2luWWxsRVE0YjhyaE5xM2lNeEp0VW43LXhDMmVUbXVKakVfem9kQnZZUVVhTTVHbWtSOEZjaDFGUXpJdWVkYkdrd1djd2w3U1hGOVJOTjhLaEhTWWhUSVc5QS1wb1o5U3djZi1leDByMUZQbTdGdGhUSHdkckYyaUo?oc=5" target="_blank">Saudi Arabia quits China-led cross-border currency platform</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlVSHVtVnVNYUhGMTg4ZXFUNm5HOTl0RjZhbXVZUEpYQ1doVW9pOWthT0kxeXd3eUtadDF0MzQwdTh2UkRVcU9UQWQwMG4yS0ROVjh2MUNZT3pjblNUdEFFR2J5QnlfRElvZ0pDRkd3SVRiYmctLU4yUFN3NW8zaHBfSm4?oc=5" target="_blank">Trafigura to float supertanker arm in first IPO of a business</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China slows humanoid robot IPO rush as hype outruns reality - Reuters
+## Global diesel prices hit record highs, further rises possible - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJkVThNdEJxOWJFWkljaTdsVjJZbTJlUXU4M19XSm1fMFVQSUZ1VUxRYjV6dkNaTE5FZnkwWndvX2UzcTlYVU5IV1JEVGUwSXprOTJEMjI3eTlJWkJodFVhWDFsX1N2akxCMm1pQ2hWbVRhR3huTjlPSTg5cGtwMjJpQ2J5RUd0SlZ1RUJWeW1lMXB2VXd0NWdYLWk3bmw1T3ZTclRLazF0RW1MVUFHZThB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5" target="_blank">China slows humanoid robot IPO rush as hype outruns reality</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJkVThNdEJxOWJFWkljaTdsVjJZbTJlUXU4M19XSm1fMFVQSUZ1VUxRYjV6dkNaTE5FZnkwWndvX2UzcTlYVU5IV1JEVGUwSXprOTJEMjI3eTlJWkJodFVhWDFsX1N2akxCMm1pQ2hWbVRhR3huTjlPSTg5cGtwMjJpQ2J5RUd0SlZ1RUJWeW1lMXB2VXd0NWdYLWk3bmw1T3ZTclRLazF0RW1MVUFHZThB?oc=5" target="_blank">Global diesel prices hit record highs, further rises possible</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Vessels trickle through Strait of Hormuz as Middle East conflict persists - Reuters
+## Moscow oil refinery output halted after Sunday drone attack, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdMbF8wY2pMdE0tcHdWa3l5dkc5MGpKWVJEZW9VUnV2UTFlaTlVbVpOZ1pQN245SWZOLU4zWDd3ODlBTUhhZmlmaE1jUGltMzRKUF9xRl9CT2ZpMnNxcXkxOXdQeHJHajFzMkpoNWVnS3N6X3ExamF1ejcyQ3I1LW5DVHRXTXQ5MVVtTEE1cmtxLWhGMURaZ19pajA1blpROVVxRXQ3MHE4Zy1BLUVybldpUm01NU0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdMbF8wY2pMdE0tcHdWa3l5dkc5MGpKWVJEZW9VUnV2UTFlaTlVbVpOZ1pQN245SWZOLU4zWDd3ODlBTUhhZmlmaE1jUGltMzRKUF9xRl9CT2ZpMnNxcXkxOXdQeHJHajFzMkpoNWVnS3N6X3ExamF1ejcyQ3I1LW5DVHRXTXQ5MVVtTEE1cmtxLWhGMURaZ19pajA1blpROVVxRXQ3MHE4Zy1BLUVybldpUm01NU0?oc=5" target="_blank">Vessels trickle through Strait of Hormuz as Middle East conflict persists</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w?oc=5" target="_blank">Moscow oil refinery output halted after Sunday drone attack, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tech leads shares higher in Asia as oil slips - Reuters
+## Paramount settles with US states in big step towards closing Warner Bros merger - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5" target="_blank">Tech leads shares higher in Asia as oil slips</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5" target="_blank">Paramount settles with US states in big step towards closing Warner Bros merger</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Australia warns of risks from ageing population, falling birth rates - Reuters
+## AMD joins $1 trillion club as chipmakers rally on AI-driven demand - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hOSzIxR1hfa3RsSlg3UUFMWGwzakM0V3BLSUlHQjFYX1d1anY5dEdTWlZXU2ViWXVqXzBHUXN0Z1puV2ZRQ2t0T3RER2FTb25QUklHekk1amNfMTZaNXZUejk3LW9kQ2JLMEthNHp3TEM0QjZBbkZyeWdadXZrRzhLdzYwMlJoN0U1TFdNTGlvaGpqLTlocF9ES2ZCNnNkSE1SSlk4TEg2c2UydENScXpOeVZBcTJLZlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hOSzIxR1hfa3RsSlg3UUFMWGwzakM0V3BLSUlHQjFYX1d1anY5dEdTWlZXU2ViWXVqXzBHUXN0Z1puV2ZRQ2t0T3RER2FTb25QUklHekk1amNfMTZaNXZUejk3LW9kQ2JLMEthNHp3TEM0QjZBbkZyeWdadXZrRzhLdzYwMlJoN0U1TFdNTGlvaGpqLTlocF9ES2ZCNnNkSE1SSlk4TEg2c2UydENScXpOeVZBcTJLZlE?oc=5" target="_blank">Australia warns of risks from ageing population, falling birth rates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5" target="_blank">AMD joins $1 trillion club as chipmakers rally on AI-driven demand</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## ICE agent wounds man in Austin, Texas, shooting, city officials say - Reuters
+## Paramount settles with California, other states over Warner Bros merger, Bloomberg News reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2ZvajMxeXozcWRTdzJYWVVhdHdDMV9KTUM0R1JIX3Y4RkRRTFhCWmNEeHRzazVFSXBNZTBDenJ3aXMzZ1BoemJDZkQ2Y3AzN2NiSjEyWDhOb3cwTzdqeUpqTWs4R3ZJeUJoYzM4enlSQ01MaUx0WjYyR3lma1Z1THpWSXBNNS1DTkdnSUk5XzBEVGVGczd6aUY3eHBOc3oyQkdrRE8wVHNnZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFRnaWYzcDN5NzlDS21YT1JYWnk3NjJKbXZRYXRSU0doWWgzWjkzMF91Yzl2T2NzdnBmNUtXV3ZscWhFZDdVdWZyd0J6T0dSQzVZczhiZjJHakswLTh5c1pGZlhRWG13alB0RVdVVnh4SjBLMUVnaTRRb0V5bDNZOXhvVHgxaXlvcF8wZ1ctYWxZXzcyWk12M3lKRVFQa3g4dWtIaGZ4eFRwbm9yenkzZVBqWHZPajBKR0liZWFEd2JzTmxYNGxYaDhmVXk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2ZvajMxeXozcWRTdzJYWVVhdHdDMV9KTUM0R1JIX3Y4RkRRTFhCWmNEeHRzazVFSXBNZTBDenJ3aXMzZ1BoemJDZkQ2Y3AzN2NiSjEyWDhOb3cwTzdqeUpqTWs4R3ZJeUJoYzM4enlSQ01MaUx0WjYyR3lma1Z1THpWSXBNNS1DTkdnSUk5XzBEVGVGczd6aUY3eHBOc3oyQkdrRE8wVHNnZw?oc=5" target="_blank">ICE agent wounds man in Austin, Texas, shooting, city officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFRnaWYzcDN5NzlDS21YT1JYWnk3NjJKbXZRYXRSU0doWWgzWjkzMF91Yzl2T2NzdnBmNUtXV3ZscWhFZDdVdWZyd0J6T0dSQzVZczhiZjJHakswLTh5c1pGZlhRWG13alB0RVdVVnh4SjBLMUVnaTRRb0V5bDNZOXhvVHgxaXlvcF8wZ1ctYWxZXzcyWk12M3lKRVFQa3g4dWtIaGZ4eFRwbm9yenkzZVBqWHZPajBKR0liZWFEd2JzTmxYNGxYaDhmVXk?oc=5" target="_blank">Paramount settles with California, other states over Warner Bros merger, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
