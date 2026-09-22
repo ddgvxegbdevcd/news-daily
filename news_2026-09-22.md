@@ -1,8 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-09-22 04:17:40
+更新时间：2026-09-22 16:40:40
 
-## Asian Stocks Rally on AI Optimism, Oil Advances: Markets Wrap
+## S&P Trades Near Record Highs as Oil Prices Ease
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-22/s-p-trades-near-record-highs-as-oil-prices-ease
+
+正文长度：0
+
+摘要：Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than "Bloomberg Surveillance." (Source: Bloomberg)
+
+
+---
+
+## BlackRock, Vanguard Muni ETFs See Record Inflows After Bond Rout
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-22/blackrock-vanguard-muni-etfs-see-record-inflows-after-bond-rout
+
+正文长度：0
+
+摘要：The two largest municipal bond exchange-traded funds just recorded their largest weekly inflows ever, shortly after a bond rout fueled outflows in other muni funds.
+
+
+---
+
+## Corn Eases With China in Focus as US Harvest Set to Accelerate
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-22/corn-eases-with-china-in-focus-as-us-harvest-set-to-accelerate
+
+正文长度：0
+
+摘要：Corn was moderately lower Tuesday as traders waited to see if China will buy any US grain during this week’s summit in Washington while drier weather conditions should allow farmers to ramp up harvest activity.
+
+
+---
+
+## Port of Long Beach CEO: Seeing Less Activity With China
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-22/port-of-long-beach-ceo-seeing-less-activity-with-china-video
+
+正文长度：0
+
+摘要：Dr. Noel Hacegaba, CEO of the Port of Long Beach, discusses global trade and the movement of goods. Hacegaba says he is happy to be in a relatively new in the role at a time when global trade is undergoing major transformation. He speaks with Romaine Bostick on "The Close." (Source: Bloomberg)
+
+
+---
+
+## Stock Rally Falters Near Record as Oil Fluctuates: Markets Wrap
 
 来源：彭博社
 
@@ -10,59 +62,139 @@
 
 正文长度：0
 
-摘要：Asian stocks climbed as the latest developments in artificial intelligence spurred optimism over accelerating technology investment and stronger semiconductor demand.
+摘要：A sense of caution prevailed on Wall Street after a rally that put stocks on the verge of their all-time highs, with oil prices wavering as traders looked for signs of diplomatic efforts to revive the Strait of Hormuz.
 
 
 ---
 
-## Labour Mulls Fiscal Rule Exemption to Boost UK Building Projects
+## McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-22/labour-mulls-fiscal-rule-exemption-to-boost-uk-building-projects
+链接：https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html
 
-正文长度：0
+正文长度：5988
 
-摘要：Britain’s new Labour government has been considering a proposal from Keir Starmer’s time in office, by which borrowing for building projects would be excluded from the fiscal rules.
+摘要：The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> McDonald's is expected to share more details about its new strategy to win back diners at its investor day on Wednesday in Chicago.
+The company unveiled its new global growth plan, called McDonald's > NEXT, in June at its biennial worldwide convention for franchisees. Pillars of the strategy include a new restaurant design, better-tasting food and drinks and consumer-led innovation. But executives have otherwise offered few details, holding back until Wednesday's event.
+Nearly three years after McDonald's previous investor day, the presentation comes after McDonald's U.S. business disappointed in its most recent quarter. The chain's same-store sales increased just 0.8%, and traffic to its restaurants fell.
+CEO Chris Kempczinski said that the problems were due to shortcomings in execution, like a mixed implementation of its value offerings, rather than issues with the chain's overall strategy. Skye Anderson, who was tapped as president of McDonald's U.S. business in the wake of the weak quarter, will likely speak on Wednesday.
+Kempczinski, Anderson and the rest of the McDonald's executive team will have to win over investors, who are increasingly skeptical that the fast-food giant can win over diners in the near term.
+Over the past 12 months, the stock has fallen 18%, dragging McDonald's market value down to about $175 billion. The S&P 500 has climbed 16% in the same period, as optimism about artificial intelligence has offset concerns about the financial health of consumers.
+Loading chart...
+Here's what McDonald's presentation is expected to cover:
+1) Value strategy
+Over the past two years, value has become all-important to restaurants, which are competing over a smaller pool of customers who care about both price and experience. While chains like Taco Bell and Chili's have thrived, McDonald's has struggled recently as its value offerings got lost among its other promotional messages.
+Plus, its franchisees have pushed back against discounts, which grow sales but eat into operators' profits, especially as high beef prices raise expenses. Only about two-thirds of McDonald's U.S. franchisees implemented its recent "under $3 menu," executives said in August. For its part, McDonald's lets franchisees set their own prices, but the company assesses how operators' menu prices help deliver value.
+Analysts expect that McDonald's will continue to emphasize value, and franchisees' cooperation will be key to its success.
+"We expect MCD to use this event to make it clear to franchisees that adherence to pricing recommendations will be a key factor in evaluating agreement renewals," Citi Research analyst Jon Tower wrote in a note to clients with his investor day predictions.
+Tower also cut his price target for the company to $310 per share from $345 a share, citing investor concerns about franchisees' buy-in for the company's overall strategy.
+2) Menu updates
+Besides value, McDonald's is also looking to attract diners through menu offerings with elevated taste and quality.
+In recent years, McDonald's has shifted its menu to include more chicken options, as beef prices have risen and rivals like Chick-fil-A threaten its sales. At the franchisee convention, executives shared that the next evolution of its chicken offerings will be hand-breaded. Chick-fil-A, Raising Cane's and Popeyes all hand bread or batter their chicken rather than using a machine. The technique usually results in a crispier exterior, but it takes more time and labor.
+In addition to chicken, McDonald's has also leaned into expanded beverage options recently. After winding down CosMc's, its drink-focused spinoff, McDonald's has rolled out a variety of beverage options in the U.S., including crafted sodas, refreshers and energy drinks. A handful of international markets, like Germany, have also been rolling out more drink offerings.
+"What's important — we'll talk a lot more about this at investor day — is beverages," Chief Financial Officer Ian Borden said on the company's earnings conference call in August.
+3) Restaurant remodels
+Roughly every decade, McDonald's mandates that franchisees remodel their restaurants to fit new aesthetic guidelines and improve their technology and equipment.
+And it looks like another round of restaurant renovations is coming as part of the growth strategy. At the convention, franchisees got the first look at the new restaurant design.
+Typically, McDonald's chips in some support for franchisees who are remodeling their restaurants. While upgraded locations usually generate higher sales, operators have to fund the remodels at a time when borrowing costs are elevated. And thanks to tariffs and high energy prices, construction costs are increasing, too.
+As a result of the remodel program, McDonald's capital expenditures could increase by $600 million to $900 million in 2027 and 2028 from its projected spending in 2026, according to a research note from BMO Capital Markets analyst Andrew Strelzik. But executives are expected to share the company's own projected costs for the remodel program at investor day.
+4) Cost cuts
+While McDonald's will likely spend more on capital expenditures over the next two years, the company will likely try to cut costs elsewhere.
+McDonald's will share its outlook for general and administrative spending during investor day, Borden said in August.
+McDonald's could target G&A spending to be less than 2% of its systemwide sales, down from its current goal of 2.2%, Bernstein analyst Danilo Gargiulo wrote in a note to clients. In recent years, the company's workforce has shrunk as part of a reorganization effort.
+Indirectly, McDonald's will also cut costs by refranchising some of its company-owned restaurants.
+Selling locations to franchisees means that McDonald's will not be responsible for the operational costs or capital expenditures required to run a restaurant successfully. The company will also share more details about those plans at the investor day, according to Borden.
+
+</details>
 
 
 ---
 
-## Copper Rises for a Sixth Day Toward Record on China Tightness
+## Peloton is revamping its treadmills with new features in the next phase of its turnaround
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-22/copper-rises-for-a-sixth-day-toward-record-on-china-tightness
+链接：https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html
 
-正文长度：0
+正文长度：5203
 
-摘要：Copper advanced for a sixth day toward a record as falling inventories and pre-holiday buying signaled tightening supplies in China’s physical market.
+摘要：With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Peloton is betting that revamped treadmills, AI and new distribution channels can bring it back to sustained growth.
+The connected fitness company on Tuesday unveiled three new treadmills and new features for its Peloton IQ artificial intelligence platform with tools for runners, walkers and hikers. Peloton aims to widen its customer base, from people looking for a more affordable, space-saving treadmill to more experienced athletes looking for personalized coaching.
+"From record marathon turnouts around the world to the rise of local run clubs, we're rediscovering the joy of running, walking and hiking," said CEO Peter Stern in a press release.
+But the stakes remain higher than simply selling new equipment. Shares have dropped 43% since Stern stepped into the role in January 2025.
+Peloton has spent the past several years cutting costs, restructuring its operations and repairing its balance sheet after the pandemic-era boom in connected fitness gave way to a sharp slowdown in demand. The company has returned to profitability and improved its cash generation, but revenue growth is a challenge as subscriptions trend lower.
+Now Stern is putting more emphasis on widening the company's potential revenue sources.
+"Expanding our treadmill portfolio and launching AI-powered software for runners will allow us to connect with a much wider audience," Stern said.
+The treadmill relaunch, Peloton said, is also addressing the company's long-standing challenge getting consumers to buy high-cost equipment that takes up a lot of space.
+The Tread Flex will start at $2,195, making it Peloton's lowest-cost treadmill of the new hardware and its first folding model. The new treadmill can contract by nearly half its size, potentially broadening the product's appeal among consumers with less space or lower equipment budgets
+At the other end of its lineup, Peloton is keeping the $6,695 Tread+ Vision the same price. It is also increasing the price of the middle model, the Tread Vision, by $200, to $3,495.
+The higher-end products include movement-tracking cameras that provide insights on a user's running form. The Tread+ Vision also includes Sled Mode, meant to allow users to add up to 300 pounds of resistance for strength training as hybrid races like Hyrox become more popular.
+An AI-powered running coach
+The wider range of prices brings questions about how Peloton will keep buyers engaged.
+That is where Peloton IQ comes in.
+Peloton launched the service last year as an AI-powered software system for personalized recommendations and coaching. The company is now expanding it with features specifically aimed at runners.
+The new Run Analysis feature uses live video to score running efficiency and provide personalized pace, form and heart-rate guidance, similar to feedback from an in-person coach.
+The strategy moves Peloton further away from simply being a screen attached to a piece of exercise equipment. The company is positioning its hardware, content and data as a connected training system.
+"The Peloton advantage has always been the sum of its parts," said Chief Product Officer Nick Caldwell in the release. "It's about the instructors and content you love, the software that simplifies wellness and equipment that fits seamlessly into your life and transforms your routine."
+That could be particularly important as Peloton tries to reach more experienced and affluent athletes who may already use products from Garmin, Whoop and other fitness platforms.
+Peloton already integrates with Apple Health, Fitbit and Garmin Connect. It is now adding Whoop, allowing members to connect their accounts and have Peloton workouts contribute to personalized insights in the Whoop app.
+The company is leaning further into the broader running boom, offering more than 17,000 Tread-specific classes and adding race-training programs designed to take members through full training for events like the New York City Marathon.
+For investors, however, the key question isn't whether the new products offer a better exercise experience than the old ones. It is whether they can change Peloton's growth trajectory.
+Truist analyst Youssef Squali told CNBC in a statement that the firm expects "revenue to remain pretty muted given continuous headwinds to subscriber growth." He said the firm anticipates next calendar year will be better for Peloton as its hardware and software improves and it refinances its debt.
+Squali has a "buy" rating on the stock and a $9 price target, compared with its Monday closing price of $4.95 a share.
+The equipment changes add to a range of efforts Peloton is making to boost its business.
+The company also recently expanded its content distribution through a partnership with Spotify, putting more than 1,400 Peloton strength and wellness classes in front of Spotify Premium subscribers. It is also building a commercial fitness business, selling more durable versions of its equipment to hotels, apartment buildings, gyms and other high-use environments.
+After years of focusing on cost cutting and financial stability, Peloton is now trying to convince investors that it can grow the business again.
+The holiday season will be an early test of that strategy.
+
+</details>
 
 
 ---
 
-## China’s Gold Imports Top 1,000 Tons on Strong Investment Demand
+## Autonomous trucking company Aurora looks to accelerate toward profitability
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-09-22/china-s-gold-imports-top-1-000-tons-on-strong-investment-demand
+链接：https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html
 
-正文长度：0
+正文长度：4066
 
-摘要：Chinese gold imports are at record levels this year, helped by a slump in international prices and a firmer yuan.
+摘要：Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.
 
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
----
+> Take a drive in Texas on Interstate 45 between Houston and Dallas or I-20 between Fort Worth and El Paso, and you will see dozens and dozens of tractor trailers. They are two of the busiest highways in the country for trucks — and two routes where Aurora Innovation is operating completely autonomous semis.
+"It's using lasers, radar, and cameras to look all around it and see the other cars, see the other trucks on the road, and figure out how to drive safely," said Chris Urmson, Aurora founder and CEO. He talked with CNBC's Phil LeBeau for more than three hours as they rode in the cab of an autonomous Aurora truck.
+With 20 driverless trucks currently on the road and plans to grow the autonomous fleet to 200 trucks by the end of this year, Aurora is targeting major growth over the next several years. The company's selling point is that it says an autonomous truck can operate more efficiently and at a lower cost than a semi with a driver behind the wheel.
+"We can help them [truck operators] save on fuel economy," Urmson said. "We can move goods more quickly and then we can fill the need when they can't hire amazing drivers for their teams."
+Ravi Shanker, transportation analyst with Morgan Stanley, estimates that "an autonomous fleet should be nearly 7.5X as profitable as a human-driven fleet today."
+Bank of America, meanwhile, estimates "Aurora services will cost ~$0.85 per mile versus approximately $1.30 per mile for human driver wages and benefits, before considering indirect labour costs."
+With its next generation of driverless trucks to hit the road, Aurora believes its "driver as a service" business model, where customers pay by the mile driven, will be attractive to shipping and freight customers looking to lower costs.
+A shortage of truck drivers in the U.S. has freight firms looking for reliable service at a lower cost. Autonomous trucks have the potential to roll for up to 20 hours a day, while a truck driver's hours are limited by federal laws that require drivers to take breaks.
+Sean Wu, CEO of the online shipping marketplace uShip, said he understands the appeal of a driverless truck when it comes to lowering costs, but he questions how many shipping firms will want to ditch their drivers.
+"The drivers do more than just move the rig. There is judgement. There is customer service. There is protection," Wu told CNBC. "There is just a lot more to think about than 'Hey they are moving a truck from point A to point B.'"
+The Department of Transportation estimates there are approximately 3.5 million Class 8 semitrucks on the road in the U.S. Only a fraction are autonomous, but the market is growing, and Wall Street sees huge potential. Kodiak AI, Gatik and Tesla are also developing autonomous vehicles.
+Aurora CEO Urmson said he knows there are plenty of skeptics, including those who will continue to question the safety of a driverless truck rolling down the highway at 65 or 70 mph.
+"We've got millions of miles of experience," he said. "We put this through 15 million tests before we put it out on the road."
+As we completed our freight run in Palmer, Texas, what stood out was the fact the ride was uneventful with no disruptions. The truck pulled off the highway once for less than a minute to reset the hazard lights which had come on for some unknown reason. Otherwise, over the course of three hours on I-45, we saw more than a few double takes from truck drivers passing by who looked twice when they saw nobody behind the wheel.
+For Urmson, it is another 200 miles where Aurora's autonomous driving technology has delivered a shipment. Since it began testing its AV technology on public roads in 2022, Aurora has logged more than 440,000 miles. Most of those included a human safety operator behind the wheel in case the technology failed.
+After losing more than $800 million in 2025, Aurora is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks on the road.
+"We've been able to put out timelines and we've basically hit those timelines," he said.
 
-## Canada Says India Trade Talks Making ‘Great Headway’
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-09-22/canada-says-india-trade-talks-making-great-headway-video
-
-正文长度：0
-
-摘要：Maninder Sidhu, Canada's International Trade Minister, says the trade talks with India are “moving along really well,” with the two nations looking to conclude a deal in the coming months. He speaks with Paul Allen on Insight with Haslinda Amin.  (Source: Bloomberg)
+</details>
 
 
 ---
@@ -122,267 +254,132 @@ Demand for Foundayo is rising in the U.S. The company said in August that the pi
 
 ---
 
-## Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html
-
-正文长度：8352
-
-摘要：The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Paramount Skydance's $110 billion merger with Warner Bros. Discovery will move forward as the company settled Monday with a group of state attorneys general that sought to block the deal on antitrust grounds.
-The lawsuit, brought by a group led by California's Rob Bonta, was previously set to head to trial in March and would have left the deal in limbo through mid-2027.
-"We are grateful to Attorney General Bonta and his fellow AGs, as well as the WGA, for engaging in good faith to find a path forward to a resolution that serves all parties, and to Governor Newsom for his support throughout this process," Paramount CEO David Ellison said in a statement Monday. "Our shared aim was an outcome that best serves consumers, workers and — most importantly — the creative community so vital to the art of visual storytelling."
-Ellison told employees that the company is looking to close in about two weeks, according to a memo obtained by CNBC.
-The acquisition will bring together two storied film studios, Paramount and Warner Bros. Discovery; a portfolio of TV networks; broadcast network CBS; and two popular streaming services in Paramount+ and HBO Max. The agreement Monday follows backlash from not only the state officials, but also the Writers Guild of America union and prominent actors and directors, who shared concerns about the effects on the U.S. film industry and creative roles.
-Bonta detailed the terms of the agreement during a press conference Monday, but noted that "the settlement is not a vote of support for this merger."
-"It's not a blessing of the broader merger," he said. "Broadly speaking, we believe further consolidation in markets that are central to American economic life doesn't serve the American economy, consumers, or competition well."
-Shares of the company fell 3% following Bonta's press conference after rising earlier in the day.
-Bonta said Paramount has agreed to increase its domestic production, including boosting its production spending in the U.S. by at least $300 million annually. The company also agreed that if a federal film credit is approved, it will ensure that 20% of its films are produced domestically in the first two years after the deal closes and 30% of all films in the three years after that. Currently, around 5% of Paramount's film production is domestic, Bonta said. The company must also keep both the Paramount and Warner Bros. production lots in Los Angeles.
-The studio will also release 30 films theatrically in its first two years and 32 in the following three years, Bonta said. Four of these films must be independent productions and Paramount must establish an fund dedicated to purchasing indie films.
-The fine print of the deal mandates that at least 20 of those films have a wide release in more than 2,000 theaters for the first two years and at least 21 films in the three years after. The company expects that the majority of its theatrical films will have wide releases with the exception of some limited run independent films, a person familiar with the matter who was not authorized to speak publicly about the details told CNBC.
-Additionally, at least 20% of annual releases must be tentpole features, meaning the films must have production budgets that exceed $50 million. Paramount also expects to surpass that figure, the person said.
-The company had previously agreed to a 45-day exclusive theatrical window and a 90-day window for SVOD, or subscription video on demand.
-Bonta said the settlement includes a $30 million penalty per film if Paramount falls short of these pledges, with 90% going to workers. There is also a stipulation that Paramount would be forced to divest the production company Miramax if the company fails to reach this release goal, Bonta said.
-Paramount and Warner Bros. are also required to continue negotiating cable packages separately. If the company does not adhere to this clause, Bonta said it would be forced to divest a suite of cable channels.
-The company must also pay $9.5 million annually for workforce training and career development in film and TV production and for film programs and community arts organizations, Bonta said.
-Additionally, Paramount must establish a new board for CBS News and CNN to ensure editorial independence, he added. The combined company's joint ownership of both of those new sources had raised alarms among some critics of the agreement.
-"Together we'll select a trustee to monitor Paramount's compliance with these terms," Bonta said. "And if they ever fail to comply with the many critical terms we have in our settlement, we can go to court."
-The deal previously won approval from U.S. and other international regulators, and Paramount had told investors it expected to close the deal by Sept. 30.
-California and 11 other states filed suit in mid-July seeking to block the merger, citing antitrust concerns in film and pay TV.
-In July, Paramount agreed to delay the merger until June 2027 while the legal challenge played out. That delay would have proven costly for Paramount.
-As part of the merger agreement, Paramount agreed to a so-called ticking fee that would have kicked in after Sept. 30 and meant an additional 25 cents per share, per quarter to WBD shareholder until the transaction closed. The fee would have added an estimated $650 million per quarter in cash value to the deal.
-The Writers Guild of America sued to block the merger, too, citing "specific harm to writers," and settled its claim with Paramount on Monday. Many creatives throughout Hollywood, including actors, directors, producers and other crew members, penned open letters opposing the deal.
-"We continue to believe the merger will cause damage to writers and the industry at large," the WGA wrote in a statement Monday. "Now that the Attorneys General have settled with Paramount, however, as a nonprofit, the WGA must contend with the reality of forging ahead alone, with no backing from government enforcers, with a complex antitrust lawsuit that would cost millions of dollars to pursue through trial."
-The WGA said the guild settled its lawsuit with an agreement that Paramount prohibit writer layoffs at CBS News' broadcast team for five years and pay $17.5 million toward the guild's health fund, along with its attorney's fees from the litigation.
-Bonta said that as part of the agreement with states, Paramount must honor previously established collective bargaining agreements and bargain in good faith with unions.
-California, the entertainment hub of the U.S., has suffered job losses after the industry shifted dramatically following the pandemic, as streaming has disrupted the traditional linear TV business and the theatrical film pipeline. Hollywood, as a result, is shooting fewer pilots, taking advantage of tax incentives in other states and countries and greenlighting fewer productions overall.
-"I think this type of consolidation and business planning is needed for Hollywood and for the content creation industries in a world where technology is disrupting everything," Gerry Cardinale, founder, managing partner and chief investment officer at RedBird Capital Partners, told CNBC.
-RedBird previously invested $1.8 billion to help finance the $8 billion acquisition and merger of Paramount and Skydance. The company, alongside the Ellison family, is financing $43.6 billion of the nearly $111 billion merger of Paramount and Warner Bros. Discovery.
-One big sticking point around the deal for industry insiders is the fact that mergers in the past have drastically decreased the number of films released annually. The most recent example was the 2019 merger between Disney and 21st Century Fox. In the decade before Fox was acquired, the studio released between 13 and 23 films each year, while Disney put out between nine and 13 films. Since 2019, the highest combined release from the merged company has been 16, according to data from Rentrak.
-Theater owners and longtime industry players were skeptical that Paramount could deliver on Ellison's annual 30-film promise. After all, in the past 25 years, no studio has put out more than 25 wide releases in a single year. Ellison offered three-year contracts to cinema operators and at least one exhibitor signed that contract, which allowed the cinema chain to sue Paramount for monetary compensation if it did not fulfill its promise.
-
-</details>
-
-
----
-
-## Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html
-
-正文长度：4007
-
-摘要：An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Hundreds of flights to and from the New York area and Philadelphia were canceled, delayed or diverted Monday after a Verizon fiber cable was accidentally cut during construction in New Jersey, severing a backup feed of key data for air traffic controllers, officials said.
-The Federal Aviation Administration halted flights bound for Newark, New Jersey, and Philadelphia and forced nearly 100 planes, some of them after hourslong trips from Europe, to divert to other U.S. airports because of the issue.
-More than 600 flights in and out of Newark were canceled Monday by 6 p.m., more than half of the day's schedule, according to FlightAware, while nearly 100 were delayed. More than 200 Philadelphia flights were canceled and more than 400 delayed.
-Flights were resuming Monday evening after repairs to line, Transportation Secretary Sean Duffy said in a post on X.
-The problem started with an initial circuit failure and "when it went to flip into the backup, we discovered the backup fiber had a break," FAA Administrator Bryan Bedford told reporters on the sidelines of an event showcasing a new artificial intelligence-powered air traffic control tool in Washington, D.C.
-Public transportation system NJ Transit said a construction crew working on a rail project between New Brunswick and North Brunswick, New Jersey, "accidentally severed a fiber-optic cable while working at the site." The transit agency said the crew was operating about 10 feet from utility markings.
-The circuit and backup feed loss were affecting the Terminal Radar Approach Control, or TRACON, facility, in Philadelphia, which guides planes in and out of Newark and Philadelphia.
-In the early afternoon, the disruptions spread to New York City, where flights into LaGuardia Airport and John F. Kennedy International Airport were also halted by the FAA, though they were resuming with residual delays by late afternoon.
-"Construction contractors working in the area dug up and cut our cable," Verizon said in a statement. "Verizon's facilities were fully functional up to that point. Verizon bears no responsibility for this incident."
-NJ Transit said its staff "is currently on site working to determine the status of the repairs, while also determining whether it was Verizon or the contractor who made the utility markings at the site."
-Verizon said it "immediately deployed our technicians to the scene" and added that it was "actively working to repair the damaged cable and restore connectivity as quickly as possible."
-The affected airports were Newark Liberty International Airport, United Airlines' busiest international hub, Philadelphia International Airport and New Jersey's Teterboro Airport.
-United waived flight change fees for travelers affected by the disruption. To ease staffing problems, United was offering extra pay to pick up trips at Newark and confirmed space to commute to the New York City area. American Airlines, which operates a hub out of Philadelphia, also waived change fees and allowed customers to fly out of other airports.
-More than 100 flights bound for Newark were forced to divert, according to Flightradar24, including international flights from Iceland, Egypt, Greece, Spain and France.
-A United flight from Berlin diverted to Detroit Metropolitan Wayne County Airport, while an SAS flight from Stockholm bound for Newark was sent to Washington Dulles International Airport.
-Aging air traffic control equipment and technology issues have vexed airline executives for years. The Trump administration last year announced a multibillion-dollar overhaul of U.S. air traffic control equipment and resources.
-"This incident underscores the need for additional funding to modernize aging infrastructure and prevent disruptions like this in the future," Transportation Secretary Sean Duffy said in a post on X on Monday.
-The disruptions happened hours before President Donald Trump and a host of international leaders were scheduled to arrive in New York for the United Nations General Assembly.
-
-</details>
-
-
----
-
-## Nissan eyes increasing U.S. production as new Rogue hybrid launches
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html
-
-正文长度：5416
-
-摘要：Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
-"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
-The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
-Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
-U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
-In the meantime, Meunier said Nissan plans to import the hybrid vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
-Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
-Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
-"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
-Nissan e-Power
-Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
-The "e-Power" system is called a series hybrid.
-It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
-Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
-Nissan said Monday that the starting pricing of the Rogue hybrid will be between $35,490 for the entry-level model to $43,490 for a "Platinum" version.
-The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
-"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
-Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
-The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
-Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
-"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
-Nissan said the fuel economy for the Rogue hybrid will be 38 miles per gallon combined. That compares to the Toyota RAV4 hybrid at 43 miles mpg and the Honda CR-V at 40 mpg.
-Nissan turnaround
-Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
-Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
-The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
-For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
-After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
-"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."
-
-</details>
-
-
----
-
-## Paramount reaches settlement to clear path for $110bn Warner Bros deal - Financial Times
+## US satellite maker Planet Labs opens Berlin factory as military demand booms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS21HckkyQnVxSFdzU3paN09SUzNoSENEUmswMDN3eGJ2RVBEY1lSYjZUYTlHSHpFTktyTHpraDg2SnMxUUtjR0Z1MG8zNDVVOWNrdW5Xb2FQZ2dZOTVJSzdHTTVqX1hLcHdoamZYZ2x5WV9VaHhfeDRuX2ZVam9ZTG9hd0o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmNaMTRQdzBQVzAtUnJ1aXcwaThaV0RIZlQ2WTZSWGlUc1Jib2FqbjlLbWU2NEpIZUNUZDRqeTRVVFFCd1J1UXJVZ1Y1VTlqdkRta1dVWF96VWRUcmVJX1piVFYtaXN5QXd6RkQ2VUYwN0xPVlAtU2psa0p1S3JqN2E1UEo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS21HckkyQnVxSFdzU3paN09SUzNoSENEUmswMDN3eGJ2RVBEY1lSYjZUYTlHSHpFTktyTHpraDg2SnMxUUtjR0Z1MG8zNDVVOWNrdW5Xb2FQZ2dZOTVJSzdHTTVqX1hLcHdoamZYZ2x5WV9VaHhfeDRuX2ZVam9ZTG9hd0o?oc=5" target="_blank">Paramount reaches settlement to clear path for $110bn Warner Bros deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmNaMTRQdzBQVzAtUnJ1aXcwaThaV0RIZlQ2WTZSWGlUc1Jib2FqbjlLbWU2NEpIZUNUZDRqeTRVVFFCd1J1UXJVZ1Y1VTlqdkRta1dVWF96VWRUcmVJX1piVFYtaXN5QXd6RkQ2VUYwN0xPVlAtU2psa0p1S3JqN2E1UEo?oc=5" target="_blank">US satellite maker Planet Labs opens Berlin factory as military demand booms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Stop the bleeding’: top Republicans tell Donald Trump to ban US diesel exports ahead of midterms - Financial Times
+## Betting on the yen: the risks of the carry trade - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGhjWlc5OTFjM0pISHJDTDVvdlBzWEJxNml2d05ObzdDYkhaYTM0V0Y4TDdXMG1aM2hxRW16c2hFV3Y5cm1MYlJISDdiMmNKYnNISWtvdkFQQ292UDl6ejc5bkRicFRON2tSSXpNb3kyNWQzaWpveWREb0kzRE5CWjd1V2Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNazFmQkhkZ1ItQ18zQ1RyaGtwVFZQNG9DTDJKcWJreEs1RloxOHVVLXF6Z3cwWWV1MGNfWC1LLVBwWklyMlE5Nkc4NXZNX3JrOGRra2lReWpVZDRUWUd3T2RkMXJrWmNwalJ2RUtlYzNyckhwRWlBbGJzNVhwU3FTMVc1NS0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGhjWlc5OTFjM0pISHJDTDVvdlBzWEJxNml2d05ObzdDYkhaYTM0V0Y4TDdXMG1aM2hxRW16c2hFV3Y5cm1MYlJISDdiMmNKYnNISWtvdkFQQ292UDl6ejc5bkRicFRON2tSSXpNb3kyNWQzaWpveWREb0kzRE5CWjd1V2Y?oc=5" target="_blank">‘Stop the bleeding’: top Republicans tell Donald Trump to ban US diesel exports ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNazFmQkhkZ1ItQ18zQ1RyaGtwVFZQNG9DTDJKcWJreEs1RloxOHVVLXF6Z3cwWWV1MGNfWC1LLVBwWklyMlE5Nkc4NXZNX3JrOGRra2lReWpVZDRUWUd3T2RkMXJrWmNwalJ2RUtlYzNyckhwRWlBbGJzNVhwU3FTMVc1NS0?oc=5" target="_blank">Betting on the yen: the risks of the carry trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump and Zohran Mamdani strike friendly tone in New York City housing talks - Financial Times
+## Racism backlash turns obscure Texas race into Republican flashpoint - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBpYzdPdW5Wdkg3azA4aUx1R2FUN1FBbTlMUktrN01xR2RvaDV0bXJjekY4UlRXWjVnNm1JbzhBZmlJODM2enlXS1JyeWNPbnRZVEJXTUlkUmNVTlM0RndHYjdYakVITGVKZjg2QmNxU3E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1MxdzVqUDBrT05rQy02RGd4OU1MVGJBbGRWVTVibjgtblR2OTVNSnk1VF9YaXkxY3FuZEQ1YWV1ODM2R19UMi1QdFZnTC1la2tvN2tOUlNYSHNzUkFpaHUydmRncVhDTEVWUDVtZFJURVRjWEZ6SEZ4cVlvOG9iYmpuRTM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBpYzdPdW5Wdkg3azA4aUx1R2FUN1FBbTlMUktrN01xR2RvaDV0bXJjekY4UlRXWjVnNm1JbzhBZmlJODM2enlXS1JyeWNPbnRZVEJXTUlkUmNVTlM0RndHYjdYakVITGVKZjg2QmNxU3E?oc=5" target="_blank">Donald Trump and Zohran Mamdani strike friendly tone in New York City housing talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1MxdzVqUDBrT05rQy02RGd4OU1MVGJBbGRWVTVibjgtblR2OTVNSnk1VF9YaXkxY3FuZEQ1YWV1ODM2R19UMi1QdFZnTC1la2tvN2tOUlNYSHNzUkFpaHUydmRncVhDTEVWUDVtZFJURVRjWEZ6SEZ4cVlvOG9iYmpuRTM?oc=5" target="_blank">Racism backlash turns obscure Texas race into Republican flashpoint</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI sued by Canadian province over role in mass shooting - Financial Times
+## Trump is checking out of his presidency - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzdYaVVBY1lvMnE0LWhlRTFyWXh3NXYyOEt5Y1dJWkh2dTRaWG5TcnZXZ0NpQ0NSUkRzNzlkeXVRejZRZnZ6Wk1OZmxxcldIOEJSdGpOcTBVSFJGeUpkMEJzbDJTOXg1N2hqbHpDdUZMX3cxbF9EUlZsNndkRWNDS3NVZDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NtMnM5ZjBRU0J1TzhrN0FZX3BodWU0bTBCRVlIclNRVnRuWUFrbUp4TVA1SVFXZFRhMmNadVlleE1ncmY0ZTR3MnR1ejVaMEd6UXB3TUtSSlhaOFVpODcxTFFsNXp3X3MzZ3FpUTN2S2pKVGg2YWM2am9sbDFsTnpfam4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzdYaVVBY1lvMnE0LWhlRTFyWXh3NXYyOEt5Y1dJWkh2dTRaWG5TcnZXZ0NpQ0NSUkRzNzlkeXVRejZRZnZ6Wk1OZmxxcldIOEJSdGpOcTBVSFJGeUpkMEJzbDJTOXg1N2hqbHpDdUZMX3cxbF9EUlZsNndkRWNDS3NVZDg?oc=5" target="_blank">OpenAI sued by Canadian province over role in mass shooting</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NtMnM5ZjBRU0J1TzhrN0FZX3BodWU0bTBCRVlIclNRVnRuWUFrbUp4TVA1SVFXZFRhMmNadVlleE1ncmY0ZTR3MnR1ejVaMEd6UXB3TUtSSlhaOFVpODcxTFFsNXp3X3MzZ3FpUTN2S2pKVGg2YWM2am9sbDFsTnpfam4?oc=5" target="_blank">Trump is checking out of his presidency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Kremlin-backed forgery scheme moved $6.9bn through global banks - Financial Times
+## Are we developing a distaste for effort? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUpkYlJlV0hFbDItVk5RMGhSS1BFcWxKcWt0aERLR0c3UzVPcW9BSUg1S0M5cGlJTGlEZ3dqQWI0eGVfZlV0U2xQNWZfS3p0Z01vTFBRY2txYzJJRUhKWnd6N2I3Mk9kRHVLTFdXbk1QS0g4RHRqUWlTS3BYUDc3RWlXM3M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQalo3X1NnZXR0VlppVDRkWVpXdUtqSnJPd05YQ1JRbGQ4RDB3c20yenFTaV9zTGI5cHB6bVdTNkp2aElXa0R3NURjVFI4V0w3Z2FzblJqb1J0RnNfZkpyNlNzYjJxMlNtS3BUdU9QeTZfMUtveXZYazVmQzJZaWZKdVFQa20?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUpkYlJlV0hFbDItVk5RMGhSS1BFcWxKcWt0aERLR0c3UzVPcW9BSUg1S0M5cGlJTGlEZ3dqQWI0eGVfZlV0U2xQNWZfS3p0Z01vTFBRY2txYzJJRUhKWnd6N2I3Mk9kRHVLTFdXbk1QS0g4RHRqUWlTS3BYUDc3RWlXM3M?oc=5" target="_blank">Kremlin-backed forgery scheme moved $6.9bn through global banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQalo3X1NnZXR0VlppVDRkWVpXdUtqSnJPd05YQ1JRbGQ4RDB3c20yenFTaV9zTGI5cHB6bVdTNkp2aElXa0R3NURjVFI4V0w3Z2FzblJqb1J0RnNfZkpyNlNzYjJxMlNtS3BUdU9QeTZfMUtveXZYazVmQzJZaWZKdVFQa20?oc=5" target="_blank">Are we developing a distaste for effort?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## G7 foreign ministers call on Iran to stop arming Houthis - Reuters
+## Trump says US will henceforth call AI 'super intelligence' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQS01wSTFweHdPbVI1QkNWSXlpQzMxd1FsX0lCcnBpNlQ4dFFVeDdTLWkxNmJNWEdBUi1iZ3VYQ0JjbGdIeGY4Q0ZZXzB6NW9fdVpkSXpLSzdvSzBKNHVBZDNVVGJJV1ZDZXNYMGpwVW9fMklhN0hjMVRia3FNcGFITkVrd1QyTVc4SWI3VXpyelRzbG5uTVZjZkNEZ1lETnpObGs4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQS01wSTFweHdPbVI1QkNWSXlpQzMxd1FsX0lCcnBpNlQ4dFFVeDdTLWkxNmJNWEdBUi1iZ3VYQ0JjbGdIeGY4Q0ZZXzB6NW9fdVpkSXpLSzdvSzBKNHVBZDNVVGJJV1ZDZXNYMGpwVW9fMklhN0hjMVRia3FNcGFITkVrd1QyTVc4SWI3VXpyelRzbG5uTVZjZkNEZ1lETnpObGs4?oc=5" target="_blank">G7 foreign ministers call on Iran to stop arming Houthis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5" target="_blank">Trump says US will henceforth call AI 'super intelligence'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tech rally boosts Asian stocks, dollar firms on rate-hike wagers - Reuters
+## EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5" target="_blank">Tech rally boosts Asian stocks, dollar firms on rate-hike wagers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5" target="_blank">EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Macron says he discussed Ukraine-Russia energy truce ideas with Trump - Reuters
+## Trump says he thinks US will make deal with Iran after election - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDY2SG1Ba0Z5TTRwY0IzMHBTTEpSTDZiaFRmNkY2SzVwRjV0TkF1TWFMUl9uZVF3RjhmcTFrQ2NDdVl3eDRQYnROaTV2bnliMHplaXJHVjZsNGJ3MGVZY0dSbjgwcjg3bm9HcXR5WmpDZXo0UDZrMlJJWWIzdjhHNDI4ZVQ1WW9LM1VmQmMwZVVKaWxHTVNiRF9vWkROUnR5a09uZ3ZiZlRnd3lUaWJSRA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkw1RzVpeWp6Q0lENW1HSzFGSUJoNEx5VmJZdWlpa2otcmNiY3RUeXlJc0FJMnNCc3Zsa2c0dUkxN3c3cGhiemFFd2xEWjZMUWtVQ1VvdG9sNmYtZF9XV1NoMjZFNEMzUTZJaVJkWlBlQ1VPRTA0WjB5QVNNUHlKZEw4SW1pNmI5TmM3RktzX1Zvbmp6cWQ1WXVWNUVab2NidTR5d2g3YmR3UWZuYVJUcQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDY2SG1Ba0Z5TTRwY0IzMHBTTEpSTDZiaFRmNkY2SzVwRjV0TkF1TWFMUl9uZVF3RjhmcTFrQ2NDdVl3eDRQYnROaTV2bnliMHplaXJHVjZsNGJ3MGVZY0dSbjgwcjg3bm9HcXR5WmpDZXo0UDZrMlJJWWIzdjhHNDI4ZVQ1WW9LM1VmQmMwZVVKaWxHTVNiRF9vWkROUnR5a09uZ3ZiZlRnd3lUaWJSRA?oc=5" target="_blank">Macron says he discussed Ukraine-Russia energy truce ideas with Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkw1RzVpeWp6Q0lENW1HSzFGSUJoNEx5VmJZdWlpa2otcmNiY3RUeXlJc0FJMnNCc3Zsa2c0dUkxN3c3cGhiemFFd2xEWjZMUWtVQ1VvdG9sNmYtZF9XV1NoMjZFNEMzUTZJaVJkWlBlQ1VPRTA0WjB5QVNNUHlKZEw4SW1pNmI5TmM3RktzX1Zvbmp6cWQ1WXVWNUVab2NidTR5d2g3YmR3UWZuYVJUcQ?oc=5" target="_blank">Trump says he thinks US will make deal with Iran after election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises slightly ahead of potential US-Iran talks - Reuters
+## EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5" target="_blank">Oil rises slightly ahead of potential US-Iran talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5" target="_blank">EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yen squeezed as hawkish turn grips central banks - Reuters
+## UN chief calls for AI curbs and end to wars in his last assembly address - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkpSMVRsY0JxTUpDS2t2WDhJNm5pSjdkME96Z2poVEhWM3JnZVU5MDZoMTlFQi1xZ3NZVllGX1JUYWRla0wxdk1aeUFOdEk5VWRZTnhTUmZtZHZ1a1pYNkIwWmpzN1FmaVZOSm5DYWdfTlZQWEZYVEU4OXZXckZ5LVBKVnBWUjhBd0VEQVo0ZkpnT3RkVGc2QUtOcmJlNDdlaEhZZmlYWVRCYWs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5" target="_blank">Yen squeezed as hawkish turn grips central banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkpSMVRsY0JxTUpDS2t2WDhJNm5pSjdkME96Z2poVEhWM3JnZVU5MDZoMTlFQi1xZ3NZVllGX1JUYWRla0wxdk1aeUFOdEk5VWRZTnhTUmZtZHZ1a1pYNkIwWmpzN1FmaVZOSm5DYWdfTlZQWEZYVEU4OXZXckZ5LVBKVnBWUjhBd0VEQVo0ZkpnT3RkVGc2QUtOcmJlNDdlaEhZZmlYWVRCYWs?oc=5" target="_blank">UN chief calls for AI curbs and end to wars in his last assembly address</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
