@@ -1,56 +1,16 @@
 # 每日财经新闻
 
-更新时间：2026-09-23 04:14:55
+更新时间：2026-09-23 16:34:27
 
-## Asian Bonds, Treasury Futures Rise as Oil Falls: Markets Wrap
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates
-
-正文长度：0
-
-摘要：Asia Pacific bonds rose alongside Treasury futures as falling oil prices eased inflation concerns after the US signaled progress in diplomatic efforts to end the war with Iran.
-
-
----
-
-## EnerVenue Signs Order with Chinese Oil Producer
+## Northern Ethiopia Erupts in Conflict After Rebels Form Coalition
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-23/enervenue-signs-order-with-chinese-oil-producer-video
+链接：https://www.bloomberg.com/news/articles/2026-09-23/ethiopian-airlines-cancels-tigray-flights-as-rebels-take-airport
 
 正文长度：0
 
-摘要：Henning Rath, CEO at battery startup EnerVenue, says the company's water-based nickel-hydrogen battery cells will be installed in an oilfield in northern China. He speaks on "Bloomberg: The China Show."
- (Source: Bloomberg)
-
-
----
-
-## Chinese Car Brands Hit Record European Share on Hybrid Demand
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-09-23/chinese-car-brands-hit-record-european-share-on-hybrid-demand
-
-正文长度：0
-
-摘要：Chinese automakers grabbed another record share of Europe’s car market last month, luring buyers still wary about going fully electric with more affordable hybrid vehicles.
-
-
----
-
-## Copper Retreats From Near Record as Traders Weigh Fed Outlook
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-09-23/copper-retreats-from-near-record-as-traders-weigh-fed-outlook
-
-正文长度：0
-
-摘要：Industrial metals fell, with copper retreating from near-record levels, as traders weighed the outlook for US interest rates amid shifting oil prices and comments from Federal Reserve officials.
+摘要：Violence has erupted in at least three northern Ethiopian regions, just days after several armed groups announced the formation of an alliance they said would oust Prime Minister Abiy Ahmed’s administration.
 
 
 ---
@@ -63,7 +23,134 @@
 
 正文长度：0
 
-摘要：Oil headed for the longest losing streak in more than a year, as Saudi Arabia moved to restart a key pipeline and the US flagged progress in talks with Iran to end a war that’s rocked the Middle East.
+摘要：Oil rose as traders factored dislocations in global fuel markets against fresh attacks in the Strait of Hormuz.
+
+
+---
+
+## London’s Struggling IPOMarket Shows Signs ofLife with Airtel Listing
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-23/london-s-struggling-ipo-market-shows-signs-of-life-video
+
+正文长度：0
+
+摘要：Airtel Mobile has filed for what could be London’s largest initial public offering in five years. Is the City's struggling IPO market making a comeback? Charles Capel explains. (Source: Bloomberg)
+
+
+---
+
+## Global Tensions Not Slowing Capital: Blackstone's Nides
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-23/global-tensions-not-slowing-capital-blackstone-s-nides-video
+
+正文长度：0
+
+摘要：Tom Nides, vice chairman of strategy and client relations at Blackstone, talks with Dani Burger on "Bloomberg Deals." They discuss global dealmaking, China, Canada, AI and data center "anxiety." (Source: Bloomberg)
+
+
+---
+
+## Stocks, Bonds Slip as Oil Jump Fuels Fed-Hike Bets: Markets Wrap
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates
+
+正文长度：0
+
+摘要：Stocks joined bonds lower as higher oil prices stoked worries about inflationary pressures, which were further bolstered by data showing jump in US business activity at the fastest pace since 2021.
+
+
+---
+
+## McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html
+
+正文长度：2316
+
+摘要：McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> McDonald's is predicting that flat traffic and higher inflation will continue to weigh on the restaurant industry, CEO Chris Kempczinski said Wednesday.
+"One of the things I've talked to our team about is we need to stop talking about that being a difficult environment, and just say that is the environment," Kempczinski said on CNBC's "Squawk on the Street." "Because I think, as we look out forward, we're not expecting things to change."
+For years, Kempczinski has been warning investors and analysts about the "challenging environment" faced by McDonald's and the broader industry. The burger chain reported U.S. same-store sales growth of just 0.8% in its most recent quarter as traffic to its domestic restaurants fell.
+Diners have been eating out less frequently, pushing back against higher menu prices as they face increased costs on everything from gas to groceries. From August 2025 to July 2026, industry operators surveyed by the National Restaurant Association reported a net decline in customer traffic in every month but one.
+To attract customers, McDonald's and its rivals have leaned into discounts. But diners aren't the only ones facing higher costs.
+Restaurant operators — like McDonald's and its franchisees — have seen beef prices soar. Kempczinski said that beef costs have nearly doubled over the last five years in the company's biggest markets. Other expenses, like labor and construction, have also ticked higher, putting more pressure on margins.
+"Across the board, we're seeing that inflation is sticky," Kempczinski said. "It's sticky, not just in the U.S., but around the world."
+Faced with tougher operating conditions, McDonald's is focusing on stealing diners from its rivals.
+"The biggest thing that you need to do in an environment like this is you have to be able to earn share," Kempczinski said. "You have to be able to actually grab growth from your competitors."
+While he said McDonald's will likely have to consider price increases, he added the chain will have to be careful not to drive diners away. He reiterated that the company believes it erred by raising prices too quickly in the years after the Covid pandemic.
+Kempczinski and other McDonald's executives will share more details about the company's plans to gain market share during its investor day on Wednesday.
+
+</details>
+
+
+---
+
+## McDonald's will spend big on restaurant upgrades, training to drive growth
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html
+
+正文长度：8991
+
+摘要：The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> McDonald's on Wednesday announced plans for its own media network, pricey restaurant upgrades and ways to win over GLP-1 users during an investor presentation at its Chicago headquarters.
+In June, the company unveiled its newest growth strategy, McDonald's > NEXT. The pillars of the plan include a new restaurant design, better-tasting food and drinks, consumer-led innovation, and improved hospitality from employees. But until Wednesday, executives had offered few details about how they would implement the plan and how it may affect its financial results over the coming years.
+The shifts come as McDonald's U.S. business tries to rebound from sluggish sales and as consumers hit by years of elevated inflation visit restaurants less often. The chain aims to win over more diners at a time the company expects inflation and flat traffic to restaurants overall will persist, CEO Chris Kempczinski told CNBC.
+The plan and Kempczinski's comments did not impress Wall Street, as McDonald's shares fell 5% in morning trading.
+A key part of the strategy is restaurant remodels, which McDonald's mandates roughly every decade for franchisees. The new design features updated PlayPlaces, which were previously being phased out, and more open kitchen layouts. Customers will be able to see their McCafe drinks being prepared.
+But the chain will also unveil what it calls Restaurant > NEXT, which includes improvements to equipment, technology and operations. It also will feature "ArchIQ," an artificial intelligence-powered operating system for restaurants. The company said "Archy" can take orders in English and Spanish from customers, saving about 50 labor hours per week, while other elements of ArchIQ can manage inventory and schedule shifts, as well as use scales to assess order accuracy.
+"Capabilities such as AI-enabled revenue management and Archy's suggestive sell will help increased average check over time," CFO Ian Borden said.
+McDonald's invests in restaurants
+All of those upgrades will require steep investment from franchisees. But McDonald's is also planning to provide financial support, through rent relief and actual capital. Through 2036, McDonald's plans to spend as much as $8.5 billion to accelerate franchisees' investment in the restaurant improvement plan.
+About $5 billion of that support will happen through 2030. McDonald's is projecting about $1.5 billion to $2 billion in capital spending from 2027 through 2030 to accelerate NEXT, in addition to about $3 billion every year on typical capital expenditures. (In 2025, McDonald's reported $3.4 billion in capital expenditures.)
+A standard lobby remodel of a drive-thru restaurant in the U.S. typically costs about $400,000 to $450,000, paid for by the franchisee. The additional investments tied to the plan will be "incremental" to the remodel expenses and cost roughly $800,000 per restaurant, although McDonald's will be providing financial support for some of that, according to Borden. Those investments will be phased, with tech, kitchen and operational upgrades adopted over time as they become available.
+Franchisees may protest the franchisor's expectations for their own investment in the restaurants, on top of standard cosmetic remodels. Beef and labor costs are already weighing on their profits.
+But executives think that the upgrades will pay off for their locations. McDonald's projects that efficiency improvements will result in an increase of roughly $100,000 in annual cash flow for the average U.S. restaurant, and the initiative will take about four years to return franchisees' investment. Average annual U.S. franchisee cash flow is currently about $500,000, up nearly 50% compared with 2019.
+While McDonald's plans to spend more to fuel restaurant improvements, the company said it aims to cut costs elsewhere, although it did not offer specifics. By 2030, McDonald's is targeting an operating margin in the low-to-mid 50% range. In 2025, the company reported operating margins of 46.1%, according to company filings.
+Some of that margin expansion will come from its general and administrative spending. By 2030, McDonald's is projecting that about 1.9% of its systemwide sales will go toward G&A. For comparison, the company is currently forecasting that 2.2% of its systemwide sales will be spent on G&A in 2026.
+"At the company, AI will help enable a step-change improvement in corporate G&A," Borden said.
+Higher operating margins will also come from increased revenue.
+McDonald's is planning to build a media network that involves advertising other businesses on its digital drive-thru displays. Executives said it could grow to become a billion-dollar business. The company has started testing it over the last month at 450 company-owned restaurants. Media networks have become high-margin businesses for retailers like Amazon and Walmart.
+McDonald's also has an eye on growing its sales globally. Some of that will come from new locations. Next year, the company expects restaurant openings will make up about 2.5% of its systemwide sales growth.
+The company's accelerated expansion will slow in the following years. By 2030, McDonald's anticipates new restaurants will account for only about 2% of growth to systemwide sales.
+Menu changes and more chicken
+In recent years, the burger chain has leaned into menu items other than its core beef offerings to drive sales, namely chicken and beverages. By 2030, McDonald's wants to grow its global market share in those two categories by about 1.5 percentage points each.
+McDonald's already sees nearly $15 billion in system sales from Chicken McNuggets, $4 billion from its McChicken and $2.5 billion from McCrispy menu items, according to Jill McDonald, the company's global chief restaurant experience officer. Altogether, the chain accounts for about 20% of chicken sales out of the entire $130 billion global category.
+But McDonald's wants a bigger bite.
+To grow its share of chicken sales, the chain plans to introduced hand-breaded chicken options. Chicken specialists like Chick-fil-A, Popeyes and Raising Cane's already hand-bread or batter their chicken for a crispier exterior and better taste. However, the technique requires more time and labor from employees.
+U.S. restaurants will soon start piloting hand-breaded chicken menu items, McDonald said.
+Other chicken options coming to McDonald's menu include new grilled chicken sandwiches and wraps and new flavors and sauces for Chicken McNuggets.
+Likewise, McDonald's wants a bigger share of the global $230 billion beverage category, according to McDonald. Today, it holds a roughly 10% share and is the second-largest coffee player globally. But the category is growing quickly, presenting more opportunities for the chain to grow sales.
+"Beverages are no longer just an add-on, but a reason to visit," McDonald said.
+In the U.S., McDonald's rolled out an expanded drink menu earlier this year, featuring refreshers, crafted sodas and energy drinks. The chain now plans to launch more beverages in its international markets. It also aims to upgrade the quality of its coffee; U.S. restaurants will receive new espresso machines and the opportunity to customize their drinks with alternative milk choices.
+And McDonald's has an eye on new food menu items, too.
+"We're exploring bowls, grilled chicken and egg bites to expand protein-forward options across breakfast, lunch and dinner," McDonald's U.S. President Skye Anderson said.
+Some of that protein-focused innovation is spurred by the growing adoption of GLP-1 drugs. For several years, investor concerns about how the medication will affect McDonald's sales have weighed on the stock. But executives on Wednesday expressed confidence that the chain will not lose customers because of changes to their appetites. Anderson said that 84% of households with at least one GLP-1 user still visit McDonald's.
+"This is an opportunity," she said. "We don't need to win a new base of customers into McDonald's. Instead, we need to keep giving them more reasons to make McDonald's their first choice as their eating habits evolve."
+Still, McDonald's isn't abandoning burgers. The company wants to hold onto its leadership in beef, too.
+It currently holds onto about 40% share of the $50 billion worldwide beef category, McDonald said. It plans to add its fresh beef Quarter Pounders in more markets outside of the U.S., where it made the shift about eight years ago. The chain also wants to improve the quality of its burgers, building off the success of its "Best Burger" improvements that rolled out in 2024.
+To do so, it plans on implementing "Make It Golden," a multiyear employee training program to ensure consistency, improved quality and better customer service.
+"While there's so much our customers love, we are falling short when it comes to consistent execution," Anderson said.
+The program will begin rolling out on Oct. 5, the 124th birthday of Ray Kroc, who turned the burger restaurant into a global giant.
+
+</details>
 
 
 ---
@@ -95,26 +182,25 @@ As part of its ultra-long-haul program, which it calls Project Sunrise, Qantas s
 
 ---
 
-## Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals
+## Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html
 
-正文长度：1191
+正文长度：920
 
 摘要：Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.
-The person, who asked not to be named because the talks had not been made public, said the deal values the Caribbean resort chain at $6 billion and that it was expected to boost growth for both companies. The talks are ongoing and may not result in a deal, according to the person.
-Royal Caribbean shares fell roughly 6% on reports of the potential deal, which was first reported by the Financial Times.
-The company's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
+> Royal Caribbean has agreed to take a 50% equity stake in Sandals for $3 billion, the companies announced Wednesday.
+The deal values the Caribbean resort chain at $6 billion and is expected to boost growth for both companies. The transaction is expected to close early next year.
+Royal Caribbean's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
 The cruise company has been intent on diversifying beyond cruises and becoming a leader in vacations overall. Royal Caribbean already operates several private destinations for its cruise passengers, but it has been working to build out its land offerings.
-Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, which would give Royal Caribbean a foothold in all-inclusive options.
-Neither Royal Caribbean nor Sandals immediately responded to requests for comment.
+Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, giving Royal Caribbean a foothold in all-inclusive options.
+The Financial Times and CNBC earlier reported the companies were in talks.
 
 </details>
 
@@ -152,228 +238,132 @@ An estimated 19.2 million Americans are currently enrolled in Obamacare plans, a
 
 ---
 
-## McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html
-
-正文长度：5988
-
-摘要：The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> McDonald's is expected to share more details about its new strategy to win back diners at its investor day on Wednesday in Chicago.
-The company unveiled its new global growth plan, called McDonald's > NEXT, in June at its biennial worldwide convention for franchisees. Pillars of the strategy include a new restaurant design, better-tasting food and drinks and consumer-led innovation. But executives have otherwise offered few details, holding back until Wednesday's event.
-Nearly three years after McDonald's previous investor day, the presentation comes after McDonald's U.S. business disappointed in its most recent quarter. The chain's same-store sales increased just 0.8%, and traffic to its restaurants fell.
-CEO Chris Kempczinski said that the problems were due to shortcomings in execution, like a mixed implementation of its value offerings, rather than issues with the chain's overall strategy. Skye Anderson, who was tapped as president of McDonald's U.S. business in the wake of the weak quarter, will likely speak on Wednesday.
-Kempczinski, Anderson and the rest of the McDonald's executive team will have to win over investors, who are increasingly skeptical that the fast-food giant can win over diners in the near term.
-Over the past 12 months, the stock has fallen 18%, dragging McDonald's market value down to about $175 billion. The S&P 500 has climbed 16% in the same period, as optimism about artificial intelligence has offset concerns about the financial health of consumers.
-Loading chart...
-Here's what McDonald's presentation is expected to cover:
-1) Value strategy
-Over the past two years, value has become all-important to restaurants, which are competing over a smaller pool of customers who care about both price and experience. While chains like Taco Bell and Chili's have thrived, McDonald's has struggled recently as its value offerings got lost among its other promotional messages.
-Plus, its franchisees have pushed back against discounts, which grow sales but eat into operators' profits, especially as high beef prices raise expenses. Only about two-thirds of McDonald's U.S. franchisees implemented its recent "under $3 menu," executives said in August. For its part, McDonald's lets franchisees set their own prices, but the company assesses how operators' menu prices help deliver value.
-Analysts expect that McDonald's will continue to emphasize value, and franchisees' cooperation will be key to its success.
-"We expect MCD to use this event to make it clear to franchisees that adherence to pricing recommendations will be a key factor in evaluating agreement renewals," Citi Research analyst Jon Tower wrote in a note to clients with his investor day predictions.
-Tower also cut his price target for the company to $310 per share from $345 a share, citing investor concerns about franchisees' buy-in for the company's overall strategy.
-2) Menu updates
-Besides value, McDonald's is also looking to attract diners through menu offerings with elevated taste and quality.
-In recent years, McDonald's has shifted its menu to include more chicken options, as beef prices have risen and rivals like Chick-fil-A threaten its sales. At the franchisee convention, executives shared that the next evolution of its chicken offerings will be hand-breaded. Chick-fil-A, Raising Cane's and Popeyes all hand bread or batter their chicken rather than using a machine. The technique usually results in a crispier exterior, but it takes more time and labor.
-In addition to chicken, McDonald's has also leaned into expanded beverage options recently. After winding down CosMc's, its drink-focused spinoff, McDonald's has rolled out a variety of beverage options in the U.S., including crafted sodas, refreshers and energy drinks. A handful of international markets, like Germany, have also been rolling out more drink offerings.
-"What's important — we'll talk a lot more about this at investor day — is beverages," Chief Financial Officer Ian Borden said on the company's earnings conference call in August.
-3) Restaurant remodels
-Roughly every decade, McDonald's mandates that franchisees remodel their restaurants to fit new aesthetic guidelines and improve their technology and equipment.
-And it looks like another round of restaurant renovations is coming as part of the growth strategy. At the convention, franchisees got the first look at the new restaurant design.
-Typically, McDonald's chips in some support for franchisees who are remodeling their restaurants. While upgraded locations usually generate higher sales, operators have to fund the remodels at a time when borrowing costs are elevated. And thanks to tariffs and high energy prices, construction costs are increasing, too.
-As a result of the remodel program, McDonald's capital expenditures could increase by $600 million to $900 million in 2027 and 2028 from its projected spending in 2026, according to a research note from BMO Capital Markets analyst Andrew Strelzik. But executives are expected to share the company's own projected costs for the remodel program at investor day.
-4) Cost cuts
-While McDonald's will likely spend more on capital expenditures over the next two years, the company will likely try to cut costs elsewhere.
-McDonald's will share its outlook for general and administrative spending during investor day, Borden said in August.
-McDonald's could target G&A spending to be less than 2% of its systemwide sales, down from its current goal of 2.2%, Bernstein analyst Danilo Gargiulo wrote in a note to clients. In recent years, the company's workforce has shrunk as part of a reorganization effort.
-Indirectly, McDonald's will also cut costs by refranchising some of its company-owned restaurants.
-Selling locations to franchisees means that McDonald's will not be responsible for the operational costs or capital expenditures required to run a restaurant successfully. The company will also share more details about those plans at the investor day, according to Borden.
-
-</details>
-
-
----
-
-## Peloton is revamping its treadmills with new features in the next phase of its turnaround
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html
-
-正文长度：5203
-
-摘要：With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Peloton is betting that revamped treadmills, AI and new distribution channels can bring it back to sustained growth.
-The connected fitness company on Tuesday unveiled three new treadmills and new features for its Peloton IQ artificial intelligence platform with tools for runners, walkers and hikers. Peloton aims to widen its customer base, from people looking for a more affordable, space-saving treadmill to more experienced athletes looking for personalized coaching.
-"From record marathon turnouts around the world to the rise of local run clubs, we're rediscovering the joy of running, walking and hiking," said CEO Peter Stern in a press release.
-But the stakes remain higher than simply selling new equipment. Shares have dropped 43% since Stern stepped into the role in January 2025.
-Peloton has spent the past several years cutting costs, restructuring its operations and repairing its balance sheet after the pandemic-era boom in connected fitness gave way to a sharp slowdown in demand. The company has returned to profitability and improved its cash generation, but revenue growth is a challenge as subscriptions trend lower.
-Now Stern is putting more emphasis on widening the company's potential revenue sources.
-"Expanding our treadmill portfolio and launching AI-powered software for runners will allow us to connect with a much wider audience," Stern said.
-The treadmill relaunch, Peloton said, is also addressing the company's long-standing challenge getting consumers to buy high-cost equipment that takes up a lot of space.
-The Tread Flex will start at $2,195, making it Peloton's lowest-cost treadmill of the new hardware and its first folding model. The new treadmill can contract by nearly half its size, potentially broadening the product's appeal among consumers with less space or lower equipment budgets
-At the other end of its lineup, Peloton is keeping the $6,695 Tread+ Vision the same price. It is also increasing the price of the middle model, the Tread Vision, by $200, to $3,495.
-The higher-end products include movement-tracking cameras that provide insights on a user's running form. The Tread+ Vision also includes Sled Mode, meant to allow users to add up to 300 pounds of resistance for strength training as hybrid races like Hyrox become more popular.
-An AI-powered running coach
-The wider range of prices brings questions about how Peloton will keep buyers engaged.
-That is where Peloton IQ comes in.
-Peloton launched the service last year as an AI-powered software system for personalized recommendations and coaching. The company is now expanding it with features specifically aimed at runners.
-The new Run Analysis feature uses live video to score running efficiency and provide personalized pace, form and heart-rate guidance, similar to feedback from an in-person coach.
-The strategy moves Peloton further away from simply being a screen attached to a piece of exercise equipment. The company is positioning its hardware, content and data as a connected training system.
-"The Peloton advantage has always been the sum of its parts," said Chief Product Officer Nick Caldwell in the release. "It's about the instructors and content you love, the software that simplifies wellness and equipment that fits seamlessly into your life and transforms your routine."
-That could be particularly important as Peloton tries to reach more experienced and affluent athletes who may already use products from Garmin, Whoop and other fitness platforms.
-Peloton already integrates with Apple Health, Fitbit and Garmin Connect. It is now adding Whoop, allowing members to connect their accounts and have Peloton workouts contribute to personalized insights in the Whoop app.
-The company is leaning further into the broader running boom, offering more than 17,000 Tread-specific classes and adding race-training programs designed to take members through full training for events like the New York City Marathon.
-For investors, however, the key question isn't whether the new products offer a better exercise experience than the old ones. It is whether they can change Peloton's growth trajectory.
-Truist analyst Youssef Squali told CNBC in a statement that the firm expects "revenue to remain pretty muted given continuous headwinds to subscriber growth." He said the firm anticipates next calendar year will be better for Peloton as its hardware and software improves and it refinances its debt.
-Squali has a "buy" rating on the stock and a $9 price target, compared with its Monday closing price of $4.95 a share.
-The equipment changes add to a range of efforts Peloton is making to boost its business.
-The company also recently expanded its content distribution through a partnership with Spotify, putting more than 1,400 Peloton strength and wellness classes in front of Spotify Premium subscribers. It is also building a commercial fitness business, selling more durable versions of its equipment to hotels, apartment buildings, gyms and other high-use environments.
-After years of focusing on cost cutting and financial stability, Peloton is now trying to convince investors that it can grow the business again.
-The holiday season will be an early test of that strategy.
-
-</details>
-
-
----
-
-## US government and Gulf billionaires back Todd Boehly bid for Lukoil assets - Financial Times
+## US Treasury yields soar after strong data fuels bets on further rate rises - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVVib1lBWGNob0RxbTVuS0dVMkhRc0d6Mi1aU1Z4UmFQbDFMOTExLTlHaFUwZjVtejJPdVVMaV90ZHhNNzhlUEIxSktDaWUwbFA0R2FwZkN3akltWThVTVJtc3NZM3FMbTd5RHBNUTlEbjBnNXAxR0lNSjl6ZXdKLUFXSWM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVVib1lBWGNob0RxbTVuS0dVMkhRc0d6Mi1aU1Z4UmFQbDFMOTExLTlHaFUwZjVtejJPdVVMaV90ZHhNNzhlUEIxSktDaWUwbFA0R2FwZkN3akltWThVTVJtc3NZM3FMbTd5RHBNUTlEbjBnNXAxR0lNSjl6ZXdKLUFXSWM?oc=5" target="_blank">US government and Gulf billionaires back Todd Boehly bid for Lukoil assets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5" target="_blank">US Treasury yields soar after strong data fuels bets on further rate rises</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US and Iran hold first talks since June as Donald Trump threatens ‘annihilation’ - Financial Times
+## Geely unveils sub-5 minute EV charging as battery race revs up - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmdHdDZhZzZhZGx6a2ZrTXJ6c2hFNzFpSjNfZXRzOWZQQmgyVVBjNnRkaEJEWmZLRlgtS0hVNWp4RHBtS1dYT0w5Tk5mZTNHR18yTVhKZ3RESVZsck5VLVhFcmdhQnhXWF9LQ0thZXgxMndUOGJ5NUo3b1JJcDhwRGc1R2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzhJci0tZl9DVnRXb0h4YTFKaUp3eG5VQTBtenVWcW96YzliY3owcEdSTVFMSXo5MVIwVFJVQzVtcGg0c2xadjZOR09vd0l0WEJBR1Z1SXlHTk1QUkVPSm9kb1ZUOWhSeFVMcGFBZVZpSHhlUk90VEtWMkJPTlo2S2JsWW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmdHdDZhZzZhZGx6a2ZrTXJ6c2hFNzFpSjNfZXRzOWZQQmgyVVBjNnRkaEJEWmZLRlgtS0hVNWp4RHBtS1dYT0w5Tk5mZTNHR18yTVhKZ3RESVZsck5VLVhFcmdhQnhXWF9LQ0thZXgxMndUOGJ5NUo3b1JJcDhwRGc1R2c?oc=5" target="_blank">US and Iran hold first talks since June as Donald Trump threatens ‘annihilation’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzhJci0tZl9DVnRXb0h4YTFKaUp3eG5VQTBtenVWcW96YzliY3owcEdSTVFMSXo5MVIwVFJVQzVtcGg0c2xadjZOR09vd0l0WEJBR1Z1SXlHTk1QUkVPSm9kb1ZUOWhSeFVMcGFBZVZpSHhlUk90VEtWMkJPTlo2S2JsWW4?oc=5" target="_blank">Geely unveils sub-5 minute EV charging as battery race revs up</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump is checking out of his presidency - Financial Times
+## European diesel prices climb over prospect of US export ban - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NtMnM5ZjBRU0J1TzhrN0FZX3BodWU0bTBCRVlIclNRVnRuWUFrbUp4TVA1SVFXZFRhMmNadVlleE1ncmY0ZTR3MnR1ejVaMEd6UXB3TUtSSlhaOFVpODcxTFFsNXp3X3MzZ3FpUTN2S2pKVGg2YWM2am9sbDFsTnpfam4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDlTbEtkcmpvbDkxaVFjaFdzMkpjWXJXRUdvcERmb2NQZXIzdjNyRjdmMmlEd2tsYVpsMkNQbFlMU2w1dnhvM09ZbjNMRGZpd3hjMVZWZW1MYmxnQVoxOThpSmRvLXRTU3JiUWEtbktMY1h1S2VFclozOFJ3QXI3dnVYZ0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NtMnM5ZjBRU0J1TzhrN0FZX3BodWU0bTBCRVlIclNRVnRuWUFrbUp4TVA1SVFXZFRhMmNadVlleE1ncmY0ZTR3MnR1ejVaMEd6UXB3TUtSSlhaOFVpODcxTFFsNXp3X3MzZ3FpUTN2S2pKVGg2YWM2am9sbDFsTnpfam4?oc=5" target="_blank">Trump is checking out of his presidency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDlTbEtkcmpvbDkxaVFjaFdzMkpjWXJXRUdvcERmb2NQZXIzdjNyRjdmMmlEd2tsYVpsMkNQbFlMU2w1dnhvM09ZbjNMRGZpd3hjMVZWZW1MYmxnQVoxOThpSmRvLXRTU3JiUWEtbktMY1h1S2VFclozOFJ3QXI3dnVYZ0w?oc=5" target="_blank">European diesel prices climb over prospect of US export ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump says he would back US diesel export ban - Financial Times
+## China reviews dependence on Broadcom switches in data centres - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGE5YTFBUGFCa3Mwc242VWFsb3JMWTgwRmlsanNSUjltTWVpeE1hU2ZNZHUwZTRSRFByb0tFMkpBSTl5NkZyblRESERuSWJQUC1IQWF5ek55MUFmMzU1Rzh5OVlWUTF2cExiVThwNHFvRzEweXJkU1djdXJfWF9ndTZpMno?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTdRalNuNWdVMWpFT2dYcjVBREdSRC1qUDRLWE5MSTZHOURYSWtaNWJlOTNKeXFERWJ5N1BobTgyZ3c3WElUVVFLMW80NWtNVGJVR2c5SWpVb01BTkx4VVUxMUNyYnBXem5NRE1YYWwxQzEzd3RlX2F1MkJrUUl1dU1BdDI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGE5YTFBUGFCa3Mwc242VWFsb3JMWTgwRmlsanNSUjltTWVpeE1hU2ZNZHUwZTRSRFByb0tFMkpBSTl5NkZyblRESERuSWJQUC1IQWF5ek55MUFmMzU1Rzh5OVlWUTF2cExiVThwNHFvRzEweXJkU1djdXJfWF9ndTZpMno?oc=5" target="_blank">Donald Trump says he would back US diesel export ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTdRalNuNWdVMWpFT2dYcjVBREdSRC1qUDRLWE5MSTZHOURYSWtaNWJlOTNKeXFERWJ5N1BobTgyZ3c3WElUVVFLMW80NWtNVGJVR2c5SWpVb01BTkx4VVUxMUNyYnBXem5NRE1YYWwxQzEzd3RlX2F1MkJrUUl1dU1BdDI?oc=5" target="_blank">China reviews dependence on Broadcom switches in data centres</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump rejects ‘globalist scheme’ to control AI in blow to Andy Burnham - Financial Times
+## Ozempic maker Novo open to upgrading New York listing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEI2a3BUUVRNeDZ5NXZlTGFyN0RqdWFoM0ptM0tRLXN3cEZ6R3FYbjA3eXJ5VzlsZ1o1UnY5ZUs5aGRzVVBxaGszendJckozSEVJVmtkaVBCZVlaOVlUTGhhMzJCZ3hqWWpKOXZmbVgzd0RtQ212ZG1xSEpfMmcyLTg5SHY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmFqN0o2ZHplRHFkQ1YzdDZJVkhJTWcwSUMwUkJ3QUxQS19fRTczTzl2LTR2bmZXV2U1RHBOcXJxc2ROU2NnZFRHTWNXMTNqbzVTVkhYSm8xWFU1a0RWUUhLZlE5NzVSN0NzU3lVR3pTWkwwQkdCdlNpWWxkX3YyOEJmQ0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEI2a3BUUVRNeDZ5NXZlTGFyN0RqdWFoM0ptM0tRLXN3cEZ6R3FYbjA3eXJ5VzlsZ1o1UnY5ZUs5aGRzVVBxaGszendJckozSEVJVmtkaVBCZVlaOVlUTGhhMzJCZ3hqWWpKOXZmbVgzd0RtQ212ZG1xSEpfMmcyLTg5SHY?oc=5" target="_blank">Donald Trump rejects ‘globalist scheme’ to control AI in blow to Andy Burnham</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmFqN0o2ZHplRHFkQ1YzdDZJVkhJTWcwSUMwUkJ3QUxQS19fRTczTzl2LTR2bmZXV2U1RHBOcXJxc2ROU2NnZFRHTWNXMTNqbzVTVkhYSm8xWFU1a0RWUUhLZlE5NzVSN0NzU3lVR3pTWkwwQkdCdlNpWWxkX3YyOEJmQ0g?oc=5" target="_blank">Ozempic maker Novo open to upgrading New York listing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Asia stocks ride tech wave higher, oil stays subdued - Reuters
+## Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjhvWl9UZXFUYjJ2MHhOTWJvdFgxYUN2b1NuVXYtYTNwVXEzS0J6cVVrZTVBYWxmNHJTLUZ6SG55eFE4azRCZVZDUloyUnVtNE85dGp5Q2xDUmtOVEdVUl8wenVVdUZpWm5ONE5OQUhSYjd1VWNfNm9Ib3g0VjBqdXItY1pTdW5XekI5MFJOWGpoazl2Y29Zb2dMSWx6S2VRckFRVm1WVUlYUkQ1S0dGM3piVGZ6TjgyNGZXcWNFVWFxN2M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5" target="_blank">Asia stocks ride tech wave higher, oil stays subdued</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjhvWl9UZXFUYjJ2MHhOTWJvdFgxYUN2b1NuVXYtYTNwVXEzS0J6cVVrZTVBYWxmNHJTLUZ6SG55eFE4azRCZVZDUloyUnVtNE85dGp5Q2xDUmtOVEdVUl8wenVVdUZpWm5ONE5OQUhSYjd1VWNfNm9Ib3g0VjBqdXItY1pTdW5XekI5MFJOWGpoazl2Y29Zb2dMSWx6S2VRckFRVm1WVUlYUkQ1S0dGM3piVGZ6TjgyNGZXcWNFVWFxN2M?oc=5" target="_blank">Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Zelenskiy says Russia planning new mass attack on Ukraine - Reuters
+## US Energy Secretary Wright says diesel export ban would not work - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5" target="_blank">Zelenskiy says Russia planning new mass attack on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5" target="_blank">US Energy Secretary Wright says diesel export ban would not work</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil falls on increased Gulf supply and hopes for US-Iran talks - Reuters
+## China's Xi to visit Washington without CEO delegation, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkhzenNiZ2IydzlmSHA5dHc3SE8tWHZRUUIxczNoMkNFZ19PLUhNc2w2VlVJbzgwRjFGc3cwMDJ1YTI3SU5uWVMxUVd2andsNjJPd05hQmhMejZ0R09wemU3QlNEbE9PNHZadkJVVFhXZkFJR21Ddlo3MHVOck1jSTJoYloxeDZYdFNteWdiek9vTXRoN2RuWFlLWVpTSTBDZWp6SnZSUlVDZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5" target="_blank">Oil falls on increased Gulf supply and hopes for US-Iran talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkhzenNiZ2IydzlmSHA5dHc3SE8tWHZRUUIxczNoMkNFZ19PLUhNc2w2VlVJbzgwRjFGc3cwMDJ1YTI3SU5uWVMxUVd2andsNjJPd05hQmhMejZ0R09wemU3QlNEbE9PNHZadkJVVFhXZkFJR21Ddlo3MHVOck1jSTJoYloxeDZYdFNteWdiek9vTXRoN2RuWFlLWVpTSTBDZWp6SnZSUlVDZw?oc=5" target="_blank">China's Xi to visit Washington without CEO delegation, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump meets Venezuela's Rodriguez for first time since Maduro's capture - Reuters
+## Russian military helicopter entered Polish airspace briefly, Polish army says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC16N2FEN1QtSGNHWGFtbDRiVGx6Ymp4RWtNSG05bG9relBsN0dXV0V1czZ6UzM4cXNVVVVNZWh4b1lqQkN0ZnEyVk15dVloMl9WaDVPRkJRTnBudHprOUJ3Yk10azlJcHlremJFLWxTOXp4ZjlfaUtrU0xNamVZZlozQ3M1dDJGZGE0QUxxSW5Pd3VjUXRJWGs0cEI1aF9YQmhNZzQ2V1RlWldGSDNkRVN5azlzQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWdWYUU3UHU3elo4dTU5RHRsN3ltVXhiMi1WdHhrcGFjLWF6S0JsSUlrRmRKanE1Z2pxa3JMRng0MHFrWGM3aF8xSFpVOXpMSnNKMGZFUk55Tmh5VGR2WHBacDE1LUNFSjU4dFRoSFhkMUtmamtJbVZMV1VVRnJVTlBXTXVGa1lFM09XLTJobTRZd2tpQi0tWXBJTzNZTjB4eXBnVjVlc251UmxNOXU1cnJsWXRReHpvOU05dnlFTUpabDZTam5OTFlDblFnUlRRcGQwa3pn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC16N2FEN1QtSGNHWGFtbDRiVGx6Ymp4RWtNSG05bG9relBsN0dXV0V1czZ6UzM4cXNVVVVNZWh4b1lqQkN0ZnEyVk15dVloMl9WaDVPRkJRTnBudHprOUJ3Yk10azlJcHlremJFLWxTOXp4ZjlfaUtrU0xNamVZZlozQ3M1dDJGZGE0QUxxSW5Pd3VjUXRJWGs0cEI1aF9YQmhNZzQ2V1RlWldGSDNkRVN5azlzQQ?oc=5" target="_blank">Trump meets Venezuela's Rodriguez for first time since Maduro's capture</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWdWYUU3UHU3elo4dTU5RHRsN3ltVXhiMi1WdHhrcGFjLWF6S0JsSUlrRmRKanE1Z2pxa3JMRng0MHFrWGM3aF8xSFpVOXpMSnNKMGZFUk55Tmh5VGR2WHBacDE1LUNFSjU4dFRoSFhkMUtmamtJbVZMV1VVRnJVTlBXTXVGa1lFM09XLTJobTRZd2tpQi0tWXBJTzNZTjB4eXBnVjVlc251UmxNOXU1cnJsWXRReHpvOU05dnlFTUpabDZTam5OTFlDblFnUlRRcGQwa3pn?oc=5" target="_blank">Russian military helicopter entered Polish airspace briefly, Polish army says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035 - Reuters
+## Amazon rolls out new agentic AI for third-party sellers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE55dDdROVIwdjhlcVFjWnRFQmx0T3pxNldiUkE1eklicGwtRlFGMEljOFoxT01rMVdURzhrTlhCV3NxNnFpSGdSQUROSUROUjVRX3d1R0ZPSDh3RHFBNE1FV21oR0ZpU0pYbXNCRmotM2hna09KT24wX0ljWl8yS2dEU05wUVJSbjNQck04MzR5blJmamxSSVlzZFdWNUZNeVRxODBsbldaaVE4cFItSDY0eFFKYkJYbmRoUFQxX0dxaVlpSUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE55dDdROVIwdjhlcVFjWnRFQmx0T3pxNldiUkE1eklicGwtRlFGMEljOFoxT01rMVdURzhrTlhCV3NxNnFpSGdSQUROSUROUjVRX3d1R0ZPSDh3RHFBNE1FV21oR0ZpU0pYbXNCRmotM2hna09KT24wX0ljWl8yS2dEU05wUVJSbjNQck04MzR5blJmamxSSVlzZFdWNUZNeVRxODBsbldaaVE4cFItSDY0eFFKYkJYbmRoUFQxX0dxaVlpSUE?oc=5" target="_blank">South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5" target="_blank">Amazon rolls out new agentic AI for third-party sellers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
