@@ -1,34 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-09-24 04:10:26
+更新时间：2026-09-24 16:53:57
 
-## Bessent: US, China to Extend Trade Truce to January 10
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-09-24/bessent-us-china-to-extend-trade-truce-to-january-10-video
-
-正文长度：0
-
-摘要：Treasury Secretary Scott Bessent announced the US and China have sealed a two-month extension to their trade truce as Xi Jinping landed in America for his first state visit in eleven years. (Source: Bloomberg)
-
-
----
-
-## Schneider Electric Said Near Deal for Smart Device Firm Shelly
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-09-24/schneider-electric-said-near-deal-for-smart-device-firm-shelly
-
-正文长度：0
-
-摘要：Schneider Electric SE is nearing an agreement to acquire Shelly Group SE, a maker of smart devices for the home, according to people familiar with the matter.
-
-
----
-
-## Bond Selloff Deepens as Fed Rate-Hike Bets Build: Markets Wrap
+## S&P 500 Erases Its Decline on Hormuz Deal Hopes: Markets Wrap
 
 来源：彭博社
 
@@ -36,355 +10,350 @@
 
 正文长度：0
 
-摘要：A global selloff in bonds intensified, jolting investors as robust US economic data and weak demand at a debt auction drove Treasury yields across much of the curve to their highest levels in almost two decades.
+摘要：Hopes for an agreement to revive the Strait of Hormuz spurred a rebound in stocks and bonds from session lows in a volatile session marked by still-elevated oil prices.
 
 
 ---
 
-## Tumbling Global Government Bonds Put Yields on Brink of 4%
+## Iran Flights to UAE Halted as US Sanctions Bite Connectivity
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-24/tumbling-global-government-bonds-put-yields-on-brink-of-4
+链接：https://www.bloomberg.com/news/articles/2026-09-24/iran-flights-to-uae-halted-as-us-sanctions-bite-tehran-s-network
 
 正文长度：0
 
-摘要：A worsening bond selloff is pushing the average yield on global government debt to within a whisker of 4%, a level not seen since 2007.
+摘要：Iranian flights to the United Arab Emirates were canceled as US sanctions start biting into Tehran’s already limited connectivity with other countries.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Sept. 24
+## New York Sues Polymarket US as ‘Illegal Gambling Business’
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-23/latest-oil-market-news-and-analysis-for-sept-24
+链接：https://www.bloomberg.com/news/articles/2026-09-24/new-york-accuses-polymarket-us-of-running-unlicensed-gambling
 
 正文长度：0
 
-摘要：Oil fell — after surging almost 4% on Wednesday — as the US again suggested major volumes are getting through the Strait of Hormuz.
+摘要：New York sued Polymarket US for allegedly running an illegal gambling business, escalating the legal fight against prediction markets in the state.
 
 
 ---
 
-## Why McDonald's is following Walmart and Amazon into the advertising business
+## TJ Maxx Is a Force in Luxury Retail
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-24/opinion-tj-maxx-is-a-force-in-luxury-retail-video
+
+正文长度：0
+
+摘要：TJ Maxx has become a force in luxury retail, taking advantage of department stores canceling orders and brands clearing end of season lines. But whilst it’s good for shoppers as the average price of luxury goods increases, the strategy has risks for the store and the high-end labels, explains Bloomberg Opinion columnist Andrea Felsted.  (Source: Bloomberg)
+
+
+---
+
+## Stocks Drop as Oil Rally Fuels Treasury Volatility
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-09-24/stocks-drop-as-oil-rally-fuels-treasury-volatility-video
+
+正文长度：0
+
+摘要：A renewed episode of bond volatility left traders unwilling to make riskier bets, with stocks falling on worries that elevated oil prices will fuel inflation and force the Federal Reserve to lift rates.
+Keith Lerner, CIO at Truist, discusses the path of the S&amp;P amid mounting market pressures. (Source: Bloomberg)
+
+
+---
+
+## Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html
+链接：https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html
 
-正文长度：2862
+正文长度：3599
 
-摘要：McDonald's is following the lead of Amazon and Walmart as it starts its own media network.
+摘要：Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> McDonald's on Wednesday announced plans to create its own media network, following in the footsteps of retail giants like Amazon and Walmart.
-In August, 450 of its company-owned U.S. restaurants began displaying advertising for other companies on its digital drive-thru order boards as part of a pilot. It is early days for the program, which has not yet rolled out to the franchisees who operate the rest of its roughly 14,000 U.S. locations.
-Still, McDonald's hopes that it could eventually grow to be a $1 billion business for the company.
-"Commerce media is one of the fastest-growing areas in advertising, and it's expected to reach more than $100 billion in the U.S. alone by 2028," Morgan Flatley, McDonald's global chief marketing officer and executive vice president of new business ventures, said during an investor presentation.
-"It's an opportunity to generate revenue for the system with little in the way of additional cost, no operational complexity and no disruption to our customer experience," Flatley added.
-The move could eventually bring McDonald's a steady stream of high-margin revenue as costs for key inputs like beef climb and as the chain plans to invest billions of dollars in restaurant upgrades over the next decade.
-In the restaurant industry, McDonald's would be a pioneer for creating its own media network. CFO Ian Borden said that the company is uniquely positioned to make it a success.
-"We have one of the most valuable brands of any company of our size and scale in any industry," Borden told CNBC. "We serve about 85% of the U.S. population at least once a year, so we have reach that's quite unique, and we have 14,000 locations across the U.S., which means we're in every community, and we're connecting with every consumer."
-Retailers like Amazon and Walmart have found success running their own media networks, which tend to be high-margin businesses. Amazon reported $68.6 billion in advertising service sales in 2025, accounting for just under 10% of the company's overall revenue. Amazon's ads appear across its portfolio, from its shopping pages to Prime Video to lockers and live streaming platform Twitch, as well as third-party apps and websites.
-Walmart does not share specific sales results for its advertising unit, but the company said that Connect, its U.S. ad business, grew sales 43% in its fiscal second quarter. The retailer's media network shows ads on its app, website and inside its more than 4,600 U.S. stores, plus outside apps like Instagram. It also bought TV maker Vizio in late 2024 with an eye toward its ad business.
-McDonald's newest venture was announced as part of the company's investor day, which was hosted at its Chicago headquarters. In addition to the media network, executives shared more details about plans to grow sales through pricey restaurant upgrades and better food quality.
+> DETROIT — Hyundai Motor is expected to outsell Ford Motor in quarterly sales for the first time ever, according to a new forecast released Thursday by Cox Automotive.
+The South Korean automaker is expected to report a 6.5% increase in year-over-year sales from July through September to 511,421 units. That compares with an expected 7.1% decline for Ford over the third quarter to 504,172 new vehicles sold, according to Cox predictions.
+The expected leaderboard change would make Hyundai the third best-selling automaker in the U.S. behind General Motors and Toyota Motor.
+That change comes as new vehicle sales have been stronger than expected this year. Cox on Thursday raised its 2026 forecast by roughly 2%, to 16.1 million units.
+"The automotive market this year has been pretty resilient," Jeremy Robb, Cox chief economist, said Thursday during a media call. "New and used sales are both down year over year, but they're not down really that much."
+Hyundai's hot streak
+Hyundai, including its luxury Genesis brand and corporate sibling Kia, has been making major inroads in the U.S. this year. Ford, meanwhile, has struggled with production of its crucial F-Series pickup trucks following two supplier fires last year that disrupted production and sales.
+Hyundai CEO José Muñoz told CNBC last month that topping Ford in U.S. sales isn't a goal but if it happens, it's because of the company's continued focus on products and execution.
+"We focus on delivering, the best, safe products to the customer with the highest possible quality," Muñoz said, noting the company is No. 3 in sales globally. "And we end up achieving unbelievable goals."
+Aside from pickup production troubles, Cox analysts said sales for Ford and its crosstown rival GM are being hindered by a lack of hybrid vehicles — a rapidly growing market in the U.S. amid inflated gas prices.
+"If you don't have vehicles to catch [consumers] where they are, then there are other manufacturers that likely would step into the gap," Erin Keating, a Cox executive analyst, said Thursday during a media call.
+GM only offers a hybrid version of its Corvette, while Ford's hybrids include its Maverick and F-150 pickup trucks.
+Toyota gains on GM
+Hybrid leader Toyota Motor also has been narrowing its sales gap with No. 1 sales leader GM. Cox said last quarter that GM could be overtaken by the Japanese automaker this year in annual sales.
+GM is expected to report a year-over-year sales decline of 5.2% to 671,706 new vehicles sold during the third quarter, while Toyota is predicted to report a 2.2% gain to 642,707 units. For the year, Toyota is trailing GM by fewer than 121,100 units.
+If Toyota can top GM, it would mark the second time Toyota has ever outsold GM in annual U.S. sales. The first time was in 2021 when supply chain disruptions affected vehicle production.
+Cox experts noted that fuel prices — at a AAA national average of $4.48 per gallon — are impacting the sales of big trucks and SUVs, which are crucial to sales for the Detroit automakers.
+GM, Ford and Chrysler parent Stellantis also have renewed their focus on gas-guzzling V-8 engines in their larger pickups and SUVs amid deregulation of emissions and fuel economy standards by the Trump administration.
+"I think that's probably one of the callouts for the domestics is that they have made some interesting decisions around product," Keating said.
+Cox expects Stellantis to report a 1.3% decline in U.S. vehicle sales during the third quarter, with total sales for the year expected to be up 2.8% as the automaker orchestrates a companywide turnaround plan.
 
 </details>
 
 
 ---
 
-## As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry
+## MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html
+链接：https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html
 
-正文长度：5208
+正文长度：1384
 
-摘要：Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.
+摘要：Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> DETROIT — As President Donald Trump meets with Chinese President Xi Jinping this week, U.S. politicians as well as the global automotive industry are warning that allowing Chinese automakers to enter the market could be a Pandora's box.
-Trump earlier this month said he might be "OK" letting Chinese automakers into the U.S. if they produced vehicles domestically, leading a consortium of auto trade groups representing every major facet of the American auto industry to urge him to rethink that position.
-It was an uncharacteristically unified message from automakers operating in the U.S., franchised dealers and suppliers. More than two dozen Democratic lawmakers followed that push with their own letter, urging Trump to keep in place U.S. restrictions against Chinese automakers.
-"It's not at this point a partisan issue," Sen. Elissa Slotkin, D-Mich., told reporters Wednesday. "It's about whether we want to make cars in America and whether we want a manufacturing base that can pivot when we need it. If we want that, we shouldn't let them in our country."
-Trump is scheduled to host Xi and a delegation from China on Thursday and Friday that reportedly could include Wang Chuanfu, founder of BYD, China's largest automaker, and Robin Zeng, founder of CATL, the world's top battery maker for electric vehicles.
-Michael Dunne, an expert on China's automotive industry and a former General Motors executive, said even the potential that those two executives could attend underscores the importance of Xi's trip for the U.S. auto industry.
-GM CEO Mary Barra is also expected to be among the attendees at Trump's state dinner for Xi, Reuters reported Wednesday, along with several other U.S. executives, including Tesla CEO Elon Musk.
-As for America's other largest automakers, Ford Motor declined to disclose whether CEO Jim Farley will be attending after the Department of Transportation criticized the company for its Chinese ties, including a licensing deal with CATL. Reuters reported Chrysler parent Stellantis said CEO Antonio Filosa is out of the country and not planning to attend.
-Industry insiders and onlookers have expressed concerns similar to those raised by automakers and lawmakers as bipartisan bills to ban Chinese automakers from the U.S. move through Congress.
-The pressure campaign comes as Chinese automakers have been rapidly expanding outside of their domestic market, especially to Europe and Central and South America. There's fear among global automakers that Chinese rivals, like BYD and Geely, which are heavily subsidized by their governments, could flood global markets, undercutting domestic production and vehicle prices.
-Dunne said he doesn't believe those concerns are overblown. He said Chinese automakers would "quickly overwhelm America's auto industry, just as it is now ravaging Europe."
-Global market share for Chinese brands jumped nearly 70% from 2020 to 2025, according to market research and consulting firm GlobalData. The automakers' market share in Europe was virtually nothing in 2020 but hit 12% in August, according to Germany-based Dataforce.
-"China's scores of automakers are currently engaged in a fight-to-the-death price war at home," Dunne wrote in a post Monday. "There's red ink everywhere. Access to the U.S., by far the most lucrative car market in the world, is like a giant tank of life-saving oxygen."
-'Attacking very aggressively'
-For much of this century, China was one of the largest and fastest-growing markets in the world. Non-China automakers flocked to the historically enclosed country with hopes of massive sales and profits.
-But after years of success for automakers such as GM, the Chinese automotive sector has rapidly changed from an insular industry to the biggest exporter of vehicles globally.
-China's growth has been fueled by government funding for companies as well as a culture of innovation and speed the country has instilled in its workers, experts said. The decision to ramp up exports has come on the heels of a slowing Chinese market and plant underutilization.
-Christian Meunier, Nissan Motor chairman of the Americas, described competing against Chinese automakers as a "hell of a challenge" in countries outside of the U.S.
-"They have decent product but it's all dumping," he told CNBC during a recent interview. "We know we're not competing with [automakers], we're competing against the governments. … They're attacking very aggressively."
-Meunier said the Japanese automaker has been trying to battle the Chinese as best as it can through growing scale globally to lower costs and become more efficient.
-"We need to get ready for the day when they come to the U.S. because it will happen one day. Hopefully not tomorrow, but it will happen one day," he said.
-Dunne said China's ambitions and ways of doing business are vastly different from those of U.S. allies, which makes it different from allowing imports from Japan, South Korea and other countries.
-"As Xi Jinping has alluded to many times, the goal for China is to 'make other countries more dependent on China and China less dependent on other countries.' That's not a friendly posture," Dunne said.
-— CNBC's Justin Papp contributed to this report.
+> Barry Diller's People Inc. has rescinded its proposal to buy MGM Resorts International, sending shares of the casino giant down 9% on Thursday.
+The update comes nearly four months after Diller's company offered to purchase MGM Resorts for $48.30 per share. People Inc. already owns a roughly 26.1% stake in MGM.
+Diller, chairman of People Inc. — formerly known as IAC — attributed the decision to the complicated nature of the deal.
+"There are lots of ingredients that go into a proposal of this kind on its way to completion," Diller said in the press release. "We didn't feel the mix was coming together in the way we had hoped and have decided not to pursue taking the company private at this time."
+CNBC's David Faber reported Thursday that Diller backed off the deal in part because of the significant debt load it would have created for the company.
+Still, Diller said he is willing to consider a future deal.
+"We at People Incorporated remain open to and interested in the possibility of a strategic transaction with MGM Resorts and look forward to considering a range of alternatives," he said in the release.
+Earlier this week, shareholders of Caesars Entertainment approved an offer from billionaire Tilman Fertitta to acquire the casino company for $17.6 billion. Caesars shareholders will receive $31 per share in cash.
+— CNBC's Contessa Brewer contributed to this report.
 
 </details>
 
 
 ---
 
-## McDonald's CEO expects high inflation, lackluster traffic are here to stay
+## Cat owners are spending more and boosting pet retailers
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html
+链接：https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html
 
-正文长度：2316
+正文长度：3059
 
-摘要：McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.
+摘要：Spending on cats remains strong despite softening dog sector and tightening consumer discretionary spending.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> McDonald's is predicting that flat traffic and higher inflation will continue to weigh on the restaurant industry, CEO Chris Kempczinski said Wednesday.
-"One of the things I've talked to our team about is we need to stop talking about that being a difficult environment, and just say that is the environment," Kempczinski said on CNBC's "Squawk on the Street." "Because I think, as we look out forward, we're not expecting things to change."
-For years, Kempczinski has been warning investors and analysts about the "challenging environment" faced by McDonald's and the broader industry. The burger chain reported U.S. same-store sales growth of just 0.8% in its most recent quarter as traffic to its domestic restaurants fell.
-Diners have been eating out less frequently, pushing back against higher menu prices as they face increased costs on everything from gas to groceries. From August 2025 to July 2026, industry operators surveyed by the National Restaurant Association reported a net decline in customer traffic in every month but one.
-To attract customers, McDonald's and its rivals have leaned into discounts. But diners aren't the only ones facing higher costs.
-Restaurant operators — like McDonald's and its franchisees — have seen beef prices soar. Kempczinski said that beef costs have nearly doubled over the last five years in the company's biggest markets. Other expenses, like labor and construction, have also ticked higher, putting more pressure on margins.
-"Across the board, we're seeing that inflation is sticky," Kempczinski said. "It's sticky, not just in the U.S., but around the world."
-Faced with tougher operating conditions, McDonald's is focusing on stealing diners from its rivals.
-"The biggest thing that you need to do in an environment like this is you have to be able to earn share," Kempczinski said. "You have to be able to actually grab growth from your competitors."
-While he said McDonald's will likely have to consider price increases, he added the chain will have to be careful not to drive diners away. He reiterated that the company believes it erred by raising prices too quickly in the years after the Covid pandemic.
-Kempczinski and other McDonald's executives will share more details about the company's plans to gain market share during its investor day on Wednesday.
+> Cat owners are spending on their feline friends in a bright spot for pet food makers and sellers.
+Though consumers are watching their wallets as the prices of fuel and groceries rise, sales for cat food and other cat-related products are climbing, according to sellers of those products. General Mills, Chewy and Petco Health and Wellness Company all called out the segment as a strength in their businesses during their most recent quarterly earnings calls.
+Sales of dog products, on the other hand, continue to soften. The rise in sales of cat items comes as the American Pet Products Association found a 5% increase in cat ownership in 2025, with an estimated 53 million households having cats. The modest rise last year came after cat ownership surged 23% in 2024.
+Factors driving the increase in cat ownership could include the ease and affordability of care relative to dogs, along with their ability to live in smaller enclosed spaces like apartments with renters, according to executives in the space.
+General Mills on Wednesday reported double-digit percentage growth in cat food sales, which includes the brand Tiki Cat. At the same time, sales of dog food fell by a high digit percentage. Those contrasting trends led in part to General Mills' North American pet segment posting net sales that were roughly in line with the year-ago period.
+CEO Jeff Harmening said on an earnings call on Wednesday that the sales trend was related to the fact that Americans are adopting more cats and fewer dogs.
+Chief Operating Officer Dana McNabb said, however, that struggles in the company's dog food business could not be blamed entirely on trends in pet ownership.
+"We really have to relook at the entire proposition of the product, the packaging, the marketing, the communication, we have work to do," she said. "And we had the same challenge on our cat Tastefuls business a few years ago, and it took us about 18 to 24 months to improve it, and that business is back to growth now."
+Other pet retail companies have called out similar trends in cat and dog products.
+On a Sept. 9 earnings call, Chewy CEO Sumit Singh said of the company's pet segments: "dog seems to be worsening; cat seems to be strengthening."
+Petco reported strong sales of cat products in its second quarter, highlighting the launch of its cat treat brand Candy Shop on a Sept. 2 earnings call.
+"In the second quarter, we introduced new high-impact brands that resonate strongly with cat parents, generating nice gains across consumables, supplements, bedding and furniture," CEO Joel D. Anderson said on the company's earnings call.
+Anderson said that the company's second-quarter growth came after the company focused on improving its cat segment based on industry trends.
+"The dog business is still soft. Adoptions are down slightly," Anderson said. "It just shows for you why it's so important to be diversified. And with us having great trends in cat, really growing companion animal, our services business is growing. We've got a lot of diversification to not rely solely on dog."
 
 </details>
 
 
 ---
 
-## McDonald's stock falls as it unveils plan to spend big on restaurant upgrades
+## Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html
+链接：https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html
 
-正文长度：10137
+正文长度：3188
 
-摘要：The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.
+摘要：Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> McDonald's on Wednesday announced plans for its own media network, pricey restaurant upgrades and ways to win over GLP-1 users during an investor presentation at its Chicago headquarters.
-In June, the company unveiled its newest growth strategy, McDonald's > NEXT. The pillars of the plan include a new restaurant design, better-tasting food and drinks, consumer-led innovation, and improved hospitality from employees. But until Wednesday, executives had offered few details about how they would implement the plan and how it may affect its financial results over the coming years.
-The shifts come as McDonald's U.S. business tries to rebound from sluggish sales and as consumers hit by years of elevated inflation visit restaurants less often. The chain aims to win over more diners at a time the company expects inflation and flat traffic to restaurants overall will persist, CEO Chris Kempczinski told CNBC.
-The plan and Kempczinski's comments did not impress Wall Street, as McDonald's shares fell 6% in afternoon trading.
-A key part of the strategy is restaurant remodels, which McDonald's mandates roughly every decade for franchisees. The new design features updated PlayPlaces, which were previously being phased out, and more open kitchen layouts. Customers will be able to see their McCafe drinks being prepared.
-But the chain will also unveil what it calls Restaurant > NEXT, which includes improvements to equipment, technology and operations. It also will feature "ArchIQ," an artificial intelligence-powered operating system for restaurants. The company said "Archy" can take orders in English and Spanish from customers, saving about 50 labor hours per week, while other elements of ArchIQ can manage inventory and schedule shifts, as well as use scales to assess order accuracy.
-"Capabilities such as AI-enabled revenue management and Archy's suggestive sell will help increased average check over time," CFO Ian Borden said.
-McDonald's invests in restaurants
-All of those upgrades will require steep investment from franchisees. But McDonald's is also planning to provide financial support, through rent relief and actual capital. Through 2036, McDonald's plans to spend as much as $8.5 billion to accelerate franchisees' investment in the restaurant improvement plan.
-About $5 billion of that support will happen through 2030. McDonald's is projecting about $1.5 billion to $2 billion in capital spending from 2027 through 2030 to accelerate NEXT, in addition to about $3 billion every year on typical capital expenditures. (In 2025, McDonald's reported $3.4 billion in capital expenditures.)
-A standard lobby remodel of a drive-thru restaurant in the U.S. typically costs about $400,000 to $450,000, paid for by the franchisee. The additional investments tied to the plan will be "incremental" to the remodel expenses and cost roughly $800,000 per restaurant, although McDonald's will be providing financial support for some of that, according to Borden. Those investments will be phased, with tech, kitchen and operational upgrades adopted over time as they become available.
-Franchisees may protest the franchisor's expectations for their own investment in the restaurants, on top of standard cosmetic remodels. Beef and labor costs are already weighing on their profits.
-"We'll get good returns," Kempczinski told CNBC. "Now that doesn't mean to say that there aren't going to be a lot of anxieties, a lot of questions, as there always is around investment. It happens every time we go into one of these cycles, and we'll work with our franchisees collaboratively on that to address their questions."
-Kempczinski added that the company is projecting franchisee returns in the mid-to-high 20% range, while corporate returns will be in the high teens.
-Plus, McDonald's projects that efficiency improvements will result in an increase of roughly $100,000 in annual cash flow for the average U.S. restaurant, and the initiative will take about four years to return franchisees' investment. Average annual U.S. franchisee cash flow is currently about $500,000, up nearly 50% compared with 2019, boosted by franchisees opening new restaurants, according to Borden.
-While McDonald's plans to spend more to fuel restaurant improvements, the company said it aims to cut costs elsewhere, although it did not offer specifics. By 2030, McDonald's is targeting an operating margin in the low-to-mid 50% range. In 2025, the company reported operating margins of 46.1%, according to company filings.
-Some of that margin expansion will come from its general and administrative spending. By 2030, McDonald's is projecting that about 1.9% of its systemwide sales will go toward G&A. For comparison, the company is currently forecasting that 2.2% of its systemwide sales will be spent on G&A in 2026.
-"At the company, AI will help enable a step-change improvement in corporate G&A," Borden said.
-Higher operating margins will also come from increased revenue.
-McDonald's is planning to build a media network that involves advertising other businesses on its digital drive-thru displays. Executives said it could grow to become a billion-dollar business. The company has started testing it over the last month at 450 company-owned restaurants. Media networks have become high-margin businesses for retailers like Amazon and Walmart.
-McDonald's also has an eye on growing its sales globally. Some of that will come from new locations. Next year, the company expects restaurant openings will make up about 2.5% of its systemwide sales growth.
-The company's accelerated expansion will slow in the following years. By 2030, McDonald's anticipates new restaurants will account for only about 2% of growth to systemwide sales.
-Menu changes and more chicken
-In recent years, the burger chain has leaned into menu items other than its core beef offerings to drive sales, namely chicken and beverages. By 2030, McDonald's wants to grow its global market share in those two categories by about 1.5 percentage points each.
-McDonald's already sees nearly $15 billion in system sales from Chicken McNuggets, $4 billion from its McChicken and $2.5 billion from McCrispy menu items, according to Jill McDonald, the company's global chief restaurant experience officer. Altogether, the chain accounts for about 20% of chicken sales out of the entire $130 billion global category.
-But McDonald's wants a bigger bite.
-To grow its share of chicken sales, the chain plans to introduced hand-breaded chicken options. Chicken specialists like Chick-fil-A, Popeyes and Raising Cane's already hand-bread or batter their chicken for a crispier exterior and better taste. However, the technique requires more time and labor from employees.
-U.S. restaurants will soon start piloting hand-breaded chicken menu items, McDonald said.
-Other chicken options coming to McDonald's menu include new grilled chicken sandwiches and wraps and new flavors and sauces for Chicken McNuggets.
-Likewise, McDonald's wants a bigger share of the global $230 billion beverage category, according to McDonald. Today, it holds a roughly 10% share and is the second-largest coffee player globally. But the category is growing quickly, presenting more opportunities for the chain to grow sales.
-"Beverages are no longer just an add-on, but a reason to visit," McDonald said.
-In the U.S., McDonald's rolled out an expanded drink menu earlier this year, featuring refreshers, crafted sodas and energy drinks. The chain now plans to launch more beverages in its international markets. It also aims to upgrade the quality of its coffee; U.S. restaurants will receive new espresso machines and the opportunity to customize their drinks with alternative milk choices.
-And McDonald's has an eye on new food menu items, too.
-"We're exploring bowls, grilled chicken and egg bites to expand protein-forward options across breakfast, lunch and dinner," McDonald's U.S. President Skye Anderson said.
-Some of that protein-focused innovation is spurred by the growing adoption of GLP-1 drugs. For several years, investor concerns about how the medication will affect McDonald's sales have weighed on the stock. But executives on Wednesday expressed confidence that the chain will not lose customers because of changes to their appetites. Anderson said that 84% of households with at least one GLP-1 user still visit McDonald's.
-"This is an opportunity," she said. "We don't need to win a new base of customers into McDonald's. Instead, we need to keep giving them more reasons to make McDonald's their first choice as their eating habits evolve."
-Still, McDonald's isn't abandoning burgers. The company wants to hold onto its leadership in beef, too.
-It currently holds onto about 40% share of the $50 billion worldwide beef category, McDonald said. It plans to add its fresh beef Quarter Pounders in more markets outside of the U.S., where it made the shift about eight years ago. Plus, Kempczinski told CNBC that there is even more opportunity in the U.S. to lean into the Quarter Pounder to steal share from its rivals who use frozen beef. The chain also wants to improve the quality of its burgers, building off the success of its "Best Burger" improvements that rolled out in 2024.
-To do so, it plans on implementing "Make It Golden," a multiyear training program for corporate employees, restaurant workers and franchisees to ensure consistency, improved food quality and better customer service.
-"While there's so much our customers love, we are falling short when it comes to consistent execution," Anderson said.
-The emphasis on hospitality comes as customer expectations keep growing, McDonald's Global Chief People Officer Tiffanie Boyd told CNBC.
-"People want and expect more because so many things have become more convenient, and so you can't just differentiate on something like convenience alone," Boyd said. "And, as we automate more things in our lives, we're finding that people have a higher expectation around the quality of a human interaction."
-The program will begin rolling out on Oct. 5, the 124th birthday of Ray Kroc, who turned the burger restaurant into a global giant.
+> Lowe's is launching a drone delivery service in partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.
+The company said the new drone delivery service — a first in the home improvement retail space — will give customers access to over 100 products in a delivery window as fast as 20 minutes. A pilot program is already live in North Carolina, with plans for expansion.
+Customers can order products directly through DoorDash, which will have drone delivery listed as an option for eligible customers. The drones currently transport orders of roughly 2.5 pounds per flight and operate within a 5-mile radius of the store in Matthews, North Carolina, according to the company.
+Seemantini Godbole, chief information and artificial intelligence officer at Lowe's, said shoppers often tell the company they realize halfway through a project that they're missing a crucial item.
+"Drone delivery fits perfectly because this was one of the friction points, like you're doing a project, and you're getting interrupted," Godbole said. "[But] you never left your home, you never left your job site, and then you just continued with the project. That's the whole premise."
+She said the company is still testing the service, but if it's successful, Lowe's may expand the drone program beyond the North Carolina store.
+"We wanted our tech teams to be positioned. ... We literally are going to the store every day," she said. "We are observing. We are listening to the feedback from our store associates and from DoorDash, and we could make changes as needed and be really agile, and so that's why we started here."
+Godbole added that the drone delivery is not "technology for the sake of tech," but rather is a move to keep up with the changing needs of the Lowe's customer as part of the company's overall technology strategy.
+With the announcement, Lowe's joins a growing cohort of retailers adding drone delivery to their options to optimize convenience and technology for customers in an effort to lift sales. Amazon, Walmart and Uber Eats already use drones to offer fast delivery to customers.
+Godbole said the distinction for Lowe's is that it's the first home improvement retailer to offer drone delivery.
+But drone technology has also faced criticism across the country from people concerned about noise and privacy issues, especially in states like New Jersey. Navigating more crowded airspace also requires regulatory approval.
+Godbole said Lowe's is working to ensure its drones meet all standards and is leaning on the expertise of both DoorDash and Wing.
+Godbole said while the drones are an important milestone in the company's technological advances, Lowe's is still focusing on improving its express same-day delivery and innovation for its shoppers while also incorporating AI into its internal processes for store associates.
+"When associates and customers are interacting with Lowe's, I really want the technology to disappear, and I want the experience to shine through," Godbole said. "I want them to remember the projects they are doing, the items they are buying, the fulfillment experience they got, and all our technology efforts are geared towards that."
 
 </details>
 
 
 ---
 
-## Qantas to start selling tickets next year for its New York to Sydney nonstop flight
+## Starbucks to shutter about 250 stores in latest round of cafe closures
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html
+链接：https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html
 
-正文长度：1879
+正文长度：1792
 
-摘要：Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.
+摘要：Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Qantas Airways plans to start selling seats on its first nonstop between New York and Sydney next August, with flights set to launch in 2028, as the Australian carrier fills out the details for another marathon route with a special Airbus plane.
-The route will take about 18 hours, which puts it close to what is currently the world's longest flight. The route that has that designation right now, nonstop service on Singapore Airlines from New York's John F. Kennedy International Airport to Singapore, can top 19 hours.
-But Qantas is set to take the crown next fall when it debuts nonstops between London Heathrow and Sydney that take about 20 hours. Flight times vary based on direction and time of year.
-Qantas CEO Vanessa Hudson told CNBC that the new flights come after strong demand for another ultra-long-haul route: its Perth, Australia, to London service, which is more than 17 hours and is flown on a Boeing 787 Dreamliner.
-"What we have been able to learn from that is that there is absolutely a customer who wants this and is prepared to pay a premium for it," she said in an interview in New York, adding that travelers are trying to avoid having to connect in other airports.
-The Qantas Airbus A350-1000 ULR, which stands for ultra-long range, will be equipped with first class, business class, premium economy and standard economy cabins. Those aircraft have an extra fuel tank for the trip.
-Singapore Airlines, meanwhile, operates its New York to Singapore flight with only business class and premium economy seats.
-As part of its ultra-long-haul program, which it calls Project Sunrise, Qantas spent years working with sleep scientists to study jet lag. Hudson said the carrier has looked at ways to minimize the effects of traveling long distances by using things like different lighting schemes so customers can get used to the time zone at their destination.
+> Starbucks on Thursday announced it will close about 1% of its North American cafes as part of its turnaround.
+Under CEO Brian Niccol, Starbucks has staged a revamp of its U.S. business that has focused on improving the customer experience, including in-person interactions at its cafes. The announcement marks the second round of closures in North America during Niccol's two-year tenure.
+Starbucks expects to shutter about 250 underperforming cafes out of its more than 18,000 locations in North America. It was not immediately clear where the closing locations are.
+"We have carefully reviewed our North America coffeehouse portfolio and identified locations where we do not believe we can consistently deliver the experience we want for customers and partners or where we don't see a path to acceptable financial performance," Mike Grams, Starbucks chief operating officer, wrote in a letter addressed to employees.
+For fiscal 2026, Starbucks is now projecting net new openings of 440 cafes, down from its prior outlook of 600 to 650 locations. Those new cafes will come from its international markets.
+"The Company continues to see significant longer-term growth opportunity ahead in North America and is actively developing a strong pipeline of new coffeehouses," Starbucks said in a regulatory filing.
+Most of the closures will occur before the end of fiscal 2026, according to the filing. Starbucks' fiscal year ends later this month.
+The company expects to incur about $300 million in restructuring charges related to the closures. About $200 million of that charge will be related to the costs of exiting leases early and paying employees separation benefits. The remaining $100 million will be noncash charges from the disposal and impairment of its company-owned restaurant assets.
 
 </details>
 
 
 ---
 
-## OpenAI ‘agent’ hacked an Australian health service website - Financial Times
+## Russia could attack Nato country within months, Denmark warns - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHN5VTExVmFUaU51U1ROVGI3ZUR2SmZpYnVndnJJR09tdUNPS0kxOUZkaTBvTlVSOTFRUkMtRG1FOWx4Z3JKemk0SVBObXQyb0lYMW9WVkRlMXVJZEExSWxWSUgtOXJsejBPeVBWSUtMQW5QTTJWSHRaenBYZllqaHBhclA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5" target="_blank">OpenAI ‘agent’ hacked an Australian health service website</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHN5VTExVmFUaU51U1ROVGI3ZUR2SmZpYnVndnJJR09tdUNPS0kxOUZkaTBvTlVSOTFRUkMtRG1FOWx4Z3JKemk0SVBObXQyb0lYMW9WVkRlMXVJZEExSWxWSUgtOXJsejBPeVBWSUtMQW5QTTJWSHRaenBYZllqaHBhclA?oc=5" target="_blank">Russia could attack Nato country within months, Denmark warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Xi Jinping arrives for high-stakes summit with Donald Trump as leaders extend trade truce - Financial Times
+## GoDaddy receives takeover offer from maker of Norton antivirus software - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVyakw5dm5aZnRRYlV3eVhwaVRWX3BqRnd0NzRsbmx2NktHQVE2MHhhWjl2alJIWVFqb1o0U0xROFlqcGJ5R3ljUEJ2eHBVQjh1c3BwcGx5U2NLLXo4Q1NIaUkxLS1yS2JlNVZtdEYyYjRTNmpUaDVPOG9LT3U1dWNnemo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMV9RQ0hUeVlVRVUzVlBxaUNPMmhtbUJpWVNLcGNRNmtxZU9WWlA1a0JiblpyRS1mQlN6NU52bElvRjVBNVpjRHhRUnBlMnRrTWF6STdNVks3QU1WeWNMaEFXRndIWG9FdVlhV01EYi15RDZBN1J3RkY3b2hFaTRqc0tkSVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVyakw5dm5aZnRRYlV3eVhwaVRWX3BqRnd0NzRsbmx2NktHQVE2MHhhWjl2alJIWVFqb1o0U0xROFlqcGJ5R3ljUEJ2eHBVQjh1c3BwcGx5U2NLLXo4Q1NIaUkxLS1yS2JlNVZtdEYyYjRTNmpUaDVPOG9LT3U1dWNnemo?oc=5" target="_blank">Xi Jinping arrives for high-stakes summit with Donald Trump as leaders extend trade truce</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMV9RQ0hUeVlVRVUzVlBxaUNPMmhtbUJpWVNLcGNRNmtxZU9WWlA1a0JiblpyRS1mQlN6NU52bElvRjVBNVpjRHhRUnBlMnRrTWF6STdNVks3QU1WeWNMaEFXRndIWG9FdVlhV01EYi15RDZBN1J3RkY3b2hFaTRqc0tkSVE?oc=5" target="_blank">GoDaddy receives takeover offer from maker of Norton antivirus software</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Barry Diller abandons $18bn takeover bid for MGM Resorts - Financial Times
+## Hasan Piker: the Republican Party’s bogeyman - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUJaTUxPQzNMLVJmaC05MEUwNHVaU0JyblFkMWd6TEJtSmNNWmhoS3VuVkVHcUhpcHhUc2NqYjhSdDhrRXJXYUVVLTBHTXNKdl9helJEZFR1bl9mYUNjYjduNm5GeFMxZWUxcC1NZ0R6TFVrdXR4N292bjRheWdRNHR3V1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnRrR3BrMGdBYUNoVUpaOGNPVTBiU3otNE9fbEdzalAwbVFLX3dZOFFlV3lKSVEtRy1uRHI5M0dHeTFYNkR1Z0xzMUEyekRYOVFoWXhkY2EzQUNWZU54XzlGLUpnNXdOVVZqY0N2cWhSSzkxdTlPMm4ySk04bUZKQlZ2dWU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUJaTUxPQzNMLVJmaC05MEUwNHVaU0JyblFkMWd6TEJtSmNNWmhoS3VuVkVHcUhpcHhUc2NqYjhSdDhrRXJXYUVVLTBHTXNKdl9helJEZFR1bl9mYUNjYjduNm5GeFMxZWUxcC1NZ0R6TFVrdXR4N292bjRheWdRNHR3V1Y?oc=5" target="_blank">Barry Diller abandons $18bn takeover bid for MGM Resorts</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnRrR3BrMGdBYUNoVUpaOGNPVTBiU3otNE9fbEdzalAwbVFLX3dZOFFlV3lKSVEtRy1uRHI5M0dHeTFYNkR1Z0xzMUEyekRYOVFoWXhkY2EzQUNWZU54XzlGLUpnNXdOVVZqY0N2cWhSSzkxdTlPMm4ySk04bUZKQlZ2dWU?oc=5" target="_blank">Hasan Piker: the Republican Party’s bogeyman</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Rosneft billions fed Kremlin-backed money laundering network - Financial Times
+## US long-term borrowing costs touch highest level since 2004 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVENTai16S24xUk1CZ1pBX1A1Wm90Wmt0QTVwU2UtQWdLN0d2VG5LY3I5eURpNktTVGtYdnFudXJLQ2k0c3BWSUdsc1QwWkg5WTlNeUxlQktuSUloNDI3WFFGdDQySjY5bUg3R1JOUElYOHVsenJwc0FjRWNmQjNsUnM3OEs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1VKQ3BXUDVsSFhRQ2pYbXdpUk9iM1FRQVdFQzNUNmFEVEh5RVBkNlhzNUVld2tXRVg1OENSMXR4Z2tZdnZNc0pWT1VIRno5RGJYNFQ1SHBYR1YzOGowU29CS3BsRVZaMXdvOWpSSFdnV3luYlU2NVJnRG90UDJUNThGcW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVENTai16S24xUk1CZ1pBX1A1Wm90Wmt0QTVwU2UtQWdLN0d2VG5LY3I5eURpNktTVGtYdnFudXJLQ2k0c3BWSUdsc1QwWkg5WTlNeUxlQktuSUloNDI3WFFGdDQySjY5bUg3R1JOUElYOHVsenJwc0FjRWNmQjNsUnM3OEs?oc=5" target="_blank">Rosneft billions fed Kremlin-backed money laundering network</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1VKQ3BXUDVsSFhRQ2pYbXdpUk9iM1FRQVdFQzNUNmFEVEh5RVBkNlhzNUVld2tXRVg1OENSMXR4Z2tZdnZNc0pWT1VIRno5RGJYNFQ1SHBYR1YzOGowU29CS3BsRVZaMXdvOWpSSFdnV3luYlU2NVJnRG90UDJUNThGcW8?oc=5" target="_blank">US long-term borrowing costs touch highest level since 2004</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims - Financial Times
+## Trump’s US no longer a reliable ally, warns Belgium in leaked document - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0RBVWtrcjYxLUNKaEpsTDNmTE4xNFN4djRaRmx0eHR6VVB0Wm5oaVRzR19XaXZ5a0Jra3Byck12b1ZWTml6Q1Vranp1ZzYybTZXUkphRm5SbS1ZTzNGX2JKLXN2ZjR6S0lyTXd6Z2xibDJvVmo3V0ZFT0VYTW9BdV9WX1U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JmQVluVWxVZG5nVDRBUW1WdUZ3dVBndWRlaVZiT3FLbHdvc0s0RTBtbl95QTloRG1yR19pNHhNMjNJTWVKUDJ4bnkzaGh1YXRuT3luTGZhaU5IZkZTME1Rd2JUZzVPYjJJMDdmbDlKLU5XbVRkVFVJbVg0U1FydEYxRk4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0RBVWtrcjYxLUNKaEpsTDNmTE4xNFN4djRaRmx0eHR6VVB0Wm5oaVRzR19XaXZ5a0Jra3Byck12b1ZWTml6Q1Vranp1ZzYybTZXUkphRm5SbS1ZTzNGX2JKLXN2ZjR6S0lyTXd6Z2xibDJvVmo3V0ZFT0VYTW9BdV9WX1U?oc=5" target="_blank">Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JmQVluVWxVZG5nVDRBUW1WdUZ3dVBndWRlaVZiT3FLbHdvc0s0RTBtbl95QTloRG1yR19pNHhNMjNJTWVKUDJ4bnkzaGh1YXRuT3luTGZhaU5IZkZTME1Rd2JUZzVPYjJJMDdmbDlKLU5XbVRkVFVJbVg0U1FydEYxRk4?oc=5" target="_blank">Trump’s US no longer a reliable ally, warns Belgium in leaked document</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil prices edge lower as Iran says it is open to diplomacy to end the war - Reuters
+## Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5" target="_blank">Oil prices edge lower as Iran says it is open to diplomacy to end the war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5" target="_blank">Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - Reuters
+## Google plans first test of AI chips in space under Project Suncatcher - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmNaNWFQQUxEalIzZUJfLUMwcTFVUmw3c0hGMDJ5NllYa0RuZ0VyeFhiV0JWOTVvMk54ZmVXLWNjcFhhby1DM0g0U3gzc0VFRlJzTG13WmN3U2VZMTdDU3BhMkk2MDJGWHExQk5nQ1Z3YjJNdXRkcktQb1A2QXduMDJQcDZ1ZFhlT2VySzBrMEpDQVFJTE9GY0l5VHNVemoySU83Tm5Ma3pfNG5vNlY0MjBzUUFEaFoxaVJDWmRTbw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5" target="_blank">China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmNaNWFQQUxEalIzZUJfLUMwcTFVUmw3c0hGMDJ5NllYa0RuZ0VyeFhiV0JWOTVvMk54ZmVXLWNjcFhhby1DM0g0U3gzc0VFRlJzTG13WmN3U2VZMTdDU3BhMkk2MDJGWHExQk5nQ1Z3YjJNdXRkcktQb1A2QXduMDJQcDZ1ZFhlT2VySzBrMEpDQVFJTE9GY0l5VHNVemoySU83Tm5Ma3pfNG5vNlY0MjBzUUFEaFoxaVJDWmRTbw?oc=5" target="_blank">Google plans first test of AI chips in space under Project Suncatcher</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US, China agree to extend 'the Busan agreement' until January, Bessent says - Reuters
+## France says ICC warrant posed no obstacle to Netanyahu overflight - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2k3Y1V3ZHVBLTh5T2VqZTE0TWFOT2J5UndDUkZhQmVaYTZEdjBvSVFxaUl4a1Q1eVBPV3NGQmw3RUtsOUJha1pTM3cyalVnWmxFcENwX0x5c1dvU19va2g4Ylg2TDdzMkpZdUpxOEN6ZjgtejN1TlU5SnFjWWF2dklxSVVxRW8wcnRzXzFFYmlOWVNXdmNSdTV1d3hvR1didF9obDJKeGRuMk8yVHMwTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5" target="_blank">US, China agree to extend 'the Busan agreement' until January, Bessent says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2k3Y1V3ZHVBLTh5T2VqZTE0TWFOT2J5UndDUkZhQmVaYTZEdjBvSVFxaUl4a1Q1eVBPV3NGQmw3RUtsOUJha1pTM3cyalVnWmxFcENwX0x5c1dvU19va2g4Ylg2TDdzMkpZdUpxOEN6ZjgtejN1TlU5SnFjWWF2dklxSVVxRW8wcnRzXzFFYmlOWVNXdmNSdTV1d3hvR1didF9obDJKeGRuMk8yVHMwTQ?oc=5" target="_blank">France says ICC warrant posed no obstacle to Netanyahu overflight</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Barry Diller's People withdraws bid for MGM Resorts - Reuters
+## Saudi East-West Pipeline building up volumes, loading yet to resume, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxObXg2TTV3Zno3MnRraFNqZnJJSl9tQ2ZZZzhyNzNITG9oc1BfOVFLYWJ5aXdvQ3Z0MUp2YTV2X2wxcXJNclB2UlZEdTdGRHJ2RElTV1Zwc3JvczdVNnJ0ckl0bGpwMmZOMU0tZ1FtbXdrd3dsdGUyN0hObm93SHhuTmV0OHJGaWEtNUkwWkZ1SU5la3o4RFduN0R1VQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlNpUnc2TTlsRlJwQmUyWEhIN3VjX1JuMTktQ1laRmV6VWM0U2d1V1FYQjNvdjV3VG9iMGx0dkczc2dPMUx2UWVQU3BBVElQcUlnMVBQenQ0RFhkTzBmQmpaZkoyNGF5QlZwOGFnTmJGRDh1TFRCaDZuQkVsRUpRYWNIQlplWU5VNndjeTQ0S3cxZS1QWUFMdU0wTTBTNFpEeGZXSU1DLWFpVFQwdVhaRDNKb21Sdl9BNUtnN0UzWFR2S3psY2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxObXg2TTV3Zno3MnRraFNqZnJJSl9tQ2ZZZzhyNzNITG9oc1BfOVFLYWJ5aXdvQ3Z0MUp2YTV2X2wxcXJNclB2UlZEdTdGRHJ2RElTV1Zwc3JvczdVNnJ0ckl0bGpwMmZOMU0tZ1FtbXdrd3dsdGUyN0hObm93SHhuTmV0OHJGaWEtNUkwWkZ1SU5la3o4RFduN0R1VQ?oc=5" target="_blank">Barry Diller's People withdraws bid for MGM Resorts</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlNpUnc2TTlsRlJwQmUyWEhIN3VjX1JuMTktQ1laRmV6VWM0U2d1V1FYQjNvdjV3VG9iMGx0dkczc2dPMUx2UWVQU3BBVElQcUlnMVBQenQ0RFhkTzBmQmpaZkoyNGF5QlZwOGFnTmJGRDh1TFRCaDZuQkVsRUpRYWNIQlplWU5VNndjeTQ0S3cxZS1QWUFMdU0wTTBTNFpEeGZXSU1DLWFpVFQwdVhaRDNKb21Sdl9BNUtnN0UzWFR2S3psY2c?oc=5" target="_blank">Saudi East-West Pipeline building up volumes, loading yet to resume, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Venezuela's Rodriguez promises elections in transition to 'full democracy' - Reuters
+## New York lawsuit says Polymarket's prediction markets are illegal gambling - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVZTWWoya1otcHJIdUdjYnBjWWpRTkJSbU9QV0dOVXRHd05IR3Zqa0VDRWhHZUNOTG45VldyM1Vmang0bWY2SGtJRlp4cllrRXF5VnFHS1ZrbGJVbDN0WWh4UTlBMWZSTjJmTllQZzFaWXZPT3IzUDdhNl9vM0U4XzJKWnVMenBuSXR1aXJKNnJmMV9x?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVZTWWoya1otcHJIdUdjYnBjWWpRTkJSbU9QV0dOVXRHd05IR3Zqa0VDRWhHZUNOTG45VldyM1Vmang0bWY2SGtJRlp4cllrRXF5VnFHS1ZrbGJVbDN0WWh4UTlBMWZSTjJmTllQZzFaWXZPT3IzUDdhNl9vM0U4XzJKWnVMenBuSXR1aXJKNnJmMV9x?oc=5" target="_blank">Venezuela's Rodriguez promises elections in transition to 'full democracy'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5" target="_blank">New York lawsuit says Polymarket's prediction markets are illegal gambling</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
