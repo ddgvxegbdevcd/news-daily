@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-09-26 04:27:40
+更新时间：2026-09-26 16:09:16
 
-## Billionaire Charoen’s Asset World Targets $1 Billion REIT IPO
+## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo
+链接：https://www.bloomberg.com/news/videos/2026-09-26/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：Asset World Corp Pcl’s new Thai Real Estate Investment Trust aims to raise at least $1 billion through a listing as it seeks funds to expand its hotel and commercial property business, according to a senior executive.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## Blackstone Cements Shift From Star Dealmakers With Baratta Exit
+## Trump-Xi Summit Yields Coal Pledge as Tariff Talks Extend
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit
+链接：https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028
 
 正文长度：0
 
-摘要：If there was any doubt that Jon Gray is now the center of gravity at Blackstone Inc., the past few weeks have erased it.
+摘要：China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028, according to the White House, in a sign of progress in easing trade frictions.
 
 
 ---
 
-## SK Hynix’s Solidigm Is Said to Weigh US IPO as Soon as 2027
+## US and China Seek Common Ground on AI
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027
+链接：https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video
 
 正文长度：0
 
-摘要：SK Hynix Inc.’s Solidigm is considering a US initial public offering as soon as next year, according to people familiar with the matter.
+摘要：Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping’s summit highlighted efforts to establish dialogue on AI while building trust between the two countries. Speaking with hosts David Gura and Christina Ruffini, Engle and Kingston examine the significance of Xi’s state visit, China’s push to be treated as an equal to the US and the diplomatic signals surrounding the meetings. (Source: Bloomberg)
 
 
 ---
 
-## Wall Street Week | China’s Trade Reckoning, Syracuse’s Second Chance, Humanoids in Healthcare
+## How Syracuse's Semiconductor Gamble May Help Save the Rust Belt
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-09-25/wall-street-week-china-s-trade-reckoning-syracuse-s-second-chance-humanoids-in-healthcare
+链接：https://www.bloomberg.com/news/videos/2026-09-26/can-a-single-factory-save-an-american-city-video
 
 正文长度：0
 
-摘要：This week, Council on Foreign Relations President Michael Froman breaks down China's export machine, why twenty years of US pressure hasn't worked, and what happens next. And, can a $100 billion Micron factory transform Syracuse from a Rust Belt cautionary tale into a potential model for American reindustrialization? Plus, a bridge named for a hockey legend was meant to strengthen the supply chain between the US and Canada, but the neighbors can’t agree on their trade relationship. Later, with 760,000 care aide openings expected every year in the US and a $400 billion long-term care bill, humanoid robots are an early bet on technology filling the care gap. (Source: Bloomberg)
+摘要：What does it actually take to bring a Rust Belt city back to life? Micron is building one of the largest semiconductor factories in US history in Syracuse, a city that experienced major job loss after companies including GE, Carrier and General Motors left the area. Rob Simpson of CenterState CEO explains what attracted Micron to the city, local business owner Darin Price talks about what the investment means on the ground, and Brookings economist Joseph Parilla makes the case that Syracuse could be a model for reindustrialization across America. (Source: Bloomberg)
 
 
 ---
 
-## Ellison Pledges $9.2 Billion More in Oracle Shares for Loans
+## Birding Apps Bring More People Into the Wild
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-25/ellison-pledges-9-2-billion-more-in-oracle-shares-as-collateral
+链接：https://www.bloomberg.com/news/videos/2026-09-26/birding-apps-bring-more-people-into-the-wild-video
 
 正文长度：0
 
-摘要：Larry Ellison, a key figure behind Paramount Skydance Corp.’s deal to buy Warner Bros. Discovery Inc., has pledged 67 million more shares of Oracle Corp. as collateral for personal loans than he had at the same time last year.
+摘要：On Bloomberg This Weekend, writer and photographer Alexandra Marvar explains how apps such as Merlin are making birding easier and more accessible, helping draw new people to a hobby that offers an escape into nature. Speaking with hosts David Gura and Christina Ruffini, Marvar also explores whether technology can remove some of the challenge, learning and satisfaction that traditionally come with identifying birds.  (Source: Bloomberg)
 
 
 ---
@@ -154,24 +154,24 @@ Coke shares have climbed more than 25% this year, while Monster's stock has rise
 
 ---
 
-## Airlines waive change fees ahead of nor'easter as flight delays trickle in
+## Airlines waive change fees ahead of nor'easter as flight disruptions trickle in
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html
 
-正文长度：1155
+正文长度：1237
 
-摘要：Flight disruptions were minimal for Saturday as of Friday morning.
+摘要：Flight disruptions were rising in Boston for Saturday.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
 > U.S. airlines waived change fees for flights Friday through Sunday ahead of a nor'easter that federal forecasters warn will bring high winds and rainfall with the potential for dangerous flooding.
-As of Friday afternoon, close to 600 flights to and from LaGuardia Airport in New York were delayed, more than half the schedule, according to FlightAware. Dozens of others were delayed at major New England and New York-area airports.
-Carriers will often cancel a chunk, if not most of their schedules, during severe winter storms or hurricanes to ensure planes, passengers and crews aren't out of place, but airlines are still assessing the nor'easter's potential path and impact.
-American Airlines, United Airlines, Delta Air Lines, and JetBlue Airways said customers can change their flights for a host of airports in the New York City area, Boston and smaller New England airports, without paying a change fee or difference in fare if they can fly anytime before the middle of next week.
-The potential weekend disruptions come after an equipment outage on Monday forced carriers to cancel hundreds of flights bound for the New York area and Philadelphia.
+As of Saturday morning, around 250 Boston flights were canceled, about a quarter of the day's schedule, according to FlightAware. On Friday, more than 600 flights to and from LaGuardia Airport in New York were delayed, close to 60% of the schedule. Dozens of others were delayed at major New England and New York-area airports.
+Carriers will often cancel a chunk, if not most, of their schedules during severe winter storms or hurricanes to ensure planes, passengers, and crews aren't out of place, but airlines are still assessing the nor'easter's potential path and impact.
+American Airlines, United Airlines, Delta Air Lines, and JetBlue Airways said customers can change flights to a range of airports in the New York City area, Boston, and smaller New England airports without paying a change fee or fare difference if they can fly anytime before the middle of next week.
+Potential weekend disruptions follow an equipment outage on Monday that forced carriers to cancel hundreds of flights bound for the New York area and Philadelphia.
 
 </details>
 
@@ -277,132 +277,132 @@ The study found that 85% of instances that went to mediation ended in settlement
 
 ---
 
-## Bill Gates warns AI could cause ‘a billion deaths’ - Financial Times
+## The quiet tragedies of young old age - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmltNS0tWVNtZHFxbXZtUEp5UGhGbEtCVUdfa1N6cXV4Z0diM2N0LVZaU0FVUDdWS19EaXdnakN3a25nTW9WU0NkRW5laVppVmpRTzNWd3B6YkhUd2lGWEdTS29lXy1YX0ozcmVaZDVzbUVjUll0WUxHTDhDMmpBaFYtSV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09fSVlmWGNZYzI3MkVzZUEwc25BaXpNVjFfcFlVRjktUERmTFZxYjV0LXdZNTNrUThZemZiZWFXc3pCakttdkoyM0s0Y0lUenRISk9Ra1hqc3pRcE9rc1Zpeks5VzdtR1MyRXhGM19OX0gxTzBwa1dNSWRJdlBEYzExcHk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmltNS0tWVNtZHFxbXZtUEp5UGhGbEtCVUdfa1N6cXV4Z0diM2N0LVZaU0FVUDdWS19EaXdnakN3a25nTW9WU0NkRW5laVppVmpRTzNWd3B6YkhUd2lGWEdTS29lXy1YX0ozcmVaZDVzbUVjUll0WUxHTDhDMmpBaFYtSV8?oc=5" target="_blank">Bill Gates warns AI could cause ‘a billion deaths’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09fSVlmWGNZYzI3MkVzZUEwc25BaXpNVjFfcFlVRjktUERmTFZxYjV0LXdZNTNrUThZemZiZWFXc3pCakttdkoyM0s0Y0lUenRISk9Ra1hqc3pRcE9rc1Zpeks5VzdtR1MyRXhGM19OX0gxTzBwa1dNSWRJdlBEYzExcHk?oc=5" target="_blank">The quiet tragedies of young old age</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Blackstone’s top private equity executive prepares exit for possible public service move - Financial Times
+## OpenAI says governments among ‘dozens’ of organisations hacked by its agents - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEctcnRqZ3Z3djR6Tm9QbnZvc0M4V0RzQ1NWRGJRelJ0MTJQNzVJaU04eUVmUUJpWVlxYW9zMnoyV2o5eC1Td0tRaS0xRHkzRUhXZ1NxLTZQWUFKU3RnVEcxQ09JWUNxLVltQ1hhTks5Y2pCMjFYQTlaSncwUlNRUm82WDQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzNqdEZLLS0zQ1d6ckpjbU5fM2hfMDdTd0pvVTdoSUFsaDdqQmMyT2JFdGRwYWM4dlFfcWdGakNqTGg5YVJlUzZuU2pzMUpnb3RIWDJpUHM3dDV0ZUFrbmFVejM3Rm5uS0FYaGtlbWRYQWp2LU1FT3dQNHlpUFUwUzZzajk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEctcnRqZ3Z3djR6Tm9QbnZvc0M4V0RzQ1NWRGJRelJ0MTJQNzVJaU04eUVmUUJpWVlxYW9zMnoyV2o5eC1Td0tRaS0xRHkzRUhXZ1NxLTZQWUFKU3RnVEcxQ09JWUNxLVltQ1hhTks5Y2pCMjFYQTlaSncwUlNRUm82WDQ?oc=5" target="_blank">Blackstone’s top private equity executive prepares exit for possible public service move</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzNqdEZLLS0zQ1d6ckpjbU5fM2hfMDdTd0pvVTdoSUFsaDdqQmMyT2JFdGRwYWM4dlFfcWdGakNqTGg5YVJlUzZuU2pzMUpnb3RIWDJpUHM3dDV0ZUFrbmFVejM3Rm5uS0FYaGtlbWRYQWp2LU1FT3dQNHlpUFUwUzZzajk?oc=5" target="_blank">OpenAI says governments among ‘dozens’ of organisations hacked by its agents</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## BASF makes takeover approach for chemicals rival Evonik - Financial Times
+## Monzo in talks with Brazil’s Nubank about sale - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNPRGFsT2RqbTU1QzVLTWY4U0trQjJyNGUzZjRXaUlHYlhtbmxXWEhRS3cyQ3FWVVNWYnMzd1ZsYnVwMDhnTW83OFlDR2ZDcHlTZWhidTVwS05FVGpibzRKd3pZcUUwUnhtVDJhWTBHdnlOSEFSRDJhR1JsTzMtYnk0RTE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHZZYnlhaWVzek84ZW9zM19SWXUwclB4TFExMVktOG9YWGdMbzlNaE01Yi1hOF9TS2xSMW4zcWhmdGFtRVFxaHBubW55cDd3R21PYzd1MVl6bXFvdkpEdGkxazVENHNmQXctejJrQUp0dFBoSk5ZSmpVbjVaaUJTQVlId18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNPRGFsT2RqbTU1QzVLTWY4U0trQjJyNGUzZjRXaUlHYlhtbmxXWEhRS3cyQ3FWVVNWYnMzd1ZsYnVwMDhnTW83OFlDR2ZDcHlTZWhidTVwS05FVGpibzRKd3pZcUUwUnhtVDJhWTBHdnlOSEFSRDJhR1JsTzMtYnk0RTE?oc=5" target="_blank">BASF makes takeover approach for chemicals rival Evonik</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHZZYnlhaWVzek84ZW9zM19SWXUwclB4TFExMVktOG9YWGdMbzlNaE01Yi1hOF9TS2xSMW4zcWhmdGFtRVFxaHBubW55cDd3R21PYzd1MVl6bXFvdkpEdGkxazVENHNmQXctejJrQUp0dFBoSk5ZSmpVbjVaaUJTQVlId18?oc=5" target="_blank">Monzo in talks with Brazil’s Nubank about sale</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bond ructions point to new danger zone in markets - Financial Times
+## Hackers hijack AI accounts and servers to fuel new cyber crime boom - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnNFUXhpUGphWlN0YnpUcTZHeFBvYmJaeWpsYnp3TzJudTViR281T0p5YnFPbzllVVc3em5jNVE2ZGtIaHBwOTlUT1hnN2k5LTFwSXAwQzVUZzVQTktHT3RVdWc1Rm1DRHE0WU90V0ZyMEdrNWhHTDExUVZVV2lzVnFaODc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDI0d2VKaVhhMjhjQ3dwcXo3UVlyejRrVWZoS212dWp6NENmRkswblZnbHdCSWlBU01VMmowRDk1dVhVRkF4Ny0zR1NSMWxOVUJBVU1BX1FxMmNuZURGcXpvejhUREJCZUwzV2lXSEJXNzRTeFFNQ05fTWZQR3JEMVZFVGw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnNFUXhpUGphWlN0YnpUcTZHeFBvYmJaeWpsYnp3TzJudTViR281T0p5YnFPbzllVVc3em5jNVE2ZGtIaHBwOTlUT1hnN2k5LTFwSXAwQzVUZzVQTktHT3RVdWc1Rm1DRHE0WU90V0ZyMEdrNWhHTDExUVZVV2lzVnFaODc?oc=5" target="_blank">Bond ructions point to new danger zone in markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDI0d2VKaVhhMjhjQ3dwcXo3UVlyejRrVWZoS212dWp6NENmRkswblZnbHdCSWlBU01VMmowRDk1dVhVRkF4Ny0zR1NSMWxOVUJBVU1BX1FxMmNuZURGcXpvejhUREJCZUwzV2lXSEJXNzRTeFFNQ05fTWZQR3JEMVZFVGw?oc=5" target="_blank">Hackers hijack AI accounts and servers to fuel new cyber crime boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Former US intelligence chief Avril Haines: ‘Trump trusts his gut more than the expertise’ - Financial Times
+## How resilient is Britain? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU242VGQ1Zi1HelJ2QWUtSWl0MURYR2t2dE5uOUl2R2xTR2FpSUhIUkxQeG52QlRTYV9PVDBSMUg0Zkt0dWUzRGtRcFJ4eEw3ZFJ0YVhDaWNuR1R3RENEN3JBRlNLVGVKcmluU3NkaXdheTVRaGtUV0todWthUFREMGkwOFk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQakhSMjFJbmdtWks4Z1FZTVMyYkZzTmFrem5vbEZnQlhhdjBhdEVUX0hUQTJ6TXVwSjJuQWQ0YXVvYXBlMVR0V1ZoeGpzZ2FNaXYzYlVSNjlMOUdiQmN1T1J6MnFfdGE0YWQxV0FZT0dDOXd1blgyaWlZcVdxQ3BvaXRsNHA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU242VGQ1Zi1HelJ2QWUtSWl0MURYR2t2dE5uOUl2R2xTR2FpSUhIUkxQeG52QlRTYV9PVDBSMUg0Zkt0dWUzRGtRcFJ4eEw3ZFJ0YVhDaWNuR1R3RENEN3JBRlNLVGVKcmluU3NkaXdheTVRaGtUV0todWthUFREMGkwOFk?oc=5" target="_blank">Former US intelligence chief Avril Haines: ‘Trump trusts his gut more than the expertise’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQakhSMjFJbmdtWks4Z1FZTVMyYkZzTmFrem5vbEZnQlhhdjBhdEVUX0hUQTJ6TXVwSjJuQWQ0YXVvYXBlMVR0V1ZoeGpzZ2FNaXYzYlVSNjlMOUdiQmN1T1J6MnFfdGE0YWQxV0FZT0dDOXd1blgyaWlZcVdxQ3BvaXRsNHA?oc=5" target="_blank">How resilient is Britain?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Saudi coalition says it intercepts Houthi missiles, drones - reuters.com
+## China pushes back against US on Iran and Cuba in UN speech - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5" target="_blank">Saudi coalition says it intercepts Houthi missiles, drones</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5" target="_blank">China pushes back against US on Iran and Cuba in UN speech</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says - reuters.com
+## On Michigan doorsteps, Republicans sell Democrats-as-extremists message with mixed success - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTJfNzN3Z3RrVUYyUHozd3Q0Z3JhRnp2aDU4aC02bjE5cGFxbFFDX0dDWTA3U3BzbVRFbVVnMEhXT3hVY19BXzJERkw3b2NEZThvX0RBVWdTZ0IxSVRVcnl2bXd1OGtGSXg0UTdmdVBmSUdqOU1iODVtZ2QtckZ3VHhyTU93TWFCYnpxME1kazc3djVQZWlMZTRXdnZ5S0RBZE1tcmFCU2V2VjVuVnlzanJzQ0t3RWd0VUFIYnJFZjU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5" target="_blank">ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTJfNzN3Z3RrVUYyUHozd3Q0Z3JhRnp2aDU4aC02bjE5cGFxbFFDX0dDWTA3U3BzbVRFbVVnMEhXT3hVY19BXzJERkw3b2NEZThvX0RBVWdTZ0IxSVRVcnl2bXd1OGtGSXg0UTdmdVBmSUdqOU1iODVtZ2QtckZ3VHhyTU93TWFCYnpxME1kazc3djVQZWlMZTRXdnZ5S0RBZE1tcmFCU2V2VjVuVnlzanJzQ0t3RWd0VUFIYnJFZjU?oc=5" target="_blank">On Michigan doorsteps, Republicans sell Democrats-as-extremists message with mixed success</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI's models accessed public US Census, SEC data, Bloomberg News reports - reuters.com
+## Italy's Catania airport shuts as Etna ash halts flights - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDFQVUR5V1VSbm8xSXVlVjRaSmpXNHhELUNVcV8xc2VpQXdaMkRVbGgyd3J5LWRnWDhueUxoMHNPOU5nS2pLQWFZc042WUdFajRQWlpYTEt1SmN0a2I3bEZuSlJ1dnpNbGFCZUVfcmM3cHJiZVA1Y3Vod1M0am5GNGNRQVlCalhVQmdpN2VER3dtWk43S2hkbFU3aDdLanRvTVUyQ3h4MkV5U3A3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5" target="_blank">OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDFQVUR5V1VSbm8xSXVlVjRaSmpXNHhELUNVcV8xc2VpQXdaMkRVbGgyd3J5LWRnWDhueUxoMHNPOU5nS2pLQWFZc042WUdFajRQWlpYTEt1SmN0a2I3bEZuSlJ1dnpNbGFCZUVfcmM3cHJiZVA1Y3Vod1M0am5GNGNRQVlCalhVQmdpN2VER3dtWk43S2hkbFU3aDdLanRvTVUyQ3h4MkV5U3A3?oc=5" target="_blank">Italy's Catania airport shuts as Etna ash halts flights</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## White House blocks CNN from Air Force One trip, Washington Post reports - reuters.com
+## China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWZtbTBkbjhUSmJpWHJCa09RSkR1RUprY1NNcXBSX3hBWnZRU1B6MlhJUE4zc1BSTGZwYlF0SzUyMWFrTDh3bXdBZktFVXpzdnAydTNhMGhack1VY2J6OTIzeEthaVZIMHVfdGZDNFFqYmZYNlU3VHZQbnZDeVVjTU5jaURmN2wyOGFqYkptRWE5SVp5TVlXdmNjRDlCT19EcDYzWXY3RFdGc20wbDlSdi1UTGlVejRiMk9ob0pKTUQzUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWZtbTBkbjhUSmJpWHJCa09RSkR1RUprY1NNcXBSX3hBWnZRU1B6MlhJUE4zc1BSTGZwYlF0SzUyMWFrTDh3bXdBZktFVXpzdnAydTNhMGhack1VY2J6OTIzeEthaVZIMHVfdGZDNFFqYmZYNlU3VHZQbnZDeVVjTU5jaURmN2wyOGFqYkptRWE5SVp5TVlXdmNjRDlCT19EcDYzWXY3RFdGc20wbDlSdi1UTGlVejRiMk9ob0pKTUQzUQ?oc=5" target="_blank">White House blocks CNN from Air Force One trip, Washington Post reports</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5" target="_blank">China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens - reuters.com
+## Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnNWTkRFTmhMWF9BQTl3aTFRaDRuR2hqZF9YcHdRSlpHdUFoanQ1NmJTV0RHa1g0SUxtdHJpSV9ubTdLSk1MLVl2cXNHaHJGRGtKOVJGcXJFUGZxU3J0WFhEOVFkanU4dVdKNWhZS0o4OTFINjlrMHd5UnNnWHlTcm5vTkU1NGxkbzZ5bUtTMmxTSGxRTmlpaXRfdi15X0JSclZqeGdRZENTSnh0YTc3dXVZRVVjclhUbm9r?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnNWTkRFTmhMWF9BQTl3aTFRaDRuR2hqZF9YcHdRSlpHdUFoanQ1NmJTV0RHa1g0SUxtdHJpSV9ubTdLSk1MLVl2cXNHaHJGRGtKOVJGcXJFUGZxU3J0WFhEOVFkanU4dVdKNWhZS0o4OTFINjlrMHd5UnNnWHlTcm5vTkU1NGxkbzZ5bUtTMmxTSGxRTmlpaXRfdi15X0JSclZqeGdRZENTSnh0YTc3dXVZRVVjclhUbm9r?oc=5" target="_blank">Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5" target="_blank">Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
