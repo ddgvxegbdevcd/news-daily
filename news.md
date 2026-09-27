@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-09-27 04:46:03
+更新时间：2026-09-27 16:45:04
 
-## China Dispatches Pair of Pandas to Atlanta Zoo: CCTV Reports
+## Paramount Warner Deal Tests Hollywood’s Future
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports
+链接：https://www.bloomberg.com/news/videos/2026-09-27/paramount-warner-deal-tests-hollywood-s-future-video
 
 正文长度：0
 
-摘要：China’s giant pandas Pingping and Fushuang departed Chengdu for Zoo Atlanta early Sunday on a chartered flight, beginning a 10-year stay in the US, China Central Television reported on Sunday.
+摘要：Bloomberg entertainment reporter Lucas Shaw is on Bloomberg This Weekend examining Paramount Skydance’s acquisition of Warner Bros. Discovery and the challenge of turning two legacy media companies into a growing business as cable declines and streaming growth slows. Speaking with Lisa Mateo, Shaw says the merger could reshape Hollywood while raising questions about debt, further consolidation and whether streaming companies such as Netflix need new sources of growth.  (Source: Bloomberg)
 
 
 ---
 
-## Thai PM Anutin’s Support Drops in Latest Poll as Pressures Rise
+## Kennedy Center Musicians Find New Stages
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-27/thai-pm-anutin-s-support-drops-in-latest-poll-as-pressures-rise
+链接：https://www.bloomberg.com/news/videos/2026-09-27/kennedy-center-musicians-find-new-stages-video
 
 正文长度：0
 
-摘要：Public support for Thai Prime Minister Anutin Charnvirakul and his Bhumjaithai Party has plunged, according to an opinion poll, as his government confronts rising oil prices and a court ruling that may threaten its hold on power.
+摘要：Bloomberg News Washington breaking news Editor Brian K. Sullivan is on Bloomberg This Weekend discussing uncertainty surrounding the Kennedy Center’s renovation, possible demolition and the displacement of major performing arts groups. He tells hosts David Gura and Christina Ruffini that musicians and other performers are continuing at venues across the Washington region as legal disputes complicate plans for the center.  (Source: Bloomberg)
 
 
 ---
 
-## Australia Home Auction Clearances Hit 10-Week Low as Rate Hike Looms
+## US Iran Talks Hit Familiar Sticking Points
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-27/australia-home-auction-clearances-hit-10-week-low-as-rate-hike-looms
+链接：https://www.bloomberg.com/news/videos/2026-09-27/us-iran-talks-hit-familiar-sticking-points-video
 
 正文长度：0
 
-摘要：Australia’s auction clearance rate declined to a 10-week low as a long weekend in Melbourne and the threat of higher borrowing costs weighed on sentiment.
+摘要：Bloomberg White House correspondent and national security editor Michelle Jamrisko is on Bloomberg This Weekend discussing renewed US-Iran diplomacy after indirect talks in New York failed to overcome disagreements over sanctions, the US blockade and the Strait of Hormuz. Speaking with hosts David Gura and Christina Ruffini, Jamrisko says the two sides remain on different timelines and also examines questions surrounding Taiwan after President Donald Trump’s meeting with Chinese President Xi Jinping. (Source: Bloomberg)
 
 
 ---
 
-## China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight
+## Tremors From AI to Oil Boost Popular Hedge Fund Dispersion Trade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight
+链接：https://www.bloomberg.com/news/articles/2026-09-27/tremors-from-ai-to-oil-boost-popular-hedge-fund-dispersion-trade
 
 正文长度：0
 
-摘要：Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.
+摘要：Wild gyrations in individual stocks on a punchy cocktail of AI euphoria and fear, a tumbling bond market and geopolitical drama bode well for a long-favored trade among hedge fund managers.
 
 
 ---
 
-## Bond Market Volatility Signals Risks for Corporate Debt Investors
+## Inflation Keeps Pressure on the Fed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-09-27/inflation-keeps-pressure-on-the-fed-video
 
 正文长度：0
 
-摘要：Corporate bonds have been relatively resilient amid a global government bond selloff, but the strength may not last.
+摘要：Renaissance Macro Research economist Neil Dutta tells Bloomberg This Weekend that the US labor market has stabilized while persistent inflation could force the Federal Reserve to raise interest rates at a faster pace than investors currently expect. Speaking with hosts David Gura and Christina Ruffini, Dutta says rising food and energy costs risk pushing inflation expectations higher and argues inflation remains the more pressing side of the Fed’s dual mandate. (Source: Bloomberg)
 
 
 ---
@@ -161,18 +161,18 @@ Coke shares have climbed more than 25% this year, while Monster's stock has rise
 
 链接：https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html
 
-正文长度：1237
+正文长度：1142
 
-摘要：Flight disruptions were rising in Boston for Saturday.
+摘要：Flight disruptions were rising in Boston over the weekend.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> U.S. airlines waived change fees for flights Friday through Sunday ahead of a nor'easter that federal forecasters warn will bring high winds and rainfall with the potential for dangerous flooding.
-As of Saturday morning, around 250 Boston flights were canceled, about a quarter of the day's schedule, according to FlightAware. On Friday, more than 600 flights to and from LaGuardia Airport in New York were delayed, close to 60% of the schedule. Dozens of others were delayed at major New England and New York-area airports.
-Carriers will often cancel a chunk, if not most, of their schedules during severe winter storms or hurricanes to ensure planes, passengers, and crews aren't out of place, but airlines are still assessing the nor'easter's potential path and impact.
+> Flight disruptions lingered around the Northeast on Sunday as the nor'easter continues to bring heavy rain and high winds to the Northeast U.S.
+Around 200 flights in and out of Boston were canceled on Sunday, about 15% of the day's schedule, while another 260 were canceled on Saturday, according to FlightAware. Dozens of others were delayed at major New England and New York-area airports.
+Carriers will often cancel a chunk, if not most, of their schedules during severe winter storms or hurricanes to ensure planes, passengers, and crews aren't out of place, but airlines kept most of the schedule in tact ahead of the nor'easter, with delays far fewer than other major storms.
 American Airlines, United Airlines, Delta Air Lines, and JetBlue Airways said customers can change flights to a range of airports in the New York City area, Boston, and smaller New England airports without paying a change fee or fare difference if they can fly anytime before the middle of next week.
-Potential weekend disruptions follow an equipment outage on Monday that forced carriers to cancel hundreds of flights bound for the New York area and Philadelphia.
+The weekend disruptions followed an equipment outage on Monday that forced carriers to cancel hundreds of flights bound for the New York area and Philadelphia.
 
 </details>
 
@@ -278,132 +278,132 @@ The study found that 85% of instances that went to mediation ended in settlement
 
 ---
 
-## Amazon wades into India’s fast delivery battleground: ‘DoorDash on steroids’ - Financial Times
+## Pay to play in the age of corporate migration - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzJLaWNNRWxRWllVVV9fYkJmV19WMmlUVFpEQ241Rll2SklYaVNBeXZxcUtCbDFhb2Z4amdfYVRVSHVUMzFQUkxiQThSOFFqRmJteERMSFdNbGJhcV9EbnY1QnJOblZCZGFUeS14ekpDWXhEVWRnWlZDd3ZiT3J1RXUwa3g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzlvbTdiSENodXlyeGhvMjdVb19qdm9UZENiT0ZVR3R5NmtSamZ5WEZNejFQT0RHZ3ItZm5TN3ljVFdCeGFVdXZjdmZsX3lmNGJWc1RuWHIwelYtdjlKQ3hwcHFXbVlXMUNpeVNuemZvVDkyWW5Tb3daWGtLSE9mOGgyTE8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzJLaWNNRWxRWllVVV9fYkJmV19WMmlUVFpEQ241Rll2SklYaVNBeXZxcUtCbDFhb2Z4amdfYVRVSHVUMzFQUkxiQThSOFFqRmJteERMSFdNbGJhcV9EbnY1QnJOblZCZGFUeS14ekpDWXhEVWRnWlZDd3ZiT3J1RXUwa3g?oc=5" target="_blank">Amazon wades into India’s fast delivery battleground: ‘DoorDash on steroids’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzlvbTdiSENodXlyeGhvMjdVb19qdm9UZENiT0ZVR3R5NmtSamZ5WEZNejFQT0RHZ3ItZm5TN3ljVFdCeGFVdXZjdmZsX3lmNGJWc1RuWHIwelYtdjlKQ3hwcHFXbVlXMUNpeVNuemZvVDkyWW5Tb3daWGtLSE9mOGgyTE8?oc=5" target="_blank">Pay to play in the age of corporate migration</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Foreign capital flows into US stocks hit record as appetite for debt fades - Financial Times
+## The India shock: exporting workers to the world - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVQ0QmFUZXZwdEg1OHRQUW9FejlFMlVUN21UX2F2d29oaW04eGhFRjhSS21xbTcxVnFRVGk4OG1xV0JUdjVxSnpOVEhjaXBMaW5RSTdFcXNLR3FveDJPSm1URF9uRGFHanUzSEFsU3owQkNRVlBFQi1ZSi1oQWhUQmV3OWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5" target="_blank">Foreign capital flows into US stocks hit record as appetite for debt fades</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVQ0QmFUZXZwdEg1OHRQUW9FejlFMlVUN21UX2F2d29oaW04eGhFRjhSS21xbTcxVnFRVGk4OG1xV0JUdjVxSnpOVEhjaXBMaW5RSTdFcXNLR3FveDJPSm1URF9uRGFHanUzSEFsU3owQkNRVlBFQi1ZSi1oQWhUQmV3OWQ?oc=5" target="_blank">The India shock: exporting workers to the world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump and Xi to meet twice more after summit fails to resolve tensions - Financial Times
+## Europe braces for LNG tug of war with Asia - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3h4cVlNQUljeXBUNmJkWnRINEl3MzhiQjZIa0pYM0VuMHZQV2Jvb0FCWnQwcGprZTJ3dDFZb1BOaEpVQUpIUnFmZUdJZnVweGVZSjNNcE84S3Z5U2RhMGNjbmZIQ0tWTHkyUlRVQmhDNmttYmo1RVRuSFNCdkJCa3VFTC0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdxWkpYZTEzaU9qM3RsVjUtcmd6VWdnZnpLV2hjaGdEcmNtMk9sa0I4Z3BtX24yUGFPcTlhV0hOQXlEbmVuMnhsbkZGZDNqMnUwZmswS0lmeTg3ZDFXWUppblhQM1FzOHZ3QW5ndWxTYTZ3OTAteW1oWDVlQlBWa05vbEo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3h4cVlNQUljeXBUNmJkWnRINEl3MzhiQjZIa0pYM0VuMHZQV2Jvb0FCWnQwcGprZTJ3dDFZb1BOaEpVQUpIUnFmZUdJZnVweGVZSjNNcE84S3Z5U2RhMGNjbmZIQ0tWTHkyUlRVQmhDNmttYmo1RVRuSFNCdkJCa3VFTC0?oc=5" target="_blank">Trump and Xi to meet twice more after summit fails to resolve tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdxWkpYZTEzaU9qM3RsVjUtcmd6VWdnZnpLV2hjaGdEcmNtMk9sa0I4Z3BtX24yUGFPcTlhV0hOQXlEbmVuMnhsbkZGZDNqMnUwZmswS0lmeTg3ZDFXWUppblhQM1FzOHZ3QW5ndWxTYTZ3OTAteW1oWDVlQlBWa05vbEo?oc=5" target="_blank">Europe braces for LNG tug of war with Asia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The quiet tragedies of young old age - Financial Times
+## US withdrawal from Iraq ‘shameful’, Kurdish leader says - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09fSVlmWGNZYzI3MkVzZUEwc25BaXpNVjFfcFlVRjktUERmTFZxYjV0LXdZNTNrUThZemZiZWFXc3pCakttdkoyM0s0Y0lUenRISk9Ra1hqc3pRcE9rc1Zpeks5VzdtR1MyRXhGM19OX0gxTzBwa1dNSWRJdlBEYzExcHk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGJaWGJYU1h3a19KbnU2bV9OSHJIM1R6c045OGJRTmtvOE1FdXlQNzgtRjdXNkYxN3Vsby12bDZzRFJqbGN4MTQzb3VCQ1Y2YWljZUlaX1VLWEducjZCLTFveHhvWjZKM011UmgwQXlYZjhvTEZHd1REV0JZQnVtemotMVg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPR09fSVlmWGNZYzI3MkVzZUEwc25BaXpNVjFfcFlVRjktUERmTFZxYjV0LXdZNTNrUThZemZiZWFXc3pCakttdkoyM0s0Y0lUenRISk9Ra1hqc3pRcE9rc1Zpeks5VzdtR1MyRXhGM19OX0gxTzBwa1dNSWRJdlBEYzExcHk?oc=5" target="_blank">The quiet tragedies of young old age</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGJaWGJYU1h3a19KbnU2bV9OSHJIM1R6c045OGJRTmtvOE1FdXlQNzgtRjdXNkYxN3Vsby12bDZzRFJqbGN4MTQzb3VCQ1Y2YWljZUlaX1VLWEducjZCLTFveHhvWjZKM011UmgwQXlYZjhvTEZHd1REV0JZQnVtemotMVg?oc=5" target="_blank">US withdrawal from Iraq ‘shameful’, Kurdish leader says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz - Financial Times
+## De Beers bets on consumers’ taste for the real to restore natural diamonds’ sparkle - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHNIN0ZJc2gyMnpKd0RMaHVWQXU5T1dDemFndzg2NjlzTFBsVUViTXJyNndUXzJOWGs0QmJFZXpyanVqc210VG91OTNEZ2d2aS0zaFZhRlBlcExydV9yZ2p6N0RrQWc3SUdmaDlJUDVlOTItUUpjNnM0V1VTdTYySWJIUmo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFZvLXhScDI1SmVNSEhxa3h1Zk9fZkV6QWk4QnN5ZEp0SjlKN2ZGUVJURnpUN2N6QUlTLUhKVG9GVlQwX0xGVndTeEt3Q0dkRzRETmhhQWlMbkI5R3EwaFdoQTNmMGRjMDZwcTdiVVdobzFLQWFpRTZ0eHNOU20tNW5iWU8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHNIN0ZJc2gyMnpKd0RMaHVWQXU5T1dDemFndzg2NjlzTFBsVUViTXJyNndUXzJOWGs0QmJFZXpyanVqc210VG91OTNEZ2d2aS0zaFZhRlBlcExydV9yZ2p6N0RrQWc3SUdmaDlJUDVlOTItUUpjNnM0V1VTdTYySWJIUmo?oc=5" target="_blank">Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFZvLXhScDI1SmVNSEhxa3h1Zk9fZkV6QWk4QnN5ZEp0SjlKN2ZGUVJURnpUN2N6QUlTLUhKVG9GVlQwX0xGVndTeEt3Q0dkRzRETmhhQWlMbkI5R3EwaFdoQTNmMGRjMDZwcTdiVVdobzFLQWFpRTZ0eHNOU20tNW5iWU8?oc=5" target="_blank">De Beers bets on consumers’ taste for the real to restore natural diamonds’ sparkle</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran insists on diplomatic solution after Trump rejects peace plan - Reuters
+## Russia hits Ukraine's largest mobile provider, strikes data centres - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5" target="_blank">Iran insists on diplomatic solution after Trump rejects peace plan</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5" target="_blank">Russia hits Ukraine's largest mobile provider, strikes data centres</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US to finalize sharply lower vehicle fuel economy standards - Reuters
+## South Korean military, UN command launch investigation into DMZ explosion - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWl2MjlNSFpiVWhIX21aZVAxdW5oVzh6V0xfVDZlcU9TX0IzZTRWcG5Uek1hYXl5WWY0NG8zWThRclJmZW9WNnktYS1aUVNUZmVJeFlwVUVUWXBVQ1RwWDcwV0pabldidDVQWGt2QkJWWGpJZWh5d29LRVJNN1BUUHktaE1sdEhLdW96NDN3WGwxcWN3Q1dBQ2p5eE9JTW1PbFRYRDd2ZWs2bEJnbmozaDB4aF9Wc0cxTXlqdm1fUXNWUVhfTnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5" target="_blank">US to finalize sharply lower vehicle fuel economy standards</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWl2MjlNSFpiVWhIX21aZVAxdW5oVzh6V0xfVDZlcU9TX0IzZTRWcG5Uek1hYXl5WWY0NG8zWThRclJmZW9WNnktYS1aUVNUZmVJeFlwVUVUWXBVQ1RwWDcwV0pabldidDVQWGt2QkJWWGpJZWh5d29LRVJNN1BUUHktaE1sdEhLdW96NDN3WGwxcWN3Q1dBQ2p5eE9JTW1PbFRYRDd2ZWs2bEJnbmozaDB4aF9Wc0cxTXlqdm1fUXNWUVhfTnc?oc=5" target="_blank">South Korean military, UN command launch investigation into DMZ explosion</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports - Reuters
+## Thailand declares two-day civil service holiday due to floods - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5" target="_blank">Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5" target="_blank">Thailand declares two-day civil service holiday due to floods</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled - Reuters
+## Swiss voters set to reject initiative to tighten neutrality rules - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFMQkhwSFZ2TE03R3RGVTczODdfeTdMeTM3OVF1LXZ6a0RaQWtaQ2hpSzE3d1hCYnhzanFPN21fUEVFazdiaG55NXdWY3gyUTJheXdQYjdyeWtMWFRGSl9YaDZKbTB2eVFncUdIWmhjRzFZQWNzeE9TNUFQUW9Da2UyLVluVjdZQWpKX0Q5UFZSYVU1Mk1hZS1JN3ppeTlTMG9J?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5" target="_blank">Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFMQkhwSFZ2TE03R3RGVTczODdfeTdMeTM3OVF1LXZ6a0RaQWtaQ2hpSzE3d1hCYnhzanFPN21fUEVFazdiaG55NXdWY3gyUTJheXdQYjdyeWtMWFRGSl9YaDZKbTB2eVFncUdIWmhjRzFZQWNzeE9TNUFQUW9Da2UyLVluVjdZQWpKX0Q5UFZSYVU1Mk1hZS1JN3ppeTlTMG9J?oc=5" target="_blank">Swiss voters set to reject initiative to tighten neutrality rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## At UN, Russia and Germany's top diplomats hold first talks since 2022 - Reuters
+## Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXVWZFVNcU52RDdIS2tpNTdtS2N3MUxjWjNIY0JUeUtyQ3ZWN0FFRmNDMTBvN1Q5ZFpJdC1USWdqT2k2azZ5MnBaRGhrdC1tdXhFcnQ0U2RsYUJ6N1FOeXZuS1BTSER6TEVjRXhJb2RqY3lyRkRGSGNLQTUtSjRkbG44M3ZPRmNJejRaNmFUVTYxai1haXVGdml6SUxxMnBRNE1EOTRQX2lieG9xanc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXVWZFVNcU52RDdIS2tpNTdtS2N3MUxjWjNIY0JUeUtyQ3ZWN0FFRmNDMTBvN1Q5ZFpJdC1USWdqT2k2azZ5MnBaRGhrdC1tdXhFcnQ0U2RsYUJ6N1FOeXZuS1BTSER6TEVjRXhJb2RqY3lyRkRGSGNLQTUtSjRkbG44M3ZPRmNJejRaNmFUVTYxai1haXVGdml6SUxxMnBRNE1EOTRQX2lieG9xanc?oc=5" target="_blank">At UN, Russia and Germany's top diplomats hold first talks since 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5" target="_blank">Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
