@@ -1,8 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-10-02 05:03:02
+更新时间：2026-10-02 17:42:53
 
-## Cocktail of Risks Boosts Demand for Safest Bonds: Markets Wrap
+## Wall Street Loads Up on Options Ahead of Toss-Up Brazil Vote
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-02/wall-street-loads-up-on-derivatives-ahead-of-toss-up-brazil-vote
+
+正文长度：0
+
+摘要：Investors eager to trade on a Brazilian election that’s too close to call are prioritizing derivatives over outright bets after market favorite Flávio Bolsonaro gained ground on President Luiz Inácio Lula da Silva.
+
+
+---
+
+## Gold Declines as High Yields Outweigh Bets on Fed Rate Hold
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-02/gold-steadies-as-easing-us-bond-yields-reduce-rate-hike-bets
+
+正文长度：0
+
+摘要：Gold declined as a rebound in bond yields outweighed bets that the Federal Reserve may hold interest rates steady later this month following a slowdown in the jobs market.
+
+
+---
+
+## G7 to Release Up to 100 Million Barrels of Diesel, Crude
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil
+
+正文长度：0
+
+摘要：The Group of Seven nations and its partners plan to release as much as 100 million barrels of emergency oil and diesel stocks, capping a week of mounting pressure from the Trump administration to bring down soaring fuel prices.
+
+
+---
+
+## Paramount’s $52 Billion Debt Saga Ends With Hair-Raising Finale
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-02/paramount-s-52-billion-debt-saga-ends-with-hair-raising-finale
+
+正文长度：0
+
+摘要：A cast of thousands. Records smashed. Instant losses and angry phone calls. If the months-long search for debt to fund the audacious takeover of Warner Bros. Discovery Inc. by David Ellison’s Paramount Skydance Corp. were a prestige drama, the past few days would have been the messy season finale.
+
+
+---
+
+## Stocks Rise as Jobs Report Eases Fed-Hike Worries: Markets Wrap
 
 来源：彭博社
 
@@ -10,360 +62,365 @@
 
 正文长度：0
 
-摘要：Risks spanning credit markets, elevated commodity prices and French political turmoil boosted demand for safer government bonds, snapping a prolonged decline fueled by persistent inflation concerns.
+摘要：A slowdown in the US jobs market drove stocks higher on speculation the Federal Reserve won’t be forced to lift rates any time soon.
 
 
 ---
 
-## US Adds Carrier and 10,000 Troops to Mideast
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-10-02/us-adds-carrier-and-10-000-troops-to-mideast-video
-
-正文长度：0
-
-摘要：The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump chooses to escalate attacks on Iran. Bloomberg's Stuart Livingstone-Wallace has the latest. (Source: Bloomberg)
-
-
----
-
-## Indonesian Finance Minister: 'We are credible'
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-10-02/indonesian-finance-minister-we-are-credible-video
-
-正文长度：0
-
-摘要：Indonesia Finance Minister Suahasil Nazara pledged policy continuity and reaffirmed that the country will maintain its 3% GDP budget deficit cap, despite parliamentary debate over raising it. Speaking to Haslinda Amin, Nazara sought to reassure investors as amidst a backdrop of uncertainty over the currency. (Source: Bloomberg)
-
-
----
-
-## France’s Crisis Is Deepening as Investors Head for the Exit
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-02/france-s-crisis-is-deepening-as-investors-head-for-the-exit
-
-正文长度：0
-
-摘要：<p>Worries are mounting and bonds, stocks and the euro are taking the hit.</p>
-
-
----
-
-## Copper Heads for Weekly Loss as High Energy Costs Limit Demand
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-02/copper-heads-for-weekly-loss-as-high-energy-costs-limit-demand
-
-正文长度：0
-
-摘要：Copper headed for the biggest weekly loss since May as high energy costs and China’s stuttering industrial sector threatened to curb demand.
-
-
----
-
-## Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring
+## Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html
+链接：https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html
 
-正文长度：3642
+正文长度：7271
 
-摘要：Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.
+摘要：Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Nike on Thursday posted a mixed fiscal first quarter and announced a restructuring plan that will lead to layoffs starting next year.
-The company also offered a full-year outlook, saying it expects revenues to decline by a high-single digit percentage in fiscal 2027. Nike also said it expects adjusted earnings per share to be in a range of $1.15 to $1.35.
-Shares of Nike fell roughly 3% in extended trading Thursday.
-Here's what the company reported for the period compared to what analysts expected, according to consensus estimates from LSEG:
-- Earnings per share: 48 cents vs. 43 cents expected
-- Revenue: $11.21 billion vs. $11.32 billion expected
-Nike reported net income of $712 million, down 2% from $727 million the year prior.
-Revenue fell 4% to $11.21 billion. The retailer said Nike brand revenues took a hit largely due to sustained declines in the China business. Revenue in the market dropped 26%. CEO Elliott Hill said on a call with analysts that the company is "moving with urgency" to improve its business in the region.
-Its North America revenue came in at $5.13 billion, just above estimates of $5.11 billion, according to StreetAccount. Nike also reported gross margin of 42.8% compared to estimates of 42.4%.
-"Despite that progress, our Nike performance business is not yet large enough to offset the pressure we're seeing in Nike Sportswear, Jordan Brand, and Greater China," Hill told analysts. "We're taking deliberate actions to strengthen those businesses, but realizing the full benefit of those efforts will take time."
-Nike's sportswear segment, which Hill said accounted for just under half of the quarter's revenue, fell by a low-double digit percentage.
-"Overall, there's a lack of energy in the lifestyle space right now, which is impacting traffic," he said on the call. "Yes, the consumer is cautious, but as the leader in the industry, it's on us to bring more creativity to sportswear."
-Nike reorganizes
-The sneaker giant also announced a restructuring plan to "position Nike for long-term growth." The strategy is expected to result in layoffs beginning in 2027, though the company did not provide any further details on how many jobs it would cut.
-"This work will result in fewer roles across Nike, and I want to acknowledge that news like this creates uncertainty. I don't take that lightly," Hill wrote in a letter to the company.
-The cuts are the third round of layoffs Nike has announced this year.
-The company said it plans to focus on its supply chain modernization, organizing into three geographies, building a new campus in India and changing its work and workforce. Those geographic regions will be the Americas; the Asia Pacific and Greater China; and Europe, the Middle East and Africa.
-The strategy, which Nike has dubbed Pace, is expected to deliver approximately $2.5 billion in savings through fiscal 2031. It'll also result in a 15-cent restructuring expense to fiscal 2027 earnings per share, the company added.
-"We expect Pace to streamline decision making, so we can capture demand faster and improve productivity, while also creating greater capacity to invest in what has always set Nike apart: serving athletes, creating industry-leading innovation and building the world's strongest sports brands," Hill said on the conference call.
-The retailer has been in the midst of a turnaround plan, focused on improving separate parts of its business at different rates based on priority. The Nike consumer has also been under increased macroeconomic pressure as geopolitical tensions and higher inflation lead to slower spending.
-Shares of Nike have plummeted more than 40% this year.
+> The next generation of blockbuster obesity drugs isn't trying to replace GLP-1 medicines.
+Instead, drugmakers are developing treatments that can complement existing drugs and push weight loss further, or offer new options for potentially millions of people who may not get enough benefit from GLP-1s.
+That's the early potential of a new slate of injections, pills, and combination regimens targeting the amylin pathway, which involves a hormone released in the pancreas alongside insulin that helps regulate hunger and fullness. Amylin gives Eli Lilly and Novo another biological lever to pull in treating obesity and Type 2 diabetes, either as an independent treatment or layered on top of existing drugs.
+Lilly offered a promising glimpse of that strategy this week.
+The company's experimental amylin-targeting drug, eloralintide, helped produce substantially more weight loss when combined with tirzepatide – the active ingredient in its blockbuster Zepbound and Mounjaro shots – in a Phase 2 trial on patients with obesity and Type 2 diabetes.
+At 48 weeks, people receiving the highest-dose combination lost an average of 23.3% of their body weight, compared with 14.8% among those only taking a high dose of tirzepatide. Those figures are based on efficacy analysis that assumes patients remained on treatment in the trial.
+"These are encouraging results," said Benjamin Bikman, a professor at Brigham Young University and leading expert on metabolic health and insulin resistance. "Adults with type 2 diabetes typically lose less weight on these therapies than those without diabetes."
+Lilly is developing eloralintide both as a standalone treatment and as part of that combo therapy. The two components make up what some analysts view as a major future franchise for the company.
+Leerink Partners analyst David Risinger forecasts $23.2 billion in annual sales for Lilly's eloralintide products by the end of 2035. He said he expects the standalone drug to launch first in 2029, followed by the combo in 2030.
+"There are millions of individuals, potentially over 10 million people, who have tried GLP-1s and failed due to efficacy reasons, tolerability issues, or genetic issues where they simply do not respond to one," Risinger told CNBC. "We think this novel mechanism, this amylin analog … will offer a major new treatment alternative for patients, both as a monotherapy and as a combination therapy. "
+Risinger said he sees greater potential for standalone eloralintide given the "huge independent patient pool" that hasn't seen success on existing GLP-1s. Lilly still sees a clear opportunity for pairing the medications.
+"Patients may not get what they need from a drug like tirzepatide," Ken Custer, president of Lilly Cardiometabolic Health, said in an interview. "They may not get what they need from a drug like a eloralintide on its own."
+Bikman also said he sees the combo as an opportunity for patients who started on tirzepatide alone but saw their weight loss plateau.
+But Lilly still has a lot to prove. The data comes from a relatively small Phase 2 study that the company will need to confirm in Phase 3 trials, which will begin later this year.
+Lilly also aims to improve how well patients tolerate the combo regimen in later studies. More patients taking both drugs — 10.8% to 27%, depending on the dose — discontinued treatment due to side effects, compared with the 2.9% of people on tirzepatide alone in the trial.
+"A therapy is only effective if patients can remain on it, so tolerability in Phase 3 will be as important as efficacy," Bikman said.
+Dr. Caroline Apovian, co-director of the Center for Weight Management and Wellness at Brigham and Women's Hospital, added that "27% is not a good number."
+Still, the results add to a growing body of evidence that amylin could become an important tool against obesity and diabetes.
+Lilly isn't alone in betting that amylin can become a building block for the next generation of obesity drugs. Novo has spent years pursuing a similar strategy.
+Novo's experimental amylin-based drug, cagrilintide, has shown meaningful weight loss as a standalone treatment in a late-stage trial. Combining it with semaglutide – together dubbed CagriSema – has produced even greater weight loss in clinical studies. CagriSema is expected to launch early next year, followed by standalone cagrilintide and a higher-dose version of CagriSema in 2028.
+Novo is also developing another treatment called amycretin, or zenagamtide, which is a single molecule that would target both GLP-1 and amylin to treat obesity and Type 2 diabetes. The Danish drugmaker is testing it as a once-weekly injection and a daily oral tablet, and the drug showed promising Phase 2 results earlier this year.
+Amylin vs. GLP-1
+The first – and so far only – amylin therapy was approved in the U.S. more than two decades ago as an add-on mealtime injection for people with diabetes who use insulin. But adoption was limited in part because it required multiple injections a day.
+New therapies in development are long-acting, meaning they are designed to mimic the hormone in a sustained way and can be taken once a week, Bikman said.
+Amylin helps signal fullness, suppress appetite and slow the movement of food through the stomach, similar to what GLP-1 does. But amylin achieves that by acting on an entirely different biological pathway.
+"It's the same outcome, but a different approach," Bikman told CNBC.
+The idea is that targeting multiple pathways could produce more weight loss or other metabolic benefits than any single pathway can achieve on its own, and without relying entirely on higher doses of a single drug.
+New data from Novo this week suggests that the benefits could go beyond physical changes.
+CagriSema reduced "food noise" — persistent thoughts about food — and showed improvements to organ and bone health in a yearlong functional magnetic resonance imaging study, which is a noninvasive method to measure brain activity during specific tasks. Novo said CagriSema changed how the brain reacted to tempting, high-calorie foods in areas linked to cravings, pleasure and self-control in people with obesity or who were overweight.
+"The signal in the brain changes in a way that actually is associated with improved quality of life," Martin Holst Lange, Novo's chief scientific officer, said in an interview.
+Developing treatments that target several hormone pathways rather than one is part of a broader shift in the obesity drug race, even beyond amylin.
+Tirzepatide already pairs GLP-1 with GIP, while Lilly's experimental drug retatrutide also adds glucagon to the mix. Retatrutide has produced some of the largest weight loss results reported in obesity drug trials to date, and Bikman said published data on the drug demonstrate substantial reductions in liver fat, triglycerides and fasting insulin.
+It's too early to definitively say whether combination amylin drugs could be superior to tirzepatide or other next-generation treatments. They'll have to clear more clinical trials and regulatory reviews first.
+But all the medicines in development are working toward a broader goal shared by several drugmakers: giving patients a variety of obesity and diabetes treatment options to meet their individualized needs.
 
 </details>
 
 
 ---
 
-## Boeing engineers and technical workers approve new contract, avoiding strike
+## Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html
+链接：https://www.cnbc.com/2026/10/02/ford-q3-sales.html
 
-正文长度：1616
+正文长度：2558
 
-摘要：The work group comprises Boeing's largest white-collar union.
+摘要：Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Boeing engineers and technical workers approved a sweetened four-year contract with immediate 10% raises, avoiding a potential strike at the aerospace giant as it seeks federal approval for new aircraft and to increase aircraft production.
-"We secured many victories that some thought were completely out of reach when this negotiation cycle started," said the Society of Professional Engineering Employees in Aerospace, which represents about 13,000 Boeing engineers and 4,000 technical workers.
-Boeing increased its offer in mid-September after the workers rejected an earlier proposal. In addition to the 10% ratification wage increase, the four-year contract includes annual raises of 4%, with an increase of up to 6% based on merit.
-The professional unit, which includes engineers, voted 67.62% in favor of the new contract, and the tech unit approved the contract with 53.48% in favor, the union said.
-The work groups, which make up Boeing's largest white-collar union, overwhelmingly rejected an earlier offer with 3% annual raises.
-Boeing said in a statement that it was "pleased with the outcome of the vote."
-The approval lets Boeing avoid a strike just as it's trying to stabilize and increase production of its fast-selling jets and win federal approval for the 737 Max 10 and 777X, which are years behind schedule.
-The Federal Aviation Administration on Monday said it's assessing whether a software issue on the 737 Max 10, which could affect landing procedures in certain scenarios, poses a safety of flight issue.
-A machinist strike two years ago halted production until the two sides reached a deal.
+> DETROIT — Ford Motor retained its No. 3 U.S. sales position during the third quarter by a narrow margin over Hyundai Motor, which had been forecast to overtake the Detroit automaker.
+Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles. That figure excludes its largest heavy-duty trucks, which are classified differently.
+That compares to the South Korean automaker, including Hyundai, Kia and Genesis brands, reporting a 5.4% increase to 506,200 vehicles during the quarter.
+Both companies performed better than expected. A forecast last week by Cox Automotive had called for Hyundai to overtake Ford in quarterly sales for the first time.
+Hyundai has been making major inroads in the U.S. this year. Ford, meanwhile, has struggled with production of its crucial F-Series pickup trucks after two supplier fires last year that disrupted production and sales.
+Ford retains a roughly 89,700-unit sales lead for the year over Hyundai through the third quarter, according to data reported this week by the companies.
+The current U.S. sales leader for 2026 is General Motors, followed by Toyota Motor. However, the Japanese automakers has been making gains against GM this year.
+Ford on Friday downplayed Hyundai's proximity in sales, citing Kia and Hyundai brands operating separately in the U.S. despite having a corporate parent.
+In addition to the F-Series production problems, Ford's year-over-year sales comparisons have been tough due to the discontinuation of vehicles such as the Ford Escape.
+Rob Kaffl, Ford's head of U.S. sales, said Friday that sales and inventories of F-Series pickups, including its F-150, continued to improve during the quarter.
+"Some of the headwinds we had early in the year are kind of behind us, and it's really setting us up for a really strong Q4 as we move in," Kaffl said during a media call.
+F-Series sales were only off 1.9% during the third quarter, including a 97.1% decline of the discontinued F-150 Lightning electric pickup truck.
+The Detroit automaker's Ford brand was off roughly 6% during the quarter, while its luxury Lincoln brand was down 18%.
+Ford's year-over-year sales of electric vehicles were off 67.5% through September, including a roughly 80% decline during the third quarter. The automaker is also facing tough comparisons in that category, as it reported record EV sales during the same period last year as demand spiked ahead of the Trump administration ending federal incentives worth up to $7,500 for consumers to purchase an EV.
 
 </details>
 
 
 ---
 
-## Mattel shares rise after reports of takeover interest from Authentic Brands Group
+## David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html
+链接：https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html
 
-正文长度：1299
+正文长度：1815
 
-摘要：Shares of toymaker Mattel rose Thursday after the Wall Street Journal reported that Authentic Brands Group had expressed interest in buying the toymaker.
+摘要：It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Shares of Mattel rose nearly 20% on Thursday after the Wall Street Journal reported that the toymaker had attracted takeover interest from Authentic Brands Group.
-The brand licensing company has privately discussed an offer that could value Mattel at more than $20 per share, or about $6 billion, the Journal reported, citing people familiar with the matter. Mattel traded just above $15 per share on Thursday afternoon.
-A person familiar with the talks confirmed to CNBC that there are discussions, but cautioned that they are very preliminary. The person asked not to be named because the discussions are private. The source added that the overture makes sense because Authentic has interest in entertainment properties, particularly those tailored to kids.
-"As a matter of company policy, we do not comment on market rumors or speculation," a Mattel spokesperson said.
-Authentic declined to comment.
-News of Authentic's takeover interest follows Mattel's Wednesday announcement that Condé Nast CEO Roger Lynch will take over as its next CEO. Shares of Mattel closed down 4% on Wednesday.
-Lynch, who has been a member of Mattel's board since 2018, will start as chairman on Oct. 2 and as CEO by Nov. 2. He will succeed Ynon Kreiz, who has been named co-CEO of Paramount and Warner Bros. Discovery.
+> Paramount Skydance CEO David Ellison announced Friday that upon closing his company's merger with Warner Bros. Discovery next week, the combined entity will be named Skydance.
+It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.
+"Paramount and Warner Bros. shaped over a century of culture," Ellison wrote in social media post Friday. "By combining them, we aren't rewriting history — we're equipping these iconic studios with a more powerful engine. Together, we are Skydance: a creative-first home for bold, quality storytelling."
+Ellison noted the new name allows the company to preserve Paramount and Warner Bros. as distinct studios. The merged company will trade under the new ticker "SKYD."
+"We never wanted a new corporate identity to diminish, alter or overshadow either one," he said. "Instead, we wanted a name that would give the combined company an identity of its own while allowing Paramount and Warner Bros. — and all our extraordinary brands — to remain in the spotlight."
+The Paramount and Warner Bros. studios together are set to release 35 films next year, according to data from Rentrak.
+In August 2025, Ellison's Skydance — the production company behind "Mission Impossible" movies and "Top Gun: Maverick" — closed its acquisition of Paramount. Weeks later, the CEO set his sights on Warner Bros. Discovery in a takeover effort that would ultimately launch a bidding war.
+In February, Paramount Skydance and Warner Bros. Discovery struck an agreement worth roughly $110 billion on an enterprise basis.
+After settling a legal challenge brought by a group of state attorneys general, Paramount Skydance said this week the deal is expected to close on Tuesday.
+Upon closing, Ellison and outgoing Mattel CEO Ynon Kreiz will serve as co-CEOs.
 
 </details>
 
 
 ---
 
-## United Airlines gets aggressive in battle for top Delta, American flyers
+## How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html
+链接：https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html
 
-正文长度：2678
+正文长度：4976
 
-摘要：United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.
+摘要：Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> United Airlines wants you to defect from your airline.
-The carrier is in the middle of an unusually pointed status-match campaign to woo travelers who have earned a spot in elite frequent flyer tiers with Delta Air Lines and American Airlines by offering similar treatment at United.
-Here's how it works: Travelers with any tier of elite status on Delta or American will be granted United status for 90 days.
-To keep it through Jan. 31, 2028, they'll have to take a flight and spend a certain amount on United mainline or regional flights within those 90 days.
-For example, if a traveler has the lowest level Delta Medallion status, silver, or the same on American, which is gold, they would have to spend $1,500 on United in the roughly three months.
-To get a status match of United's 1K, its highest level before invitation-only Global Services, the person would have to spend $7,000.
-Delta and American have their own status matches for a host of other airlines, but United's call-out of rivals and social media campaign shows how heated the battle for big-spending customers has become, said Henry Harteveldt, founder of travel consulting firm Atmosphere Research Group.
-"This is war, airline style," he said. "It's very rare for an airline to be as blatant as United is being" with Delta and American.
-Airlines have been adding new lounges, extra premium seats and more international routes to lure those high-spenders.
-In this push, United is using its new Starlink Wi-Fi from SpaceX as a hook for customers looking to potentially defect from their airlines.
-The carrier is in the process of outfitting its aircraft with the satellite Wi-Fi, which is free for frequent flyer program members, though it is not available across the fleet yet, and customers still have to pay at least $8 per flight with current providers. American Airlines also signed with Starlink for hundreds of its narrow-body jets, while Delta is planning to change the provider of its free, in-flight Wi-Fi to Amazon's Leo.
-"Our long-term strategic partnership with Amazon Leo will provide high-bandwidth connectivity while creating opportunities to bring their broad ecosystem of entertainment and digital services to the skies," Delta said in a statement.
-American, where United's CEO Scott Kirby worked until a decade ago, has said it expects to start offering Starlink Wi-Fi early next year.
-"We consistently offer status pass promotions," an American spokeswoman said, pointing to a current offer that allows status holders on Southwest Airlines, JetBlue Airways, Delta and United to be matched on American's AAdvantage tiered system for four months or longer if they meet certain spending goals.
+> Before artificial intelligence can take Wall Street jobs, it is first creating them.
+Posts for AI-related roles at banks including JPMorgan Chase, Citigroup and Capital One surged 49% this year compared with 2025 to 139,819 listings, according to an analysis by enterprise hiring data firm Draup that was provided exclusively to CNBC.
+The fastest-growing area is a cluster of skills involving AI agents, according to Draup, which culls data from public job posts and platforms including LinkedIn. For instance, references to agent orchestration, or the ability to design agents that work in concert on a task, jumped 1,721% this year.
+"This is arguably the hottest skill on Wall Street," Draup CEO Vijay Swaminathan said in an interview. "It's a massive opportunity. They need people who understand data and people who understand AI and where to put it."
+The job listings show that Wall Street banks are moving beyond chatbots to the next phase of their AI strategy, one that has implications for executives, employees and shareholders. To make good on AI's promise to boost productivity and automate repetitive tasks, banks are pressing forward into a future filled with armies of agents handling an increasing share of labor.
+While an earlier wave of AI hiring was dominated by engineers and data scientists building models or adapting them to corporate data, the boom has expanded to include people who are responsible for embedding AI directly into business lines.
+Deploying AI inside a financial institution often requires stringing together multiple specialized agents: one to inspect raw data, another to analyze a document and a third to check regulatory compliance, for example.
+The workers involved in this process, often called forward-deployed engineers, need a combination of technical abilities and domain knowledge of a specific business or function, from trading desks to back-office operations and human resources, according to Swaminathan.
+"There is a lot of complexity in an enterprise," Swaminathan said. "Sometimes these complexities are visible, but many times they are hidden. It takes a long time even to automate a simple process."
+For instance, creating a team of agents to automate approval of employee vacation requests creates a web of edge cases and specific exemptions, he said.
+The agent orchestration skill is especially relevant to forward-deployed engineers, because their job is to figure out which agents are needed, what each one does and which technology to use, said the Draup CEO. It also involves deciding when human overseers need to be involved, he said.
+Agent tech stack
+Other in-demand skills related to the AI build-out involve understanding tools and techniques that give agents the ability to get things done.
+References to LangGraph, a framework for building multistep workflows, jumped 679%, while mentions of LlamaIndex, which helps connect AI applications to data, rose 291%, according to Draup's analysis. References to retrieval-augmented generation, or RAG, a technique for feeding AI models information from company databases, climbed 259%.
+Beyond technical abilities, though, there is a growing emphasis on so-called soft skills.
+"Our analysis shows that there is a renewed focus on soft skills like problem solving, creativity, ability to ask tough questions, being assertive [when it comes to] deeper understanding of the processes," he said.
+Other growth areas within AI include those responsible for creating guardrails around the emerging systems, including demand for risk and control infrastructure.
+References in job postings tied to "responsible AI" surged 657% this year, according to Draup, while those mentioning AI governance and risk management jumped 394% and 359%, respectively. Security teams are also focused on preventing third-party tools or external model connections from creating systemic vulnerabilities.
+Governance-related skills now account for more than 16,000 references in the Draup data, nearly twice the roughly 8,400 tied to training, deploying and running models.
+"There is a lot of focus on making sure that the third parties that we are using in these products are not going rogue from a cybersecurity standpoint," he said.
+Roles tied to generative AI and agents typically pay more than tech roles elsewhere in finance, with generative AI managers paid a median base salary of about $190,000, according to Draup.
+Despite the higher pay, filling these specialized roles remains a challenge, said Swaminathan.
+To bridge the gap, major banks are leaning heavily into internal reskilling programs to train existing developers and domain experts, he said.
+The build-out will itself create ripple effects: JPMorgan CEO Jamie Dimon has spoken of "huge redeployment plans" as AI takes over more work.
+"I think the more we prioritize those soft skills with the right amount of technical skills, people will adapt and learn," Swaminathan said. "It's a very exciting time for the right talent."
 
 </details>
 
 
 ---
 
-## General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids
+## Burger King is betting on local franchisees to fuel its U.S. comeback
 
 来源：CNBC
 
-链接：https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html
+链接：https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html
 
-正文长度：4319
+正文长度：10687
 
-摘要：GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.
+摘要：Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> General Motors on Thursday reported a year-over-year sales decline of 5.5%, with 670,974 new vehicles sold during the third quarter.
-GM's sales of all-electric vehicles are down across the board, as enthusiasm for EVs wanes. EV demand spiked last year ahead of the Trump administration ending up to $7,500 in federal incentives for consumers to purchase an electric vehicle. During the same period last year, GM reported record sales of its electric vehicles.
-Against those comparisons, EVs this year saw dramatic drops, with the Equinox EV down 92.4% during the most recent quarter, at 1,905 vehicles sold. The Blazer EV was down 84.4% and Hummer EV sales fell 72.9%.
-The report comes after Cox Automotive said last week that new vehicle sales have been stronger than expected this year and raised its 2026 forecast by roughly 2%, to 16.1 million units.
-Hybrid vehicle sales are expected to capture a growing market share of car sales, as inflated gas prices pressure consumers.
-Despite offering a broad EV lineup, the Detroit automaker only offers one hybrid vehicle, a Corvette. Experts expect GM's weakness in the sector to impact its overall sales.
-Hybrids assisted other automakers in outperforming GM in third-quarter sales.
-Toyota Motor reported that its EV and hybrid vehicles made up over 57% of the Japanese automaker's sales this quarter.
-Toyota said sales were up 0.6% for the most recent quarter, with 633,223 vehicles sold. Sales of its electrified vehicles, which include hybrids, were up 28.5%, with 363,367 units sold.
-That helped Toyota continue to narrow its gap with U.S. sales leader GM, which is now less than 136,000 units. That compares to a full-year gap of roughly 335,000 units last year.
-Cox Automotive earlier this year said if such sales trends continue, Toyota could once again overtake GM to become the U.S. sales leader in the coming years.
-Honda Motor, which also offers several hybrids and leads major automakers in fuel economy in the U.S., reported a 9.3% increase in U.S. third-quarter sales. Its hybrid sales were a record of more than 106,000 units during the quarter.
-"We've got really high demand for hybrids," Lance Woelfer, head of American Honda Motor's U.S. sales, told CNBC. "We're finding more and more consumers are figuring out hybrids meet their needs."
-High fuel prices, with an AAA national average of $4.41, were also expected to impact sales of big trucks and SUVs, sectors that GM relies on. GM's full-size pickups were relatively flat.
-Each of the automaker's brands are down so far year to date, led by a 25% decline in Cadillac.
-GM's lower-cost vehicles are a bright spot for the company as consumers face high inflation. The Chevrolet Trailblazer was up 51% for the third quarter, while sales of Buick Envista were up 18.4% and Chevrolet Trax up 16.3%.
-Despite falling sales, Duncan Aldred, president of GM North America, remained optimistic. GM noted sales of vehicles with traditional internal combustion engines were roughly level compared to a year earlier.
-"Our business is performing very well, the launch of our next-generation full-size pickup trucks is on track, and we are making investments in new vehicles, innovative technologies, and our U.S. manufacturing footprint to drive our next phase of growth," Aldred said in a statement.
-GM last month announced additional details about its new V-8 engines for its pickup trucks, as it attempts to maintain leadership in truck sales.
-Other automakers to release U.S. vehicle sales on Thursday for the third quarter include:
-- Chrysler and Jeep parent Stellantis, which reported roughly level sales compared with last year, led by a 29% sales increase in its Ram pickup truck and van brand. Its Jeep brand was off roughly 20%.
-- Nissan Motor, which reported a 1.4% increase in sales, led by increases in retail sales of its namesake brand and luxury Infiniti unit.
-- The Hyundai brand reported a roughly 3% increase in sales, while its luxury Genesis unit recorded a 6% uptick.
-- Kia announced a 7.8% increase for the quarter, including a roughly 18% increase during September. The company said its 236,659 units sold during the third quarter marks a new quarterly record for the company.
-Correction: Duncan Aldred is president of GM North America. An earlier version of this story misstated his title.
+> When Jeremy Kline was 15, he started as a crew member at Taco Bell. In the decades since then, he worked his way up the restaurant industry to director of franchising for Burger King North America.
+These days, he is on the other side of the aisle as one of the burger chain's newest franchisees, after buying 16 locations in the Salt Lake City area in February.
+Kline is one of the new operators betting on Burger King as it embarks on a U.S. comeback. The burger chain is on track to sell about 200 company-operated restaurants to franchisees by the end of the year as part of a broader refranchising initiative, and buyers like Kline will be critical to the plan.
+Since late 2022, Burger King has embarked on a turnaround strategy focused on revamping its marketing, improving food quality and renovating restaurants. The comeback has already started to pay off; Burger King recently overtook Wendy's as the number two burger chain in the U.S., based on system sales.
+To accelerate the modernization of Burger King restaurants, its parent company Restaurant Brands International bought the chain's largest U.S. franchisee, Carrols Restaurant Group, in 2024 for roughly $1 billion. The Carrols deal added 1,023 company-owned locations to the 175 that Restaurant Brands already held at the time, largely acquired during franchisee bankruptcy sales as Burger King struggled before its turnaround.
+Restaurant Brands always planned to sell most of those restaurants back to smaller, local franchisees. Ultimately, Burger King wants to end up with about 300 company-operated restaurants; franchisees will run the rest of its more than 6,000 locations in the U.S.
+In other words, the future of Burger King rests on the shoulders of its franchisees at a time when slow traffic, elevated inflation and high interest rates make running a restaurant a challenging proposition.
+"A franchising contract is 20 years. The average marriage in the U.S. is 8.2. So you got to get it right," Burger King U.S. President Tom Curtis told CNBC.
+Regal returns
+Over the last year, shares of Restaurant Brands have risen about 6%, lifted by strong international growth and green shoots for Burger King's U.S. comeback. For comparison, shares of rival McDonald's have tumbled 23% over the same period, although its market cap is still more than six times larger than Restaurant Brands'. In its latest quarter, Burger King reported domestic same-store sales growth of 8.5%, while McDonald's U.S. same-store sales rose just 0.8%.
+Refranchising the Burger King restaurants could help send Restaurant Brands' shares even higher.
+Selling off locations generates cash for the company. It also results in an asset-light model that typically means higher earnings for the chain and its parent company. And most importantly, franchisee-operated locations usually report better results than those run by a company because franchisees are personally invested in their success.
+"Getting these stores in the hands of better operators is a key part of the turnaround," TD Cowen analyst Andrew Charles said.
+Higher sales also mean more cash to spend on investments back into restaurants.
+To be sure, it could be a while before investors see the fruits of refranchising. As the chain starts selling off company-owned locations, it is prioritizing smaller operators, a shift in strategy from the days when larger, private equity-backed franchisees like Carrols received preferential treatment.
+At the time that the Carrols deal closed in 2024, Restaurant Brands said it would refranchise those restaurants over the next seven years.
+Burger King initially targeted refranchising about 300 locations this year, but Curtis now expects to sell only about 200 restaurants in 2026.
+One bottleneck slowing down the process is Burger King's effort to make sure that a prospective franchisee is the right fit for the chain.
+Community connections
+When Kline was still a director of franchising for Burger King North America, his responsibilities included selling company-owned restaurants. That wasn't always an easy task.
+"I was trying to sell these restaurants here in Salt Lake City for two years, and I couldn't really find anyone to buy them, but I saw the potential," Kline said.
+In February, he bought those same 16 locations, which were once owned by Meridian Restaurants Unlimited. Meridian was at one time one of Burger King's biggest U.S. franchisees, with more than 120 locations across nine states before it filed for Chapter 11 bankruptcy protection in 2023.
+Kline isn't the only Burger King franchisee to originate from its own ranks. Even some corporate employees from sister chain Tim Hortons have signed term sheets, according to Curtis.
+To run his new franchise, Kline relocated from Miami to Salt Lake City. Local operation is another part of Burger King's refranchising strategy.
+"We want franchisees who live and work in the communities that they serve," Curtis said.
+Proximity means that operators will visit their restaurants frequently. Plus, complaints are more likely to come from their neighbors and acquaintances, holding them accountable for any issues in their restaurants.
+That franchise policy likely means that Burger King will have fewer operators with backing from private equity firms. For more than a decade, PE firms have been buying multi-location franchisees and adding more locations, typically by buying smaller operators' restaurants and then selling the business at a higher valuation.
+"I would tell you that we have less of it today than we've had in many years, and we will most likely have less of that going forward," Curtis said. "... It really needs to be a great story of a company with a great operator who's significant equity in the business, who has a long-term outlook, not a five-year plan."
+For other restaurant chains, private-equity franchisees are often attractive because of their access to capital, particularly in today's high-interest rate environment. But Burger King is more focused on ensuring that its franchisees are skilled operators and that it can help set them up for financial success, Curtis said. For example, its Crown Your Career program helps restaurant leaders and managers acquire funding and financing to buy their own Burger King restaurants.
+The Domino's blueprint
+Curtis would know what makes a good franchisee — he used to be one.
+Years before he joined Burger King, he was a franchisee for about two decades with Domino's Pizza. Then he joined the pizza chain's management team, working alongside then-CEO Patrick Doyle to lead a comeback of Domino's that is still held up as one of the greatest corporate turnarounds. Doyle has been executive chair of Restaurant Brands since late 2022.
+Under Doyle's leadership, Domino's revamped its pizza recipe and released an ad campaign comparing its previous crust to cardboard. Under the radar, executives were also focusing on franchisee profitability.
+Burger King has taken a similar tactic, centering operators' earnings so franchisees feel comfortable reinvesting in their restaurants.
+"Everything that we're doing is based around franchisee profitability," Kline said. "It's not just to drive top-line sales, it's not just to drive top-line traffic. It's not just to be able to report a huge number to the Street."
+Todd Jackson, Thomas Crowson and Colby Kaminer were impressed by Burger King's management team and their vision for the chain. They acquired 20 Burger King locations in Florida in July 2025. As CKJ Management, they already had nearly two decades of experience as franchisees of Newk's Eatery, a Southern fast-casual chain.
+The business partners were even more enthused after the sale closed, when they discovered from their Newk's employees how involved the franchisor's due diligence was.
+"We found out that Burger King came to our restaurants and interviewed our general managers and wanted to know 'Are the owners in the restaurants? Do you know who they are, how involved they are?'" Crowson said.
+Of course, not all of the refranchised locations are going to first-time Burger King franchisees.
+Kevin Haas just celebrated his 40th anniversary as a Burger King franchisee in June. Several months later, Haas and his wife bought three more restaurants, formerly of Carrols, bringing K&JK Enterprises' total footprint up to 15 locations. Haas said Burger King's recent success gave him the financial means to make the acquisition.
+From the ground up
+Just as Burger King embarks on a turnaround for its U.S. business, the chain's newest franchisees have also been trying to improve their restaurants' own results.
+First-time franchisee Brian Orlando, a former executive in the consumer packaged goods industry, said that he is focused on improving the culture within his recently acquired Delaware restaurants. For example, his younger employees are often reluctant to offer the chain's signature paper crowns to diners, but Orlando is enforcing Burger King's requirement to make the gesture and embrace "the performance of hospitality."
+Orlando is also part of a franchisee pilot to take all of customers' complaint phone calls on his cell phone. (Earlier this year, Burger King promoted a phone number to text and call Curtis to share their feedback.)
+For CKJ Management, a shift in culture meant rebuilding its restaurant teams, from the top down, and convincing employees to believe in the Burger King brand.
+"We've been up 21% year over year for our market, which is really exciting," Crowson said. "But I think the most exciting thing is we're up 16% on traffic. That's the thing for us — you can raise prices and try to grow your average check, but you can't fake traffic."
+In Salt Lake City, Kline has been investing in the restaurant facilities and making sure that employees feel "like they're part of something bigger and not just another fast-food job," he said. Kline added that since he took over the restaurants eight months ago, customer complaints have fallen sharply.
+Franchisees are expecting to see further improvements in sales when they remodel their locations. CKJ will need to remodel seven out of its 20 restaurants to fit Burger King's modern design standards.
+Orlando will soon break ground for his only remodel, although the rest of his restaurants have recently been outfitted with Burger King's current logo.
+Those renovation plans are just a small part of Burger King's overall footprint. By the end of 2028, Restaurant Brands wants 85% to 90% of the chain's domestic restaurants to look "modern." The company has committed more than $1 billion to revamp its restaurants, primarily through remodels, but also with equipment, tech and building enhancements.
 
 </details>
 
 
 ---
 
-## US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran - Financial Times
+## US economy adds just 29,000 jobs in September as hiring slows sharply - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzhOTDQ1aDQ0OHo0bzFoNXZNR0hUUWdiMzJDWDRibUVnR0w3YmhFcUZLTWN1VERaMXpROGh4dGR3TUN5TjNoX2FIRjRFUkQ4MV9DakpXN1hqUC00LWlzTVFUVmFldVNWMnRLZWNORS00VUt4amdzVzVqa3VDZWprZUJTZmY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpxWlBhS200R0JORVFQSnp6dHJUMXNpUEt3VkVySm1kV0Q4OFNEZDMwbEFVMkNnYUNIZXZjQkwzLW1QbnhSeWxaY003M1VpUEg5bGtaNHNzd0ZHMVFEaTZ5RTBEUFBIUnZVal9Ob3hPdVdCcDJvRVYxTVNDV1Jybmx4d1Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzhOTDQ1aDQ0OHo0bzFoNXZNR0hUUWdiMzJDWDRibUVnR0w3YmhFcUZLTWN1VERaMXpROGh4dGR3TUN5TjNoX2FIRjRFUkQ4MV9DakpXN1hqUC00LWlzTVFUVmFldVNWMnRLZWNORS00VUt4amdzVzVqa3VDZWprZUJTZmY?oc=5" target="_blank">US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpxWlBhS200R0JORVFQSnp6dHJUMXNpUEt3VkVySm1kV0Q4OFNEZDMwbEFVMkNnYUNIZXZjQkwzLW1QbnhSeWxaY003M1VpUEg5bGtaNHNzd0ZHMVFEaTZ5RTBEUFBIUnZVal9Ob3hPdVdCcDJvRVYxTVNDV1Jybmx4d1Q?oc=5" target="_blank">US economy adds just 29,000 jobs in September as hiring slows sharply</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## KPMG general counsel retires after Australia whistleblower scandal - Financial Times
+## US backs down from fuel export ban threat as G7 agrees to release 100mn barrels - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3VpTGliSlRTYnVOcWdXVC1mWXU3ak5DTkRna2xYeTZZRGFrZ0VjT1piWVNsMkdRWTVTVW8xT3VXTWE2VC1wbXZheVo0Rk43RXd1SHRfRDJtXzdYOWdFVHlhMHhlU0szb1F1SUVMRnBjMi00QnFBXzVGQjl4X3ROdWk5X3Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHJMRmd5blQxSkhad19VT09zX1JuTGNxVk5BQ3Vjai1XLWQ0eTZhQ0FnN21ERERlcUpWOUp1RV9XbVNBX3ptZXRGU25kdGx1ZnhpaXk2ZzNmbXFjTk5aOFYxTEVwUk9wNFhNbXBwUmotQlVva2RaYVJvVy1JRmZMR2xzRHE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3VpTGliSlRTYnVOcWdXVC1mWXU3ak5DTkRna2xYeTZZRGFrZ0VjT1piWVNsMkdRWTVTVW8xT3VXTWE2VC1wbXZheVo0Rk43RXd1SHRfRDJtXzdYOWdFVHlhMHhlU0szb1F1SUVMRnBjMi00QnFBXzVGQjl4X3ROdWk5X3Q?oc=5" target="_blank">KPMG general counsel retires after Australia whistleblower scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHJMRmd5blQxSkhad19VT09zX1JuTGNxVk5BQ3Vjai1XLWQ0eTZhQ0FnN21ERERlcUpWOUp1RV9XbVNBX3ptZXRGU25kdGx1ZnhpaXk2ZzNmbXFjTk5aOFYxTEVwUk9wNFhNbXBwUmotQlVva2RaYVJvVy1JRmZMR2xzRHE?oc=5" target="_blank">US backs down from fuel export ban threat as G7 agrees to release 100mn barrels</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US mortgage rates jump the most in four years in blow to housing market - Financial Times
+## Paramount picked a bad time to fund a $110bn leveraged buyout - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWg2eFJlUUdIbk1MUGNMazBmaTBhNUpReW1ZQjBLRWFxakR4Vl9ZeUFMa2JfRGJJMWhBZ2Nic1VUS2J2bkNXUWJFSXpWdWFjUlpieFZjZEp4aG1NSV84UC1MXzBfV2gzaHJ3NktzZWZzbC11dnpWYkV3TzlvbzJNdGVNTTM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlhDSVdHV0xpMF8yZG9JSDNTUkhRa09qUzhnNDltVGtIQUtjcFZQV1c0ZGpMcl84Q1FHeFl6Ny1ldEd6Zi12YklTWElWV041dUNBS0JoeHJrSzdUc3FxNlBQR1NDT1gxZTZRcVA5OEhFY09HUTBJbVZucUdsLVBETVdSSk0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWg2eFJlUUdIbk1MUGNMazBmaTBhNUpReW1ZQjBLRWFxakR4Vl9ZeUFMa2JfRGJJMWhBZ2Nic1VUS2J2bkNXUWJFSXpWdWFjUlpieFZjZEp4aG1NSV84UC1MXzBfV2gzaHJ3NktzZWZzbC11dnpWYkV3TzlvbzJNdGVNTTM?oc=5" target="_blank">US mortgage rates jump the most in four years in blow to housing market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlhDSVdHV0xpMF8yZG9JSDNTUkhRa09qUzhnNDltVGtIQUtjcFZQV1c0ZGpMcl84Q1FHeFl6Ny1ldEd6Zi12YklTWElWV041dUNBS0JoeHJrSzdUc3FxNlBQR1NDT1gxZTZRcVA5OEhFY09HUTBJbVZucUdsLVBETVdSSk0?oc=5" target="_blank">Paramount picked a bad time to fund a $110bn leveraged buyout</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Amazon seeks to offload $8bn of Nvidia chips to investors - Financial Times
+## Bolivia arrests attorney-general after US accuses him of protecting drug traffickers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTZZTWY0NFV1T3BRUElPZmhXZGoxSHF4U0s1ZmhMTFBHRkVsUXRtaVpZeG1DcU9xVXhWZngwRTV5Z0xCdlQ3MFdyQnU1TVVGbWR0ekFuVU9yX1J4VEI1bUtjMThHNHlsRG9rcGIxZnIwQVkwVzBXQW9hZXY3THdZaGMwZ0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg?oc=5" target="_blank">Amazon seeks to offload $8bn of Nvidia chips to investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTZZTWY0NFV1T3BRUElPZmhXZGoxSHF4U0s1ZmhMTFBHRkVsUXRtaVpZeG1DcU9xVXhWZngwRTV5Z0xCdlQ3MFdyQnU1TVVGbWR0ekFuVU9yX1J4VEI1bUtjMThHNHlsRG9rcGIxZnIwQVkwVzBXQW9hZXY3THdZaGMwZ0g?oc=5" target="_blank">Bolivia arrests attorney-general after US accuses him of protecting drug traffickers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Accenture shares surge as consultancy confounds AI fears - Financial Times
+## Obama’s red herring - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmwzSUlPU0xYOWpOTFAzeW9rZjMtNnB3dkc3RFRwQnlrZEhuVzJpcjBzME4wSzY3LVIyYjdCX1cwNjRJQTVpRGN6UXoxMzNtcnM5Qm01NU82LXhleW9JdW13NUkxTV9ndFBQMkZ5MzhmYTc1QzZZaTFMLXhsbXJPY0docE0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTlBQmdQcDRMbjhWTzJzSE1SZ1U1VGVHVHBmTTladzlwZkwxUmtKTnFUUkRGcGtMbV9ubTRIamhYeEI2aUNTc1hzNHhvWkxfMUQzcGNzdHM1djNHUldpQ1RuVFNhZWZsRkkyOXFVN3ItcFpGZlN5dHQwdWJoT2tpQVBWT24?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmwzSUlPU0xYOWpOTFAzeW9rZjMtNnB3dkc3RFRwQnlrZEhuVzJpcjBzME4wSzY3LVIyYjdCX1cwNjRJQTVpRGN6UXoxMzNtcnM5Qm01NU82LXhleW9JdW13NUkxTV9ndFBQMkZ5MzhmYTc1QzZZaTFMLXhsbXJPY0docE0?oc=5" target="_blank">Accenture shares surge as consultancy confounds AI fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTlBQmdQcDRMbjhWTzJzSE1SZ1U1VGVHVHBmTTladzlwZkwxUmtKTnFUUkRGcGtMbV9ubTRIamhYeEI2aUNTc1hzNHhvWkxfMUQzcGNzdHM1djNHUldpQ1RuVFNhZWZsRkkyOXFVN3ItcFpGZlN5dHQwdWJoT2tpQVBWT24?oc=5" target="_blank">Obama’s red herring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## South Korea's Lee threatens action against Ukraine over transfer of North Korean soldiers - Reuters
+## Saudis plan assault on Houthis to break Red Sea chokehold - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxNM245akM1RlRxVG11VW01T29OZEZfVXA1c1I2dEJoYVp4NkExNlBBLTJ2dG0tVjBBTVV5RzJudkhId3VUNWJyZVp3blVqeU9sWUkxV1ZvZ29mZjVWOFdxYmwtRFhrNjJvNzJxNDFqN0ZNZHRLbTQyd3J2ZWhJN3B0VGNFb2YwT25OdF9tUlFYb2RUT3pWRGItTjJtYkFqYko0VFZncmlHbEZtc3VGbFZGbTVka0lfWTd5RFVrZTJBRUdjU0Nva0hnVlB1RQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNM245akM1RlRxVG11VW01T29OZEZfVXA1c1I2dEJoYVp4NkExNlBBLTJ2dG0tVjBBTVV5RzJudkhId3VUNWJyZVp3blVqeU9sWUkxV1ZvZ29mZjVWOFdxYmwtRFhrNjJvNzJxNDFqN0ZNZHRLbTQyd3J2ZWhJN3B0VGNFb2YwT25OdF9tUlFYb2RUT3pWRGItTjJtYkFqYko0VFZncmlHbEZtc3VGbFZGbTVka0lfWTd5RFVrZTJBRUdjU0Nva0hnVlB1RQ?oc=5" target="_blank">South Korea's Lee threatens action against Ukraine over transfer of North Korean soldiers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5" target="_blank">Saudis plan assault on Houthis to break Red Sea chokehold</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## First new F-16V fighter jets to arrive in Taiwan to bolster defences against China - Reuters
+## Israeli officials to question co-pilot of flydubai flight, source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5" target="_blank">First new F-16V fighter jets to arrive in Taiwan to bolster defences against China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5" target="_blank">Israeli officials to question co-pilot of flydubai flight, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold slips before US payrolls data, set for second weekly loss - Reuters
+## Europe agrees to release stocked diesel oil, Trump says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5" target="_blank">Gold slips before US payrolls data, set for second weekly loss</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5" target="_blank">Europe agrees to release stocked diesel oil, Trump says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil treads water as market weighs mixed supply signals - Reuters
+## Trump push to end US clock switching hits dead end - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGpob2lBQVMzeXBmMm92bkNsWER2MGdwTjdkakFxQ0pLLXp3Z0F6TkxJd2ZtU3lUVUdsblc4MDZSdmFPSW1zbHFXRGFEbGVGRFp1R1FDLUJCekZMUGNXRTB6aElXZV8tWlltYWVhWUlEa00tQmZLSGRaTng3a1ktU0NuWUNkbDZQLWwtTndNdTZFUld5Y0Vtb2tfVGI3T2thQ2VodVZmaWg2anFoQ3hJ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5" target="_blank">Oil treads water as market weighs mixed supply signals</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGpob2lBQVMzeXBmMm92bkNsWER2MGdwTjdkakFxQ0pLLXp3Z0F6TkxJd2ZtU3lUVUdsblc4MDZSdmFPSW1zbHFXRGFEbGVGRFp1R1FDLUJCekZMUGNXRTB6aElXZV8tWlltYWVhWUlEa00tQmZLSGRaTng3a1ktU0NuWUNkbDZQLWwtTndNdTZFUld5Y0Vtb2tfVGI3T2thQ2VodVZmaWg2anFoQ3hJ?oc=5" target="_blank">Trump push to end US clock switching hits dead end</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian shares fall after wild swings in bonds, FX before US jobs data - Reuters
+## Mexico to prohibit presidents from holding dual citizenship - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5" target="_blank">Asian shares fall after wild swings in bonds, FX before US jobs data</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5" target="_blank">Mexico to prohibit presidents from holding dual citizenship</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
