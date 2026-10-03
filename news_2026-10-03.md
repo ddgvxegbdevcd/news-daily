@@ -1,69 +1,232 @@
 # 每日财经新闻
 
-更新时间：2026-10-03 04:46:26
+更新时间：2026-10-03 16:01:48
 
-## IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms
+## US Military Buildup Raises Iran Escalation Risk
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-03/imf-approves-bolivia-loan-deal-to-support-paz-s-economic-reforms
+链接：https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video
 
 正文长度：0
 
-摘要：The International Monetary Fund approved a $1.9 billion financing program for Bolivia, including an immediate $214 million disbursement, in a package designed to help President Rodrigo Paz reverse a sharp economic slump.
+摘要：Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, including a third aircraft carrier, is expanding President Donald Trump’s options as diplomacy with Iran remains stalled and Washington weighs its approach to the Houthis in Yemen. Speaking with hosts David Gura and Christina Ruffini, Stroul says US economic sanctions and the naval blockade are putting significant pressure on Iran but have not yet produced major concessions on the Strait of Hormuz, Tehran’s nuclear program or its regional activities. (Source: Bloomberg)
 
 
 ---
 
-## Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff
+## Fake Jobs Put Job Seekers at Risk of Identity Theft
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video
+链接：https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video
 
 正文长度：0
 
-摘要：This week, National Economic Council Director Kevin Hassett says AI’s productivity boost may be much larger than official economic data currently indicate. And, AI companies are largely in agreement that the technology needs guardrails, but the ethical implications of AI could also create new opportunities for liberal arts education. Plus, America is rebuilding a critical minerals supply chain after decades of Chinese dominance. Later, America’s shrinking college-age population is forcing universities to compete for fewer students.
+摘要：Fraud investigator Jay Jones, known online as “The Profiler,” tells Bloomberg This Weekend that AI is helping scammers create increasingly convincing fake recruiters and job listings that can lead victims to surrender money and sensitive personal information. Speaking with hosts David Gura and Christina Ruffini, Jones says he has helped remove more than 58,000 fraudulent job listings and advises applicants to verify company websites, domain histories and where application links lead before sharing personal information. (Source: Bloomberg)
+
+
+---
+
+## Egypt Flagged Hamas Threat Before Oct. 7
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-10-03/egypt-flagged-hamas-threat-before-oct-7-video
+
+正文长度：0
+
+摘要：Atlantic Staff Writer Vivian Salama tells Bloomberg This Weekend that Egypt’s then-intelligence chief Abbas Kamel made an unusual 67-minute trip to Israel less than two weeks before the Oct. 7, 2023, attack to warn Israeli officials that intelligence indicated Hamas was mobilizing for a major assault. Speaking with hosts David Gura and Christina Ruffini, Salama says Egypt was among several regional governments that raised concerns before the attack, while questions remain about who received the warnings and how Israeli officials responded. (Source: Bloomberg)
+
+
+---
+
+## Why Philosophers Are Worried About AI
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-10-03/why-philosophers-are-worried-about-ai-video
+
+正文长度：0
+
+摘要：Debate over artificial intelligence has largely focused on whether machines could become too powerful. Harvard philosopher Michael Sandel argues that a more immediate question is whether AI changes humans themselves: weakening authentic connection, independent thought and the ways people understand meaning and purpose. Universities are already confronting that challenge as students increasingly use AI to learn and communicate, while Vanderbilt University Chairman Daniel Diermeier argues that technological fluency must be paired with the ability to think independently. 
  (Source: Bloomberg)
 
 
 ---
 
-## Stocks Rise As Jobs Report Eases Fed-Hike Worries
+## Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges
 
 正文长度：0
 
-摘要：Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Chris Phelan CEA Chairman, Robert Reich, Former US Labor Secretary, Alex Straton, Morgan Stanley Equity Research Managing Director,  Gary Marcus, Robust AI Inc. CEO&amp;Founder, Veronica Willis is an Investment Strategy Analyst, Dr Cecilia Elena Rouse, The President of Brookings Institution, Atsi Sheth, Moody’s Chief Credit Officer, Brendan McKenna, Societe Generale Emerging Markets Strategist (Source: Bloomberg)
+摘要：As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America’s biggest borrowers, their links to the same man — billionaire Larry Ellison — are starting to stir angst on Wall Street.
 
 
 ---
 
-## Former CEA Chair on Jobs Report, GDP Growth
+## David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video
+链接：https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html
 
-正文长度：0
+正文长度：9377
 
-摘要：Former CEA Chair Cecilia Rouse believes that we may be 'entering a new normal' of the jobs report, with the break even potentially settling in around 50,000. She speaks with Romaine Bostick on Bloomberg's "The Close." (Source: Bloomberg)
+摘要：Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> David Ellison has spent two years fighting to build his media empire. Now, he's bringing in a heavyweight to help him run it.
+Ynon Kreiz, outgoing CEO of Mattel, will serve as co-CEO of the combined Paramount Skydance and Warner Bros. Discovery, to be named simply Skydance, when the merger closes on Tuesday.
+The new entity will unite the storied film studios of Paramount and Warner Bros.; the CBS broadcast network; a sprawling portfolio of pay-TV networks that include CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max, all under one roof.
+The appointment of Kreiz to a top executive position alongside Ellison speaks to a governance question that has surrounded Ellison's aggressive pursuit of the legacy media assets: The tech executive and son of billionaire Larry Ellison can buy it, but can he lead it?
+Not even 18 months ago, Ellison was the CEO of film production company Skydance with a limited portfolio of hits, namely the Tom Cruise-led Mission: Impossible franchise and "Top Gun: Maverick."
+By August 2025, he was successfully closing an acquisition of Paramount, a deal worth around $8 billion. Roughly a month later, he started his campaign for WBD, spurring a back-and-forth bidding war that would ultimately result in a deal worth roughly $110 billion on an enterprise basis to merge two of Hollywood's biggest media companies.
+Kreiz is a 30-year veteran of the media space, arguably best known for ushering "Barbie" to the big screen in 2023. He's earned a reputation as a turnaround man, with roots in entertainment despite his more recent stint in consumer goods.
+He joins Paramount Skydance on Monday, and becomes co-CEO on Tuesday upon closing.
+Many on Wall Street have lauded Kreiz for reviving toymaker Mattel through various cost-cutting measures, though others question if his previous entertainment experience is enough to help navigate Skydance through this merger — and how successfully he and Ellison will share the duties.
+"We view the appointment of Ynon Kreiz positively, as his operating experience and brand/IP focus uniquely position him to help lead the integration of Paramount Skydance and WBD and build the combined business into a best-in-class content and IP platform," said Matthew Condon, analyst at Citizens Bank, in a research note published this week.
+Ellison's focus will be on the company's long-term strategy, creative vision, technology and capital allocation, and Kreiz will be responsible for the company's day-to-day management and the integration of the combined businesses, the company said in announcing his role.
+"Kreiz has extensive experience in media and entertainment from before his time at Mattel," Matthew Dolgin, senior equity analyst at Morningstar, wrote in a research note this week. However, "We don't necessarily think he is the best conceivable choice to handle this task."
+"He undoubtedly is an experienced hand who fills a void that had been present, leaving the firm better positioned with him, in our view, than it was without him," Dolgin wrote. "Though his title is co-CEO, we view Kreiz as a chief operating officer."
+Mattel turnaround
+Prior to his eight-year stint as Mattel CEO, Kreiz was chief executive and chairman of Maker Studios, which was sold to The Walt Disney Co. in 2014. Before that he was the chairman and CEO of Endemol Group, one of the world's largest independent television production companies. Earlier in his career, Kreiz co-founded Fox Kids Group Europe, a children's entertainment company, which was also acquired by Disney in 2002.
+"It's an excellent choice for Paramount," Eric Handler, managing director and senior media and entertainment analyst at Roth Capital Partners, told CNBC.
+When Kreiz took the helm at Mattel in 2018, he was the fourth CEO in four years to take control of the toy company. At that time, the company's Fisher-Price, Barbie and American Girl brands were struggling to connect with changing consumer tastes and Mattel was reeling from the recent bankruptcy of Toys R Us.
+"Mattel had like a four-year revenue downturn, gone from being quite profitable to losing money, and he turned that around in like two years," Handler said.
+Wall Street analysts told CNBC that Kreiz's experience righting the ship at Mattel will help Skydance navigate a sprawling and complex merger.
+"He got off to a really great start [at Mattel] because he did some structural improvements," said Gerrick Johnson, equity research analyst at Seaport Research Partners. "They eliminated a lot of SKUs, rationalized the business lines ... They did a great job of cutting like $1 billion worth of cost right out of the gate, becoming more flexible, quicker to market."
+As part of these cost-cutting measures, Kreiz restructured Mattel's supply chain, reduced the number of toys it produced, closed several manufacturing facilities and reduced the overall workforce by 2,200 employees. He prioritized creating free cash flow and deleveraging the company's balance sheet.
+"Net-net, we believe Mr. Kreiz's operational experience restructuring and turning around Mattel, coupled with his focus on developing world-class IP, uniquely positions him for the co-CEO role and to lead the integration of Paramount Skydance and WBD — an integration largely predicated on high expense synergies, and ultimately, building a best-in-class content and IP platform," wrote Citizens' Condon.
+Film strategy
+One of the first major initiatives Kreiz instituted upon taking over Mattel was the launch of an in-house film division. The strategy was to use the box office as a catalyst for toy sales.
+Through this venture, Mattel partnered with the Warner Bros. studio to bring Barbie to the big screen. The film, directed by Greta Gerwig and starring Margot Robbie and Ryan Gosling, generated more than $1.4 billion at the global box office and revitalized the Barbie brand.
+While "Barbie" was a box office hit, most of the revenue from the film went to Warner Bros. and theatrical partners. Mattel reported it received just a $150 million revenue boost in fiscal 2023, the year the film was released.
+"You can't argue that Barbie wasn't anything but a tremendous success," Johnson said. "But for Mattel, it didn't translate to the bottom line. Mattel that year generated an incremental $90 million in operating profit, so that's like 13% growth on a consolidated basis with the 'Barbie' movie. Barbie revenue was up 3% that year, but Barbie revenue since is down 22%. ... So, a massive deterioration of that Barbie brand since."
+Some Wall Street analysts suggested Kreiz became too focused on the entertainment side of Mattel's business, leading to stagnation in toy innovation and slower sales.
+"Post-Covid, earnings have been very stagnant," Johnson said. "The top line has flatlined. Margin growth has stalled. Innovation has stalled, and it just seems like a classic, you know, taking the eye off the ball."
+Mattel's stock has also "done a round trip under Kreiz's tenure," Jaime Katz, senior analyst at Morningstar, wrote in a research note published Tuesday. While shares roughly doubled to the mid-$20 range during his time as CEO, they ultimately fell back to around $15 apiece.
+"Kreiz's strategy to establish Mattel as an IP-driven, high-performing toy company has largely fallen flat," Katz said.
+Merging Paramount and WBD
+Still, analysts see Kreiz as an asset to Skydance and Ellison as the company begins a lengthy merger process.
+The combination of Paramount and Warner Bros. Discovery into Skydance could take between two and three years in total, Laura Martin, analyst at Needham, wrote in a note to investors published Thursday.
+Paramount Skydance has said it intends to realize $6 billion in cost savings through the merger within three years of closing. At the same time, Ellison and Kreiz will be facing around $79 billion in debt once the transaction is complete.
+"Over time, we expect cost synergies to be higher than the $6 billion promised," Martin wrote.
+While Paramount executives have said the majority of that savings target will be found in nonlabor costs, exactly where the savings will come from remains to be seen.
+Ellison has previously said he intends to combine the Paramount+ and HBO Max streaming services into one platform for consumers. That could naturally result in shrinking the infrastructure around those businesses.
+In film, Skydance will now be home to the Warner Bros. and Paramount studios in addition to its DC studio — and it will have lofty production targets to meet.
+In order to settle a lawsuit by a group of state attorneys general seeking to block the deal over antitrust concerns, Paramount Skydance agreed to release at least 30 films per year into theaters in 2027 and 2028 and at least 32 films annually in 2029, 2030 and 2031. It's unclear how much cost cutting the studios could absorb and still achieve these quotas.
+Over at CBS, Skydance has agreed to prohibit writer layoffs on the broadcast team for at least five years.
+Yet, a report from the Department of Economic Opportunity in Los Angeles suggests that 4,500 film and TV jobs in the county are at risk over a three-year period when the companies combine operations.
+"[Kreiz has] got a big task ahead of him," Handler said. "You know, there's a huge amount of debt, a massive integration situation that he's facing. But I think he'll do a great job with it."
+
+</details>
 
 
 ---
 
-## Morgan Stanley's Nike Analyst on quarterly earnings
+## Private capital is reshaping Hollywood moviemaking
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video
+链接：https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html
 
-正文长度：0
+正文长度：7439
 
-摘要：Morgan Stanley's Alex Straton sees Nike sales and earnings softening as the company deals with inventory gluts in North America and China. She speaks with Romaine Bostick on Bloomberg's "The Close." (Source: Bloomberg)
+摘要：As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> At the Toronto International Film Festival last month, audiences saw "Wicked" star Cynthia Erivo return to the big screen for her newest movie, "Prima Facie."
+Behind the scenes, there was a notable difference.
+While "Wicked" was a massive Universal undertaking, Erivo's new movie was produced in part by Camelback Productions, a smaller Hollywood venture aiming to fund independent film, according to CEO Anita Verma-Lallian.
+She's one of many private investors who are betting big on Hollywood as the moviegoing landscape shifts and a handful of indie films catch fire.
+"It's a different point of view to invest in these projects," Verma-Lallian said. "It's been so hard for people that are not in Hollywood to get into the industry ... We've been able to fund stories that otherwise would have had a hard time getting greenlit by the traditional studio system."
+Camelback has also produced films "Doin' It" and "Runner," with stars such as Lilly Singh and Owen Wilson.
+Big blockbuster films such as this year's "The Odyssey" and "The Devil Wears Prada 2" are still the domain of legacy Hollywood studios. But with the number of annual releases dwindling, and with forthcoming consolidation among major players Paramount and Warner Bros. Discovery, there's growing opportunity for smaller production companies to hit it big.
+And while the business of making movies is still generally capital-intensive, recent breakouts including "Backrooms" and "Obsession" have found success on lower budgets.
+To thread the needle, private capital is buying into production companies, acquiring the infrastructure and diving deeper into the financing structure of entertainment. For example, private equity firm Silver Lake backs talent agency WME, and Blackstone is behind content studio Candle Media.
+According to consulting firm AlixPartners' 2026 Media and Entertainment Industry Predictions report, private equity investors in media are growing with precision, especially as studios and audience aggregators increasingly become vertically integrated.
+While the cost of entry has increased, private investors are eager to own intellectual property and audiences, the report said.
+"Private equity can build scaled, defensible businesses that profit regardless of which large media player owns the next blockbuster, effectively ensuring a central role in the future media value chain," the report read.
+And while deep-pocketed companies such as Netflix and Amazon continue to raise the bar for content spend to make or acquire new media, traditional studios are finding new ways to keep pace.
+An attractive investment opportunity
+For Verma-Lallian, investing in independent film means that she can complete movies on a much faster timeline than traditional studios can.
+"A lot of times, if you go through the traditional Hollywood system, it could literally take five to 10 years from the time of inception," she said. "Whereas if you're doing it independently, we've made some movies in as quickly as a year."
+This can often mean lower production costs and a quicker return on investment.
+Verma-Lallian, whose background is in real estate investing, said Hollywood has proven to be a largely attractive market for herself and other nontypical private investors looking to diversify their portfolios.
+She said they're also jumping on the opportunity at a time when existing financing models are weakening.
+"I think the traditional sources [of financing] are starting to decline, and they're becoming a lot more risk-averse," she said. "I do also believe now with more independent films being funded and going to different pools of capital, you're able to do more."
+While Verma-Lallian said she doesn't believe private capital will become the primary source of financing in Hollywood, she said the agility of investors can potentially put pressure on the incumbents.
+"Hollywood is incredibly traditional, and it's very old-fashioned in the way it operates, which always I find so ironic, because ... Hollywood's so progressive, but the way that the studio systems work, it's just a very dated process from my experience," she said.
+Still, studios and private investors are racing to get new storylines to the big screen. For investors, that means capitalizing on the intellectual property that hasn't already been used, according to Alex Michael, senior managing director at investment firm LionTree.
+"What is clear to me is that IP has never been more valuable. It's never been harder to find," Michael said at the Financial Times' Business of Entertainment Summit last month. "But if you have great IP, you can monetize it in ways that no one could have imagined 10 years ago."
+LionTree is an independent banking firm, investing in companies such as Fanatics and Fubo and advising high-profile deals such as Amazon's acquisition of MGM and the merger of CBS and Viacom. It's also investing in Paramount, pending the close of its deal with Warner Bros. Discovery.
+Michael added that the entertainment industry as a whole is becoming more diversified, with retail entrants such as Gap and Mattel's Barbie, which are also helping to support the economics of the sector.
+The new wave of movies
+With the entry of private capital, Hollywood faces not only an economic shift but also a cultural shift in the types of movies being made.
+Private investors often tell more diverse stories, take more risks and try to reach an audience that is hungry for content, said Lata Krishnan, a tech investor entering the Hollywood market.
+"The big studios are often legacy organizations focused on a certain type set of films, and I think private capital has the ability now ... to invest in films that are not traditional and that give voices to stories in a different way," she told CNBC.
+The result, she said, is that audiences get exposed to stories they haven't seen before.
+That also means the next wave of movies must keep up with the new generation of moviegoers, who are increasingly drawn to diverse content they can relate to. Part of that shift is the rise of short-form and creator content, which can find its way onto the big screen — as in the case of YouTuber Curry Barker's "Obsession" — in a bid to draw Generation Z to the box office.
+This dynamic also puts new people in the driver's seat.
+"It's my capital. I don't have to check in with anyone," Krishnan said. "So we explore a theme, a story, the actors and the production team, and we can make quick decisions."
+Private investors have the flexibility and speed to jump on trends fast and fill a gap first, according to Elan Gale, a Hollywood producer and investor. He's the co-founder of QWGmire, an independent film financing company.
+Gale, who has also worked on the production of shows such as "The Bachelor," said audiences are "hungry" to get back into the theater for something new and original.
+"I think the primary upside for filmmakers is that private equity investors are less likely to get into the nitty-gritty of the creative process and allow some of the exploration and some of the freedom that studios maybe can't give filmmakers because they're significantly larger companies with significantly more restrictive development processes," Gale said.
+"I think Hollywood is reshaping around private capital, around brands and around content creators in ways that are really meaningful," he said. "A lot of the successes that people have seen recently are a little too hard to ignore."
+
+</details>
+
+
+---
+
+## High-tech vehicles are driving up auto repair costs for shops and consumers
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html
+
+正文长度：5038
+
+摘要：Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Increasingly sophisticated vehicles are forcing repair shops to spend more on computers, software and calibration equipment — costs that mechanics say are reaching consumers.
+Auto mechanic Ralph Czeisler in Brooklyn, New York, said the rapid pace of technological change is forcing him to invest more time and money just to perform even basic repairs, and he is having to pass those costs on to consumers.
+"Every year, I update all my computers," said Czeisler, who owns Emil's All-Tire in the Gravesend neighborhood. "I have multiple computers for domestic, Asian, European cars, and it's very costly. Every year they make changes, and it costs more money and more money. And it's getting very challenging."
+Many mechanics across the U.S. face the same problems, said Greg Brannon, director of automotive engineering at AAA.
+"The repairs of these vehicles are so sophisticated now and almost always require a laptop," he said.
+Sometimes it's a laptop dedicated to that brand of vehicle, he added. The shop also needs subscriptions to software and data services to perform repairs on the car, which can be purchased for varying degrees of time, ranging from a few hours to a year. Those recurring costs can be difficult for a smaller shop to absorb.
+"It has become increasingly financially difficult for independent shops to be able to service all makes and models," Brannon said.
+Czeisler said he is passing at least some of these costs on to consumers.
+"The consumer is getting the shaft at the end of the day because they're getting offset by the monetary cost as well," he said.
+Rising costs
+Overall, repair costs have risen about 60% from January 2019 to August 2026, according to the St. Louis Federal Reserve. That is almost twice the 32% increase in overall inflation over the same period.
+The data doesn't indicate exactly why prices are rising. But research suggests technological progress is driving up costs in at least some cases.
+A 2023 AAA study found that calibrating advanced driver-assistance systems, or ADAS, can raise the cost of a collision repair by 37.6%.
+Replacing a cracked windshield, for example, used to be a matter of ordering a new windshield and installing it.
+Now, the camera behind the windshield needs to be calibrated, said Ariella Czeisler, Ralph's daughter who also works in the shop. The camera behind the windshield is one of at least a few on a vehicle, depending on the model. These cameras and sensors usually support the ADAS and active safety features that automakers have been adding.
+A single calibration machine costs about $28,000, according to an invoice the shop provided to CNBC. The necessary computer that comes with it is another $12,000. A total array can cost up to $90,000. On top of that, there are target boards mounted to the machine that are designed to calibrate specific cameras. Each of those boards can run hundreds or even thousands of dollars for more premium brands, Ariella Czeisler said.
+"God forbid we don't calibrate the windshield and that camera is malfunctioning," she said. "The car can brake unexpectedly and cause an incident from the rear. We don't want to be liable for that."
+'Right to repair'
+As vehicles and other devices have become more technologically sophisticated, a "right to repair" movement has gained force.
+Broadly, the idea is that consumers and small shops should have access to the tools, parts and information needed to repair their own electronic devices, farm equipment and cars, among other things. Lawmakers at state and federal levels have proposed legislation meant to support these goals — to varying degrees of success.
+Since 2014, trade groups representing both automakers and auto mechanics have made agreements meant to ensure that repair shops have access to the same data, parts and tools as bigger dealerships.
+"Generally the information is available to repair shops, both dealer and independent necessary to repair vehicles," AAA's Brannon said, though he said there can be exceptions. There is a task force to which shops can report problems or concerns to automakers. Brannon said that the vast majority of claims revolve around costs and complexity around accessing data.
+Czeisler said his main problem is usually the cost and hassle of accessing information or upgrading computers to keep them current.
+Some of the repairs that are becoming more expensive are virtually as old as fuel-burning vehicles themselves. As an example, during an oil change Czeisler said he had to use a computer just to reset the oil change indicator light on a vehicle. On an oil change for a luxury vehicle that would normally cost $400, the cost of accessing the software is another $75.
+"You can't just go and reset it," he said. "You have to pay for information to download to your computer, to upload to the customer's computer to reset the light. Otherwise it's never going to reset and that costs more money. And the result? I pay more money. The consumer pays more money. It's not fair. But this is how the industry practice has gone."
+
+</details>
 
 
 ---
@@ -152,113 +315,59 @@ But all the medicines in development are working toward a broader goal shared by
 
 ---
 
-## Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter
+## Volodymyr Zelenskyy asked Donald Trump to block Russia and China’s Starlink rival - ft.com
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/02/ford-q3-sales.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNM29CbGNta1p2cHphTVB6MXF0MFl5dHdZRFcwTUlsTUFkeUxQeWxsa0xxaDVoTVV1cW4yMm9selZlU1hkbEtTNjVfT0FKbm1VNmU1ZzI2aXRFZ1hPcFVHTUZ5djlMRENuSDc3M0hjTHJFRi1uTjd4MGo2dmpCNHVqM19iY2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2558
+正文长度：0
 
-摘要：Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — Ford Motor retained its No. 3 U.S. sales position during the third quarter by a narrow margin over Hyundai Motor, which had been forecast to overtake the Detroit automaker.
-Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles. That figure excludes its largest heavy-duty trucks, which are classified differently.
-That compares to the South Korean automaker, including Hyundai, Kia and Genesis brands, reporting a 5.4% increase to 506,200 vehicles during the quarter.
-Both companies performed better than expected. A forecast last week by Cox Automotive had called for Hyundai to overtake Ford in quarterly sales for the first time.
-Hyundai has been making major inroads in the U.S. this year. Ford, meanwhile, has struggled with production of its crucial F-Series pickup trucks after two supplier fires last year that disrupted production and sales.
-Ford retains a roughly 89,700-unit sales lead for the year over Hyundai through the third quarter, according to data reported this week by the companies.
-The current U.S. sales leader for 2026 is General Motors, followed by Toyota Motor. However, the Japanese automakers has been making gains against GM this year.
-Ford on Friday downplayed Hyundai's proximity in sales, citing Kia and Hyundai brands operating separately in the U.S. despite having a corporate parent.
-In addition to the F-Series production problems, Ford's year-over-year sales comparisons have been tough due to the discontinuation of vehicles such as the Ford Escape.
-Rob Kaffl, Ford's head of U.S. sales, said Friday that sales and inventories of F-Series pickups, including its F-150, continued to improve during the quarter.
-"Some of the headwinds we had early in the year are kind of behind us, and it's really setting us up for a really strong Q4 as we move in," Kaffl said during a media call.
-F-Series sales were only off 1.9% during the third quarter, including a 97.1% decline of the discontinued F-150 Lightning electric pickup truck.
-The Detroit automaker's Ford brand was off roughly 6% during the quarter, while its luxury Lincoln brand was down 18%.
-Ford's year-over-year sales of electric vehicles were off 67.5% through September, including a roughly 80% decline during the third quarter. The automaker is also facing tough comparisons in that category, as it reported record EV sales during the same period last year as demand spiked ahead of the Trump administration ending federal incentives worth up to $7,500 for consumers to purchase an EV.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNM29CbGNta1p2cHphTVB6MXF0MFl5dHdZRFcwTUlsTUFkeUxQeWxsa0xxaDVoTVV1cW4yMm9selZlU1hkbEtTNjVfT0FKbm1VNmU1ZzI2aXRFZ1hPcFVHTUZ5djlMRENuSDc3M0hjTHJFRi1uTjd4MGo2dmpCNHVqM19iY2c?oc=5" target="_blank">Volodymyr Zelenskyy asked Donald Trump to block Russia and China’s Starlink rival</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance
+## Chart of the Week: What’s driving the global bond sell-off? - ft.com
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEU2dFZaTndKTlZzTk5XY2xnNnlZbDM1NHZ1RmtadDNOak1hSGUwRzE1d2hvWlBlcmJlWVFIOTd5OE0zcG12NXRIcFJTRWNydE00QTdZaVFBZkFWamdqd0pVQ2N5LWs0YUw0NHc1ZHRvYU1taFRwNEVnWTlySXZsaXdNVlk?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1817
+正文长度：0
 
-摘要：It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Paramount Skydance CEO David Ellison announced Friday that upon closing his company's merger with Warner Bros. Discovery next week, the combined entity will be named Skydance.
-It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.
-"Paramount and Warner Bros. shaped over a century of culture," Ellison wrote in social media post Friday. "By combining them, we aren't rewriting history — we're equipping these iconic studios with a more powerful engine. Together, we are Skydance: a creative-first home for bold, quality storytelling."
-Ellison noted the new name allows the company to preserve Paramount and Warner Bros. as distinct studios. The merged company will trade under the new ticker "SKYD."
-"We never wanted a new corporate identity to diminish, alter or overshadow either one," he said. "Instead, we wanted a name that would give the combined company an identity of its own while allowing Paramount and Warner Bros. — and all our extraordinary brands — to remain in the spotlight."
-The Paramount and Warner Bros. studios together are set to release 35 films next year, according to data from Rentrak.
-In August 2025, Ellison's Skydance — the production company behind the Mission: Impossible movies and "Top Gun: Maverick" — closed its acquisition of Paramount. Weeks later, the CEO set his sights on Warner Bros. Discovery in a takeover effort that would ultimately spark a bidding war.
-In February, Paramount Skydance and Warner Bros. Discovery struck an agreement worth roughly $110 billion on an enterprise basis.
-After settling a legal challenge brought by a group of state attorneys general, Paramount Skydance said this week the deal is expected to close on Tuesday.
-Upon closing, Ellison and outgoing Mattel CEO Ynon Kreiz will serve as co-CEOs.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEU2dFZaTndKTlZzTk5XY2xnNnlZbDM1NHZ1RmtadDNOak1hSGUwRzE1d2hvWlBlcmJlWVFIOTd5OE0zcG12NXRIcFJTRWNydE00QTdZaVFBZkFWamdqd0pVQ2N5LWs0YUw0NHc1ZHRvYU1taFRwNEVnWTlySXZsaXdNVlk?oc=5" target="_blank">Chart of the Week: What’s driving the global bond sell-off?</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%
+## China, America and the new Great Game - ft.com
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VlWW5lY2xfZVNxdEloMjAwaG9VRmN2bVE4V1lhYWFPNlRQQ1lfSThKczNxRFp5Vm5jSlpNSE9SbWlhdDJUQ3NmVlFidVFSYlpoWmhFQzV5TFNXejBfTm80OEVxNzNkbnNvRFo2Wkh4a2Rhei02SjJJX3NXQ0QyVFNVX00?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4973
+正文长度：0
 
-摘要：Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Before artificial intelligence can take Wall Street jobs, it is first creating them.
-Posts for AI-related roles at banks including JPMorgan Chase, Citigroup and Capital One surged 49% this year compared with 2025 to 139,819 listings, according to an analysis by enterprise hiring data firm Draup that was provided exclusively to CNBC.
-The fastest-growing area is a cluster of skills involving AI agents, according to Draup, which culls data from public job posts and platforms including LinkedIn. For instance, references to agent orchestration, or the ability to design agents that work in concert on a task, jumped 1,721% this year.
-"This is arguably the hottest skill on Wall Street," Draup CEO Vijay Swaminathan said in an interview. "It's a massive opportunity. They need people who understand data and people who understand AI and where to put it."
-The job listings show that Wall Street banks are moving beyond chatbots to the next phase of their AI strategy, one that has implications for executives, employees and shareholders. To make good on AI's promise to boost productivity and automate repetitive tasks, banks are pressing forward into a future filled with armies of agents handling an increasing share of labor.
-While an earlier wave of AI hiring was dominated by engineers and data scientists building models or adapting them to corporate data, the boom has expanded to include people who are responsible for embedding AI directly into business lines.
-Deploying AI inside a financial institution often requires stringing together multiple specialized agents: one to inspect raw data, another to analyze a document and a third to check regulatory compliance, for example.
-The workers involved in this process, often called forward-deployed engineers, need a combination of technical abilities and domain knowledge of a specific business or function, from trading desks to back-office operations and human resources, according to Swaminathan.
-"There is a lot of complexity in an enterprise," Swaminathan said. "Sometimes these complexities are visible, but many times they are hidden. It takes a long time even to automate a simple process."
-For instance, creating a team of agents to automate approval of employee vacation requests creates a web of edge cases and specific exemptions, he said.
-The agent orchestration skill is especially relevant to forward-deployed engineers, because their job is to figure out which agents are needed, what each one does and which technology to use, said the Draup CEO. It also involves deciding when human overseers need to be involved, he said.
-Agent tech stack
-Other in-demand skills related to the AI build-out involve understanding tools and techniques that give agents the ability to get things done.
-References to LangGraph, a framework for building multistep workflows, jumped 679%, while mentions of LlamaIndex, which helps connect AI applications to data, rose 291%, according to Draup's analysis. References to retrieval-augmented generation, or RAG, a technique for feeding AI models information from company databases, climbed 259%.
-Beyond technical abilities, though, there is a growing emphasis on so-called soft skills.
-"Our analysis shows that there is a renewed focus on soft skills like problem solving, creativity, ability to ask tough questions, being assertive [when it comes to] deeper understanding of the processes," he said.
-Other growth areas within AI include those responsible for creating guardrails around the emerging systems, including demand for risk and control infrastructure.
-References in job posts tied to "responsible AI" surged 657% this year, according to Draup, while those mentioning AI governance and risk management jumped 394% and 359%, respectively. Security teams are also focused on preventing third-party tools or external model connections from creating systemic vulnerabilities.
-Governance-related skills now account for more than 16,000 references in the Draup data, nearly twice the roughly 8,400 tied to training, deploying and running models.
-"There is a lot of focus on making sure that the third parties that we are using in these products are not going rogue from a cybersecurity standpoint," he said.
-Roles tied to generative AI and agents typically pay more than tech roles elsewhere in finance, with generative AI managers paid a median base salary of about $190,000, according to Draup.
-Despite the higher pay, filling these specialized roles remains a challenge, said Swaminathan.
-To bridge the gap, major banks are leaning heavily into internal reskilling programs to train existing developers and domain experts, he said.
-The build-out will itself create ripple effects: JPMorgan CEO Jamie Dimon has spoken of "huge redeployment plans" as AI takes over more work.
-"I think the more we prioritize those soft skills with the right amount of technical skills, people will adapt and learn," Swaminathan said. "It's a very exciting time for the right talent."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VlWW5lY2xfZVNxdEloMjAwaG9VRmN2bVE4V1lhYWFPNlRQQ1lfSThKczNxRFp5Vm5jSlpNSE9SbWlhdDJUQ3NmVlFidVFSYlpoWmhFQzV5TFNXejBfTm80OEVxNzNkbnNvRFo2Wkh4a2Rhei02SjJJX3NXQ0QyVFNVX00?oc=5" target="_blank">China, America and the new Great Game</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## Low-profile hedge fund smashes record for New York office rent - Financial Times
+## When £35 New Zealand Chardonnay meets £1,000 white burgundy - ft.com
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE16MmQ5cGpoc053ZXNNN0N6eHZjdndQdVVnVmdMSmZDZGcxVzVlb05IZ0tiQW5LSXN4YXl3OVZPeEYycHFOeVNFWTNOejRJUjBDNDg1dmNBOGFOaUNiajdLWWFKeXUxN2NuR2FSX3F4SV8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE16MmQ5cGpoc053ZXNNN0N6eHZjdndQdVVnVmdMSmZDZGcxVzVlb05IZ0tiQW5LSXN4YXl3OVZPeEYycHFOeVNFWTNOejRJUjBDNDg1dmNBOGFOaUNiajdLWWFKeXUxN2NuR2FSX3F4SV8?oc=5" target="_blank">When £35 New Zealand Chardonnay meets £1,000 white burgundy</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
+
+
+---
+
+## Low-profile hedge fund smashes record for New York office rent - ft.com
 
 来源：金融时报
 
@@ -266,124 +375,72 @@ The build-out will itself create ripple effects: JPMorgan CEO Jamie Dimon has sp
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONkhlNC1lVkJWTnhjM2dXQUEzenQ2c0hNNlhEbzdSMDlyV1k0OURIUVJHY3lQVHpsSS1YNlp2c3d5dDdvb2E0MkxRY3U1TmZ0Q1VjanUyTllDdWdKWUdSSExGbFM4dmRTcXZnYWpibmR5MjQta2UzeWFqdTltWGJnN3Jpck0?oc=5" target="_blank">Low-profile hedge fund smashes record for New York office rent</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONkhlNC1lVkJWTnhjM2dXQUEzenQ2c0hNNlhEbzdSMDlyV1k0OURIUVJHY3lQVHpsSS1YNlp2c3d5dDdvb2E0MkxRY3U1TmZ0Q1VjanUyTllDdWdKWUdSSExGbFM4dmRTcXZnYWpibmR5MjQta2UzeWFqdTltWGJnN3Jpck0?oc=5" target="_blank">Low-profile hedge fund smashes record for New York office rent</a>&nbsp;&nbsp;<font color="#6f6f6f">ft.com</font>
 
 
 ---
 
-## EU pushes Ukraine for further reforms to unlock funding - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR283aTlBcllNWVYwV21HUTNFa0NfVEJTUnpZZFdlXy1pLVVpaG9UUnBZcWFSeXJ2eFV0aXZVMmxFejRrVE1LM2ZMeFlsWDFrYTB4a1R4eUhjem5STk5vN1U4QTNoaFhQQUFSaV9ZYmNndW44UEhNM05ZV1M2UTdSZjFPY04?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR283aTlBcllNWVYwV21HUTNFa0NfVEJTUnpZZFdlXy1pLVVpaG9UUnBZcWFSeXJ2eFV0aXZVMmxFejRrVE1LM2ZMeFlsWDFrYTB4a1R4eUhjem5STk5vN1U4QTNoaFhQQUFSaV9ZYmNndW44UEhNM05ZV1M2UTdSZjFPY04?oc=5" target="_blank">EU pushes Ukraine for further reforms to unlock funding</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## India throws month-long birthday bash for Narendra Modi - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONHBWcUg5aU5VeE5ScEw5RmZDdWNpbGNNeG11eWY4TnF1TUZ0Ul8zRTVkcm9BOEJhX3JBd0Zrb1FkNUlydEE3dUlCQXQ3VHZjYmh5cnRnWVBqVE1SNHdHRkU4Qjg4Yjl3bVZ0Wk1jcnktSGtMeTZzdjViNDZnTEtXbnlOTXY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONHBWcUg5aU5VeE5ScEw5RmZDdWNpbGNNeG11eWY4TnF1TUZ0Ul8zRTVkcm9BOEJhX3JBd0Zrb1FkNUlydEE3dUlCQXQ3VHZjYmh5cnRnWVBqVE1SNHdHRkU4Qjg4Yjl3bVZ0Wk1jcnktSGtMeTZzdjViNDZnTEtXbnlOTXY?oc=5" target="_blank">India throws month-long birthday bash for Narendra Modi</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Why does Anthropic’s IPO feel so weird? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk83bVFSQWdpM2N2eXFCRlhJQkVxOWo3V3p1UUFBMDJ2ZWdnRWhqWUNKWXJ2UnljVkFySHdfWF8tcGlRMC0yeWRxY2kyVHZ0ZC1pbXd0dFd5YWpYQ1hxYU1NaTNZem1TR3dEbjYtUHJDWlF6ZzNXbGFzcjNMYXhIWFVrOFk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk83bVFSQWdpM2N2eXFCRlhJQkVxOWo3V3p1UUFBMDJ2ZWdnRWhqWUNKWXJ2UnljVkFySHdfWF8tcGlRMC0yeWRxY2kyVHZ0ZC1pbXd0dFd5YWpYQ1hxYU1NaTNZem1TR3dEbjYtUHJDWlF6ZzNXbGFzcjNMYXhIWFVrOFk?oc=5" target="_blank">Why does Anthropic’s IPO feel so weird?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Argentina to sell ‘golden passports’ by end of year - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjFPc09jUW1CZjI5ajJLVVhoM08yNGw1Vl8wQVkzWFQtSzE3YUpJMkFjYkdHSnZMVVVOdFhpN2c0Nk5lV01lRGl0dWM2dldUck9keE9pZkxKZGxhbmIyaGU4ZkYteVVRX3h3aENvWVB0V19nZkp5QnUtR1RETFNTSHJYLTc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjFPc09jUW1CZjI5ajJLVVhoM08yNGw1Vl8wQVkzWFQtSzE3YUpJMkFjYkdHSnZMVVVOdFhpN2c0Nk5lV01lRGl0dWM2dldUck9keE9pZkxKZGxhbmIyaGU4ZkYteVVRX3h3aENvWVB0V19nZkp5QnUtR1RETFNTSHJYLTc?oc=5" target="_blank">Argentina to sell ‘golden passports’ by end of year</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints - Reuters
+## Tens of thousands protest across Spain over housing crisis - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxQWGdrTTNEUjRjbXB0cm1ieHZUVUVhcEc4Q2JJWFdpQUlGMU1yNWljVGVPQldoSkx4V0hoTlhtXzlsWHg3XzRIbXRac1FuaFl6YThmZmRxRUd0cW0yNnR5dVQ1UzktdnMxUktCWVBjT2hQYUNhcGlWb0V3eE80UmhJSXRVYVJuMGxuMUx5TGRPLVRNZGlnd0phaWlXSUMwdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5" target="_blank">Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQWGdrTTNEUjRjbXB0cm1ieHZUVUVhcEc4Q2JJWFdpQUlGMU1yNWljVGVPQldoSkx4V0hoTlhtXzlsWHg3XzRIbXRac1FuaFl6YThmZmRxRUd0cW0yNnR5dVQ1UzktdnMxUktCWVBjT2hQYUNhcGlWb0V3eE80UmhJSXRVYVJuMGxuMUx5TGRPLVRNZGlnd0phaWlXSUMwdw?oc=5" target="_blank">Tens of thousands protest across Spain over housing crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Crude oil tanker struck by unknown projectile off Oman, UKMTO says - Reuters
+## Fire, smoke seen near Aramco facility in Riyadh, witness says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5" target="_blank">Crude oil tanker struck by unknown projectile off Oman, UKMTO says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5" target="_blank">Fire, smoke seen near Aramco facility in Riyadh, witness says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea fires ballistic missile toward sea, South Korea and Japan say - Reuters
+## Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5" target="_blank">North Korea fires ballistic missile toward sea, South Korea and Japan say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn?oc=5" target="_blank">Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement - Reuters
+## US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5" target="_blank">Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5" target="_blank">US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tennessee execution survivor Christa Pike unconscious on ventilator, lawyers say - Reuters
+## Women declare #IamJaneDoe in solidarity with Cornell University rape accuser - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnFfS0lLc2lUUFMtVFFYcE9waEdOU2lRMXZwWHRpNzVjcXQzRnplTDI0a2h2bW1CRFFGdUJ4VkpmVnRNZGdDVElHd0EzaHVVQW1vNFdxdWdjUWZUTXR6TVdpQkl1V1NVWlUyLVRIQTgwck5VZUUyY1UzMnVvZm1JLTdqWmNDa2lZWFFsWmJUNURRQUp3dDhWYVh1TGVMSlNhZmVhOXdPakJXR1c5cUdWTG9qNlN1dmptdGE4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0dBWkRpZXl4bkVtVEtEVXA0QnNFcnBZUFJJUWVtb1o2SGFwZlFxdU8wUmkzNV9hVUQ0UUVPTlpuS0tWcjlLZ2h0ZXQ2QlFNYUczZnZXQXJPUFlTWE8yc2w3cUQwZElGeG1vaDN5cmJ5elFCTGN4N0VoMHpUakEzenBuMExPdEJ4UWNUbHdqVldva094azM3TzFIaVdkTFV2a3FGczVZdUtRQjYtQmVrSVJPdHdxZy1KRHlIV3lKRExXWm8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnFfS0lLc2lUUFMtVFFYcE9waEdOU2lRMXZwWHRpNzVjcXQzRnplTDI0a2h2bW1CRFFGdUJ4VkpmVnRNZGdDVElHd0EzaHVVQW1vNFdxdWdjUWZUTXR6TVdpQkl1V1NVWlUyLVRIQTgwck5VZUUyY1UzMnVvZm1JLTdqWmNDa2lZWFFsWmJUNURRQUp3dDhWYVh1TGVMSlNhZmVhOXdPakJXR1c5cUdWTG9qNlN1dmptdGE4?oc=5" target="_blank">Tennessee execution survivor Christa Pike unconscious on ventilator, lawyers say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0dBWkRpZXl4bkVtVEtEVXA0QnNFcnBZUFJJUWVtb1o2SGFwZlFxdU8wUmkzNV9hVUQ0UUVPTlpuS0tWcjlLZ2h0ZXQ2QlFNYUczZnZXQXJPUFlTWE8yc2w3cUQwZElGeG1vaDN5cmJ5elFCTGN4N0VoMHpUakEzenBuMExPdEJ4UWNUbHdqVldva094azM3TzFIaVdkTFV2a3FGczVZdUtRQjYtQmVrSVJPdHdxZy1KRHlIV3lKRExXWm8?oc=5" target="_blank">Women declare #IamJaneDoe in solidarity with Cornell University rape accuser</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
