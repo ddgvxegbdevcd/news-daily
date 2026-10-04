@@ -1,68 +1,176 @@
 # 每日财经新闻
 
-更新时间：2026-10-04 05:19:04
+更新时间：2026-10-04 16:42:25
 
-## AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer
+链接：https://www.bloomberg.com/news/videos/2026-10-04/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.
+摘要：Retailers reconsidering self-checkout, a global market for elite British sheepdogs, the proliferation of protein-enhanced foods and fit women want to show off their biceps. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
 
 
 ---
 
-## Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote
+## Taiwan Says US Policy Remains Unchanged
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote
+链接：https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video
 
 正文长度：0
 
-摘要：President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to three new polls.
+摘要：Taiwan’s Representative to the US, Alexander Yui, tells Bloomberg This Weekend that Washington has reassured Taipei its Taiwan policy remains unchanged following President Donald Trump’s meeting with Chinese President Xi Jinping, even as a $14 billion US arms package remains stalled. Speaking with hosts David Gura and Christina Ruffini, Yui says Taiwan wants faster weapons deliveries and is deepening its economic relationship with the US through major investments in semiconductors and other industries.  (Source: Bloomberg)
 
 
 ---
 
-## Mexico Says Its Troops Sent to Border in Conjunction With US
+## Inside the Enrollment Cliff Hitting US Colleges
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us
+链接：https://www.bloomberg.com/news/videos/2026-10-04/inside-the-enrollment-cliff-hitting-us-colleges-video
 
 正文长度：0
 
-摘要：The US and Mexico have jointly deployed military personnel in a border area in Texas as part of “mirror operations,” the Mexican government said Saturday.
+摘要：America’s college-age population is shrinking, putting pressure on universities with high fixed costs and fewer students to fill their campuses. Schools like Bowling Green State are responding by adding career-focused programs and trying to stand out in a crowded market, while institutions that fail to adapt are facing cuts, closures and economic fallout for the towns that depend on them. (Source: Bloomberg)
 
 
 ---
 
-## Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly
+## Wall Street Strategists Steer Investors to Cross-Asset Hedges
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly
+链接：https://www.bloomberg.com/news/articles/2026-10-04/wall-street-strategists-steer-investors-to-cross-asset-hedges
 
 正文长度：0
 
-摘要：Borrowing is getting harder for companies.
+摘要：With equities, gold and oil struggling to make new highs while Treasury yields surge, Wall Street strategists are focusing on trades that pit one asset class against another.
 
 
 ---
 
-## Bloomberg This Weekend 10/3/2026
+## Jobs Slow but Inflation Keeps Fed on Alert
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-03/bloomberg-this-weekend-10-3-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Atlantic Staff Writer Vivian Salama, “The Profiler” Online Job Scam Hunter Jay Jones, UMich Professor of Public Policy and Economics Justin Wolfers and Fmr. Deputy Assistant Secretary of Defense for the Middle East and The Washington Institute Research Director for Near East Policy Dana Stroul. (Source: Bloomberg)
+摘要：Bloomberg Intelligence Chief US Interest Rate Strategist Ira Jersey tells Bloomberg This Weekend that softer September jobs data give the Federal Reserve room to hold rates steady in October, but persistent inflation could still lead policymakers to raise rates again in December and early next year. Speaking with hosts David Gura and Christina Ruffini, Jersey says strong economic growth and loose fiscal policy are also contributing to higher global bond yields, keeping pressure on central banks to restrain inflation. (Source: Bloomberg)
+
+
+---
+
+## Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html
+
+正文长度：9201
+
+摘要：Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> With restaurants as far-flung as Singapore, Chick-fil-A has expanded far beyond its Southeastern stronghold in recent years, but CEO Andrew Cathy still wants the family-owned business to stay true to its roots.
+Nearly five years ago, Cathy succeeded his father, Dan, as chief executive of the chicken chain his grandfather, S. Truett, founded. He took the reins as elevated inflation rocked the restaurant industry and a bevy of new chicken rivals looked to challenge Chick-fil-A's dominance. Since then, not much has changed — except for sluggish traffic across the industry as consumers have become more selective about their dining choices.
+The challenging conditions have led to disappointing results for McDonald's, Popeyes, KFC and other restaurant competitors. While Chick-fil-A is not immune to these headaches, Cathy told CNBC that the chain's restaurants have not seen the same downturn.
+"This has been a good year," the Atlanta-based Cathy said in downtown Manhattan before a planned activation to raise awareness for the chain's Shared Table hunger relief program.
+"Our operators have done such a good job executing on the fundamentals and adding the hospitality to it," he added.
+As a privately held business, Chick-fil-A does not report quarterly results. However, franchise disclosures reveal that the company's revenue in 2025 rose 14% to $10.3 billion, while its net income ticked up 1% to $1.05 billion. Its roughly 3,000 locations generated $23.92 billion in system sales last year, making it the third-largest U.S. restaurant by sales, trailing only McDonald's and Starbucks.
+Chick-fil-A has no plans for an initial public offering or any other opportunities for outside investment. Cathy said the company plans to stick with its "calculated" and "conservative" growth.
+But he may be underselling Chick-fil-A's recent expansion. It opened 179 restaurants last year and has launched in international markets like Canada, Singapore and the United Kingdom in recent years.
+Staying private also has advantages, particularly as restaurant stocks have broadly struggled this year. Shares of Jersey Mike's have fallen nearly 28% since its initial public offering in July, while Dunkin' owner Inspire Brands is reportedly unlikely to go public this year unless the sector's performance improves.
+"We're able to plan for the quarter century, and we don't have to plan for the quarter," Cathy said.
+Balancing Chick-fil-A's past and future
+During Cathy's tenure so far, Chick-fil-A has pursued bold ideas for future growth, like a $1 billion international expansion plan and Daybright, a new beverage-focused restaurant concept created by its venture arm.
+But the company is trying to balance those new strategies with its existing traditions.
+"I look at driving this business like driving a race car — there's a reason that the windshield's bigger than the rearview mirror," Cathy said. "It's important for the rear view to be grounded on where you are, and there are things that we think about our purpose, our mission, that won't change, but everything else we have to be able to evolve and change."
+Some tenets, like staying closed on Sundays, will never change. Others, like its restaurants' signature Southern hospitality, will evolve as diners change their ordering and eating habits.
+Cathy said that Chick-fil-A takes a "human plus" approach to technology in its restaurants.
+"We think about all these new things into the future, about how will people want to receive food in the future?" he said. "As you think about drone delivery and all the other kind of things that could be coming, it's a fun time in the industry, to think about all the possibilities of what we can do to make a better experience for our guests."
+While Chick-fil-A is exploring opportunities to use artificial intelligence behind the scenes, he said that its restaurants will not pursue AI voice ordering in its drive-thru lanes, unlike many of its industry rivals. McDonald's, for example, said at its investor day in September that it plans to test Archy, its voice AI tech, to take orders in both English and Spanish.
+"From our experience, we really want that hospitality to be human to human," Cathy said. "We're not gonna substitute that interaction with technology, because we feel like that hospitality is so important to create that warm environment for consumers."
+Other restaurants are also refocusing on hospitality, hoping that the extra effort from employees will encourage customers to come back. Starbucks bought around 200,000 Sharpie markers so its baristas could write friendly messages on customers' coffee cups. Burger King has redefined its restaurant manager role into a "Your Way Champion," who greets diners and fixes botched orders. And starting Monday, McDonald's will begin its "Make It Golden" training program for franchisees and employees, which focuses on hospitality as well as food quality.
+Chick-fil-A's long-standing focus on service has made it the fast-food leader in customer satisfaction for more than a decade, according to the annual American Customer Satisfaction Index. That reputation can also help the chain stand out from other dining options as consumers have grown more choosy about how they spend their money. Jersey Mike's recently toppled Chick-fil-A in the 2026 study, although Chick-fil-A's score was unchanged from a year ago.
+Waffles and pimento
+Another enduring element of Chick-fil-A is its famously simple menu. But the chain has even been carefully expanding its offerings, typically through seasonal limited-time items like chicken and waffles or its Honey Pepper Pimento Chicken Sandwich. If a menu item is a "home run," as Cathy calls it, then Chick-fil-A might add it permanently, like its Pineapple Dragonfruit drink line.
+"We're very careful about what we want to do, because we want to keep it really focused on unique Chick-fil-A items that they can only get at Chick-fil-A," Cathy said. "But we do want to bring in new flavors and profiles, and that's what we'll do with a lot of our seasonal items that we do, and we learn a lot from our customers about trying those things."
+Other fast-food chains are trying to edge into Chick-fil-A's territory. In 2019, Restaurant Brands International's Popeyes sparked the "chicken sandwich wars" by releasing its own version. Chick-fil-A remains the dominant chicken chain in the U.S., with roughly a 43% market share as of 2024, according to Barclays. However, the chicken sandwich helped catapult Popeyes to the No. 2 spot, with about 11% share.
+McDonald's could reignite the battle as it prepares to test hand-breaded chicken strips and sandwiches.
+But Cathy said that he loves the competition.
+"I'm grateful that there's competition in the chicken space, because that means we're in a good space to be," Cathy said. "Competition just makes us better .... What little details can we do to make that environment even more welcoming for customers?"
+Red Wagon Ventures
+Chick-fil-A has also innovated outside its restaurants.
+In 2017, the company created Red Wagon Ventures, named for the vehicle Truett used to sell bottles of Coca-Cola in his first entrepreneurial gambit at age 6.
+"The lion's share of our time and effort is continuing to make sure that we're getting better and better at Chick-fil-A, but we do have a small team that's working and incubating some of these new ideas and thinking about what could be some things that could help us grow into the future," Andrew Cathy said.
+Some of those ventures are based in the restaurant industry. Its experimental Little Blue Menu concept served traditional Chick-fil-A menu items along with burgers, pizza and onion rings; the chain will convert its final location into a traditional Chick-fil-A next year. More recently, the subsidiary opened Daybright, which serves coffees, smoothies, juices and doughnuts — but no chicken sandwiches or waffle fries.
+Another Red Wagon Ventures bet is even further from Chick-fil-A. Last year, it launched Acrew Home Professionals, a home repair and maintenance business that nodded to the Chick-fil-A ties by promoting "service with a smile," according to its website.
+"I think from a family business standpoint, we've got to build off of our core competencies and look at other types of things that we can get into, so we can continue to serve customers in unique ways," Cathy said.
+Cathy said that he studies family businesses, and those that have been around for more than 100 years still have to think about innovation and think ahead. At 80 years old, Chick-fil-A still has a few more decades to go before it hits the century mark.
+"My grandfather was entrepreneurial to the core. He died at 93, and he opened a new business at 92 years old that he created himself," Cathy said, referring to Truett's Luau, a Hawaiian-themed restaurant concept that opened during the same month that Truett handed over the reins of the family business to his son.
+In addition to starting its own brands, Red Wagon Ventures will explore acquisitions of family businesses, Cathy said. Most likely, those will be companies without a succession plan or just looking to sell — in other words, very different from Chick-fil-A.
+
+</details>
+
+
+---
+
+## Why brands like E.l.f., Wendy's and Gap are branching out into original music
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html
+
+正文长度：6504
+
+摘要：E.l.f. Beauty released an album titled "Mirror Mix" as the brand plans to increase its marketing spend for the rest of the year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Watch out Sony, a new music producer is in town. And this time it's the same brand that makes your favorite lip gloss.
+E.l.f. Beauty announced late last month the release of "Mirror Mix," an original album featuring music from seven rising artists. The album comes as the makeup company ramps up its marketing spend, fueled in part by tariff refunds.
+E.l.f.'s pursuit of music is part of a growing wave of retailers blending shopping with entertainment.
+The album features artists including a WNBA player and a Grammy award-winning singer-songwriter. It's available to stream on Spotify, Apple Music, Amazon and Roblox, according to a press release.
+In addition to elevating the voices of independent artists, the new music is intended to help E.l.f. better connect with its customers, Chief Integrated Marketing Officer Patrick O'Keefe told CNBC in an interview.
+"When you put community at the center of everything … programs and campaigns and building music, which evokes emotion … when you do that, it changes the conversation. And we want to be top of mind with our community," O'Keefe said.
+"Mirror Mix" is E.l.f.'s second album, following the company's 2024 release of "Get Ready With Music, The Album." Its first venture into music, the song "eyes.lips.face.," debuted in 2019.
+"We were one of the first movers on TikTok, and we created an original song around eyes, lips, face, and it went viral. It propelled the brand into new dimensions," O'Keefe said. "People didn't know what eyes, lips, face — what E.l.f. — stood for, and we created the song to embrace what it stands for and what it means for us as a brand."
+The E.l.f.-released music is part of the company's strategy in "disruptive marketing," or marketing that aims to create moments consumers will pay attention to.
+E.l.f. has also launched a TikTok reality show and became one of the first brands to launch a channel on Twitch and offer live shopping on the platform.
+"Our marketing works best when you start seeing that virality on innovation, our ability to feed that and be able to sustain that demand and build growing franchises," CEO Tarang Amin said at the Deutsche Bank dbAccess Global Consumer Conference in early June.
+"We're an entertainment company that happens to sell beauty products," Amin joked.
+Where retail meets entertainment
+E.l.f. is not alone in its foray into entertainment.
+Days before E.l.f.'s album debut, Gap announced a multiyear partnership with boy band Just Your Type, or JYT. The clothing retailer will be responsible for developing a multi-episode docuseries, national mall tour and a clothing collection with the rising pop stars, according to a press release.
+The venture is the company's first collaboration under its newly created "fashiontainment" platform. The initiative comes as the company has undergone a multiyear revival after the retailer closed about 2,000 stores and annual sales fell by $3.5 billion between 2001 and 2021.
+Pam Kaufman, Gap's chief entertainment officer, will oversee the project and said in a press release the partnership with JYT will "create something much bigger than a campaign."
+"Gap has always lived at the intersection of style, music and culture, and our Fashiontainment platform builds on that legacy by putting our brands at the center of the stories and cultural moments people care about," Kaufman said.
+Gap CEO Richard Dickson tapped into a similar sentiment earlier this year, saying traditional advertising campaigns are just not cutting it anymore.
+"Fashion is entertainment, and today's customers aren't just buying apparel, they're buying into brands that tell compelling stories and drive cultural conversations," Dickson said in a statement in January announcing the creation of the chief entertainment officer role.
+In recent weeks, Wendy's also debuted an emo album titled, "Songs to Listen to in a Wendy's Parking Lot." Unlike the earnest attempts of E.l.f. and Gap to create music that would resonate with fans, the fast-food chain created humorous renditions of songs, including "She Said She Didn't Want Fries" and "The Best Combo Meal on the Worst Night of My Life."
+The lead song has generated more than 450,000 streams on Spotify, and the announcement gained hundreds of thousands of likes on Instagram.
+Wendy's CEO Bob Wright named marketing as one of the company's key areas of focus during its most recent earnings call.
+"We have one of the most recognizable brands in the industry, and we need to make our messaging, media and creative drive a meaningful connection with our customers and drive traffic to our restaurants," he said.
+That need is particularly true as younger consumers gain spending power.
+"Cultural relevance moves the entire purchase funnel — especially for Gen Z," United Talent Agency said in a report released in June. "Consumers who perceive a brand as culturally relevant are more likely to notice it (90% of Gen Z), think favorably of it (87% of Gen Z), consider it (81% of Gen Z), and ultimately buy from it (68% of Gen Z) — proving culture's ROI extends far beyond brand perception."
+E.l.f.'s marketing spend
+At E.l.f., O'Keefe said the company uses the concept of unaided awareness, or a consumer's ability to name a brand without being prompted, as a metric to measure its marketing's success. Unaided awareness of E.l.f. Beauty has tripled in the last five years, rising to 45% from 13%, he said.
+The company reported that profits doubled during its most recently reported quarter, which became the cosmetics brand's 30th consecutive quarter of growth.
+At the same time, the company has prioritized spending on innovative marketing campaigns. More than 20% of net sales in the fiscal first quarter were reinvested in marketing and digital, according to the company's most recent earnings call. That percentage is expected to rise throughout the rest of the year, the company said.
+The increased marketing push will be funded in part by tariff refunds. The company received $50 million in the three months that ended June 30 after the Supreme Court struck down President Donald Trump's "liberation day" tariffs and a federal judge ordered the money to be returned.
+"Our plan is to fully reinvest that money in both pricing, to have a superior value proposition, as well as increased marketing across our entire portfolio of brands," CEO Amin told CNBC in an interview in August. "We feel we never should have had the tariffs to begin with, so let's invest in our brands to drive the strength that we see."
+
+</details>
 
 
 ---
@@ -230,216 +338,132 @@ Some of the repairs that are becoming more expensive are virtually as old as fue
 
 ---
 
-## FAA says Boeing 737 Max software glitch not a flight-safety issue
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html
-
-正文长度：2183
-
-摘要：The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The Federal Aviation Administration said Friday that it has determined a new software glitch on some Boeing 737 Max aircraft isn't a flight-safety issue.
-The determination paves the way to certification for the last model in the company's best-selling family of airplanes, the 737 Max 10, just as Boeing seeking to sell and deliver more aircraft after years of safety and manufacturing crises.
-Boeing flagged the software issue, which could affect certain landing procedures, last month and the FAA on Monday said it was reviewing to determine if it poses a safety of flight issue.
-"Following a thorough review, a panel of FAA safety experts on Friday determined a software issue in certain Boeing 737 MAX flight computers is not a safety concern," the FAA said. "The FAA's Corrective Action Review Board made that determination because pilots retain full control of the aircraft and the indications to the flight crew are clear and unambiguous."
-Boeing said the issue could arise after a missed approach when pilots alter a preprogrammed flight path, and that pilots must take additional steps to use automated tools on subsequent approaches.
-The FAA said on Friday that it will issue a special bulletin to airlines on how to recognize and respond to the issue if it arises.
-The agency convened a review board on Friday to assess the issue. Participants included FAA experts on airframes, flight controls, propulsion, flight testing and others.
-"As with any situation, the FAA will consider appropriate action if it receives new information about this issue," the agency said.
-U.S. airlines said they're not affected by the issue since they could revert to older versions of the software, but the problem raised questions about certification of the Boeing 737 Max 10, which Boeing and airlines expected to come in early fall.
-The Max 10 is the largest in the family of airplanes and would be the last of the Max lineup to win government certification to fly. The FAA approved the Max 7, the smallest in the Max family, in August.
-Chief executives of 737 Max 10 customers, Alaska Airlines and Ryanair, earlier this week brushed off concerns about the aircraft's certification delays.
-
-</details>
-
-
----
-
-## Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html
-
-正文长度：7421
-
-摘要：Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The next generation of blockbuster obesity drugs isn't trying to replace GLP-1 medicines.
-Instead, drugmakers are developing treatments that can complement existing drugs and push weight loss further, or offer new options for potentially millions of people who may not get enough benefit from GLP-1s.
-That's the early potential of a new slate of injections, pills, and combination regimens targeting the amylin pathway, which involves a hormone released in the pancreas alongside insulin that helps regulate hunger and fullness. Amylin gives Eli Lilly, Novo and several other companies another biological lever to pull in treating obesity and Type 2 diabetes, either as an independent treatment or layered on top of existing drugs.
-Lilly offered a promising glimpse of that strategy this week.
-The company's experimental amylin-targeting drug, eloralintide, helped produce substantially more weight loss when combined with tirzepatide – the active ingredient in its blockbuster Zepbound and Mounjaro shots – in a Phase 2 trial on patients with obesity and Type 2 diabetes.
-At 48 weeks, people receiving the highest-dose combination lost an average of 23.3% of their body weight, compared with 14.8% among those only taking a high dose of tirzepatide. Those figures are based on efficacy analysis that assumes patients remained on treatment in the trial.
-"These are encouraging results," said Benjamin Bikman, a professor at Brigham Young University and leading expert on metabolic health and insulin resistance. "Adults with type 2 diabetes typically lose less weight on these therapies than those without diabetes."
-Lilly is developing eloralintide both as a standalone treatment and as part of that combo therapy. The two components make up what some analysts view as a major future franchise for the company.
-Leerink Partners analyst David Risinger forecasts $23.2 billion in annual sales for Lilly's eloralintide products by the end of 2035. He said he expects the standalone drug to launch first in 2029, followed by the combo in 2030.
-"There are millions of individuals, potentially over 10 million people, who have tried GLP-1s and failed due to efficacy reasons, tolerability issues, or genetic issues where they simply do not respond to one," Risinger told CNBC. "We think this novel mechanism, this amylin analog … will offer a major new treatment alternative for patients, both as a monotherapy and as a combination therapy. "
-Risinger said he sees greater potential for standalone eloralintide given the "huge independent patient pool" that hasn't seen success on existing GLP-1s. Lilly still sees a clear opportunity for pairing the medications.
-"Patients may not get what they need from a drug like tirzepatide," Ken Custer, president of Lilly Cardiometabolic Health, said in an interview. "They may not get what they need from a drug like a eloralintide on its own."
-Bikman also said he sees the combo as an opportunity for patients who started on tirzepatide alone but saw their weight loss plateau.
-But Lilly still has a lot to prove. The data comes from a relatively small Phase 2 study that the company will need to confirm in Phase 3 trials, which will begin later this year.
-Lilly also aims to improve how well patients tolerate the combo regimen in later studies. More patients taking both drugs — 10.8% to 27%, depending on the dose — discontinued treatment due to side effects, compared with the 2.9% of people on tirzepatide alone in the trial.
-"A therapy is only effective if patients can remain on it, so tolerability in Phase 3 will be as important as efficacy," Bikman said.
-Dr. Caroline Apovian, co-director of the Center for Weight Management and Wellness at Brigham and Women's Hospital, added that "27% is not a good number."
-Still, the results add to a growing body of evidence that amylin could become an important tool against obesity and diabetes.
-Lilly isn't alone in betting that amylin can become a building block for the next generation of obesity drugs. Novo has spent years pursuing a similar strategy.
-Novo's experimental amylin-based drug, cagrilintide, has shown meaningful weight loss as a standalone treatment in a late-stage trial. Combining it with semaglutide – together dubbed CagriSema – has produced even greater weight loss in clinical studies. CagriSema is expected to launch early next year, followed by standalone cagrilintide and a higher-dose version of CagriSema in 2028.
-Novo is also developing another treatment called amycretin, or zenagamtide, which is a single molecule that would target both GLP-1 and amylin to treat obesity and Type 2 diabetes. The Danish drugmaker is testing it as a once-weekly injection and a daily oral tablet, and the drug showed promising Phase 2 results earlier this year.
-Several companies, including Pfizer, AstraZeneca and Viking Therapeutics, are developing their own amylin products, as well.
-Amylin vs. GLP-1
-The first – and so far only – amylin therapy was approved in the U.S. more than two decades ago as an add-on mealtime injection for people with diabetes who use insulin. But adoption was limited in part because it required multiple injections a day.
-New therapies in development are long-acting, meaning they are designed to mimic the hormone in a sustained way and can be taken once a week, Bikman said.
-Amylin helps signal fullness, suppress appetite and slow the movement of food through the stomach, similar to what GLP-1 does. But amylin achieves that by acting on an entirely different biological pathway.
-"It's the same outcome, but a different approach," Bikman told CNBC.
-The idea is that targeting multiple pathways could produce more weight loss or other metabolic benefits than any single pathway can achieve on its own, and without relying entirely on higher doses of a single drug.
-New data from Novo this week suggests that the benefits could go beyond physical changes.
-CagriSema reduced "food noise" — persistent thoughts about food — and showed improvements to organ and bone health in a yearlong functional magnetic resonance imaging study, which is a noninvasive method to measure brain activity during specific tasks. Novo said CagriSema changed how the brain reacted to tempting, high-calorie foods in areas linked to cravings, pleasure and self-control in people with obesity or who were overweight.
-"The signal in the brain changes in a way that actually is associated with improved quality of life," Martin Holst Lange, Novo's chief scientific officer, said in an interview.
-Developing treatments that target several hormone pathways rather than one is part of a broader shift in the obesity drug race, even beyond amylin.
-Tirzepatide already pairs GLP-1 with GIP, while Lilly's experimental drug retatrutide also adds glucagon to the mix. Retatrutide has produced some of the largest weight loss results reported in obesity drug trials to date, and Bikman said published data on the drug demonstrate substantial reductions in liver fat, triglycerides and fasting insulin.
-It's too early to definitively say whether combination amylin drugs could be superior to tirzepatide or other next-generation treatments. They'll have to clear more clinical trials and regulatory reviews first.
-But all the medicines in development are working toward a broader goal shared by several drugmakers: giving patients a variety of obesity and diabetes treatment options to meet their individualized needs.
-
-</details>
-
-
----
-
-## Volodymyr Zelenskyy asked Donald Trump to block Russia and China’s Starlink rival - Financial Times
+## US to receive potash shipment from Belarus as relations thaw - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNM29CbGNta1p2cHphTVB6MXF0MFl5dHdZRFcwTUlsTUFkeUxQeWxsa0xxaDVoTVV1cW4yMm9selZlU1hkbEtTNjVfT0FKbm1VNmU1ZzI2aXRFZ1hPcFVHTUZ5djlMRENuSDc3M0hjTHJFRi1uTjd4MGo2dmpCNHVqM19iY2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTUyZ0NhbEZyMThfRC1ieXVvTTFUNWFNTlowSjQtb0Z5NzVGcHV0ZmdDTUdXS3k3TlNpeEJzY3o2VVNWekV2YUh5b1dpeVdEbHI0VlFJajgzVFBJOWJTZFdKSG9PQjVhTGN0OUU5d2dUbGF4YlJuaVdxUktFZ1BDZ3VBSWw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNM29CbGNta1p2cHphTVB6MXF0MFl5dHdZRFcwTUlsTUFkeUxQeWxsa0xxaDVoTVV1cW4yMm9selZlU1hkbEtTNjVfT0FKbm1VNmU1ZzI2aXRFZ1hPcFVHTUZ5djlMRENuSDc3M0hjTHJFRi1uTjd4MGo2dmpCNHVqM19iY2c?oc=5" target="_blank">Volodymyr Zelenskyy asked Donald Trump to block Russia and China’s Starlink rival</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTUyZ0NhbEZyMThfRC1ieXVvTTFUNWFNTlowSjQtb0Z5NzVGcHV0ZmdDTUdXS3k3TlNpeEJzY3o2VVNWekV2YUh5b1dpeVdEbHI0VlFJajgzVFBJOWJTZFdKSG9PQjVhTGN0OUU5d2dUbGF4YlJuaVdxUktFZ1BDZ3VBSWw?oc=5" target="_blank">US to receive potash shipment from Belarus as relations thaw</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## John Maynard Keynes and the search for the good life - Financial Times
+## Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9VYTNJaWZCZDA4SFVGbmRxT0FOTlJQLVBpTVEzX0Q5dDlpc1o1WjRuVGV2dG0xQnpBdWhkZHQ5anhZcTk3MWNXam9GdGllNUtRbk5MM0F6WXRlNzRta2xJOWRqbHdVVFBET0g1MW54Q2M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkYwdS0xTXN2bFl1SzdPc1JXSFhlRVNmZnBZbFdUcTNPdVFIS18wSmxvRk9wWnFsMkt4WUJIdS1SN2M3RzNzQVJCb0I4X2o3UjlBbWpVa3ludzYtUGpvUF9Qc1VlQ254alhoaG1SZ25aM3ZfNVFfOGZPNmpacWFNODFTVm0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9VYTNJaWZCZDA4SFVGbmRxT0FOTlJQLVBpTVEzX0Q5dDlpc1o1WjRuVGV2dG0xQnpBdWhkZHQ5anhZcTk3MWNXam9GdGllNUtRbk5MM0F6WXRlNzRta2xJOWRqbHdVVFBET0g1MW54Q2M?oc=5" target="_blank">John Maynard Keynes and the search for the good life</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkYwdS0xTXN2bFl1SzdPc1JXSFhlRVNmZnBZbFdUcTNPdVFIS18wSmxvRk9wWnFsMkt4WUJIdS1SN2M3RzNzQVJCb0I4X2o3UjlBbWpVa3ludzYtUGpvUF9Qc1VlQ254alhoaG1SZ25aM3ZfNVFfOGZPNmpacWFNODFTVm0?oc=5" target="_blank">Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chart of the Week: What’s driving the global bond sell-off? - Financial Times
+## BT weighs improved TalkTalk offer after initial approach rejected - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEU2dFZaTndKTlZzTk5XY2xnNnlZbDM1NHZ1RmtadDNOak1hSGUwRzE1d2hvWlBlcmJlWVFIOTd5OE0zcG12NXRIcFJTRWNydE00QTdZaVFBZkFWamdqd0pVQ2N5LWs0YUw0NHc1ZHRvYU1taFRwNEVnWTlySXZsaXdNVlk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VHZNOTB6S1FaZFJiRFBmdEtiVTE5WXZQME1HMndDU1ZkenJtZVR1R0ZJSk1rLXRHVk1iZFhfbENaOWpjQXdMT2d4UkF4NUNUU3lLaGE5N2dSU2lNRjAzbW1zLU1vSWtOWUpHMDV4Y0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEU2dFZaTndKTlZzTk5XY2xnNnlZbDM1NHZ1RmtadDNOak1hSGUwRzE1d2hvWlBlcmJlWVFIOTd5OE0zcG12NXRIcFJTRWNydE00QTdZaVFBZkFWamdqd0pVQ2N5LWs0YUw0NHc1ZHRvYU1taFRwNEVnWTlySXZsaXdNVlk?oc=5" target="_blank">Chart of the Week: What’s driving the global bond sell-off?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VHZNOTB6S1FaZFJiRFBmdEtiVTE5WXZQME1HMndDU1ZkenJtZVR1R0ZJSk1rLXRHVk1iZFhfbENaOWpjQXdMT2d4UkF4NUNUU3lLaGE5N2dSU2lNRjAzbW1zLU1vSWtOWUpHMDV4Y0g?oc=5" target="_blank">BT weighs improved TalkTalk offer after initial approach rejected</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## When £35 New Zealand Chardonnay meets £1,000 white burgundy - Financial Times
+## Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE16MmQ5cGpoc053ZXNNN0N6eHZjdndQdVVnVmdMSmZDZGcxVzVlb05IZ0tiQW5LSXN4YXl3OVZPeEYycHFOeVNFWTNOejRJUjBDNDg1dmNBOGFOaUNiajdLWWFKeXUxN2NuR2FSX3F4SV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ25FR2lHT0tLMV94YmFjVnVBcUhJYllfQ3VGXzhOX0JpV1BUa2tFZFdIZWcyV1V3eHRlbDFlcHhfaFpHNlBuQ18yUXF5a2tWU2FidHlCYkVsckdja2FubXRSdkIyRXYyaGtZOTgtS3B2cEZBdUxnaVYtQWZJY1BQeXF6LXk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE16MmQ5cGpoc053ZXNNN0N6eHZjdndQdVVnVmdMSmZDZGcxVzVlb05IZ0tiQW5LSXN4YXl3OVZPeEYycHFOeVNFWTNOejRJUjBDNDg1dmNBOGFOaUNiajdLWWFKeXUxN2NuR2FSX3F4SV8?oc=5" target="_blank">When £35 New Zealand Chardonnay meets £1,000 white burgundy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ25FR2lHT0tLMV94YmFjVnVBcUhJYllfQ3VGXzhOX0JpV1BUa2tFZFdIZWcyV1V3eHRlbDFlcHhfaFpHNlBuQ18yUXF5a2tWU2FidHlCYkVsckdja2FubXRSdkIyRXYyaGtZOTgtS3B2cEZBdUxnaVYtQWZJY1BQeXF6LXk?oc=5" target="_blank">Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China, America and the new Great Game - Financial Times
+## Japanese and Korean shipbuilders deploy robots to take on China - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VlWW5lY2xfZVNxdEloMjAwaG9VRmN2bVE4V1lhYWFPNlRQQ1lfSThKczNxRFp5Vm5jSlpNSE9SbWlhdDJUQ3NmVlFidVFSYlpoWmhFQzV5TFNXejBfTm80OEVxNzNkbnNvRFo2Wkh4a2Rhei02SjJJX3NXQ0QyVFNVX00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3VlWW5lY2xfZVNxdEloMjAwaG9VRmN2bVE4V1lhYWFPNlRQQ1lfSThKczNxRFp5Vm5jSlpNSE9SbWlhdDJUQ3NmVlFidVFSYlpoWmhFQzV5TFNXejBfTm80OEVxNzNkbnNvRFo2Wkh4a2Rhei02SjJJX3NXQ0QyVFNVX00?oc=5" target="_blank">China, America and the new Great Game</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJFR0wzcG9JVE44Nk1Wd0MtY0Jvay16dWUtaXlzVkxoQnRxTzFHMWoyTWxUMnltWlRGbFZtRWV1RTFLVm00R3RhU2RXd21oQW15YXl0UGl1cWZzVmQ3cmJ2YUNieG82SklWa29wN1NjZEstZVZ3YXZTdnJ6UDRDdzRGZFg?oc=5" target="_blank">Japanese and Korean shipbuilders deploy robots to take on China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations - reuters.com
+## Yemen leader announces major military operations against Iran-backed Houthis - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXFPTFhZZ1JDQXowelZUcmd1RmZjMkV3ZHo3VUp2aWQ2SVV2YlNxMGh0NHI3bW8xdExua0x5d0VlN2Rld2FmTERuTUNKQVNZYW8tT2E4dlQyWmF4YXNuc2pqMHJDa1IzdW9KS24ySDgxQV9YLXBqMmMtME01eGtPN1ZZQ3V3VWM2MmVPMmlNd0FsN1ZONms2VExneTJvLVZYRTQ4YV9SYTZOa0J6d0xmaDRjcTE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXFPTFhZZ1JDQXowelZUcmd1RmZjMkV3ZHo3VUp2aWQ2SVV2YlNxMGh0NHI3bW8xdExua0x5d0VlN2Rld2FmTERuTUNKQVNZYW8tT2E4dlQyWmF4YXNuc2pqMHJDa1IzdW9KS24ySDgxQV9YLXBqMmMtME01eGtPN1ZZQ3V3VWM2MmVPMmlNd0FsN1ZONms2VExneTJvLVZYRTQ4YV9SYTZOa0J6d0xmaDRjcTE?oc=5" target="_blank">Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5" target="_blank">Yemen leader announces major military operations against Iran-backed Houthis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports - reuters.com
+## Australia probes flydubai co-pilot's links to the country, police say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5" target="_blank">Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5" target="_blank">Australia probes flydubai co-pilot's links to the country, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iraq says it transported 2 million barrels of crude through Strait of Hormuz - reuters.com
+## Russia to intensify strikes on Ukraine after Zelenskiy interview - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWFXeUhOM2ZldTc1dEhPdGxOcjZ4MldhbHl1aWI3UE40akNDQnA3SWNHS2FrNjYtTFJDR2VVeUxsWnkxRXpMbU1jZUFlZFg5Y0xpSndJNUs4WTZWdDE1dXFJczJMUEVMRUVkMHVrZnFkdEMtMXZjSWRWdS1fb0R2enktclJCNlMwalZCREplbW5QdXlMT1lGbU43a2llczVqbS1pNW45RjN2ak1LV3JaOGxHWVhzLW56eTN4SGFiUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd05oYU1XSThHUHE4WjZ1QVRwNkFXMXNzRzBfRGFnWDhZS3lNblYzbDRWd216QzlacDBwakNZakFFRk1xUVo4amZlXzlpZEJxLUhrSEp6M1dVOTBEOFFyTmc2emthMVprYnNOa2pIZUpOTVNPcnJ3NmlNY0czUmYyR3FkeWxpOVZzeXJUS1VUTExCeDh1M25vWHpGejc2cTVpdGdZSV9hbkhXa1k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWFXeUhOM2ZldTc1dEhPdGxOcjZ4MldhbHl1aWI3UE40akNDQnA3SWNHS2FrNjYtTFJDR2VVeUxsWnkxRXpMbU1jZUFlZFg5Y0xpSndJNUs4WTZWdDE1dXFJczJMUEVMRUVkMHVrZnFkdEMtMXZjSWRWdS1fb0R2enktclJCNlMwalZCREplbW5QdXlMT1lGbU43a2llczVqbS1pNW45RjN2ak1LV3JaOGxHWVhzLW56eTN4SGFiUQ?oc=5" target="_blank">Iraq says it transported 2 million barrels of crude through Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd05oYU1XSThHUHE4WjZ1QVRwNkFXMXNzRzBfRGFnWDhZS3lNblYzbDRWd216QzlacDBwakNZakFFRk1xUVo4amZlXzlpZEJxLUhrSEp6M1dVOTBEOFFyTmc2emthMVprYnNOa2pIZUpOTVNPcnJ3NmlNY0czUmYyR3FkeWxpOVZzeXJUS1VUTExCeDh1M25vWHpGejc2cTVpdGdZSV9hbkhXa1k?oc=5" target="_blank">Russia to intensify strikes on Ukraine after Zelenskiy interview</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI safety employee quits, says 'time for trial and error is over' - reuters.com
+## Spanish police clear migrant camp on Ceuta beach ahead of royal visit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlYR2wzY2tZYWg1cEo5SFlaTHhXU2p6M1BmWmpwYzRWSXlBYVVOM1R5ZGNENjBLNGMtRXNyd0xpdFpRdXBKY0NuN3ozWnhhRy1zZmQteXAwMVppMDBsWFpPYVlYQ3Q1WXo3STVnaER4WnVBRjBnNnp3VmgwNXM2Y2g2LTNNdUVab3VOVEsxS0hpWm5KS3A1SEFhZHg0aGt1cVZ3eHlRWnRqNUJPT2tYV0Y0R0tLUnEwaXhENmVoQ2ktZmZI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5" target="_blank">OpenAI safety employee quits, says 'time for trial and error is over'</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlYR2wzY2tZYWg1cEo5SFlaTHhXU2p6M1BmWmpwYzRWSXlBYVVOM1R5ZGNENjBLNGMtRXNyd0xpdFpRdXBKY0NuN3ozWnhhRy1zZmQteXAwMVppMDBsWFpPYVlYQ3Q1WXo3STVnaER4WnVBRjBnNnp3VmgwNXM2Y2g2LTNNdUVab3VOVEsxS0hpWm5KS3A1SEFhZHg0aGt1cVZ3eHlRWnRqNUJPT2tYV0Y0R0tLUnEwaXhENmVoQ2ktZmZI?oc=5" target="_blank">Spanish police clear migrant camp on Ceuta beach ahead of royal visit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump shares Republican senator's phone number in feud over time switch - reuters.com
+## OPEC+ agrees to keep November oil output targets steady - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5fMmFCNGZWV1djeWt5OXluem9lNTh6bjdxcV9lcFV5RklqdDFpQjVReUF0MWxTY3FubzNKQnJPNmlyZHhmWUlsT2J2enRJTWpacG1NQUxNdUJ3TmZXbTBrR2FfMkk1bHZDRVdRc2pEUWx0cEdOVkR4a1FhbFRGb29Zd1pROHMxekx0Um1QbF8zUU9vc1lyM096eXVtanpYS2RGOFhIaFdUU01PcDJEcU93?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5fMmFCNGZWV1djeWt5OXluem9lNTh6bjdxcV9lcFV5RklqdDFpQjVReUF0MWxTY3FubzNKQnJPNmlyZHhmWUlsT2J2enRJTWpacG1NQUxNdUJ3TmZXbTBrR2FfMkk1bHZDRVdRc2pEUWx0cEdOVkR4a1FhbFRGb29Zd1pROHMxekx0Um1QbF8zUU9vc1lyM096eXVtanpYS2RGOFhIaFdUU01PcDJEcU93?oc=5" target="_blank">Trump shares Republican senator's phone number in feud over time switch</a>&nbsp;&nbsp;<font color="#6f6f6f">reuters.com</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5" target="_blank">OPEC+ agrees to keep November oil output targets steady</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
