@@ -1,24 +1,44 @@
 {
-  "update_time": "2026-10-05 20:36:41",
+  "update_time": "2026-10-06 05:49:23",
   "news_count": 20,
   "news": [
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "PTC Rises on Schneider Electric’s $23.7 Billion Takeover Deal | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-05/ptc-rises-on-takeover-deal-closing-bell-video",
-      "publish_time": "Mon, 05 Oct 2026 20:23:41 GMT",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet Fu, Hema Parmar, Carol Massar and Norah Mulinda. (Source: Bloomberg)",
+      "title": "Full Interview: Why Ray Dalio Sees Risk of US Debt Crisis",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-06/dalio-sees-possibility-of-us-debt-crisis-within-3-years-video",
+      "publish_time": "Tue, 06 Oct 2026 03:48:25 GMT",
+      "summary": "Bridgewater Associates Founder Ray Dalio says he sees the possibility of a US debt crisis within three years. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Bloomberg",
       "source_cn": "彭博社",
-      "title": "Brazil Assets Surge as Investor Favorite Bolsonaro Leads in Race",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/bolsonaro-s-first-round-lead-sets-brazil-assets-for-monday-surge",
-      "publish_time": "Mon, 05 Oct 2026 01:28:01 GMT",
-      "summary": "Brazilian assets surged on expectations that Flávio Bolsonaro will address the country’s mounting fiscal problems and pave the way for interest-rate cuts after he became the surprise favorite to win the presidency in an Oct. 25 runoff against Luiz Inácio Lula da Silva.",
+      "title": "Firmus Stock Overhang Said to Make Some Investors Wary on IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/firmus-stock-overhang-said-to-make-some-investors-wary-on-ipo",
+      "publish_time": "Tue, 06 Oct 2026 05:39:53 GMT",
+      "summary": "Some potential investors are turning more cautious on the blockbuster initial public offering of data center firm Firmus Grid Ltd. as they worry about existing shareholders potentially flooding the market soon after the company’s debut, according to people familiar with the matter.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "Ireland Faces Pressure to Spend Tax Windfall in Budget to Help Voters",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/ireland-faces-pressure-to-spend-tax-windfall-in-budget-to-help-voters",
+      "publish_time": "Tue, 06 Oct 2026 05:15:00 GMT",
+      "summary": "Ireland’s government has an enviable budget surplus, and voters want those funds used to help them with soaring energy costs and a cost-of-living squeeze.",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Bloomberg",
+      "source_cn": "彭博社",
+      "title": "How Total Return Swaps Pile on Risk For Bondholders",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/how-total-return-swaps-pile-on-risk-for-bondholders",
+      "publish_time": "Tue, 06 Oct 2026 05:15:00 GMT",
+      "summary": "Some governments in need of money have been turning to an obscure financial product typically used by hedge funds, exposing bond investors to new risks.",
       "content": "",
       "content_length": 0
     },
@@ -26,29 +46,9 @@
       "source": "Bloomberg",
       "source_cn": "彭博社",
       "title": "S&P 500 Closes In on Record High as Tech Rallies: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-      "publish_time": "Sun, 04 Oct 2026 22:17:26 GMT",
-      "summary": "A rally in giant technology companies drove stocks higher, overshadowing concerns about still-elevated oil prices and bond yields.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "JPMorgan Dangles 11% Yield on Volta’s $5 Billion AI Loan Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-dangles-11-yield-on-volta-s-5-billion-ai-loan-sale",
-      "publish_time": "Mon, 05 Oct 2026 20:05:22 GMT",
-      "summary": "JPMorgan Chase &amp; Co. is pitching a yield of about 11% on a $5 billion leveraged-loan sale on behalf of Volta Infrastructure Holdings Ltd., one of the highest borrowing costs seen in the market for risky debt that’s become popular for financing the AI boom.",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Bloomberg",
-      "source_cn": "彭博社",
-      "title": "Latest Oil Market News and Analysis for Oct. 5",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/latest-oil-market-news-and-analysis-for-oct-5",
-      "publish_time": "Sun, 04 Oct 2026 22:03:02 GMT",
-      "summary": "Oil fell as Saudi Arabia cut crude prices for Asian buyers in a sign that physical supplies are becoming more readily available as Middle Eastern exports recover.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
+      "publish_time": "Mon, 05 Oct 2026 23:13:44 GMT",
+      "summary": "Global stocks edged toward record highs as investors shrugged off concerns about elevated oil prices and bond yields near multi-decade highs.",
       "content": "",
       "content_length": 0
     },
@@ -57,10 +57,10 @@
       "source_cn": "CNBC",
       "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
       "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
-      "publish_time": "Mon, 05 Oct 2026 20:22:52 GMT",
-      "summary": "Lucid delivered 3,806 EVs and produced 2,954 units during the third quarter. That compared to 4,078 deliveries on production of 3,891 EVs a year earlier.",
-      "content": "Lucid Group reported a 6.7% decrease in year-over-year vehicle deliveries during the third quarter, after the embattled all-electric vehicle maker cut production to better align with slower customer demand.\nThe U.S. automaker, which is heavily backed by Saudi Arabia's Public Investment Fund, on Monday said it delivered 3,806 EVs and produced 2,954 vehicles from July through September. Those results compare to deliveries of 4,078 units on production of 3,891 vehicles a year earlier.\nDeliveries of Lucid vehicles are 3.4% higher through the third quarter than a year earlier. Production has climbed 33%, as Lucid ramped up vehicle production through early this year.\nLucid's highest quarterly production of nearly 7,900 units occurred during the fourth quarter of last year, followed by 5,500 during the first quarter of this year.\nShares of Lucid closed up less than 1% on Monday at $4.17 and were little changed in extended trading following the delivery data. The stock is off more than 60% this year.\nThe third quarter of this year was the first since Lucid cut production at its plant in Arizona from two shifts to one amid an \"operational reset\" under new CEO Silvio Napoli, who started leading the automaker in June.\nThe turnaround plan includes identifying $1.4 billion in cash flow improvement opportunities this year.\nThey include approximately $600 million to $800 million in vehicle inventory, $500 million in capital expenditures, and $200 million in operating expenses, the company said when reporting its second quarter results in August.\nLucid said Monday it would report its third quarter results on Nov. 9 after markets close.",
-      "content_length": 1647
+      "publish_time": "Mon, 05 Oct 2026 21:04:17 GMT",
+      "summary": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+      "content": "Lucid Group reported a 6.7% decrease in year-over-year vehicle deliveries during the third quarter, after the embattled all-electric vehicle maker cut production to better align with slower customer demand.\nThe U.S. automaker, which is heavily backed by Saudi Arabia's Public Investment Fund, on Monday said it delivered 3,806 EVs and produced 2,954 vehicles from July through September. Those results compare with deliveries of 4,078 EVs on production of 3,891 vehicles in the year-ago quarter.\nDeliveries of Lucid vehicles are 3.4% higher through the third quarter than a year earlier. Production has climbed 33%, as Lucid ramped up vehicle production through early this year.\nLucid's highest quarterly production of nearly 7,900 units occurred during the fourth quarter of last year, followed by 5,500 during the first quarter of this year.\nShares of Lucid closed up less than 1% on Monday at $4.17 and were little changed in extended trading following the delivery data. The stock is off more than 60% this year.\nThe third quarter of this year was the first since Lucid cut production at its plant in Arizona from two shifts to one amid an \"operational reset\" under new CEO Silvio Napoli, who started leading the automaker in June.\nThe turnaround plan includes identifying $1.4 billion in cash flow improvement opportunities this year.\nThey include approximately $600 million to $800 million in vehicle inventory, $500 million in capital expenditures, and $200 million in operating expenses, the company said when reporting its second-quarter results in August.\nLucid said Monday it would report its third-quarter results on Nov. 9 after markets close.",
+      "content_length": 1656
     },
     {
       "source": "CNBC",
@@ -105,6 +105,46 @@
     {
       "source": "Financial Times",
       "source_cn": "金融时报",
+      "title": "McKesson and CD&R near $5bn-plus deal to buy infusion services provider - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVU4a0NOelNfRmlBeVNlbFBVUWloMG5MZXBRN01sU1BtNVh0UWZGbGZiaVpyWmNUNThCMHlsYm9aUWNTQTZhRHhmNzRXVUNPOFVmVm42ZnlLejBDVXVtVDdGY0IxTGNGdUU2MnZOUk1kU0lhS2hNS3NoQWkxaC1oYzJWV0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 05 Oct 2026 20:01:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVU4a0NOelNfRmlBeVNlbFBVUWloMG5MZXBRN01sU1BtNVh0UWZGbGZiaVpyWmNUNThCMHlsYm9aUWNTQTZhRHhmNzRXVUNPOFVmVm42ZnlLejBDVXVtVDdGY0IxTGNGdUU2MnZOUk1kU0lhS2hNS3NoQWkxaC1oYzJWV0g?oc=5\" target=\"_blank\">McKesson and CD&amp;R near $5bn-plus deal to buy infusion services provider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "US ‘monitoring’ situation around suspected case of plague in Russia - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclVqdmNYNi1MSmxqWVJ5MDIyMTNNN3VsVDBXb2x4eXpCMktVUG9mbGZTcmMyVV9tcWllYmh6RjVCc0Y4WHJlMS1xVFM1N2g5TnE5Y0tCVDRPX3R3bnBqa2VTNVhtRUQtaFktdWZOaE5ZWlptamhJNDl2TU5POUxnekJzR0c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 05 Oct 2026 13:37:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOclVqdmNYNi1MSmxqWVJ5MDIyMTNNN3VsVDBXb2x4eXpCMktVUG9mbGZTcmMyVV9tcWllYmh6RjVCc0Y4WHJlMS1xVFM1N2g5TnE5Y0tCVDRPX3R3bnBqa2VTNVhtRUQtaFktdWZOaE5ZWlptamhJNDl2TU5POUxnekJzR0c?oc=5\" target=\"_blank\">US ‘monitoring’ situation around suspected case of plague in Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "Germany and France agree on last-resort tool against trade threats - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2toeXFtRk9JRHpUb2pXbmRQTEhQcHdjaGUwenppc0MxRHpOamZiYXA2ZTFKTkhPSGdINFdZc3BEVkYwbFkzQWttamkwMkxDeHpkWFpKSDQxbEFZNWJiYXJkYTFKZjI1bGZnQlVuOXJ6clNSeXQydTA0cDZPMDVZZ1VkeW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 05 Oct 2026 13:32:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2toeXFtRk9JRHpUb2pXbmRQTEhQcHdjaGUwenppc0MxRHpOamZiYXA2ZTFKTkhPSGdINFdZc3BEVkYwbFkzQWttamkwMkxDeHpkWFpKSDQxbEFZNWJiYXJkYTFKZjI1bGZnQlVuOXJ6clNSeXQydTA0cDZPMDVZZ1VkeW8?oc=5\" target=\"_blank\">Germany and France agree on last-resort tool against trade threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
+      "title": "The dangerous myth behind AI agent hacks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Mon, 05 Oct 2026 14:34:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ?oc=5\" target=\"_blank\">The dangerous myth behind AI agent hacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "content": "",
+      "content_length": 0
+    },
+    {
+      "source": "Financial Times",
+      "source_cn": "金融时报",
       "title": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’ - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0p3T2MyTWVSZThSUEpRWDVualFSSTRveHJMUDBiSnBydm4zSkp6WjJDdGNEZHRUQ2lOZW41c3d0eE5FZXRZb3NNX0NBX1VpVndsNzVKUk1pWXFsTWc0MjV0Z3lqdDdJS1lkVmctUFZZemZlamIyMktoUy01dEFqYk1wRGU?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publish_time": "Mon, 05 Oct 2026 08:21:07 GMT",
@@ -113,92 +153,52 @@
       "content_length": 0
     },
     {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM3NDOW1Ua3hoR2xRZnF4WVl2d1ZCRi1UM1I0S1BPUEJQOE1DQ2Zmdmc3UmVDVHc4TVJwOUNXVE1JdXk1WFRyU19zVXA0ZzdRRGxuN21qdFVtQ1FWUHpwaE5Sei1VRXNobHJpUndPb2pxMUpmd1F0TzBTU3RFNFZRSEFZbHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 09:00:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM3NDOW1Ua3hoR2xRZnF4WVl2d1ZCRi1UM1I0S1BPUEJQOE1DQ2Zmdmc3UmVDVHc4TVJwOUNXVE1JdXk1WFRyU19zVXA0ZzdRRGxuN21qdFVtQ1FWUHpwaE5Sei1VRXNobHJpUndPb2pxMUpmd1F0TzBTU3RFNFZRSEFZbHQ?oc=5\" target=\"_blank\">Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Can you beat the S&P 500? The FT stock picking game starts today - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEY3NUM2dU9ocWxwSEQ4VDFpTGNOUUE1NmZGdlhIUVdKQmV3UnR3Y3VFS0Vod1RfV3FPYkFEZnVNZzRUVDFVQlMzbDgzRHpwdjFtV2FyTFRmX1B0SVNad1VESFYzb2o4RGRvTVA3TTI2MHpTZjRaNm41bE1XaTZRT1YwaUI?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 04:00:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEY3NUM2dU9ocWxwSEQ4VDFpTGNOUUE1NmZGdlhIUVdKQmV3UnR3Y3VFS0Vod1RfV3FPYkFEZnVNZzRUVDFVQlMzbDgzRHpwdjFtV2FyTFRmX1B0SVNad1VESFYzb2o4RGRvTVA3TTI2MHpTZjRaNm41bE1XaTZRT1YwaUI?oc=5\" target=\"_blank\">Can you beat the S&amp;P 500? The FT stock picking game starts today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Donald Trump rages as Supreme Court appointees fail to do his bidding - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1VwZjVURzc1MTR0ZjlLWnYtZ1JrLVNxWDBZdFZBeWdpbG9HTUVXXzZHSXQwa3AwNDlpLUxfVXUxaFk0NEowYjU0dGp2cURRMDZzUENGSnIxa3lab0h1eHdMMmpvdFJZUFc4d2FkbkdxMzAwaXFQZ0drazUybFl2dUZyaDE?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 04:00:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1VwZjVURzc1MTR0ZjlLWnYtZ1JrLVNxWDBZdFZBeWdpbG9HTUVXXzZHSXQwa3AwNDlpLUxfVXUxaFk0NEowYjU0dGp2cURRMDZzUENGSnIxa3lab0h1eHdMMmpvdFJZUFc4d2FkbkdxMzAwaXFQZ0drazUybFl2dUZyaDE?oc=5\" target=\"_blank\">Donald Trump rages as Supreme Court appointees fail to do his bidding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Financial Times",
-      "source_cn": "金融时报",
-      "title": "Putin’s nuclear threats no longer work - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd085enNkbkFTbldrOTNhYk1SSHVRVDBmanhQTU16d1QtUmJseDlHbm5EMDN0bmZDd2xsZW9sM0NzQ2pOVTBZSUNwYlQtOVk0ZXhodUlrYjAwZkw5cEg0MmVTcVNUbTNtSWt0R1RjODZ0SG1TMi1VQjZqWkpxWWNjLXh4S3Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 11:38:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQd085enNkbkFTbldrOTNhYk1SSHVRVDBmanhQTU16d1QtUmJseDlHbm5EMDN0bmZDd2xsZW9sM0NzQ2pOVTBZSUNwYlQtOVk0ZXhodUlrYjAwZkw5cEg0MmVTcVNUbTNtSWt0R1RjODZ0SG1TMi1VQjZqWkpxWWNjLXh4S3Y?oc=5\" target=\"_blank\">Putin’s nuclear threats no longer work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "source": "Reuters",
+      "source_cn": "路透社",
+      "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Tue, 06 Oct 2026 00:39:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5\" target=\"_blank\">Oil gains as traders weigh Gulf tensions against strong Mideast exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkFydDJJNnFHa29fNkJZdjJPNzB5WU13Q2Y1a3NuMEZsTjF2MTZMY3JMZE5ZMHJzMU1DMWxJd19yMGdTX2dGQjVtSU1aVmI2cndhd3p3N04xRWhrREtFTTF4akUyNHU1NXdQdUVCQ0dWVEY2Z3lySmotUEhhbGE5UktrVVNvM0xkVHRPVWVGeDk3bG0wN29rNTBibmhKTDM4TE5xZ0dBcEd2V2VyQ1VyRDl3TjZtUTlqR1kwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 17:02:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkFydDJJNnFHa29fNkJZdjJPNzB5WU13Q2Y1a3NuMEZsTjF2MTZMY3JMZE5ZMHJzMU1DMWxJd19yMGdTX2dGQjVtSU1aVmI2cndhd3p3N04xRWhrREtFTTF4akUyNHU1NXdQdUVCQ0dWVEY2Z3lySmotUEhhbGE5UktrVVNvM0xkVHRPVWVGeDk3bG0wN29rNTBibmhKTDM4TE5xZ0dBcEd2V2VyQ1VyRDl3TjZtUTlqR1kwQQ?oc=5\" target=\"_blank\">As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Tue, 06 Oct 2026 02:24:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5\" target=\"_blank\">Google, Constellation near deal for nuclear power, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "French bond contagion fears are rattling the euro - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2I0a3Vldm9aWFp4WTFxOHFSR1lBMVFsYThLV1JqZnF2SWY5anFKZzVPTW9mVWNFUEJQOHRUYjNFOVFsNXBjQ253Y09QdV8tNTVsMGZfejgyb0o0Q09SMUJYQ0hjWm1PbkpHSHRja1VQeFBlZkI5YlhWR1VidVhLQWVob0RKN2ZkSUJ5VThTRTdLcGR0TXR0aXp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 17:27:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2I0a3Vldm9aWFp4WTFxOHFSR1lBMVFsYThLV1JqZnF2SWY5anFKZzVPTW9mVWNFUEJQOHRUYjNFOVFsNXBjQ253Y09QdV8tNTVsMGZfejgyb0o0Q09SMUJYQ0hjWm1PbkpHSHRja1VQeFBlZkI5YlhWR1VidVhLQWVob0RKN2ZkSUJ5VThTRTdLcGR0TXR0aXp3?oc=5\" target=\"_blank\">French bond contagion fears are rattling the euro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Tue, 06 Oct 2026 00:56:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5\" target=\"_blank\">EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Russian attack kills 6 in Ukraine's Kharkiv, shatters residences - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWhndlZITGtvc0VrRjQ1ajNIYzlBY08yRTVDc1hnSm1vNUtmQWxXRnRtOEZnc1JzalQ0QjVickdiOFNaMTVzRjNzal9ZSFlxUk5WaERvQzdlNlRRYWVWTUxKdVEyeV92WWYydlpWLXdQdmg1TnhjQnlJQVlVRjNfbGZRSldBSDl5SnNwVEIzY21mUXV5R1RyV3NHOFlTc3FqbWlwSHBRUFRTSmdnV09ySw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 19:34:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWhndlZITGtvc0VrRjQ1ajNIYzlBY08yRTVDc1hnSm1vNUtmQWxXRnRtOEZnc1JzalQ0QjVickdiOFNaMTVzRjNzal9ZSFlxUk5WaERvQzdlNlRRYWVWTUxKdVEyeV92WWYydlpWLXdQdmg1TnhjQnlJQVlVRjNfbGZRSldBSDl5SnNwVEIzY21mUXV5R1RyV3NHOFlTc3FqbWlwSHBRUFRTSmdnV09ySw?oc=5\" target=\"_blank\">Russian attack kills 6 in Ukraine's Kharkiv, shatters residences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Tue, 06 Oct 2026 02:13:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5\" target=\"_blank\">South Korea's Lee says AI appears to have been used in bank hacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     },
     {
       "source": "Reuters",
       "source_cn": "路透社",
-      "title": "Trump to issue order expanding access to tax-exempt diesel fuel, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjd3MW84djFPbF9ldmFnS0JEVVJjZEFSOElGa0RzZFlxNXVvWGRMRkFOdjFSTXpYQUhzZ0ZrTndlcFVsaGY1LUN1SkFWS3N2N05YbmViMWNzMDZsckpPdDctcjROUGx1cXc5dFFzNGFla0RaTGZQTU9mRlRGTGxRWXBJeW40dW1ZMFFERGNJY1BNUzRVSlo5SDNXSjVvcWFhc1VkLW42WXlBN3ZyeXcxUGZsN09EMEVXd3U5VmFkSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 16:31:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjd3MW84djFPbF9ldmFnS0JEVVJjZEFSOElGa0RzZFlxNXVvWGRMRkFOdjFSTXpYQUhzZ0ZrTndlcFVsaGY1LUN1SkFWS3N2N05YbmViMWNzMDZsckpPdDctcjROUGx1cXc5dFFzNGFla0RaTGZQTU9mRlRGTGxRWXBJeW40dW1ZMFFERGNJY1BNUzRVSlo5SDNXSjVvcWFhc1VkLW42WXlBN3ZyeXcxUGZsN09EMEVXd3U5VmFkSQ?oc=5\" target=\"_blank\">Trump to issue order expanding access to tax-exempt diesel fuel, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "",
-      "content_length": 0
-    },
-    {
-      "source": "Reuters",
-      "source_cn": "路透社",
-      "title": "Meta, TikTok, X challenge UK watchdog over online safety data demands - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzZWa2JOanlQUC1XM2lWd3NaMmtidFV2ckgwWlc5bWlreHdPcDR5NTBMektNSkMyZ01HOVlRX0k2MnhMU0llck56Q2dRM3pXWS1ia3ZmT3haQ1VlLTlJa01leU5NQWZGTHdPWWU3eFhrb1BJZWxPcC1pdEJ4Ql9xU29UODhHNFBQdEZTMFcwYmRwXzRnNFNYWXVUWDNLUkFUXzRRUHV4VzVYYXZBdVNKQTVvdUJ5Zi13MEVxQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "publish_time": "Mon, 05 Oct 2026 15:24:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzZWa2JOanlQUC1XM2lWd3NaMmtidFV2ckgwWlc5bWlreHdPcDR5NTBMektNSkMyZ01HOVlRX0k2MnhMU0llck56Q2dRM3pXWS1ia3ZmT3haQ1VlLTlJa01leU5NQWZGTHdPWWU3eFhrb1BJZWxPcC1pdEJ4Ql9xU29UODhHNFBQdEZTMFcwYmRwXzRnNFNYWXVUWDNLUkFUXzRRUHV4VzVYYXZBdVNKQTVvdUJ5Zi13MEVxQw?oc=5\" target=\"_blank\">Meta, TikTok, X challenge UK watchdog over online safety data demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "publish_time": "Tue, 06 Oct 2026 01:14:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5\" target=\"_blank\">Euro faces political, fiscal reckoning as it hovers near 17-month low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "content": "",
       "content_length": 0
     }
