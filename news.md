@@ -1,60 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-10-06 05:49:23
+更新时间：2026-10-06 18:10:21
 
-## Full Interview: Why Ray Dalio Sees Risk of US Debt Crisis
+## Ships Take Long Way Around as Drought Snarls Panama Canal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-06/dalio-sees-possibility-of-us-debt-crisis-within-3-years-video
+链接：https://www.bloomberg.com/news/articles/2026-10-06/ships-take-long-way-around-as-drought-snarls-panama-canal
 
 正文长度：0
 
-摘要：Bridgewater Associates Founder Ray Dalio says he sees the possibility of a US debt crisis within three years. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
+摘要：Maritime traffic through the Strait of Magellan jumped more than 70% both in August and September from year-ago levels as ships diverted from the drought-stricken Panama Canal, Chilean Navy data requested by Bloomberg show.
 
 
 ---
 
-## Firmus Stock Overhang Said to Make Some Investors Wary on IPO
+## US Treasuries Yields Fall From 2002 High as Oil Prices Dip
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-06/firmus-stock-overhang-said-to-make-some-investors-wary-on-ipo
+链接：https://www.bloomberg.com/news/articles/2026-10-06/us-yields-fall-from-2002-high-as-oil-dips-bessent-vows-on-debt
 
 正文长度：0
 
-摘要：Some potential investors are turning more cautious on the blockbuster initial public offering of data center firm Firmus Grid Ltd. as they worry about existing shareholders potentially flooding the market soon after the company’s debut, according to people familiar with the matter.
+摘要：US bond yields fell from their highest levels since 2002 as oil prices stabilized and Treasury Secretary Scott Bessent insisted the government’s debt load can be tamed.
 
 
 ---
 
-## Ireland Faces Pressure to Spend Tax Windfall in Budget to Help Voters
+## Florida’s Troubled Public Schools Load Up on Debt to Pay Bills
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-06/ireland-faces-pressure-to-spend-tax-windfall-in-budget-to-help-voters
+链接：https://www.bloomberg.com/news/articles/2026-10-06/florida-s-troubled-public-schools-load-up-on-debt-to-pay-bills
 
 正文长度：0
 
-摘要：Ireland’s government has an enviable budget surplus, and voters want those funds used to help them with soaring energy costs and a cost-of-living squeeze.
+摘要：Florida’s public schools are borrowing to pay their bills at the highest level on record as enrollment declines put pressure on their budgets.
 
 
 ---
 
-## How Total Return Swaps Pile on Risk For Bondholders
+## Emerging-Market Assets Extend Gains as US Yields Decline
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-06/how-total-return-swaps-pile-on-risk-for-bondholders
+链接：https://www.bloomberg.com/news/articles/2026-10-06/emerging-markets-gain-as-oil-drop-brazil-vote-boost-sentiment
 
 正文长度：0
 
-摘要：Some governments in need of money have been turning to an obscure financial product typically used by hedge funds, exposing bond investors to new risks.
+摘要：Emerging-market assets extended their gains as a combination of lower US bond yields, a weaker dollar and relatively steady oil prices provide relief to global markets.
 
 
 ---
 
-## S&P 500 Closes In on Record High as Tech Rallies: Markets Wrap
+## S&P 500 Climbs to Record High on Earnings Optimism: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +62,94 @@
 
 正文长度：0
 
-摘要：Global stocks edged toward record highs as investors shrugged off concerns about elevated oil prices and bond yields near multi-decade highs.
+摘要：Wall Street traders drove stocks to all-time highs on growing bets that Corporate America will be able to weather the threats from still-elevated energy costs and interest rates.
+
+
+---
+
+## British Airways plans record 106-seat business class on Airbus A380 jumbo jets
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html
+
+正文长度：1928
+
+摘要：British Airways is ripping out coach-class seats and building a giant premium economy and business class in a bet on the high-end travel boom.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> British Airways is building what it calls the "world's largest" business-class cabin and ripping out dozens of coach-class seats, the starkest example yet of how airlines are betting their future on high-spending travelers.
+The changes are part of a massive overhaul of the British Airways fleet and its ground services, including lounges at its London Heathrow hub.
+Here's what's changing:
+- British Airways will outfit its Airbus A380, the world's largest passenger plane, with a monster 106-seat business-class cabin, up from the current configuration of 97 business-class seats.
+- First class will also be refreshed and will include 12 suites, down from the current A380 configuration of 14.
+- Premium economy class will grow to 84 seats from 55.
+- Standard economy seats will shrink to just 215 from 303.
+Airlines have been spending years and hundreds of millions of dollars to expand their pricier seats, capitalizing on demand for roomier options and travelers' appetite for more luxurious trips.
+British Airways' joint-venture partner, American Airlines, last month debuted a 70-seat business class on its largest Boeing aircraft.
+Those more expensive seats command a premium. Even extra legroom on trips across the Atlantic can go for more than $200 per leg, with surcharges of more than $1,000 for premium economy seats after purchase.
+The prices can be even higher if they're selected at booking. The top-end seats regularly run $5,000 and even well over $10,000 on lengthier flights.
+Deliveries of new aircraft have even been delayed because some of the new seats are so elaborate that carriers have been waiting for parts or federal certification.
+British Airways' overhaul of the cabins on its 12 A380s is also a bet on the jumbo jet, which many carriers have retired in recent years, opting for smaller, more fuel-efficient jets. Airbus delivered the last A380 to the plane's largest user, Emirates, in late 2021.
+
+</details>
+
+
+---
+
+## Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html
+
+正文长度：8264
+
+摘要：Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> It's been just over a year since Paramount Skydance set out to buy one of Hollywood's most iconic institutions.
+After repeated rejections, a subsequent bidding war, a series of regulatory approvals, an antitrust challenge by state attorneys general and a timely settlement, the David Ellison-run company completed its acquisition of Warner Bros. Discovery on Tuesday.
+The combined company, what amounts to one of the largest media conglomerates in history, is newly named Skydance and trades under the ticker symbol "SKYD." It brings together two of the most storied film studios and nearly one-third of basic cable programming.
+Here's a timeline of key events in Paramount's pursuit of WBD:
+The foundation is laid
+June 9, 2025: Warner Bros. Discovery announces its plan to split into two public companies: a streaming and studios company and a global networks company. The plan to separate WBD's movie properties and streaming platform from its cable channels comes as media companies grapple with how to maintain profitability in the face of declining linear viewership and a broad shift to streaming.
+Aug. 7, 2025: Paramount closes its long-awaited merger with Skydance, the company founded by Ellison, a tech executive and the son of Oracle co-founder Larry Ellison. Within days, newly installed CEO David Ellison buys the multiyear rights for TKO Group's UFC in a $7.7 billion deal. Within a month, Ellison acquires the rights to produce a film based on the Call of Duty video game franchise and signs a multiyear deal with "Stranger Things" creators the Duffer Brothers. The series of investments fits into Ellison's plan to "define the next era of entertainment," a strategy he outlines in a letter to shareholders.
+Competition brews
+Sept. 11, 2025: CNBC reports that Paramount is preparing a bid for Warner Bros. Discovery. Shares of both companies jump on the day of the news, and WBD shares notch their best day ever to that point.
+Late September and early October 2025: Warner Bros. Discovery rejects three takeover bids from Paramount Skydance. Paramount's third bid is for slightly less than $24 per share and 80% cash, CNBC reports at the time. In a letter to WBD's board dated Oct. 13, Paramount lays out how its offer delivers "superior value" for shareholders over plans to split the company into two separate entities.
+Oct. 21, 2025: Warner Bros. Discovery says it is open to a sale after receiving "unsolicited interest" from multiple parties. CNBC reports that Netflix and Comcast are among the interested suitors. WBD says it will continue to plan for the split while conducting a "strategic review."
+Mid-November 2025: Comcast, Netflix and Paramount submit formal takeover bids for Warner Bros. Discovery. Offers from Comcast and Netflix are for the company's film and streaming assets, namely Warner Bros. studio and HBO Max. Paramount Skydance's bid is for the entirety of WBD, including its linear TV networks.
+Deals get done
+Dec. 5, 2025: Netflix announces it has reached a deal to acquire Warner Bros. Discovery's film and streaming assets in a deal worth nearly $83 billion on an enterprise basis. WBD says it will spin off its TV networks, including TNT and CNN, into Discovery Global, in line with its plan from June. Before the deal is officially announced, attorneys from Paramount Skydance pen a letter to WBD CEO David Zaslav questioning the "fairness and adequacy" of the sale process and accusing WBD of favoring Netflix.
+Dec. 8, 2025: Paramount Skydance launches a hostile bid for the entirety of Warner Bros. Discovery, seeking to upend the Netflix agreement. Paramount announces that it will go straight to WBD shareholders with an all-cash, $30-per-share offer. "We're really here to finish what we started," Ellison tells CNBC's "Squawk on the Street" in announcing Paramount's plan. "We put the company in play."
+Jan. 7, 2026: Warner Bros. Discovery rejects Paramount's offer again, doubling down on its deal with Netflix. Despite a guarantee in late December that billionaire Larry Ellison will backstop the financing of the Paramount-WBD deal, the Warner Bros. Discovery board unanimously recommends that shareholders reject the takeover bid from Paramount.
+Jan. 12, 2026: Paramount sues Warner Bros. Discovery and Zaslav. The lawsuit asks the court to direct WBD to provide more transparent information on how the company decided to strike an agreement with Netflix instead of Paramount.
+Jan. 20, 2026: Netflix amends its offer for assets from Warner Bros. Discovery to an all-cash deal. The new bid would see Netflix pay $27.75 per WBD share in cash instead of through a combination of cash and stock.
+Feb. 10, 2026: Paramount adds additional incentives to its bid for WBD but maintains its offer from December of $30 per share, in cash. The new offer includes the introduction of a "ticking fee" due to WBD shareholders in the event a Paramount-WBD deal is delayed in receiving regulatory approval. The offer also includes an agreement to pay the $2.8 billion breakup fee that will be owed to Netflix if that deal does not go through.
+Feb. 17, 2026: Netflix grants WBD a seven-day waiver to reopen deal talks with Paramount.
+Feb. 24, 2026: WBD says Paramount has increased its offer to $31 per share in cash.
+Feb. 26, 2026: Netflix's deal for Warner Bros. Discovery falls through after the company declines to match Paramount's $31-per-share offer.
+Feb. 27, 2026: With the road clear after Netflix's withdrawal, Paramount Skydance and Warner Bros. Discovery enter a definitive merger agreement.
+April 23, 2026: Warner Bros. Discovery shareholders approve Paramount's acquisition of the company.
+Securing regulatory approval
+June 12, 2026: The Department of Justice approves the Paramount-WBD merger, a crucial step in winning full regulatory approval for the deal, which is valued at an estimated $110 billion on an enterprise basis.
+July 13, 2026: A group of state attorneys general, led by California's Rob Bonta, sues to block the merger over antitrust concerns. The lawsuit cites the potential for higher prices and lower-quality content if the merger goes through.
+July 22, 2026: European Union antitrust regulators approve Paramount's acquisition of WBD, marking a major win for Paramount among global regulators. The approval relies on a few concessions: Paramount agrees to divest its stake in United International Pictures in Europe and promises not to enter film distribution deals with Universal in Europe for a period of 10 years.
+July 24, 2026: Paramount, already facing a temporary restraining order on the deal, agrees to delay its closing to as late as June 2027. The threat of a lengthy delay leaves WBD in limbo and casts a brief chilling effect over media M&A more broadly.
+Sept. 21, 2026: Paramount and the state attorneys general settle the lawsuit, allowing the merger between the media giants to move forward. The news comes less than two weeks before the ticking fee would kick in and raise the deal price. The settlement includes a series of stipulations related to the number of theatrical films the combined company will release per year and the required budget for those films.
+On the precipice
+Sept. 30, 2026: With the final hurdle cleared, Paramount announces that outgoing Mattel CEO Ynon Kreiz will serve as co-CEO of the combined company alongside Ellison. At Mattel, Kreiz earned a reputation as a turnaround man and oversaw the toymaker's foray into entertainment, bringing Barbie to the big screen in 2023.
+Oct. 2, 2026: Ellison announces that the combined company will be named Skydance after closing, saying the move will allow Paramount and Warner Bros. to remain distinct brands.
+Oct. 5, 2026: Ellison and Kreiz announce their leadership team, including news leads Bari Weiss and Mark Thompson over CBS and CNN, respectively, and content heads Casey Bloys, George Cheeks and JB Perrette to oversee the streaming and TV businesses. CNBC reports CBS Sports chief David Berson will take over Skydance's global sports group.
+Oct. 6, 2026: Paramount's acquisition of Warner Bros. Discovery closes, officially creating a new entertainment company, Skydance.
+— CNBC's Julia Boorstin, David Faber, Lillian Rizzo, Sara Salinas, Alex Sherman and Sarah Whitten contributed to this report.
+
+</details>
 
 
 ---
@@ -135,7 +222,7 @@ He said about 20% of the investment in the site is going toward robotics and AI.
 
 链接：https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html
 
-正文长度：1083
+正文长度：1134
 
 摘要：Holiday airplane tickets are up more than 23% this year, according to Hopper.
 
@@ -143,7 +230,7 @@ He said about 20% of the investment in the site is going toward robotics and AI.
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
 > How much is domestic airfare this fall? It depends where you're flying and when.
-Thanksgiving fares are up more than 30% this year over last as airlines pass more of this year's surge in jet fuel prices along to customers, according to a tally of "good deal" fares from flight-tracking site Hopper. But there are some bargains outside of that period for certain routes, while others are sky-high.
+Thanksgiving fares are up more than 30% this year over last, while holiday fares overall are up more than 23%, as airlines pass more of this year's surge in jet fuel prices along to customers, according to a tally of "good deal" fares from flight-tracking site Hopper. But there are some bargains outside of that period for certain routes, while others are sky-high.
 The cheapest flights in November include routes between Atlanta, the world's busiest airport, and various Midwest and Southeastern cities. Others are short trips, like intra-island Hawaii flying or within Florida.
 But the length of the flight alone doesn't dictate the price. Routes from Nantucket and Martha's Vineyard off the coast of Cape Cod, Massachusetts, to New York and Washington, D.C., are among the priciest.
 Trips originating in remote Alaska bound for the East Coast take the cake for most expensive flights. While it's an oil-producing state, it imports a significant amount of jet fuel and other refined products.
@@ -154,210 +241,132 @@ Here's how the cheapest and most expensive routes ranked:
 
 ---
 
-## David Ellison and Ynon Kreiz announce Skydance leadership team
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html
-
-正文长度：2000
-
-摘要：The leadership team for Skydance, the merged entity of Paramount Skydance and Warner Bros. Discovery, will include Bari Weiss, Mark Thompson and Casey Bloys.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Paramount Skydance CEO David Ellison and incoming co-CEO Ynon Kreiz on Monday announced the executives who will help lead Skydance, the soon-to-be merged Paramount Skydance and Warner Bros. Discovery, after the deal closes on Tuesday.
-The full leadership team brings together executives from both companies and will report to Ellison and Kreiz, according to a news release.
-Bari Weiss, editor-in-chief of CBS News, and Mark Thompson, chairman and editor-in-chief of CNN Worldwide, will remain in their roles and lead the company's news divisions after the merger is completed.
-Weiss joined Paramount Skydance in October 2025 when the company bought digital news outlet The Free Press, which she founded.
-Casey Bloys, currently chairman and CEO of HBO and Max content for WBD, will serve as co-chair and chief content officer of Skydance's direct-to-consumer division, overseeing the HBO Max and Paramount+ streaming businesses, while George Cheeks, formerly a co-CEO of Paramount, will serve as co-chair and chief content officer of Skydance TV, which includes the company's global sports group.
-JB Perrette, who most recently served as CEO and President of global streaming and games for Warner Bros. Discovery, will co-chair both divisions alongside Bloys and Cheeks.
-Paramount Chief Strategy Officer and Chief Operating Officer Andy Gordon will become president of Skydance. Chief Financial Officer Dennis Cinelli will stay in his role.
-"The leaders joining me have built some of the most beloved franchises and businesses in the industry, and they share a deep respect for the creative process and a belief that great stories have the power to entertain, unite and inspire audiences around the world," Ellison said in the release.
-Paramount Skydance and Warner Bros. Discovery announced the approximately $110 billion merger agreement in February. After settling a lawsuit from a group of state attorneys general last month, the companies announced last week that the deal would close on Tuesday.
-
-</details>
-
-
----
-
-## GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html
-
-正文长度：6584
-
-摘要：Hybrids are growing in popularity, as sales of the vehicles keep climbing.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.
-Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.
-"It's fair to say that [hybrids are] part of the plan," Anderson, a 35-year GM veteran, told CNBC during an interview. "We're not tone deaf to our customers. We know what they want and we want to give that to them as quickly as we can."
-GM has largely been absent from the hybrid market this decade, instead using its resources to go "all-in" on all-electric vehicles. But amid lackluster EV demand, industry deregulation and increased hybrid popularity, Anderson said the company needs to meet customer demand wherever it may be.
-"Our long-term vision is an all-electric future. That's our goal," Anderson said. "That's the end state, but it's going to be a journey that involves technology diversity."
-GM CEO Mary Barra in January said the automaker was still studying plug-in hybrid electric vehicles, or PHEVs, for its U.S. lineup as well as traditional hybrids but remained critical of the technologies. She also told Bloomberg later that month that a "handful" of such models were coming but did not give a timeline.
-In mid-2024, GM announced plans to introduce PHEVs by 2027. At that time, GM was under pressure to meet stricter federal tailpipe emissions standards that have since been lowered or eliminated by the Trump administration.
-AutoForecast Solutions, an automotive data and consulting firm, expects GM to begin offering PHEVs in late 2027 to early 2028 with a 70-mile EV range "throughout its portfolio," according to Casey Selecman, director of powertrain forecasts for the company.
-"GM has several PHEVs planned throughout the portfolio from the Equinox to the Silverado but has been very cautious in rolling them out due to fears of customer technology preference changes that have burned them in the past," he said.
-Anderson declined to discuss potential products or timing for GM's first new hybrid model.
-"You can see, without me saying what our future plans are, where the customers are clamoring for these things and really, really going for them," he said. "We want to meet them where they want things."
-Sales of hybrid models in the U.S. have jumped amid dimming EV demand, inflated gas prices and more offerings in the market, which GM has been missing out on.
-Cox Automotive reports hybrid vehicle sales from the second quarter of this year increased 23% from a year earlier to represent a record 16.3% of U.S. sales from April through June. That compares with roughly 5.8% of sales for EVs, Cox said.
-The automotive industry has more powertrain and "propulsion" options than ever before. Here's a breakdown:
-- Internal combustion engine (ICE): A "traditional" vehicle with an engine that's fueled with gasoline or diesel.
-- Mild-hybrid electric vehicle (MHEV): An ICE vehicle that functions largely like a nonhybrid vehicle but may include minimal electrified features such as a small battery, regenerative braking or electric motor.
-- Hybrid electric vehicle (HEV): Think of the Toyota Prius, a vehicle that has a hybrid powertrain system combined with an engine.
-- Plug-in hybrid electric vehicle (PHEV): These vehicles feature an internal combustion engine combined with a hybrid system, including a larger battery than traditional hybrid vehicles as well as a plug to recharge the vehicle's battery. They typically allow drivers to travel a certain number of miles using the battery before the engine is needed to power the car or truck.
-- Battery-electric vehicle (BEV): These all-electric vehicles do not feature an internal combustion engine. Instead, they contain an electric motor that's powered by a large battery. They need to be recharged using an electrical outlet and charging port or charging station.
-- Fuel cell electric vehicle (FCEV): Hydrogen fuel cell electric vehicles and equipment operate much like BEVs but are powered by electricity generated from hydrogen and oxygen instead of pure batteries, which commonly include lithium. They're filled up with a nozzle, similar to traditional gas and diesel vehicles.
-- Extended-range electric vehicles (EREV): These are an emerging technology that largely function as a PHEV, however after the battery runs out of energy to power the vehicle, an engine works as a generator to exclusively power electric motors. The vehicle still drives like an EV instead of having the engine directly power the vehicle's motion.
-There are a growing number of hybrid variants being introduced by automakers but, in general, those vehicles combine a traditional gas-powered engine with electric motors and a battery to offer better fuel economy and, in many cases, better performance.
-The fastest-growing segments for hybrids in the U.S. are compact crossover/SUV and mid-size vehicles, according to Cox.
-"Hybrid vehicles continue to be the clearest growth story in the electrified market," Stephanie Valdez Streaty, Cox director of industry insights, said during a presentation last week.
-There are currently a few types of hybrids available in the U.S. Traditional hybrids, like a Toyota Prius, feature many electrified engine technologies, while PHEVs have a designated all-electric range before using an engine to power the vehicle.
-Then there are extended-range electric vehicles, or "series hybrids," that drive like an EV but have an engine that essentially operates like a generator to power electric motors to propel a vehicle.
-The combination of two powertrains adds additional complexity and costs, which has been an argument GM has made against hybrids, but it's something many consumers appear willing to pay for as hybrid sales continue to rise.
-GM currently offers only one hybrid, a model of its Chevrolet Corvette. The Detroit automaker's last true push into hybrids was the Chevrolet Volt plug-in, which was discontinued in 2019.
-GM's crosstown rivals, Ford Motor and Chrysler parent Stellantis, have leaned on suppliers to get hybrid vehicles to market more quickly.
-Anderson said GM's strategy "will be a mix" of internal and external technologies based on cost, segment and product.
-"We're deliberate because, usually for strategic reasons, we need to control our own destiny. We need to control our own timing," he said. "Or, if it's commodity, go get it. Go get the best price you can."
-
-</details>
-
-
----
-
-## McKesson and CD&R near $5bn-plus deal to buy infusion services provider - Financial Times
+## FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVU4a0NOelNfRmlBeVNlbFBVUWloMG5MZXBRN01sU1BtNVh0UWZGbGZiaVpyWmNUNThCMHlsYm9aUWNTQTZhRHhmNzRXVUNPOFVmVm42ZnlLejBDVXVtVDdGY0IxTGNGdUU2MnZOUk1kU0lhS2hNS3NoQWkxaC1oYzJWV0g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaURKTTQ4b2doSnpWWV9ycW9USXBrXzNKeG1JMklCNUQxZnQtSXcwWFdOX3FER2pHazJUY0Z6MEgzVGdMQ3hXZ09pYjZySzJPRGF4OFEwQjhlSGEtRjNHOTExUlZfWjB3VFBVa2tISS1qTWZxb2YwSThRaTAyYVZQRHo1ZjI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVU4a0NOelNfRmlBeVNlbFBVUWloMG5MZXBRN01sU1BtNVh0UWZGbGZiaVpyWmNUNThCMHlsYm9aUWNTQTZhRHhmNzRXVUNPOFVmVm42ZnlLejBDVXVtVDdGY0IxTGNGdUU2MnZOUk1kU0lhS2hNS3NoQWkxaC1oYzJWV0g?oc=5" target="_blank">McKesson and CD&amp;R near $5bn-plus deal to buy infusion services provider</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaURKTTQ4b2doSnpWWV9ycW9USXBrXzNKeG1JMklCNUQxZnQtSXcwWFdOX3FER2pHazJUY0Z6MEgzVGdMQ3hXZ09pYjZySzJPRGF4OFEwQjhlSGEtRjNHOTExUlZfWjB3VFBVa2tISS1qTWZxb2YwSThRaTAyYVZQRHo1ZjI?oc=5" target="_blank">FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US ‘monitoring’ situation around suspected case of plague in Russia - Financial Times
+## Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOclVqdmNYNi1MSmxqWVJ5MDIyMTNNN3VsVDBXb2x4eXpCMktVUG9mbGZTcmMyVV9tcWllYmh6RjVCc0Y4WHJlMS1xVFM1N2g5TnE5Y0tCVDRPX3R3bnBqa2VTNVhtRUQtaFktdWZOaE5ZWlptamhJNDl2TU5POUxnekJzR0c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOclVqdmNYNi1MSmxqWVJ5MDIyMTNNN3VsVDBXb2x4eXpCMktVUG9mbGZTcmMyVV9tcWllYmh6RjVCc0Y4WHJlMS1xVFM1N2g5TnE5Y0tCVDRPX3R3bnBqa2VTNVhtRUQtaFktdWZOaE5ZWlptamhJNDl2TU5POUxnekJzR0c?oc=5" target="_blank">US ‘monitoring’ situation around suspected case of plague in Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5" target="_blank">Insurance claims to test Altman and Amodei liability for ‘rogue’ AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Germany and France agree on last-resort tool against trade threats - Financial Times
+## Silicon Valley thinks AI will kill jobs. Economists are not convinced - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2toeXFtRk9JRHpUb2pXbmRQTEhQcHdjaGUwenppc0MxRHpOamZiYXA2ZTFKTkhPSGdINFdZc3BEVkYwbFkzQWttamkwMkxDeHpkWFpKSDQxbEFZNWJiYXJkYTFKZjI1bGZnQlVuOXJ6clNSeXQydTA0cDZPMDVZZ1VkeW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHRrV2xZcjAyZmFfc3lnOHBudFBkb01ZRm8zbWw3NV9xY0N5ZlJaTUhDbV8zOGtaWDRHeU9YaDg1dnlsVlF1Rk1DRTJTZWJzU1JlbDhmOGdSRnprQ2Vtc2VaRTlnMl95VmJXcllSZkRtUlA3ZDZVY09PNjMtN2x4Tmg5RGQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2toeXFtRk9JRHpUb2pXbmRQTEhQcHdjaGUwenppc0MxRHpOamZiYXA2ZTFKTkhPSGdINFdZc3BEVkYwbFkzQWttamkwMkxDeHpkWFpKSDQxbEFZNWJiYXJkYTFKZjI1bGZnQlVuOXJ6clNSeXQydTA0cDZPMDVZZ1VkeW8?oc=5" target="_blank">Germany and France agree on last-resort tool against trade threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHRrV2xZcjAyZmFfc3lnOHBudFBkb01ZRm8zbWw3NV9xY0N5ZlJaTUhDbV8zOGtaWDRHeU9YaDg1dnlsVlF1Rk1DRTJTZWJzU1JlbDhmOGdSRnprQ2Vtc2VaRTlnMl95VmJXcllSZkRtUlA3ZDZVY09PNjMtN2x4Tmg5RGQ?oc=5" target="_blank">Silicon Valley thinks AI will kill jobs. Economists are not convinced</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The dangerous myth behind AI agent hacks - Financial Times
+## AI models used in bank cyber attacks, warns South Korea’s president - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtJVDNxaldQMWl4Q2FFMDJSallVSkk0UTJPLURfTEdOR2Zvb0t2VzljTDc4WGswM3RTZGlTaFFoYm9LMVVYZVQxUXk5emVNa3dyYjRRc2FYTHRyWU1QZmYtcVhZWDBVZlJrZGpWV1ZlT3pXeHlST1k0MERhOVJONGxmQVc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ?oc=5" target="_blank">The dangerous myth behind AI agent hacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtJVDNxaldQMWl4Q2FFMDJSallVSkk0UTJPLURfTEdOR2Zvb0t2VzljTDc4WGswM3RTZGlTaFFoYm9LMVVYZVQxUXk5emVNa3dyYjRRc2FYTHRyWU1QZmYtcVhZWDBVZlJrZGpWV1ZlT3pXeHlST1k0MERhOVJONGxmQVc?oc=5" target="_blank">AI models used in bank cyber attacks, warns South Korea’s president</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’ - Financial Times
+## Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0p3T2MyTWVSZThSUEpRWDVualFSSTRveHJMUDBiSnBydm4zSkp6WjJDdGNEZHRUQ2lOZW41c3d0eE5FZXRZb3NNX0NBX1VpVndsNzVKUk1pWXFsTWc0MjV0Z3lqdDdJS1lkVmctUFZZemZlamIyMktoUy01dEFqYk1wRGU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0p3T2MyTWVSZThSUEpRWDVualFSSTRveHJMUDBiSnBydm4zSkp6WjJDdGNEZHRUQ2lOZW41c3d0eE5FZXRZb3NNX0NBX1VpVndsNzVKUk1pWXFsTWc0MjV0Z3lqdDdJS1lkVmctUFZZemZlamIyMktoUy01dEFqYk1wRGU?oc=5" target="_blank">Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA?oc=5" target="_blank">Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil gains as traders weigh Gulf tensions against strong Mideast exports - Reuters
+## EXCLUSIVE: China plans late entry into WHO leadership race, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkRieWJvclpiRUFlZFdteTRvYWJYRS13aHQ4NHp5QnpGbDBmV2x1MkJPWEZmclJrdnVyczVIakxaRTRKbDhjU0NTaERGVW42YjVSendveEMwd01KTEFORUNPd0w2VHE5MnoyaF9oTkljbzRyeTdQMXpwb0YwcU1YNi0tV2wzWV9qdEw5MUhPaExWZ3c4NkVldHNlSGFYZy1sd210U1BSN2xqQnhoY2psQ3VLUmNwZzN5bnA1UXpJR09zaEdWRUY0aWRDQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5" target="_blank">Oil gains as traders weigh Gulf tensions against strong Mideast exports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkRieWJvclpiRUFlZFdteTRvYWJYRS13aHQ4NHp5QnpGbDBmV2x1MkJPWEZmclJrdnVyczVIakxaRTRKbDhjU0NTaERGVW42YjVSendveEMwd01KTEFORUNPd0w2VHE5MnoyaF9oTkljbzRyeTdQMXpwb0YwcU1YNi0tV2wzWV9qdEw5MUhPaExWZ3c4NkVldHNlSGFYZy1sd210U1BSN2xqQnhoY2psQ3VLUmNwZzN5bnA1UXpJR09zaEdWRUY0aWRDQQ?oc=5" target="_blank">EXCLUSIVE: China plans late entry into WHO leadership race, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Google, Constellation near deal for nuclear power, Bloomberg News reports - Reuters
+## Iran drone plot fears led US to remove bombers from UK base, US officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmxrT2JGb1p3OXBWNFN3Y195SFBkc3JnNFZ5ODBuWVRCT3RUUGt1WE5wVkFVano3TkQtaU5EbUNtQ3J5aUR0OUNWU3hIM2RNLV90emJQNUU4T29oeno3UzZ4Ymd5RWRhd3FoZmZoN2NEZDZXWF8xajRGZ3ZoWS1LVmI1Z2o1aVBadmhYeXNGQ1NHUTExY3BldDgxSGwwb01fZ3JybVhnb3R0UUZ6YVhhSmFEcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5" target="_blank">Google, Constellation near deal for nuclear power, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmxrT2JGb1p3OXBWNFN3Y195SFBkc3JnNFZ5ODBuWVRCT3RUUGt1WE5wVkFVano3TkQtaU5EbUNtQ3J5aUR0OUNWU3hIM2RNLV90emJQNUU4T29oeno3UzZ4Ymd5RWRhd3FoZmZoN2NEZDZXWF8xajRGZ3ZoWS1LVmI1Z2o1aVBadmhYeXNGQ1NHUTExY3BldDgxSGwwb01fZ3JybVhnb3R0UUZ6YVhhSmFEcw?oc=5" target="_blank">Iran drone plot fears led US to remove bombers from UK base, US officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say - Reuters
+## Belgian strike prompts flight cancellations at Brussels Airport on Friday - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUIzWUJBT0luWGp4S1hSaGQ1S2xaaU5KbmM5bmFkWXlEUno0WkFWcTZ2Y0FtbFMyc1Q1eTFMQ1Z0T3RtOWxfM2ktTjhZbGhqM1V3VnJEQVNydFBncVNPQm5nZ0dCU3N1MjI4NnVrMWhZRzlvRHZVQW9CUURSN2FmN0QxSGtOUHNsTmgwaFVSalppVkFYb2N4YTRtRF8yWlg1eU5ObkZxeV9MclhnZFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5" target="_blank">EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUIzWUJBT0luWGp4S1hSaGQ1S2xaaU5KbmM5bmFkWXlEUno0WkFWcTZ2Y0FtbFMyc1Q1eTFMQ1Z0T3RtOWxfM2ktTjhZbGhqM1V3VnJEQVNydFBncVNPQm5nZ0dCU3N1MjI4NnVrMWhZRzlvRHZVQW9CUURSN2FmN0QxSGtOUHNsTmgwaFVSalppVkFYb2N4YTRtRF8yWlg1eU5ObkZxeV9MclhnZFE?oc=5" target="_blank">Belgian strike prompts flight cancellations at Brussels Airport on Friday</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Korea's Lee says AI appears to have been used in bank hacks - Reuters
+## Hungary government proposes wealth tax on ultra-rich - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3UwWjM5RUcwa3NfTzJGbDllVkMzdlJlTFBOMHJNTi1Rdk4telg3aFJZZk8zOE1zUTJtZHI5TVQ5RTlqc190dVFxTm1uVFdzSEFVR3RaNWlHVjA0amZpOW1sd3RESjBpSTU2U0hJTWdSQ1BmZVAzckU0Y1I3WkJud1Bfby12MkdBUWJ6S3FKazJJb2ljRUNSdmxR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5" target="_blank">South Korea's Lee says AI appears to have been used in bank hacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3UwWjM5RUcwa3NfTzJGbDllVkMzdlJlTFBOMHJNTi1Rdk4telg3aFJZZk8zOE1zUTJtZHI5TVQ5RTlqc190dVFxTm1uVFdzSEFVR3RaNWlHVjA0amZpOW1sd3RESjBpSTU2U0hJTWdSQ1BmZVAzckU0Y1I3WkJud1Bfby12MkdBUWJ6S3FKazJJb2ljRUNSdmxR?oc=5" target="_blank">Hungary government proposes wealth tax on ultra-rich</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Euro faces political, fiscal reckoning as it hovers near 17-month low - Reuters
+## Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5" target="_blank">Euro faces political, fiscal reckoning as it hovers near 17-month low</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5" target="_blank">Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
