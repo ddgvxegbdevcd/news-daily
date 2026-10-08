@@ -1,68 +1,223 @@
 # 每日财经新闻
 
-更新时间：2026-10-08 05:30:30
+更新时间：2026-10-08 18:42:03
 
-## AI Squeezes Tech Grads at India’s Banking Hubs
+## LA, Florida Schools Face Budget Pressures
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-08/ai-squeezes-tech-grads-at-india-s-banking-hubs-video
+链接：https://www.bloomberg.com/news/videos/2026-10-08/la-florida-schools-face-budget-pressures-video
 
 正文长度：0
 
-摘要：AI is reshaping India’s six-million-strong IT workforce, slowing entry-level hiring at global capability centers and shifting demand toward workers who can deploy the technology and understand the business. Siddhi Nayak explains. (Source: Bloomberg)
+摘要：Bloomberg's Claire Ballentine and Erin Hudson join Scarlet Fu on "Bloomberg Real Yield." The Los Angeles Unified School District has a high fiscal solvency risk level as its years long enrollment decline continues and Florida’s public schools are borrowing to pay their bills at the highest level on record. (Source: Bloomberg)
 
 
 ---
 
-## Latest Oil Market News and Analysis for Oct. 8
+## Private Credit Firms See Rare Growth Shortcut With BDCs for Sale
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date
+链接：https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale
 
 正文长度：0
 
-摘要：Oil gained after a report that the White House asked the Pentagon to draw up strike options against Iran that could be executed before the midterm elections, and as a hurricane forced some US output to shut.
+摘要：Private credit managers increasingly looking to offload battered funds are drawing interest from rivals eyeing cheap deals in one of the most turbulent periods for the $1.8 trillion market.
 
 
 ---
 
-## Stocks and Treasuries Decline as Brent Tops $102: Markets Wrap
+## Treasuries Rise as Lofty Yields Lure Demand to 30-Year Sale
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-10-08/longer-dated-treasuries-rise-ahead-of-22-billion-30-year-sale
 
 正文长度：0
 
-摘要：A global stock rally that brought equities within striking distance of an all-time high lost further ground as oil jumped on renewed Middle East tensions, stoking concerns about inflation. Treasuries declined.
+摘要：US Treasuries rose after an auction of 30-year debt drew solid demand as long-dated yields edge away from their highest levels in more than two decades.
 
 
 ---
 
-## Tikehau: Private Markets Entering a More Selective Phase
+## Musalem Signals Fed Rates Should Rise Over Next Six-to-Nine Months
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-08/tikehau-private-markets-entering-a-more-selective-phase-video
+链接：https://www.bloomberg.com/news/videos/2026-10-08/musalem-says-fed-rates-should-rise-over-next-6-9-months-video
 
 正文长度：0
 
-摘要：Tikehau Capital Co-Founder Mathieu Chabran says future performance of private credit and private equity will be driven far more by underwriting discipline, downside protection and operational value creation. He speaks with Paul Allen from the sidelines of '2026 Milken Institute Asia Summit'. (Source: Bloomberg)
+摘要：Federal Reserve Bank of St. Louis President Alberto Musalem signals interest rates should increase over the next six-to-nine months to help inflation return to the central bank’s 2% target. He speaks during an interview with Bloomberg's Michael McKee at the Future of Fixed Income conference in New York. (Source: Bloomberg)
 
 
 ---
 
-## Oasis Urges Nidec to Consider Sale, Warns of Delisting Risk
+## Seeing 'Bond Abundance': BNP Paribas' Robson
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-07/oasis-urges-nidec-to-explore-privatization-on-delisting-risk
+链接：https://www.bloomberg.com/news/videos/2026-10-08/seeing-bond-abundance-bnp-paribas-robson-video
 
 正文长度：0
 
-摘要：Nidec Corp., the embattled Japanese electric motor maker, is being urged to consider putting itself on the auction block by an activist investor, a sign that confidence is waning in management’s ability to recover from a long-simmering accounting scandal.
+摘要：Meghan Robson, head of US credit strategy at BNP Paribas, and Alex Mackey, co-CIO of fixed income for MFS Investment Management, join Scarlet Fu on "Bloomberg Real Yield." (Source: Bloomberg)
+
+
+---
+
+## Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html
+
+正文长度：8948
+
+摘要：Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Starbucks has reportedly explored buying Chipotle Mexican Grill, but investors are split on whether the megadeal would make sense for both companies.
+The coffee giant has been working with advisers on a takeover proposal of the fast-casual chain in recent months, the Financial Times reported on Thursday, citing people familiar with the matter.
+If Starbucks bought Chipotle, it would combine two of the largest U.S. restaurant chains. With about $31 billion in annual domestic sales, Starbucks is the second-biggest U.S. chain by sales. Chipotle sits in the number seven spot, with more than $11 billion in annual system-wide sales in its home market.
+The report sent Chipotle stock up about 7% in afternoon trading, while shares of Starbucks fell roughly 4%. It is not unusual for deal rumors to lower the potential acquirer's value and increase the target's share price, but investor reactions show that a prospective takeover comes with pros and cons for each side of the deal.
+To be sure, it is unclear if Starbucks will even pursue the takeover. D.A. Davidson analyst Matt Curtis wrote in a note to clients on Thursday that he views the odds of a deal being completed as "relatively low" — about 20%.
+Starbucks declined to comment, and Chipotle did not immediately respond to a request for comment from CNBC.
+Why it makes sense:
+1. The Niccol connection
+Starbucks CEO Brian Niccol knows more than a thing or two about Chipotle.
+Before joining the coffee company in 2024, he was chief executive of Chipotle for more than six years. He led a turnaround of the burrito chain, helping it bounce back from a series of foodborne illness outbreaks that had turned into a full-blown crisis for the company.
+In the wake of Niccol's departure, traffic to Chipotle restaurants fell in 2025, as budget-conscious consumers visited its restaurants less often. These days, the chain looks like it is starting to get back on track, with signs of "encouraging progress," Chipotle CEO Scott Boatwright said on the company's earnings conference call in late July.
+Still, its shaky 2025 means that the stock is trading at a 20% discount from a year ago, even with Thursday's big move. And since Niccol left, shares have lost about 40% of their value.
+2. Building the next Yum
+Chipotle would be a splashy acquisition for Niccol. More than that, it could create a new restaurant conglomerate, following in the footsteps of Yum Brands, Restaurant Brands International and Roark Capital-backed Inspire Brands.
+Multi-brand restaurant companies are more diversified, which can be more attractive to investors. While Starbucks is still a much larger chain than Chipotle, the difference in their categories means that one's poor performance could be offset by growth at the other.
+Moreover, Starbucks could help Chipotle grow more quickly in international markets; the burrito chain only has about 100 locations outside of the U.S., while Starbucks has about 23,000.
+Other restaurant companies have set a blueprint for that strategy: Yum has leaned on its international experience from KFC and Pizza Hut to launch Taco Bell outside of the U.S. And Restaurant Brands has leaned on Burger King's international expertise to grow Popeyes' international footprint.
+3. Potential synergies
+With any strategic acquisition, investors hope for synergies that justify the price tag and explain why the deal makes sense. A coffee shop and a burrito restaurant do not have much overlap in ingredients, but there are other potential benefits for both companies and their investors.
+Combining Starbucks and Chipotle would open up potential cost cuts, like layoffs for some now-redundant corporate roles.
+The two chains also have significant overlap in their U.S. real estate footprints. Roughly 90% of Chipotle restaurants are within one mile of a Starbucks cafe, according to a research note from Stephens analyst Jim Salera published on Thursday. Both companies could benefit from shared real estate development and even operating efficiencies as a result.
+But real estate is not the only area where they overlap. Many Starbucks customers also frequent Chipotle restaurants. As one entity, they could leverage that overlap through a combined rewards program, Salera suggested.
+4. Alignment in business model
+Unlike many big restaurant players, both Chipotle and Starbucks operate most of their U.S. locations, although Starbucks also has thousands of licensed cafes in its home market.
+That marks a difference from Chipotle's last strategic owner — McDonald's.
+The burger giant, which franchises the vast majority of its U.S. restaurants, made a majority investment in the upstart Mexican-inspired chain in 1998. But by 2006, McDonald's divested its ownership. Its restaurant investments, which also included Boston Market, were labeled a distraction by Wall Street as the Golden Arches struggled.
+Before it sold its stake, McDonald's tried to franchise some of Chipotle's restaurants to its own franchisees. But Chipotle's leadership, including founder Steve Ells, pushed back. It was one sign of the cultural misalignment between the two brands.
+Chipotle also resisted efforts to make it more similar to McDonald's, declining suggestions like adding drive-thru windows and a breakfast menu.
+Why it doesn't make sense:
+1. Starbucks' ongoing turnaround
+Niccol joined Starbucks more than two years ago to lead a turnaround of the embattled coffee chain. Early signs show that his efforts have improved its U.S. business — but the company is not done yet. Starbucks is aiming to be "the world's greatest customer service company," Niccol wrote in a memo to employees in September, part of a broader push to improve customer loyalty.
+Starbucks also has other deals that it is reportedly considering. In September, Reuters reported that the company was considering selling a majority stake in its Japan business. The country has been the chain's largest overseas company-operated market since it formed a joint venture to operate its cafes in China less than a year ago.
+Integrating a new chain into the company would be a big distraction for Starbucks at a time when many investors think it should still be focusing on itself.
+"Starbucks is still executing its turnaround strategy, and acquiring Chipotle could consume significant senior management time on financing, integration, organizational design, systems, and personnel," BTIG analyst Pete Saleh wrote in a note. "Why introduce another major strategic initiative before demonstrating that Starbucks can deliver sustainable margin recovery?"
+2. The price tag
+Starbucks' turnaround has also been expensive, which hasn't pleased investors.
+The company has been investing heavily in labor, cafe makeovers and store equipment to improve its service and the overall customer experience. Even layoffs and store closures, which will cut costs in the long term, have weighed on its quarterly earnings.
+But Chipotle would be an even bigger expense. Even with shares' recent struggles, the company still has a market cap of roughly $42 billion. If Starbucks pursues the acquisition, it would be the biggest-ever restaurant takeover.
+Starbucks had about $9.4 billion in debt at the end of June. William Blair analyst Sharon Zackfia estimated that its leverage would balloon to about six times if the company paid a 20% premium and sought to finance the potential deal primarily through debt. An all-stock deal would not weigh on earnings as much, although Zackfia estimates it would still dilute earnings per share by about 10%.
+3. Niccol's experience
+At Chipotle and Starbucks, Niccol was tasked with turning around struggling restaurants. But his corporate experience so far has not prepared him for a deal of this size.
+Merging two colossal restaurant companies would be a massive undertaking, potentially at the expense of the individual success of both brands.
+Two-brand restaurant companies often struggle to keep both operating with same-store sales growth, Citi Research analyst Jon Tower wrote in a note to clients. Additionally, he said internal employees usually gravitate toward the brand that is perceived to perform better or offer more career opportunities.
+While the size of the deal makes the takeover unique, the restaurant industry already has plenty of examples of mergers and takeovers that did not work for either party.
+The latest example comes from Jack in the Box, which bought Del Taco in a $585 million deal in 2022. At the time that the deal was announced, executives said it was "strategically and financially compelling."
+During the period that Jack in the Box officially owned Del Taco, shares of the company cratered 73%. The burger chain shuttered dozens of locations as its sales struggled. And Del Taco reported even worse results, including more than a year straight of quarterly same-store sales declines.
+More than three years later, Jack in the Box sold Del Taco to a franchisee for about $119 million.
+
+</details>
+
+
+---
+
+## Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html
+
+正文长度：4795
+
+摘要：Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
+Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
+"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally and an incredibly profitable linear portfolio, anchored by CBS."
+Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
+"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people. And all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
+Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
+The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2029, 2030 and 2031.
+Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
+Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
+$6 billion in synergies
+Skydance must manage roughly $80 billion in debt as a result of the merger and has previously said it's targeting $6 billion in cost savings over the next three years.
+"There are absolutely operational efficiencies," Ellison said. "We've looked at this deal for over a year. We know where every single dollar is."
+Kreiz said Thursday those savings "will come from technology, marketing consolidation, real estate optimization, and some labor."
+The acquisition has spurred fears of layoffs from both inside the company and from industry onlookers. Ellison said Skydance has already unified ad sales across the platforms and is working to unify back-end tech stacks.
+"This is not about a few days of share trading, or even managing synergies for three years. We're building a company for future generations," Kreiz said. "But reducing the workforce is a part of that. We said that, we were public about it. But when it comes to making those decisions, of course, we're thinking of our people. We're going to do it in the right way, respectfully, transparently, and communicate our plans."
+CBS and CNN news divisions
+The acquisition also brings together two high-profile news networks, CBS and CNN, under one roof.
+CNN has long faced criticism from President Donald Trump and has faced heightened scrutiny from his administration in recent weeks, as the network was barred from certain access to the president as part of the White House television press pool.
+David Ellison's father, Oracle co-founder Larry Ellison, is a longtime Trump ally, and fears of improper political influence over newsgathering operations have surrounded Skydance's pursuit of the CNN parent.
+Skydance's settlement with the state AGs included an agreement that the company would establish a new board to oversee CBS and CNN to ensure editorial independence.
+Skydance announced on Monday that Mark Thompson will remain in his current role as chairman and editor-in-chief of CNN Worldwide and that Bari Weiss would continue to serve as editor-in-chief of CBS News.
+Kreiz said Thursday the newsrooms would continue to run independently.
+"We'll look to keep the businesses run in parallel with independent editorial operation," Kreiz said. "We're so fortunate to have such successful, well-established, highly recognized brands in news."
+Ellison, meanwhile, said questions about the future of the news divisions were better left to Thompson and Weiss: "Corporate stays out of editorial."
+
+</details>
+
+
+---
+
+## PepsiCo cuts earnings forecast as North American turnaround takes longer than expected
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html
+
+正文长度：4712
+
+摘要：Pepsi's North American business continues to lag behind its international markets.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> PepsiCo on Thursday reported quarterly earnings and revenue that topped analysts' expectations, fueled by international growth as its North American business continues to lag.
+With one quarter left in 2026, the company also lowered its forecast for its full-year earnings, as its struggles in its home market weigh on profits. Pepsi expects core earnings per share to increase 2.5% to 3.5%, down from its previous projection of the low end of a range from 5% to 7%. It also now expects net revenue growth of about 6%, on the high end of its prior outlook of a range of 4% to 6%.
+Shares of Pepsi rose about 2% in morning trading.
+Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $2.34 adjusted vs. $2.29 expected
+- Revenue: $25.27 billion vs. $24.96 billion expected
+Pepsi reported fiscal third-quarter net income attributable to the company of $3.05 billion, or $2.23 per share, up from $2.6 billion, or $1.90 per share, a year earlier.
+Excluding items, the company earned $2.34 per share.
+Net sales rose 5.6% to $25.27 billion. Organic revenue, which excludes acquisitions, divestitures and foreign exchange, increased 3.1% during the quarter.
+The company reported volume growth of 3% for its beverages and 1% for its food for the quarter. Volume excludes pricing and currency fluctuations to reflect demand more accurately.
+Pepsi's international markets were once again the bright spot. The company's international business has accounted for 41% of its net revenue so far this year, CEO Ramon Laguarta said in prepared remarks.
+Pepsi saw volume growth in all but one of its international business units during the quarter. Only its convenient foods division in Europe, the Middle East and Africa reported declining volume, of 1%.
+But in its home market, Pepsi once again struggled.
+"Our business in North America performed below our expectations and represents a meaningful opportunity for improvement," Laguarta said.
+Its North American beverage unit saw volume shrink 2%, while its North American food division reported flat volume.
+The turnaround of its domestic business is moving more slowly than expected, CFO Steve Schmitt said in prepared remarks. So far, the strategy to fix the struggling divisions has focused on innovation and the company's advertising and marketing.
+For its snacks, Pepsi has leaned into simpler ingredients, "alternative" oils and functional benefits, like protein and fiber.
+In February, Pepsi lowered prices by as much as 15% on many of its snacks, including Lay's and Doritos. The move followed weak U.S. performance by its snack brands as budget-conscious shoppers, facing higher prices across the grocery store, skipped the chips.
+The bet has paid off for the company, Laguarta said on the company's earnings conference call.
+"We're happy with the turnaround in the volume performance," he said. "If you think about last year, that business was low single-digit negative volume growth. This year, we're low single-digit positive growth."
+North American demand for Pepsi's snacks was weaker than expected this quarter, which Laguarta chalked up to "the consumer environment."
+Pepsi executives are projecting "a new wave of inflation" caused by higher energy prices. Laguarta predicted that the company will implement "revenue management tactics," industry jargon that typically means price hikes. But he said that the company will have "guardrails" to make sure that retailers do not price its snacks too high for shoppers.
+The North American beverage business was more disappointing, particularly the company's soft drinks portfolio, which includes its namesake soda, Mountain Dew and Poppi, among others. The company plans to stay focused on functional hydration, flavored soft drinks, energy drinks and zero-sugar options.
+However, Laguarta said some recent trends show the company's efforts are working.
+Pepsi's North American convenient foods business, which includes brands like Doritos and Quaker Oats, had its organic revenue improve sequentially. Its North American beverage unit, which includes its namesake soda and Gatorade, among other brands, saw organic volume trends pick up, thanks to its functional hydration and zero-sugar drinks. But Pepsi's carbonated soft drink portfolio lagged behind the overall category, including rival Coca-Cola.
+Pepsi is planning cost reductions to cut down on redundancies and discretionary spending to pay for investments in innovation and marketing, Laguarta said in prepared remarks.
+Correction: Pepsi's fiscal third-quarter net income attributable to the company was up from a year earlier. An earlier version misstated the direction.
+
+</details>
 
 
 ---
@@ -100,21 +255,21 @@ O'Neill took the helm of Lululemon last month after the athleisure company saw m
 
 链接：https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html
 
-正文长度：2650
+正文长度：2747
 
 摘要：Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Levi Strauss on Wednesday increased its profit outlook after it received tariff refunds, but gave less rosy revenue guidance.
+> Levi Strauss on Wednesday increased its profit outlook, largely due to tariff refunds, but gave less rosy revenue guidance after a lackluster quarter of sales.
 The denim retailer raised its adjusted earnings per share expectation for the full fiscal year to between $1.54 and $1.56, from a previous range of $1.46 to $1.52. Analysts were expecting a range of between $1.52 and $1.59, according to LSEG.
-The company also lowered its net revenue growth guidance for the full year to 7%, the bottom of its previously provided range of a 7% to 7.5% increase.
-Shares of Levi were roughly flat in extended trading after initially rising.
+The company also lowered its net revenue growth guidance for the full year to 7%, the bottom of its previously provided range of a 7% to 7.5% increase. However, Levi said it expects organic revenue — which strips out foreign exchange changes — to rise 6% for the year, the high end of its previous range.
+Shares of Levi fell nearly 4% on Thursday.
 For its fiscal third quarter, the denim retailer said it saw a 4% increase in net revenues in the Americas, though revenue in the U.S. decreased 1%. It also reported an operating margin of 13.8% for the quarter, compared to 10.8% in the same quarter last year, boosted by tariff refunds that contributed 4.9% to operating margin and gross margin.
 Levi also said its tariff refunds contributed a 16-cent benefit to its earnings per share, of which 5 cents were "redeployed to support the business." On a call with analysts, CEO Michelle Gass said that money is going toward marketing and promotions during the holiday season.
 Here's how Levi performed in its third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 48 cents adjusted, it was unclear how that figure compared to the 36 cents Wall Street expected
+- Earnings per share: 37 cents adjusted vs. 36 cents expected
 - Revenue: $1.61 billion vs. $1.62 billion expected
 For the three-month period ending Aug. 30, Levi reported net income of $168.6 million, or 43 cents per share, down from $218.1 million, or 55 cents per share, the year prior.
 Sales rose roughly 4% to $1.61 billion from $1.54 billion last year.
@@ -128,233 +283,132 @@ Last month, the company announced John Vandemore will take over as chief financi
 
 ---
 
-## Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html
-
-正文长度：5163
-
-摘要：Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Constellation Brands beat quarterly earnings and revenue expectations as its beer brands gained market share, but continued consumer caution tempered results.
-As it navigates high food and fuel prices and choosy shoppers, Constellation is turning to special occasions and diversification to help drive sales.
-The maker of Modelo Especial, Corona and Pacifico on Tuesday reported fiscal second-quarter adjusted earnings of $3.74 per share on $2.63 billion in revenue, ahead of Wall Street estimates of $3.56 and $2.54 billion, respectively.
-Beer revenue rose 5% to roughly $2.47 billion, while beer shipments increased 5.5%. However, the company said beer depletions, a measure of sales from distributors to retailers and other customers, declined slightly during the quarter, indicating consumer demand was softer than shipment growth suggests.
-"We have spent much of the first half rebuilding distributor inventory levels," said Constellation Brands CEO Nicholas Fink on the company's earnings call on Wednesday. "While there is always going to be month-to-month variability, September depletions are trending in the right direction."
-The broader backdrop remains challenging for beer sellers. U.S. beer sales fell 1.8% year over year in the two weeks ended Sept. 19, according to Nielsen's latest data.
-Still, Fink said September beer depletions improved even beyond the benefit of a later Labor Day, and that the recovery was broad-based across channels. He said consumers were "across the board" engaging in the category.
-Some analysts said the results indicated elevated gas prices have dampened Constellation's performance.
-“Progress [for Constellation] had accelerated to start 2026, but has been derailed by higher fuel costs,” Roth Capital analyst Bill Kirk wrote, though he said Constellation continues to deliver against its fiscal 2027 plan. Kirk has a buy rating and $209 price target on the stock, compared with the roughly $116 a share price as of Wednesday.
-Fink said Constellation saw particular strength in club stores, which have benefited as cash-strapped shoppers seek deals on fuel and groceries. The company is also working to better tailor its product and pack sizes across channels, as consumers make different choices depending on where they are shopping, and for what occasion.
-That focus on events also extends to younger drinkers. Fink said consumers are increasingly buying beer for specific moments, rather than treating it as a default purchase, and Constellation is leaning into sports, music, beach activations and other occasions to drive sales.
-The company's pricing strategy reflects consumer caution around spending.
-Chief Financial Officer Garth Hankinson said Constellation has been selective with price increases, keeping them at the low end of its usual range given the "macroeconomic backdrop and the impact that that's having on our consumer." Hankinson said it is "much more cost-effective to retain your consumers than it is to try to regain your consumers."
-That price sensitivity is especially important for Constellation, given its reliance on Hispanic shoppers. About 40% of spending on Constellation's beer comes from Hispanic consumers, compared with roughly 15% for the overall beer category, according to company data.
-That cohort has faced more economic concerns, including pressure from the labor market and household finances in part fueled by President Donald Trump's policy of mass deportation. Constellation has previously said that beer demand has been weaker in areas with larger Hispanic populations, although it has also pointed to improving trends in some markets.
-Constellation's canned spirits expansion
-Constellation is also moving beyond its core beer business. The company announced Tuesday that it would acquire SpikedAde, a spirit-based ready-to-drink beverage brand, for $75 million up front, with up to another $278 million in potential payments tied to future performance.
-The deal gives Constellation a foothold in a new segment that has drawn more interest from consumers. Fink said the company aims to "remain relevant to our consumers and to our customers," adding that distributors have urged Constellation to get into growing categories beyond beer.
-Some analysts approved of the move.
-"We consider the acquisition attractive, giving [Constellation] exposure to the fast-growing RTD subcategory," said Piper Sandler analyst Michael Lavery, who also noted that Stateside Vodka's competing Super Lyte brand has also had "a very strong start" on the East Coast.
-Lavery has a neutral rating and $161 price target on Constellation's stock.
-While Fink said beer will remain the company's primary source of value creation, he called SpikedAde a "long, wide-open runway" for Constellation's brand-building and distribution capabilities.
-According to the Distilled Spirits Council of the United States, sales of premixed cocktails including spirits-based RTDs grew 16.4% in 2025 to $3.8 billion, making them the spirits industry's strongest growth category.
-Correction: Constellation reported earnings Tuesday and held its conference call Wednesday. A previous version misstated those dates.
-
-</details>
-
-
----
-
-## Disney+ to stream upcoming Super Bowl
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html
-
-正文长度：1621
-
-摘要：Disney+ will also air two Monday Night Football games leading up to the championship game.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Disney announced Wednesday that its streaming service Disney+ will air the upcoming Super Bowl in February.
-The 2027 championship game, as well as two Monday Night Football games leading up to the Super Bowl, will be available to all Disney+ subscribers in the U.S.
-Disney had previously announced that its ESPN sports division would produce the Super Bowl in 2027 for the first time ever. The game will air on ESPN and Disney's broadcast network, ABC.
-Interest in the upcoming Super Bowl is already high. Disney said on its most recent earnings call that ad spots for the game are already sold out, the earliest sellout in Super Bowl history, according to a press release.
-The announcement is the latest move in Disney's efforts to expand its live sports streaming offerings. The media company last year launched a standalone ESPN streaming service, bringing the content outside the cable bundle.
-In August, Disney announced that Formula E — the open-wheel racing championship for electric cars — will be available to Disney+ subscribers beginning Dec. 18.
-Other streamers are also using live sports to bolster their portfolios. CNBC reported last week that Alphabet's YouTube is actively searching for additional live sports rights. YouTube already pays roughly $2 billion annually for the rights to "NFL Sunday Ticket," which will last until the end of the 2029-30 season.
-Netflix will air five NFL games during the 2026-27 season. Netflix Chief Content Officer Bela Bajaria said in a CNBC interview last month that the company would be open to acquiring the rights to international NFL games if they become available.
-
-</details>
-
-
----
-
-## Used car prices fall in Q3, while demand for fuel-efficient vehicles grows
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html
-
-正文长度：2856
-
-摘要：Used vehicle prices are forecast to fall more than previously expected this year, according to Cox Automotive.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — Used vehicle prices are forecast to fall more than previously expected this year, as high gas prices and broader inflationary costs hit Americans' pocketbooks.
-Cox Automotive on Wednesday lowered its forecast for the company's Manheim Used Vehicle Value Index, from a 2% increase to a rise of only 0.2% for the year. That slight uptick would mark the third consecutive year of relatively flat pricing after large increases and then declines during the pandemic.
-The lower forecast follows a 1.95% decline in the index from July to September, including a 0.6% drop in September compared with a year earlier. September marked the first time since March 2025 that the monthly index hadn't been higher than a year earlier.
-"As we enter Q4, interest rates are rising, consumer sentiment is falling, and yet a wealth effect from strong and sustained financial-asset growth is providing some offsetting cushion. Many metrics we watch are converging back toward pre-pandemic norms, but the road to get there has been anything but smooth," Cox Automotive's chief economist, Jeremy Robb, said in a release
-The historical average for the Manheim index is about a 2.3% year-over-year gain. Nonadjusted wholesale used vehicle prices fell 1.2% year over year in September and 1.3% from August as depreciation accelerated in the third quarter, Cox said.
-The index is a closely monitored gauge for used vehicle prices that tracks the pricing of used vehicles sold at Manheim U.S. wholesale auctions. Retail prices for consumers traditionally follow changes in wholesale costs.
-Cox noted electric vehicle sales and off-lease volume continued to grow, reshaping used vehicle market dynamics as EVs and smaller, fuel-efficient vehicle values increased during the quarter. That compares with poor performances of large trucks and SUVs, the company said.
-"The first half of the year actually showed more appreciation than usual, even in the face of higher fuel prices. But with the conflict in the Middle East ongoing, diesel prices at record highs, and interest rates climbing rapidly, increasingly worrying both businesses and consumers, wholesale prices have felt the sting," Robb said.
-The juxtaposition in smaller, fuel-efficient cars and larger vehicles occurred as the national average of gas in September was $4.33 per gallon. That was 50 cents higher than the previous September record of $3.83 set in 2023, according to AAA.
-Cox said retail demand for used vehicles is relatively healthy, but the pricing changes seem to be signaling dealers have hit a ceiling on what they can charge consumers.
-The average listed price of a used vehicle was $27,239 as of August, according to Cox. That compares with new vehicles at an average price of more than $50,000.
-The majority of U.S. consumers purchase used vehicles since they're more affordable than new models.
-
-</details>
-
-
----
-
-## Oil majors look beyond Middle East war in pursuit of region’s vast reserves - Financial Times
+## OpenAI annualised revenues $20bn less than previously signalled - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnJsUlY0TW1MNHpnTzFVZUJKemNvdmZDRGJ1SW5vTlpCenh2RFBKZk5YZWZTRnloQlZQM1I1MzZVVzBMSmtUQy1zTlRtTWt2RDhwRS1kc3JvYzhQSVI2MEZTelBsOFVoMTlDR081US1XeXNmU3V1UW5aeTJPOWJOWjFaWGo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnJsUlY0TW1MNHpnTzFVZUJKemNvdmZDRGJ1SW5vTlpCenh2RFBKZk5YZWZTRnloQlZQM1I1MzZVVzBMSmtUQy1zTlRtTWt2RDhwRS1kc3JvYzhQSVI2MEZTelBsOFVoMTlDR081US1XeXNmU3V1UW5aeTJPOWJOWjFaWGo?oc=5" target="_blank">Oil majors look beyond Middle East war in pursuit of region’s vast reserves</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5" target="_blank">OpenAI annualised revenues $20bn less than previously signalled</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Kirkland & Ellis to stop disclosing financial performance - Financial Times
+## Goldman Sachs to pay top executives $500mn in special bonuses - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDRoNEY4eTdUNGFSUGFPYTZ5amV0Y3pWdmtRNmphMXBCVmxDSGhNOHpoSnVnQWxNT1l2U0dSUmw4WlF2NnRxNXVPS0xzeHpQRENRRTFVa01hZ3MxSXFSRG1LeDlyZWkydGZXMzFfNE0taDh2a1pseUJXYjFOaGtuaHhReU8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk1fMWZnNzl2WVBuTTBXWVZENjdpTGRWOUVVdmVBckF1MlgyaHR4cUJhcElrYVJWYjJHa1ZnTW05Nmdwbi1Uc290ZmpRV2swQUw0X0F1aF96UzVSQzV1eS02MHpPRnNjLTlPbTY0bEtjY2VHRzE2WXdzZEJpMUs0b0JWOUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDRoNEY4eTdUNGFSUGFPYTZ5amV0Y3pWdmtRNmphMXBCVmxDSGhNOHpoSnVnQWxNT1l2U0dSUmw4WlF2NnRxNXVPS0xzeHpQRENRRTFVa01hZ3MxSXFSRG1LeDlyZWkydGZXMzFfNE0taDh2a1pseUJXYjFOaGtuaHhReU8?oc=5" target="_blank">Kirkland & Ellis to stop disclosing financial performance</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk1fMWZnNzl2WVBuTTBXWVZENjdpTGRWOUVVdmVBckF1MlgyaHR4cUJhcElrYVJWYjJHa1ZnTW05Nmdwbi1Uc290ZmpRV2swQUw0X0F1aF96UzVSQzV1eS02MHpPRnNjLTlPbTY0bEtjY2VHRzE2WXdzZEJpMUs0b0JWOUU?oc=5" target="_blank">Goldman Sachs to pay top executives $500mn in special bonuses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Diesel price jumps after IEA says no additional fuel will be released - Financial Times
+## Starbucks has explored takeover of Chipotle in restaurant megadeal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3hjYUR3RGVKc2FlZy1nbjZaQUJvR3B2dTVCdTE1UG9FOWM0d1FsMFhLaDdmMS1Oa19BTXpJTm9kV3BWZG13enBtMi0xNHlQSUcxc1FOa2tiQWdVUXNjNHFZdWZSZ3lEVHd3REJ0WmlrYUdJTUluMVYxRjRvcDQyZ1B5a00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3hjYUR3RGVKc2FlZy1nbjZaQUJvR3B2dTVCdTE1UG9FOWM0d1FsMFhLaDdmMS1Oa19BTXpJTm9kV3BWZG13enBtMi0xNHlQSUcxc1FOa2tiQWdVUXNjNHFZdWZSZ3lEVHd3REJ0WmlrYUdJTUluMVYxRjRvcDQyZ1B5a00?oc=5" target="_blank">Diesel price jumps after IEA says no additional fuel will be released</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5" target="_blank">Starbucks has explored takeover of Chipotle in restaurant megadeal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## How AI tempts the lazy mind - Financial Times
+## Scores of Riyadh flights cancelled after Houthis target airport - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHZ1ZWVjbG9XNWVUSGRDeHVZODJ4R0IyN19hZ205UmY5SVBJM2d2U0x3NGZiTV9zQkg3SFphSjV4QjlIdjVIRUFsbS1MdUhWamI0ZnhJZ0JHMnROOUdhakt6NFhOZTFIcmRwdXhXcWZGSGVDcmdLZEJaTGZRODhBdnVQeUY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUotMVRZV1RTc2hscGk3YlUyRVFIeGozVlVfeWhMUGN0OU9rVElXblotVGZ1Wk9hbXRTdWVrdzlGRmtEVklvYzJNQnBTUy16LXlSc0xkRlB4VEF2SXdPMmoxb1k5cGJkRTdTejdLS0xRV2ZWY1JOU3JuemFSVFFUMTgxYTU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHZ1ZWVjbG9XNWVUSGRDeHVZODJ4R0IyN19hZ205UmY5SVBJM2d2U0x3NGZiTV9zQkg3SFphSjV4QjlIdjVIRUFsbS1MdUhWamI0ZnhJZ0JHMnROOUdhakt6NFhOZTFIcmRwdXhXcWZGSGVDcmdLZEJaTGZRODhBdnVQeUY?oc=5" target="_blank">How AI tempts the lazy mind</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUotMVRZV1RTc2hscGk3YlUyRVFIeGozVlVfeWhMUGN0OU9rVElXblotVGZ1Wk9hbXRTdWVrdzlGRmtEVklvYzJNQnBTUy16LXlSc0xkRlB4VEF2SXdPMmoxb1k5cGJkRTdTejdLS0xRV2ZWY1JOU3JuemFSVFFUMTgxYTU?oc=5" target="_blank">Scores of Riyadh flights cancelled after Houthis target airport</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## London hedge fund Arini falls 16 per cent on soured credit bets - Financial Times
+## Cyber war won’t be the same in the age of AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2RQc1ZIblQzWUx6VzRsV0w0Mzh1ODZCTk5WNmgwaE9pREFSSHVLQWNnOXlkOHpXaV90RlY5UlAyWl9OemlqR1R6dTlOQmlyRmlsZDRDUEdsUGkwdlotSmpvQi1VMnI1MDN0T2tHQ3NEUnZnd0ZZZjR6YzFNM0R6ZkRfU2E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITEVmX2JhTDR2bE9GUE94aU9sUFFMbGpFamt0WkFNMEt4NjZjbDEzT25scjFsWnAxYjZPNXR5clowZzBoSnpuQXBaMzZxVGlBTktLVzVhMVpXLWFFVkhjT2pzSDY0MUt0OWVQQjNwYmY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2RQc1ZIblQzWUx6VzRsV0w0Mzh1ODZCTk5WNmgwaE9pREFSSHVLQWNnOXlkOHpXaV90RlY5UlAyWl9OemlqR1R6dTlOQmlyRmlsZDRDUEdsUGkwdlotSmpvQi1VMnI1MDN0T2tHQ3NEUnZnd0ZZZjR6YzFNM0R6ZkRfU2E?oc=5" target="_blank">London hedge fund Arini falls 16 per cent on soured credit bets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITEVmX2JhTDR2bE9GUE94aU9sUFFMbGpFamt0WkFNMEt4NjZjbDEzT25scjFsWnAxYjZPNXR5clowZzBoSnpuQXBaMzZxVGlBTktLVzVhMVpXLWFFVkhjT2pzSDY0MUt0OWVQQjNwYmY?oc=5" target="_blank">Cyber war won’t be the same in the age of AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bollywood actor Nana Patekar dies at 75 - Reuters
+## Trump says US will not attack Iran before midterm elections in November - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzhsbTRiV1k4RzB1X01kY0IzUFZPS3ZySVFLeGVTZ1pOOXB5VzlpUjZ4a1hMUmtHckJtMGN4THpXUWUtVzVKLUl4eDBtUVlvR1M1WHdJOG1TQkpjTzFXdFQwTV9yUEpOSlFrTnRJclJVVXg2bkpKMEZVV3YxLS0xOVBncEN2LVFpR2w2MGFJSEtqb3Y2R2lwTlNRZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzhsbTRiV1k4RzB1X01kY0IzUFZPS3ZySVFLeGVTZ1pOOXB5VzlpUjZ4a1hMUmtHckJtMGN4THpXUWUtVzVKLUl4eDBtUVlvR1M1WHdJOG1TQkpjTzFXdFQwTV9yUEpOSlFrTnRJclJVVXg2bkpKMEZVV3YxLS0xOVBncEN2LVFpR2w2MGFJSEtqb3Y2R2lwTlNRZw?oc=5" target="_blank">Bollywood actor Nana Patekar dies at 75</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5" target="_blank">Trump says US will not attack Iran before midterm elections in November</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters
+## US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREc3b1M4OVVFbEtXWE45ZWpjeDNiNGpGVnZIdEJQSUU2R2dmdzF4V3hFZ1RMSlgyX0Fmc295aXo3bGtsbHpYSlM5MUVjLXJsM1ZISFV4NVFQN04wY0M4ZFRud3pzVUd2ZjN4S1dRSzNkenVacC1naWFmdUMtRUVYUlQ3MWY4dHRyOHRkTThCcUYxV0NFOU9qNE5fUW92RmlfYmk3Z0ZqWDlfc2VmNVhHS0tPX2k2Ql94SHlCeThTUzJBUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREc3b1M4OVVFbEtXWE45ZWpjeDNiNGpGVnZIdEJQSUU2R2dmdzF4V3hFZ1RMSlgyX0Fmc295aXo3bGtsbHpYSlM5MUVjLXJsM1ZISFV4NVFQN04wY0M4ZFRud3pzVUd2ZjN4S1dRSzNkenVacC1naWFmdUMtRUVYUlQ3MWY4dHRyOHRkTThCcUYxV0NFOU9qNE5fUW92RmlfYmk3Z0ZqWDlfc2VmNVhHS0tPX2k2Ql94SHlCeThTUzJBUQ?oc=5" target="_blank">Yemen's Houthis say they attacked Riyadh airport with ballistic missile</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5" target="_blank">US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters
+## Lufthansa, Indian airlines suspend flights to Riyadh after Houthi attacks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXd3SHFQR3NWbldRVWo1OVQtajAyZVYtRzNYcmFzZTR3X2pMaDEzTXJKX3R4aUNPNW9fOEhUalZkVnR3LWtKRWM3VDVqelA0M1QtRlFNOE45ZG16VFVIN0JrbHFQSDFFd0N1OEM5Z3FMS0tnVDJvaEZXSjhSYUVsVWJGWXpBdTdVSjZrVVBEc3JCUzFDQXM4Y2ZjYUpHTWlIb2VtUGFlOWs2djlQYUFZLUZ1X0hSZFJ0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5" target="_blank">Oil rises as Middle East supply concerns persist amid shipping attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXd3SHFQR3NWbldRVWo1OVQtajAyZVYtRzNYcmFzZTR3X2pMaDEzTXJKX3R4aUNPNW9fOEhUalZkVnR3LWtKRWM3VDVqelA0M1QtRlFNOE45ZG16VFVIN0JrbHFQSDFFd0N1OEM5Z3FMS0tnVDJvaEZXSjhSYUVsVWJGWXpBdTdVSjZrVVBEc3JCUzFDQXM4Y2ZjYUpHTWlIb2VtUGFlOWs2djlQYUFZLUZ1X0hSZFJ0?oc=5" target="_blank">Lufthansa, Indian airlines suspend flights to Riyadh after Houthi attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Amazon makes fresh job cuts, mainly in retail division - Reuters
+## Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5" target="_blank">Amazon makes fresh job cuts, mainly in retail division</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5" target="_blank">Trump discloses Nvidia stock trades as he prepares to honor CEO Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold prices recover from two-month low as dollar rally stalls - Reuters
+## Ukraine says it hit Russia's largest oil refinery - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5" target="_blank">Gold prices recover from two-month low as dollar rally stalls</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5" target="_blank">Ukraine says it hit Russia's largest oil refinery</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
