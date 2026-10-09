@@ -1,70 +1,135 @@
 # 每日财经新闻
 
-更新时间：2026-10-09 05:34:35
+更新时间：2026-10-09 18:12:45
 
-## CITIC CLSA on China's Upcoming Active ETF Market
+## Stocks Climb as Wall Street Gears Up for Earnings: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-09/citic-clsa-on-china-s-upcoming-active-etf-market-video
+链接：https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Shihao Li, A-Share Strategist at CITIC CLSA, discusses potential demand for active ETFs in China after regulators announced approval of those products. He speaks on ETF IQ Asia.
- (Source: Bloomberg)
+摘要：Wall Street traders betting on another solid corporate earnings season sent stocks higher despite lingering concerns about still-elevated energy prices and bond yields.
 
 
 ---
 
-## Nasdaq CEO Friedman on IPO Outlook
+## The Importance of Owning Assets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-09/nasdaq-ceo-friedman-on-ipo-outlook-video
+链接：https://www.bloomberg.com/news/newsletters/2026-10-09/the-importance-of-owning-assets
 
 正文长度：0
 
-摘要：Adena Friedman, Chair & CEO of Nasdaq, discusses the IPO pipeline for the exchange and the impact of round-the-clock trading. She speaks with Haslinda Amin from the sidelines of the Milken Asia Summit in Singapore.
- (Source: Bloomberg)
+摘要：More and more of the US economy is riding on the same trade.
 
 
 ---
 
-## Xiaomi Shares Surge After SkyNomad SUV Draws Strong Orders
+## Stocks Rise Ahead of Earnings as AI Bubble Fears Recede
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-09/xiaomi-shares-jump-9-on-strong-orders-for-new-ev-model
+链接：https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede
 
 正文长度：0
 
-摘要：Xiaomi Corp. shares jumped the most since July after the Chinese electric vehicle maker reported strong orders for its newly launched SkyNomad sport utility vehicle.
+摘要：US stocks rose as investor concerns around the artificial-intelligence spending spree and an energy crunch eased.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Oct. 9
+## Liberty Meetings Draw Crowd in London as Virgin Media Bonds Sink
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-08/latest-oil-market-news-and-analysis-for-oct-9
+链接：https://www.bloomberg.com/news/articles/2026-10-09/liberty-meetings-draw-crowd-in-london-as-virgin-media-bonds-sink
 
 正文长度：0
 
-摘要：Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for no offensive military action against Tehran.
+摘要：Liberty Global Ltd. drew a crowd on Thursday at a Morgan Stanley leveraged-finance conference in London as investors peppered executives about the cratering debt of its telecommunications joint venture.
 
 
 ---
 
-## Awori: China MOU to Ease Africa’s USD Liquidity Pressure
+## OpenAI’s $70B AI Boom, Goldman Leads Wall Street Trading Surge
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-09/awori-china-mou-to-ease-africa-s-usd-liquidity-pressure-video
+链接：https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-open-interest-10-09-2026-video
 
 正文长度：0
 
-摘要：Ecobank and China's Cross-Border Interbank Payment System have signed a MOU to strengthen payment connectivity between China and Africa. It comes as the pan-African banking group opens its first office in Beijing. Jeremy Awori, Group CEO of Ecobank spoke to Bloomberg’s Chief Africa Correspondent Jennifer Zabasajja on Horizons Middle East & Africa about their agreement with China plus their operations in Senegal and the future of their Chairman. (Source: Bloomberg)
+摘要：OpenAI’s $70 billion revenue target reignites the AI trade. Jet fuel prices squeeze US airlines, while Goldman leads a Wall Street trading windfall. Plus, Naftali Group CEO Miki Naftali on South Florida’s luxury real estate boom, and Brooklyn Sports & Entertainment CEO Sam Zussman on the Liberty’s playoff push and record crowds at Barclays. Get a jump start on the US trading day with Dani Burger on "Bloomberg Open Interest." (Source: Bloomberg)
+
+
+---
+
+## Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html
+
+正文长度：1098
+
+摘要：Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Delta Air Lines CEO Ed Bastian said his carrier is weighing whether to go ahead with debuting a flight between Atlanta and Riyadh, Saudi Arabia, after attacks claimed by Iran-backed Houthi rebels in Yemen have escalated there.
+The flights between Riyadh and Delta's biggest hub are scheduled to begin on Oct. 23.
+Three people were killed in attacks at Riyadh's King Khalid International Airport as the Houthis stepped up strikes in the country, Saudi Arabia's civil aviation authority said.
+"Obviously, we were disappointed to see the news this week," Bastian told CNBC in an interview. "Safety is is going to make the call."
+He said that the airline will let customers know of its decision soon. German airline Lufthansa said it was pausing flights into Saudi Arabia through at least Oct. 16, a spokesman told CNBC.
+Delta is planning to operate the Atlanta-Riyadh flight daily from Oct. 23 to Oct. 30 before moving to three-times-a-week service. When it announced the route earlier this year, Delta said it would be the first nonstop service between the U.S. and Riyadh operated by a U.S. airline.
+
+</details>
+
+
+---
+
+## Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html
+
+正文长度：3985
+
+摘要：Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said pricier fares aren't turning off travelers.
+Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
+Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
+Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
+"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
+Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it processes crude oil into jet fuel and other products, giving it an advantage over other carriers.
+"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
+Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
+Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
+Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
+- Earnings per share: $1.72 adjusted vs. $1.75 expected
+- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
+It was the first time in two years that Delta missed estimates.
+Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.72 per share.
+Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
+Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
+Musk dispute
+Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
+SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the "View from the Wing" travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
+SpaceX's Starlink Wi-Fi has become the main supplier of satellite internet, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines as well as others around the world.
+Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
+"There's no tit for tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."
+Correction: This story has been updated to reflect that Delta reported adjusted earnings per share of $1.76. An earlier version of this story misstated the EPS in one instance.
+
+</details>
 
 
 ---
@@ -224,193 +289,132 @@ Correction: Pepsi's fiscal third-quarter net income attributable to the company 
 
 ---
 
-## Lululemon poaches Athleta CEO as new chief product officer
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html
-
-正文长度：2035
-
-摘要：Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as its chief product officer, a newly created role.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as president and chief product officer, effective later this month.
-The move marks the latest shake-up among the top executives in the increasingly competitive athleisure space: Gauger joined Athleta from Nike only last year.
-Lululemon said Gauger's job is a newly created role. It also appointed Joseph Godsey as chief operating officer. Alongside the new announcements, Lululemon also said Nikki Neuburger, the company's chief brand and product activation officer, and Ted Dagnese, its chief supply chain officer, are leaving in November to "pursue other opportunities."
-"We are establishing a deeply experienced leadership team that will work in a more coordinated manner, aligned around the strategy and execution that delivers the most impact for our guests, our communities, and our business," Lululemon CEO Heidi O'Neill said in a statement. "That starts with putting product, design, and innovation at the center of how we operate, with the focus and accountability to create a stronger pipeline of differentiated product to raise the bar for our guests across every touchpoint, in stores and online."
-In a statement provided to CNBC, Athleta parent company Gap confirmed Gauger has left the company. It said Erika Everett, the brand's current chief marketing officer, will oversee the brand CEO role in the interim.
-"We have been actively shaping Athleta's next chapter and the changes needed to position the brand for long-term growth," Gap said in its statement. "This transition enables us to accelerate that work, strengthen our connection with customers, and unlock Athleta's full potential."
-Separately, Lululemon said it is also searching for a chief brand officer, a chief communications officer and a chief technology officer.
-O'Neill took the helm of Lululemon last month after the athleisure company saw more than a year of disappointing sales performance in the midst of a proxy battle, drawing criticism from founder Chip Wilson.
-
-</details>
-
-
----
-
-## Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html
-
-正文长度：2747
-
-摘要：Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Levi Strauss on Wednesday increased its profit outlook, largely due to tariff refunds, but gave less rosy revenue guidance after a lackluster quarter of sales.
-The denim retailer raised its adjusted earnings per share expectation for the full fiscal year to between $1.54 and $1.56, from a previous range of $1.46 to $1.52. Analysts were expecting a range of between $1.52 and $1.59, according to LSEG.
-The company also lowered its net revenue growth guidance for the full year to 7%, the bottom of its previously provided range of a 7% to 7.5% increase. However, Levi said it expects organic revenue — which strips out foreign exchange changes — to rise 6% for the year, the high end of its previous range.
-Shares of Levi fell nearly 4% on Thursday.
-For its fiscal third quarter, the denim retailer said it saw a 4% increase in net revenues in the Americas, though revenue in the U.S. decreased 1%. It also reported an operating margin of 13.8% for the quarter, compared to 10.8% in the same quarter last year, boosted by tariff refunds that contributed 4.9% to operating margin and gross margin.
-Levi also said its tariff refunds contributed a 16-cent benefit to its earnings per share, of which 5 cents were "redeployed to support the business." On a call with analysts, CEO Michelle Gass said that money is going toward marketing and promotions during the holiday season.
-Here's how Levi performed in its third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 37 cents adjusted vs. 36 cents expected
-- Revenue: $1.61 billion vs. $1.62 billion expected
-For the three-month period ending Aug. 30, Levi reported net income of $168.6 million, or 43 cents per share, down from $218.1 million, or 55 cents per share, the year prior.
-Sales rose roughly 4% to $1.61 billion from $1.54 billion last year.
-Levi said direct-to-consumer net revenues increased 2% in the quarter, but comparable sales were roughly flat. DTC comprised 45% of total net revenue in the third quarter, the company said. On the other hand, wholesale revenues increased 6% for the quarter.
-"While we delivered strong results across much of the business, our DTC performance fell short of our expectations during the quarter," Gass said on the call with analysts. "We have a clear understanding of what worked and what did not, and we have already taken targeted actions to improve performance."
-The company previously said it's been seeing broad-based growth across its business segments, including its core Levi's and its premium blue tab.
-Last month, the company announced John Vandemore will take over as chief financial officer effective Nov. 1, succeeding Harmit Singh, who announced his retirement in April.
-
-</details>
-
-
----
-
-## OpenAI annualised revenues $20bn less than previously signalled - Financial Times
+## SoftBank seeks $100bn from Gulf investors to expand AI bet - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMU9MbGh3YjBaRjd1ZWdRWnFpaTFsWUhBR3czOS0yUWlzS2o3UGVrZmV6dmdsRk9YWTVYUFQ4T1RuM044MkNtRTE0QjJMNjhmYzFVLVpoU01aMUE2eU1CSGRXLWJpN2l4ajZ2dzVHTkNUZ0ZXSXlfdDRrS3NzeTI3S21JNDU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA?oc=5" target="_blank">OpenAI annualised revenues $20bn less than previously signalled</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMU9MbGh3YjBaRjd1ZWdRWnFpaTFsWUhBR3czOS0yUWlzS2o3UGVrZmV6dmdsRk9YWTVYUFQ4T1RuM044MkNtRTE0QjJMNjhmYzFVLVpoU01aMUE2eU1CSGRXLWJpN2l4ajZ2dzVHTkNUZ0ZXSXlfdDRrS3NzeTI3S21JNDU?oc=5" target="_blank">SoftBank seeks $100bn from Gulf investors to expand AI bet</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Starbucks has explored takeover of Chipotle in restaurant megadeal - Financial Times
+## ‘Switzerland has spoken’. Will UBS leave? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDdPS0JsMkZWUmdUbVNiaFF5U2ItZUVtUkRtVHJMZVJ5bnZSc2p2eGNwWFdMRmRpazlVYlhtRzlFMzM5T2RqMjl6TldwZUtHNjdkVDJBQWRnY25YLXJaQ1dNNUtiVmpxTThWQXAtN1pLcHRWd0htRmRLRUJ2NlBmT0VlRTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5" target="_blank">Starbucks has explored takeover of Chipotle in restaurant megadeal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDdPS0JsMkZWUmdUbVNiaFF5U2ItZUVtUkRtVHJMZVJ5bnZSc2p2eGNwWFdMRmRpazlVYlhtRzlFMzM5T2RqMjl6TldwZUtHNjdkVDJBQWRnY25YLXJaQ1dNNUtiVmpxTThWQXAtN1pLcHRWd0htRmRLRUJ2NlBmT0VlRTA?oc=5" target="_blank">‘Switzerland has spoken’. Will UBS leave?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Goldman Sachs to pay top executives $500mn in special bonuses - Financial Times
+## Five ways to tell if market trouble lies ahead - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk1fMWZnNzl2WVBuTTBXWVZENjdpTGRWOUVVdmVBckF1MlgyaHR4cUJhcElrYVJWYjJHa1ZnTW05Nmdwbi1Uc290ZmpRV2swQUw0X0F1aF96UzVSQzV1eS02MHpPRnNjLTlPbTY0bEtjY2VHRzE2WXdzZEJpMUs0b0JWOUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQak9rNG8wUEZmZTBCbjM1MmxCYmJFY295WWRTTklCRGRzY3F1eXpZVDlFZDB6S2lRY1Q5TWVPc3NYR3g5UWhLY1E3VUtJRi13OGt5Ylp2NWd5dmd2S2Jha1BFVV9hTFkwRlJ0TFpnRmhMVTJMbzhSRGhRRzZvRHRvNzJTcTY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk1fMWZnNzl2WVBuTTBXWVZENjdpTGRWOUVVdmVBckF1MlgyaHR4cUJhcElrYVJWYjJHa1ZnTW05Nmdwbi1Uc290ZmpRV2swQUw0X0F1aF96UzVSQzV1eS02MHpPRnNjLTlPbTY0bEtjY2VHRzE2WXdzZEJpMUs0b0JWOUU?oc=5" target="_blank">Goldman Sachs to pay top executives $500mn in special bonuses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQak9rNG8wUEZmZTBCbjM1MmxCYmJFY295WWRTTklCRGRzY3F1eXpZVDlFZDB6S2lRY1Q5TWVPc3NYR3g5UWhLY1E3VUtJRi13OGt5Ylp2NWd5dmd2S2Jha1BFVV9hTFkwRlJ0TFpnRmhMVTJMbzhSRGhRRzZvRHRvNzJTcTY?oc=5" target="_blank">Five ways to tell if market trouble lies ahead</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## FirstFT: OpenAI’s $20bn annualised revenue gap - Financial Times
+## Lib Dem leader Ed Davey fights off attempted coup by senior MP - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEsxSDhNeTJrQnN5Wlg3UnYwNVNnR2Q4MWp5bEYzZl9pdkNwVXBEWUJVWVlZRlJOVjM3OVpKZWNCalVqTlZYT1VnUXBNUVJkNFdTa3d3Q0dHem9yVW1NT2Y2M0IwWUg2aU1qUkRzYnFZUG10RTdwTm9WVEcwcEtBbFhWV3k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHJuRU1wTGEtVEJMeWxpY3dJekRKTFBCWV9mLWZyN3dnTTJXdUFNb2x4Yk5LQXIweUwxTkM5X1EwMUVCbDN2VGxlcmljWXJFV0VhX2lhd05JYjJpMkRXQks1dWtWdU9zWU1jUUthd25ZMEdoR2l4eG9nY09HY0VOYzY1OTI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEsxSDhNeTJrQnN5Wlg3UnYwNVNnR2Q4MWp5bEYzZl9pdkNwVXBEWUJVWVlZRlJOVjM3OVpKZWNCalVqTlZYT1VnUXBNUVJkNFdTa3d3Q0dHem9yVW1NT2Y2M0IwWUg2aU1qUkRzYnFZUG10RTdwTm9WVEcwcEtBbFhWV3k?oc=5" target="_blank">FirstFT: OpenAI’s $20bn annualised revenue gap</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHJuRU1wTGEtVEJMeWxpY3dJekRKTFBCWV9mLWZyN3dnTTJXdUFNb2x4Yk5LQXIweUwxTkM5X1EwMUVCbDN2VGxlcmljWXJFV0VhX2lhd05JYjJpMkRXQks1dWtWdU9zWU1jUUthd25ZMEdoR2l4eG9nY09HY0VOYzY1OTI?oc=5" target="_blank">Lib Dem leader Ed Davey fights off attempted coup by senior MP</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Over 100 Riyadh flights cancelled after Houthis target airport - Financial Times
+## US to publicly execute former soldier by firing squad - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUotMVRZV1RTc2hscGk3YlUyRVFIeGozVlVfeWhMUGN0OU9rVElXblotVGZ1Wk9hbXRTdWVrdzlGRmtEVklvYzJNQnBTUy16LXlSc0xkRlB4VEF2SXdPMmoxb1k5cGJkRTdTejdLS0xRV2ZWY1JOU3JuemFSVFFUMTgxYTU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEpTZDgyeXNZQXJpTWtUckM0T3lTRkt6djFwdE1lWFF1Q2NpQ09UUHR3ZnpNZ1hoeFJFeF9vZTMxeFI3T01OVEVpeC12SkttenJrNDVJQ1MxRUpZSnBSaUhFNnNmMnpjZ0huLWFjc21SUVdiZXJMYU5WR2RqT00wcEdhd0s?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUotMVRZV1RTc2hscGk3YlUyRVFIeGozVlVfeWhMUGN0OU9rVElXblotVGZ1Wk9hbXRTdWVrdzlGRmtEVklvYzJNQnBTUy16LXlSc0xkRlB4VEF2SXdPMmoxb1k5cGJkRTdTejdLS0xRV2ZWY1JOU3JuemFSVFFUMTgxYTU?oc=5" target="_blank">Over 100 Riyadh flights cancelled after Houthis target airport</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEpTZDgyeXNZQXJpTWtUckM0T3lTRkt6djFwdE1lWFF1Q2NpQ09UUHR3ZnpNZ1hoeFJFeF9vZTMxeFI3T01OVEVpeC12SkttenJrNDVJQ1MxRUpZSnBSaUhFNnNmMnpjZ0huLWFjc21SUVdiZXJMYU5WR2RqT00wcEdhd0s?oc=5" target="_blank">US to publicly execute former soldier by firing squad</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil falls as Trump comments on Iran talks ease supply concerns - Reuters
+## Trump teases 'big announcement' on diesel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5" target="_blank">Oil falls as Trump comments on Iran talks ease supply concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5" target="_blank">Trump teases 'big announcement' on diesel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China to resume October fuel exports after a brief halt, four trade sources say - Reuters
+## UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk?oc=5" target="_blank">China to resume October fuel exports after a brief halt, four trade sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5" target="_blank">UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold rises more than 1%, Fed outlook in focus - Reuters
+## Tornado hits Sicilian towns following summer heat-wave - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFg1MHMyWTh6Z1FkVy1JZHF4V0ZLSHpFWWNoV3pGd0dPOHpDbGZ4UTZWaTNhQVJxVUZxOWp2Y2ZJMlVqQjNEeEVlZUtlT1lnS3VsREpsbTNkR1FhdzdYTXhBeXM3NS10S2pvbDBBczR2V1FVU2MzRWlCUVNBRDVfYmVmM1QydnFNNllDQkNpWUIwQVJSWUpIR0hlQk1sM0dvMGx0SjNCUkptdGpJOHlGUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5" target="_blank">Gold rises more than 1%, Fed outlook in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFg1MHMyWTh6Z1FkVy1JZHF4V0ZLSHpFWWNoV3pGd0dPOHpDbGZ4UTZWaTNhQVJxVUZxOWp2Y2ZJMlVqQjNEeEVlZUtlT1lnS3VsREpsbTNkR1FhdzdYTXhBeXM3NS10S2pvbDBBczR2V1FVU2MzRWlCUVNBRDVfYmVmM1QydnFNNllDQkNpWUIwQVJSWUpIR0hlQk1sM0dvMGx0SjNCUkptdGpJOHlGUw?oc=5" target="_blank">Tornado hits Sicilian towns following summer heat-wave</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Tech stocks struggle on AI spending worries, elevated yields - Reuters
+## EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5" target="_blank">Tech stocks struggle on AI spending worries, elevated yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5" target="_blank">EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Giant Taiwan flag flies from helicopter for national day, defying Beijing - Reuters
+## EU says it agrees with China to halve hybrid vehicle exports to EU - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPS05DUkNobUVHY2xjakVoVXloaExuc21pTVdiM3drdGJOZFE1OUNydVRYZTlRdU9ENjBjcy1qWUZlemlUUHFzT1lBN0diRkJNeFRTMENMclpxNlVIYURsZzlSOTBFYUhfWmhTU1ZYdFFFdDBLOENSVWh0dy1ZUG9CNTI3SW9uQUs3bXN6TzhrZUZscC1kQmlDQ3pfem8wR1AtY1BQcXY1YVZFdVJzQmdFVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPS05DUkNobUVHY2xjakVoVXloaExuc21pTVdiM3drdGJOZFE1OUNydVRYZTlRdU9ENjBjcy1qWUZlemlUUHFzT1lBN0diRkJNeFRTMENMclpxNlVIYURsZzlSOTBFYUhfWmhTU1ZYdFFFdDBLOENSVWh0dy1ZUG9CNTI3SW9uQUs3bXN6TzhrZUZscC1kQmlDQ3pfem8wR1AtY1BQcXY1YVZFdVJzQmdFVQ?oc=5" target="_blank">Giant Taiwan flag flies from helicopter for national day, defying Beijing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5" target="_blank">EU says it agrees with China to halve hybrid vehicle exports to EU</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
