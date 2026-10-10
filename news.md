@@ -1,68 +1,119 @@
 # 每日财经新闻
 
-更新时间：2026-10-10 05:18:49
+更新时间：2026-10-10 17:12:05
 
-## India Central Bank Announces Measures to Support Plunging Rupee
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee
+链接：https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：India’s central bank rolled out a series of measures, including opening a special window to meet state-run oil companies’ dollar requirements, as it ramped up support for the plunging rupee.
+摘要：The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featuring singing waiters and the growing popularity of elaborate tuna carving experiences at high-end sushi restaurants. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
 
 
 ---
 
-## China Targets AI-Linked Jobs With New Employment Initiative
+## Hurricane Isaias May Cost Insurers Billions
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative
+链接：https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-may-cost-insurers-billions-video
 
 正文长度：0
 
-摘要：China will launch an employment initiative aimed at adapting skills to the development of artificial intelligence, human-resources officials said at a State Council Information Office briefing on Saturday.
+摘要：Bloomberg Intelligence Senior Insurance Equity Analyst Matthew Palazola tells Bloomberg This Weekend that Hurricane Isaias could generate insured losses in the single-digit billions of dollars, with stronger Florida building codes potentially limiting damage despite rising property values. Speaking with hosts David Gura and Christina Ruffini, Palazola says two relatively mild hurricane seasons have helped insurers rebuild capital, while recent Florida insurance reforms have improved market conditions but have yet to face a major test. (Source: Bloomberg)
 
 
 ---
 
-## Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
+## Russia Plague Scare Raises Public Health Questions
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit
+链接：https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video
 
 正文长度：0
 
-摘要：Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that Donald Trump’s rapprochement with China could come at Taiwan’s expense.
+摘要：Baylor College of Medicine Tropical Medicine Expert Dr. Peter Hotez tells Bloomberg This Weekend that the unexplained death of a researcher at a Russian plague institute raises questions about a possible pneumonic plague infection, although there is no evidence of a wider outbreak or biological weapons activity. Speaking with hosts David Gura and Christina Ruffini, Hotez calls for an independent World Health Organization investigation and warns that the US lacks adequate plague vaccine preparedness. (Source: Bloomberg)
 
 
 ---
 
-## India Masses Police in New Delhi as ‘Cockroach’ Protest Looms
+## Russian Diesel Deal Unlikely to Lower US Prices
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms
+链接：https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video
 
 正文长度：0
 
-摘要：New Delhi woke to a tense Saturday as thousands of police and paramilitary personnel were deployed across the capital ahead of a demonstration by the Cockroach Janta Party over a contentious revision of India’s voter rolls.
+摘要：Bloomberg Economics Economic Statecraft Lead Chris Kennedy tells Bloomberg This Weekend that President Donald Trump's agreement to obtain Russian diesel is unlikely to significantly lower US fuel prices because the proposed November shipment amounts to roughly one day of American consumption. Speaking with hosts David Gura and Christina Ruffini, Kennedy says damage to Russian refineries, logistical challenges and potential legal restrictions raise questions about whether Moscow can deliver the promised fuel, while the agreement could complicate Ukraine's campaign against Russian energy infrastructure. (Source: Bloomberg)
 
 
 ---
 
-## Thai Bourse Revises Short-Selling, High-Frequency Trading Rules
+## Banana Ball Takes Its Baseball Show Nationwide
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-10/thai-bourse-revises-short-selling-high-frequency-trading-rules
+链接：https://www.bloomberg.com/news/videos/2026-10-10/banana-ball-takes-its-baseball-show-nationwide-video
 
 正文长度：0
 
-摘要：Thailand’s stock exchange will roll out revised rules from Nov. 16, including changes to short-selling and high-frequency trading, as it seeks to improve market stability, liquidity and investor confidence, according to a filing.
+摘要：Banana Ball Championship League Owner Jesse Cole tells Bloomberg This Weekend that the Savannah Bananas have built a new kind of baseball experience around faster games, elaborate entertainment and affordable tickets, helping create a wait list of roughly 5 million fans. Speaking with hosts David Gura and Christina Ruffini, Cole says the league plans to keep expanding its audience in the US and internationally while maintaining its fans-first model, including $35 tickets without added fees and free game streams on YouTube. (Source: Bloomberg)
+
+
+---
+
+## From BJ’s to Lululemon, retailers are trimming assortments to boost business
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html
+
+正文长度：6268
+
+摘要：Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Retailers are trimming assortments in an effort to clean up their balance sheets.
+As shoppers cut spending in the face of high gas and food prices, businesses have pulled more levers to boost profitability and appease investors. During earnings calls this year, a range of retailers have highlighted efforts to reduce the number of items they sell, commonly tracked as stock keeping units, or SKUs.
+In March, Dollar General said it trimmed 1,500 SKUs. In August, Under Armour said it shrunk SKUs by 25% over the past few years and plans to cut another 25%, while BJ's Wholesale Club said it plans to reduce roughly 20% of SKUs. In September, Lululemon said it cut North America SKUs by 15%.
+Trimming inventory can help a business stabilize its sales or even get back to growth, and can reduce the chances a company gets stuck with unwanted inventory. But the move can also leave consumers with less choice — a trade-off many retailers have been willing to make.
+Shrink to grow
+When a brand struggles to sell certain products, it can lead to discounting, which hurts profitability. Some markdowns are expected when businesses roll the dice on new products that don't end up selling well, but too many promotions can cause problems.
+"If you have zero discounting, you're not taking enough fashion risk," said Guggenheim Securities senior retail analyst Simeon Siegel. "But discounting needs to be fixing mistakes. It needs to be done quickly."
+Under Armour and Lululemon are both facing repercussions from what investors see as too many markdowns.
+Under Armour's operating income, which illustrates its underlying profitability, turned negative in fiscal 2025 and 2026. The company said its problems would not be solved by chasing unhealthy sales volume or short-term revenue.
+"Today, we're managing for quality. Fewer products with greater purpose, tighter execution and a clear reason to buy," said Under Armour CEO Kevin Plank on the company's fiscal first-quarter earnings call in August. "We will sell so much more of so many less products at a much higher full retail price."
+Siegel said that when a retailer acknowledges it wants to shrink revenue, the goal is to regain pricing power.
+Lululemon grew its sales by more than $500 million from fiscal 2024 to 2025. Yet its operating profit fell by about $300 million in the same time span. Shares are down around 65% over the past two years.
+"Selling fewer options is not the same as selling fewer things," said Siegel. "Lulu has a long way to go, and simply cutting SKUs, simply saying we need to have better product is not the answer."
+Siegel said too much of even the best product can dilute the value of a brand.
+Lululemon reported $6.3 billion in U.S. sales in fiscal 2025. Siegel said $3 billion to $4 billion in domestic revenue is where companies typically hit a healthy saturation level.
+"It's a level where they can be large and still cool. Above that, they start cheapening what they stand for, literally cheapening the product, but also cheapening the perception," said Siegel.
+He noted that Nike is an exception to this rule, after posting $20 billion in North American sales in fiscal 2026.
+Still, the apparel and footwear giant, which has seen shares crater around 45% this year, said it is "rebalancing" its portfolio, having reduced revenue from classic footwear franchises by more than $2 billion in fiscal 2026, according to its fiscal 2026 fourth-quarter earnings call in June.
+Inventory management
+For small-box stores such as Dollar General and big-box retailers like BJ's, cutting down the assortment doesn't necessarily give them the ability to raise prices.
+Rather, for those stores carrying thousands of brands, removing certain products can help them better manage inventory and refine their offerings to help stabilize the business.
+"When you shrink a box ... and say, I'm going to focus more on curation, you're getting smaller, but you're trying to reestablish why someone's walking into your box in the first place. And so it does get better, but it doesn't necessarily help your bottom line as much," said Siegel.
+BJ's CEO Robert Eddy said reducing choice, such as cutting the number of scents of body wash, pushes sales into the remaining products on shelves and then makes room for more product categories that weren't previously offered.
+"That is sourcing sales growth as well and sort of giving us the formula where we can cut SKUs, and see sales go up, and see margin dollars go up," Eddy said on the company's fiscal 2026 second-quarter earnings call in August.
+In June 2025, Dollar General said the elimination of 1,000 SKUs from the previous year opened up more shelf space for its best-selling products and added to its top line. By March 2026, the company said, it had reduced up to 1,500 SKUs, providing benefits to the overall supply chain.
+"Being more productive there means getting product to the shelf faster and being there for the consumer with the right amount of items and products that she's looking for as quickly as we possibly can," Dollar General CEO Todd Vasos said in the company's fiscal 2026 second-quarter earnings call in August. "As we go forward, the team is looking at continued SKU rationalization, albeit probably more surgical in nature."
+Getting it right
+Successfully slashing products from shelves is difficult in practice.
+Box stores risk losing customers to competitors that offer the products they scrapped. BJ's, for instance, acknowledged that a previous attempt to cut SKUs was unsuccessful.
+"We just cut SKUs which cut sales, and then we added some SKUs back and so really what we're doing now is removing unnecessary choice," Eddy said on the company's earnings call in August. "Think about in traditional soda, we don't carry cans and one-liters and two-liters of the same product anymore."
+Meanwhile, publicly traded brands that acknowledge sales need to decline in order for the business to grow still have answers to investors in the near term.
+"It's hard for a company ever to say we need to shrink anything, but it's dramatically harder to say we need to shrink revenues," said Siegel. "Frequently we find that brands hit a peak, a healthy peak, extend past the peak by forcing it and then find their way back down pretty harshly."
+
+</details>
 
 
 ---
@@ -243,48 +294,41 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 ---
 
-## PepsiCo cuts earnings forecast as North American turnaround takes longer than expected
+## AI borrowing slows as investors grow wary of debt binge - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4712
+正文长度：0
 
-摘要：Pepsi's North American business continues to lag behind its international markets.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5" target="_blank">AI borrowing slows as investors grow wary of debt binge</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> PepsiCo on Thursday reported quarterly earnings and revenue that topped analysts' expectations, fueled by international growth as its North American business continues to lag.
-With one quarter left in 2026, the company also lowered its forecast for its full-year earnings, as its struggles in its home market weigh on profits. Pepsi expects core earnings per share to increase 2.5% to 3.5%, down from its previous projection of the low end of a range from 5% to 7%. It also now expects net revenue growth of about 6%, on the high end of its prior outlook of a range of 4% to 6%.
-Shares of Pepsi rose about 2% in morning trading.
-Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $2.34 adjusted vs. $2.29 expected
-- Revenue: $25.27 billion vs. $24.96 billion expected
-Pepsi reported fiscal third-quarter net income attributable to the company of $3.05 billion, or $2.23 per share, up from $2.6 billion, or $1.90 per share, a year earlier.
-Excluding items, the company earned $2.34 per share.
-Net sales rose 5.6% to $25.27 billion. Organic revenue, which excludes acquisitions, divestitures and foreign exchange, increased 3.1% during the quarter.
-The company reported volume growth of 3% for its beverages and 1% for its food for the quarter. Volume excludes pricing and currency fluctuations to reflect demand more accurately.
-Pepsi's international markets were once again the bright spot. The company's international business has accounted for 41% of its net revenue so far this year, CEO Ramon Laguarta said in prepared remarks.
-Pepsi saw volume growth in all but one of its international business units during the quarter. Only its convenient foods division in Europe, the Middle East and Africa reported declining volume, of 1%.
-But in its home market, Pepsi once again struggled.
-"Our business in North America performed below our expectations and represents a meaningful opportunity for improvement," Laguarta said.
-Its North American beverage unit saw volume shrink 2%, while its North American food division reported flat volume.
-The turnaround of its domestic business is moving more slowly than expected, CFO Steve Schmitt said in prepared remarks. So far, the strategy to fix the struggling divisions has focused on innovation and the company's advertising and marketing.
-For its snacks, Pepsi has leaned into simpler ingredients, "alternative" oils and functional benefits, like protein and fiber.
-In February, Pepsi lowered prices by as much as 15% on many of its snacks, including Lay's and Doritos. The move followed weak U.S. performance by its snack brands as budget-conscious shoppers, facing higher prices across the grocery store, skipped the chips.
-The bet has paid off for the company, Laguarta said on the company's earnings conference call.
-"We're happy with the turnaround in the volume performance," he said. "If you think about last year, that business was low single-digit negative volume growth. This year, we're low single-digit positive growth."
-North American demand for Pepsi's snacks was weaker than expected this quarter, which Laguarta chalked up to "the consumer environment."
-Pepsi executives are projecting "a new wave of inflation" caused by higher energy prices. Laguarta predicted that the company will implement "revenue management tactics," industry jargon that typically means price hikes. But he said that the company will have "guardrails" to make sure that retailers do not price its snacks too high for shoppers.
-The North American beverage business was more disappointing, particularly the company's soft drinks portfolio, which includes its namesake soda, Mountain Dew and Poppi, among others. The company plans to stay focused on functional hydration, flavored soft drinks, energy drinks and zero-sugar options.
-However, Laguarta said some recent trends show the company's efforts are working.
-Pepsi's North American convenient foods business, which includes brands like Doritos and Quaker Oats, had its organic revenue improve sequentially. Its North American beverage unit, which includes its namesake soda and Gatorade, among other brands, saw organic volume trends pick up, thanks to its functional hydration and zero-sugar drinks. But Pepsi's carbonated soft drink portfolio lagged behind the overall category, including rival Coca-Cola.
-Pepsi is planning cost reductions to cut down on redundancies and discretionary spending to pay for investments in innovation and marketing, Laguarta said in prepared remarks.
-Correction: Pepsi's fiscal third-quarter net income attributable to the company was up from a year earlier. An earlier version misstated the direction.
+---
 
-</details>
+## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVllVZnNTaS1hU1kwSDByOGpELXQwV19OYlJJV0swSU95NjRyWmhfcEE1NTUzV25aVzVXQzN0ZmhMQW5tdUtqektsRkdrWTBqeUhsN3NEM2tnbUZQV2daSEM1NWJYbnNBak9haTJxdmFGb240R3A1c045S0trVDZpNEQ5N1k?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVllVZnNTaS1hU1kwSDByOGpELXQwV19OYlJJV0swSU95NjRyWmhfcEE1NTUzV25aVzVXQzN0ZmhMQW5tdUtqektsRkdrWTBqeUhsN3NEM2tnbUZQV2daSEM1NWJYbnNBak9haTJxdmFGb240R3A1c045S0trVDZpNEQ5N1k?oc=5" target="_blank">US warns Kyiv that strikes on Russia jeopardise intelligence-sharing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Napa Valley’s hangover - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1M3YzRRcEpqNGkyVjNIemRVcjY0cWVUU2tsdmRYMnJEZENjR3JrXzU1bW5QZzlJTUk0cXpFOXpMNjdMU3dlNEZkT3Zud0pPLVZJTkZ3R2JwODZxcTB5Wk4tWXRSNS1ZUU9rX0RvNk4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1M3YzRRcEpqNGkyVjNIemRVcjY0cWVUU2tsdmRYMnJEZENjR3JrXzU1bW5QZzlJTUk0cXpFOXpMNjdMU3dlNEZkT3Zud0pPLVZJTkZ3R2JwODZxcTB5Wk4tWXRSNS1ZUU9rX0RvNk4?oc=5" target="_blank">Napa Valley’s hangover</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -302,119 +346,80 @@ Correction: Pepsi's fiscal third-quarter net income attributable to the company 
 
 ---
 
-## Donald Trump pressures Mexico for energy deals in crunch trade talks - Financial Times
+## Trump and Hegseth’s execution-type deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXY0SmRmN2JIb1RPaFp0ZlVMa3lWMjhZMGZFVmdycnRadmFOVUs3RVltdGctN29jNld5U3JVVktYY2VqNHE5SVRzWFNiSmlpeG1BWlotOTdrU1dTNGZ2V0hLNG1zZGQ4WUduQ2pfRURBLXk2RWd1b0FFVng3dHR6S2swWmg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9iYWxDOHIwMjZuS3M3djcySG9zeVJUSS1SZ2NSMzdnbS12ZXZwRTBUdEQwZ1dHcVVGYUVIWjZkNGZkUWVkMGlsM0k5cGlfV016YUNtcUVwSjIzUUQxRHJXOHZzSFBsd0VUNlp4VjV1VnczYmNILV9leHUyT1lWbHJXVUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXY0SmRmN2JIb1RPaFp0ZlVMa3lWMjhZMGZFVmdycnRadmFOVUs3RVltdGctN29jNld5U3JVVktYY2VqNHE5SVRzWFNiSmlpeG1BWlotOTdrU1dTNGZ2V0hLNG1zZGQ4WUduQ2pfRURBLXk2RWd1b0FFVng3dHR6S2swWmg?oc=5" target="_blank">Donald Trump pressures Mexico for energy deals in crunch trade talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9iYWxDOHIwMjZuS3M3djcySG9zeVJUSS1SZ2NSMzdnbS12ZXZwRTBUdEQwZ1dHcVVGYUVIWjZkNGZkUWVkMGlsM0k5cGlfV016YUNtcUVwSjIzUUQxRHJXOHZzSFBsd0VUNlp4VjV1VnczYmNILV9leHUyT1lWbHJXVUw?oc=5" target="_blank">Trump and Hegseth’s execution-type deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The hazy OpenAI growth metric driving Wall Street - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUG9JMXAxUUtSMVdGU3MwdmpPM2JRdU5wTjMyNU1uU0JRVFV3ZDNreGxLdWFEXzJubjNPdkVIMldvcmNoRGRjQlcwel9NVS04MVV4bG4zRmFzZHY1NlBhZERsZThxeFFhSzNIWDF3eHU3TGxBcHFiM3NVVkN5dmZkUVRaSkY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUG9JMXAxUUtSMVdGU3MwdmpPM2JRdU5wTjMyNU1uU0JRVFV3ZDNreGxLdWFEXzJubjNPdkVIMldvcmNoRGRjQlcwel9NVS04MVV4bG4zRmFzZHY1NlBhZERsZThxeFFhSzNIWDF3eHU3TGxBcHFiM3NVVkN5dmZkUVRaSkY?oc=5" target="_blank">The hazy OpenAI growth metric driving Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## China and EU avert trade conflict with ‘understanding’ on hybrid cars - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONWRDaXNvdGlIY0JHdjAySzBVckZTelVyd25XWUY1NHo3ck1VS0tQZV85MDBKc2pCbmdYVzR6T2xVcHBSaXlLcVR6c1Q3UTNSVEctd1M2V0oxYTVNeG9TYkJaQmxxa05kMU13OWJyMGRCWFQ0NkczQXFVbGtYdUNYQTVaZTg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONWRDaXNvdGlIY0JHdjAySzBVckZTelVyd25XWUY1NHo3ck1VS0tQZV85MDBKc2pCbmdYVzR6T2xVcHBSaXlLcVR6c1Q3UTNSVEctd1M2V0oxYTVNeG9TYkJaQmxxa05kMU13OWJyMGRCWFQ0NkczQXFVbGtYdUNYQTVaZTg?oc=5" target="_blank">China and EU avert trade conflict with ‘understanding’ on hybrid cars</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## SoftBank seeks $100bn from Gulf investors to expand AI bet - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMU9MbGh3YjBaRjd1ZWdRWnFpaTFsWUhBR3czOS0yUWlzS2o3UGVrZmV6dmdsRk9YWTVYUFQ4T1RuM044MkNtRTE0QjJMNjhmYzFVLVpoU01aMUE2eU1CSGRXLWJpN2l4ajZ2dzVHTkNUZ0ZXSXlfdDRrS3NzeTI3S21JNDU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMU9MbGh3YjBaRjd1ZWdRWnFpaTFsWUhBR3czOS0yUWlzS2o3UGVrZmV6dmdsRk9YWTVYUFQ4T1RuM044MkNtRTE0QjJMNjhmYzFVLVpoU01aMUE2eU1CSGRXLWJpN2l4ajZ2dzVHTkNUZ0ZXSXlfdDRrS3NzeTI3S21JNDU?oc=5" target="_blank">SoftBank seeks $100bn from Gulf investors to expand AI bet</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize - Reuters
+## Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5" target="_blank">Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5" target="_blank">Multiple people wounded in blast at Riyadh airport, say eyewitnesses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US says Chinese actions off Taiwan are 'deeply destabilising' - Reuters
+## Three injured in Poland's third youth stabbing attack in four days - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?oc=5" target="_blank">US says Chinese actions off Taiwan are 'deeply destabilising'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5" target="_blank">Three injured in Poland's third youth stabbing attack in four days</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia - Reuters
+## Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5" target="_blank">US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5" target="_blank">Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump takes suit against Hillary Clinton over 2016 election to Supreme Court - Reuters
+## Eritrea asks UN to intervene in standoff with Ethiopia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVQQ1FJc21EX0hkTWpFMm5td0didnhKT3JERTdzMUk0aVpnNGxvQ0hocVFzeVpWeFllQ25rTHU5bm8yOC1LMGZzT3BYaTZkNnRUN3JZUnNDekVuc1A2STl3YWExYTJEYjB4SWx5U2VZSk5rUzdvdWZkYV9ZaUtiOWMyRjYtRjVxZXhpRmVMeE41ekxjSE1ORTBkU0pEeWQtZ2JRV25iYlIyNl93WEh5NVB0Z3JmUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVQQ1FJc21EX0hkTWpFMm5td0didnhKT3JERTdzMUk0aVpnNGxvQ0hocVFzeVpWeFllQ25rTHU5bm8yOC1LMGZzT3BYaTZkNnRUN3JZUnNDekVuc1A2STl3YWExYTJEYjB4SWx5U2VZSk5rUzdvdWZkYV9ZaUtiOWMyRjYtRjVxZXhpRmVMeE41ekxjSE1ORTBkU0pEeWQtZ2JRV25iYlIyNl93WEh5NVB0Z3JmUQ?oc=5" target="_blank">Trump takes suit against Hillary Clinton over 2016 election to Supreme Court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5" target="_blank">Eritrea asks UN to intervene in standoff with Ethiopia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters
+## Ronaldo provisionally suspended after national team walkout, media reports say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5" target="_blank">Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5" target="_blank">Ronaldo provisionally suspended after national team walkout, media reports say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
