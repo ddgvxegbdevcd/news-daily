@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-10 17:12:05
+更新时间：2026-10-11 05:09:38
 
-## By The Way: Headlines You May Have Missed
+## Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video
+链接：https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit
 
 正文长度：0
 
-摘要：The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featuring singing waiters and the growing popularity of elaborate tuna carving experiences at high-end sushi restaurants. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
+摘要：Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President Donald Trump’s rapprochement with China could come at Taiwan’s expense.
 
 
 ---
 
-## Hurricane Isaias May Cost Insurers Billions
+## China Issues Draft Standards for Remanufactured Automotive Parts
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-may-cost-insurers-billions-video
+链接：https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts
 
 正文长度：0
 
-摘要：Bloomberg Intelligence Senior Insurance Equity Analyst Matthew Palazola tells Bloomberg This Weekend that Hurricane Isaias could generate insured losses in the single-digit billions of dollars, with stronger Florida building codes potentially limiting damage despite rising property values. Speaking with hosts David Gura and Christina Ruffini, Palazola says two relatively mild hurricane seasons have helped insurers rebuild capital, while recent Florida insurance reforms have improved market conditions but have yet to face a major test. (Source: Bloomberg)
+摘要：China released draft rules that would establish nationwide requirements for automotive-parts remanufacturing, including standards for the sourcing of used components, product quality, traceability and market oversight.
 
 
 ---
 
-## Russia Plague Scare Raises Public Health Questions
+## India’s Rupee Defense Raises Question of How Far RBI Will Go
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video
+链接：https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go
 
 正文长度：0
 
-摘要：Baylor College of Medicine Tropical Medicine Expert Dr. Peter Hotez tells Bloomberg This Weekend that the unexplained death of a researcher at a Russian plague institute raises questions about a possible pneumonic plague infection, although there is no evidence of a wider outbreak or biological weapons activity. Speaking with hosts David Gura and Christina Ruffini, Hotez calls for an independent World Health Organization investigation and warns that the US lacks adequate plague vaccine preparedness. (Source: Bloomberg)
+摘要：The Reserve Bank of India is broadening its defenses to steady the rupee, taking some of its strongest measures since the 2013 taper tantrum. That may give the currency a boost as trading resumes Monday, but the question remains: how far is the central bank willing to go as external pressures mount?
 
 
 ---
 
-## Russian Diesel Deal Unlikely to Lower US Prices
+## Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video
+链接：https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers
 
 正文长度：0
 
-摘要：Bloomberg Economics Economic Statecraft Lead Chris Kennedy tells Bloomberg This Weekend that President Donald Trump's agreement to obtain Russian diesel is unlikely to significantly lower US fuel prices because the proposed November shipment amounts to roughly one day of American consumption. Speaking with hosts David Gura and Christina Ruffini, Kennedy says damage to Russian refineries, logistical challenges and potential legal restrictions raise questions about whether Moscow can deliver the promised fuel, while the agreement could complicate Ukraine's campaign against Russian energy infrastructure. (Source: Bloomberg)
+摘要：South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the $4.3 trillion stock market is rapidly losing relevance with investors.
 
 
 ---
 
-## Banana Ball Takes Its Baseball Show Nationwide
+## AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-10/banana-ball-takes-its-baseball-show-nationwide-video
+链接：https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly
 
 正文长度：0
 
-摘要：Banana Ball Championship League Owner Jesse Cole tells Bloomberg This Weekend that the Savannah Bananas have built a new kind of baseball experience around faster games, elaborate entertainment and affordable tickets, helping create a wait list of roughly 5 million fans. Speaking with hosts David Gura and Christina Ruffini, Cole says the league plans to keep expanding its audience in the US and internationally while maintaining its fans-first model, including $35 tickets without added fees and free game streams on YouTube. (Source: Bloomberg)
+摘要：When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc. only amplified investor fears about the wave of coming debt.
 
 
 ---
@@ -294,15 +294,28 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 ---
 
-## AI borrowing slows as investors grow wary of debt binge - Financial Times
+## Nvidia in talks to acquire US ‘open’ model start-up Reflection AI - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5" target="_blank">AI borrowing slows as investors grow wary of debt binge</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5" target="_blank">Nvidia in talks to acquire US ‘open’ model start-up Reflection AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Missile strike on Riyadh airport kills 12 and injures hundreds - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5" target="_blank">Missile strike on Riyadh airport kills 12 and injures hundreds</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -320,6 +333,19 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 ---
 
+## How protein took over the world - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0Z4elRNMTk0TzVDdzVXTWhpYllOWlk0OW5LRlltSmNEd1dNUVVYUVo0Qjk3T1JNMnZ3azlTOUNFNFFOVVhXNUxoalNtZk9oajE3M2VnT3JDZmN1Yk5wZXMxQW5LZFp6N0NLZElONlFvNFp3ZTBtRW5mcnRhMkd1OEt2WEs?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0Z4elRNMTk0TzVDdzVXTWhpYllOWlk0OW5LRlltSmNEd1dNUVVYUVo0Qjk3T1JNMnZ3azlTOUNFNFFOVVhXNUxoalNtZk9oajE3M2VnT3JDZmN1Yk5wZXMxQW5LZFp6N0NLZElONlFvNFp3ZTBtRW5mcnRhMkd1OEt2WEs?oc=5" target="_blank">How protein took over the world</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Napa Valley’s hangover - Financial Times
 
 来源：金融时报
@@ -333,93 +359,67 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 ---
 
-## Trump agrees deal with Putin for Russia to release diesel on to global market - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEpfQUt4N0dsSkdPd0R3NnBQYnpPY01HdDBXbDU3MkRhVnF4RElJZldwd1NmTFdGSzQwSm4wbWRRZ2dOVUI1VmdVQ2QzWVUycjk4Y1dGU01mbGp0WTlSMXVRZm96blV6R040cUhmcUZoMHdMZGJfY1RuMkEzQk41bmRuNnE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEpfQUt4N0dsSkdPd0R3NnBQYnpPY01HdDBXbDU3MkRhVnF4RElJZldwd1NmTFdGSzQwSm4wbWRRZ2dOVUI1VmdVQ2QzWVUycjk4Y1dGU01mbGp0WTlSMXVRZm96blV6R040cUhmcUZoMHdMZGJfY1RuMkEzQk41bmRuNnE?oc=5" target="_blank">Trump agrees deal with Putin for Russia to release diesel on to global market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump and Hegseth’s execution-type deal - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9iYWxDOHIwMjZuS3M3djcySG9zeVJUSS1SZ2NSMzdnbS12ZXZwRTBUdEQwZ1dHcVVGYUVIWjZkNGZkUWVkMGlsM0k5cGlfV016YUNtcUVwSjIzUUQxRHJXOHZzSFBsd0VUNlp4VjV1VnczYmNILV9leHUyT1lWbHJXVUw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9iYWxDOHIwMjZuS3M3djcySG9zeVJUSS1SZ2NSMzdnbS12ZXZwRTBUdEQwZ1dHcVVGYUVIWjZkNGZkUWVkMGlsM0k5cGlfV016YUNtcUVwSjIzUUQxRHJXOHZzSFBsd0VUNlp4VjV1VnczYmNILV9leHUyT1lWbHJXVUw?oc=5" target="_blank">Trump and Hegseth’s execution-type deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters
+## US military says it disabled cargo vessel trying to run Iran blockade - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5" target="_blank">Multiple people wounded in blast at Riyadh airport, say eyewitnesses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5" target="_blank">US military says it disabled cargo vessel trying to run Iran blockade</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Three injured in Poland's third youth stabbing attack in four days - Reuters
+## Justice Department probes TV networks over Trump pool boycott - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5" target="_blank">Three injured in Poland's third youth stabbing attack in four days</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5" target="_blank">Justice Department probes TV networks over Trump pool boycott</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters
+## Real's Vinicius apologises after red card for hair pull against Villarreal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVpvVnlKa3pqRnVJWFdjckc0MEhIWldRbkRzc1dJb1JqNUtYNmdCdTNJSUJDN1FfcHJmSkJrdllManZ4Ql9xenlaLUxfbzk3RllUV09ISzJ6bWo2TDNkMnhaOFYtc3FjU1FiTXQ4QW5tTVl1YkVudEVmZzZnN0JIZ25oZG12VUxMRFA2d2EtMjVSczF1emEtblF6OWZfMWstcU1PZmdUdDFGWm1yWTg0RmR6QjdGY2xSandv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5" target="_blank">Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVpvVnlKa3pqRnVJWFdjckc0MEhIWldRbkRzc1dJb1JqNUtYNmdCdTNJSUJDN1FfcHJmSkJrdllManZ4Ql9xenlaLUxfbzk3RllUV09ISzJ6bWo2TDNkMnhaOFYtc3FjU1FiTXQ4QW5tTVl1YkVudEVmZzZnN0JIZ25oZG12VUxMRFA2d2EtMjVSczF1emEtblF6OWZfMWstcU1PZmdUdDFGWm1yWTg0RmR6QjdGY2xSandv?oc=5" target="_blank">Real's Vinicius apologises after red card for hair pull against Villarreal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Eritrea asks UN to intervene in standoff with Ethiopia - Reuters
+## Nvidia in talks to invest further in Reflection AI or buy it, FT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5" target="_blank">Eritrea asks UN to intervene in standoff with Ethiopia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5" target="_blank">Nvidia in talks to invest further in Reflection AI or buy it, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ronaldo provisionally suspended after national team walkout, media reports say - Reuters
+## Tennessee execution survivor Christa Pike released from hospital, returned to prison - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUJqTFVhVWg5elBKcjljdHFwWXZoQzVYRjE5RHJJNFRZRXJvcFE3ODJTRk44bmY0V2NJdTlmclYxTEZ4cm1QWkdYRFl1alhfLTVPdUZaQmN6aDBfNlp2MVhLYWVVaEZfVl9HamI2QnJyak4tdmYyTTI3NVZOaS1Vd0tOUENNdkN1VFV1Sl9waFNiUnQ1N2JlQWlhVXNUZ2FxNFFwVjZjbzk3TXdKY2hTcnFmZkxvREFPdHJfYkowZGYtT29BWmVZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5" target="_blank">Ronaldo provisionally suspended after national team walkout, media reports say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUJqTFVhVWg5elBKcjljdHFwWXZoQzVYRjE5RHJJNFRZRXJvcFE3ODJTRk44bmY0V2NJdTlmclYxTEZ4cm1QWkdYRFl1alhfLTVPdUZaQmN6aDBfNlp2MVhLYWVVaEZfVl9HamI2QnJyak4tdmYyTTI3NVZOaS1Vd0tOUENNdkN1VFV1Sl9waFNiUnQ1N2JlQWlhVXNUZ2FxNFFwVjZjbzk3TXdKY2hTcnFmZkxvREFPdHJfYkowZGYtT29BWmVZ?oc=5" target="_blank">Tennessee execution survivor Christa Pike released from hospital, returned to prison</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
