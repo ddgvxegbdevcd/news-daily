@@ -1,70 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-11 17:34:42
+更新时间：2026-10-12 05:23:27
 
-## Bookmarked: Stories That Caught Our Eye This Week
+## Latest Oil Market News and Analysis for Oct. 12
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-11/bookmarked-stories-that-caught-our-eye-this-week-video
+链接：https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12
 
 正文长度：0
 
-摘要：Bloomberg hosts David Gura, Christina Ruffini and Lisa Mateo are on Bloomberg This Weekend for “Bookmarked,” sharing stories that caught their attention over the past week. The hosts discuss the reporting that piqued their interest and explain why those stories stood out from the week’s news. (Source: Bloomberg)
+摘要：Oil declined in a volatile start to the week as traders weighed resilient Middle East flows against rising regional tensions and a US claim that Russia and Ukraine had agreed to a so-called energy ceasefire.
 
 
 ---
 
-## Former US Envoy Warns of Wider Middle East Conflict
+## Stock and Bond Futures Advance as Oil Declines: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-11/former-us-envoy-warns-of-wider-middle-east-conflict-video
+链接：https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap
 
 正文长度：0
 
-摘要：Former White House Middle East Coordinator Brett McGurk tells Bloomberg This Weekend that the deadly attack on Riyadh's international airport underscores the growing threat from Iran-backed Houthi militants, while hardline leadership in Tehran complicates efforts to negotiate an end to the broader regional conflict. Speaking with hosts David Gura and Christina Ruffini, McGurk discusses his new book, Brink, which recounts negotiations to free the October 7 hostages, and warns that the Trump administration's Russian diesel agreement could undermine efforts to end the war in Ukraine. (Source: Bloomberg)
+摘要：Stock and bond futures advanced as oil retreated, with traders looking past the latest attacks on Saudi Arabia that threatened to widen the war in the Middle East.
 
 
 ---
 
-## Saudi Airport Hit Again as Riyadh Set to Host Major Conferences
+## Indian Rupee Jumps on RBI Steps to Support Currency; Bonds Fall
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack
+链接：https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures
 
 正文长度：0
 
-摘要：Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy as it prepares to host major events that seek to boost foreign investment.
+摘要：The Indian rupee strengthened the most in six months after the central bank took some of its strongest measures to bolster the currency since the 2013 taper tantrum.
 
 
 ---
 
-## Globalization Defies a Decade of Populist Pushback
+## EU Agrees to Discuss Curbs on Chinese Inverters After Trade Meet
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-11/globalization-defies-a-decade-of-populist-pushback-video
+链接：https://www.bloomberg.com/news/articles/2026-10-12/eu-agrees-to-discuss-curbs-on-chinese-inverters-after-trade-meet
 
 正文长度：0
 
-摘要：Bloomberg News Senior Economics Writer Shawn Donnan tells Bloomberg This Weekend that globalization has continued to expand despite a decade of populist policies, tariffs and efforts to reshape international trade following Brexit and President Donald Trump's first election victory. Speaking with hosts David Gura and Christina Ruffini, Donnan says growing cross-border investment, global supply chains and digital technology demonstrate that the world economy remains increasingly interconnected despite political resistance. (Source: Bloomberg)
+摘要：China and the European Union have agreed to discuss the bloc’s restrictions on imports of inverters, a key piece of clean technology, offering potential relief to Chinese firms facing curbs on sales to a major overseas market.
 
 
 ---
 
-## Riyadh Airport Attack, Trump To Ukraine: “Time To Get A New President”
+## Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-11/bloomberg-this-weekend-10-11-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.
-
-Joined by Jason Horowitz - NYT Former Rome Bureau Chief, William Taylor - Atlantic Council Eurasia Center Distinguished Fellow, Jennifer Lee - BMO Capital Markets Senior Economist, Brett McGurk - Fmr NSC Coordinator for the Middle East, Ravi Gupta - Author, “The Invisible List”, and Leslie Shedd - Rising Communications President. (Source: Bloomberg)
+摘要："Bloomberg: The Asia Trade" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)
 
 
 ---
@@ -300,128 +298,128 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQmFzTTAtcGhoaTIzRFplR29fV2dadzFPa3pJUi1La3hUN0k3Qmd5ZlhKWW90cXBfekhZNER5OXd6Vm80WGI1U2RFd3J3Q1p3OGNzdGFyV0ZBWGc2SS1FRlVCdmJfTWdwV1lmV25qQnk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTFzWHdoUlBYVThIZmJBTU9zalVsZTVNRklmckxGN3RtdXc3QkEzY05fTnFjVlVCT00yTTJnSkZBOXJQWkVWRVdpbVYtbldEeEUtQkdyUTc2RVZuMXhScy1GM055WW5fYUlfTURRc1ZjQndWTnhkTm83b3Zva29jOGhMSzk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQmFzTTAtcGhoaTIzRFplR29fV2dadzFPa3pJUi1La3hUN0k3Qmd5ZlhKWW90cXBfekhZNER5OXd6Vm80WGI1U2RFd3J3Q1p3OGNzdGFyV0ZBWGc2SS1FRlVCdmJfTWdwV1lmV25qQnk?oc=5" target="_blank">Trump is failing to arrest decline in popularity, FT poll shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTFzWHdoUlBYVThIZmJBTU9zalVsZTVNRklmckxGN3RtdXc3QkEzY05fTnFjVlVCT00yTTJnSkZBOXJQWkVWRVdpbVYtbldEeEUtQkdyUTc2RVZuMXhScy1GM055WW5fYUlfTURRc1ZjQndWTnhkTm83b3Zva29jOGhMSzk?oc=5" target="_blank">Trump is failing to arrest decline in popularity, FT poll shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russia steps up bid to kill European defence chiefs, spy agencies warn - Financial Times
+## US threatens to block arms for Ukraine over attacks on Russian refineries - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXdKMkJKa21zcjlyUzBxeFkxMzlndWdUQXlYVzV6Tm45MVdCcktaNkJZTTlBYnowUXV1TEtLay1kVWtvYmJXRWpOU3NwTDhkSVhMSDc3VFgxbmNVQlg1WXVQdUt0XzlvenlBOERPVERrOTlFZU5DTkVvYjE5T0ViS3pmWE0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXdKMkJKa21zcjlyUzBxeFkxMzlndWdUQXlYVzV6Tm45MVdCcktaNkJZTTlBYnowUXV1TEtLay1kVWtvYmJXRWpOU3NwTDhkSVhMSDc3VFgxbmNVQlg1WXVQdUt0XzlvenlBOERPVERrOTlFZU5DTkVvYjE5T0ViS3pmWE0?oc=5" target="_blank">Russia steps up bid to kill European defence chiefs, spy agencies warn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5" target="_blank">US threatens to block arms for Ukraine over attacks on Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US justice department probes TV networks over Trump pool coverage - Financial Times
+## Can Russia meet Trump’s diesel demands? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdi1IQTR1RVEyS21OWVcwTFVZSHFXYXNzOHNuZjZ3ZzViU21vREFGUUZvVVNtN0pBbUFaN1RDNFpnNVh2MVZIZDd3MEtrUFJvQ0VzRTJnNXNQLVlqSE5CYk1ncEZweTFGQ2N5YkdCaEo2eWN5Qk5GaFpHaFhVZGFsYldHZS0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXcwNkstOTJvRjJEejR3OTVoNWs2aHlLMm9LX2dqN1VGdVdncGl5OWh2eEY3bVBDQnpPVWdxaFBDY1BjbjAwN2JxdS1TY3A1VWNCVWRRal9wcXktYjRWZFAxNW1wVFJPZkltYjl6UHhKZHpkeFRTWXlGRkxLR3RhOUlteWo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdi1IQTR1RVEyS21OWVcwTFVZSHFXYXNzOHNuZjZ3ZzViU21vREFGUUZvVVNtN0pBbUFaN1RDNFpnNVh2MVZIZDd3MEtrUFJvQ0VzRTJnNXNQLVlqSE5CYk1ncEZweTFGQ2N5YkdCaEo2eWN5Qk5GaFpHaFhVZGFsYldHZS0?oc=5" target="_blank">US justice department probes TV networks over Trump pool coverage</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXcwNkstOTJvRjJEejR3OTVoNWs2aHlLMm9LX2dqN1VGdVdncGl5OWh2eEY3bVBDQnpPVWdxaFBDY1BjbjAwN2JxdS1TY3A1VWNCVWRRal9wcXktYjRWZFAxNW1wVFJPZkltYjl6UHhKZHpkeFRTWXlGRkxLR3RhOUlteWo?oc=5" target="_blank">Can Russia meet Trump’s diesel demands?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s growing debt burden limits space for economic stimulus - Financial Times
+## Trump faces Republican opposition to his diesel deal with Russia’s Putin - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTlzU2hfam9KbGJuNmtETDdTNVlGeG5SLTVxd1VJUmJpX1BONUw4c3ZtTF9JRWhMSDExVThKV09rMzdMQTNZb3FFaENXdzhfVHhNQWFhVFkwNHptT1dGOWZwRGQzdkszZFBXcEdqTm02ODc1OXFDSkhCa2dWS2dMUVBfLUg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFdBV05Zazk1Y1EzTzY1MzgzcDl3U2d0dGNPOVpQYXF5bUJKcllVQmlMalpjQXdocEhjYm4xdTIzc2E5WTNnWUdLUERmRk02TUl2OU5CdW94SkJSdmpTeExXX2hfb25tcnFUM1pUSDlMM1dtWEZfZ0J6NkdGVmdDM0lMVFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTlzU2hfam9KbGJuNmtETDdTNVlGeG5SLTVxd1VJUmJpX1BONUw4c3ZtTF9JRWhMSDExVThKV09rMzdMQTNZb3FFaENXdzhfVHhNQWFhVFkwNHptT1dGOWZwRGQzdkszZFBXcEdqTm02ODc1OXFDSkhCa2dWS2dMUVBfLUg?oc=5" target="_blank">China’s growing debt burden limits space for economic stimulus</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFdBV05Zazk1Y1EzTzY1MzgzcDl3U2d0dGNPOVpQYXF5bUJKcllVQmlMalpjQXdocEhjYm4xdTIzc2E5WTNnWUdLUERmRk02TUl2OU5CdW94SkJSdmpTeExXX2hfb25tcnFUM1pUSDlMM1dtWEZfZ0J6NkdGVmdDM0lMVFE?oc=5" target="_blank">Trump faces Republican opposition to his diesel deal with Russia’s Putin</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia in talks to acquire US ‘open’ model start-up Reflection AI - Financial Times
+## Raphaël Glucksmann wins nomination for France’s centre-left - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUMxLXlneFJOSE12YTVQTWE2UFNpSjNqcDk0R1hYRDFhWXhJc2dySEtOQ0laaVctR2FMbjdfcVlzakVYZnBKR1dHaDU1MzNTaWZJOEM5TGxIbDdfMFA1dDNuQ2JrWWYydmtrRTM0MHdPcVFmc2QxNzFIN3lkN3pTOFEyeVg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5" target="_blank">Nvidia in talks to acquire US ‘open’ model start-up Reflection AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUMxLXlneFJOSE12YTVQTWE2UFNpSjNqcDk0R1hYRDFhWXhJc2dySEtOQ0laaVctR2FMbjdfcVlzakVYZnBKR1dHaDU1MzNTaWZJOEM5TGxIbDdfMFA1dDNuQ2JrWWYydmtrRTM0MHdPcVFmc2QxNzFIN3lkN3pTOFEyeVg?oc=5" target="_blank">Raphaël Glucksmann wins nomination for France’s centre-left</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump says Russia and Ukraine reached 'energy ceasefire' - Reuters
+## China sanctions Paraguay, Belize ministers over Taiwan ties - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxObGthQXk1OHFPRzlYcjNKVnk4R1pDQXIyTExXMk02TUU3Qy1WbkFxTFhjRXc2MlpmM0s0bDdwQ1Y5V0JDWHpCdGpfRGxzWFlrU3F0d3FBSjY0X25udzkwVkxBamdoS2xLUE0wWHdVTy1RY0N6dnRmd0dnMnJtU2FQNGpaazRqSU1zcWhPV201ajliQmJPcmZ3ZWZUaXNEWTVx?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxObGthQXk1OHFPRzlYcjNKVnk4R1pDQXIyTExXMk02TUU3Qy1WbkFxTFhjRXc2MlpmM0s0bDdwQ1Y5V0JDWHpCdGpfRGxzWFlrU3F0d3FBSjY0X25udzkwVkxBamdoS2xLUE0wWHdVTy1RY0N6dnRmd0dnMnJtU2FQNGpaazRqSU1zcWhPV201ajliQmJPcmZ3ZWZUaXNEWTVx?oc=5" target="_blank">Trump says Russia and Ukraine reached 'energy ceasefire'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5" target="_blank">China sanctions Paraguay, Belize ministers over Taiwan ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters
+## Gold gains on weaker oil, dollar; US inflation data in focus - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHBvR1Y0bmdYLTV0NHhWQXE1MFFTMHlvYmZRYnRILVMxM3JiSnJaSVBmbUkzVmN6VXptNnBsNDhXRXZEX2hBS1FOZGhyc3Zid3poMksyLUVLNHZkTGNUekxjWUlyejF6N3hpVDdQcFE4OG92REpjamxKSzV0YURObE9xV1FwYlJ5TVUwZjB5N3hSYzJLTUJuV0c0VG1TZ29jMlN0dDQyOTNDR2tBR1dRRS1jWmloaGVTbU9LOEN2ZnBFZFlmdHJn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHBvR1Y0bmdYLTV0NHhWQXE1MFFTMHlvYmZRYnRILVMxM3JiSnJaSVBmbUkzVmN6VXptNnBsNDhXRXZEX2hBS1FOZGhyc3Zid3poMksyLUVLNHZkTGNUekxjWUlyejF6N3hpVDdQcFE4OG92REpjamxKSzV0YURObE9xV1FwYlJ5TVUwZjB5N3hSYzJLTUJuV0c0VG1TZ29jMlN0dDQyOTNDR2tBR1dRRS1jWmloaGVTbU9LOEN2ZnBFZFlmdHJn?oc=5" target="_blank">Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5" target="_blank">Gold gains on weaker oil, dollar; US inflation data in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU - Reuters
+## US judge orders halt to taxpayer-funded ads featuring Trump - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5" target="_blank">Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5" target="_blank">US judge orders halt to taxpayer-funded ads featuring Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Germany backs Ukraine's Zelenskiy after Trump's call for his removal - Reuters
+## TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHctY0FCSGlIZVRCbWoyZWVocUlPbEZ1c3hSWEFNbDVnYjBvMWVEUjRzU2UtTVhvTHR1ekNhR0x5VUhTTFM1U1Z0SzJ3YWZXSFZxQ1FnVHhIWWFkLWl4SGQ2NkpXYVBZbWVIX0hJVDF3WW5nOFNSYWFKdDdHOUNuanoyRHotUVhVdW05WmphYVg1WDVYeW9idUJnLTcyT0FWcHM5X01lSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHctY0FCSGlIZVRCbWoyZWVocUlPbEZ1c3hSWEFNbDVnYjBvMWVEUjRzU2UtTVhvTHR1ekNhR0x5VUhTTFM1U1Z0SzJ3YWZXSFZxQ1FnVHhIWWFkLWl4SGQ2NkpXYVBZbWVIX0hJVDF3WW5nOFNSYWFKdDdHOUNuanoyRHotUVhVdW05WmphYVg1WDVYeW9idUJnLTcyT0FWcHM5X01lSQ?oc=5" target="_blank">Germany backs Ukraine's Zelenskiy after Trump's call for his removal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5" target="_blank">TSMC expected to report sixth straight quarter of record profit thanks to AI boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Strike reported on Yemeni Sanaa airport, Houthi-run TV says - Reuters
+## Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2hZZTRZLXk2amlHSS1zWkYtUmkzdy1EUWRFZ3lRUzRLX2hOMkxkLXBSR1hnVmd1UkNrN0NpNXNneXgwcGJ2ZzgwRFRRUVo5QS1xSWlENjhWN1M0MGR5eFpPOVZQT0dMUGRWcTQ1YTN3aHhpTjZVVGVqSldfcDN3SFZTQTJSMTUyX1psaXpyb2VKTVU0OGIzeFViOXZGVnRGb0lvTDNVdERoX0tHaHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2hZZTRZLXk2amlHSS1zWkYtUmkzdy1EUWRFZ3lRUzRLX2hOMkxkLXBSR1hnVmd1UkNrN0NpNXNneXgwcGJ2ZzgwRFRRUVo5QS1xSWlENjhWN1M0MGR5eFpPOVZQT0dMUGRWcTQ1YTN3aHhpTjZVVGVqSldfcDN3SFZTQTJSMTUyX1psaXpyb2VKTVU0OGIzeFViOXZGVnRGb0lvTDNVdERoX0tHaHc?oc=5" target="_blank">Strike reported on Yemeni Sanaa airport, Houthi-run TV says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5" target="_blank">Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
