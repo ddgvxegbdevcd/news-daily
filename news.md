@@ -1,21 +1,49 @@
 # 每日财经新闻
 
-更新时间：2026-10-12 05:23:27
+更新时间：2026-10-12 21:08:06
 
-## Latest Oil Market News and Analysis for Oct. 12
+## Why China Generates Too Much Power
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12
+链接：https://www.bloomberg.com/news/videos/2026-10-08/why-china-generates-too-much-power-video
 
 正文长度：0
 
-摘要：Oil declined in a volatile start to the week as traders weighed resilient Middle East flows against rising regional tensions and a US claim that Russia and Ukraine had agreed to a so-called energy ceasefire.
+摘要：China is racing to power a future of artificial intelligence and robots with renewables. But as it builds more electricity capacity than ever before, it faces a new challenge: whether the grid can keep up. (Source: Bloomberg)
 
 
 ---
 
-## Stock and Bond Futures Advance as Oil Declines: Markets Wrap
+## Defiance CEO's Son Inspires Autism ETF
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-10-12/defiance-ceo-s-son-inspires-autism-etf-video
+
+正文长度：0
+
+摘要：Matthew Bielski, founder and CEO at Defiance ETFs, joins Scarlet Fu and Eric Balchunas on "ETF IQ". They discuss the Defiance Autism Impact ETF (ticker: ASD) and Bielski's personal family story tied to autism
+
+ (Source: Bloomberg)
+
+
+---
+
+## Dating App Bumble Said to Near $1 Billion Sale to Ithaca
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-12/dating-app-bumble-said-to-near-1-billion-sale-to-ithaca
+
+正文长度：0
+
+摘要：Dating-app provider Bumble Inc. is in talks to be sold to upstart investment firm Ithaca Holdings for around $1 billion, according to people familiar with the matter.
+
+
+---
+
+## US Stocks Waver on Slowest Trading Day in 2026: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +51,139 @@
 
 正文长度：0
 
-摘要：Stock and bond futures advanced as oil retreated, with traders looking past the latest attacks on Saudi Arabia that threatened to widen the war in the Middle East.
+摘要：A selloff in chipmakers left stocks wavering ahead of the earnings season, with traders also gearing up for this week’s inflation data that will be key in shaping the Federal Reserve outlook.
 
 
 ---
 
-## Indian Rupee Jumps on RBI Steps to Support Currency; Bonds Fall
+## Test Your ETF Knowledge In Our IQ Test
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures
+链接：https://www.bloomberg.com/news/videos/2026-10-12/test-your-etf-knowledge-in-our-iq-test-video
 
 正文长度：0
 
-摘要：The Indian rupee strengthened the most in six months after the central bank took some of its strongest measures to bolster the currency since the 2013 taper tantrum.
+摘要：Bloomberg's Scarlet Fu puts Joanna Gallegos, chief operating officer and co-founder of BondBloxx, Matthew Bielski, founder and CEO at Defiance ETFs, and Bloomberg Intelligence's Eric Balchunas to the test on "Bloomberg ETF IQ" in this week's edition of "IQ Test." (Source: Bloomberg)
 
 
 ---
 
-## EU Agrees to Discuss Curbs on Chinese Inverters After Trade Meet
+## Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-10-12/eu-agrees-to-discuss-curbs-on-chinese-inverters-after-trade-meet
+链接：https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html
 
-正文长度：0
+正文长度：1953
 
-摘要：China and the European Union have agreed to discuss the bloc’s restrictions on imports of inverters, a key piece of clean technology, offering potential relief to Chinese firms facing curbs on sales to a major overseas market.
+摘要：Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Delta Air Lines said it will delay the launch of its nonstop service between Atlanta and the Saudi capital Riyadh until March after several deadly attacks hit the city's airport there.
+Delta planned to begin the route on Oct. 23, with an Airbus A350-900 wide-body plane, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia operated by a U.S. airline.
+Since Thursday, more than 2,000 flights have been canceled to and from King Khalid International Airport in Riyadh, according to FlightAware. The deadly attacks, claimed by Yemen's Iran-backed Houthis, escalated Saturday, when a projectile struck a passenger terminal at the airport, officials said, killing at least 12 people and wounding more than 300.
+King Khalid International Airport remains closed as of Monday.
+"We remain in close contact with relevant government and aviation partners, including Saudia and Riyadh Air, as we monitor the situation," Delta said in a statement. "Saudi Arabia remains an important market for Delta, and we are committed to serving the Kingdom for the long-term."
+Delta CEO Ed Bastian had told CNBC on Thursday that the airline hadn't yet decided whether to postpone the debut.
+"Obviously, we were disappointed to see the news this week," he said. "Safety is going to make the call."
+Delta's decision came after the Federal Aviation Administration on Sunday issued a warning for U.S. airlines.
+The FAA said pilots should "exercise caution" in or around Saudi Arabia "due to safety-of-flight risks associated with ongoing military activities" and navigation systems. In the warning, which is in effect until Dec. 10, the agency said the threats could be a potential risk "to aircraft at all altitudes."
+Airlines suspended flights to the airport, some for the rest of the week, while countries including the U.S. and Australia advised citizens against travel to the region.
+— CNBC's Michele Luhn contributed to this report.
+
+</details>
 
 
 ---
 
-## Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate
+## McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/videos/2026-10-12/the-asia-trade-10-12-2026-video
+链接：https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html
 
-正文长度：0
+正文长度：3635
 
-摘要："Bloomberg: The Asia Trade" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)
+摘要：McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> McDonald's is betting on chicken and beverages to fuel its next phase of growth, but new consumer spending data suggests the fast-food giant faces stiff competition from rivals that specialize in those areas.
+At its September investor day, McDonald's outlined plans to gain an additional 1.5 percentage points of global market share in both chicken and beverages by 2030. The chain identified the categories as significant opportunities to expand its business beyond beef.
+CEO Chris Kempczinski told CNBC the size of those markets underscores the potential upside.
+"Chicken is a $130 billion category. We have about a 20% share of chicken. Beverages is about a $230 billion category. We have a 10% share of beverages," Kempczinski said, saying McDonald's has more room to grow in those areas than in the $50 billion global beef category, where it has about a 40% share.
+But new data indicates McDonald's could have a tough task in gaining spending from chicken and drink rivals. Many of the restaurant chains winning the most spending from McDonald's diners specialize in those two segments, according to exclusive data shared by Consumer Edge, which tracks credit and debit card transactions.
+Among McDonald's customers, Chick-fil-A gained 0.58 percentage points of limited-service restaurant spending in the third quarter compared with a year earlier, making it the biggest gainer among the chains tracked by Consumer Edge.
+Coffee businesses are also capturing more spending from McDonald's customers. Drive-thru-only chain 7 Brew added 0.4 percentage points, while Starbucks, Dutch Bros. Coffee and Dunkin' also ranked among the top 10 gainers. Together, the four coffee chains added 0.88 percentage points of spending share.
+McDonald's remained by far the largest individual chain in customers' overall limited-service restaurant spending, but its share declined from a year earlier. Restaurant Brands International-owned Burger King, meanwhile, gained 0.24 percentage points, the largest increase among burger chains.
+"There’s a big battle for a smaller amount of restaurant spend as people become more selective in what they spend," said Michael Gunther, Consumer Edge senior vice president.
+The data says only so much about the competitive landscape for McDonald's in the chicken and drink spaces, in part because they don't track exactly what customers are ordering at the counter.
+"If they [McDonald's] are able to attract diners with interesting options, it could work,” Gunther added.
+While McDonald's has struggled with sluggish sales, executives have said they saw signs of improvement toward the end of the third quarter. At its investor day, McDonald's said U.S. comparable sales were slightly negative in July and August, but the company said it expected September to turn positive.
+Consumer Edge data similarly showed McDonald's year-over-year spending share declines narrowing across every income group in September.
+Wall Street has also questioned how quickly the chicken and beverage strategy can deliver.
+Bernstein analyst Danilo Gargiulo said after McDonald's investor day that U.S. beverage launches had not generated enough sales to offset broader weakness, while the company's next chicken platform — which includes hand-breaded chicken and grilled chicken menu items — was further away than he expected.
+"The scale of investment required to deliver [the company's growth plan] McDonald's Next was above our expectations and introduces additional pressure on near-term earnings," said Gargiulo in his note.
+He has a market perform rating on the stock and $295 price target. Shares closed around $235 on Friday.
+
+</details>
+
+
+---
+
+## Starbucks says it is not buying Chipotle after takeover speculation
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html
+
+正文长度：1345
+
+摘要："Starbucks is not buying Chipotle," a Starbucks spokesperson told CNBC.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Starbucks on Monday denied it is considering acquiring Chipotle Mexican Grill in what would be the biggest-ever restaurant takeover.
+"Starbucks is not buying Chipotle," a Starbucks spokesperson told CNBC's Jim Cramer.
+Chipotle's stock was down nearly 4% in morning trading Monday following the statement, while Starbucks shares were 1% higher.
+The coffee giant's denial comes after days of rumors about a potential megadeal between the two restaurant companies.
+On Thursday, the Financial Times reported that Starbucks had been working with advisors on a Chipotle takeover proposal in recent months. The newspaper cited people familiar with the matter.
+Earlier in October, Semafor reported that Chipotle had hired advisors to defend against activist investors or an unwanted takeover bid. The fast-casual chain is trying to recover from a rocky 2025, when traffic to its restaurants fell. Chipotle shares are down about 20% over the last year, making it a cheaper target.
+The deal rumors sent shares of Chipotle higher, while Starbucks stock fell on the reports.
+Chipotle investors were looking forward to a potential reunion with Brian Niccol, who previously led Chipotle and is now CEO of Starbucks. But Starbucks shareholders were largely concerned about an expensive distraction while the coffee chain is in the middle of its own turnaround.
+
+</details>
+
+
+---
+
+## FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html
+
+正文长度：1425
+
+摘要：The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Federal Aviation Administration told U.S. airlines to exercise caution when flying in or around Saudi Arabia after deadly attacks claimed by Yemen's Iran-backed Houthis, which have shut down the airport in the Saudi capital.
+King Khalid International Airport in Riyadh, Saudi Arabia, remains closed as of Monday after strikes that started last week. The attacks escalated Saturday, when a projectile struck a passenger terminal at the airport, officials said, killing at least 12 people and wounding more than 300.
+Airlines suspended flights to the airport, some for the rest of the week.
+The U.S., Australia and other countries advised citizens against travel to the region.
+The FAA late Sunday said pilots should "exercise caution" in or around Saudi Arabia "due to safety-of-flight risks associated with ongoing military activities" and navigation systems. It said the threats could be a potential risk "to aircraft at all altitudes." The FAA's warning is in effect until Dec. 10.
+Most U.S. airlines don't fly to Saudi Arabia, but the country's flights and passenger counts had climbed in recent years. The route between Riyadh to Jeddah in the country's west was the fifth-busiest in the world last year, according to aviation-data firm OAG.
+Delta Air Lines had been scheduled to launch its first nonstop flight from Atlanta to Riyadh on Oct. 23 but the carrier on Monday said it would delay that service until March.
+
+</details>
 
 
 ---
@@ -118,178 +239,15 @@ Meanwhile, publicly traded brands that acknowledge sales need to decline in orde
 
 ---
 
-## Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight
+## Business school rankings - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html
+链接：https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZDRyTjI3X2xIaS1qOG1WcHg0ZHpKU0JkNFgyamhzVnp1eGVQMVVOWUltR1o5VGp6NDM2NlA5bVJpaWtWa2ZkdGZoVHVsdFBEblAtRFJlbnRDYTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1098
+正文长度：0
 
-摘要：Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines CEO Ed Bastian said his carrier is weighing whether to go ahead with debuting a flight between Atlanta and Riyadh, Saudi Arabia, after attacks claimed by Iran-backed Houthi rebels in Yemen have escalated there.
-The flights between Riyadh and Delta's biggest hub are scheduled to begin on Oct. 23.
-Three people were killed in attacks at Riyadh's King Khalid International Airport as the Houthis stepped up strikes in the country, Saudi Arabia's civil aviation authority said.
-"Obviously, we were disappointed to see the news this week," Bastian told CNBC in an interview. "Safety is is going to make the call."
-He said that the airline will let customers know of its decision soon. German airline Lufthansa said it was pausing flights into Saudi Arabia through at least Oct. 16, a spokesman told CNBC.
-Delta is planning to operate the Atlanta-Riyadh flight daily from Oct. 23 to Oct. 30 before moving to three-times-a-week service. When it announced the route earlier this year, Delta said it would be the first nonstop service between the U.S. and Riyadh operated by a U.S. airline.
-
-</details>
-
-
----
-
-## Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html
-
-正文长度：3985
-
-摘要：Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said pricier fares aren't turning off travelers.
-Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
-Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
-Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
-"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
-Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it processes crude oil into jet fuel and other products, giving it an advantage over other carriers.
-"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
-Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
-Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
-Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
-- Earnings per share: $1.72 adjusted vs. $1.75 expected
-- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
-It was the first time in two years that Delta missed estimates.
-Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.72 per share.
-Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
-Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
-Musk dispute
-Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
-SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the "View from the Wing" travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
-SpaceX's Starlink Wi-Fi has become the main supplier of satellite internet, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines as well as others around the world.
-Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
-"There's no tit for tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."
-Correction: This story has been updated to reflect that Delta reported adjusted earnings per share of $1.76. An earlier version of this story misstated the EPS in one instance.
-
-</details>
-
-
----
-
-## Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html
-
-正文长度：9045
-
-摘要：Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Starbucks has reportedly explored buying Chipotle Mexican Grill, but investors are split on whether the megadeal would make sense for both companies.
-The coffee giant has been working with advisers on a takeover proposal of the fast-casual chain in recent months, the Financial Times reported on Thursday, citing people familiar with the matter.
-If Starbucks bought Chipotle, it would combine two of the largest U.S. restaurant chains. With about $31 billion in annual domestic sales, Starbucks is the second-biggest U.S. chain by sales. Chipotle sits in the number seven spot, with more than $11 billion in annual system-wide sales in its home market.
-The report sent Chipotle stock up about 6% on Thursday, while shares of Starbucks fell slightly after dropping more sharply earlier in the day. It is not unusual for deal rumors to lower the potential acquirer's value and increase the target's share price, but investor reactions show that a prospective takeover comes with pros and cons for each side of the deal.
-To be sure, it is unclear if Starbucks will even pursue the takeover. D.A. Davidson analyst Matt Curtis wrote in a note to clients on Thursday that he views the odds of a deal being completed as "relatively low" — about 20%.
-A Starbucks spokesperson told CNBC that the company does not comment on rumors and speculation. Chipotle did not immediately respond to a request for comment from CNBC.
-Why it makes sense:
-1. The Niccol connection
-Starbucks CEO Brian Niccol knows more than a thing or two about Chipotle.
-Before joining the coffee company in 2024, he was chief executive of Chipotle for more than six years. He led a turnaround of the burrito chain, helping it bounce back from a series of foodborne illness outbreaks that had turned into a full-blown crisis for the company.
-In the wake of Niccol's departure, traffic to Chipotle restaurants fell in 2025, as budget-conscious consumers visited its restaurants less often. These days, the chain looks like it is starting to get back on track, with signs of "encouraging progress," Chipotle CEO Scott Boatwright said on the company's earnings conference call in late July.
-Still, its shaky 2025 means that the stock is trading at a 20% discount from a year ago, even with Thursday's big move. And since Niccol left, shares have lost about 40% of their value.
-2. Building the next Yum
-Chipotle would be a splashy acquisition for Niccol. More than that, it could create a new restaurant conglomerate, following in the footsteps of Yum Brands, Restaurant Brands International and Roark Capital-backed Inspire Brands.
-Multi-brand restaurant companies are more diversified, which can be more attractive to investors. While Starbucks is still a much larger chain than Chipotle, the difference in their categories means that one's poor performance could be offset by growth at the other.
-Moreover, Starbucks could help Chipotle grow more quickly in international markets; the burrito chain only has about 100 locations outside of the U.S., while Starbucks has about 23,000.
-Other restaurant companies have set a blueprint for that strategy: Yum has leaned on its international experience from KFC and Pizza Hut to launch Taco Bell outside of the U.S. And Restaurant Brands has leaned on Burger King's international expertise to grow Popeyes' international footprint.
-3. Potential synergies
-With any strategic acquisition, investors hope for synergies that justify the price tag and explain why the deal makes sense. A coffee shop and a burrito restaurant do not have much overlap in ingredients, but there are other potential benefits for both companies and their investors.
-Combining Starbucks and Chipotle would open up potential cost cuts, like layoffs for some now-redundant corporate roles.
-The two chains also have significant overlap in their U.S. real estate footprints. Roughly 90% of Chipotle restaurants are within one mile of a Starbucks cafe, according to a research note from Stephens analyst Jim Salera published on Thursday. Both companies could benefit from shared real estate development and even operating efficiencies as a result.
-But real estate is not the only area where they overlap. Many Starbucks customers also frequent Chipotle restaurants. As one entity, they could leverage that overlap through a combined rewards program, Salera suggested.
-4. Alignment in business model
-Unlike many big restaurant players, both Chipotle and Starbucks operate most of their U.S. locations, although Starbucks also has thousands of licensed cafes in its home market.
-That marks a difference from Chipotle's last strategic owner — McDonald's.
-The burger giant, which franchises the vast majority of its U.S. restaurants, made a majority investment in the upstart Mexican-inspired chain in 1998. But by 2006, McDonald's divested its ownership. Its restaurant investments, which also included Boston Market, were labeled a distraction by Wall Street as the Golden Arches struggled.
-Before it sold its stake, McDonald's tried to franchise some of Chipotle's restaurants to its own franchisees. But Chipotle's leadership, including founder Steve Ells, pushed back. It was one sign of the cultural misalignment between the two brands.
-Chipotle also resisted efforts to make it more similar to McDonald's, declining suggestions like adding drive-thru windows and a breakfast menu.
-Why it doesn't make sense:
-1. Starbucks' ongoing turnaround
-Niccol joined Starbucks more than two years ago to lead a turnaround of the embattled coffee chain. Early signs show that his efforts have improved its U.S. business — but the company is not done yet. Starbucks is aiming to be "the world's greatest customer service company," Niccol wrote in a memo to employees in September, part of a broader push to improve customer loyalty.
-Starbucks also has other deals that it is reportedly considering. In September, Reuters reported that the company was considering selling a majority stake in its Japan business. The country has been the chain's largest overseas company-operated market since it formed a joint venture to operate its cafes in China less than a year ago.
-Integrating a new chain into the company would be a big distraction for Starbucks at a time when many investors think it should still be focusing on itself.
-"Starbucks is still executing its turnaround strategy, and acquiring Chipotle could consume significant senior management time on financing, integration, organizational design, systems, and personnel," BTIG analyst Pete Saleh wrote in a note. "Why introduce another major strategic initiative before demonstrating that Starbucks can deliver sustainable margin recovery?"
-2. The price tag
-Starbucks' turnaround has also been expensive, which hasn't pleased investors.
-The company has been investing heavily in labor, cafe makeovers and store equipment to improve its service and the overall customer experience. Even layoffs and store closures, which will cut costs in the long term, have weighed on its quarterly earnings.
-But Chipotle would be an even bigger expense. Even with shares' recent struggles, the company still has a market cap of roughly $42 billion. If Starbucks pursues the acquisition, it would be the biggest-ever restaurant takeover.
-Starbucks had about $9.4 billion in debt at the end of June. William Blair analyst Sharon Zackfia estimated that its leverage would balloon to about six times if the company paid a 20% premium and sought to finance the potential deal primarily through debt. An all-stock deal would not weigh on earnings as much, although Zackfia estimates it would still dilute earnings per share by about 10%.
-3. Niccol's experience
-At Chipotle and Starbucks, Niccol was tasked with turning around struggling restaurants. But his corporate experience so far has not prepared him for a deal of this size.
-Merging two colossal restaurant companies would be a massive undertaking, potentially at the expense of the individual success of both brands.
-Two-brand restaurant companies often struggle to keep both operating with same-store sales growth, Citi Research analyst Jon Tower wrote in a note to clients. Additionally, he said internal employees usually gravitate toward the brand that is perceived to perform better or offer more career opportunities.
-While the size of the deal makes the takeover unique, the restaurant industry already has plenty of examples of mergers and takeovers that did not work for either party.
-The latest example comes from Jack in the Box, which bought Del Taco in a $585 million deal in 2022. At the time that the deal was announced, executives said it was "strategically and financially compelling."
-During the period that Jack in the Box officially owned Del Taco, shares of the company cratered 73%. The burger chain shuttered dozens of locations as its sales struggled. And Del Taco reported even worse results, including more than a year straight of quarterly same-store sales declines.
-More than three years later, Jack in the Box sold Del Taco to a franchisee for about $119 million.
-
-</details>
-
-
----
-
-## Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html
-
-正文长度：4795
-
-摘要：Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
-Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
-"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally and an incredibly profitable linear portfolio, anchored by CBS."
-Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
-"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people. And all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
-Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
-The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2029, 2030 and 2031.
-Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
-Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
-$6 billion in synergies
-Skydance must manage roughly $80 billion in debt as a result of the merger and has previously said it's targeting $6 billion in cost savings over the next three years.
-"There are absolutely operational efficiencies," Ellison said. "We've looked at this deal for over a year. We know where every single dollar is."
-Kreiz said Thursday those savings "will come from technology, marketing consolidation, real estate optimization, and some labor."
-The acquisition has spurred fears of layoffs from both inside the company and from industry onlookers. Ellison said Skydance has already unified ad sales across the platforms and is working to unify back-end tech stacks.
-"This is not about a few days of share trading, or even managing synergies for three years. We're building a company for future generations," Kreiz said. "But reducing the workforce is a part of that. We said that, we were public about it. But when it comes to making those decisions, of course, we're thinking of our people. We're going to do it in the right way, respectfully, transparently, and communicate our plans."
-CBS and CNN news divisions
-The acquisition also brings together two high-profile news networks, CBS and CNN, under one roof.
-CNN has long faced criticism from President Donald Trump and has faced heightened scrutiny from his administration in recent weeks, as the network was barred from certain access to the president as part of the White House television press pool.
-David Ellison's father, Oracle co-founder Larry Ellison, is a longtime Trump ally, and fears of improper political influence over newsgathering operations have surrounded Skydance's pursuit of the CNN parent.
-Skydance's settlement with the state AGs included an agreement that the company would establish a new board to oversee CBS and CNN to ensure editorial independence.
-Skydance announced on Monday that Mark Thompson will remain in his current role as chairman and editor-in-chief of CNN Worldwide and that Bari Weiss would continue to serve as editor-in-chief of CBS News.
-Kreiz said Thursday the newsrooms would continue to run independently.
-"We'll look to keep the businesses run in parallel with independent editorial operation," Kreiz said. "We're so fortunate to have such successful, well-established, highly recognized brands in news."
-Ellison, meanwhile, said questions about the future of the news divisions were better left to Thompson and Weiss: "Corporate stays out of editorial."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZDRyTjI3X2xIaS1qOG1WcHg0ZHpKU0JkNFgyamhzVnp1eGVQMVVOWUltR1o5VGp6NDM2NlA5bVJpaWtWa2ZkdGZoVHVsdFBEblAtRFJlbnRDYTA?oc=5" target="_blank">Business school rankings</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -307,119 +265,106 @@ Ellison, meanwhile, said questions about the future of the news divisions were b
 
 ---
 
-## US threatens to block arms for Ukraine over attacks on Russian refineries - Financial Times
+## Oil prices rise as Trump’s ‘energy ceasefire’ frays - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5" target="_blank">US threatens to block arms for Ukraine over attacks on Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5" target="_blank">Oil prices rise as Trump’s ‘energy ceasefire’ frays</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Can Russia meet Trump’s diesel demands? - Financial Times
+## Executive MBA Ranking 2026: Alumni pay recovers from Covid dip - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXcwNkstOTJvRjJEejR3OTVoNWs2aHlLMm9LX2dqN1VGdVdncGl5OWh2eEY3bVBDQnpPVWdxaFBDY1BjbjAwN2JxdS1TY3A1VWNCVWRRal9wcXktYjRWZFAxNW1wVFJPZkltYjl6UHhKZHpkeFRTWXlGRkxLR3RhOUlteWo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1k3TWNweEtSbjZuZTFmSWkxRzhYQ201cXdrb0ZOVzFVWDlTUnVpaEdRQVdrbXJzVUJYcFoxUjZWQ0FBQzhpZ0R4Njgxd0RBRGkwVWNBaDYwenBDWWlyM1laSzJLY21rZ25Jb1NKV3htNGhpZDA0UWUwSlpoWEhhaXhEcGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXcwNkstOTJvRjJEejR3OTVoNWs2aHlLMm9LX2dqN1VGdVdncGl5OWh2eEY3bVBDQnpPVWdxaFBDY1BjbjAwN2JxdS1TY3A1VWNCVWRRal9wcXktYjRWZFAxNW1wVFJPZkltYjl6UHhKZHpkeFRTWXlGRkxLR3RhOUlteWo?oc=5" target="_blank">Can Russia meet Trump’s diesel demands?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1k3TWNweEtSbjZuZTFmSWkxRzhYQ201cXdrb0ZOVzFVWDlTUnVpaEdRQVdrbXJzVUJYcFoxUjZWQ0FBQzhpZ0R4Njgxd0RBRGkwVWNBaDYwenBDWWlyM1laSzJLY21rZ25Jb1NKV3htNGhpZDA0UWUwSlpoWEhhaXhEcGc?oc=5" target="_blank">Executive MBA Ranking 2026: Alumni pay recovers from Covid dip</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump faces Republican opposition to his diesel deal with Russia’s Putin - Financial Times
+## The huge lurking leverage of AI hyperscalers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFdBV05Zazk1Y1EzTzY1MzgzcDl3U2d0dGNPOVpQYXF5bUJKcllVQmlMalpjQXdocEhjYm4xdTIzc2E5WTNnWUdLUERmRk02TUl2OU5CdW94SkJSdmpTeExXX2hfb25tcnFUM1pUSDlMM1dtWEZfZ0J6NkdGVmdDM0lMVFE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFkSlBubzdPS0Z4ZmlyV1lpOVZ0WkZ4bGJNMVNPQTctNnpJR3ZSSl9QNWpkUHU5YnJwZGFTb2NnNnVCVk9Ja1ZUcWFfVzY1RW82bFVMd09EdFJCU1JwdGFEQ0pHZ25YZF9MUFJFLUx6U0VwS1VLYzd3VHZmUUFkSWxlMks?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFdBV05Zazk1Y1EzTzY1MzgzcDl3U2d0dGNPOVpQYXF5bUJKcllVQmlMalpjQXdocEhjYm4xdTIzc2E5WTNnWUdLUERmRk02TUl2OU5CdW94SkJSdmpTeExXX2hfb25tcnFUM1pUSDlMM1dtWEZfZ0J6NkdGVmdDM0lMVFE?oc=5" target="_blank">Trump faces Republican opposition to his diesel deal with Russia’s Putin</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFkSlBubzdPS0Z4ZmlyV1lpOVZ0WkZ4bGJNMVNPQTctNnpJR3ZSSl9QNWpkUHU5YnJwZGFTb2NnNnVCVk9Ja1ZUcWFfVzY1RW82bFVMd09EdFJCU1JwdGFEQ0pHZ25YZF9MUFJFLUx6U0VwS1VLYzd3VHZmUUFkSWxlMks?oc=5" target="_blank">The huge lurking leverage of AI hyperscalers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Raphaël Glucksmann wins nomination for France’s centre-left - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUMxLXlneFJOSE12YTVQTWE2UFNpSjNqcDk0R1hYRDFhWXhJc2dySEtOQ0laaVctR2FMbjdfcVlzakVYZnBKR1dHaDU1MzNTaWZJOEM5TGxIbDdfMFA1dDNuQ2JrWWYydmtrRTM0MHdPcVFmc2QxNzFIN3lkN3pTOFEyeVg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUMxLXlneFJOSE12YTVQTWE2UFNpSjNqcDk0R1hYRDFhWXhJc2dySEtOQ0laaVctR2FMbjdfcVlzakVYZnBKR1dHaDU1MzNTaWZJOEM5TGxIbDdfMFA1dDNuQ2JrWWYydmtrRTM0MHdPcVFmc2QxNzFIN3lkN3pTOFEyeVg?oc=5" target="_blank">Raphaël Glucksmann wins nomination for France’s centre-left</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## China sanctions Paraguay, Belize ministers over Taiwan ties - Reuters
+## US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5" target="_blank">China sanctions Paraguay, Belize ministers over Taiwan ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5" target="_blank">US hopes diesel deal can 'soften' Moscow on peace talks, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold gains on weaker oil, dollar; US inflation data in focus - Reuters
+## Dating app Bumble in advanced talks to go private at $1 billion valuation, source says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmQ0RUJONmRhZmdzRzV4ZlRaNkp5WFVoZnpKeEhvWUVLVHVpQmFvSjk2QXNIcDNTMHBLbl9OMDh4T3p1dFl3QS01WlZaUVZoRlplOU9VS2IzbEQ4cWdTRnNyU1Zkemp3SHVfQXpuZ3FVMnhxSDNhb3JmTnZkNERocTZRNUVlRHFvNUZvTm80SExENGtXMXE3M19QdTA5ZVBkMUxkLUNVOHpRbEtVS2VLRDM5anEwb3VwUlQtXw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5" target="_blank">Gold gains on weaker oil, dollar; US inflation data in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmQ0RUJONmRhZmdzRzV4ZlRaNkp5WFVoZnpKeEhvWUVLVHVpQmFvSjk2QXNIcDNTMHBLbl9OMDh4T3p1dFl3QS01WlZaUVZoRlplOU9VS2IzbEQ4cWdTRnNyU1Zkemp3SHVfQXpuZ3FVMnhxSDNhb3JmTnZkNERocTZRNUVlRHFvNUZvTm80SExENGtXMXE3M19QdTA5ZVBkMUxkLUNVOHpRbEtVS2VLRDM5anEwb3VwUlQtXw?oc=5" target="_blank">Dating app Bumble in advanced talks to go private at $1 billion valuation, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US judge orders halt to taxpayer-funded ads featuring Trump - Reuters
+## Musk has spent $366 million to help Republicans retain control of Congress - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5" target="_blank">US judge orders halt to taxpayer-funded ads featuring Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5" target="_blank">Musk has spent $366 million to help Republicans retain control of Congress</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters
+## Austria says Ukrainian journalist's arrest on suspicion of spying was unrelated to his job - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpVR3o2ckZjbVlEa3p4T2J3STlwNnhwdV9nTERmN2luN2VtY3ZERk9Gck4yRlFyalAyazNmY2lVeFhZbWFqRHBSMVc0VkxDRkw4WUpmcnRSdzZJdWFVU0VyOWZlQjVlOWxxTDZYS05qbTBwNmliemtSVDhIbTFTTngySVN1dTdsc0NVYngzcm5kYVVRY3k5RGJwT3JxS19MVmlZZVZyOE4ta3AwT05zNmhZcW5Pa1lqbHlBd3VyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5" target="_blank">TSMC expected to report sixth straight quarter of record profit thanks to AI boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpVR3o2ckZjbVlEa3p4T2J3STlwNnhwdV9nTERmN2luN2VtY3ZERk9Gck4yRlFyalAyazNmY2lVeFhZbWFqRHBSMVc0VkxDRkw4WUpmcnRSdzZJdWFVU0VyOWZlQjVlOWxxTDZYS05qbTBwNmliemtSVDhIbTFTTngySVN1dTdsc0NVYngzcm5kYVVRY3k5RGJwT3JxS19MVmlZZVZyOE4ta3AwT05zNmhZcW5Pa1lqbHlBd3VyQQ?oc=5" target="_blank">Austria says Ukrainian journalist's arrest on suspicion of spying was unrelated to his job</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters
+## Getty Images plans bankruptcy filing, to go private - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5" target="_blank">Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5" target="_blank">Getty Images plans bankruptcy filing, to go private</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
