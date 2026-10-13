@@ -1,70 +1,64 @@
 # 每日财经新闻
 
-更新时间：2026-10-12 21:08:06
+更新时间：2026-10-13 06:21:21
 
-## Why China Generates Too Much Power
+## Gold Inches Up With US Inflation Data, Fed Rate Path in Focus
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-08/why-china-generates-too-much-power-video
+链接：https://www.bloomberg.com/news/articles/2026-10-12/gold-holds-drop-as-middle-east-fighting-stokes-inflation-fears
 
 正文长度：0
 
-摘要：China is racing to power a future of artificial intelligence and robots with renewables. But as it builds more electricity capacity than ever before, it faces a new challenge: whether the grid can keep up. (Source: Bloomberg)
+摘要：Gold rose as traders looked to US inflation data due later this week for clues on the Federal Reserve’s interest-rate path, even as a widening conflict in the Middle East kept inflation risks elevated.
 
 
 ---
 
-## Defiance CEO's Son Inspires Autism ETF
+## Horizons Middle East & Africa 10/13/2026 (Video)
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-12/defiance-ceo-s-son-inspires-autism-etf-video
+链接：https://www.bloomberg.com/news/videos/2026-10-13/horizons-middle-east-africa-10-13-2026-video
 
 正文长度：0
-
-摘要：Matthew Bielski, founder and CEO at Defiance ETFs, joins Scarlet Fu and Eric Balchunas on "ETF IQ". They discuss the Defiance Autism Impact ETF (ticker: ASD) and Bielski's personal family story tied to autism
-
- (Source: Bloomberg)
 
 
 ---
 
-## Dating App Bumble Said to Near $1 Billion Sale to Ithaca
+## Ares Fund Offering Halted by Australia’s Credit Crackdown
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-12/dating-app-bumble-said-to-near-1-billion-sale-to-ithaca
+链接：https://www.bloomberg.com/news/articles/2026-10-13/australia-regulator-halts-another-credit-fund-amid-crackdown
 
 正文长度：0
 
-摘要：Dating-app provider Bumble Inc. is in talks to be sold to upstart investment firm Ithaca Holdings for around $1 billion, according to people familiar with the matter.
+摘要：Australia’s corporate regulator temporarily barred asset manager Fidante Partners Ltd. from offering units in a fund it runs with Ares Management Corp., as authorities expand a clampdown on investment products deemed too risky for retail investors.
 
 
 ---
 
-## US Stocks Waver on Slowest Trading Day in 2026: Markets Wrap
+## Stock Losses Deepen on AI Trade, Treasuries Rally: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：A selloff in chipmakers left stocks wavering ahead of the earnings season, with traders also gearing up for this week’s inflation data that will be key in shaping the Federal Reserve outlook.
+摘要：Global stock losses deepened as renewed concerns about the artificial intelligence trade pushed investors out of one of the market’s hottest corners this year. Treasuries rallied on haven demand.
 
 
 ---
 
-## Test Your ETF Knowledge In Our IQ Test
+## FTSE 100 Live: UK Stocks Poised to Outperform Peers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-12/test-your-etf-knowledge-in-our-iq-test-video
+链接：https://www.bloomberg.com/news/live-blog/2026-10-13/ftse-100-live-updates-pound-gilts-oil-prices-iran-us-saudi-houthis-hormuz-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-mv69nrdn
 
 正文长度：0
-
-摘要：Bloomberg's Scarlet Fu puts Joanna Gallegos, chief operating officer and co-founder of BondBloxx, Matthew Bielski, founder and CEO at Defiance ETFs, and Bloomberg Intelligence's Eric Balchunas to the test on "Bloomberg ETF IQ" in this week's edition of "IQ Test." (Source: Bloomberg)
 
 
 ---
@@ -239,6 +233,58 @@ Meanwhile, publicly traded brands that acknowledge sales need to decline in orde
 
 ---
 
+## EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE00andMV0szUDR5T2F6dktGVWdhOGhfOG9Qanl2YVNqNFQ3c2g1a3NYZ180dmE2OUpHVzlYdjM1QmNBVXhFOXVMSXIyQ1VCbmlrNS1CUFhKRkNXRFpabTJ0d0ZUOGhzWV9fNTRHM2M2REI0cWEzRWEwOVg3YVZ6UzZ6MG8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE00andMV0szUDR5T2F6dktGVWdhOGhfOG9Qanl2YVNqNFQ3c2g1a3NYZ180dmE2OUpHVzlYdjM1QmNBVXhFOXVMSXIyQ1VCbmlrNS1CUFhKRkNXRFpabTJ0d0ZUOGhzWV9fNTRHM2M2REI0cWEzRWEwOVg3YVZ6UzZ6MG8?oc=5" target="_blank">EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1dMcVJPMWptb3hOTkI1WDZfRTdJTkhUU2Z2dVZLelFIMkNlN0ppaGlXSDNHYVZqWVowR1dXQU9NV0YyMVFIZXM5WS1OaVdUV3F0dkUyc0R1Vk12S1RKbVdmc3djbE5ERXlXZklJR0RpLVl3QTRRMDZobkQ2clRsdHV0V2Q?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1dMcVJPMWptb3hOTkI1WDZfRTdJTkhUU2Z2dVZLelFIMkNlN0ppaGlXSDNHYVZqWVowR1dXQU9NV0YyMVFIZXM5WS1OaVdUV3F0dkUyc0R1Vk12S1RKbVdmc3djbE5ERXlXZklJR0RpLVl3QTRRMDZobkQ2clRsdHV0V2Q?oc=5" target="_blank">Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## China faces uphill battle to wean tech firms off Nvidia chips - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhEbjZpZnZxdThlX0h6OVZGSEZ4cUpMekJwOWVlUWZBTU5hZUwzSWh3Slp4UHZDN01faEtCTnZ6U3pxemd0SlVwTzdOYUtMNDd5emVZZF9JdG8yRzNWLXFnT0YzRjJRbk5lYTlZLWJhd2lVSjhxS21hSmN2amxsNTNmVHI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhEbjZpZnZxdThlX0h6OVZGSEZ4cUpMekJwOWVlUWZBTU5hZUwzSWh3Slp4UHZDN01faEtCTnZ6U3pxemd0SlVwTzdOYUtMNDd5emVZZF9JdG8yRzNWLXFnT0YzRjJRbk5lYTlZLWJhd2lVSjhxS21hSmN2amxsNTNmVHI?oc=5" target="_blank">China faces uphill battle to wean tech firms off Nvidia chips</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Who’s really hiring you — HR or cyber security? - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzRGQzFkMEV2MDNMWk53dUVFdF9NNXhJdkFvM01IQVJ6WXlueWpGbE9RTkR6QjkySlVoU20ycUFyeUM0enNtb2FjdU41elVUamhXX3FadkZRakl5dHEtbUlUUmpUVDZ2T0NGX2dPdFZFVzJkX0FRX2JOOVphaGI1NFVvdDk?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzRGQzFkMEV2MDNMWk53dUVFdF9NNXhJdkFvM01IQVJ6WXlueWpGbE9RTkR6QjkySlVoU20ycUFyeUM0enNtb2FjdU41elVUamhXX3FadkZRakl5dHEtbUlUUmpUVDZ2T0NGX2dPdFZFVzJkX0FRX2JOOVphaGI1NFVvdDk?oc=5" target="_blank">Who’s really hiring you — HR or cyber security?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Business school rankings - Financial Times
 
 来源：金融时报
@@ -252,119 +298,67 @@ Meanwhile, publicly traded brands that acknowledge sales need to decline in orde
 
 ---
 
-## Trump is failing to arrest decline in popularity, FT poll shows - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTFzWHdoUlBYVThIZmJBTU9zalVsZTVNRklmckxGN3RtdXc3QkEzY05fTnFjVlVCT00yTTJnSkZBOXJQWkVWRVdpbVYtbldEeEUtQkdyUTc2RVZuMXhScy1GM055WW5fYUlfTURRc1ZjQndWTnhkTm83b3Zva29jOGhMSzk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTFzWHdoUlBYVThIZmJBTU9zalVsZTVNRklmckxGN3RtdXc3QkEzY05fTnFjVlVCT00yTTJnSkZBOXJQWkVWRVdpbVYtbldEeEUtQkdyUTc2RVZuMXhScy1GM055WW5fYUlfTURRc1ZjQndWTnhkTm83b3Zva29jOGhMSzk?oc=5" target="_blank">Trump is failing to arrest decline in popularity, FT poll shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Oil prices rise as Trump’s ‘energy ceasefire’ frays - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5" target="_blank">Oil prices rise as Trump’s ‘energy ceasefire’ frays</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Executive MBA Ranking 2026: Alumni pay recovers from Covid dip - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1k3TWNweEtSbjZuZTFmSWkxRzhYQ201cXdrb0ZOVzFVWDlTUnVpaEdRQVdrbXJzVUJYcFoxUjZWQ0FBQzhpZ0R4Njgxd0RBRGkwVWNBaDYwenBDWWlyM1laSzJLY21rZ25Jb1NKV3htNGhpZDA0UWUwSlpoWEhhaXhEcGc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1k3TWNweEtSbjZuZTFmSWkxRzhYQ201cXdrb0ZOVzFVWDlTUnVpaEdRQVdrbXJzVUJYcFoxUjZWQ0FBQzhpZ0R4Njgxd0RBRGkwVWNBaDYwenBDWWlyM1laSzJLY21rZ25Jb1NKV3htNGhpZDA0UWUwSlpoWEhhaXhEcGc?oc=5" target="_blank">Executive MBA Ranking 2026: Alumni pay recovers from Covid dip</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The huge lurking leverage of AI hyperscalers - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFkSlBubzdPS0Z4ZmlyV1lpOVZ0WkZ4bGJNMVNPQTctNnpJR3ZSSl9QNWpkUHU5YnJwZGFTb2NnNnVCVk9Ja1ZUcWFfVzY1RW82bFVMd09EdFJCU1JwdGFEQ0pHZ25YZF9MUFJFLUx6U0VwS1VLYzd3VHZmUUFkSWxlMks?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFkSlBubzdPS0Z4ZmlyV1lpOVZ0WkZ4bGJNMVNPQTctNnpJR3ZSSl9QNWpkUHU5YnJwZGFTb2NnNnVCVk9Ja1ZUcWFfVzY1RW82bFVMd09EdFJCU1JwdGFEQ0pHZ25YZF9MUFJFLUx6U0VwS1VLYzd3VHZmUUFkSWxlMks?oc=5" target="_blank">The huge lurking leverage of AI hyperscalers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters
+## Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5" target="_blank">US hopes diesel deal can 'soften' Moscow on peace talks, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5" target="_blank">Trump says he does not believe China and Russia are helping Iran 'at all'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dating app Bumble in advanced talks to go private at $1 billion valuation, source says - Reuters
+## Character.AI files for bankruptcy, agrees to sell some assets for $20 million - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmQ0RUJONmRhZmdzRzV4ZlRaNkp5WFVoZnpKeEhvWUVLVHVpQmFvSjk2QXNIcDNTMHBLbl9OMDh4T3p1dFl3QS01WlZaUVZoRlplOU9VS2IzbEQ4cWdTRnNyU1Zkemp3SHVfQXpuZ3FVMnhxSDNhb3JmTnZkNERocTZRNUVlRHFvNUZvTm80SExENGtXMXE3M19QdTA5ZVBkMUxkLUNVOHpRbEtVS2VLRDM5anEwb3VwUlQtXw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmQ0RUJONmRhZmdzRzV4ZlRaNkp5WFVoZnpKeEhvWUVLVHVpQmFvSjk2QXNIcDNTMHBLbl9OMDh4T3p1dFl3QS01WlZaUVZoRlplOU9VS2IzbEQ4cWdTRnNyU1Zkemp3SHVfQXpuZ3FVMnhxSDNhb3JmTnZkNERocTZRNUVlRHFvNUZvTm80SExENGtXMXE3M19QdTA5ZVBkMUxkLUNVOHpRbEtVS2VLRDM5anEwb3VwUlQtXw?oc=5" target="_blank">Dating app Bumble in advanced talks to go private at $1 billion valuation, source says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5" target="_blank">Character.AI files for bankruptcy, agrees to sell some assets for $20 million</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Musk has spent $366 million to help Republicans retain control of Congress - Reuters
+## IMF cites AI slowdown, spiking yields as looming global market risks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5" target="_blank">Musk has spent $366 million to help Republicans retain control of Congress</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5" target="_blank">IMF cites AI slowdown, spiking yields as looming global market risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Austria says Ukrainian journalist's arrest on suspicion of spying was unrelated to his job - Reuters
+## AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpVR3o2ckZjbVlEa3p4T2J3STlwNnhwdV9nTERmN2luN2VtY3ZERk9Gck4yRlFyalAyazNmY2lVeFhZbWFqRHBSMVc0VkxDRkw4WUpmcnRSdzZJdWFVU0VyOWZlQjVlOWxxTDZYS05qbTBwNmliemtSVDhIbTFTTngySVN1dTdsc0NVYngzcm5kYVVRY3k5RGJwT3JxS19MVmlZZVZyOE4ta3AwT05zNmhZcW5Pa1lqbHlBd3VyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpVR3o2ckZjbVlEa3p4T2J3STlwNnhwdV9nTERmN2luN2VtY3ZERk9Gck4yRlFyalAyazNmY2lVeFhZbWFqRHBSMVc0VkxDRkw4WUpmcnRSdzZJdWFVU0VyOWZlQjVlOWxxTDZYS05qbTBwNmliemtSVDhIbTFTTngySVN1dTdsc0NVYngzcm5kYVVRY3k5RGJwT3JxS19MVmlZZVZyOE4ta3AwT05zNmhZcW5Pa1lqbHlBd3VyQQ?oc=5" target="_blank">Austria says Ukrainian journalist's arrest on suspicion of spying was unrelated to his job</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5" target="_blank">AI investment props up global growth, but war and debt threaten outlook, IMF says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Getty Images plans bankruptcy filing, to go private - Reuters
+## Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5" target="_blank">Getty Images plans bankruptcy filing, to go private</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5" target="_blank">Nvidia's China AI-chip share falls as Huawei closes gap, report finds</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
