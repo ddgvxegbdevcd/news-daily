@@ -1,68 +1,209 @@
 # 每日财经新闻
 
-更新时间：2026-10-14 04:22:39
+更新时间：2026-10-14 16:55:15
 
-## Barclays India CEO on India as Opportunity
+## A elite empresarial busca aproximação com Flávio Bolsonaro
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-14/barclays-india-ceo-on-india-as-opportunity-video
+链接：https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video
 
 正文长度：0
 
-摘要：Pramod Kumar, India CEO at Barclays Bank, discusses the potential of further engaging with India's IPO market. (Source: Bloomberg)
+摘要：A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier
+ (Source: Bloomberg)
 
 
 ---
 
-## Barclays Plans India Equity Advisory Return After a Decade
+## CoreWeave’s Bonds Turn Distressed, Drawing ‘Yikes’ From Musk
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-13/barclays-plans-india-advisory-return-after-a-decade-as-ipos-boom
+链接：https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk
 
 正文长度：0
 
-摘要：Barclays Plc is preparing to restart its equity capital market business in India after nearly a decade, capitalizing on a surge in share sales in one of the world’s busiest markets for fundraising.
+摘要：CoreWeave Inc.’s bonds have plunged to levels that typically indicate distress, in a swift move that has caught the attention of Silicon Valley leaders including Chamath Palihapitiya and Elon Musk.
 
 
 ---
 
-## US Stocks Won the Last Decade. What About the Next One?
+## SEC Approves Cboe’s KPI Prediction-Market Bets With Robinhood
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-14/us-stocks-won-the-last-decade-what-about-the-next-one
+链接：https://www.bloomberg.com/news/articles/2026-10-14/sec-approves-cboe-s-kpi-prediction-market-bets-with-robinhood
 
 正文长度：0
 
-摘要：<p>Passive investing has become the default. It’s not as neutral a choice as it seems.</p>
+摘要：Cboe Global Markets Inc. won approval from the Securities and Exchange Commission to become the first securities exchange to list options contracts tied to publicly-traded companies’ performance metrics.
 
 
 ---
 
-## Stocks Rise, Dollar Slips in Runup to US Inflation: Markets Wrap
+## US Mortgage Rates Reach 7.5%; Home-Buying Slump Hits Sixth Week
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-10-14/us-mortgage-rates-reach-7-5-video
 
 正文长度：0
 
-摘要：Stocks gained and the dollar weakened before a key US inflation report that may reveal whether the Federal Reserve can take a less aggressive approach to raising interest rates next year. Oil advanced.
+摘要：US mortgage rates continue to rise, pushing down home purchasing activity for a sixth straight week. The MBA’s purchase index dropped 4%, marking the sixth straight weekly decline — the longest such stretch since July-August 2023. Bloomberg's Jeff Langbaum joins to discuss. (Source: Bloomberg)
 
 
 ---
 
-## Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets
+## Bending Spoons Stock Soars on Berkshire’s Increased Stake
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-14/gold-steady-as-fed-official-s-remarks-temper-rate-hike-bets
+链接：https://www.bloomberg.com/news/videos/2026-10-14/bending-spoons-soars-on-berkshire-s-increased-stake-video
 
 正文长度：0
 
-摘要：Gold held a two-day decline after a Federal Reserve official signaled one more interest-rate hike may be needed this year, but further tightening won’t be necessary in 2027, improving sentiment toward the precious metal.
+摘要：Shares of Bending Spoons surged as much as 55% after Berkshire Hathaway Inc. agreed to invest an additional $330 million in the Italian technology conglomerate. The investment brings Berkshire’s stake in Bending Spoons to 4% and gives Bending Spoons more capital to pursue acquisitions. Bloomberg's Matt Palazola joins to discuss. (Source: Bloomberg)
+
+
+---
+
+## Netflix to lay off roughly 1,000 employees, or 6% of workforce
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/netflix-layoffs.html
+
+正文长度：2259
+
+摘要：Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Netflix said on Wednesday it will lay off roughly 6% of its employees, or roughly 1,000 workers, according to a memo obtained by CNBC.
+The job cuts will largely impact the product, tech, legal and HR teams.
+"Our mission - to entertain the world - is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people and resources," Netflix co-CEOs Ted Sarandos and Greg Peters wrote in the email to employees. "Our business is strong and growing, and we remain on track to deliver our full year forecast. We'll continue to invest aggressively in high impact areas to improve our service and further drive growth and innovation.
+"Doing that means making focused choices across the business so we can keep delivering for our members, partners, employees, and investors," the note said.
+Netflix said it did not have additional comments beyond the co-CEOs' memo. The company is due to report quarterly earnings on Oct. 20.
+The layoffs come just a few weeks after Sarandos told attendees at the Bloomberg Screentime conference that the company was "not growing as fast as I want."
+Netflix has faced a paradox in recent months. It continues to post solid profits and remains the biggest player in the streaming realm, but its viewing time has stagnated and the main driver of new subscriber acquisitions has been its password-sharing crackdown and the launch of a cheaper, ad-supported tier.
+Netflix's biggest threat has been YouTube, but looming on the horizon is Skydance. The combined entity of Paramount and Warner Bros. Discovery has plans to integrate the two companies' streaming platforms, Paramount+ and HBO Max.
+Netflix has diversified its content in recent years, expanding into live sports, documentaries and video games in order to compete for share of consumer attention. At the same time, it's lacked the water-cooler-type hits like "Stranger Things" and "Squid Game" that previously boosted subscriber growth and viewership.
+And Netflix is not the only company looking to cut costs in the media space. Last month, Disney said it would lay off around 300 employees, with the majority of cuts coming from human resources and technology roles.
+— CNBC's Julia Boorstin and Stephen Desaulniers contributed to this report.
+
+</details>
+
+
+---
+
+## Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html
+
+正文长度：2142
+
+摘要：Morgan Stanley topped expectations on the top and bottom lines for the third quarter.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise.
+Here's what the company reported:
+- Earnings per share: $3.03 vs. $2.91 LSEG estimate
+- Revenue: $20.34 billion vs. $19.95 billion LSEG estimate
+The company said profit climbed 6.5% to $4.91 billion, or $3.03 a share. Revenue climbed 12% to $20.34 billion.
+The firm's equities trading division, long a marquee business for Morgan Stanley, posted a 41% increase in revenue to $5.8 billion, exceeding the StreetAccount estimate by about $909 million.
+Morgan Stanley cited widespread strength across its equities products and regions, but cited Asia as a source of particular strength in the quarter. The gains in that business helped offset disappointments elsewhere.
+Fixed income trading revenue fell 7% to $2.01 billion, driven by declines in credit and commodities, which is roughly $260 million below expectations.
+Investment banking revenue edged 2% higher to $2.16 billion, about $110 million below expectations. The bank cited an increase in advisory revenue on more completed mergers, but declines in equity underwriting on lower IPOs and a decline in fixed income underwriting.
+Still, the results were "good, but not great," as some business metrics showed slower improvement in the quarter, Wells Fargo analyst Mike Mayo said Wednesday in a note.
+Morgan Stanley shares declined about 3% in midday trading.
+The economy is subject to two key forces right now: the boost from the AI buildout and the drag from geopolitical strife, Morgan Stanley CEO Ted Pick told CNBC's Leslie Picker on Wednesday.
+Starting in early September, concerns with overseas conflict, inflation and surging yields slowed activity across Wall Street, Pick noted.
+"The interaction of the AI phenomenon and geopolitics has been the dominant reality the whole year," Pick said. "It's really two very different stories, and I'd like to think that we are going to have the first narrative, the positive narrative, if we can get some control over the geopolitics."
+Pick is "cautiously optimistic" about markets in the fourth quarter, he added.
+
+</details>
+
+
+---
+
+## Delta's business-class revamp: New seats, menus, plates and more Porsches
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/delta-one-revamp.html
+
+正文长度：2226
+
+摘要：Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Delta Air Lines, the country's most profitable airline, has a problem serving its top-tier customers: not enough Porsches.
+The airline uses a fleet of 40 of the luxury vehicles to drive its high-value flyers right to the plane.
+"What's happened over the last several years is the demand has continued to rise, and we realized that the 40 cars that we have weren't enough to meet the demand. So we're moving that fleet to 70," Ranjan Goswami, Delta's chief marketing and product officer, told CNBC.
+It's just one of many changes Delta is making for customers who fly in its most luxurious and expensive cabin, known as Delta One. The Porsche service is part of a VIP add-on option.
+The carrier on Wednesday unveiled new crockery for the cabins, new Missoni mini pillows and fresh food and beverage menus, including Champagne served over sorbet and Blanton's bourbon. Many of the new items will appear on flights originating in Los Angeles later this month and on other routes in the coming months.
+Delta is also planning to debut updated suites with a bigger screen and a more cushioned, lighter lie-flat seat when it starts flying its first Airbus A350-1000 planes early next year.
+Delta didn't announce changes to the coach and premium economy cabins.
+The airline's executives said the company is already thinking about adjustments on other aircraft, including smaller Airbus jets and on Boeing 787 Dreamliners that Delta has ordered and that will come in the next decade.
+Delta has invested heavily in premium service for close to two decades, and United Airlines has followed suit for a little over 10 years. Other carriers are also leaning into demand for higher-priced options.
+"You got to keep looking at the next cycle of what customers want, and you got to start planning for it now," Goswami said.
+He said Delta focused on details and quality with its latest project for Delta One so that the items, from sliding suite doors to new Delta-logo-emblazoned dinnerware, are made to last. The company tested some of those items to check for chipping, but there are other challenges, like customers liking them too much.
+"I think people are going to love a couple of items, although we hope they don't steal them," he said.
+
+</details>
+
+
+---
+
+## Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html
+
+正文长度：3848
+
+摘要：Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Bank of America on Wednesday posted a sharp profit decline after being hit with a $1.2 billion penalty by U.S. regulators, while revenue also disappointed after trading operations generated about $750 million less than expected.
+Shares of the bank fell as much as 8% in morning trading.
+Here's what the company reported:
+- Earnings per share: 91 cents, may not compare with $1.10 expected by LSEG
+- Revenue: $30.12 billion vs. $30.69 billion expected by LSEG
+The bank's third-quarter profit fell 17% to $6.93 billion, or 91 cents a share. Excluding the penalty, which sapped income by 17 cents, EPS would've been $1.08 a share.
+Companywide revenue rose 3.2% to $30.12 billion in the quarter, on an FTE basis, but that was below expectations by about $570 million, largely on misses from Wall Street trading operations.
+Fixed income trading revenue dropped 17% to $2.55 billion on weakness in mortgages, municipals and credit activity. That is roughly $450 million below the StreetAccount estimate.
+Equities trading revenue climbed 10% to $2.51 billion, but that was also below analysts' expectations, by nearly $300 million.
+The trading disappointment comes after CEO Brian Moynihan told analysts last month that trading revenue would be roughly flat; instead the combined bond and stock trading results fell by 5%.
+Investment banking revenue dropped 11% to $1.8 billion, roughly in line with expectations and Moynihan's September guidance.
+Net interest income, a key profitability driver watched closely by Bank of America investors, rose 7.9% to $16.6 billion, slightly edging out the $16.53 billion StreetAccount estimate.
+'Worst in class'
+In a research note published Wednesday, Wells Fargo analyst Mike Mayo called the firm's capital markets results "easily worst in class" for the quarter.
+The Treasury episode, in which U.S. regulators said the company failed to report billions of dollars in suspicious transactions, sparked questions as to whether Moynihan has a handle on controls at the second-biggest U.S. bank by assets.
+On the company's earnings call Wednesday, several analysts remarked on the sharp decline in Bank of America shares and pressed Moynihan about earlier guidance that compliance costs would be contained.
+"Clearly you've had a huge charge this morning," JPMorgan analyst Vivek Juneja said. "It's not that you can't absorb a billion. … But obviously it's a reputational and confidence issue."
+Other analysts questioned management on the pace of future share repurchases and asked about the bank's underperformance in trading. Management blamed the firm's bond trading results on the sharp rise in interest rates during the period.
+"It just happens when rates go up 85 basis points in a quarter, that tends not to be good for" credit and mortgage trading businesses, CFO Alastair Borthwick said.
+'The right course'
+Later Wednesday in an interview with CNBC's Leslie Picker, Moynihan didn't commit to a timeline on the resolution of regulatory issues.
+"We got to do the work, and then the regulators look at it," Moynihan said. "So I don't want to speculate about the precise timeline."
+The CEO added that he was "confident that we are on the right course to remediate everything."
+Moynihan took the helm in 2010 and spent the early years of his tenure making amends for mortgage-related abuses in the aftermath of the 2008 financial crisis.
+The Treasury fine, announced on Tuesday, added 11th-hour intrigue to what was an otherwise fairly routine bank earnings week. On Tuesday, JPMorgan Chase, Goldman Sachs, Citigroup and Wells Fargo posted mixed results, with JPMorgan missing EPS and revenue estimates for the first time in years.
+Correction: Bank of America reported third-quarter revenue on an FTE basis of $30.12 billion compared with LSEG estimates of $30.69 billion. An earlier version misstated the comparison.
+
+</details>
 
 
 ---
@@ -92,274 +233,6 @@ United also announced Tuesday that United cardholders who have Premier status wi
 United earlier this year overhauled the way travelers earn miles to reward customers holding its credit cards. The carrier also slashed earnings for basic economy flights, following earlier changes to the same practice by American Airlines and Delta Air Lines. United previously upped the thresholds required to earn Premier status in 2024 for the 2025 qualification year.
 
 </details>
-
-
----
-
-## Airport attacks put aviation in crosshairs of geopolitical conflicts
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html
-
-正文长度：4654
-
-摘要：Deadly attacks at Riyadh’s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Deadly attacks on Saudi Arabia's second-busiest airport over the past week are highlighting how conflicts in the Middle East are upending air travel on a larger scale.
-Aviation is increasingly in the middle of these sprawling clashes as threats and outright attacks have forced airlines to quickly cancel flights throughout the Middle East for days, weeks and, in some cases, months. Some carriers might redeploy planes that would be going to some Middle East destinations like Dubai, United Arab Emirates, and Doha, Qatar, to other locations altogether.
-"It's a new paradigm. Civil aviation is being directly targeted and it has not been the case in the last couple of decades," said Mark Zee, founder of OpsGroup, an independent aviation safety group whose members include pilots, dispatchers, airline employees and others.
-The Saudi airport attacks, claimed by Yemen's Iran-backed Houthis, were the deadliest in the country in more than a decade. Over the weekend, at least 13 people were killed and more than 300 injured when a projectile hit terminals at King Khalid International Airport in the Saudi capital Riyadh, officials said. Other attacks have included drones.
-"Historically, airport security is focused on preventing unauthorized access to aircraft and the airport, not defending airspace," said Jeff Price, a professor at the Metropolitan State University of Denver's Department of Aviation and Aerospace Science and an airport management consultant.
-The threats to aviation are forcing officials to rethink how to protect blind spots in these major public spaces.
-"There is this established way to deal with kind of more conventional weapons such as missiles. It's very expensive, but there is a way," said Gulnaz Ukassova, UAE-based security director of information and analysis at risk management firm International SOS. "There is still no sort of foolproof way to deal with the threat posed by drones. The technology, obviously, is constantly evolving."
-King Khalid International Airport has been shut down for much of this week, and some carriers suspended operations there, citing safety concerns. CEOs of major oil companies also pulled out of an energy conference in the country.
-Delta Air Lines, meanwhile, was less than two weeks away from launching an Atlanta-Riyadh route, the first nonstop commercial flight between the the two countries operated by a U.S. airline, according to the carrier.
-But late Sunday, the Federal Aviation Administration warned U.S. carriers about safety-of-flight risks when flying in or over Saudi Arabia. On Monday morning, Delta said it would postpone the route's debut until March.
-The new Delta route comes as Saudi leadership seeks to boost tourism to the country, part of the kingdom's Vision 2030 plan to diversify the economy from oil and attract international investment.
-Air traffic in Saudi Arabia had been increasing rapidly. Scheduled growth in airplane seats in the market is up more than 23% this year from 2023, though the rise has recently slowed, according to aviation-data firm Cirium.
-Whether travelers come back to the region depends on risk appetite. Ukassova said energy companies, which can depend on in-person visits to large projects, tend to have higher risk tolerance, while academics have a low bar for potential risks.
-Longer routes, cut flights
-The conflicts have cut off big parts of airspace in the Middle East, mainly over Iran. The outbreak of the Iran war in February set off massive aviation, travel and safety crises.
-For example, Australian carrier Qantas has changed its Perth, Australia-to-London route to avoid Iranian airspace. Because that flight is then longer, the carrier has added a stop in Singapore to refuel.
-For four years, Western commercial passenger and cargo planes have already had to fly longer routes to avoid Russian airspace. Carriers started detouring away from Russia after its 2022 invasion of Ukraine.
-Taking longer routes to avoid potentially dangerous airspace has been adding to airlines' fuel bills, which got even more expensive this year due to those same Middle East conflicts.
-While much of the traffic to Dubai and Doha has rebounded from the first days of the war since the U.S. and Israel attacked Iran on Feb. 28, it remains below 2025 levels, according to flight-data firm OAG. Capacity by seats across the Middle East is down 5.7% in October from last year, 2.2 million fewer seats, OAG reported.
-Some airlines are opting to stay away from the region altogether.
-"We will not fly to Dubai and Doha, and we need to wait until the situation gets settled," Finnair CEO Turkka Kuusisto told reporters last month in New York.
-
-</details>
-
-
----
-
-## Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html
-
-正文长度：2371
-
-摘要：Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Walmart plans to cover more than 250 prescriptions, including some insulin, inhalers and GLP-1s for diabetes, at no cost to its employees in 2027, the company confirmed to CNBC on Tuesday.
-The retailer is also expanding existing benefits and adding new ones to attract and retain workers at a time when many other employers are offsetting rising healthcare costs with higher prices and scaled-back plan benefits. The announcement comes weeks before open enrollment for Walmart employees closes on Nov. 6.
-Walmart, the biggest private employer in the U.S., will offer Novo's diabetes injection Ozempic and Eli Lilly's rival shot Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.
-But the company still does not cover GLP-1s from Novo and Lilly for the purpose of weight loss. Other large employers similarly don't cover those treatments for obesity or have recently dropped coverage to tamp down on their healthcare costs.
-The latest benefit changes build on Walmart's yearslong effort to boost employee compensation after previously receiving criticism for the healthcare benefits and wages it offers. Walmart employs roughly 2.1 million associates worldwide, with about 1.6 million of those workers based in the U.S., as of the end of fiscal year 2026.
-In a statement, the company said it's minimizing premium increases for its employees, raising rates for its starting plan by $1.50 per pay period to $39.80. Walmart told CNBC that's a smaller increase than the company made last year.
-The company is also expanding an existing benefit that pays for employees to see cancer specialists at the Mayo Clinic or the Cleveland Clinic, according to a Tuesday letter to workers from Donna Morris, Walmart's chief people officer. Starting next year, employees under most plans can use that benefit to get a second opinion from a specialist for rare conditions such as ALS, multiple sclerosis and Parkinson's.
-Among the other added benefits is up to 12 weeks of neonatal intensive care unit leave for parents, which can be added on top of regular parental and maternity leave, the letter said.
-"The steps we're taking are based on years of planning and trying new things, which is allowing us to make meaningful improvements for associates without slashing benefits or significantly raising premiums," Walmart said in its statement to CNBC.
-
-</details>
-
-
----
-
-## UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html
-
-正文长度：4584
-
-摘要：UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> UnitedHealth Group on Tuesday posted third-quarter earnings that blew past estimates and raised its full-year profit outlook, as the company continues to manage high medical costs and sees investments in value-based care and artificial intelligence take hold.
-The nation's largest private insurer said it expects fiscal 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20 per share.
-The healthcare giant's turnaround plan is gaining momentum after three consecutive strong quarters this year. UnitedHealth is working to stabilize margins by shrinking membership, exiting unprofitable contracts, and ramping up investments in artificial intelligence and value-based care, which tie doctor and facility compensation to patient health outcomes, quality of care and cost effectiveness rather than the volume of medical services provided.
-"You'll see in the quarter that we continue to execute not only on the financial aspects of our business, but really doing them with a simpler approach and an approach that's really focused on investing heavily in value-based care," CFO Wayne DeVeydt said in an interview.
-Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $4.69 adjusted vs. $4.14 expected
-- Revenue: $112.69 billion vs. $111.40 billion expected
-The company posted third-quarter net income of $4.11 billion, or $4.56 per share, compared with $2.35 billion, or $2.59 per share, in the same period a year ago. Excluding items like business divestitures, restructuring and the expected reduction of reserves for unprofitable contracts, UnitedHealth earned $4.69 per share.
-Revenue fell to $112.69 billion from $113.16 billion a year earlier. The company's insurer, UnitedHealthcare, and its Optum healthcare unit both topped analysts' operating earnings estimates for the quarter, according to StreetAccount.
-Managing high costs
-Notably, UnitedHealth's medical cost ratio — a measure of total medical expenses paid relative to premiums collected — came in at 88.4% for the third quarter. Analysts were expecting a ratio of 89.9%, according to StreetAccount. A lower ratio typically indicates the company collected more in premiums than it paid out in benefits, resulting in higher profitability.
-Still, DeVeydt told CNBC that medical costs in the quarter "continue to be elevated versus historical norms" — an issue that has plagued insurers, particularly those operating privately run Medicare Advantage plans, for more than two years.
-"I think it's something we should keep an eye on. I think you'll see that our medical care ratio has improved quite a bit, but I don't want that to be misleading in terms of [medical cost trends]," DeVeydt said.
-He said the independent dispute resolution, or IDR, process under the No Surprises Act is adding at least 100 basis points, or 1 percentage point, to total medical costs. That federal law, which took effect in 2022, aims to protect consumers from unexpected medical bills.
-The IDR process allows providers and insurers to resolve disputes over out-of-network payments. DeVeydt said those changes are driving up the company's claims costs, which can ultimately be passed on to consumers through higher premiums.
-DeVeydt added that costs for inpatient services and pharmacy, particularly costly specialty pharmacy drugs for cancer and rare diseases, remain elevated.
-Still, he highlighted the company's value-based care efforts, which he said are helping control medical costs by steering patients toward the right providers and emphasizing preventive care, DeVeydt added.
-He said acute hospital admissions among UnitedHealth members fell 15% year over year through the third quarter, while home health admissions rose 10%, suggesting more patients are receiving care in lower-cost settings.
-"You're finding more members are actually getting into a lower-cost care environment, but more importantly, they're getting into the care environment they actually want to be in," he told CNBC. "So we think we're really balancing both the quality and the cost."
-UnitedHealth is also rolling out AI-powered ambient listening tools to reduce physicians' administrative burden and free up time for patient visits. Appointment scheduling done by patients rather than with the assistance of a provider increased 27% year over year, DeVeydt said.
-He expects those initiatives to have a compounding effect on medical cost management through the fourth quarter and into 2027 as the programs expand.
-
-</details>
-
-
----
-
-## Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html
-
-正文长度：1953
-
-摘要：Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines said it will delay the launch of its nonstop service between Atlanta and the Saudi capital Riyadh until March after several deadly attacks hit the city's airport there.
-Delta planned to begin the route on Oct. 23, with an Airbus A350-900 wide-body plane, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia operated by a U.S. airline.
-Since Thursday, more than 2,000 flights have been canceled to and from King Khalid International Airport in Riyadh, according to FlightAware. The deadly attacks, claimed by Yemen's Iran-backed Houthis, escalated Saturday, when a projectile struck a passenger terminal at the airport, officials said, killing at least 12 people and wounding more than 300.
-King Khalid International Airport remains closed as of Monday.
-"We remain in close contact with relevant government and aviation partners, including Saudia and Riyadh Air, as we monitor the situation," Delta said in a statement. "Saudi Arabia remains an important market for Delta, and we are committed to serving the Kingdom for the long-term."
-Delta CEO Ed Bastian had told CNBC on Thursday that the airline hadn't yet decided whether to postpone the debut.
-"Obviously, we were disappointed to see the news this week," he said. "Safety is going to make the call."
-Delta's decision came after the Federal Aviation Administration on Sunday issued a warning for U.S. airlines.
-The FAA said pilots should "exercise caution" in or around Saudi Arabia "due to safety-of-flight risks associated with ongoing military activities" and navigation systems. In the warning, which is in effect until Dec. 10, the agency said the threats could be a potential risk "to aircraft at all altitudes."
-Airlines suspended flights to the airport, some for the rest of the week, while countries including the U.S. and Australia advised citizens against travel to the region.
-— CNBC's Michele Luhn contributed to this report.
-
-</details>
-
-
----
-
-## FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUZWWEM5NlZrMEdyeFJKZkQ5a05JNGRtQ1FvU1Ezek1iMkZvMzNXRmlCUHBwMHZHeEpFN2tGeEU5aTg0YlZrc3lkY1RPaVBFVkYzTHJ0dUN6RWdwNFNpbW55cHRueEZidUo0Tms1WjE0cHFva2FPWExxMlVlelJ3QUtuZUg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUZWWEM5NlZrMEdyeFJKZkQ5a05JNGRtQ1FvU1Ezek1iMkZvMzNXRmlCUHBwMHZHeEpFN2tGeEU5aTg0YlZrc3lkY1RPaVBFVkYzTHJ0dUN6RWdwNFNpbW55cHRueEZidUo0Tms1WjE0cHFva2FPWExxMlVlelJ3QUtuZUg?oc=5" target="_blank">FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5" target="_blank">Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Bank of America fined $1.2bn over money laundering failures - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5" target="_blank">Bank of America fined $1.2bn over money laundering failures</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## How governments spend money - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd00zMEV3b1lUamhucjg0RjFoY1RVQ1c4UmZIQWRLdmRMM1ZYWFhReXFoMHRhZTBNVmNocFhNVkRVV1g3X1dyOGlZdGs1NUFfMmNmUjBUdlFHOWZQM0dwSFBsclZUd29fVGt0RU9LaVA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd00zMEV3b1lUamhucjg0RjFoY1RVQ1c4UmZIQWRLdmRMM1ZYWFhReXFoMHRhZTBNVmNocFhNVkRVV1g3X1dyOGlZdGs1NUFfMmNmUjBUdlFHOWZQM0dwSFBsclZUd29fVGt0RU9LaVA?oc=5" target="_blank">How governments spend money</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Chip stocks slide after ‘casino’ comment by Broadcom boss - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5" target="_blank">Chip stocks slide after ‘casino’ comment by Broadcom boss</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5" target="_blank">Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhxakRwVWtIYkFQMFgtVExzbndLT3hSSGpUMGRWZ3dtVzhDdVR6ZFpXNmRnOWY5bDd5QjJhdFBxeGIxVnQ5bXphb0d6bjMzaW4wdFZ3eUhlMmp3cHo1SWRYVFh4bmFIV1J2QlBvWUZwdDg1NHpaMm5kcnB6U3ROMWhJbzBGUTVaSE5sVUZwaUl3UTZNWjJXemNSZjA3dU1oaXpXRi1n?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhxakRwVWtIYkFQMFgtVExzbndLT3hSSGpUMGRWZ3dtVzhDdVR6ZFpXNmRnOWY5bDd5QjJhdFBxeGIxVnQ5bXphb0d6bjMzaW4wdFZ3eUhlMmp3cHo1SWRYVFh4bmFIV1J2QlBvWUZwdDg1NHpaMm5kcnB6U3ROMWhJbzBGUTVaSE5sVUZwaUl3UTZNWjJXemNSZjA3dU1oaXpXRi1n?oc=5" target="_blank">Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5" target="_blank">Iran shifting tactics to step up attacks on shipping before US vote, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Dollar languishes as focus turns to CPI, Fed speakers - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5" target="_blank">Dollar languishes as focus turns to CPI, Fed speakers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5" target="_blank">Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
