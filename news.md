@@ -1,68 +1,97 @@
 # 每日财经新闻
 
-更新时间：2026-10-13 19:06:56
+更新时间：2026-10-14 04:22:39
 
-## Stocks Bounce From Lows on Williams’ Rate Remarks: Markets Wrap
+## Barclays India CEO on India as Opportunity
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-10-14/barclays-india-ceo-on-india-as-opportunity-video
 
 正文长度：0
 
-摘要：Stocks bounced from session lows as speculation the Federal Reserve won’t be forced to raise rates aggressively offset lingering worries about elevated oil prices and the outlook for artificial intelligence.
+摘要：Pramod Kumar, India CEO at Barclays Bank, discusses the potential of further engaging with India's IPO market. (Source: Bloomberg)
 
 
 ---
 
-## Trump Says US Still Sharing Intelligence With Ukraine
+## Barclays Plans India Equity Advisory Return After a Decade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-13/trump-says-us-still-sharing-intelligence-with-ukraine-video
+链接：https://www.bloomberg.com/news/articles/2026-10-13/barclays-plans-india-advisory-return-after-a-decade-as-ipos-boom
 
 正文长度：0
 
-摘要：Kelly Grieco, a senior fellow at global research firm the Stimson Center, said a ceasefire on attacking energy infrastructure between Russia and Ukraine benefits the Russians more as the country is able to sell oil to fund the war. Grieco said that even if Ukraine is not able to hit Russian energy infrastructure there are still ways to inflict damage including hitting at travel hubs like airports.  (Source: Bloomberg)
+摘要：Barclays Plc is preparing to restart its equity capital market business in India after nearly a decade, capitalizing on a surge in share sales in one of the world’s busiest markets for fundraising.
 
 
 ---
 
-## Long-Term Treasuries Rise Ahead of Key US Inflation Report
+## US Stocks Won the Last Decade. What About the Next One?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-13/treasuries-gain-on-haven-demand-as-trading-resumes-after-holiday
+链接：https://www.bloomberg.com/news/articles/2026-10-14/us-stocks-won-the-last-decade-what-about-the-next-one
 
 正文长度：0
 
-摘要：Long-term Treasuries advanced as traders focused on the potential that Wednesday’s release of US consumer prices data will reinforce expectations for another Federal Reserve interest-rate increase.
+摘要：<p>Passive investing has become the default. It’s not as neutral a choice as it seems.</p>
 
 
 ---
 
-## Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000
+## Stocks Rise, Dollar Slips in Runup to US Inflation: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000
+链接：https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Strategy Inc.’s Michael Saylor is declaring an end to the past year’s crypto market rout and predicting that Bitcoin is set to break $100,000 again.
+摘要：Stocks gained and the dollar weakened before a key US inflation report that may reveal whether the Federal Reserve can take a less aggressive approach to raising interest rates next year. Oil advanced.
 
 
 ---
 
-## Sheinbaum Vows to Buy More Goods From the US to Sign Trade Deal
+## Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-13/sheinbaum-vows-to-buy-more-goods-from-the-us-to-sign-trade-deal
+链接：https://www.bloomberg.com/news/articles/2026-10-14/gold-steady-as-fed-official-s-remarks-temper-rate-hike-bets
 
 正文长度：0
 
-摘要：Mexican President Claudia Sheinbaum said she’s addressing Trump administration concerns about the growing US trade deficit with its southern neighbor in order to ink a bilateral deal, primarily by buying more American goods.
+摘要：Gold held a two-day decline after a Federal Reserve official signaled one more interest-rate hike may be needed this year, but further tightening won’t be necessary in 2027, improving sentiment toward the precious metal.
+
+
+---
+
+## United Airlines is making it harder to reach its top frequent flyer status in 2027
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html
+
+正文长度：2648
+
+摘要：United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requirements for Premier 1K.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Airlines is getting rid of one path to achieve elite status in 2027 and making its top tier harder to reach.
+The Chicago-based airline is removing the ability for MileagePlus members to earn status partially based on flight segments flown in a calendar year for 2027. Instead, starting Jan. 1, United will only consider the number of points members earn based on Premier qualifying points earned from eligible flight spending, award travel and eligible United credit card spending.
+United announced the change Tuesday in emails to MileagePlus members and on its website. The change aims to simplify how customers earn Premier status, according to the email obtained by CNBC that United sent to members.
+Previously, members could gain status in the lowest elite tier, Premier Silver, with a combination of 15 flight segments and 5,000 points earned in a year, or with 6,000 points. Now, customers will only be able to achieve the status through points at the 6,000 point threshold.
+The number of Premier qualifying points it will take for members to reach the Premier Gold and Platinum tiers through points will also stay the same as the previous points-only option. However, to reach United's highest rewards tier, Premier 1K, members now need 32,000 qualifying points, up from 28,000 in 2026.
+Flyers earn one Premier qualifying point, or PQP, per dollar spent on United base fares and upgrades, and for every 100 miles they redeem for travel on United flights. United Chase cardholders also earn points when they spend money with their card.
+MileagePlus members will still have to take at least four flights on United or United Express jets in a year to be eligible for Premier status.
+In an interview with travel website The Points Guy, United's President of MileagePlus Jarad Fisher called the flight segments metric an "old relic," saying that the airline "thought it made more sense for them to have one consistent metric ... that they could focus on across the board between their flight activity, their engagement in the airline."
+United also announced Tuesday that United cardholders who have Premier status will get a head start by automatically receiving 5% of the points needed to reach the status level they earned the previous year when a new year begins.
+United earlier this year overhauled the way travelers earn miles to reward customers holding its credit cards. The carrier also slashed earnings for basic economy flights, following earlier changes to the same practice by American Airlines and Delta Air Lines. United previously upped the thresholds required to earn Premier status in 2024 for the 2025 qualification year.
+
+</details>
 
 
 ---
@@ -113,7 +142,7 @@ Some airlines are opting to stay away from the region altogether.
 
 链接：https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html
 
-正文长度：2372
+正文长度：2371
 
 摘要：Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.
 
@@ -124,7 +153,7 @@ Some airlines are opting to stay away from the region altogether.
 The retailer is also expanding existing benefits and adding new ones to attract and retain workers at a time when many other employers are offsetting rising healthcare costs with higher prices and scaled-back plan benefits. The announcement comes weeks before open enrollment for Walmart employees closes on Nov. 6.
 Walmart, the biggest private employer in the U.S., will offer Novo's diabetes injection Ozempic and Eli Lilly's rival shot Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.
 But the company still does not cover GLP-1s from Novo and Lilly for the purpose of weight loss. Other large employers similarly don't cover those treatments for obesity or have recently dropped coverage to tamp down on their healthcare costs.
-The latest benefit changes build on Walmart's years-long effort to boost employee compensation after previously receiving criticism for the healthcare benefits and wages it offers. Walmart employs roughly 2.1 million associates worldwide, with about 1.6 million of those workers based in the U.S., as of the end of fiscal year 2026.
+The latest benefit changes build on Walmart's yearslong effort to boost employee compensation after previously receiving criticism for the healthcare benefits and wages it offers. Walmart employs roughly 2.1 million associates worldwide, with about 1.6 million of those workers based in the U.S., as of the end of fiscal year 2026.
 In a statement, the company said it's minimizing premium increases for its employees, raising rates for its starting plan by $1.50 per pay period to $39.80. Walmart told CNBC that's a smaller increase than the company made last year.
 The company is also expanding an existing benefit that pays for employees to see cancer specialists at the Mayo Clinic or the Cleveland Clinic, according to a Tuesday letter to workers from Donna Morris, Walmart's chief people officer. Starting next year, employees under most plans can use that benefit to get a second opinion from a specialist for rare conditions such as ALS, multiple sclerosis and Parkinson's.
 Among the other added benefits is up to 12 weeks of neonatal intensive care unit leave for parents, which can be added on top of regular parental and maternity leave, the letter said.
@@ -205,43 +234,20 @@ Airlines suspended flights to the airport, some for the rest of the week, while 
 
 ---
 
-## McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task
+## FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUZWWEM5NlZrMEdyeFJKZkQ5a05JNGRtQ1FvU1Ezek1iMkZvMzNXRmlCUHBwMHZHeEpFN2tGeEU5aTg0YlZrc3lkY1RPaVBFVkYzTHJ0dUN6RWdwNFNpbW55cHRueEZidUo0Tms1WjE0cHFva2FPWExxMlVlelJ3QUtuZUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3635
+正文长度：0
 
-摘要：McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> McDonald's is betting on chicken and beverages to fuel its next phase of growth, but new consumer spending data suggests the fast-food giant faces stiff competition from rivals that specialize in those areas.
-At its September investor day, McDonald's outlined plans to gain an additional 1.5 percentage points of global market share in both chicken and beverages by 2030. The chain identified the categories as significant opportunities to expand its business beyond beef.
-CEO Chris Kempczinski told CNBC the size of those markets underscores the potential upside.
-"Chicken is a $130 billion category. We have about a 20% share of chicken. Beverages is about a $230 billion category. We have a 10% share of beverages," Kempczinski said, saying McDonald's has more room to grow in those areas than in the $50 billion global beef category, where it has about a 40% share.
-But new data indicates McDonald's could have a tough task in gaining spending from chicken and drink rivals. Many of the restaurant chains winning the most spending from McDonald's diners specialize in those two segments, according to exclusive data shared by Consumer Edge, which tracks credit and debit card transactions.
-Among McDonald's customers, Chick-fil-A gained 0.58 percentage points of limited-service restaurant spending in the third quarter compared with a year earlier, making it the biggest gainer among the chains tracked by Consumer Edge.
-Coffee businesses are also capturing more spending from McDonald's customers. Drive-thru-only chain 7 Brew added 0.4 percentage points, while Starbucks, Dutch Bros. Coffee and Dunkin' also ranked among the top 10 gainers. Together, the four coffee chains added 0.88 percentage points of spending share.
-McDonald's remained by far the largest individual chain in customers' overall limited-service restaurant spending, but its share declined from a year earlier. Restaurant Brands International-owned Burger King, meanwhile, gained 0.24 percentage points, the largest increase among burger chains.
-"There’s a big battle for a smaller amount of restaurant spend as people become more selective in what they spend," said Michael Gunther, Consumer Edge senior vice president.
-The data says only so much about the competitive landscape for McDonald's in the chicken and drink spaces, in part because they don't track exactly what customers are ordering at the counter.
-"If they [McDonald's] are able to attract diners with interesting options, it could work,” Gunther added.
-While McDonald's has struggled with sluggish sales, executives have said they saw signs of improvement toward the end of the third quarter. At its investor day, McDonald's said U.S. comparable sales were slightly negative in July and August, but the company said it expected September to turn positive.
-Consumer Edge data similarly showed McDonald's year-over-year spending share declines narrowing across every income group in September.
-Wall Street has also questioned how quickly the chicken and beverage strategy can deliver.
-Bernstein analyst Danilo Gargiulo said after McDonald's investor day that U.S. beverage launches had not generated enough sales to offset broader weakness, while the company's next chicken platform — which includes hand-breaded chicken and grilled chicken menu items — was further away than he expected.
-"The scale of investment required to deliver [the company's growth plan] McDonald's Next was above our expectations and introduces additional pressure on near-term earnings," said Gargiulo in his note.
-He has a market perform rating on the stock and $295 price target. Shares closed around $235 on Friday.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUZWWEM5NlZrMEdyeFJKZkQ5a05JNGRtQ1FvU1Ezek1iMkZvMzNXRmlCUHBwMHZHeEpFN2tGeEU5aTg0YlZrc3lkY1RPaVBFVkYzTHJ0dUN6RWdwNFNpbW55cHRueEZidUo0Tms1WjE0cHFva2FPWExxMlVlelJ3QUtuZUg?oc=5" target="_blank">FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens - Financial Times
+## Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times
 
 来源：金融时报
 
@@ -249,25 +255,38 @@ He has a market perform rating on the stock and $295 price target. Shares closed
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5" target="_blank">Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5" target="_blank">Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Cyber attack on French supermarket fridges raises alarm over food security - Financial Times
+## Bank of America fined $1.2bn over money laundering failures - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVgxbHR0Ni1sZnBpSnM2WHhtWmtETVZHR204UUxRemFVcHFqT3p5dU90OUd0WUg4MndTQUZhVEdjcVYwVmF4SkZjdXdjNFVYQ3NFMTFwTFVtSS1SeDlxeG44VnBWanFTMllpSW1HNVlsMDB3c201Wnl5dVhYbVVlclRRQVM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVgxbHR0Ni1sZnBpSnM2WHhtWmtETVZHR204UUxRemFVcHFqT3p5dU90OUd0WUg4MndTQUZhVEdjcVYwVmF4SkZjdXdjNFVYQ3NFMTFwTFVtSS1SeDlxeG44VnBWanFTMllpSW1HNVlsMDB3c201Wnl5dVhYbVVlclRRQVM?oc=5" target="_blank">Cyber attack on French supermarket fridges raises alarm over food security</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5" target="_blank">Bank of America fined $1.2bn over money laundering failures</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Chip stocks slide in wake of ‘casino’ comment by Broadcom boss - Financial Times
+## How governments spend money - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd00zMEV3b1lUamhucjg0RjFoY1RVQ1c4UmZIQWRLdmRMM1ZYWFhReXFoMHRhZTBNVmNocFhNVkRVV1g3X1dyOGlZdGs1NUFfMmNmUjBUdlFHOWZQM0dwSFBsclZUd29fVGt0RU9LaVA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd00zMEV3b1lUamhucjg0RjFoY1RVQ1c4UmZIQWRLdmRMM1ZYWFhReXFoMHRhZTBNVmNocFhNVkRVV1g3X1dyOGlZdGs1NUFfMmNmUjBUdlFHOWZQM0dwSFBsclZUd29fVGt0RU9LaVA?oc=5" target="_blank">How governments spend money</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Chip stocks slide after ‘casino’ comment by Broadcom boss - Financial Times
 
 来源：金融时报
 
@@ -275,98 +294,72 @@ He has a market perform rating on the stock and $295 price target. Shares closed
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5" target="_blank">Chip stocks slide in wake of ‘casino’ comment by Broadcom boss</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5" target="_blank">Chip stocks slide after ‘casino’ comment by Broadcom boss</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Will Accenture survive or thrive in the age of AI? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXEzS2hHZ1BhekxSU1ZEdFF5NHl5R3dZUmg0akp6d2dRNjdWWTQxZmk3Wlo4dFRXQmxSV1pFVF9ERm9fU0RWQ3A1akw1ZF9ucWFzSUpxbHVtY0NSdDl0T0g1dll3TUJKOGUtWF9uV1AxZkxUVXo0S3cxWGpOMlBPX1A3NDM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXEzS2hHZ1BhekxSU1ZEdFF5NHl5R3dZUmg0akp6d2dRNjdWWTQxZmk3Wlo4dFRXQmxSV1pFVF9ERm9fU0RWQ3A1akw1ZF9ucWFzSUpxbHVtY0NSdDl0T0g1dll3TUJKOGUtWF9uV1AxZkxUVXo0S3cxWGpOMlBPX1A3NDM?oc=5" target="_blank">Will Accenture survive or thrive in the age of AI?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Top economies heading for biggest budget deficits since Covid, IMF warns - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGh6QmlGV3lGd3dhanBUVnlmdktpNkFLS0V0LUxYd093Uml4WTdrNDBBTmc1dllZRmVLdzVKclNUVGluQlJCNzZkajZnMW5ha085bWg1OVg0V1o4QVFibGQ1RVcyLXRZSDJsS08wTjNfVlJRcjA1NElXbVNtZHlKWjYzMDY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGh6QmlGV3lGd3dhanBUVnlmdktpNkFLS0V0LUxYd093Uml4WTdrNDBBTmc1dllZRmVLdzVKclNUVGluQlJCNzZkajZnMW5ha085bWg1OVg0V1o4QVFibGQ1RVcyLXRZSDJsS08wTjNfVlJRcjA1NElXbVNtZHlKWjYzMDY?oc=5" target="_blank">Top economies heading for biggest budget deficits since Covid, IMF warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia buys stakes in four French tech startups, Les Echos reports - Reuters
+## Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5" target="_blank">Nvidia buys stakes in four French tech startups, Les Echos reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5" target="_blank">Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Google launches flagship AI model Gemini 4 Argon for developers, businesses - Reuters
+## Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhxakRwVWtIYkFQMFgtVExzbndLT3hSSGpUMGRWZ3dtVzhDdVR6ZFpXNmRnOWY5bDd5QjJhdFBxeGIxVnQ5bXphb0d6bjMzaW4wdFZ3eUhlMmp3cHo1SWRYVFh4bmFIV1J2QlBvWUZwdDg1NHpaMm5kcnB6U3ROMWhJbzBGUTVaSE5sVUZwaUl3UTZNWjJXemNSZjA3dU1oaXpXRi1n?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5" target="_blank">Google launches flagship AI model Gemini 4 Argon for developers, businesses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhxakRwVWtIYkFQMFgtVExzbndLT3hSSGpUMGRWZ3dtVzhDdVR6ZFpXNmRnOWY5bDd5QjJhdFBxeGIxVnQ5bXphb0d6bjMzaW4wdFZ3eUhlMmp3cHo1SWRYVFh4bmFIV1J2QlBvWUZwdDg1NHpaMm5kcnB6U3ROMWhJbzBGUTVaSE5sVUZwaUl3UTZNWjJXemNSZjA3dU1oaXpXRi1n?oc=5" target="_blank">Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says US still sharing intel with Ukraine, defends Russian diesel deal - Reuters
+## Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlmdEhoaGFoNXZnVWROaTNiZWVyR2lfelhoYVVaZlRjbFJuaGY5YWRneFZtbnpjQWhtNWkzMTlJQm5JNXpWSTJibE5VVWdZMk5aNDdBNmVlRkc0SWM2djVqTWozaTVrOFk1bWFSQXRtWUE1emdNc3VIckNZUzNGR01IQWhsd3VHcTdqU25jVTl3MlVLTUtkMjI3R3lrZGZuN3BCVlZpTWNZNUN1ZUhRZ1JWRG5pNFRPMUhBa2tVMVg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlmdEhoaGFoNXZnVWROaTNiZWVyR2lfelhoYVVaZlRjbFJuaGY5YWRneFZtbnpjQWhtNWkzMTlJQm5JNXpWSTJibE5VVWdZMk5aNDdBNmVlRkc0SWM2djVqTWozaTVrOFk1bWFSQXRtWUE1emdNc3VIckNZUzNGR01IQWhsd3VHcTdqU25jVTl3MlVLTUtkMjI3R3lrZGZuN3BCVlZpTWNZNUN1ZUhRZ1JWRG5pNFRPMUhBa2tVMVg?oc=5" target="_blank">Trump says US still sharing intel with Ukraine, defends Russian diesel deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5" target="_blank">Iran shifting tactics to step up attacks on shipping before US vote, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ethiopian troops enter town on border with Eritrea, stoking war fears - Reuters
+## Dollar languishes as focus turns to CPI, Fed speakers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEN5VVVFVlVuRmZOcVFieDNvREhpOV9fRDRZa0ROZU1XcGhPb0RYcUJ3cG1oRjNuenh2NXFIaERFbmV3MVVmU3dOMkJmcXRnVTZ3aFY0Z1ZJZW1CQ1pveHZCa3loUFpZcHQ4T0I5bE51Z2tqVk5oV25mTnBWczlaV2o2d0pjQ29Na29MejRTSVZoclBHdWVGSUhOSmhqZmhUTWNvZFllbDk1WGdtY09hMDNQVC0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEN5VVVFVlVuRmZOcVFieDNvREhpOV9fRDRZa0ROZU1XcGhPb0RYcUJ3cG1oRjNuenh2NXFIaERFbmV3MVVmU3dOMkJmcXRnVTZ3aFY0Z1ZJZW1CQ1pveHZCa3loUFpZcHQ4T0I5bE51Z2tqVk5oV25mTnBWczlaV2o2d0pjQ29Na29MejRTSVZoclBHdWVGSUhOSmhqZmhUTWNvZFllbDk1WGdtY09hMDNQVC0?oc=5" target="_blank">Ethiopian troops enter town on border with Eritrea, stoking war fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5" target="_blank">Dollar languishes as focus turns to CPI, Fed speakers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters
+## Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5" target="_blank">Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5" target="_blank">Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
