@@ -1,8 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-10-15 04:05:06
+更新时间：2026-10-15 16:41:54
 
-## Stock Losses Deepen on Chip Rout, Treasuries Rally: Markets Wrap
+## Dangote Pushes Africa Market Access for IPO With Egypt Visit
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-15/dangote-pushes-african-market-access-for-ipo-with-egypt-visit
+
+正文长度：0
+
+摘要：Aliko Dangote is pushing the expansion of capital markets as Africa’s richest man readies to offer global depository receipts in Egypt.
+
+
+---
+
+## Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-15/nvidia-backed-ai-biotech-iambic-up-16-after-150-million-ipo
+
+正文长度：0
+
+摘要：Iambic Therapeutics Inc. shares soared 16% in its trading debut after the clinical-stage cancer drugmaker and technology firm raised $150 million in a US initial public offering.
+
+
+---
+
+## Chip Selloff Spurs Flight to Bonds on AI Worries: Markets Wrap
 
 来源：彭博社
 
@@ -10,63 +36,150 @@
 
 正文长度：0
 
-摘要：A global equity selloff deepened as chip stocks plunged on Wall Street and in Asia, further unwinding this year’s blistering rally in the artificial intelligence trade. Treasuries gained on haven demand, while the dollar weakened.
+摘要：Wall Street traders drove a rotation out of high-profile chipmakers and into a broader category of stocks while fueling a push toward the perceived safety of bonds.
 
 
 ---
 
-## Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice
+## India Restores Old Derivatives Settlement After Auction Swings
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment
+链接：https://www.bloomberg.com/news/articles/2026-10-15/india-s-sebi-said-to-restore-prior-derivatives-settlement-method
 
 正文长度：0
 
-摘要：US Treasuries led a global bond rally as a selloff in equities deepened risk aversion and spurred demand for haven assets.
+摘要：India’s markets regulator restored an earlier method to settle equity derivatives on expiry days, effectively delinking the new closing auction from futures and options price discovery after it triggered sharp swings.
 
 
 ---
 
-## Introducing: Disclosure Season 2
+## Pentagon Intends to Hold Iran School Attack Report Past Midterms
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-15/introducing-disclosure-season-2-video
+链接：https://www.bloomberg.com/news/articles/2026-10-15/pentagon-intends-to-hold-iran-school-attack-report-past-midterms
 
 正文长度：0
 
-摘要：Disclosure, the podcast dedicated to revealing the government’s inner workings, is back for Season 2 in audio and video.
-
-By law, nearly every move federal agencies make—every email, every memo, every receipt—belongs to the public. The key to gaining access is the Freedom of Information Act. In theory, FOIA obligates the government to open its files. But it also allows the government to hold back certain details, meaning that forcing transparency often requires a fight.
-
-Join Bloomberg investigative reporter Jason Leopold and First Amendment attorney Matt Topic for a guided tour of explosive details, bureaucratic foibles and details that government officials never wanted you to know. Listen to new episodes of Disclosure, from Bloomberg & No Smiling, starting Oct. 15, wherever you get your podcasts. (Source: Bloomberg)
+摘要：Top Pentagon officials have expressed their intention to hold off on releasing an internal report into the attack on a school in southern Iran until after the US midterm elections at the earliest, according to people familiar with the matter.
 
 
 ---
 
-## Kospi Drops 8% as Samsung, SK Hynix Shares Plunge on AI and Rate Fears
+## JetBlue’s new domestic first class, BlueFirst, is now on sale
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt
+链接：https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html
 
-正文长度：0
+正文长度：2366
 
-摘要：A global selloff in semiconductor stocks dragged South Korea’s equity benchmark down 8% on Thursday, underscoring the scale of an investor exodus from the frothiest corners of the AI trade.
+摘要：JetBlue announced that BlueFirst, its new domestic first class option, is available for booking on more than 30 routes. It launches December 8.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JetBlue's new domestic first class, BlueFirst, is now available for booking on flights across more than 30 routes, the airline said Thursday.
+This option will be available on domestic flights that are not currently served by the airline's lie-flat Mint business class, which it offers on longer flights. It's part of an overhaul of the carrier's fare options, which will include basic options that don't come with things like seat assignments, a standard option, and a "flex" option, which is refundable and more easily changed.
+The new first-class section comes as JetBlue seeks to return to steady profitability by growing its higher-priced offerings amid strong demand for more expensive and roomier seats.
+The first flight with BlueFirst seats will be on Dec. 8, between Boston and Fort Lauderdale, Florida, followed by routes between Fort Lauderdale and New York's LaGuardia Airport, with additional flights being rolled out in the following weeks and months.
+JetBlue is offering some introductory fares for BlueFirst seats for select flights, including a $299 flight from Boston to Fort Lauderdale, a $249 option from New York to Fort Lauderdale and a $299 option from New York to Liberia, Costa Rica.
+The first-class tickets will offer seats that recline up to 5 inches and have up to 7 inches more legroom than Main seats, JetBlue said. Other perks include Bluetooth-connected seatback screens, food and beverage options, Group 1 boarding and expedited security.
+Within the BlueFirst class, there are three tiered fare options:
+- BlueFirst Base, a lower-cost option, includes one checked bag, priority check-in and security, and Group 1 boarding. Seat selection is free within 24 hours of departure, but there are fees for changes and cancellations.
+- BlueFirst includes two checked bags, free seat selection, and no change or cancellation fees.
+- BlueFirst Flex has the same perks as BlueFirst and additionally offers refunds if you cancel your flight ahead of the departure, with no fees for same-day switches or standby.
+"We designed BlueFirst to deliver a more accessible first-class experience that combines the thoughtful hospitality and service customers expect from JetBlue with exceptional value and comfort. We're excited that customers can now start making BlueFirst part of their travel plans," JetBlue CEO Joanna Geraghty said in a news release.
+
+</details>
 
 
 ---
 
-## Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
+## Southwest is overhauling its frequent flyer program. Here's what's changing
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment
+链接：https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html
 
-正文长度：0
+正文长度：4847
 
-摘要：The Taiwan dollar and South Korean won led losses among Asian currencies in early trading as an overnight slump in Wall Street semiconductor shares spilled into regional markets, dampening demand for artificial intelligence supply-chain plays.
+摘要：Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Goodbye, A-List and A-List Preferred.
+Southwest Airlines is scrapping its two-tier loyalty program starting next year and instead rolling out silver, gold and platinum levels that are similar to what other carriers offer, as the once-quirky airline seeks to increase revenue and reward its biggest spenders.
+Southwest executives have been overhauling the airline, getting rid of longtime customer perks like two free checked bags and open seating. It's now charging for some of those options, like rivals have been doing for years.
+Along with the shift from two to three loyalty levels, the carrier is also changing the names of its tiers. Under the old version, travelers could be classified into A-List or A-List Preferred, which was the higher level.
+"If you think about A-List and A-List Preferred, we don't even have [boarding] groups A, B and C anymore," Tony Roach, Southwest chief customer and brand officer, said in an interview. "So it was time to do a refresh to somewhat incorporate all the changes to seating and all these new experiences that we've been adding."
+Here's what's changing for the loyalty program:
+- A-List and A-List Preferred Rapid Rewards status levels will go away on Jan. 1.
+- A-List customers will be shifted to Silver status in the Rapid Rewards program. A-List Preferred members will get Gold status.
+- A new Platinum tier will be added for the airline's "most engaged" customers.
+Customers can earn 1 Tier Qualifying Point, or TQP, per $1 spent on Southwest co-branded credit cards with Chase. Here are the new status requirements:
+- Silver status will require 35,000 TQPs or 25 qualifying flights. Previously, A-List was 35,000 points or 20 flights. For Silver members, the points-earning bonus on flights will go up from 25% to 40%.
+- To earn Gold, customers will have to reach 65,000 TQPs, down from 70,000 points for A-List Preferred, or take 50 flights. The points-earning bonus for those with that status goes from 100%, or double points earning, to 60% on qualifying flights.
+- The new, top-tier Platinum status requires 140,000 TQPs or 100 qualifying flights. Platinum members will get a 120% earnings bonus on qualifying flights.
+Silver status members will board in Group 1, while Gold members will board before Group 1. Platinum members will board before both Gold members and Group 1. Platinum tier also has unlimited Companion Pass trips.
+Southwest's Companion Pass — which lets a designated person fly for free, minus taxes and fees, with a traveler who has that perk — is also changing.
+Companion Pass holders that have them in their accounts will be able to hold onto them for the duration of their term. But starting with the 2027 earning year, Companion Pass benefits will be earned through TQPs or qualifying flights, by hitting a milestone reward or with Platinum status.
+Currently, a Rapid Rewards member has to earn at least 135,000 qualifying points or 100 one-way flights to qualify for the pass.
+The airline is also expanding its partnerships with international airlines and building its first airport lounges. Southwest on Thursday offered a peek into the new lounges, which it has named Icon, and is working on with its credit card partner, Chase. The carrier is building Icon lounges in four cities around the U.S., with others in the works.
+Southwest is also adding benefits for customers that are in between status tiers, similar to what American Airlines offers.
+For example, after earning 20,000 points or taking 15 qualifying flights, customers can choose between 2,000 more Rapid Rewards points or two coupons to select a "preferred" seat, which is a standard legroom seat that's closer to the front of the plane or a more popular aisle or window seat.
+Customers will also get three Companion Pass trips after earning 95,000 points or taking 75 qualifying flights, which is below the Platinum threshold.
+"That is definitely different from what we've done before," said Nandika Suri, who heads Southwest's Rapid Rewards loyalty program. She said the new strategy is "a way for us to actually recognize and reward customers ... faster and more frequently in their journey to continue to engage with us."
+Airlines overall have consistently raised the requirements to earn status, requiring more spending, and have made similar changes to enter their airport lounges.
+United Airlines on Tuesday said it would no longer allow customers to earn status in its Mileage Plus program based on flight segments next year and that it would only accept Premier qualifying points, which are earned from flight spending and on a co-branded credit card.
+United also raised the requirements to reach Premier 1K, its highest frequent flyer tier outside of the invite-only Global Services, to 32,000 qualifying points, up from 28,000 this year.
+— CNBC's Caleigh Keating contributed to this article.
+
+</details>
+
+
+---
+
+## How lower fuel economy targets could boost pickups and V-8 engines
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html
+
+正文长度：6063
+
+摘要：An analyst who follows the industry says there are four ways recent changes to fuel economy rules will shift investment toward the most profitable segments.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Automakers could see a financial tail wind that runs in the billions of dollars after the U.S. lowered fuel economy standards and stopped issuing fines for violations of those rules, according to an auto analyst.
+The National Highway Traffic Safety Administration in late September sharply reduced fuel economy targets for light-duty vehicles to an average of 34.9 miles per gallon by 2031. Under the previous rules the Biden administration finalized in 2024, the U.S. fleet was then expected to average 50.4 miles per gallon by the same time.
+That followed Congress voting last year to eliminate the fines automakers faced for failing to comply with regulations. Several years ago, General Motors and Stellantis paid hundreds of millions of dollars in civil penalties for failing to meet U.S. fuel economy requirements for prior model years, Reuters reported.
+"We've already seen [costs from fines and credits] come down even this year and serve as incremental earnings tail winds," said Itay Michaeli, an analyst for TD Cowen. "And it could be a few to several hundred million dollars."
+The new rules also eliminate the selling and trading of credits automakers use to compensate for producing fuel-thirsty vehicles. The NHTSA has in the past allowed automakers at risk of exceeding their fuel economy average to buy credits from others that make low- or zero-emission vehicles.
+Historically, state and federal credits have been revenue sources for electric vehicle producers such as Tesla and Rivian.
+Those changes take the pressure off automakers that have tended to produce less-efficient vehicles — such as SUVs, pickup trucks or high-performance sports cars. But they also allow automakers to redirect their portfolios and investments away from products made for compliance and toward ones that are more profitable, Michaeli said.
+There are three pieces to the potential strategy shift, he said. First, automakers can sell more internal-combustion vehicles and fewer of what are often called "compliance cars," which are slower-selling or less profitable fuel-efficient vehicles or EVs that automakers make in order to stay on the right side of fuel economy or emissions rules.
+In the past year, several automakers have written down billions in EV-related investments, showing how those vehicles have been difficult to make profitable in the U.S.
+Ford announced a $19.5 billion special charge in December as part of a business restructuring and a pullback in EV investments, while GM recorded a $7.1 billion impact in the fourth quarter related to its own pullback and restructuring in China. At Porsche, EV-related write-downs drove automotive operating profit down 98% in 2025, and Honda's contributed to the company's first annual loss in about 70 years.
+A second possible change is what Michaeli calls "ICE optimization" — the loosened regulations allow automakers to sell more high-margin vehicles, which often come with larger engines.
+Detroit automakers, and some foreign ones, have already been reintroducing V-8 engines. Stellantis' Ram brand has brought the gas-guzzling engines back for its full-size pickup line. GM, meanwhile, said in September that it will bring a new generation of small-block V-8 engines to its full-size Silverado and Sierra pickup trucks. And Ford has increased V-8 availability across its F-150 pickups, the top-selling vehicle in the U.S.
+"So to kind of work down the funnel," Michaeli said automakers might be thinking, "I don't have to pay compliance costs, I don't have to buy credits. That's great. Now I can maybe sell more pickup trucks, and within those pickup trucks, I could sell more V-8s and different trims of those pickup trucks."
+Michaeli said the third piece is that automakers are also redirecting research and development investments away from projects focused on meeting fuel-efficiency regulations and toward those that either boost profits or support further investment in powertrain development or other technology.
+After both the elimination of federal tax credits for EVs and the market pullback in that segment, automakers are left with big questions about how to invest, said John Murphy, an automotive analyst.
+"Balance sheets and cash on balance sheet may need to be far higher than they thought previously, because there's such extreme uncertainty around where powertrains need to ultimately go," Murphy said. "Remember, powertrain is the most expensive part of a vehicle."
+Hybrids
+Despite regulatory changes, hybrids have surged in the U.S. market over the past several months, and some companies have been better positioned for that increase than others. Murphy expects that to continue.
+"Our forecasts are that hybrids, absent a change in the regulatory regime, will go from 14% of the market last year to about 34% of the market by the end of the decade," he said. "So that's a big shift that's happening quickly. There are some months where we've been about 19% [hybrids]."
+That said, Michaeli argued that EVs are still likely to continue growth. Electric vehicles have an exceptionally high loyalty rate, he said.
+EV owners are more likely to replace their vehicle with another EV than hybrid or gasoline-vehicle owners are to stay with the same powertrain type, Michaeli said. EVs are also still preferred platforms for other innovative technologies, such as autonomous driving features.
+But the main reason Michaeli sees potential for EVs is the sheer number of two-car households in the U.S. — the highest share of such households in the world. Michaeli said he thinks those households are most likely to opt for one EV and one ICE vehicle. There are roughly 300 million vehicles on U.S. roads today, he said. Only about 7.5 million of those are EVs, according to the Alliance for Automotive Innovation, a trade group for automakers.
+"A lot of next-generation EVs are still coming," he said. "Imagine what happens as those EVs hit the market and ramp. That's why it's really hard to be negative structurally on U.S. EV demand, because when it turns, it can turn very, very sharply."
+
+</details>
 
 
 ---
@@ -108,7 +221,7 @@ Bank of America's head count fell by about 3,400 employees in the past year as t
 
 链接：https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html
 
-正文长度：5106
+正文长度：5103
 
 摘要：His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.
 
@@ -136,234 +249,139 @@ A Dutch court issued an injunction earlier this month blocking Merck from sellin
 Merck has said it strongly disagrees with the rulings and plans to appeal. Patients can still receive the original form of Keytruda in Europe while the patent dispute unfolds.
 Still, Halozyme has also sued Merck for patent infringement in the U.S., alleging the subcutaneous formulation of Keytruda infringes 15 patents that the biotech has filed since 2011.
 Meanwhile, Merck is focused on rolling out a slate of new drugs. That includes Winrevair, a treatment for a rare, life-threatening lung disease that was approved in 2024 and acquired a few years earlier through its $11.5 billion acquisition of Acceleron.
-Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, which was approved by the FDA last month.
+Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, which was approved by the FDA in July.
 
 </details>
 
 
 ---
 
-## Netflix to lay off roughly 1,000 employees, or 6% of workforce
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/14/netflix-layoffs.html
-
-正文长度：2259
-
-摘要：Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Netflix said on Wednesday it will lay off roughly 6% of its employees, or roughly 1,000 workers, according to a memo obtained by CNBC.
-The job cuts will largely impact the product, tech, legal and HR teams.
-"Our mission - to entertain the world - is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people and resources," Netflix co-CEOs Ted Sarandos and Greg Peters wrote in the email to employees. "Our business is strong and growing, and we remain on track to deliver our full year forecast. We'll continue to invest aggressively in high impact areas to improve our service and further drive growth and innovation.
-"Doing that means making focused choices across the business so we can keep delivering for our members, partners, employees, and investors," the note said.
-Netflix said it did not have additional comments beyond the co-CEOs' memo. The company is due to report quarterly earnings on Oct. 20.
-The layoffs come just a few weeks after Sarandos told attendees at the Bloomberg Screentime conference that the company was "not growing as fast as I want."
-Netflix has faced a paradox in recent months. It continues to post solid profits and remains the biggest player in the streaming realm, but its viewing time has stagnated and the main driver of new subscriber acquisitions has been its password-sharing crackdown and the launch of a cheaper, ad-supported tier.
-Netflix's biggest threat has been YouTube, but looming on the horizon is Skydance. The combined entity of Paramount and Warner Bros. Discovery has plans to integrate the two companies' streaming platforms, Paramount+ and HBO Max.
-Netflix has diversified its content in recent years, expanding into live sports, documentaries and video games in order to compete for share of consumer attention. At the same time, it's lacked the water-cooler-type hits like "Stranger Things" and "Squid Game" that previously boosted subscriber growth and viewership.
-And Netflix is not the only company looking to cut costs in the media space. Last month, Disney said it would lay off around 300 employees, with the majority of cuts coming from human resources and technology roles.
-— CNBC's Julia Boorstin and Stephen Desaulniers contributed to this report.
-
-</details>
-
-
----
-
-## Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html
-
-正文长度：2170
-
-摘要：Morgan Stanley topped expectations on the top and bottom lines for the third quarter.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise.
-Here's what the company reported:
-- Earnings per share: $3.03 vs. $2.91 LSEG estimate
-- Revenue: $20.34 billion vs. $19.95 billion LSEG estimate
-The company said profit climbed 6.5% to $4.91 billion, or $3.03 a share. Revenue rose 12% to $20.34 billion.
-The firm's equities trading division, long a marquee business for Morgan Stanley, posted a 41% increase in revenue to $5.8 billion, exceeding the StreetAccount estimate by about $909 million.
-Morgan Stanley noted widespread strength across its equities products and regions, but cited Asia as a source of particular strength in the quarter. The gains in that business helped offset disappointments elsewhere.
-Fixed income trading revenue fell 7% to $2.01 billion, driven by declines in credit and commodities, which is roughly $260 million below expectations.
-Investment banking revenue edged 2% higher to $2.16 billion, about $110 million below expectations. The bank cited an increase in advisory revenue on more completed mergers, but declines in equity underwriting on lower initial public offerings and a drop in fixed income underwriting.
-Still, the results were "good, but not great," as some business metrics showed slower improvement in the quarter, Wells Fargo analyst Mike Mayo said Wednesday in a note.
-Morgan Stanley shares declined about 3% Wednesday.
-The economy is subject to two key forces right now: the boost from the artificial intelligence build-out and the drag from geopolitical strife, Morgan Stanley CEO Ted Pick told CNBC's Leslie Picker on Wednesday.
-Starting in early September, concerns with overseas conflict, inflation and surging yields slowed activity across Wall Street, Pick noted.
-"The interaction of the AI phenomenon and geopolitics has been the dominant reality the whole year," Pick said. "It's really two very different stories, and I'd like to think that we are going to have the first narrative, the positive narrative, if we can get some control over the geopolitics."
-Pick is "cautiously optimistic" about markets in the fourth quarter, he added.
-
-</details>
-
-
----
-
-## Delta's business-class revamp: New seats, menus, plates and more Porsches
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/14/delta-one-revamp.html
-
-正文长度：2226
-
-摘要：Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Delta Air Lines, the country's most profitable airline, has a problem serving its top-tier customers: not enough Porsches.
-The airline uses a fleet of 40 of the luxury vehicles to drive its high-value flyers right to the plane.
-"What's happened over the last several years is the demand has continued to rise, and we realized that the 40 cars that we have weren't enough to meet the demand. So we're moving that fleet to 70," Ranjan Goswami, Delta's chief marketing and product officer, told CNBC.
-It's just one of many changes Delta is making for customers who fly in its most luxurious and expensive cabin, known as Delta One. The Porsche service is part of a VIP add-on option.
-The carrier on Wednesday unveiled new crockery for the cabins, new Missoni mini pillows and fresh food and beverage menus, including Champagne served over sorbet and Blanton's bourbon. Many of the new items will appear on flights originating in Los Angeles later this month and on other routes in the coming months.
-Delta is also planning to debut updated suites with a bigger screen and a more cushioned, lighter lie-flat seat when it starts flying its first Airbus A350-1000 planes early next year.
-Delta didn't announce changes to the coach and premium economy cabins.
-The airline's executives said the company is already thinking about adjustments on other aircraft, including smaller Airbus jets and on Boeing 787 Dreamliners that Delta has ordered and that will come in the next decade.
-Delta has invested heavily in premium service for close to two decades, and United Airlines has followed suit for a little over 10 years. Other carriers are also leaning into demand for higher-priced options.
-"You got to keep looking at the next cycle of what customers want, and you got to start planning for it now," Goswami said.
-He said Delta focused on details and quality with its latest project for Delta One so that the items, from sliding suite doors to new Delta-logo-emblazoned dinnerware, are made to last. The company tested some of those items to check for chipping, but there are other challenges, like customers liking them too much.
-"I think people are going to love a couple of items, although we hope they don't steal them," he said.
-
-</details>
-
-
----
-
-## Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO - Financial Times
+## EU leaders to urge Zelenskyy to rein in criticism of Trump - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDU5Sm1jVF9Rclgzb1BKdVhhaXlwekFsT1FYa3JfcDhjM3V1TGNjbWlIblJqOXNwcjcwNVdweDZ3MVY0amRRRExvbVpTM1cyRUNfQjlxd09hNDNQM01WQWtwUkJHOHdjX3dRRThsUVRuZGcxRXF3SWlBYWotWEhHdHMycHA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5" target="_blank">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDU5Sm1jVF9Rclgzb1BKdVhhaXlwekFsT1FYa3JfcDhjM3V1TGNjbWlIblJqOXNwcjcwNVdweDZ3MVY0amRRRExvbVpTM1cyRUNfQjlxd09hNDNQM01WQWtwUkJHOHdjX3dRRThsUVRuZGcxRXF3SWlBYWotWEhHdHMycHA?oc=5" target="_blank">EU leaders to urge Zelenskyy to rein in criticism of Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US floats unfreezing some Russian assets to restart Ukraine peace talks - Financial Times
+## Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5" target="_blank">US floats unfreezing some Russian assets to restart Ukraine peace talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE?oc=5" target="_blank">Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Global tech sell-off deepens as Asian markets tumble - Financial Times
+## Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5" target="_blank">Global tech sell-off deepens as Asian markets tumble</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5" target="_blank">Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Perella Weinberg and Piper Sandler abandon merger talks - Financial Times
+## Zelenskyy on Trump's relationship with Putin | FT Interview - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDE0RXBIbWo5d2llQnEya2tfMmlaaHc4VXF5NUNjdXJKa1I1NHNIeVVuZXNidVVQT0pMbTVEQVB6UlZ4OWlrOU5Qd2hzR20wSGhnOFZneU1wbUJZNFhTbFZxVXdtMk5NQk5BMTRON1FDTzFyRFJhcWc5dFBsbFI2Y2E3amg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZWt6MUJHTHFTalNob2JDUzR3VnNEWFlrV285aEVXRWQ0YTc4LXprNFduVEhMbTBLOGdYYUY4N3pJN2x1ZkI5VWlUWWJiZU81MlZqRldLWkhyZUcwMU05Rk9LSXh6b0U1akk1bnZn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDE0RXBIbWo5d2llQnEya2tfMmlaaHc4VXF5NUNjdXJKa1I1NHNIeVVuZXNidVVQT0pMbTVEQVB6UlZ4OWlrOU5Qd2hzR20wSGhnOFZneU1wbUJZNFhTbFZxVXdtMk5NQk5BMTRON1FDTzFyRFJhcWc5dFBsbFI2Y2E3amg?oc=5" target="_blank">Perella Weinberg and Piper Sandler abandon merger talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZWt6MUJHTHFTalNob2JDUzR3VnNEWFlrV285aEVXRWQ0YTc4LXprNFduVEhMbTBLOGdYYUY4N3pJN2x1ZkI5VWlUWWJiZU81MlZqRldLWkhyZUcwMU05Rk9LSXh6b0U1akk1bnZn?oc=5" target="_blank">Zelenskyy on Trump's relationship with Putin | FT Interview</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bank of America profits drop 17% after $1.2bn money laundering fine - Financial Times
+## CoreWeave’s bonds scream financial distress - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQTcwMU1BMUl3QTl6eFRFT2c1THNZSVpRNFVRY3lNZThkV20yREhiNXJFN2RmY3ktNzgxRkg4MEotVVE4QUY0TDR1V244N2kzMVpocU94T044eVBTS1l3X2laZ2U0WlhQVDBnNFl1ckI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5" target="_blank">Bank of America profits drop 17% after $1.2bn money laundering fine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQTcwMU1BMUl3QTl6eFRFT2c1THNZSVpRNFVRY3lNZThkV20yREhiNXJFN2RmY3ktNzgxRkg4MEotVVE4QUY0TDR1V244N2kzMVpocU94T044eVBTS1l3X2laZ2U0WlhQVDBnNFl1ckI?oc=5" target="_blank">CoreWeave’s bonds scream financial distress</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil prices fall as investors weigh supply outlook, Middle East tensions - Reuters
+## Trump cancels livestream of US military execution for Fort Hood killer - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXdiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5" target="_blank">Oil prices fall as investors weigh supply outlook, Middle East tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXdiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5" target="_blank">Trump cancels livestream of US military execution for Fort Hood killer</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## IMF warns of slowing Asian growth, spillover from rising yields - Reuters
+## Saudi-led coalition says Houthis attempted to attack dozens of Saudi facilities - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5" target="_blank">IMF warns of slowing Asian growth, spillover from rising yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5" target="_blank">Saudi-led coalition says Houthis attempted to attack dozens of Saudi facilities</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian markets sell off as AI trades crumble after hot US CPI data - Reuters
+## Houthis attack presidential palace complex in Yemen's Aden, PM unharmed, officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPenN5Nk5reEJ3bHZicV9oSUR2N04zWUlyczJ1REFSbjFmZ0RPNEl1QzBKUUZjMnFrbzFvbE9YWjRCbVl1clRtNXFPZm9UanlhVmxUS09qYXhOYjJyeVRNRzZtdkVfeU5DalRNT1V4Q0E2MDU0Zno2ZWl5VERHd1BsZS0ya2lWQ0EtTngxbzVGdHNhc1RkZnhGRGxiSllsZzJqUjliamhmWmt3cVBfM1lzbS1vcmRPVHZkYVNhYTRB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5" target="_blank">Asian markets sell off as AI trades crumble after hot US CPI data</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPenN5Nk5reEJ3bHZicV9oSUR2N04zWUlyczJ1REFSbjFmZ0RPNEl1QzBKUUZjMnFrbzFvbE9YWjRCbVl1clRtNXFPZm9UanlhVmxUS09qYXhOYjJyeVRNRzZtdkVfeU5DalRNT1V4Q0E2MDU0Zno2ZWl5VERHd1BsZS0ya2lWQ0EtTngxbzVGdHNhc1RkZnhGRGxiSllsZzJqUjliamhmWmt3cVBfM1lzbS1vcmRPVHZkYVNhYTRB?oc=5" target="_blank">Houthis attack presidential palace complex in Yemen's Aden, PM unharmed, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters
+## US chip stocks set to wipe out $2 trillion after latest selloff - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5" target="_blank">US considers easing sanctions on shadow fleet vessels to cut freight rates, official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5" target="_blank">US chip stocks set to wipe out $2 trillion after latest selloff</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## New White House press secretary Katie Zacharia's legal career draws scrutiny - Reuters
+## How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5" target="_blank">New White House press secretary Katie Zacharia's legal career draws scrutiny</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5" target="_blank">How the Houthis are helping Iran turn Saudi Arabia into a pressure point</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
