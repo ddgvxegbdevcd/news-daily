@@ -1,69 +1,144 @@
 # 每日财经新闻
 
-更新时间：2026-10-14 16:55:15
+更新时间：2026-10-15 04:05:06
 
-## A elite empresarial busca aproximação com Flávio Bolsonaro
+## Stock Losses Deepen on Chip Rout, Treasuries Rally: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video
+链接：https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier
- (Source: Bloomberg)
+摘要：A global equity selloff deepened as chip stocks plunged on Wall Street and in Asia, further unwinding this year’s blistering rally in the artificial intelligence trade. Treasuries gained on haven demand, while the dollar weakened.
 
 
 ---
 
-## CoreWeave’s Bonds Turn Distressed, Drawing ‘Yikes’ From Musk
+## Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk
+链接：https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment
 
 正文长度：0
 
-摘要：CoreWeave Inc.’s bonds have plunged to levels that typically indicate distress, in a swift move that has caught the attention of Silicon Valley leaders including Chamath Palihapitiya and Elon Musk.
+摘要：US Treasuries led a global bond rally as a selloff in equities deepened risk aversion and spurred demand for haven assets.
 
 
 ---
 
-## SEC Approves Cboe’s KPI Prediction-Market Bets With Robinhood
+## Introducing: Disclosure Season 2
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-14/sec-approves-cboe-s-kpi-prediction-market-bets-with-robinhood
+链接：https://www.bloomberg.com/news/videos/2026-10-15/introducing-disclosure-season-2-video
 
 正文长度：0
 
-摘要：Cboe Global Markets Inc. won approval from the Securities and Exchange Commission to become the first securities exchange to list options contracts tied to publicly-traded companies’ performance metrics.
+摘要：Disclosure, the podcast dedicated to revealing the government’s inner workings, is back for Season 2 in audio and video.
+
+By law, nearly every move federal agencies make—every email, every memo, every receipt—belongs to the public. The key to gaining access is the Freedom of Information Act. In theory, FOIA obligates the government to open its files. But it also allows the government to hold back certain details, meaning that forcing transparency often requires a fight.
+
+Join Bloomberg investigative reporter Jason Leopold and First Amendment attorney Matt Topic for a guided tour of explosive details, bureaucratic foibles and details that government officials never wanted you to know. Listen to new episodes of Disclosure, from Bloomberg & No Smiling, starting Oct. 15, wherever you get your podcasts. (Source: Bloomberg)
 
 
 ---
 
-## US Mortgage Rates Reach 7.5%; Home-Buying Slump Hits Sixth Week
+## Kospi Drops 8% as Samsung, SK Hynix Shares Plunge on AI and Rate Fears
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-14/us-mortgage-rates-reach-7-5-video
+链接：https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt
 
 正文长度：0
 
-摘要：US mortgage rates continue to rise, pushing down home purchasing activity for a sixth straight week. The MBA’s purchase index dropped 4%, marking the sixth straight weekly decline — the longest such stretch since July-August 2023. Bloomberg's Jeff Langbaum joins to discuss. (Source: Bloomberg)
+摘要：A global selloff in semiconductor stocks dragged South Korea’s equity benchmark down 8% on Thursday, underscoring the scale of an investor exodus from the frothiest corners of the AI trade.
 
 
 ---
 
-## Bending Spoons Stock Soars on Berkshire’s Increased Stake
+## Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-14/bending-spoons-soars-on-berkshire-s-increased-stake-video
+链接：https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment
 
 正文长度：0
 
-摘要：Shares of Bending Spoons surged as much as 55% after Berkshire Hathaway Inc. agreed to invest an additional $330 million in the Italian technology conglomerate. The investment brings Berkshire’s stake in Bending Spoons to 4% and gives Bending Spoons more capital to pursue acquisitions. Bloomberg's Matt Palazola joins to discuss. (Source: Bloomberg)
+摘要：The Taiwan dollar and South Korean won led losses among Asian currencies in early trading as an overnight slump in Wall Street semiconductor shares spilled into regional markets, dampening demand for artificial intelligence supply-chain plays.
+
+
+---
+
+## Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
+
+正文长度：2489
+
+摘要：Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos, the bank's CEO, Brian Moynihan, told CNBC on Wednesday.
+In an interview after the bank's third-quarter earnings release, Moynihan said that earlier this year the company rushed to bolster a wide spectrum of its internal and vendor code using thousands of employees and outside personnel.
+"That risk is real risk, and that's why when the frontier-type models came out. … A lot of us sat down and said, 'How do we figure out how to get through this quickly?" Moynihan told CNBC's Leslie Picker.
+"We put on 1,000 contractors to help us do the patching work in the second quarter, and those people remain here today, helping us, on top of the 3,000 people we have in that area," he said.
+The bank spent a "couple hundred million plus" on the software remediation and regulatory issues related to anti-money laundering compliance in the third quarter, Moynihan told analysts earlier Wednesday.
+The comments are some of the first by a major U.S. corporation to specify the manpower and dollars spent to protect software systems from Mythos, which was released to a small group of banks, technology firms and government agencies in April.
+They also highlight the dual-edged nature of AI: While it can help companies save money by boosting productivity, the ability of models like Mythos to uncover and exploit decades-old software flaws has also forced firms into a costly defensive scramble.
+"We've got to stay ahead of them, and we've got to be mindful that the people doing the software development are the people trying to sell us the services," Moynihan said.
+Still, Moynihan — speaking as his company's shares slumped as much as 8% Wednesday — sought to reassure investors that the spending increase was temporary.
+"Once you patch, you don't have to patch as much. … The pipeline moves through," Moynihan said, adding that the bank expects remediation costs to decline over time.
+In other places, AI is helping to reduce expenses. Bank of America has about 130 internal AI projects, and savings from those efforts are expected to rise from $300 million this year to $700 million in 2027, Moynihan told analysts.
+Bank of America's head count fell by about 3,400 employees in the past year as the firm cut roughly 5% of managers, he said. It's unclear how much of that workforce reduction is attributable to AI.
+
+</details>
+
+
+---
+
+## Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html
+
+正文长度：5106
+
+摘要：His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Merck CEO Rob Davis told CNBC on Wednesday that he expects the company's breakthrough cancer vaccine with Moderna to get faster to manufacture over time.
+Shortening the current six-week timeline could potentially help the companies reach more patients.
+"We are going to drive for improvement, but right now the focus really is, let's make sure we have the supply ready, we have the market ready to bring this important innovation to the market, and then we'll talk about how do we accelerate," he told CNBC in an exclusive interview. "But I do think over time you're going to see that timeline shortened."
+The personalized cancer vaccine turnaround spans from sequencing a patient's tumor to delivering it to the hospital. Merck and Moderna's vaccine is designed to target the specific mutations in each individual patient's tumor rather than using a one-size-fits-all approach, which makes it complicated to produce.
+The idea is to train the immune system to recognize and kill those unique cancer markers and then pair that response with Merck's blockbuster immunotherapy Keytruda, which aims to help the body attack the cancer more effectively.
+Davis acknowledged that manufacturing the vaccine is a "complex system," but said Merck and Moderna have the process "down to a very tight science."
+"I'm actually very confident that we're not going to have complexities in getting this to patients in a very timely fashion," he added. "We're doing it in our clinicals, and I only see improvement going forward."
+His comments come after the two companies in August released positive initial data from a late-stage trial on the shot in combination with Keytruda in melanoma patients. Davis said the company is also examining the vaccine in trials across other tumors, including non-small cell lung cancer, types of bladder cancer and renal cell carcinoma.
+"You like to talk that maybe you can start moving toward talking about a cure," he said. "We're not there yet, but we're moving in a direction with technology that's really unprecedented."
+Merck's new R&D facility
+Davis spoke to CNBC after Merck earlier Wednesday officially opened its new 120,000-square-foot research facility, which it has named Advance, in its West Point, Pennsylvania, campus. Pennsylvania Gov. Josh Shapiro joined Merck executives and other government officials for a ribbon-cutting ceremony to celebrate the launch of the facility, which features highly automated robotic systems and advanced digital AI capabilities.
+Merck says the facility is designed to streamline the analysis of biological samples from the company's ongoing drug programs and improve its research and development.
+The opening of the new facility comes as Merck prepares for the upcoming loss of exclusivity of Keytruda, which is one of the world's top-selling drugs and is widely viewed as the backbone of modern cancer treatment. Keytruda's core U.S. compound patent expires in December 2028, while secondary patents extend protection into 2029 and beyond.
+Merck has implemented a multi-layered strategy to turn the Keytruda transition into what it views as a manageable "hill" rather than a sharp revenue cliff. That includes accelerating internal research and also funneling $65 billion in external acquisitions and licensing agreements over the five years to build its pipeline of next-generation medicines.
+The pharmaceutical giant is also developing new forms of Keytruda and combination regimens that it can transition patients onto and protect the drug's revenue even after key patents expire before 2030.
+The Food and Drug Administration in September 2025 approved the subcutaneous form of Keytruda, which is considered a more convenient version because it is administered under the skin in minutes. The standard form of the drug is an intravenous infusion that takes around 30 minutes.
+But Merck is facing a legal battle over the newer version in some European markets, raising questions about the market size for the drug.
+A Dutch court issued an injunction earlier this month blocking Merck from selling, stocking or manufacturing subcutaneous Keytruda across eight European countries: Belgium, Denmark, France, Ireland, Italy, Sweden, Switzerland and the Netherlands. That followed a patent infringement suit brought by the biotech company Halozyme Therapeutics over its own subcutaneous drug delivery platform.
+Merck has said it strongly disagrees with the rulings and plans to appeal. Patients can still receive the original form of Keytruda in Europe while the patent dispute unfolds.
+Still, Halozyme has also sued Merck for patent infringement in the U.S., alleging the subcutaneous formulation of Keytruda infringes 15 patents that the biotech has filed since 2011.
+Meanwhile, Merck is focused on rolling out a slate of new drugs. That includes Winrevair, a treatment for a rare, life-threatening lung disease that was approved in 2024 and acquired a few years earlier through its $11.5 billion acquisition of Acceleron.
+Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, which was approved by the FDA last month.
+
+</details>
 
 
 ---
@@ -104,7 +179,7 @@ And Netflix is not the only company looking to cut costs in the media space. Las
 
 链接：https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html
 
-正文长度：2142
+正文长度：2170
 
 摘要：Morgan Stanley topped expectations on the top and bottom lines for the third quarter.
 
@@ -115,14 +190,14 @@ And Netflix is not the only company looking to cut costs in the media space. Las
 Here's what the company reported:
 - Earnings per share: $3.03 vs. $2.91 LSEG estimate
 - Revenue: $20.34 billion vs. $19.95 billion LSEG estimate
-The company said profit climbed 6.5% to $4.91 billion, or $3.03 a share. Revenue climbed 12% to $20.34 billion.
+The company said profit climbed 6.5% to $4.91 billion, or $3.03 a share. Revenue rose 12% to $20.34 billion.
 The firm's equities trading division, long a marquee business for Morgan Stanley, posted a 41% increase in revenue to $5.8 billion, exceeding the StreetAccount estimate by about $909 million.
-Morgan Stanley cited widespread strength across its equities products and regions, but cited Asia as a source of particular strength in the quarter. The gains in that business helped offset disappointments elsewhere.
+Morgan Stanley noted widespread strength across its equities products and regions, but cited Asia as a source of particular strength in the quarter. The gains in that business helped offset disappointments elsewhere.
 Fixed income trading revenue fell 7% to $2.01 billion, driven by declines in credit and commodities, which is roughly $260 million below expectations.
-Investment banking revenue edged 2% higher to $2.16 billion, about $110 million below expectations. The bank cited an increase in advisory revenue on more completed mergers, but declines in equity underwriting on lower IPOs and a decline in fixed income underwriting.
+Investment banking revenue edged 2% higher to $2.16 billion, about $110 million below expectations. The bank cited an increase in advisory revenue on more completed mergers, but declines in equity underwriting on lower initial public offerings and a drop in fixed income underwriting.
 Still, the results were "good, but not great," as some business metrics showed slower improvement in the quarter, Wells Fargo analyst Mike Mayo said Wednesday in a note.
-Morgan Stanley shares declined about 3% in midday trading.
-The economy is subject to two key forces right now: the boost from the AI buildout and the drag from geopolitical strife, Morgan Stanley CEO Ted Pick told CNBC's Leslie Picker on Wednesday.
+Morgan Stanley shares declined about 3% Wednesday.
+The economy is subject to two key forces right now: the boost from the artificial intelligence build-out and the drag from geopolitical strife, Morgan Stanley CEO Ted Pick told CNBC's Leslie Picker on Wednesday.
 Starting in early September, concerns with overseas conflict, inflation and surging yields slowed activity across Wall Street, Pick noted.
 "The interaction of the AI phenomenon and geopolitics has been the dominant reality the whole year," Pick said. "It's really two very different stories, and I'd like to think that we are going to have the first narrative, the positive narrative, if we can get some control over the geopolitics."
 Pick is "cautiously optimistic" about markets in the fourth quarter, he added.
@@ -163,76 +238,132 @@ He said Delta focused on details and quality with its latest project for Delta O
 
 ---
 
-## Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty
+## Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3848
+正文长度：0
 
-摘要：Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Bank of America on Wednesday posted a sharp profit decline after being hit with a $1.2 billion penalty by U.S. regulators, while revenue also disappointed after trading operations generated about $750 million less than expected.
-Shares of the bank fell as much as 8% in morning trading.
-Here's what the company reported:
-- Earnings per share: 91 cents, may not compare with $1.10 expected by LSEG
-- Revenue: $30.12 billion vs. $30.69 billion expected by LSEG
-The bank's third-quarter profit fell 17% to $6.93 billion, or 91 cents a share. Excluding the penalty, which sapped income by 17 cents, EPS would've been $1.08 a share.
-Companywide revenue rose 3.2% to $30.12 billion in the quarter, on an FTE basis, but that was below expectations by about $570 million, largely on misses from Wall Street trading operations.
-Fixed income trading revenue dropped 17% to $2.55 billion on weakness in mortgages, municipals and credit activity. That is roughly $450 million below the StreetAccount estimate.
-Equities trading revenue climbed 10% to $2.51 billion, but that was also below analysts' expectations, by nearly $300 million.
-The trading disappointment comes after CEO Brian Moynihan told analysts last month that trading revenue would be roughly flat; instead the combined bond and stock trading results fell by 5%.
-Investment banking revenue dropped 11% to $1.8 billion, roughly in line with expectations and Moynihan's September guidance.
-Net interest income, a key profitability driver watched closely by Bank of America investors, rose 7.9% to $16.6 billion, slightly edging out the $16.53 billion StreetAccount estimate.
-'Worst in class'
-In a research note published Wednesday, Wells Fargo analyst Mike Mayo called the firm's capital markets results "easily worst in class" for the quarter.
-The Treasury episode, in which U.S. regulators said the company failed to report billions of dollars in suspicious transactions, sparked questions as to whether Moynihan has a handle on controls at the second-biggest U.S. bank by assets.
-On the company's earnings call Wednesday, several analysts remarked on the sharp decline in Bank of America shares and pressed Moynihan about earlier guidance that compliance costs would be contained.
-"Clearly you've had a huge charge this morning," JPMorgan analyst Vivek Juneja said. "It's not that you can't absorb a billion. … But obviously it's a reputational and confidence issue."
-Other analysts questioned management on the pace of future share repurchases and asked about the bank's underperformance in trading. Management blamed the firm's bond trading results on the sharp rise in interest rates during the period.
-"It just happens when rates go up 85 basis points in a quarter, that tends not to be good for" credit and mortgage trading businesses, CFO Alastair Borthwick said.
-'The right course'
-Later Wednesday in an interview with CNBC's Leslie Picker, Moynihan didn't commit to a timeline on the resolution of regulatory issues.
-"We got to do the work, and then the regulators look at it," Moynihan said. "So I don't want to speculate about the precise timeline."
-The CEO added that he was "confident that we are on the right course to remediate everything."
-Moynihan took the helm in 2010 and spent the early years of his tenure making amends for mortgage-related abuses in the aftermath of the 2008 financial crisis.
-The Treasury fine, announced on Tuesday, added 11th-hour intrigue to what was an otherwise fairly routine bank earnings week. On Tuesday, JPMorgan Chase, Goldman Sachs, Citigroup and Wells Fargo posted mixed results, with JPMorgan missing EPS and revenue estimates for the first time in years.
-Correction: Bank of America reported third-quarter revenue on an FTE basis of $30.12 billion compared with LSEG estimates of $30.69 billion. An earlier version misstated the comparison.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5" target="_blank">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## United Airlines is making it harder to reach its top frequent flyer status in 2027
+## US floats unfreezing some Russian assets to restart Ukraine peace talks - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2648
+正文长度：0
 
-摘要：United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requirements for Premier 1K.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWhNZXJpc3VMV3hxUk5USktocURaVkJEbkYtaFlxZy00eDN6WXJtbUIwSGxUbGMyVDJYTzlWY1VIc1NvcDBubjZaOWZyY3haMkF0YVI1M2RyanJoTmtrYVQ5ekpTbGRYMmtuMWlnS1F3dHlkVW5Rc2dHZEd5WU01dHRLdDY?oc=5" target="_blank">US floats unfreezing some Russian assets to restart Ukraine peace talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> United Airlines is getting rid of one path to achieve elite status in 2027 and making its top tier harder to reach.
-The Chicago-based airline is removing the ability for MileagePlus members to earn status partially based on flight segments flown in a calendar year for 2027. Instead, starting Jan. 1, United will only consider the number of points members earn based on Premier qualifying points earned from eligible flight spending, award travel and eligible United credit card spending.
-United announced the change Tuesday in emails to MileagePlus members and on its website. The change aims to simplify how customers earn Premier status, according to the email obtained by CNBC that United sent to members.
-Previously, members could gain status in the lowest elite tier, Premier Silver, with a combination of 15 flight segments and 5,000 points earned in a year, or with 6,000 points. Now, customers will only be able to achieve the status through points at the 6,000 point threshold.
-The number of Premier qualifying points it will take for members to reach the Premier Gold and Platinum tiers through points will also stay the same as the previous points-only option. However, to reach United's highest rewards tier, Premier 1K, members now need 32,000 qualifying points, up from 28,000 in 2026.
-Flyers earn one Premier qualifying point, or PQP, per dollar spent on United base fares and upgrades, and for every 100 miles they redeem for travel on United flights. United Chase cardholders also earn points when they spend money with their card.
-MileagePlus members will still have to take at least four flights on United or United Express jets in a year to be eligible for Premier status.
-In an interview with travel website The Points Guy, United's President of MileagePlus Jarad Fisher called the flight segments metric an "old relic," saying that the airline "thought it made more sense for them to have one consistent metric ... that they could focus on across the board between their flight activity, their engagement in the airline."
-United also announced Tuesday that United cardholders who have Premier status will get a head start by automatically receiving 5% of the points needed to reach the status level they earned the previous year when a new year begins.
-United earlier this year overhauled the way travelers earn miles to reward customers holding its credit cards. The carrier also slashed earnings for basic economy flights, following earlier changes to the same practice by American Airlines and Delta Air Lines. United previously upped the thresholds required to earn Premier status in 2024 for the 2025 qualification year.
+---
 
-</details>
+## Global tech sell-off deepens as Asian markets tumble - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5" target="_blank">Global tech sell-off deepens as Asian markets tumble</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Perella Weinberg and Piper Sandler abandon merger talks - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDE0RXBIbWo5d2llQnEya2tfMmlaaHc4VXF5NUNjdXJKa1I1NHNIeVVuZXNidVVQT0pMbTVEQVB6UlZ4OWlrOU5Qd2hzR20wSGhnOFZneU1wbUJZNFhTbFZxVXdtMk5NQk5BMTRON1FDTzFyRFJhcWc5dFBsbFI2Y2E3amg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDE0RXBIbWo5d2llQnEya2tfMmlaaHc4VXF5NUNjdXJKa1I1NHNIeVVuZXNidVVQT0pMbTVEQVB6UlZ4OWlrOU5Qd2hzR20wSGhnOFZneU1wbUJZNFhTbFZxVXdtMk5NQk5BMTRON1FDTzFyRFJhcWc5dFBsbFI2Y2E3amg?oc=5" target="_blank">Perella Weinberg and Piper Sandler abandon merger talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Bank of America profits drop 17% after $1.2bn money laundering fine - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5" target="_blank">Bank of America profits drop 17% after $1.2bn money laundering fine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Oil prices fall as investors weigh supply outlook, Middle East tensions - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5" target="_blank">Oil prices fall as investors weigh supply outlook, Middle East tensions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## IMF warns of slowing Asian growth, spillover from rising yields - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5" target="_blank">IMF warns of slowing Asian growth, spillover from rising yields</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Asian markets sell off as AI trades crumble after hot US CPI data - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5" target="_blank">Asian markets sell off as AI trades crumble after hot US CPI data</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5" target="_blank">US considers easing sanctions on shadow fleet vessels to cut freight rates, official says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## New White House press secretary Katie Zacharia's legal career draws scrutiny - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5" target="_blank">New White House press secretary Katie Zacharia's legal career draws scrutiny</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
