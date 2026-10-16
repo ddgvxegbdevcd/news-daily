@@ -1,47 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-10-15 16:41:54
+更新时间：2026-10-16 04:01:16
 
-## Dangote Pushes Africa Market Access for IPO With Egypt Visit
+## Asian Stocks Rise, US Futures Gain After Warsh: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/dangote-pushes-african-market-access-for-ipo-with-egypt-visit
+链接：https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Aliko Dangote is pushing the expansion of capital markets as Africa’s richest man readies to offer global depository receipts in Egypt.
+摘要：Asian equities rose as dip buyers stepped in following a chip-stock selloff fueled by renewed concerns about the artificial intelligence trade.
 
 
 ---
 
-## Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO
+## Indonesia Stocks Sink as MSCI Weighs Index Removal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/nvidia-backed-ai-biotech-iambic-up-16-after-150-million-ipo
+链接：https://www.bloomberg.com/news/videos/2026-10-16/indonesia-stocks-sink-as-msci-weighs-index-removal-video
 
 正文长度：0
 
-摘要：Iambic Therapeutics Inc. shares soared 16% in its trading debut after the clinical-stage cancer drugmaker and technology firm raised $150 million in a US initial public offering.
+摘要：Indonesian stocks tumbled after MSCI Inc. said the country no longer merits emerging-market status, risking an ejection from its global indexes and triggering fears of foreign capital flight. Bloomberg's Anthony Stephens breaks down the developments. (Source: Bloomberg)
 
 
 ---
 
-## Chip Selloff Spurs Flight to Bonds on AI Worries: Markets Wrap
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates
-
-正文长度：0
-
-摘要：Wall Street traders drove a rotation out of high-profile chipmakers and into a broader category of stocks while fueling a push toward the perceived safety of bonds.
-
-
----
-
-## India Restores Old Derivatives Settlement After Auction Swings
+## India Restores Old Derivatives Settlement on Auction Chaos
 
 来源：彭博社
 
@@ -49,20 +36,91 @@
 
 正文长度：0
 
-摘要：India’s markets regulator restored an earlier method to settle equity derivatives on expiry days, effectively delinking the new closing auction from futures and options price discovery after it triggered sharp swings.
+摘要：India’s markets regulator restored a method that relies on the final 30 minutes of trading to settle derivatives on expiry days, after the new closing auction raised concerns over sharp price swings.
 
 
 ---
 
-## Pentagon Intends to Hold Iran School Attack Report Past Midterms
+## China’s National Team Signals Return With Heavy ETF Inflows
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/pentagon-intends-to-hold-iran-school-attack-report-past-midterms
+链接：https://www.bloomberg.com/news/articles/2026-10-16/china-s-national-team-signals-return-with-heavy-etf-inflows
 
 正文长度：0
 
-摘要：Top Pentagon officials have expressed their intention to hold off on releasing an internal report into the attack on a school in southern Iran until after the US midterm elections at the earliest, according to people familiar with the matter.
+摘要：China’s state-backed funds appear to be stepping back into the stock market, a sign that Beijing is seeking to put a floor under falling shares.
+
+
+---
+
+## City Therapeutics Raises $200 Million in Upsized US IPO
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-16/city-therapeutics-raises-200-million-in-upsized-us-ipo
+
+正文长度：0
+
+摘要：City Therapeutics Inc., an early-stage developer of RNAi-based drugs, raised $200 million in a US initial public offering priced at the mid-point of its marketed range.
+
+
+---
+
+## KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html
+
+正文长度：2449
+
+摘要：KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> KFC's U.S. restaurants will ditch PepsiCo and switch to Coca-Cola beverages next year, marking the first time in decades that the Yum Brands chain has changed its drink supplier, the restaurant company said Thursday.
+Some of KFC's international markets serve Coke products, but the chain's U.S. restaurants have stuck with PepsiCo drinks ever since Pepsi bought KFC in 1986. At the time of the acquisition, KFC was Coke's second-largest fountain account, trailing only McDonald's. Pepsi later spun off KFC, along with sister chains Pizza Hut and Taco Bell — but even as the combined Yum Brands, the company stayed loyal to its previous owner. Without Pepsi, Taco Bell would not serve its iconic Mountain Dew Baja Blast.
+The change comes as KFC aims to win back U.S. diners, who have ditched the fried chicken chain for rivals such as Chick-fil-A or Popeyes.
+"This decision is a critical step in the Kentucky Fried Comeback," KFC U.S. President Catherine Tan-Gillespie wrote in a memo to franchisees and employees obtained by CNBC. "A new beverage offering, with a new partner in Coca-Cola, gives us a platform to innovate, meet changing tastes and give customers more reasons to choose us."
+For many fast-food chains, beverages have become a critical way to attract consumers. A number of restaurants, including McDonald's and Taco Bell, have broadened their drink offerings with options such as refreshers or "dirty soda." For its part, KFC recently unveiled new drinks, including iced coffees and shakes, at Open House, its innovation restaurant in McKinney, Texas.
+Coke told CNBC earlier this year that the company has helped many of its restaurant partners create new drinks.
+KFC expects to be pouring Coke beverages in all of its U.S. restaurants by the end of the first quarter of 2027, Tan-Gillespie said.
+Tan-Gillespie also said that Pepsi remains an important partner for KFC's parent company and the chain's international markets.
+For decades, Coke and Pepsi have tussled over important restaurant partners, which represent both a sales opportunity and the chance to grow the visibility of their beverage brands.
+It is unusual for large restaurant chains to switch beverage providers, but not unprecedented. In 2024, Pepsi poached Subway, the largest U.S. restaurant chain by number of locations, from Coke. Besides KFC, Coke has wooed away a number of notable Pepsi customers in recent years, including Culver's, Arby's and Panda Express.
+
+</details>
+
+
+---
+
+## Porsche reveals Mission S concept car that previews new design identity
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html
+
+正文长度：2027
+
+摘要：Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Porsche on Thursday revealed a concept car called Mission S that signals a new design direction and flagship model for the famed German sports carmaker.
+The debut of the sleek midengine vehicle is part of a turnaround plan revealed last week by the Volkswagen-controlled brand that includes efforts to boost profits through higher-end products and lower vehicle sales.
+Porsche described Mission S as "a first glimpse of the brand's evolved design identity" that also represents a "super sports car platform" that will be positioned above its iconic 911 sports car.
+The vehicle's design is recognizably Porsche but with more aggressive styling compared with its current models, including new hood vents and a roof scoop. Its rear features more differentiated flair in which the vehicle's spoiler flows into its rear panels.
+"A Porsche must be recognisable as a Porsche at first glance," Porsche Chairman Michael Leiters said in a release. "The Mission S provides a glimpse of the ideas and design features that will shape Porsche in the coming years."
+Automakers routinely use concept vehicles to gauge customer interest, showcase future technologies and signal the direction of a vehicle or brand.
+The company did not release expected pricing or performance specifications for such future models. Starting prices for its current 911 models range from roughly $135,500 for an entry-level Carrera to more than $203,000 for a Carrera 4 GTS convertible.
+During Porsche's capital markets day on Oct. 7, the company outlined its "Sportwagenschmiede '35" turnaround plan, which focuses on emphasizing high-end sports cars and luxury SUVs to get the carmaker back on track.
+Porsche's operating margin last year was only 1.1%, compared with 14.1% in 2024, as the company deals with increased costs, U.S. tariffs and declining sales in China.
+The turnaround plan includes a long-term target for a group operating margin of 15% and a midterm breakeven point of 200,000 units or below annually. That compares with sales of 279,449 in 2025.
+
+</details>
 
 
 ---
@@ -184,74 +242,15 @@ But the main reason Michaeli sees potential for EVs is the sheer number of two-c
 
 ---
 
-## Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos
+## Anglo American chief says tech giants show ‘deep interest’ in mining stakes - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2489
+正文长度：0
 
-摘要：Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos, the bank's CEO, Brian Moynihan, told CNBC on Wednesday.
-In an interview after the bank's third-quarter earnings release, Moynihan said that earlier this year the company rushed to bolster a wide spectrum of its internal and vendor code using thousands of employees and outside personnel.
-"That risk is real risk, and that's why when the frontier-type models came out. … A lot of us sat down and said, 'How do we figure out how to get through this quickly?" Moynihan told CNBC's Leslie Picker.
-"We put on 1,000 contractors to help us do the patching work in the second quarter, and those people remain here today, helping us, on top of the 3,000 people we have in that area," he said.
-The bank spent a "couple hundred million plus" on the software remediation and regulatory issues related to anti-money laundering compliance in the third quarter, Moynihan told analysts earlier Wednesday.
-The comments are some of the first by a major U.S. corporation to specify the manpower and dollars spent to protect software systems from Mythos, which was released to a small group of banks, technology firms and government agencies in April.
-They also highlight the dual-edged nature of AI: While it can help companies save money by boosting productivity, the ability of models like Mythos to uncover and exploit decades-old software flaws has also forced firms into a costly defensive scramble.
-"We've got to stay ahead of them, and we've got to be mindful that the people doing the software development are the people trying to sell us the services," Moynihan said.
-Still, Moynihan — speaking as his company's shares slumped as much as 8% Wednesday — sought to reassure investors that the spending increase was temporary.
-"Once you patch, you don't have to patch as much. … The pipeline moves through," Moynihan said, adding that the bank expects remediation costs to decline over time.
-In other places, AI is helping to reduce expenses. Bank of America has about 130 internal AI projects, and savings from those efforts are expected to rise from $300 million this year to $700 million in 2027, Moynihan told analysts.
-Bank of America's head count fell by about 3,400 employees in the past year as the firm cut roughly 5% of managers, he said. It's unclear how much of that workforce reduction is attributable to AI.
-
-</details>
-
-
----
-
-## Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html
-
-正文长度：5103
-
-摘要：His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Merck CEO Rob Davis told CNBC on Wednesday that he expects the company's breakthrough cancer vaccine with Moderna to get faster to manufacture over time.
-Shortening the current six-week timeline could potentially help the companies reach more patients.
-"We are going to drive for improvement, but right now the focus really is, let's make sure we have the supply ready, we have the market ready to bring this important innovation to the market, and then we'll talk about how do we accelerate," he told CNBC in an exclusive interview. "But I do think over time you're going to see that timeline shortened."
-The personalized cancer vaccine turnaround spans from sequencing a patient's tumor to delivering it to the hospital. Merck and Moderna's vaccine is designed to target the specific mutations in each individual patient's tumor rather than using a one-size-fits-all approach, which makes it complicated to produce.
-The idea is to train the immune system to recognize and kill those unique cancer markers and then pair that response with Merck's blockbuster immunotherapy Keytruda, which aims to help the body attack the cancer more effectively.
-Davis acknowledged that manufacturing the vaccine is a "complex system," but said Merck and Moderna have the process "down to a very tight science."
-"I'm actually very confident that we're not going to have complexities in getting this to patients in a very timely fashion," he added. "We're doing it in our clinicals, and I only see improvement going forward."
-His comments come after the two companies in August released positive initial data from a late-stage trial on the shot in combination with Keytruda in melanoma patients. Davis said the company is also examining the vaccine in trials across other tumors, including non-small cell lung cancer, types of bladder cancer and renal cell carcinoma.
-"You like to talk that maybe you can start moving toward talking about a cure," he said. "We're not there yet, but we're moving in a direction with technology that's really unprecedented."
-Merck's new R&D facility
-Davis spoke to CNBC after Merck earlier Wednesday officially opened its new 120,000-square-foot research facility, which it has named Advance, in its West Point, Pennsylvania, campus. Pennsylvania Gov. Josh Shapiro joined Merck executives and other government officials for a ribbon-cutting ceremony to celebrate the launch of the facility, which features highly automated robotic systems and advanced digital AI capabilities.
-Merck says the facility is designed to streamline the analysis of biological samples from the company's ongoing drug programs and improve its research and development.
-The opening of the new facility comes as Merck prepares for the upcoming loss of exclusivity of Keytruda, which is one of the world's top-selling drugs and is widely viewed as the backbone of modern cancer treatment. Keytruda's core U.S. compound patent expires in December 2028, while secondary patents extend protection into 2029 and beyond.
-Merck has implemented a multi-layered strategy to turn the Keytruda transition into what it views as a manageable "hill" rather than a sharp revenue cliff. That includes accelerating internal research and also funneling $65 billion in external acquisitions and licensing agreements over the five years to build its pipeline of next-generation medicines.
-The pharmaceutical giant is also developing new forms of Keytruda and combination regimens that it can transition patients onto and protect the drug's revenue even after key patents expire before 2030.
-The Food and Drug Administration in September 2025 approved the subcutaneous form of Keytruda, which is considered a more convenient version because it is administered under the skin in minutes. The standard form of the drug is an intravenous infusion that takes around 30 minutes.
-But Merck is facing a legal battle over the newer version in some European markets, raising questions about the market size for the drug.
-A Dutch court issued an injunction earlier this month blocking Merck from selling, stocking or manufacturing subcutaneous Keytruda across eight European countries: Belgium, Denmark, France, Ireland, Italy, Sweden, Switzerland and the Netherlands. That followed a patent infringement suit brought by the biotech company Halozyme Therapeutics over its own subcutaneous drug delivery platform.
-Merck has said it strongly disagrees with the rulings and plans to appeal. Patients can still receive the original form of Keytruda in Europe while the patent dispute unfolds.
-Still, Halozyme has also sued Merck for patent infringement in the U.S., alleging the subcutaneous formulation of Keytruda infringes 15 patents that the biotech has filed since 2011.
-Meanwhile, Merck is focused on rolling out a slate of new drugs. That includes Winrevair, a treatment for a rare, life-threatening lung disease that was approved in 2024 and acquired a few years earlier through its $11.5 billion acquisition of Acceleron.
-Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, which was approved by the FDA in July.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5" target="_blank">Anglo American chief says tech giants show ‘deep interest’ in mining stakes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -269,19 +268,6 @@ Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, w
 
 ---
 
-## Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE?oc=5" target="_blank">Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
 ## Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times
 
 来源：金融时报
@@ -291,19 +277,6 @@ Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, w
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5" target="_blank">Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Zelenskyy on Trump's relationship with Putin | FT Interview - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZWt6MUJHTHFTalNob2JDUzR3VnNEWFlrV285aEVXRWQ0YTc4LXprNFduVEhMbTBLOGdYYUY4N3pJN2x1ZkI5VWlUWWJiZU81MlZqRldLWkhyZUcwMU05Rk9LSXh6b0U1akk1bnZn?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZWt6MUJHTHFTalNob2JDUzR3VnNEWFlrV285aEVXRWQ0YTc4LXprNFduVEhMbTBLOGdYYUY4N3pJN2x1ZkI5VWlUWWJiZU81MlZqRldLWkhyZUcwMU05Rk9LSXh6b0U1akk1bnZn?oc=5" target="_blank">Zelenskyy on Trump's relationship with Putin | FT Interview</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -321,67 +294,80 @@ Another closely watched launch is Merck's cholesterol-lowering pill Lipfendra, w
 
 ---
 
-## Trump cancels livestream of US military execution for Fort Hood killer - Reuters
+## Germany’s Friedrich Merz vows to fight on: ‘We are the firewall’ - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXdiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZtcHdVcC1fUHZwaDJVajgyOVNJS0puSW01YjBTN3NjTXIyMEV5dkZVSktrUW9WMXdBTVQ1WGhBU21IUHNtMldZOFB4cjVVakpnTVZxRVNqMlp1MlJLVTBvR3FOTVlfSVE1YnJ5V2s4cC1IZ29aTzVERW9sZUQtUUFudFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXdiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5" target="_blank">Trump cancels livestream of US military execution for Fort Hood killer</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZtcHdVcC1fUHZwaDJVajgyOVNJS0puSW01YjBTN3NjTXIyMEV5dkZVSktrUW9WMXdBTVQ1WGhBU21IUHNtMldZOFB4cjVVakpnTVZxRVNqMlp1MlJLVTBvR3FOTVlfSVE1YnJ5V2s4cC1IZ29aTzVERW9sZUQtUUFudFA?oc=5" target="_blank">Germany’s Friedrich Merz vows to fight on: ‘We are the firewall’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Saudi-led coalition says Houthis attempted to attack dozens of Saudi facilities - Reuters
+## White House press secretary Katie Zacharia says she did not pass bar exam - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVncEpZNVAzemowTXFqOG9qQmUzVkJqZFZLMlRDd2RSRWZmejkwQlVDZG01SWN6eUU2YklXQzRoc0pEVzNGaTBXY3FjVU54RHlWS2JoZUo5aXJ2OWpQMnppZG1sZXE3dVFISmFTUjl3cUdBT3NzNFc3S2xfQ0pSTWN1X0xaalJubXFZTlJOT25hN2FjSWxDTl9qZmtNWkNaZ2VjTWtENS1vS2lfLThDeGZ4ZzViaEVlQWJuNU9yR25TVGZBUWtEdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5" target="_blank">Saudi-led coalition says Houthis attempted to attack dozens of Saudi facilities</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVncEpZNVAzemowTXFqOG9qQmUzVkJqZFZLMlRDd2RSRWZmejkwQlVDZG01SWN6eUU2YklXQzRoc0pEVzNGaTBXY3FjVU54RHlWS2JoZUo5aXJ2OWpQMnppZG1sZXE3dVFISmFTUjl3cUdBT3NzNFc3S2xfQ0pSTWN1X0xaalJubXFZTlJOT25hN2FjSWxDTl9qZmtNWkNaZ2VjTWtENS1vS2lfLThDeGZ4ZzViaEVlQWJuNU9yR25TVGZBUWtEdw?oc=5" target="_blank">White House press secretary Katie Zacharia says she did not pass bar exam</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Houthis attack presidential palace complex in Yemen's Aden, PM unharmed, officials say - Reuters
+## Trump says he is talking to Russia and China about denuclearization - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPenN5Nk5reEJ3bHZicV9oSUR2N04zWUlyczJ1REFSbjFmZ0RPNEl1QzBKUUZjMnFrbzFvbE9YWjRCbVl1clRtNXFPZm9UanlhVmxUS09qYXhOYjJyeVRNRzZtdkVfeU5DalRNT1V4Q0E2MDU0Zno2ZWl5VERHd1BsZS0ya2lWQ0EtTngxbzVGdHNhc1RkZnhGRGxiSllsZzJqUjliamhmWmt3cVBfM1lzbS1vcmRPVHZkYVNhYTRB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPenN5Nk5reEJ3bHZicV9oSUR2N04zWUlyczJ1REFSbjFmZ0RPNEl1QzBKUUZjMnFrbzFvbE9YWjRCbVl1clRtNXFPZm9UanlhVmxUS09qYXhOYjJyeVRNRzZtdkVfeU5DalRNT1V4Q0E2MDU0Zno2ZWl5VERHd1BsZS0ya2lWQ0EtTngxbzVGdHNhc1RkZnhGRGxiSllsZzJqUjliamhmWmt3cVBfM1lzbS1vcmRPVHZkYVNhYTRB?oc=5" target="_blank">Houthis attack presidential palace complex in Yemen's Aden, PM unharmed, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5" target="_blank">Trump says he is talking to Russia and China about denuclearization</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US chip stocks set to wipe out $2 trillion after latest selloff - Reuters
+## Oil edges down as investors weigh possible US sanctions on 'shadow fleet' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5" target="_blank">US chip stocks set to wipe out $2 trillion after latest selloff</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5" target="_blank">Oil edges down as investors weigh possible US sanctions on 'shadow fleet'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters
+## China says Israel should stop its 'forced establishment' of West Bank settlements - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJwejF3dFROT1V2Mnd1MWktUnVuc2xLUzNFOFk1YkpQNjhYR2k0LS1PVUppR1F6ekgzbHd2X0hCYW1zVC0zXzIzMXp1ZXl3eHJ6ZzIwaVZnbFB0ZWlFNW1UU2I4VW5UOG4zWS1vclpyS1ZySGVxZzFLN01YdGhBcnQ4d2UwRmdSdU1vcUlTOHpRMmUxdGY2dWVkUlFuVWdRR2JkMEZKRTBDbTVxWmVxblljZEMwU0R4MzdRemt1YXlrQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5" target="_blank">How the Houthis are helping Iran turn Saudi Arabia into a pressure point</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJwejF3dFROT1V2Mnd1MWktUnVuc2xLUzNFOFk1YkpQNjhYR2k0LS1PVUppR1F6ekgzbHd2X0hCYW1zVC0zXzIzMXp1ZXl3eHJ6ZzIwaVZnbFB0ZWlFNW1UU2I4VW5UOG4zWS1vclpyS1ZySGVxZzFLN01YdGhBcnQ4d2UwRmdSdU1vcUlTOHpRMmUxdGY2dWVkUlFuVWdRR2JkMEZKRTBDbTVxWmVxblljZEMwU0R4MzdRemt1YXlrQQ?oc=5" target="_blank">China says Israel should stop its 'forced establishment' of West Bank settlements</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5" target="_blank">EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
