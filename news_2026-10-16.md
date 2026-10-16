@@ -1,68 +1,126 @@
 # 每日财经新闻
 
-更新时间：2026-10-16 04:01:16
+更新时间：2026-10-16 16:24:42
 
-## Asian Stocks Rise, US Futures Gain After Warsh: Markets Wrap
+## Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-10-16/coffee-s-coming-glut-may-not-be-enough-to-calm-volatile-prices
 
 正文长度：0
 
-摘要：Asian equities rose as dip buyers stepped in following a chip-stock selloff fueled by renewed concerns about the artificial intelligence trade.
+摘要：After years of shortages, the world is finally getting more coffee. The question is how much of it will reach the exchange warehouses that underpin prices across the industry.
 
 
 ---
 
-## Indonesia Stocks Sink as MSCI Weighs Index Removal
+## Hot Dogs Are a Common Good
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-16/indonesia-stocks-sink-as-msci-weighs-index-removal-video
+链接：https://www.bloomberg.com/news/newsletters/2026-10-16/hot-dogs-are-a-common-good
 
 正文长度：0
 
-摘要：Indonesian stocks tumbled after MSCI Inc. said the country no longer merits emerging-market status, risking an ejection from its global indexes and triggering fears of foreign capital flight. Bloomberg's Anthony Stephens breaks down the developments. (Source: Bloomberg)
+摘要：On the power of Portillo’s.
 
 
 ---
 
-## India Restores Old Derivatives Settlement on Auction Chaos
+## Brazil Judge Orders Meta to Treat Runoff Candidates Equally
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/india-s-sebi-said-to-restore-prior-derivatives-settlement-method
+链接：https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally
 
 正文长度：0
 
-摘要：India’s markets regulator restored a method that relies on the final 30 minutes of trading to settle derivatives on expiry days, after the new closing auction raised concerns over sharp price swings.
+摘要：A Brazilian electoral court judge ordered Meta Platforms Inc. not to interfere with the distribution of political or election-related content from any candidate in the Oct. 25 runoff.
 
 
 ---
 
-## China’s National Team Signals Return With Heavy ETF Inflows
+## CoreWeave Debt Stress; JB Hunt Falls on Rising Costs | Stock Movers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/china-s-national-team-signals-return-with-heavy-etf-inflows
+链接：https://www.bloomberg.com/news/videos/2026-10-16/coreweave-debt-stress-jb-hunt-falls-on-rising-costs-stock-movers
 
 正文长度：0
 
-摘要：China’s state-backed funds appear to be stepping back into the stock market, a sign that Beijing is seeking to put a floor under falling shares.
+摘要：On this episode of Stock Movers:
+
+- CoreWeave (CRWV) shares are moving as it remains at the center of the tech selloff this week. Shares in CoreWeave plunged 20% in the first three sessions of the week as its debt tumbled to levels that typically indicate distress. By Thursday morning, investors were pricing a more than 60% chance of a default within five years.
+- Apollo Global Management (APO) shares are responding to a price target downgrade from Morgan Stanley.
+- JB Hunt (JBHT) is lower as it aims to improve margins by raising prices after rising costs weighed on third-quarter profitability. (Source: Bloomberg)
 
 
 ---
 
-## City Therapeutics Raises $200 Million in Upsized US IPO
+## Market Euphoria Distracts From Brazil’s Surging Debt Problem
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/city-therapeutics-raises-200-million-in-upsized-us-ipo
+链接：https://www.bloomberg.com/news/articles/2026-10-16/market-euphoria-distracts-from-brazil-s-mounting-debt-problem
 
 正文长度：0
 
-摘要：City Therapeutics Inc., an early-stage developer of RNAi-based drugs, raised $200 million in a US initial public offering priced at the mid-point of its marketed range.
+摘要：Flávio Bolsonaro’s early success in Brazil’s presidential race sparked such euphoria that investors risk overlooking a debt problem running through every corner of the nation’s economy.
+
+
+---
+
+## Nike's India campus is a long-term growth bet amid turnaround
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html
+
+正文长度：8490
+
+摘要：Nike announced earlier this month that it's expanding into India. The retailer has been broadly struggling, especially in the China market.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Nike is making a big bet on India.
+The retailer, which has been struggling to revive its business and regain momentum under CEO Elliott Hill, is hoping the world's most populous country can help it turn the page on its performance.
+As it reported its fiscal first-quarter earnings on Oct. 1, the company announced it will create a new global campus in Bengaluru, India, as part of its growth strategy. Hill wrote in a letter to employees that the new facility would be a "long-term investment" to help position Nike for success.
+"India is already an important growth market and manufacturing hub for Nike, with strong capabilities and access to talent," Hill wrote.
+The new campus is expected to open in the next few years and span corporate roles across the organization, including the namesake Nike brand, Jordan Brand and Converse. Nike plans to discuss its India campus in detail at its investor day next month.
+In a statement to CNBC, a Nike spokesperson said expanding into India is a "natural" next step for the company as it looks to grow its global presence.
+"As participation in running, basketball, football, fitness and other sports continues to grow across India, we see an opportunity to better serve athletes through stronger local capabilities, consumer insights, and innovation," the spokesperson said.
+India will be the world's third-largest retail market by 2030, according to Indian conglomerate Reliance Industries. Its e-commerce market was valued at $159.25 billion in 2026 and is projected to reach $332.94 billion by 2031, according to IBEF, a business advocacy organization created by the Indian government.
+Nike has endured a yearslong slump and is trying to right its business under Hill's turnaround plan. Nike also announced this month that it would lay off workers across the company as part of what it has dubbed its Pace strategy, which includes supply chain changes and reorganization of the company's geographic segments. Nike expects the effort to deliver approximately $2.5 billion in savings through fiscal 2031.
+Nike's decision to invest further in India as part of its comeback comes as the sportswear company sheds revenue in another critical international market: China. Though its fiscal first-quarter North America revenue came in just above Wall Street expectations, Hill said that performance wasn't enough to offset pressures abroad.
+Nike has been particularly struggling in the Greater China market, where its revenue dropped by 26% in its fiscal first quarter. It's part of what experts have said is a broader trend of American companies losing relevance and traction to domestic brands as the once-lucrative market matures.
+On a call with analysts earlier this month, Hill said the company was taking "deliberate actions" to strengthen its China business, though he said those effects will take time to materialize. Hill said the company plans to refresh its physical retail, spearhead a digital cleanup and create higher quality experiences for consumers.
+The Nike spokesperson told CNBC the company is "deeply committed" to China and sees the region as one of its "most important long-term growth markets," even as Nike expands its presence in India.
+"China remains a long-term priority for Nike, while India represents another important opportunity to invest in the future of sport and the next generation of athletes," the spokesperson said.
+Investing in a long-term vision
+The company's expansion in India may be coming at both an opportune and inopportune time, according to experts. Investing in a growing international market does not guarantee higher sales — it also requires persuading Indian consumers they want the Nike brand, a challenge the company has struggled to overcome in China.
+"What Nike, I think, is doing right now is going region by region and working to reestablish what the brand stands for," Simeon Siegel, a senior managing director at Guggenheim Securities, told CNBC.
+Siegel said part of the dissonance for Nike is that each region and segment of the business is at a different stage of its turnaround. He said investing in India may set the company up for a more sustainable future if the China business continues to lag, but Nike needs to have a compelling product, solid storytelling and extensive distribution in the region to be successful there.
+"I think the company needs to look inward and figure out what is the right way to reestablish profitability," he said. "And that involves, in certain instances, shrinking and saving and cutting, and, in certain instances, investing and looking toward the future, because the goal here is not to shrink to oblivion; it's to shrink to stability, and then ultimately growth."
+The global strategy may also focus too much on a long-term vision rather than more immediate fixes, according to Jessica Ramirez, co-founder and managing director at advisory firm The Consumer Collective, who specializes in retail and apparel. Ramirez said she already thought Nike and Hill's vision were "out of touch" and the plan for the India campus didn't necessarily help its case.
+"I don't know that this plan of India is an immediate solution to their problems right now," she said. "They have to plan long term, right? But they also need to plan short term, which is continuously falling apart."
+She said Nike has not shared plans that are concrete enough to win back momentum in China and has to develop both regions hand in hand.
+While Nike under Hill has improved its wholesale and performance categories, Ramirez said it has yet to master its direct-to-consumer and sportswear segments, which would allow the company to flourish in all of its markets.
+The Nike spokesperson told CNBC the retailer is committed to investing in both countries as it tries to expand its global presence.
+"Importantly, this is not an either/or decision between India and China," the spokesperson said. "We always invest market by market based on long-term opportunities to serve athletes and grow sport around the world."
+A growing market opportunity
+Still, India presents an attractive opportunity for many companies looking to unlock growth abroad.
+Ramirez said Nike is just the latest to join a cohort of American companies looking to establish their presence in the market. While many brands began investing in China years ago, she said that trend is now pointing toward India instead, as U.S. companies see more spending pressures in the Chinese market and navigate geopolitical tensions between the two countries.
+"It's to get in there for the long term and to make sure that they are there for when they can reap the positive effects," she said. "I want to say this conversation started getting a bit more engaging in the last two to three years, when companies started investing more in India."
+India is one of the world's strongest market performers, driven primarily by domestic demand, investment and supply-chain diversification, according to an analysis from Accenture. With a population of over 1 billion, the country presents a growth opportunity similar to the one China offered in the early 2000s.
+"It's going to be a fast-growing consumer base where we assume their income levels will continue to go up and they'll have much more purchasing power, and so maybe could we be tapping in on that market from a consumer lens," Chris Tomsovic, who leads Accenture's macro foresight team, told CNBC.
+Still, one of the biggest focus points for the Indian consumer is price sensitivity, which will pose a challenge for American companies trying to break into the market, he added. Even so, many domestic brands on the market are younger, meaning there could be more opportunities right now for Western companies to take market share.
+Another challenge is that the Chinese consumer has historically been receptive to American brands, whereas it will still take more data to understand how Indian shoppers feel about those businesses, he said. For sportswear retailers, the focus of the sports most popular in each region will also factor into that equation.
+"Can they really localize the product, make the price point work? Can they adapt to the local social media technology ecosystem? Can they adapt to the local cultural values and norms that the consumer wants?" Tomsovic said.
+"If you're able to nail that, then I think you're right. Whether you're a footwear brand, whether you're an athleisure brand, I think there's a huge opportunity there with a billion consumers," he said.
+
+</details>
 
 
 ---
@@ -200,174 +258,132 @@ United also raised the requirements to reach Premier 1K, its highest frequent fl
 
 ---
 
-## How lower fuel economy targets could boost pickups and V-8 engines
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html
-
-正文长度：6063
-
-摘要：An analyst who follows the industry says there are four ways recent changes to fuel economy rules will shift investment toward the most profitable segments.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Automakers could see a financial tail wind that runs in the billions of dollars after the U.S. lowered fuel economy standards and stopped issuing fines for violations of those rules, according to an auto analyst.
-The National Highway Traffic Safety Administration in late September sharply reduced fuel economy targets for light-duty vehicles to an average of 34.9 miles per gallon by 2031. Under the previous rules the Biden administration finalized in 2024, the U.S. fleet was then expected to average 50.4 miles per gallon by the same time.
-That followed Congress voting last year to eliminate the fines automakers faced for failing to comply with regulations. Several years ago, General Motors and Stellantis paid hundreds of millions of dollars in civil penalties for failing to meet U.S. fuel economy requirements for prior model years, Reuters reported.
-"We've already seen [costs from fines and credits] come down even this year and serve as incremental earnings tail winds," said Itay Michaeli, an analyst for TD Cowen. "And it could be a few to several hundred million dollars."
-The new rules also eliminate the selling and trading of credits automakers use to compensate for producing fuel-thirsty vehicles. The NHTSA has in the past allowed automakers at risk of exceeding their fuel economy average to buy credits from others that make low- or zero-emission vehicles.
-Historically, state and federal credits have been revenue sources for electric vehicle producers such as Tesla and Rivian.
-Those changes take the pressure off automakers that have tended to produce less-efficient vehicles — such as SUVs, pickup trucks or high-performance sports cars. But they also allow automakers to redirect their portfolios and investments away from products made for compliance and toward ones that are more profitable, Michaeli said.
-There are three pieces to the potential strategy shift, he said. First, automakers can sell more internal-combustion vehicles and fewer of what are often called "compliance cars," which are slower-selling or less profitable fuel-efficient vehicles or EVs that automakers make in order to stay on the right side of fuel economy or emissions rules.
-In the past year, several automakers have written down billions in EV-related investments, showing how those vehicles have been difficult to make profitable in the U.S.
-Ford announced a $19.5 billion special charge in December as part of a business restructuring and a pullback in EV investments, while GM recorded a $7.1 billion impact in the fourth quarter related to its own pullback and restructuring in China. At Porsche, EV-related write-downs drove automotive operating profit down 98% in 2025, and Honda's contributed to the company's first annual loss in about 70 years.
-A second possible change is what Michaeli calls "ICE optimization" — the loosened regulations allow automakers to sell more high-margin vehicles, which often come with larger engines.
-Detroit automakers, and some foreign ones, have already been reintroducing V-8 engines. Stellantis' Ram brand has brought the gas-guzzling engines back for its full-size pickup line. GM, meanwhile, said in September that it will bring a new generation of small-block V-8 engines to its full-size Silverado and Sierra pickup trucks. And Ford has increased V-8 availability across its F-150 pickups, the top-selling vehicle in the U.S.
-"So to kind of work down the funnel," Michaeli said automakers might be thinking, "I don't have to pay compliance costs, I don't have to buy credits. That's great. Now I can maybe sell more pickup trucks, and within those pickup trucks, I could sell more V-8s and different trims of those pickup trucks."
-Michaeli said the third piece is that automakers are also redirecting research and development investments away from projects focused on meeting fuel-efficiency regulations and toward those that either boost profits or support further investment in powertrain development or other technology.
-After both the elimination of federal tax credits for EVs and the market pullback in that segment, automakers are left with big questions about how to invest, said John Murphy, an automotive analyst.
-"Balance sheets and cash on balance sheet may need to be far higher than they thought previously, because there's such extreme uncertainty around where powertrains need to ultimately go," Murphy said. "Remember, powertrain is the most expensive part of a vehicle."
-Hybrids
-Despite regulatory changes, hybrids have surged in the U.S. market over the past several months, and some companies have been better positioned for that increase than others. Murphy expects that to continue.
-"Our forecasts are that hybrids, absent a change in the regulatory regime, will go from 14% of the market last year to about 34% of the market by the end of the decade," he said. "So that's a big shift that's happening quickly. There are some months where we've been about 19% [hybrids]."
-That said, Michaeli argued that EVs are still likely to continue growth. Electric vehicles have an exceptionally high loyalty rate, he said.
-EV owners are more likely to replace their vehicle with another EV than hybrid or gasoline-vehicle owners are to stay with the same powertrain type, Michaeli said. EVs are also still preferred platforms for other innovative technologies, such as autonomous driving features.
-But the main reason Michaeli sees potential for EVs is the sheer number of two-car households in the U.S. — the highest share of such households in the world. Michaeli said he thinks those households are most likely to opt for one EV and one ICE vehicle. There are roughly 300 million vehicles on U.S. roads today, he said. Only about 7.5 million of those are EVs, according to the Alliance for Automotive Innovation, a trade group for automakers.
-"A lot of next-generation EVs are still coming," he said. "Imagine what happens as those EVs hit the market and ramp. That's why it's really hard to be negative structurally on U.S. EV demand, because when it turns, it can turn very, very sharply."
-
-</details>
-
-
----
-
-## Anglo American chief says tech giants show ‘deep interest’ in mining stakes - Financial Times
+## Lufthansa exploring sale of software assets in €1bn deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFRINC1iemlHeVZpMTZSNVYyME04Y0JuaThpMGtUazViUTNHNDNqRVNwUVY0UkxQY1V1WVJaRjlNSWhNSTFBRjktLVh2ZExmWGgzU1JxZy1RUlVkaXZkTmVvSFVzVTFhd2pGNllHSkp3cW84MzdsV1N0ZEZYY3VsM2g0Y1I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5" target="_blank">Anglo American chief says tech giants show ‘deep interest’ in mining stakes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFRINC1iemlHeVZpMTZSNVYyME04Y0JuaThpMGtUazViUTNHNDNqRVNwUVY0UkxQY1V1WVJaRjlNSWhNSTFBRjktLVh2ZExmWGgzU1JxZy1RUlVkaXZkTmVvSFVzVTFhd2pGNllHSkp3cW84MzdsV1N0ZEZYY3VsM2g0Y1I?oc=5" target="_blank">Lufthansa exploring sale of software assets in €1bn deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EU leaders to urge Zelenskyy to rein in criticism of Trump - Financial Times
+## Bets on Fed rate hold in October strengthen after Warsh comments - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDU5Sm1jVF9Rclgzb1BKdVhhaXlwekFsT1FYa3JfcDhjM3V1TGNjbWlIblJqOXNwcjcwNVdweDZ3MVY0amRRRExvbVpTM1cyRUNfQjlxd09hNDNQM01WQWtwUkJHOHdjX3dRRThsUVRuZGcxRXF3SWlBYWotWEhHdHMycHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDU5Sm1jVF9Rclgzb1BKdVhhaXlwekFsT1FYa3JfcDhjM3V1TGNjbWlIblJqOXNwcjcwNVdweDZ3MVY0amRRRExvbVpTM1cyRUNfQjlxd09hNDNQM01WQWtwUkJHOHdjX3dRRThsUVRuZGcxRXF3SWlBYWotWEhHdHMycHA?oc=5" target="_blank">EU leaders to urge Zelenskyy to rein in criticism of Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5" target="_blank">Bets on Fed rate hold in October strengthen after Warsh comments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times
+## The espresso pot test of Italian capitalism - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE8yWlJJMUVOZWRrTzBYZHZnOHd1R2g3dEhOZ1JLZjBZb0JrdDVsLS0zYkxWdEpiSjcycHhIV0ZRYzJ6Uk93NDNoeWVhcl9kRHlwU3ZIOVdaeHc3cHY2dXhDdFpFaFpFTk5sYmdma2w2RzdKQ0ppSzZyaVp4aEJhWHhCSzg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5" target="_blank">Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE8yWlJJMUVOZWRrTzBYZHZnOHd1R2g3dEhOZ1JLZjBZb0JrdDVsLS0zYkxWdEpiSjcycHhIV0ZRYzJ6Uk93NDNoeWVhcl9kRHlwU3ZIOVdaeHc3cHY2dXhDdFpFaFpFTk5sYmdma2w2RzdKQ0ppSzZyaVp4aEJhWHhCSzg?oc=5" target="_blank">The espresso pot test of Italian capitalism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## CoreWeave’s bonds scream financial distress - Financial Times
+## Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQTcwMU1BMUl3QTl6eFRFT2c1THNZSVpRNFVRY3lNZThkV20yREhiNXJFN2RmY3ktNzgxRkg4MEotVVE4QUY0TDR1V244N2kzMVpocU94T044eVBTS1l3X2laZ2U0WlhQVDBnNFl1ckI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQTcwMU1BMUl3QTl6eFRFT2c1THNZSVpRNFVRY3lNZThkV20yREhiNXJFN2RmY3ktNzgxRkg4MEotVVE4QUY0TDR1V244N2kzMVpocU94T044eVBTS1l3X2laZ2U0WlhQVDBnNFl1ckI?oc=5" target="_blank">CoreWeave’s bonds scream financial distress</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc?oc=5" target="_blank">Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Germany’s Friedrich Merz vows to fight on: ‘We are the firewall’ - Financial Times
+## Trump has failed to listen to voters on inflation - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZtcHdVcC1fUHZwaDJVajgyOVNJS0puSW01YjBTN3NjTXIyMEV5dkZVSktrUW9WMXdBTVQ1WGhBU21IUHNtMldZOFB4cjVVakpnTVZxRVNqMlp1MlJLVTBvR3FOTVlfSVE1YnJ5V2s4cC1IZ29aTzVERW9sZUQtUUFudFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWldwNEZHeC1ieHp1ek8xSTBNemtEbTdYOFBvSW1MSnpjaS1nNkJ2QXZzdGdnN0xxQzFZWkI3SzVtZEotVGZhaWQyZDZJRlh1MXpNQXZncHIweG5WUm1pTDd3NEJGcVpfRWRZR2lHaTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZtcHdVcC1fUHZwaDJVajgyOVNJS0puSW01YjBTN3NjTXIyMEV5dkZVSktrUW9WMXdBTVQ1WGhBU21IUHNtMldZOFB4cjVVakpnTVZxRVNqMlp1MlJLVTBvR3FOTVlfSVE1YnJ5V2s4cC1IZ29aTzVERW9sZUQtUUFudFA?oc=5" target="_blank">Germany’s Friedrich Merz vows to fight on: ‘We are the firewall’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWldwNEZHeC1ieHp1ek8xSTBNemtEbTdYOFBvSW1MSnpjaS1nNkJ2QXZzdGdnN0xxQzFZWkI3SzVtZEotVGZhaWQyZDZJRlh1MXpNQXZncHIweG5WUm1pTDd3NEJGcVpfRWRZR2lHaTg?oc=5" target="_blank">Trump has failed to listen to voters on inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## White House press secretary Katie Zacharia says she did not pass bar exam - Reuters
+## Starlink disruptions are being felt on the front lines of Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVncEpZNVAzemowTXFqOG9qQmUzVkJqZFZLMlRDd2RSRWZmejkwQlVDZG01SWN6eUU2YklXQzRoc0pEVzNGaTBXY3FjVU54RHlWS2JoZUo5aXJ2OWpQMnppZG1sZXE3dVFISmFTUjl3cUdBT3NzNFc3S2xfQ0pSTWN1X0xaalJubXFZTlJOT25hN2FjSWxDTl9qZmtNWkNaZ2VjTWtENS1vS2lfLThDeGZ4ZzViaEVlQWJuNU9yR25TVGZBUWtEdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVncEpZNVAzemowTXFqOG9qQmUzVkJqZFZLMlRDd2RSRWZmejkwQlVDZG01SWN6eUU2YklXQzRoc0pEVzNGaTBXY3FjVU54RHlWS2JoZUo5aXJ2OWpQMnppZG1sZXE3dVFISmFTUjl3cUdBT3NzNFc3S2xfQ0pSTWN1X0xaalJubXFZTlJOT25hN2FjSWxDTl9qZmtNWkNaZ2VjTWtENS1vS2lfLThDeGZ4ZzViaEVlQWJuNU9yR25TVGZBUWtEdw?oc=5" target="_blank">White House press secretary Katie Zacharia says she did not pass bar exam</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5" target="_blank">Starlink disruptions are being felt on the front lines of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he is talking to Russia and China about denuclearization - Reuters
+## Dmitriev says Russian wealth fund will work with US on payment for diesel deal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5" target="_blank">Trump says he is talking to Russia and China about denuclearization</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5" target="_blank">Dmitriev says Russian wealth fund will work with US on payment for diesel deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil edges down as investors weigh possible US sanctions on 'shadow fleet' - Reuters
+## Trump says US may need to strike Iran's Pickaxe Mountain - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5" target="_blank">Oil edges down as investors weigh possible US sanctions on 'shadow fleet'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5" target="_blank">Trump says US may need to strike Iran's Pickaxe Mountain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China says Israel should stop its 'forced establishment' of West Bank settlements - Reuters
+## Thousands march in Albanian capital as anti-government protests spread - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJwejF3dFROT1V2Mnd1MWktUnVuc2xLUzNFOFk1YkpQNjhYR2k0LS1PVUppR1F6ekgzbHd2X0hCYW1zVC0zXzIzMXp1ZXl3eHJ6ZzIwaVZnbFB0ZWlFNW1UU2I4VW5UOG4zWS1vclpyS1ZySGVxZzFLN01YdGhBcnQ4d2UwRmdSdU1vcUlTOHpRMmUxdGY2dWVkUlFuVWdRR2JkMEZKRTBDbTVxWmVxblljZEMwU0R4MzdRemt1YXlrQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJwejF3dFROT1V2Mnd1MWktUnVuc2xLUzNFOFk1YkpQNjhYR2k0LS1PVUppR1F6ekgzbHd2X0hCYW1zVC0zXzIzMXp1ZXl3eHJ6ZzIwaVZnbFB0ZWlFNW1UU2I4VW5UOG4zWS1vclpyS1ZySGVxZzFLN01YdGhBcnQ4d2UwRmdSdU1vcUlTOHpRMmUxdGY2dWVkUlFuVWdRR2JkMEZKRTBDbTVxWmVxblljZEMwU0R4MzdRemt1YXlrQQ?oc=5" target="_blank">China says Israel should stop its 'forced establishment' of West Bank settlements</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5" target="_blank">Thousands march in Albanian capital as anti-government protests spread</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters
+## ExxonMobil signals $4.5 billion refining earnings boost as margins soar - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5" target="_blank">EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5" target="_blank">ExxonMobil signals $4.5 billion refining earnings boost as margins soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
