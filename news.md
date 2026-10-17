@@ -1,72 +1,114 @@
 # 每日财经新闻
 
-更新时间：2026-10-16 16:24:42
+更新时间：2026-10-17 03:52:01
 
-## Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices
+## Indonesia Unveils $117 Million in Fines After MSCI Warning
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/coffee-s-coming-glut-may-not-be-enough-to-calm-volatile-prices
+链接：https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning
 
 正文长度：0
 
-摘要：After years of shortages, the world is finally getting more coffee. The question is how much of it will reach the exchange warehouses that underpin prices across the industry.
+摘要：Indonesia announced about $117 million in fines tied to manipulative market practices involving three companies, hours after global index provider MSCI Inc. said it was weighing a downgrade of the country’s stock market over investability concerns.
 
 
 ---
 
-## Hot Dogs Are a Common Good
+## India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-10-16/hot-dogs-are-a-common-good
+链接：https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row
 
 正文长度：0
 
-摘要：On the power of Portillo’s.
+摘要：The founder of India’s “Cockroach” protest movement is due to appear in court Saturday after being taken into police custody as a widening fight over the country’s voter rolls keeps New Delhi on edge.
 
 
 ---
 
-## Brazil Judge Orders Meta to Treat Runoff Candidates Equally
+## Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally
+链接：https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians
 
 正文长度：0
 
-摘要：A Brazilian electoral court judge ordered Meta Platforms Inc. not to interfere with the distribution of political or election-related content from any candidate in the Oct. 25 runoff.
+摘要：For generations of Indians, Reliance Industries Ltd. was their introduction to the stock market. Founder Dhirubhai Ambani drew middle-income savers into shares, building a following that endured for decades.
 
 
 ---
 
-## CoreWeave Debt Stress; JB Hunt Falls on Rising Costs | Stock Movers
+## US Gives Green Light for New Routes from Mexico City Airports
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-16/coreweave-debt-stress-jb-hunt-falls-on-rising-costs-stock-movers
+链接：https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports
 
 正文长度：0
 
-摘要：On this episode of Stock Movers:
-
-- CoreWeave (CRWV) shares are moving as it remains at the center of the tech selloff this week. Shares in CoreWeave plunged 20% in the first three sessions of the week as its debt tumbled to levels that typically indicate distress. By Thursday morning, investors were pricing a more than 60% chance of a default within five years.
-- Apollo Global Management (APO) shares are responding to a price target downgrade from Morgan Stanley.
-- JB Hunt (JBHT) is lower as it aims to improve margins by raising prices after rising costs weighed on third-quarter profitability. (Source: Bloomberg)
+摘要：The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes.
 
 
 ---
 
-## Market Euphoria Distracts From Brazil’s Surging Debt Problem
+## Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/market-euphoria-distracts-from-brazil-s-mounting-debt-problem
+链接：https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles
 
 正文长度：0
 
-摘要：Flávio Bolsonaro’s early success in Brazil’s presidential race sparked such euphoria that investors risk overlooking a debt problem running through every corner of the nation’s economy.
+摘要：Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy.
+
+
+---
+
+## Here's who Netflix just brought in to run content — and what it means for the streamer
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html
+
+正文长度：5555
+
+摘要：Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Netflix is shaking up its C-suite in an effort to fix its engagement woes.
+On Thursday, the streaming giant announced that former Disney executive Peter Rice will take over as the company's chief content officer, overseeing global content organization, including scripted and unscripted series, film and live events.
+Rice is replacing 10-year Netflix veteran Bela Bajaria, who most recently led the company's global content team with a focus on its live sports strategy. Bajaria was initially hired in 2016 to help the streamer launch an unscripted division as well as licensing and studio co-productions. She later transitioned to the top creative role, spearheading Netflix's $20 billion content budget.
+She oversaw popular TV series like "Stranger Things," "Wednesday," "Bridgerton," "Squid Game," "Adolescence" and "Beef," as well as Netflix films like "Frankenstein" and "KPop Demon Hunters." Bajaria also helped push Netflix into live sports and events, including deals with the WWE and the NFL as well as programs like "The Roast of Tom Brady."
+Prior to his stint at Disney, Rice was president of 21st Century Fox and CEO of Fox Networks Group as well as Fox's lead executive on the Hulu board. He was also the president of Fox Searchlight Pictures and helped release "Slumdog Millionaire," "Juno," "Little Miss Sunshine" and "Sideways."
+The executive change follows a tumultuous period for Netflix as it faces stagnating viewership and explores avenues for growth. It comes just days after the streaming giant laid off roughly 1,000 employees, or 6% of its workforce.
+The last time Netflix made cuts of this size was in 2022 when it reported its first quarterly subscriber loss in more than 10 years.
+"We believe this round of layoffs reflects more structural changes to the cost base than a reaction to near-term subscriber dynamics," wrote Brian Pitz, managing director and head of internet and interactive entertainment equity research at BMO Capital Markets, in a research note published Friday.
+Flagging engagement
+In July, Netflix reported viewership increased just 2% in the first half of the year as the streamer suffers from a lack of shows with water-cooler-level hype.
+Co-CEO Ted Sarandos admitted last month during the Bloomberg Screentime conference that the company is "not growing as fast as I want us to."
+Those warnings, and now Bajaria's exit, have Wall Street bracing for more turbulence ahead.
+"The sudden departure of Bajaria likely signals to us that user engagement may have remained soft throughout [the third quarter]," Pitz wrote.
+Netflix is set to release fiscal third-quarter earnings on Tuesday.
+In July, Nielsen reported that Netflix had generated 7.8% of TV viewership, while YouTube accounted for nearly double that, at 14.2%.
+YouTube has been Netflix's biggest threat in the battle for viewers' time. In response, the streaming giant has sought to diversify its content in recent years, expanding into live sports, documentaries and video games in order to compete for share of consumer attention.
+"If the opportunity is to recast [Netflix] into a broader content hub, the risk is missing the watercooler originals," Steven Cahall, equity analyst at Wells Fargo, wrote in a research note last month. "We see breakout hits as a must for the stock to work again."
+What Rice brings to Netflix
+Rice has a wealth of experience in television and film, most recently serving as the chairman of Walt Disney Television and chairman of general entertainment for the company. He managed a wide swath of channels across broadcast and streaming, including ABC, Disney Channel, Hulu and FX Networks. During his tenure, he oversaw the production of more than 300 shows, including "American Idol," "Modern Family," "Abbott Elementary," "The Bear," "Only Murders in the Building" and "Shogun."
+He also headed up major sporting events such as coverage of the Super Bowl, NBA Finals and FIFA World Cup.
+Under Rice's leadership, Disney earned roughly 300 Primetime Emmy nominations between 2021 and 2022. Of those nods, it won nearly 60 awards across its television networks and streaming platforms.
+Meanwhile, Netflix's Emmy wins have slowed.
+In 2021, it tied the record for most trophies won by an outlet in a single year with 44. This year, however, it only took home 16 prizes, its lowest Emmy haul in a decade.
+With Rice, Netflix is also getting an executive with theatrical experience. After he was ousted by then-Disney CEO Bob Chapek in mid-2022, he transitioned into an independent producer role. Since 2023 he has produced films like "Saturday Night" and "28 Years Later." He's currently developing a movie adaptation of the video game "Elden Ring."
+Late last year, Netflix struck a deal to buy Warner Bros. Discovery's film studio and streaming assets, only to be outbid months later by Paramount Skydance, which completed its acquisition of WBD in early October.
+Some on Wall Street have speculated that the streamer may be interested in further M&A, including acquiring assets from NBCUniversal after it splits from parent company Comcast.
+"[Rice's] long tenure at Fox, and then Disney after its acquisition of Fox, gives him unique insight into the consolidation of two major studios, relevant if Netflix chooses to go after another studio," Alicia Reese, senior vice president of equity research at Wedbush, wrote in a research note Thursday. "Even if it doesn't, Rice's experience fits well as Netflix pushes deeper into theatrical and builds a broader platform with varied content across the entertainment ecosystem."
+
+</details>
 
 
 ---
@@ -213,60 +255,41 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
-## Southwest is overhauling its frequent flyer program. Here's what's changing
+## Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4847
+正文长度：0
 
-摘要：Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Goodbye, A-List and A-List Preferred.
-Southwest Airlines is scrapping its two-tier loyalty program starting next year and instead rolling out silver, gold and platinum levels that are similar to what other carriers offer, as the once-quirky airline seeks to increase revenue and reward its biggest spenders.
-Southwest executives have been overhauling the airline, getting rid of longtime customer perks like two free checked bags and open seating. It's now charging for some of those options, like rivals have been doing for years.
-Along with the shift from two to three loyalty levels, the carrier is also changing the names of its tiers. Under the old version, travelers could be classified into A-List or A-List Preferred, which was the higher level.
-"If you think about A-List and A-List Preferred, we don't even have [boarding] groups A, B and C anymore," Tony Roach, Southwest chief customer and brand officer, said in an interview. "So it was time to do a refresh to somewhat incorporate all the changes to seating and all these new experiences that we've been adding."
-Here's what's changing for the loyalty program:
-- A-List and A-List Preferred Rapid Rewards status levels will go away on Jan. 1.
-- A-List customers will be shifted to Silver status in the Rapid Rewards program. A-List Preferred members will get Gold status.
-- A new Platinum tier will be added for the airline's "most engaged" customers.
-Customers can earn 1 Tier Qualifying Point, or TQP, per $1 spent on Southwest co-branded credit cards with Chase. Here are the new status requirements:
-- Silver status will require 35,000 TQPs or 25 qualifying flights. Previously, A-List was 35,000 points or 20 flights. For Silver members, the points-earning bonus on flights will go up from 25% to 40%.
-- To earn Gold, customers will have to reach 65,000 TQPs, down from 70,000 points for A-List Preferred, or take 50 flights. The points-earning bonus for those with that status goes from 100%, or double points earning, to 60% on qualifying flights.
-- The new, top-tier Platinum status requires 140,000 TQPs or 100 qualifying flights. Platinum members will get a 120% earnings bonus on qualifying flights.
-Silver status members will board in Group 1, while Gold members will board before Group 1. Platinum members will board before both Gold members and Group 1. Platinum tier also has unlimited Companion Pass trips.
-Southwest's Companion Pass — which lets a designated person fly for free, minus taxes and fees, with a traveler who has that perk — is also changing.
-Companion Pass holders that have them in their accounts will be able to hold onto them for the duration of their term. But starting with the 2027 earning year, Companion Pass benefits will be earned through TQPs or qualifying flights, by hitting a milestone reward or with Platinum status.
-Currently, a Rapid Rewards member has to earn at least 135,000 qualifying points or 100 one-way flights to qualify for the pass.
-The airline is also expanding its partnerships with international airlines and building its first airport lounges. Southwest on Thursday offered a peek into the new lounges, which it has named Icon, and is working on with its credit card partner, Chase. The carrier is building Icon lounges in four cities around the U.S., with others in the works.
-Southwest is also adding benefits for customers that are in between status tiers, similar to what American Airlines offers.
-For example, after earning 20,000 points or taking 15 qualifying flights, customers can choose between 2,000 more Rapid Rewards points or two coupons to select a "preferred" seat, which is a standard legroom seat that's closer to the front of the plane or a more popular aisle or window seat.
-Customers will also get three Companion Pass trips after earning 95,000 points or taking 75 qualifying flights, which is below the Platinum threshold.
-"That is definitely different from what we've done before," said Nandika Suri, who heads Southwest's Rapid Rewards loyalty program. She said the new strategy is "a way for us to actually recognize and reward customers ... faster and more frequently in their journey to continue to engage with us."
-Airlines overall have consistently raised the requirements to earn status, requiring more spending, and have made similar changes to enter their airport lounges.
-United Airlines on Tuesday said it would no longer allow customers to earn status in its Mileage Plus program based on flight segments next year and that it would only accept Premier qualifying points, which are earned from flight spending and on a co-branded credit card.
-United also raised the requirements to reach Premier 1K, its highest frequent flyer tier outside of the invite-only Global Services, to 32,000 qualifying points, up from 28,000 this year.
-— CNBC's Caleigh Keating contributed to this article.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5" target="_blank">Donald Trump exempts Russia from further sanctions mandated by new law</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Lufthansa exploring sale of software assets in €1bn deal - Financial Times
+## Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFRINC1iemlHeVZpMTZSNVYyME04Y0JuaThpMGtUazViUTNHNDNqRVNwUVY0UkxQY1V1WVJaRjlNSWhNSTFBRjktLVh2ZExmWGgzU1JxZy1RUlVkaXZkTmVvSFVzVTFhd2pGNllHSkp3cW84MzdsV1N0ZEZYY3VsM2g0Y1I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFRINC1iemlHeVZpMTZSNVYyME04Y0JuaThpMGtUazViUTNHNDNqRVNwUVY0UkxQY1V1WVJaRjlNSWhNSTFBRjktLVh2ZExmWGgzU1JxZy1RUlVkaXZkTmVvSFVzVTFhd2pGNllHSkp3cW84MzdsV1N0ZEZYY3VsM2g0Y1I?oc=5" target="_blank">Lufthansa exploring sale of software assets in €1bn deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5" target="_blank">Anthropic offers Blackstone double-digit yield in latest chip financing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## SoftBank in talks to buy US security group Allied Universal - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObzh6bnZfTFFzdEFXbEFldFM5V1VrY1RjdGtiQmhjTlBvV2VNbThiUDNXenlZeC1YZ05pWTQzR1FiYzJQNEl5djF6UExTVUFDN3Axby1YaGxsek1VNldiMXlqUVV5Qk9ESUJRVWE4el9uRm1zbGFvNUhKa3JPc2tHalRzMWk?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObzh6bnZfTFFzdEFXbEFldFM5V1VrY1RjdGtiQmhjTlBvV2VNbThiUDNXenlZeC1YZ05pWTQzR1FiYzJQNEl5djF6UExTVUFDN3Axby1YaGxsek1VNldiMXlqUVV5Qk9ESUJRVWE4el9uRm1zbGFvNUhKa3JPc2tHalRzMWk?oc=5" target="_blank">SoftBank in talks to buy US security group Allied Universal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -284,106 +307,80 @@ United also raised the requirements to reach Premier 1K, its highest frequent fl
 
 ---
 
-## The espresso pot test of Italian capitalism - Financial Times
+## Alexandr Wang, Meta’s AI wunderkind - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE8yWlJJMUVOZWRrTzBYZHZnOHd1R2g3dEhOZ1JLZjBZb0JrdDVsLS0zYkxWdEpiSjcycHhIV0ZRYzJ6Uk93NDNoeWVhcl9kRHlwU3ZIOVdaeHc3cHY2dXhDdFpFaFpFTk5sYmdma2w2RzdKQ0ppSzZyaVp4aEJhWHhCSzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE8yWlJJMUVOZWRrTzBYZHZnOHd1R2g3dEhOZ1JLZjBZb0JrdDVsLS0zYkxWdEpiSjcycHhIV0ZRYzJ6Uk93NDNoeWVhcl9kRHlwU3ZIOVdaeHc3cHY2dXhDdFpFaFpFTk5sYmdma2w2RzdKQ0ppSzZyaVp4aEJhWHhCSzg?oc=5" target="_blank">The espresso pot test of Italian capitalism</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5" target="_blank">Alexandr Wang, Meta’s AI wunderkind</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc?oc=5" target="_blank">Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump has failed to listen to voters on inflation - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWldwNEZHeC1ieHp1ek8xSTBNemtEbTdYOFBvSW1MSnpjaS1nNkJ2QXZzdGdnN0xxQzFZWkI3SzVtZEotVGZhaWQyZDZJRlh1MXpNQXZncHIweG5WUm1pTDd3NEJGcVpfRWRZR2lHaTg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWldwNEZHeC1ieHp1ek8xSTBNemtEbTdYOFBvSW1MSnpjaS1nNkJ2QXZzdGdnN0xxQzFZWkI3SzVtZEotVGZhaWQyZDZJRlh1MXpNQXZncHIweG5WUm1pTDd3NEJGcVpfRWRZR2lHaTg?oc=5" target="_blank">Trump has failed to listen to voters on inflation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Starlink disruptions are being felt on the front lines of Ukraine - Reuters
+## Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5" target="_blank">Starlink disruptions are being felt on the front lines of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5" target="_blank">Trump waives key Russia-related sanctions, tariffs before they take effect under new law</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dmitriev says Russian wealth fund will work with US on payment for diesel deal - Reuters
+## Trump threatens California officials with imprisonment over stance on mail ballots - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5" target="_blank">Dmitriev says Russian wealth fund will work with US on payment for diesel deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5" target="_blank">Trump threatens California officials with imprisonment over stance on mail ballots</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says US may need to strike Iran's Pickaxe Mountain - Reuters
+## Trump mocks popularity of the name Mohammad, common among Muslims - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5" target="_blank">Trump says US may need to strike Iran's Pickaxe Mountain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5" target="_blank">Trump mocks popularity of the name Mohammad, common among Muslims</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Thousands march in Albanian capital as anti-government protests spread - Reuters
+## Anthropic signs lease for first Canadian data center - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5" target="_blank">Thousands march in Albanian capital as anti-government protests spread</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5" target="_blank">Anthropic signs lease for first Canadian data center</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## ExxonMobil signals $4.5 billion refining earnings boost as margins soar - Reuters
+## Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5" target="_blank">ExxonMobil signals $4.5 billion refining earnings boost as margins soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5" target="_blank">Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
