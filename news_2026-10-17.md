@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-17 03:52:01
+更新时间：2026-10-17 15:19:11
 
-## Indonesia Unveils $117 Million in Fines After MSCI Warning
+## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning
+链接：https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：Indonesia announced about $117 million in fines tied to manipulative market practices involving three companies, hours after global index provider MSCI Inc. said it was weighing a downgrade of the country’s stock market over investability concerns.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row
+## CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row
+链接：https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly
 
 正文长度：0
 
-摘要：The founder of India’s “Cockroach” protest movement is due to appear in court Saturday after being taken into police custody as a widening fight over the country’s voter rolls keeps New Delhi on edge.
+摘要：Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.
 
 
 ---
 
-## Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians
+## Northwell CEO Says Health Care Model Must Change
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians
+链接：https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video
 
 正文长度：0
 
-摘要：For generations of Indians, Reliance Industries Ltd. was their introduction to the stock market. Founder Dhirubhai Ambani drew middle-income savers into shares, building a following that endured for decades.
+摘要：Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prevention and chronic disease. Speaking with hosts David Gura and Lisa Mateo, D’Angelo discusses workforce shortages, the financial pressures facing nonprofit hospitals and how AI could reduce administrative burdens while preserving the human role in consequential medical decisions. (Source: Bloomberg)
 
 
 ---
 
-## US Gives Green Light for New Routes from Mexico City Airports
+## Can the Fed Fight Inflation Without Hurting Farmers?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports
+链接：https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video
 
 正文长度：0
 
-摘要：The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes.
+摘要：Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-level view of inflation pressures that may emerge before they are fully reflected in national data. (Source: Bloomberg)
 
 
 ---
 
-## Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles
+## Freeland Warns US Alliances Are Fraying
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles
+链接：https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video
 
 正文长度：0
 
-摘要：Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy.
+摘要：Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking with hosts David Gura and Christina Ruffini, Freeland discusses Alberta’s separatist movement, President Donald Trump’s approach to Russia and Ukraine, and lessons from her negotiations with the US that inform her new book, Unreliable Boyfriend. (Source: Bloomberg)
 
 
 ---
@@ -255,6 +255,19 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
+## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’ - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjM5b0FWTDBZeFUyalBSU1c3QlVHTHBqUEpKTHlYTkV2QXhTdG9kWE9jNGRUQVBIdWJWd1NsWkxqb0NaY1NwZEdDTUVNYUVlMGlBSF9icWxtelROb3oxTGxIZVZ3T0IyeUU1aG12TFBQakFqOUdWNDFydHZtTnJja2FCalQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjM5b0FWTDBZeFUyalBSU1c3QlVHTHBqUEpKTHlYTkV2QXhTdG9kWE9jNGRUQVBIdWJWd1NsWkxqb0NaY1NwZEdDTUVNYUVlMGlBSF9icWxtelROb3oxTGxIZVZ3T0IyeUU1aG12TFBQakFqOUdWNDFydHZtTnJja2FCalQ?oc=5" target="_blank">Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times
 
 来源：金融时报
@@ -268,119 +281,106 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
-## Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times
+## Are we sleepwalking into World War III? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTloWVNfSkFhYlRqU05uZ01iZ0Qxb2twMWRCUXlPcmFWcVRsUjdEYlVBdmV4cFJZMUNrYzlMN0VNRm1leGhQcjFqZ3o2YXdBWVdwV1BkeHIyeENTdlI3MllyQ3lRX2ZtRjNEeDdvTThiR0hGYnZsTVVhZHVvU293amFTMVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5" target="_blank">Anthropic offers Blackstone double-digit yield in latest chip financing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTloWVNfSkFhYlRqU05uZ01iZ0Qxb2twMWRCUXlPcmFWcVRsUjdEYlVBdmV4cFJZMUNrYzlMN0VNRm1leGhQcjFqZ3o2YXdBWVdwV1BkeHIyeENTdlI3MllyQ3lRX2ZtRjNEeDdvTThiR0hGYnZsTVVhZHVvU293amFTMVE?oc=5" target="_blank">Are we sleepwalking into World War III?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SoftBank in talks to buy US security group Allied Universal - Financial Times
+## Chart of the Week: The chip stock split - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObzh6bnZfTFFzdEFXbEFldFM5V1VrY1RjdGtiQmhjTlBvV2VNbThiUDNXenlZeC1YZ05pWTQzR1FiYzJQNEl5djF6UExTVUFDN3Axby1YaGxsek1VNldiMXlqUVV5Qk9ESUJRVWE4el9uRm1zbGFvNUhKa3JPc2tHalRzMWk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmM0ZXNUZUZZcmlNTmx2dGtTWkZZX1gtdWNaOEx5ZS15YzdfU3JvZGtUVjJ4QUt0Um9sVHRXbTVoRlpPLTQyakVEOC1iR0tNbEVEelFtaWRDUktCUU95RkNhMG5QcE1sUXV2eDRHdFU5YWRMcTZyWHp5QXFlclVrVGJ3cHY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObzh6bnZfTFFzdEFXbEFldFM5V1VrY1RjdGtiQmhjTlBvV2VNbThiUDNXenlZeC1YZ05pWTQzR1FiYzJQNEl5djF6UExTVUFDN3Axby1YaGxsek1VNldiMXlqUVV5Qk9ESUJRVWE4el9uRm1zbGFvNUhKa3JPc2tHalRzMWk?oc=5" target="_blank">SoftBank in talks to buy US security group Allied Universal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmM0ZXNUZUZZcmlNTmx2dGtTWkZZX1gtdWNaOEx5ZS15YzdfU3JvZGtUVjJ4QUt0Um9sVHRXbTVoRlpPLTQyakVEOC1iR0tNbEVEelFtaWRDUktCUU95RkNhMG5QcE1sUXV2eDRHdFU5YWRMcTZyWHp5QXFlclVrVGJ3cHY?oc=5" target="_blank">Chart of the Week: The chip stock split</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bets on Fed rate hold in October strengthen after Warsh comments - Financial Times
+## Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1NCbVRyMjB0MElYbUZKMnl2OERsVHZkRmZtV2lrbXFVLWxzSkc4Y0tTdHV0Vm5HejhqUnZlZzJjSDRBdEtlMG1hbkJGbk4zNVFiUVFReWpBNEREdnB5WUlpc3IyX2tfNGxyUlItMmhhZ2s1NGljalFDQmlpQmVmS2t5czY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5" target="_blank">Bets on Fed rate hold in October strengthen after Warsh comments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1NCbVRyMjB0MElYbUZKMnl2OERsVHZkRmZtV2lrbXFVLWxzSkc4Y0tTdHV0Vm5HejhqUnZlZzJjSDRBdEtlMG1hbkJGbk4zNVFiUVFReWpBNEREdnB5WUlpc3IyX2tfNGxyUlItMmhhZ2s1NGljalFDQmlpQmVmS2t5czY?oc=5" target="_blank">Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alexandr Wang, Meta’s AI wunderkind - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5" target="_blank">Alexandr Wang, Meta’s AI wunderkind</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters
+## Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJaVEpSZWhMYmlHSWRXQzVMdzdYcTNhWHUyekU3djBGWFk1aEI4NTRqVnZTUURaZWFMZUhicERRQXFYQXRKNHRJUGhXaE5WVzl0WUg3UC1SS29UQ0I4YkRydFZzZjU0azhxd1VPa2p0UXRhLWJkRkJzdUJiMGNLenA5TmJoTVozMjVUa0ZHaWFpQ0xiVkZUdjQwRWptSW5lQ0Y3c1hWSEc3YmVoSTVJa0pTUHBTdkZXaVhUMFgwTk5UZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5" target="_blank">Trump waives key Russia-related sanctions, tariffs before they take effect under new law</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJaVEpSZWhMYmlHSWRXQzVMdzdYcTNhWHUyekU3djBGWFk1aEI4NTRqVnZTUURaZWFMZUhicERRQXFYQXRKNHRJUGhXaE5WVzl0WUg3UC1SS29UQ0I4YkRydFZzZjU0azhxd1VPa2p0UXRhLWJkRkJzdUJiMGNLenA5TmJoTVozMjVUa0ZHaWFpQ0xiVkZUdjQwRWptSW5lQ0Y3c1hWSEc3YmVoSTVJa0pTUHBTdkZXaVhUMFgwTk5UZw?oc=5" target="_blank">Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump threatens California officials with imprisonment over stance on mail ballots - Reuters
+## Ukraine says Russia's claimed territorial advances are 'an illusion' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnRmWGFHY2E5VUVuby10c1hDVllKMlRaWTlQWnViTGxiR3ZLYXYzeWQwTmRHMExGMzhUNXdxdE5sWnd0c3RPUUlUekpMd1haZ3V3bE9EbUxLY2MtWVpiN01pdGw5RkNHaGV4THNkYkRlYlE2UF8zRktxelNxeEx0bkIwM0Z6VW1QamhyMnNOUGlsRWw0X21OMUswNG1EcEdxZU1oNWFDMkUtTzdtZjNFVHFNMS0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5" target="_blank">Trump threatens California officials with imprisonment over stance on mail ballots</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnRmWGFHY2E5VUVuby10c1hDVllKMlRaWTlQWnViTGxiR3ZLYXYzeWQwTmRHMExGMzhUNXdxdE5sWnd0c3RPUUlUekpMd1haZ3V3bE9EbUxLY2MtWVpiN01pdGw5RkNHaGV4THNkYkRlYlE2UF8zRktxelNxeEx0bkIwM0Z6VW1QamhyMnNOUGlsRWw0X21OMUswNG1EcEdxZU1oNWFDMkUtTzdtZjNFVHFNMS0?oc=5" target="_blank">Ukraine says Russia's claimed territorial advances are 'an illusion'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump mocks popularity of the name Mohammad, common among Muslims - Reuters
+## Albanian anti-government protesters clash with police in Tirana - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5" target="_blank">Trump mocks popularity of the name Mohammad, common among Muslims</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5" target="_blank">Albanian anti-government protesters clash with police in Tirana</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic signs lease for first Canadian data center - Reuters
+## Tunisians stage biggest protest in years against President Saied - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtlSEpxTllGcXRnWVFBMmRwX1VYX3dackZjTzFGTlRXOXdRQXhuOXZDdGw1YTl0aGt4X25UTWk1V2VoLVdpMFp3eTNOdGdSSE84QklxZXYwek5YVW4tamtMYXdOd0dvMVlfX1czQ2xZc2ozR0pDMVFaNElGbWdSczFrc0JqaTNyUS1UQlJqMm5nUXQ1WVpNU29xdTNRZEVqSy04cnBORzF6V2xoX0dhb1Y2S0dWZnB1bjFMZA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5" target="_blank">Anthropic signs lease for first Canadian data center</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtlSEpxTllGcXRnWVFBMmRwX1VYX3dackZjTzFGTlRXOXdRQXhuOXZDdGw1YTl0aGt4X25UTWk1V2VoLVdpMFp3eTNOdGdSSE84QklxZXYwek5YVW4tamtMYXdOd0dvMVlfX1czQ2xZc2ozR0pDMVFaNElGbWdSczFrc0JqaTNyUS1UQlJqMm5nUXQ1WVpNU29xdTNRZEVqSy04cnBORzF6V2xoX0dhb1Y2S0dWZnB1bjFMZA?oc=5" target="_blank">Tunisians stage biggest protest in years against President Saied</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters
+## Zelenskiy hopes for meeting with US and Russia during G20 summit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDM2a0NkRFJYMExTcDFiNXZseFl3dXd3MHRMNU1ISjhoZDNieUZ2MTJaY1FvZFlqS190cEhpOTRsR2hqLUF5cFhadjF4MGptZlExUWJORDFHSlR1anN1ZmhBa2NXdXV2c0VDSHFpR0hMa09FS1BNT283X1VHLVJkN05GcHU1VlBYQlNJTVFQUVFCeVBDT09hYm90VWlyRlJaLXlKR2dlZnI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5" target="_blank">Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDM2a0NkRFJYMExTcDFiNXZseFl3dXd3MHRMNU1ISjhoZDNieUZ2MTJaY1FvZFlqS190cEhpOTRsR2hqLUF5cFhadjF4MGptZlExUWJORDFHSlR1anN1ZmhBa2NXdXV2c0VDSHFpR0hMa09FS1BNT283X1VHLVJkN05GcHU1VlBYQlNJTVFQUVFCeVBDT09hYm90VWlyRlJaLXlKR2dlZnI?oc=5" target="_blank">Zelenskiy hopes for meeting with US and Russia during G20 summit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
