@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-18 03:58:47
+更新时间：2026-10-18 15:40:33
 
-## China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang
+## Bookmarked: News Stories On Our Reading List
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang
+链接：https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video
 
 正文长度：0
 
-摘要：China is investigating Huang Ribuo, former vice chairman of the Guangxi Zhuang Autonomous Region Committee of the Chinese People’s Political Consultative Conference, for suspected “serious violations” of official duties, according to the nation’s anti-graft agency.
+摘要：Luxury travel, owls in NYC, and science competition instead of beauty pageants: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
 
 
 ---
 
-## China Rail Logs Record 3.71 Billion Trips in First Nine Months
+## Banque du Caire Seeks to Raise Up to $454 Million in Egypt IPO
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months
+链接：https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo
 
 正文长度：0
 
-摘要：China’s railway network carried 3.71 billion passenger trips in the first three quarters, up 4.8% from a year earlier and marking a record for the period, China State Railway Group Co. said on Sunday.
+摘要：Banque du Caire is looking to raise as much as 24.25 billion Egyptian pounds ($454 million) via the sale of a 30% stake, in what would be the North African country’s largest initial public offering in years.
 
 
 ---
 
-## Guyana to Block Vape Product Imports Amid Youth Health Concerns
+## Trump’s Latin America Allies Deepen Ties With Washington Lenders
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns
+链接：https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders
 
 正文长度：0
 
-摘要：Guyana will ban imports of vaping products, tightening restrictions on electronic cigarettes as concern rises about their growing use and health risks, President Irfaan Ali said Saturday.
+摘要：Latin America’s rightward, market-friendly shift is reshaping its relationship with Donald Trump’s Washington, including new flows of money from the multilateral lenders historically villainized in the region for pushing fiscal austerity.
 
 
 ---
 
-## Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread
+## Rep. Veasey Calls for Scrutiny of Trump Russia Ties
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread
+链接：https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video
 
 正文长度：0
 
-摘要：Two jailed leaders of India’s Cockroach Janta Party are expected to be released Sunday, according to its legal head, as police barricades and a heavy security presence underscore continuing tensions in New Delhi over a contentious voter-roll revision.
+摘要：Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump’s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, while warning that questions over Ukraine’s access to US military technology could undermine allies’ confidence in American defense products. Speaking with hosts David Gura and Christina Ruffini, Veasey also says Tarrant County will be crucial to Democrats’ chances in Texas, arguing that strong performance there could help Senate candidate James Talarico win statewide. (Source: Bloomberg)
 
 
 ---
 
-## Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years
+## Chicago Tops Travelers’ Favorite US Cities
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years
+链接：https://www.bloomberg.com/news/videos/2026-10-18/chicago-tops-travelers-favorite-us-cities-video
 
 正文长度：0
 
-摘要：Venezuela expects almost $76 billion of investment in its oil and gas sector over the next five years, Acting President Delcy Rodríguez said Saturday, as the country seeks to draw private capital into a push to boost energy production.
+摘要：Condé Nast Traveler senior features editor Megan Spurrell tells Bloomberg This Weekend what nearly 800,000 reader votes reveal about travelers’ favorite cities, including Chicago’s enduring appeal and the rise of destinations such as Phnom Penh. Speaking with hosts David Gura and Christina Ruffini, Spurrell says affordability, food, hospitality and evolving local cultures are helping both familiar destinations and less-traveled cities win devoted fans. (Source: Bloomberg)
 
 
 ---
@@ -255,132 +255,132 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
-## Volodymyr Zelenskyy says Starlink speed limits are a ‘planned operation’ - Financial Times
+## Microsoft pulls plug on Nscale data centre deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjM5b0FWTDBZeFUyalBSU1c3QlVHTHBqUEpKTHlYTkV2QXhTdG9kWE9jNGRUQVBIdWJWd1NsWkxqb0NaY1NwZEdDTUVNYUVlMGlBSF9icWxtelROb3oxTGxIZVZ3T0IyeUU1aG12TFBQakFqOUdWNDFydHZtTnJja2FCalQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjM5b0FWTDBZeFUyalBSU1c3QlVHTHBqUEpKTHlYTkV2QXhTdG9kWE9jNGRUQVBIdWJWd1NsWkxqb0NaY1NwZEdDTUVNYUVlMGlBSF9icWxtelROb3oxTGxIZVZ3T0IyeUU1aG12TFBQakFqOUdWNDFydHZtTnJja2FCalQ?oc=5" target="_blank">Volodymyr Zelenskyy says Starlink speed limits are a ‘planned operation’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5" target="_blank">Microsoft pulls plug on Nscale data centre deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## White House chaos overshadows Donald Trump’s midterms push - Financial Times
+## Global economy set for AI-driven surge, FT survey suggests - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJ1TmdOdUp3cElfcXF5b25icHdfNXhYRF9jWVFsMUJoQTBiWkkwcjlZc1hFNDVEUENuUnY3a3g4dEtKRXVOOEVDWEpOWVhNWGpyUHJIY2x1M3NneTlfNzlJdHRhM0tpdWFWUkpDZlJXdU5JNWJZb2k3dUlWSWFzSWZnZzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUJ1TmdOdUp3cElfcXF5b25icHdfNXhYRF9jWVFsMUJoQTBiWkkwcjlZc1hFNDVEUENuUnY3a3g4dEtKRXVOOEVDWEpOWVhNWGpyUHJIY2x1M3NneTlfNzlJdHRhM0tpdWFWUkpDZlJXdU5JNWJZb2k3dUlWSWFzSWZnZzg?oc=5" target="_blank">White House chaos overshadows Donald Trump’s midterms push</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5" target="_blank">Global economy set for AI-driven surge, FT survey suggests</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times
+## Accenture looks to sell Chinese operations for up to $1.5bn - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5" target="_blank">Donald Trump exempts Russia from further sanctions mandated by new law</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5" target="_blank">Accenture looks to sell Chinese operations for up to $1.5bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Inflation will make people poor’: Airlines brace for years of pain - Financial Times
+## Africa’s explosive growth in cities - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnJ5RXgtVlFXdjBVa1BDZ1ZuM3p1SDZOZmVWazFwUTVMWXFwWU5qeDVReXZKbEJtRTBraVVtMHdHZkRZTGswc1lyaWxZU0IxajQtLWFiX21yNXdCYnA4ZkJzbFJKckZpSFJucnp6alhsc05XWm9BeW9XOVZQcl9QbnQ5NTM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWJZR1RTdld3dzdGdG5LTXE4T0lOdWw3MVNxbTltMFVYenlnNW54SWpMUHVYXzJfbk9jeV84WEZ3SEh3ZTN5dm14bDBsNkJ4TmE1cE5TTGZPWDlxMG9XYmFwOENrREJFcFJBNVlmR2U3NmV6Z1h3eF9CNG1qZVlqazkwLUw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnJ5RXgtVlFXdjBVa1BDZ1ZuM3p1SDZOZmVWazFwUTVMWXFwWU5qeDVReXZKbEJtRTBraVVtMHdHZkRZTGswc1lyaWxZU0IxajQtLWFiX21yNXdCYnA4ZkJzbFJKckZpSFJucnp6alhsc05XWm9BeW9XOVZQcl9QbnQ5NTM?oc=5" target="_blank">‘Inflation will make people poor’: Airlines brace for years of pain</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWJZR1RTdld3dzdGdG5LTXE4T0lOdWw3MVNxbTltMFVYenlnNW54SWpMUHVYXzJfbk9jeV84WEZ3SEh3ZTN5dm14bDBsNkJ4TmE1cE5TTGZPWDlxMG9XYmFwOENrREJFcFJBNVlmR2U3NmV6Z1h3eF9CNG1qZVlqazkwLUw?oc=5" target="_blank">Africa’s explosive growth in cities</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US university offers cut-price UK degree for international students - Financial Times
+## Is American democracy safe? Martin Wolf on the US midterms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOR014aU9fLVFaRlE4LXBBRHloZVo0S2FSTHhwdXF0LXdPc2pLdXJhYWp5Y3hxWnpMcDZnVmFSTDNhTDJZZ25fUXhUdFdJMWsteE1kMHRhZ3ZSckhEQ1A3R3I2V2EwaTBsekNmZ1VHVW5CQTJnLUwxMjQ4UFp1T0o0T1JXdEQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHY0eXJNZlZXRXlNTnNnMzhQdzFXOXVPc3BCTW9Fc2xqNmRoeUdEV01fSE9EMUNSYkN5MlJLS1M4VWNUWU5lVXdyQ3J0d2tWb3podmxkLWtoT0xyOXdNT01ya05UNUhxeGlxdHJ2cUtiQ2d1UHlWbUJDTTdyZ2paeGRWRDY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR014aU9fLVFaRlE4LXBBRHloZVo0S2FSTHhwdXF0LXdPc2pLdXJhYWp5Y3hxWnpMcDZnVmFSTDNhTDJZZ25fUXhUdFdJMWsteE1kMHRhZ3ZSckhEQ1A3R3I2V2EwaTBsekNmZ1VHVW5CQTJnLUwxMjQ4UFp1T0o0T1JXdEQ?oc=5" target="_blank">US university offers cut-price UK degree for international students</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHY0eXJNZlZXRXlNTnNnMzhQdzFXOXVPc3BCTW9Fc2xqNmRoeUdEV01fSE9EMUNSYkN5MlJLS1M4VWNUWU5lVXdyQ3J0d2tWb3podmxkLWtoT0xyOXdNT01ya05UNUhxeGlxdHJ2cUtiQ2d1UHlWbUJDTTdyZ2paeGRWRDY?oc=5" target="_blank">Is American democracy safe? Martin Wolf on the US midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters
+## US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5" target="_blank">Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5" target="_blank">US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters
+## Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5" target="_blank">US wants Israel to 'crack down' on settler violence in West Bank, Rubio says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5" target="_blank">Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters
+## In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5" target="_blank">Venezuela expects nearly $76 billion in oil investment over five years, acting president says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5" target="_blank">In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say - Reuters
+## Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5" target="_blank">Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5" target="_blank">Turkey will get some diesel from US-Russia supply deal, energy minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents - Reuters
+## Albanian PM says protests pose threat to EU membership, not government - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5" target="_blank">Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5" target="_blank">Albanian PM says protests pose threat to EU membership, not government</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
