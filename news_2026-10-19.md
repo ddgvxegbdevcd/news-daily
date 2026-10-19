@@ -1,60 +1,48 @@
 # 每日财经新闻
 
-更新时间：2026-10-19 04:07:32
+更新时间：2026-10-19 18:35:21
 
-## China's Growth Rebounds While Home-Price Slump Eases
+## Walmart Looks to Raise $6 Billion From US, Canadian Bond Sales
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video
+链接：https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows
 
 正文长度：0
 
-摘要：China’s growth accelerated more than expected in the third quarter while home prices fell at a slower pace in September. Maybank Macro Research Director Erica Tay discusses what it may mean for stimulus expectations. (Source: Bloomberg)
+摘要：Walmart Inc. is poised to raise at least $6 billion from the sale of US and Canadian dollar bonds as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.
 
 
 ---
 
-## The UK Shows How AI Could Affect Jobs
+## ‘Dividend Nomads’ Invest Their Way Out of the 9-to-5
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video
+链接：https://www.bloomberg.com/news/videos/2026-10-19/-dividend-nomads-invest-their-way-out-of-the-9-to-5-video
 
 正文长度：0
 
-摘要：The UK is at the sharp end of transformations in the age of AI because finance, one of the industries most exposed to disruption, is also one of the UK’s biggest employers and most important exports. Bloomberg Opinion columnist Paul J. Davies explains why other nations should watch closely.  (Source: Bloomberg)
+摘要：Bloomberg's Zijia Song joins Isabelle Lee and Eric Balchunas on "Bloomberg ETF IQ." A community of people known "dividend nomads" are quitting their jobs and funding their lifestyle through investments, prioritizing ETF investments that provide monthly income.
+ (Source: Bloomberg)
 
 
 ---
 
-## Asian Chip Stocks Extend Losses on Funding Worry, DeepSeek Model
+## Europe Should Release More Diesel Fuel, Wright Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips
+链接：https://www.bloomberg.com/news/videos/2026-10-19/europe-should-release-more-diesel-fuel-wright-says-video
 
 正文长度：0
 
-摘要：Asian semiconductor stocks tumbled again Monday, as DeepSeek’s latest model sparked concerns over demand for chips, compounding market fears over AI financing.
+摘要：US Energy Secretary Chris Wright says we have a "three-alarm" fire when it comes to diesel and that Europe should be releasing more from its reserves. He speaks to Bloomberg's Annmarie Hordern at the Citadel Securities Conference in New York. (Source: Bloomberg)
 
 
 ---
 
-## Indonesia’s Selloff Deepens Across Stocks, Bonds on MSCI Risk
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning
-
-正文长度：0
-
-摘要：Indonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country may face a two-step downgrade.
-
-
----
-
-## Nasdaq Futures Rebound From Tech Selloff, Oil Dips: Markets Wrap
+## Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap
 
 来源：彭博社
 
@@ -62,7 +50,60 @@
 
 正文长度：0
 
-摘要：US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil fell.
+摘要：A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.
+
+
+---
+
+## Seeing Healthy Rotation In Thematic ETFs: Rosenbluth
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-10-19/seeing-healthy-rotation-in-thematic-etfs-rosenbluth-video
+
+正文长度：0
+
+摘要：Todd Rosenbluth, head of research at TMX VettaFi, joins Isabelle Lee and Eric Balchunas on "Bloomberg ETF IQ." (Source: Bloomberg)
+
+
+---
+
+## Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html
+
+正文长度：4019
+
+摘要：With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JPMorgan Chase has made $5 billion in startup investments in the first year of its U.S. security and resiliency initiative, the company said Monday, a faster-than-expected pace that indicates the bank is finding plentiful opportunities in emerging defense, manufacturing and supply chain firms.
+The bank, which last year said it would deploy $10 billion into startups over a decade, may expand the program beyond that initial dollar amount, JPMorgan co-President Doug Petno told CNBC in an interview.
+Todd Combs, the former Berkshire Hathaway executive who leads the JPMorgan group in charge of making startup investments, has "hit the ground running," Petno said. "He's done a great job and put us in some really interesting companies," he added.
+Most of those investments have yet to be disclosed, but two known stakes seem emblematic of the project's mission to bolster companies that are needed for a more dangerous and chaotic era of geopolitics. JPMorgan, the biggest U.S. bank by assets, has taken direct stakes in defense-related startups Hadrian and Castelion.
+Wars in Ukraine and the Middle East, as well as trade disputes with China, have threatened the flow of energy and key components needed for U.S. industries and defense, which spurred JPMorgan CEO Jamie Dimon into creating the initiative a year ago.
+He put Petno, widely seen as one of two key possible successors, in charge of the overall investment project. Combs, a former board member of the bank, reports directly to Dimon.
+The scope of the project extends beyond supply chain, defense and manufacturing to include frontier technologies and the pharmaceutical and health-tech industries.
+"There's a lot of really interesting companies that have been working to solve some of these problems," Petno said.
+These "early venture-stage, advanced manufacturing companies have found ways to build these capabilities in the U.S." rather than relying on overseas trading partners, he said.
+In August, the bank helped lead a $1.4 billion funding round for Hadrian, which builds automated factories that make parts for the defense, aerospace and maritime sectors. A California factory run by Hadrian has 10 robots for every human employee, according to the startup's founder.
+That month, JPMorgan was also involved in a $1 billion funding round for Castelion, whose flagship product is a relatively low-cost hypersonic missile called Blackbeard. Castelion was founded in late 2022 by a group of former SpaceX engineers.
+"Our approach is to find generational companies and partner with them for the long term," Combs said in a statement Monday.
+"Putting more than $5 billion to work in our first year shows how many exceptional businesses are building in industries that strengthen critical supply chains," Combs said.
+Risky business?
+JPMorgan making billions of dollars of direct investments in nascent companies is a departure from its usual role as a lender and advisor.
+Before the defense initiative, the bank had moved away from taking startup stakes, which can be relatively risky bets on unproven technologies. JPMorgan spun off its private equity business, One Equity Partners, more than a decade ago.
+In its more traditional role, JPMorgan has also financed and facilitated more than $230 billion for industries that support American national interests, according to the bank.
+That part of its security and resiliency project, meant to hit $1.5 trillion over 10 years, is led by Jay Horine, a former co-head of investment banking.
+JPMorgan built a team for the project of about three dozen bankers, who are aided by hundreds more across the firm, as it expanded the initiative to Europe and Canada.
+Its bankers are mapping distribution lines for key products, from submarines and missiles to aircraft, to identify suppliers that may lack the capital or capacity to meet rising demand, according to Petno.
+JPMorgan is also in regular communication with the U.S. Department of Defense and Department of Commerce about the government's needs, he said.
+
+</details>
 
 
 ---
@@ -225,162 +266,132 @@ The turnaround plan includes a long-term target for a group operating margin of 
 
 ---
 
-## JetBlue’s new domestic first class, BlueFirst, is now on sale
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html
-
-正文长度：2366
-
-摘要：JetBlue announced that BlueFirst, its new domestic first class option, is available for booking on more than 30 routes. It launches December 8.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> JetBlue's new domestic first class, BlueFirst, is now available for booking on flights across more than 30 routes, the airline said Thursday.
-This option will be available on domestic flights that are not currently served by the airline's lie-flat Mint business class, which it offers on longer flights. It's part of an overhaul of the carrier's fare options, which will include basic options that don't come with things like seat assignments, a standard option, and a "flex" option, which is refundable and more easily changed.
-The new first-class section comes as JetBlue seeks to return to steady profitability by growing its higher-priced offerings amid strong demand for more expensive and roomier seats.
-The first flight with BlueFirst seats will be on Dec. 8, between Boston and Fort Lauderdale, Florida, followed by routes between Fort Lauderdale and New York's LaGuardia Airport, with additional flights being rolled out in the following weeks and months.
-JetBlue is offering some introductory fares for BlueFirst seats for select flights, including a $299 flight from Boston to Fort Lauderdale, a $249 option from New York to Fort Lauderdale and a $299 option from New York to Liberia, Costa Rica.
-The first-class tickets will offer seats that recline up to 5 inches and have up to 7 inches more legroom than Main seats, JetBlue said. Other perks include Bluetooth-connected seatback screens, food and beverage options, Group 1 boarding and expedited security.
-Within the BlueFirst class, there are three tiered fare options:
-- BlueFirst Base, a lower-cost option, includes one checked bag, priority check-in and security, and Group 1 boarding. Seat selection is free within 24 hours of departure, but there are fees for changes and cancellations.
-- BlueFirst includes two checked bags, free seat selection, and no change or cancellation fees.
-- BlueFirst Flex has the same perks as BlueFirst and additionally offers refunds if you cancel your flight ahead of the departure, with no fees for same-day switches or standby.
-"We designed BlueFirst to deliver a more accessible first-class experience that combines the thoughtful hospitality and service customers expect from JetBlue with exceptional value and comfort. We're excited that customers can now start making BlueFirst part of their travel plans," JetBlue CEO Joanna Geraghty said in a news release.
-
-</details>
-
-
----
-
-## Flight from Israel diverted after ‘threat’ - Financial Times
+## US grocery giants head to court in $9bn battle over failed merger - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR1NMc0dMQzdPOHJqX0pVM3JHblFMdDg5bG5BTUZFUGROQk0zOGZfbzA2a0FUMGprZDk4eVpCQjZBd3ZQNzVPbXppcHN2UWdlcENodmlEalhFS29yaHN3bWN3UlZ1OUkyUmJ4M25ocGY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFpncEV2TlZrLXhFbXZLUDVnQmFuQmMydVdYVzZHYXBkY1JhaHFNb3BRZVNDdGEwZ0dXTElackdVUjNTZ3dKYUxBM1lVUUhPaF9Jd1I5YnE5YVFuRmw3ZUk0cXBIdzROYTU5S21CNXFIRTFoTjhyRTdvLUU1QUptQUZ0bmU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR1NMc0dMQzdPOHJqX0pVM3JHblFMdDg5bG5BTUZFUGROQk0zOGZfbzA2a0FUMGprZDk4eVpCQjZBd3ZQNzVPbXppcHN2UWdlcENodmlEalhFS29yaHN3bWN3UlZ1OUkyUmJ4M25ocGY?oc=5" target="_blank">Flight from Israel diverted after ‘threat’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFpncEV2TlZrLXhFbXZLUDVnQmFuQmMydVdYVzZHYXBkY1JhaHFNb3BRZVNDdGEwZ0dXTElackdVUjNTZ3dKYUxBM1lVUUhPaF9Jd1I5YnE5YVFuRmw3ZUk0cXBIdzROYTU5S21CNXFIRTFoTjhyRTdvLUU1QUptQUZ0bmU?oc=5" target="_blank">US grocery giants head to court in $9bn battle over failed merger</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Evercore appoints co-presidents for the first time in leadership reshuffle - Financial Times
+## Zelenskyy, Europe and the end of Trump whispering - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUJ4OWM0UXZLX21fYWpURUlINHd4clhxYnUtemdRa252LVJ3c2lUTlhRRmZTRFQzMjBuLWxWZWhPQ2RxdGZid0d3bFpSVFhNc3cwWDM2TmlVUkxZTWM5ZWpIaWdkbUgzTHZ6SU5SS3FNLUlYek5IWE5DMFl4RlhUSUMwcFE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWG5QbG5KSk1pS2RYUjQ0dlZrdHRaZTBqYzI5bXJGUm1mSHZEeW5Tdm95LURCTW5rZko4MkdobDFGMWtsaEswOHE0UXlMQUk2ekhzMTQ2bUFEYlFHSnVrcFFsN25NVlA2U0RKcTg4VlVkWm42Qzg0dmpFeGNzR0FLV21US2U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUJ4OWM0UXZLX21fYWpURUlINHd4clhxYnUtemdRa252LVJ3c2lUTlhRRmZTRFQzMjBuLWxWZWhPQ2RxdGZid0d3bFpSVFhNc3cwWDM2TmlVUkxZTWM5ZWpIaWdkbUgzTHZ6SU5SS3FNLUlYek5IWE5DMFl4RlhUSUMwcFE?oc=5" target="_blank">Evercore appoints co-presidents for the first time in leadership reshuffle</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWG5QbG5KSk1pS2RYUjQ0dlZrdHRaZTBqYzI5bXJGUm1mSHZEeW5Tdm95LURCTW5rZko4MkdobDFGMWtsaEswOHE0UXlMQUk2ekhzMTQ2bUFEYlFHSnVrcFFsN25NVlA2U0RKcTg4VlVkWm42Qzg0dmpFeGNzR0FLV21US2U?oc=5" target="_blank">Zelenskyy, Europe and the end of Trump whispering</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US threatens Europe over Starlink restrictions - Financial Times
+## French bond sell-off intensifies after violent protests - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9CR3Bva01NbkZ1WXZZYzNKVXNWLVhzR3g0OEc3dzB5MHBlTWlHS1c2WkhsZjhqdWVMNGs5Vnl0X1BGcWZqdVhDVE45eGt2QkZkbEM2UXAzdUtZY1Iyb3hpS1VQaC0zQnk4YUVaWWFTM2xnSnItSlZpR0dJVjNCaEhvUkQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjg1eWFJemt6T2ZpNXA2WURucC0wamlNeGg5N3ZmeWJ6alVPNUpTNTdNOWtyUHdXRDdCNUxWaDVmTUVZOF9ldUlnaldFTXRpUlpRdGtGSEpNR1VGaFhQTVBHM2tLdHhacXI0dUxRcHpIVDNxNzhUeU84ajl4NU1BX050SWk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9CR3Bva01NbkZ1WXZZYzNKVXNWLVhzR3g0OEc3dzB5MHBlTWlHS1c2WkhsZjhqdWVMNGs5Vnl0X1BGcWZqdVhDVE45eGt2QkZkbEM2UXAzdUtZY1Iyb3hpS1VQaC0zQnk4YUVaWWFTM2xnSnItSlZpR0dJVjNCaEhvUkQ?oc=5" target="_blank">US threatens Europe over Starlink restrictions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjg1eWFJemt6T2ZpNXA2WURucC0wamlNeGg5N3ZmeWJ6alVPNUpTNTdNOWtyUHdXRDdCNUxWaDVmTUVZOF9ldUlnaldFTXRpUlpRdGtGSEpNR1VGaFhQTVBHM2tLdHhacXI0dUxRcHpIVDNxNzhUeU84ajl4NU1BX050SWk?oc=5" target="_blank">French bond sell-off intensifies after violent protests</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Global economy set for AI-driven surge, FT survey suggests - Financial Times
+## ‘I suffer with my wallet’: American voters weigh in on the midterms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjNabTRJSGpZZ0xuV3ZNTmdEZHppX3c1UVFVdXlyY011b3lkem1BX3J0Ti1obWFpV0Q2YVd4TVprTjB2dEdub29OME9uVWdkOEVFeDRsMVpWdWp0RE1JUm85aUFfLWN6dXE3RzdIMWxRckNtNE0ySFlLQ3ZIVzF3NXhYZXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5" target="_blank">Global economy set for AI-driven surge, FT survey suggests</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjNabTRJSGpZZ0xuV3ZNTmdEZHppX3c1UVFVdXlyY011b3lkem1BX3J0Ti1obWFpV0Q2YVd4TVprTjB2dEdub29OME9uVWdkOEVFeDRsMVpWdWp0RE1JUm85aUFfLWN6dXE3RzdIMWxRckNtNE0ySFlLQ3ZIVzF3NXhYZXc?oc=5" target="_blank">‘I suffer with my wallet’: American voters weigh in on the midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The Trump administration has entered its utter shambles era - Financial Times
+## US prosecutors allege Saudi royal links in OpenAI bugging case - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3U2LWgzR2xHS3phRkdIbGIwZGp5RjZJZVNWXzlvS3RXWEFCa1REdGp2RU9mOWtnUHh6NGk1T0JQdlN6MTJIdXRWT0hKNHdfSzRXSkNQcEhGY2RteTM3RjUyTldLMDFvbWViZ2N3WGlCVk0yMHVGR1JnWEo2RXd6MXZsS2Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmthanc2d1NfZkhxSUdWaVZhUHBsbmgwbVc1X25vYkRSM3Y3a3BMTTl1cGJOU3hLU21GcmR5bDc0WEZTVG1uWVhwT2Rad1p6YXZ5SElaMzhqelNJd3p2eWlBUlZUcG5qOUZieDZucERMQWEwSElRalJ6M09rRXVYZHd5cHU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3U2LWgzR2xHS3phRkdIbGIwZGp5RjZJZVNWXzlvS3RXWEFCa1REdGp2RU9mOWtnUHh6NGk1T0JQdlN6MTJIdXRWT0hKNHdfSzRXSkNQcEhGY2RteTM3RjUyTldLMDFvbWViZ2N3WGlCVk0yMHVGR1JnWEo2RXd6MXZsS2Y?oc=5" target="_blank">The Trump administration has entered its utter shambles era</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmthanc2d1NfZkhxSUdWaVZhUHBsbmgwbVc1X25vYkRSM3Y3a3BMTTl1cGJOU3hLU21GcmR5bDc0WEZTVG1uWVhwT2Rad1p6YXZ5SElaMzhqelNJd3p2eWlBUlZUcG5qOUZieDZucERMQWEwSElRalJ6M09rRXVYZHd5cHU?oc=5" target="_blank">US prosecutors allege Saudi royal links in OpenAI bugging case</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says - Reuters
+## Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5" target="_blank">Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5" target="_blank">Christiane Amanpour to leave CNN after four decades as Ellison era begins</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Beijing's population expected to become super-aged by 2035 - Reuters
+## France in turmoil after riots and looting: What we know - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxOamIzVHVwV0dlRnd2U0IyNHJUdXg5TzQxaDMzVXZkNC1RQ1czVHNxTTRNVWgwMkd2X0J1djlBMGEzNldubWhacFhnREFEa1VXN2poLUp4aVFzbGhIVGRhX21jZGQ3dHdwV09sZDk1TUdDQUJDS0s3UDRETFlQNDhNdDNrSWg1RnNucVpQb0l6XzlwSGxQSU9RY3FhdExfQ2lLcUptTA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxQdnU5M25aUmFwSHBYZjhkMFl5RlU1dkZMVTVuSlBWeHZPX01SUGVZUGF3Wm94U2wwUlYzdWxxbGowVXhMM09ON3NFbjV0WElKTFVsZVlGQkprLTZQTGxkaEYwSDBxcHNUMWVDQmczLVlJWHd5Ym5Id2ozZDRENTBvWURQekl2NW9ablROeHI4Z0c4ZFlZM0x0Y2V3ZEFJUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOamIzVHVwV0dlRnd2U0IyNHJUdXg5TzQxaDMzVXZkNC1RQ1czVHNxTTRNVWgwMkd2X0J1djlBMGEzNldubWhacFhnREFEa1VXN2poLUp4aVFzbGhIVGRhX21jZGQ3dHdwV09sZDk1TUdDQUJDS0s3UDRETFlQNDhNdDNrSWg1RnNucVpQb0l6XzlwSGxQSU9RY3FhdExfQ2lLcUptTA?oc=5" target="_blank">Beijing's population expected to become super-aged by 2035</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQdnU5M25aUmFwSHBYZjhkMFl5RlU1dkZMVTVuSlBWeHZPX01SUGVZUGF3Wm94U2wwUlYzdWxxbGowVXhMM09ON3NFbjV0WElKTFVsZVlGQkprLTZQTGxkaEYwSDBxcHNUMWVDQmczLVlJWHd5Ym5Id2ozZDRENTBvWURQekl2NW9ablROeHI4Z0c4ZFlZM0x0Y2V3ZEFJUQ?oc=5" target="_blank">France in turmoil after riots and looting: What we know</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters
+## Kenyan starvation cult leader convicted in deaths of nearly 200 children - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEVmY0NoY2t3Z1RrS2Q4d3hBWDlORjVJS2s0MF9xSVg2VGNXVXQxY2JKeERGREJtTFVib2d2ZFlvUW9NMHN3M3ZYR1hMZzVZS1hzTm43SjNMaUYyNjVINlVtWmQzTURtaDlKbkY1S1FrWFFiRzhPa21CcFFhLWlTMmx4dzBNdDdqSFoxQWdOOFlTUHdjZEZLdDE0YXdScmhYVVBpd3lyanhXTXl2XzVFV1RheE8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5" target="_blank">Asian stocks slip, Wall St and bonds benefit from oil skid</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEVmY0NoY2t3Z1RrS2Q4d3hBWDlORjVJS2s0MF9xSVg2VGNXVXQxY2JKeERGREJtTFVib2d2ZFlvUW9NMHN3M3ZYR1hMZzVZS1hzTm43SjNMaUYyNjVINlVtWmQzTURtaDlKbkY1S1FrWFFiRzhPa21CcFFhLWlTMmx4dzBNdDdqSFoxQWdOOFlTUHdjZEZLdDE0YXdScmhYVVBpd3lyanhXTXl2XzVFV1RheE8?oc=5" target="_blank">Kenyan starvation cult leader convicted in deaths of nearly 200 children</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian strike kills woman, hits Kyiv subway station, mayor says - Reuters
+## Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5" target="_blank">Russian strike kills woman, hits Kyiv subway station, mayor says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5" target="_blank">Saudi Arabia postpones its 'Davos in the Desert' conference after attacks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - Reuters
+## US says immigrants from Ukraine, Sudan can keep protected status for now - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3otMmdCZDlzR0YzMXg1WGQyOXFZbFVsMUtHa1lYMl9SYzE1Sm9YUU1lNkcwcU5YV2Fsajlfb2VHdmhHcDJpcXhqMGZPdTR5MG0zcFB6U0hCLXZjTmxpSjREOXcwZEhHaXhNamRDUHhpWThYRWVYRWpfMGlOcE80cFlWX294aUtiVnNpVEJ6RldaMjYtVEE0cWNSeFlEcHJ6d2d0RnZueXp4TDJuMG5JSHVSdk1vQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5" target="_blank">Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3otMmdCZDlzR0YzMXg1WGQyOXFZbFVsMUtHa1lYMl9SYzE1Sm9YUU1lNkcwcU5YV2Fsajlfb2VHdmhHcDJpcXhqMGZPdTR5MG0zcFB6U0hCLXZjTmxpSjREOXcwZEhHaXhNamRDUHhpWThYRWVYRWpfMGlOcE80cFlWX294aUtiVnNpVEJ6RldaMjYtVEE0cWNSeFlEcHJ6d2d0RnZueXp4TDJuMG5JSHVSdk1vQQ?oc=5" target="_blank">US says immigrants from Ukraine, Sudan can keep protected status for now</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
