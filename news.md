@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-18 15:40:33
+更新时间：2026-10-19 04:07:32
 
-## Bookmarked: News Stories On Our Reading List
+## China's Growth Rebounds While Home-Price Slump Eases
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video
+链接：https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video
 
 正文长度：0
 
-摘要：Luxury travel, owls in NYC, and science competition instead of beauty pageants: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
+摘要：China’s growth accelerated more than expected in the third quarter while home prices fell at a slower pace in September. Maybank Macro Research Director Erica Tay discusses what it may mean for stimulus expectations. (Source: Bloomberg)
 
 
 ---
 
-## Banque du Caire Seeks to Raise Up to $454 Million in Egypt IPO
+## The UK Shows How AI Could Affect Jobs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo
+链接：https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video
 
 正文长度：0
 
-摘要：Banque du Caire is looking to raise as much as 24.25 billion Egyptian pounds ($454 million) via the sale of a 30% stake, in what would be the North African country’s largest initial public offering in years.
+摘要：The UK is at the sharp end of transformations in the age of AI because finance, one of the industries most exposed to disruption, is also one of the UK’s biggest employers and most important exports. Bloomberg Opinion columnist Paul J. Davies explains why other nations should watch closely.  (Source: Bloomberg)
 
 
 ---
 
-## Trump’s Latin America Allies Deepen Ties With Washington Lenders
+## Asian Chip Stocks Extend Losses on Funding Worry, DeepSeek Model
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders
+链接：https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips
 
 正文长度：0
 
-摘要：Latin America’s rightward, market-friendly shift is reshaping its relationship with Donald Trump’s Washington, including new flows of money from the multilateral lenders historically villainized in the region for pushing fiscal austerity.
+摘要：Asian semiconductor stocks tumbled again Monday, as DeepSeek’s latest model sparked concerns over demand for chips, compounding market fears over AI financing.
 
 
 ---
 
-## Rep. Veasey Calls for Scrutiny of Trump Russia Ties
+## Indonesia’s Selloff Deepens Across Stocks, Bonds on MSCI Risk
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video
+链接：https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning
 
 正文长度：0
 
-摘要：Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump’s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, while warning that questions over Ukraine’s access to US military technology could undermine allies’ confidence in American defense products. Speaking with hosts David Gura and Christina Ruffini, Veasey also says Tarrant County will be crucial to Democrats’ chances in Texas, arguing that strong performance there could help Senate candidate James Talarico win statewide. (Source: Bloomberg)
+摘要：Indonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country may face a two-step downgrade.
 
 
 ---
 
-## Chicago Tops Travelers’ Favorite US Cities
+## Nasdaq Futures Rebound From Tech Selloff, Oil Dips: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-18/chicago-tops-travelers-favorite-us-cities-video
+链接：https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Condé Nast Traveler senior features editor Megan Spurrell tells Bloomberg This Weekend what nearly 800,000 reader votes reveal about travelers’ favorite cities, including Chicago’s enduring appeal and the rise of destinations such as Phnom Penh. Speaking with hosts David Gura and Christina Ruffini, Spurrell says affordability, food, hospitality and evolving local cultures are helping both familiar destinations and less-traveled cities win devoted fans. (Source: Bloomberg)
+摘要：US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil fell.
 
 
 ---
@@ -255,15 +255,41 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
-## Microsoft pulls plug on Nscale data centre deal - Financial Times
+## Flight from Israel diverted after ‘threat’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR1NMc0dMQzdPOHJqX0pVM3JHblFMdDg5bG5BTUZFUGROQk0zOGZfbzA2a0FUMGprZDk4eVpCQjZBd3ZQNzVPbXppcHN2UWdlcENodmlEalhFS29yaHN3bWN3UlZ1OUkyUmJ4M25ocGY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5" target="_blank">Microsoft pulls plug on Nscale data centre deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR1NMc0dMQzdPOHJqX0pVM3JHblFMdDg5bG5BTUZFUGROQk0zOGZfbzA2a0FUMGprZDk4eVpCQjZBd3ZQNzVPbXppcHN2UWdlcENodmlEalhFS29yaHN3bWN3UlZ1OUkyUmJ4M25ocGY?oc=5" target="_blank">Flight from Israel diverted after ‘threat’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Evercore appoints co-presidents for the first time in leadership reshuffle - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUJ4OWM0UXZLX21fYWpURUlINHd4clhxYnUtemdRa252LVJ3c2lUTlhRRmZTRFQzMjBuLWxWZWhPQ2RxdGZid0d3bFpSVFhNc3cwWDM2TmlVUkxZTWM5ZWpIaWdkbUgzTHZ6SU5SS3FNLUlYek5IWE5DMFl4RlhUSUMwcFE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUJ4OWM0UXZLX21fYWpURUlINHd4clhxYnUtemdRa252LVJ3c2lUTlhRRmZTRFQzMjBuLWxWZWhPQ2RxdGZid0d3bFpSVFhNc3cwWDM2TmlVUkxZTWM5ZWpIaWdkbUgzTHZ6SU5SS3FNLUlYek5IWE5DMFl4RlhUSUMwcFE?oc=5" target="_blank">Evercore appoints co-presidents for the first time in leadership reshuffle</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US threatens Europe over Starlink restrictions - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9CR3Bva01NbkZ1WXZZYzNKVXNWLVhzR3g0OEc3dzB5MHBlTWlHS1c2WkhsZjhqdWVMNGs5Vnl0X1BGcWZqdVhDVE45eGt2QkZkbEM2UXAzdUtZY1Iyb3hpS1VQaC0zQnk4YUVaWWFTM2xnSnItSlZpR0dJVjNCaEhvUkQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9CR3Bva01NbkZ1WXZZYzNKVXNWLVhzR3g0OEc3dzB5MHBlTWlHS1c2WkhsZjhqdWVMNGs5Vnl0X1BGcWZqdVhDVE45eGt2QkZkbEM2UXAzdUtZY1Iyb3hpS1VQaC0zQnk4YUVaWWFTM2xnSnItSlZpR0dJVjNCaEhvUkQ?oc=5" target="_blank">US threatens Europe over Starlink restrictions</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -281,106 +307,80 @@ Within the BlueFirst class, there are three tiered fare options:
 
 ---
 
-## Accenture looks to sell Chinese operations for up to $1.5bn - Financial Times
+## The Trump administration has entered its utter shambles era - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3U2LWgzR2xHS3phRkdIbGIwZGp5RjZJZVNWXzlvS3RXWEFCa1REdGp2RU9mOWtnUHh6NGk1T0JQdlN6MTJIdXRWT0hKNHdfSzRXSkNQcEhGY2RteTM3RjUyTldLMDFvbWViZ2N3WGlCVk0yMHVGR1JnWEo2RXd6MXZsS2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5" target="_blank">Accenture looks to sell Chinese operations for up to $1.5bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3U2LWgzR2xHS3phRkdIbGIwZGp5RjZJZVNWXzlvS3RXWEFCa1REdGp2RU9mOWtnUHh6NGk1T0JQdlN6MTJIdXRWT0hKNHdfSzRXSkNQcEhGY2RteTM3RjUyTldLMDFvbWViZ2N3WGlCVk0yMHVGR1JnWEo2RXd6MXZsS2Y?oc=5" target="_blank">The Trump administration has entered its utter shambles era</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Africa’s explosive growth in cities - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWJZR1RTdld3dzdGdG5LTXE4T0lOdWw3MVNxbTltMFVYenlnNW54SWpMUHVYXzJfbk9jeV84WEZ3SEh3ZTN5dm14bDBsNkJ4TmE1cE5TTGZPWDlxMG9XYmFwOENrREJFcFJBNVlmR2U3NmV6Z1h3eF9CNG1qZVlqazkwLUw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWJZR1RTdld3dzdGdG5LTXE4T0lOdWw3MVNxbTltMFVYenlnNW54SWpMUHVYXzJfbk9jeV84WEZ3SEh3ZTN5dm14bDBsNkJ4TmE1cE5TTGZPWDlxMG9XYmFwOENrREJFcFJBNVlmR2U3NmV6Z1h3eF9CNG1qZVlqazkwLUw?oc=5" target="_blank">Africa’s explosive growth in cities</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Is American democracy safe? Martin Wolf on the US midterms - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHY0eXJNZlZXRXlNTnNnMzhQdzFXOXVPc3BCTW9Fc2xqNmRoeUdEV01fSE9EMUNSYkN5MlJLS1M4VWNUWU5lVXdyQ3J0d2tWb3podmxkLWtoT0xyOXdNT01ya05UNUhxeGlxdHJ2cUtiQ2d1UHlWbUJDTTdyZ2paeGRWRDY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHY0eXJNZlZXRXlNTnNnMzhQdzFXOXVPc3BCTW9Fc2xqNmRoeUdEV01fSE9EMUNSYkN5MlJLS1M4VWNUWU5lVXdyQ3J0d2tWb3podmxkLWtoT0xyOXdNT01ya05UNUhxeGlxdHJ2cUtiQ2d1UHlWbUJDTTdyZ2paeGRWRDY?oc=5" target="_blank">Is American democracy safe? Martin Wolf on the US midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters
+## Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5" target="_blank">US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5" target="_blank">Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters - Reuters
+## Beijing's population expected to become super-aged by 2035 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxOamIzVHVwV0dlRnd2U0IyNHJUdXg5TzQxaDMzVXZkNC1RQ1czVHNxTTRNVWgwMkd2X0J1djlBMGEzNldubWhacFhnREFEa1VXN2poLUp4aVFzbGhIVGRhX21jZGQ3dHdwV09sZDk1TUdDQUJDS0s3UDRETFlQNDhNdDNrSWg1RnNucVpQb0l6XzlwSGxQSU9RY3FhdExfQ2lLcUptTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5" target="_blank">Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOamIzVHVwV0dlRnd2U0IyNHJUdXg5TzQxaDMzVXZkNC1RQ1czVHNxTTRNVWgwMkd2X0J1djlBMGEzNldubWhacFhnREFEa1VXN2poLUp4aVFzbGhIVGRhX21jZGQ3dHdwV09sZDk1TUdDQUJDS0s3UDRETFlQNDhNdDNrSWg1RnNucVpQb0l6XzlwSGxQSU9RY3FhdExfQ2lLcUptTA?oc=5" target="_blank">Beijing's population expected to become super-aged by 2035</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters
+## Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5" target="_blank">In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5" target="_blank">Asian stocks slip, Wall St and bonds benefit from oil skid</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters
+## Russian strike kills woman, hits Kyiv subway station, mayor says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5" target="_blank">Turkey will get some diesel from US-Russia supply deal, energy minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5" target="_blank">Russian strike kills woman, hits Kyiv subway station, mayor says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Albanian PM says protests pose threat to EU membership, not government - Reuters
+## Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5" target="_blank">Albanian PM says protests pose threat to EU membership, not government</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5" target="_blank">Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
