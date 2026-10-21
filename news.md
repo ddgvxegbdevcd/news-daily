@@ -1,97 +1,168 @@
 # 每日财经新闻
 
-更新时间：2026-10-20 16:39:06
+更新时间：2026-10-21 04:09:23
 
-## Albania's Protests Pile Pressure on Edi Rama
+## Nickel Extends Rebound on Prospect of Indonesian Production Cuts
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-20/albania-s-protests-pile-pressure-on-edi-rama-video
+链接：https://www.bloomberg.com/news/articles/2026-10-21/nickel-extends-rebound-on-prospect-of-indonesian-production-cuts
 
 正文长度：0
 
-摘要：Albania's violent anti-government protests follow months of demonstrations against a luxury development deal with Jared Kushner.
-
-Gresa Kraja explains the link to Donald Trump's son-in-law. (Source: Bloomberg)
+摘要：Nickel rose for a fourth day as the prospect of coordinated output cuts by Chinese producers in Indonesia raised expectations of tighter supply.
 
 
 ---
 
-## Gold Wavers as Traders Weigh US-Iran Talks, Fed Rate Path
+## Podcast: Portfolio Reset Why Passive Investing Is Anything But Passive
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path
+链接：https://www.bloomberg.com/news/articles/2026-10-21/podcast-portfolio-reset-why-passive-investing-is-anything-but-passive
 
 正文长度：0
 
-摘要：Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.
+摘要：<p>Passive investing is designed to track the market. But what happens when it starts to dominate it?</p>
 
 
 ---
 
-## Lithium Miner PLS Markets $700 Million Bond in Expansion Push
+## Macquarie Oil Traders Leave as Bank Restructures Commodity Units
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-20/lithium-miner-pls-markets-700-million-bond-in-expansion-push
+链接：https://www.bloomberg.com/news/articles/2026-10-21/macquarie-oil-traders-leave-as-bank-restructures-commodity-units
 
 正文长度：0
 
-摘要：PLS Group Ltd is returning to the US dollar bond market, braving a junk-debt selloff as the Australian lithium miner lines up investments to expand production.
+摘要：Several oil traders at Macquarie Group Ltd. have left the firm, with the departures coming as the bank merges two of its main commodity-trading units.
 
 
 ---
 
-## Carney Spent Oil Windfall on Tax Write-off, Budget Watchdog Says
+## Latest Oil Market News and Analysis for Oct. 21
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says
+链接：https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21
 
 正文长度：0
 
-摘要：Canada’s budget watchdog says new federal measures, including a major tax incentive for businesses, have more than offset a surge in revenues driven largely by higher energy prices.
+摘要：Oil edged higher as attacks on ships around the Strait of Hormuz threatened shipments, while US industry data pointed to another drop in stockpiles.
 
 
 ---
 
-## Starboard Value CEO Jeff Smith Lays Out Case for Three New Bets
+## DayOne Said to Weigh Options for US IPO After Data Center Rout
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-20/starboard-value-ceo-jeff-smith-lays-out-case-for-three-new-bets
+链接：https://www.bloomberg.com/news/videos/2026-10-21/dayone-said-to-weigh-options-for-us-ipo-video
 
 正文长度：0
 
-摘要：Starboard Value Chief Executive Officer Jeff Smith laid out the activist fund’s approach to its three latest investments at the annual 13D Monitor Active-Passive Investor Summit in New York today.
+摘要：DayOne Data Centers Ltd. is weighing options for its US initial public offering, including a potential delay or size cut, amid increasing volatility around data centers. Bloomberg's Manuel Baigorri breaks down the latest reporting. (Source: Bloomberg)
 
 
 ---
 
-## Here's what to expect when Netflix reports earnings after the bell
+## United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html
+
+正文长度：2035
+
+摘要：United Airlines cut its profit outlook for the year as fuel prices continued to climb.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.
+United said Tuesday that it expects to earn between 50 cents and $1.50 a share on an adjusted basis in the fourth quarter, well below the $1.76 a share Wall Street analysts expected. At the high end of that range, it would bring United's 2026 adjusted earnings to no more than $7.22 per share. In mid-July, United said it was expecting full-year earnings of $9 to $11 a share.
+The carrier expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.
+A surge in fuel prices this year has added billions of dollars to airlines' costs, eating into profits, despite strong demand, and driving up airfares.
+Here is what United Airlines reported for the quarter that ended Sept. 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:
+- Earnings per share: $2.54 adjusted vs. $2.57 expected
+- Revenue: $17.88 billion vs. $17.9 billion expected
+United's third-quarter net income rose 8.5% from a year earlier to $1.03 billion, or $3.14 a share. During the same period last year its net income totaled $949 million, or $2.90 a share.
+"Our employees met the challenge of our ever-changing environment and our results prove the resilience of focusing on building a brand-loyal airline for customers," United CEO Scott Kirby said in an earnings release.
+United's fuel bill rose close to 62% in the quarter from a year earlier to $4.84 billion.
+Revenue for the three months ended Sept. 30 rose 17.4% from a year earlier to $17.88 billion, compared with $15.23 billion the year before.
+Domestic passenger unit revenue rose 14.5% from a year earlier, while international unit revenue was up 17.4%, a sign of higher fares. Passengers continue to book, United said, with passenger counts up more than 2% from last year.
+Adjusting for one-time items, United reported net income of $833 million or $2.54 a share.
+
+</details>
+
+
+---
+
+## Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html
+
+正文长度：2386
+
+摘要：The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Federal Aviation Administration on Tuesday signed off on the Boeing 737 Max 10 after years of delays, a major win for the manufacturer and the last in Boeing's best-selling family of jets to get government approval.
+The green light comes weeks after federal officials reviewed a navigation system glitch on the aircraft but deemed it was not a safety-of-flight issue.
+Transportation Secretary Sean Duffy told CNBC's Phil LeBeau that safety is paramount, but he also said the U.S. needs to improve its certification process.
+"It takes Boeing, to certify an aircraft in Europe, about half the time, less than half the time that it does in the U.S. You have China now playing to take over in aviation," Duffy said. "We have to certify aircraft more quickly if we're going to compete as Americans."
+The 737 Max 10, the largest model in the family that can seat up to 230 people, was set to start flying in 2020, but increased scrutiny following two Max crashes in 2018 and 2019 and other safety issues delayed its certification. Engineering changes were also required, including to an anti-icing system for the aircraft's engines.
+Max 10 customers include Alaska Airlines, American Airlines, United Airlines and Delta Air Lines. Boeing said the Max 10 makes up about 30% of its Max backlog.
+Airlines can finally start flying passengers soon after planes are certified, but it can take months for carriers to work them into schedules.
+"Completing the certification program clears the path for us to deliver a Boeing airplane that will set a new standard in commercial aviation," Stephanie Pope, CEO of Boeing's commercial airplane unit, said in a news release.
+United CEO Scott Kirby told CNBC in August that the airline had been waiting so long for the Max 10 that the lie-flat seats it expected for the plane no longer make sense and are sitting in a warehouse. Alaska Airlines last month said it plans to put lie-flat seats on some of its 737 Max 10s in a push for more premium offerings.
+The FAA approved the smallest model of the 737 Max family, the Max 7, in early August.
+Boeing has been working to ramp up production of its 737 Maxes and 787 Dreamliners, which are key to its recovery since airlines and other customers pay the bulk of the aircraft's price upon delivery. The manufacturer opened a fourth production line in Everett, Washington, in July for its 737 Max airplanes.
+
+</details>
+
+
+---
+
+## Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html
 
-正文长度：1290
+正文长度：4212
 
-摘要：Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to view potential M&amp;A.
+摘要：Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Netflix is set to report quarterly earnings after market close on Tuesday as the media industry faces consolidation, spinouts and intensified competition.
-Here's how Netflix is expected to perform for the period ended Sept. 30, according to estimates from analysts polled by LSEG:
-- Earnings per share: 82 cents estimated
-- Revenue: $12.87 billion estimated
+> Netflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes the company's engagement and advertising metrics.
+Here's how Netflix performed for the period ended Sept. 30, compared with projections from analysts polled by LSEG:
+- Earnings per share: 87 cents vs. 82 cents estimated
+- Revenue: $12.87 billion vs. $12.87 billion estimated
+The streamer's revenue was almost 12% higher year over year, boosted by growth in membership and an increase in subscription prices that went into effect in March, the company said. Netflix said the response to those price hikes has been consistent with prior changes and with its expectations.
+Net income for the quarter was $3.66 billion, or 87 cents per share, compared with $2.55 billion, or 59 cents a share in the same period last year. Netflix said the year-over-year jump in profit was due in part to the timing of expenses.
+The company expects fourth-quarter revenue to rise more than 11% to $13.44 billion, driven by growth in memberships, pricing and ad revenue, it said.
+The company narrowed its 2026 full-year forecast, saying it now expects revenue to reach $51.1 billion, a 13% increase over the year prior. This is on the low end of the range Netflix provided during its previous earnings report of between $51 billion and $51.4 billion and below Wall Street's expectations of $51.2 billion for the year, according to LSEG.
+Shares of Netflix fell about 6% in extended trading Tuesday.
+Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes and headwinds including stagnating viewership and growing competition from the likes of YouTube.
+"With intense competition and an explosion of content competing for consumer attention, strategic clarity and excellent execution are critical," the company said in a shareholder letter Tuesday. "In Q3, we delivered well across all three priorities, but we see room to do even better with focused, continuous improvement."
 Last week, Netflix said it was laying off about 6% of employees, or roughly 1,000 workers, and that Chief Content Officer Bela Bajaria was departing from that role.
-The changes come as Netflix faces stagnating viewership and growing competition from the likes of YouTube. At the same time that streaming subscriber additions have slowed in recent years, advertising has once again become a major revenue driver for media companies.
-With the help of its cheaper, ad-supported tier, Netflix continues to post solid profits and remains the biggest player in the streaming realm.
-On Tuesday, Netflix announced new features for advertisers that it says will help better connect brands to the right audiences and measure the impact of their ads.
-However, the company's stock has fallen about 40% in the past year, and executives have been publicly exploring new avenues for growth.
-This story is developing. Please check back for updates.
+The company said Tuesday it expects its fourth-quarter results to be impacted by those reductions in head count, with a negative impact on operating margin of about 120 basis points.
+Former Disney executive Peter Rice has been tapped as the new CCO, but it's not yet clear how he'll address concerns around viewership.
+Netflix in its shareholder letter said, "We know there's some investor concern about our view hours growth," but added, "engagement — which encompasses quantity, quality and variety of viewing — remains healthy and … we continue to deliver strong value to members."
+The company seeks to accelerate growth in those view hours and plans to do so with a three-step strategy, it said: deliver more entertainment value to members; leverage technology to improve all aspects of the service; and improve monetization.
+Ads on Netflix
+Central to Netflix's value offering has been its cheaper, ad-supported tier. Yet, the company on Tuesday lowered its full-year revenue guidance for its ad business.
+Netflix said it now expects 2026 ad revenue of around $2.7 billion, down from the roughly $3 billion the company had previously forecast. That lower guidance is due to a slower-than-expected rollout of some ad product capabilities, the company said.
+"Our ads business has delivered really impressive growth since we've launched, and we do see a long road of continued growth ahead of us," co-CEO Greg Peters said on the company's earnings call. "We set big growth targets for our ads business this year. We established an aggressive product road map that was consistent with that strategy. And, just note, I think that the build-out that we've been on is the fastest build-out of a comparable ad stack in our industry, but we are currently a bit behind our aggressive target for the year."
+Earlier Tuesday, Netflix announced new features for advertisers that it says will help better connect brands to the right audiences and measure the impact of their ads.
 
 </details>
 
@@ -161,112 +232,54 @@ The company said any costs related to the changes in the membership program are 
 
 ---
 
-## General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html
-
-正文长度：3904
-
-摘要：GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — General Motors narrowed its 2026 earnings guidance and raised its free cash flow expectations after beating Wall Street's third-quarter expectations.
-The Detroit automaker also announced a new multiyear stock buyback of $20 billion after GM completed a $6 billion share repurchase program that was announced in January. GM did not disclose a specific time to complete the program.
-Despite the positive news, GM stock was off roughly 5% during trading Tuesday as the company's outlook missed Wall Street's expectations.
-Wall Street analysts were mixed before the report on whether GM would raise its guidance Tuesday amid concerns of slowing sales and rising commodity costs. Analysts' expectations included a midpoint of $13.41 per share for the year compared with GM's new $13.25 per share midpoint, according to LSEG.
-Several analysts in investor notes Tuesday said GM's third-quarter results were solid, but raised concerns about whether higher costs and pressures on vehicle pricing would limit earnings growth next year.
-Here's how GM performed in the third quarter, compared with average estimates compiled by LSEG:
-- Earnings per share: $3.70 adjusted vs. $3.63 expected
-- Revenue: $50.02 billion vs. $48.7 billion expected
-GM's new guidance includes adjusted earnings before interest and taxes of between $14.5 billion and $15.5 billion, or $12.75 to $13.75 adjusted earnings per share, and adjusted automotive free cash flow of between $11.5 billion and $12.5 billion.
-That compares with its raised guidance from July that included adjusted EBIT of between $14 billion and $16 billion, or $12 to $14 adjusted EPS, and adjusted automotive free cash flow of $9.5 billion to $11.5 billion.
-"I think the market's been pretty consistent from what we've said all year," GM CFO Paul Jacobson told CNBC's Phil LeBeau. "Our fourth quarter's going to be down sequentially. ... I think the fact that we're able to hold our guidance in the face of that late inflationary pressure in the year is another sign of the GM team executing really well."
-GM on Tuesday said it expects commodity inflation costs to be around $2 billion, which was the high end of its previous guidance. That includes higher costs for logistics and dynamic random-access memory, or DRAM, chips that are impacting multiple industries.
-While the inflationary costs were at the automaker's high end of guidance, GM said its gross tariff costs are expected to be at the low end of its expected $2.5 billion to $3.5 billion range. Warranty costs are expected to be at high end between $1 billion and $1.5 billion, GM said.
-Jacobson said vehicle pricing is relatively flat as inflationary costs continue to increase. He said the company would assess where consumers are in the coming year when deciding if it should pass costs along by raising prices more than normal.
-"GM is performing well, and we are working hard to continue our momentum despite growing inflationary pressures through strategic investments in new products and services, and through improved quality and operating efficiency," GM CEO Mary Barra said Tuesday in a letter to shareholders.
-The automaker also said the costs of its pullback in all-electric vehicles announced last year were "substantially completed," saying it has recorded $11.2 billion in such charges since the second half of last year, including paying $4.6 billion of $7.4 billion in cash through the third quarter.
-The company's net income attributed to stockholders was $3.3 billion during the third quarter, up roughly $2 billion from a year earlier.
-GM's North American operations continued to lead the automaker's results, accounting for $3.6 billion of its $4.1 billion in adjusted EBIT results during the third quarter.
-GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and earnings per share of $2.80 adjusted.
-
-</details>
-
-
----
-
-## Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html
-
-正文长度：4101
-
-摘要：Best Buy is launching a new gaming experience for customers as it leans into the business ahead of this fall's big launches.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Best Buy is tapping further into a growing customer cohort: gamers.
-Chief Revenue Officer Patrick McGinnis told CNBC exclusively that the electronics retailer is launching a new experience Tuesday for customers featuring gaming content, new technology and special offers, among other features. The online destination is called Best Buy Gamers and is launching in a beta version.
-"Gamers are a customer that are really like no other in terms of their passion for not just the tech, the titles, but also how they want to work with each other as a community," McGinnis said. "So for us, being relevant for that customer wherever and whenever they want to interact with the thing that they love is really important."
-Best Buy says millions of gamers shop at the retailer each year, including trying out games in the store and seeking advice from in-store experts. The new gaming experience, created in partnership with video game website IGN, will offer members gaming articles and reviews, live Best Buy event updates for launches and deals on new technology.
-The announcement comes ahead of some of the biggest launches in gaming this year, including the Nov. 5 release of "The Legend of Zelda: Ocarina of Time," a remake from Nintendo, and the Nov. 19 launch of Take-Two Interactive's highly anticipated "Grand Theft Auto VI."
-McGinnis said the timing of the rollout is "pretty perfect" given the slate of new video games over the next month, though Best Buy has been developing the new platform for over a year.
-"We want to be relevant for our gaming customers, not just during the important, big tentpole periods of the calendar, like when we have these big gaming launches coming up, but really every day," he said. "We want to be there when they discover new titles and connect with the community, and not just when they're buying a big console or a new gaming title."
-Best Buy has been leaning into gaming as it sees growing demand from its customers. For its fiscal first-quarter results reported in May, the company said gaming and computing was one of its biggest drivers of growth. On a call with analysts to discuss Best Buy's fiscal second quarter in August, incoming CEO Jason Bonfig said the company expects that demand for "Grand Theft Auto VI" will boost the gaming category.
-Best Buy has been looking for growth drivers as the retailer tries to revitalize its business performance under Bonfig. The company has seen slumping sales and was hit by tariffs and lower consumer confidence, among other factors. Tapping into gaming could help revitalize the retailer.
-McGinnis said the new gamer experience is an example of the company's strategic goals coming together.
-"If you think about what those priorities are, the Gamers [beta] community is definitely a way that we're expanding and growing our reach, reaching that gaming customer," he said. "Providing a place for them to again pursue what they're most passionate about certainly is elevating our experience."
-Best Buy is also leaning into in-store experiences around gaming, starting with a location in Torrance, California, next month, where Sony, Nintendo and Microsoft will come together to offer gaming experiences and activations for customers.
-With the combination of physical retail and the online platform, McGinnis said, Best Buy hopes to sit at the intersection of technology, entertainment and culture within the gaming community. He said the company plans to tweak its new online experience based on feedback from its customers and continue innovating to meet its audience where it is, especially as the gaming segment continues to be one of the company's strongest performers.
-"We recognize the gaming customer as incredibly passionate and wants to engage with what they love in a lot of different ways," he said. "There's observations of gaps that exist in the places and spaces where gamers are engaged, and we thought that we could build something that would really complement what they're engaging with today from a social platform perspective, not to replace those types of experiences in any way, shape or form."
-
-</details>
-
-
----
-
-## New York pensions chief says private equity firm sought to expense jet use - Financial Times
+## SpaceX and Tesla boards explore potential merger - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTRabUFqdmdjOU1XeFFHOVRNaVpFdEZLUElPTFFtX1RDSTdzQUZhTG1NSHQyXzZTc2NvSC13V3oyQ3NMWUtrN2JjOEZLeE9RRFZWeUhncGE1S2V0d3UwemI2eDNWVkhKc0U3RmNjRWxPUnQtWTllSWJYVzZjdHFHODlYaHU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzNRRDRYUUpYbk9aM3pLd0tOTXlibVA4blhxNS1oSGExUXdJWEcyTHhURy1CUGNnQkZwbEFvUGE3SXp3dS12VUtZeHozdzVWVUZ0QWJXUFpXNlJoOC1zaHlHR29ycktaYndmRTlzcUlPUzJ6b2FEdUpIZDhvTnBoekN3T1c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTRabUFqdmdjOU1XeFFHOVRNaVpFdEZLUElPTFFtX1RDSTdzQUZhTG1NSHQyXzZTc2NvSC13V3oyQ3NMWUtrN2JjOEZLeE9RRFZWeUhncGE1S2V0d3UwemI2eDNWVkhKc0U3RmNjRWxPUnQtWTllSWJYVzZjdHFHODlYaHU?oc=5" target="_blank">New York pensions chief says private equity firm sought to expense jet use</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzNRRDRYUUpYbk9aM3pLd0tOTXlibVA4blhxNS1oSGExUXdJWEcyTHhURy1CUGNnQkZwbEFvUGE3SXp3dS12VUtZeHozdzVWVUZ0QWJXUFpXNlJoOC1zaHlHR29ycktaYndmRTlzcUlPUzJ6b2FEdUpIZDhvTnBoekN3T1c?oc=5" target="_blank">SpaceX and Tesla boards explore potential merger</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Do not worry too much about European gas prices - Financial Times
+## Finnish president hails progress in talks about ending Russia’s war in Ukraine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUpHNFdKbkhoVXMzQTJkVm51bXBORzhidEMxdjRKZUl2NHlUZFFvc01LU2Ftb2dTbjAtTXFCLU1Wa3JlOTg1VEhLTUJEZmpEVko4SGUtakpWTVRibWxTVUxCVHg1Y0lnQjVld2Q5X0FIdjVucWRHSU9pZWFxQkVXVmlRRkI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlJEUEkwWDdVZFA2TXpMNlgzQ1QtQUxPWW9wTHlzeVQxYi1faVJTLXVfNnpScjlSU1M5OWNjamNvRlFFczJKdzBzQXZXa3RCRW10ZDlodGVWWnhsLVEyMGZZdmJtcndxUjUxSWROY2ZNRWZhSW53WEIzLXlIZjJidUl2V0Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUpHNFdKbkhoVXMzQTJkVm51bXBORzhidEMxdjRKZUl2NHlUZFFvc01LU2Ftb2dTbjAtTXFCLU1Wa3JlOTg1VEhLTUJEZmpEVko4SGUtakpWTVRibWxTVUxCVHg1Y0lnQjVld2Q5X0FIdjVucWRHSU9pZWFxQkVXVmlRRkI?oc=5" target="_blank">Do not worry too much about European gas prices</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlJEUEkwWDdVZFA2TXpMNlgzQ1QtQUxPWW9wTHlzeVQxYi1faVJTLXVfNnpScjlSU1M5OWNjamNvRlFFczJKdzBzQXZXa3RCRW10ZDlodGVWWnhsLVEyMGZZdmJtcndxUjUxSWROY2ZNRWZhSW53WEIzLXlIZjJidUl2V0Y?oc=5" target="_blank">Finnish president hails progress in talks about ending Russia’s war in Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Is CoreWeave the Silicon Valley Bank of 2026? - Financial Times
+## Joel Kaplan to step down as Meta global affairs chief - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9INHpuTlcxQnBMY1J2Z1ZLVkFYc2tEZkdNRGpoZ1FqZGRTTHlNZFVTOWFncHdkMEdTQWtBUjcyOTNHeWJNMG9tM0lWNmJjcFBCWk56WUxLS2Z3VVhnTHNSaUs1T1JWdXc3Rzc3VkNyWmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFZid2ZOSXBNYmtnVjdjUVlZQU1zN2J4MkNIOHd5MGh1YWRVVm00akZwWEwtUjlhY2lvRjlfbGs1ckpRNHZzeWxIN1M5Z1ZDN0hIbEs2T2twb3RlQXNwcFNZRW14LVh4WFZKUERSZWZqUlNrRzhMU3Vhd2xXUkFwTE9CUHg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9INHpuTlcxQnBMY1J2Z1ZLVkFYc2tEZkdNRGpoZ1FqZGRTTHlNZFVTOWFncHdkMEdTQWtBUjcyOTNHeWJNMG9tM0lWNmJjcFBCWk56WUxLS2Z3VVhnTHNSaUs1T1JWdXc3Rzc3VkNyWmc?oc=5" target="_blank">Is CoreWeave the Silicon Valley Bank of 2026?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFZid2ZOSXBNYmtnVjdjUVlZQU1zN2J4MkNIOHd5MGh1YWRVVm00akZwWEwtUjlhY2lvRjlfbGs1ckpRNHZzeWxIN1M5Z1ZDN0hIbEs2T2twb3RlQXNwcFNZRW14LVh4WFZKUERSZWZqUlNrRzhMU3Vhd2xXUkFwTE9CUHg?oc=5" target="_blank">Joel Kaplan to step down as Meta global affairs chief</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Putin’s American friends - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1pGWS13QUxDeHNfQkNSVlNOUXgtU2xPMTcwSlcydDFfTFdHRUFsNDJHX0xVSUQ3TC1oTG9SM0o2LWthdERGT25RY3pRQmFtX0tjSmNZVVFBNEEwc2ZBanNNWnJkbExiTDNuOVd4ZUpEa3RoZ3VfcUJZZThKOEd3ZS14TEE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1pGWS13QUxDeHNfQkNSVlNOUXgtU2xPMTcwSlcydDFfTFdHRUFsNDJHX0xVSUQ3TC1oTG9SM0o2LWthdERGT25RY3pRQmFtX0tjSmNZVVFBNEEwc2ZBanNNWnJkbExiTDNuOVd4ZUpEa3RoZ3VfcUJZZThKOEd3ZS14TEE?oc=5" target="_blank">Putin’s American friends</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -284,80 +297,67 @@ With the combination of physical retail and the online platform, McGinnis said, 
 
 ---
 
-## Law firms and hedge funds restructure to avoid major tax bills after landmark ruling - Financial Times
+## Oil rises on Middle East supply worries - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPWi1rQ01GZ1lLRXNKbzN6RWx0WkxOdmZSc1JrZWp1dnAwMUhpV1VDZTdwSjdLY3kzYnJYTF94eVQyY3YyaEFVOUVCdWZxcnFzdFZrYzVxNnMwOUZJOG0tYUxSSGtWc3ZqWW01SDc0VE5hNlhIUEFDR1NzcnBhWUpoZV9iWV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWi1rQ01GZ1lLRXNKbzN6RWx0WkxOdmZSc1JrZWp1dnAwMUhpV1VDZTdwSjdLY3kzYnJYTF94eVQyY3YyaEFVOUVCdWZxcnFzdFZrYzVxNnMwOUZJOG0tYUxSSGtWc3ZqWW01SDc0VE5hNlhIUEFDR1NzcnBhWUpoZV9iWV8?oc=5" target="_blank">Law firms and hedge funds restructure to avoid major tax bills after landmark ruling</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5" target="_blank">Oil rises on Middle East supply worries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Romanian parliament confirms new prime minister after months of deadlock - Reuters
+## US high court rulings have been 'destructive to democracy,' Justice Kagan says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTU4MXMwVUJRSFJSQWxSNlNuMmdfU2FWWDR3cDBTM2h2cXJlUjBFalpTUGVWaEJkVm9iZ2pWNTU5dWx5Q3JGdHZ3MC12RFR6Tmh3LTg3akdqWjVFdENaRE85YUhFTGpZSUVpdWhVN2F1RGFueE51U01XWHJXUlJwSUlyMnpHamRib2xBdVpuSzJIcFU4WTU3UWJkYnlONVhlaGpQa3dLX2RHVXl2T3pkd0gwZ1RCVXBOb3c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEtSSHU2SmZqREJzYUlidzRUTTZLOTJzS0NmSmxyZTlWR0ZPdDV0Zk1teEhNbUdoTTVPd2hKVUp5SnlrWW5PN2hVSDJ3X3NDN3ZMeGpUZmFGZ0M0NUNXNkp2ZmsycUZRTEVSdTk0V3FtYmlFSUpSTmpYRlc0MlNqSFNyY21LOGlTOXdKSUw3VkRsNGpKcGFuWnhuSjN1aFVuMS1CNDlwakFpaDZOS0U1QWpWR3laTXpz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTU4MXMwVUJRSFJSQWxSNlNuMmdfU2FWWDR3cDBTM2h2cXJlUjBFalpTUGVWaEJkVm9iZ2pWNTU5dWx5Q3JGdHZ3MC12RFR6Tmh3LTg3akdqWjVFdENaRE85YUhFTGpZSUVpdWhVN2F1RGFueE51U01XWHJXUlJwSUlyMnpHamRib2xBdVpuSzJIcFU4WTU3UWJkYnlONVhlaGpQa3dLX2RHVXl2T3pkd0gwZ1RCVXBOb3c?oc=5" target="_blank">Romanian parliament confirms new prime minister after months of deadlock</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEtSSHU2SmZqREJzYUlidzRUTTZLOTJzS0NmSmxyZTlWR0ZPdDV0Zk1teEhNbUdoTTVPd2hKVUp5SnlrWW5PN2hVSDJ3X3NDN3ZMeGpUZmFGZ0M0NUNXNkp2ZmsycUZRTEVSdTk0V3FtYmlFSUpSTmpYRlc0MlNqSFNyY21LOGlTOXdKSUw3VkRsNGpKcGFuWnhuSjN1aFVuMS1CNDlwakFpaDZOS0U1QWpWR3laTXpz?oc=5" target="_blank">US high court rulings have been 'destructive to democracy,' Justice Kagan says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US judge dismisses Sam Altman's sister's sexual abuse lawsuit - Reuters
+## Trump administration says it has revoked over 300,000 visas - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVJnQzNVSG9xLUh4YjJRTXRpLU5xMnlLTkhXWjJtc2YtYVdMcE1IYVV6cmx5Snp3WGZraHlCSXhteWQzNjlKSW5XRUZCVTMza3N6NE43el9kODgxTG1fc19NM2xxVmNTRVl4ZjN4T0tHT1FvNVdUd0ZwR3JabGNCNkFxbWM4ZURfdmpFeDZwVng5ZWU1RmxmeWR5ZWVCZlVXY0hr?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVJnQzNVSG9xLUh4YjJRTXRpLU5xMnlLTkhXWjJtc2YtYVdMcE1IYVV6cmx5Snp3WGZraHlCSXhteWQzNjlKSW5XRUZCVTMza3N6NE43el9kODgxTG1fc19NM2xxVmNTRVl4ZjN4T0tHT1FvNVdUd0ZwR3JabGNCNkFxbWM4ZURfdmpFeDZwVng5ZWU1RmxmeWR5ZWVCZlVXY0hr?oc=5" target="_blank">US judge dismisses Sam Altman's sister's sexual abuse lawsuit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5" target="_blank">Trump administration says it has revoked over 300,000 visas</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EU unveils new Arctic strategy with focus on security - Reuters
+## Asian stocks climb as strong earnings buoy Wall Street - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDY3aUczblRQd2RfekVBRVo0aDFzaFl5RDctZlRTekUxV21hUTQ3a19qLTlwUVBCemRjSVl6Mk1INjRrQXNtWmc4N1FmVllhbTVvVkw4TGdfR1FrOVNfOEFjcVN6VEYtNjcxR1FLT0xRdDl1THhMc05ORDRkSDUtLXhMeWFiZkZrWHJqY05IQ1VGNjRpeEtn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDY3aUczblRQd2RfekVBRVo0aDFzaFl5RDctZlRTekUxV21hUTQ3a19qLTlwUVBCemRjSVl6Mk1INjRrQXNtWmc4N1FmVllhbTVvVkw4TGdfR1FrOVNfOEFjcVN6VEYtNjcxR1FLT0xRdDl1THhMc05ORDRkSDUtLXhMeWFiZkZrWHJqY05IQ1VGNjRpeEtn?oc=5" target="_blank">EU unveils new Arctic strategy with focus on security</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5" target="_blank">Asian stocks climb as strong earnings buoy Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Eastern Libya parliament approves maritime deal with Turkey, lifts 2020 boycott - Reuters
+## Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNpNHR3ZzZNNnVsTXE1c1N1RDVPdHFvRjBrRWJiQTltVlRmNlM3VzdkX1dEZmNhcW5rRFI4QzJvUjJXdU9XVWlVQklGLUV4LWc2S2VGczdPanlEb09Vb1hJakM5Z2pfRl9YOVZqNGtmVDFveXZscGhaLXpoRlF5WEUwLWVWSGwzU3JvSmJXb3djX3R6dmRfaGRKclNtRDQ4Smd2TUQ0eG43WEQzZXo1SmNRTmFkdE1JYnNoeGFwMXNlLTlrNGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNpNHR3ZzZNNnVsTXE1c1N1RDVPdHFvRjBrRWJiQTltVlRmNlM3VzdkX1dEZmNhcW5rRFI4QzJvUjJXdU9XVWlVQklGLUV4LWc2S2VGczdPanlEb09Vb1hJakM5Z2pfRl9YOVZqNGtmVDFveXZscGhaLXpoRlF5WEUwLWVWSGwzU3JvSmJXb3djX3R6dmRfaGRKclNtRDQ4Smd2TUQ0eG43WEQzZXo1SmNRTmFkdE1JYnNoeGFwMXNlLTlrNGc?oc=5" target="_blank">Eastern Libya parliament approves maritime deal with Turkey, lifts 2020 boycott</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Salesforce deepens AI bets with $5.66 billion Braze deal - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5" target="_blank">Salesforce deepens AI bets with $5.66 billion Braze deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5" target="_blank">Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
