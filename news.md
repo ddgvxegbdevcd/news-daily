@@ -1,68 +1,134 @@
 # 每日财经新闻
 
-更新时间：2026-10-22 16:56:38
+更新时间：2026-10-23 04:13:21
 
-## Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap
+## Blackstone's Early Bet on AI
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-10-23/blackstone-s-early-bet-on-ai
 
 正文长度：0
 
-摘要：A selloff in technology giants and escalating Middle East hostilities drove stocks toward their worst session since July, pushing global investors toward the safety of bonds.
+摘要：Blackstone CEO Stephen Schwarzman helped private equity go from niche to mainstream. He speaks with Francine Lacqua about how he spots investment opportunities and where the world will shift next. (Source: Bloomberg)
 
 
 ---
 
-## US 10-Year Yield Falls Below 5% as Investors Flock to Havens
+## Are AI Data Centers Overvalued?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid
+链接：https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-asia-data-centers-10-23-2026-video
 
 正文长度：0
 
-摘要：Treasuries surged — sending the US 10-year yield back below 5% — as investors sought shelter from tumbling share prices for companies leading the boom in spending on artificial intelligence.
+摘要：Investors are growing more critical of AI investments, especially data centers. But while neocloud stocks are under pressure, many believe the demand for computing resources remains strong -- and investment needs to happen now. In this episode of Bloomberg Tech: Asia, Annabelle Droulers and Shery Ahn speak with experts and executives on what's driving data-center valuations spending and take a closer look at demand through the eyes of a critical supplier to the industry. (Source: Bloomberg)
 
 
 ---
 
-## Blackstone Leads Debt Package to Take Gooch & Housego Private
+## Tech Stock Selloff Deepens, Crude Oil Extends Gain: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-22/blackstone-leads-debt-package-to-take-gooch-housego-private
+链接：https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Blackstone Inc. led a $300 million debt package backing US buyout firm Arlington Capital Partners’ take-private of Gooch &amp; Housego Plc, according to people familiar with the matter.
+摘要：The global rout in technology stocks deepened as investors rotated out of the hottest trade of the year and sought safety in Treasuries and currencies such as the yen. Adding to the pressure, crude oil extended its gains.
 
 
 ---
 
-## Exchanges Urge CFTC to Block Kalshi’s Perpetual Oil Futures Plan
+## Palm Oil Fluctuates as Market Faces Dueling Supply Outlooks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-22/exchanges-urge-cftc-to-block-kalshi-s-perpetual-oil-futures-plan
+链接：https://www.bloomberg.com/news/articles/2026-10-23/palm-oil-fluctuates-as-market-faces-dueling-supply-outlooks
 
 正文长度：0
 
-摘要：Commodity exchanges are urging US regulators to withhold approval of Kalshi Inc.’s proposed perpetual oil futures contract and close a loophole that gives retail traders access to offshore platforms.
+摘要：Palm oil futures traded near steady in Kuala Lumpur, after fluctuating between gains and losses.
 
 
 ---
 
-## Stocks Drop as Risk-Off Views Dominate With Oil Up, Meta Falling
+## China Stocks Sink Further as State Buying Offers Little Relief
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising
+链接：https://www.bloomberg.com/news/articles/2026-10-23/china-stocks-sink-deeper-into-bear-market-despite-state-buying
 
 正文长度：0
 
-摘要：Stocks were lower Thursday as escalating concern about Mideast conflict pushed oil futures higher, spurring inflation fears with US midterm elections less than two weeks away. Meta Platforms Inc. tumbled as investors parsed its results along with the rest of the latest batch of technology earnings for evidence that massive spending on AI is paying off.
+摘要：Chinese stocks slid deeper into a bear market as rescue efforts by state-backed funds fail to rebuild investor confidence.
+
+
+---
+
+## Moderna shares plunge after cancer vaccine data leaks — despite positive results
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html
+
+正文长度：4340
+
+摘要：Moderna released full data on its closely watched cancer vaccine developed with Merck.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Moderna shares dropped as much as 25% on Thursday following the leak of partial data on its closely watched cancer vaccine developed with Merck.
+Shares of both drugmakers fell even though the data, released in full later Thursday following the leak, appeared meaningful for patients and positive relative to Wall Street expectations.
+The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanoma patients by 42% compared with Keytruda alone.
+The data also showed that the shot along with Keytruda reduced the risk of cancer spreading to distant parts of the body or death by 38%, compared with just the immunotherapy.
+The companies said about 82% of patients who received the personalized cancer vaccine alongside Keytruda were alive without their melanoma returning at two years after receiving the shot, compared with 70% of those who received Keytruda alone.
+"This is a huge development for our patients," said Dr. Hussein Tawbi, a melanoma expert and trial investigator at the University of Texas MD Anderson Cancer Center, about the results.
+He said that the added benefit of the vaccine also comes with much milder toxicity, or side effects like injection-site pain, compared to other cancer treatments.
+The detailed phase 3 trial results were set to be presented at the European Society for Medical Oncology conference this weekend.
+"Whenever you put a therapy on top of something that works really well, like Keytruda, sometimes it's harder to show additional benefit. We have no problems of showing additional benefit here," Dr. Dean Li, Merck Research Laboratories president, said in an interview ahead of the results.
+The benefit appeared even larger after the six-month vaccine regimen, with a separate analysis showing a 58% reduction in risk of recurrence or death. The companies say it is still too early to determine whether the treatment helps patients live longer overall.
+Several analysts acknowledged investors' elevated expectations ahead of the release, but noted that the data is overall positive.
+"We assert this relative reduction in recurrence/death is clinically meaningful," BMO Capital Markets analyst Evan Seigerman said in a research note on Thursday following the leak. "Such a [stock] reaction likely reflects inflated expectations into the full data release, rather than a true indictment on the efficacy of the combo therapy."
+Oncologists and investors see the targeted vaccine as a possible breakthrough treatment, with the potential to be used to treat other forms of cancer in the future. Merck and Moderna are studying the vaccine in several trials across other tumors, such as non-small cell lung cancer, bladder cancer and renal cell carcinoma.
+But Li acknowledged the companies have more work to show the product can be effective across tumor types.
+"I can dream of creating a log cabin, but we got some wood chops, and we've just knocked down one tree," Li said. "Knocking one tree does not give you a cabin or a village."
+The shot is designed to target the specific mutations in each patient's tumor rather than using a one-size-fits-all approach. The idea is to train the immune system to recognize and kill those unique cancer markers and then pair that response with Keytruda, which helps the body attack the cancer more effectively.
+It could also offer Moderna a critical additional commercial product in its pipeline, following vaccines for Covid-19, the flu and respiratory syncytial virus.
+In a research note Thursday, UBS analysts said "this is overall a strong data set" and gives more confidence in upcoming studies of the vaccine in kidney and bladder cancers. They added the stock reaction may be due more to massive expectations than disappointing data.
+Against the backdrop of those high expectations, Moderna shares have spiked more than 530% year-to-date as of Thursday afternoon.
+Shares of Merck, a much larger drugmaker, fell by about 1% on Thursday. The company's stock has climbed nearly 41% this year.
+Since the vaccine is personalized, the complicated manufacturing process can take six weeks. But Merck CEO Robert Davis told CNBC last week that the company believes it can shorten that timeline in the future, potentially allowing the shot to reach more patients more quickly.
+
+</details>
+
+
+---
+
+## Elon Musk invests about $1 billion in Skydance
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html
+
+正文长度：1435
+
+摘要：David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Elon Musk has made an investment in Skydance of roughly $1 billion, according to a person familiar with the matter who asked not to be named because they were not authorized to speak publicly.
+The financial injection comes as the company looks to cut costs. Paramount closed its acquisition of Warner Bros. Discovery on Oct. 6, naming the combined entity Skydance. Co-CEOs David Ellison and Ynon Kreiz are tasked with merging two major film studios in Paramount and Warner Bros., two popular streaming platforms — Paramount+ and HBO Max — and a host of corporate functions to support a portfolio of TV networks and two news divisions.
+Skydance has said it expects to see $6 billion in cost savings over three years, though it faces a debt burden of nearly $80 billion.
+Musk's commitment is part of a wider effort by Skydance to raise equity investments, according to Semafor, which first reported the news Thursday. Representatives for Musk and Skydance did not immediately respond to CNBC's requests for comment.
+Shares of Skydance were down about 1% Thursday.
+Ellison's father, Larry Ellison, has a history with Musk. The Oracle co-founder invested $1 billion in Musk's 2022 deal to purchase Twitter, now called X. Larry Ellison also invested in Tesla in 2018 and served on the company's board of directors.
+The elder Ellison also personally guaranteed more than $40 billion of equity financing in Paramount's offer to take over WBD.
+
+</details>
 
 
 ---
@@ -73,15 +139,15 @@
 
 链接：https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html
 
-正文长度：1339
+正文长度：1338
 
 摘要：Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> PepsiCo and Taco Bell renewed their long-running partnership through 2036, the food and beverage company said on Thursday.
-The announcement comes one week after Taco Bell's sister chain KFC said that it will switch to Coca-Cola as its U.S. beverage supplier. While it is unusual for large restaurant chains to switch drink providers, the move is not unprecedented, as Coke and Pepsi try to win contracts through perks and other inducements.
+> PepsiCo and Taco Bell renewed their long-running partnership through 2036, the food and beverage company said Thursday.
+The announcement comes one week after Taco Bell's sister chain, KFC, said that it will switch to Coca-Cola as its U.S. beverage supplier. While it is unusual for large restaurant chains to change drink providers, the move is not unprecedented, as Coke and Pepsi try to win contracts through perks and other inducements.
 Coke's win over Pepsi was more symbolic, representing another example of how the Atlanta-based company has been beating its rival in the soda category.
 Pepsi's relationship with Taco Bell and KFC parent Yum Brands spans decades, back to when the beverage giant owned the restaurant chains before spinning them into a separate public company in 1997. Despite KFC's defection in the U.S., Pepsi remains an important partner for Yum and the chain's international markets, KFC U.S. President Catherine Tan-Gillespie wrote in a memo on Oct. 15 that was obtained by CNBC.
 Thanks to its partnership with Pepsi, Taco Bell has long served exclusive menu items that use Pepsi products, like Mountain Dew Baja Blast and Doritos Locos Tacos, at its restaurants.
@@ -174,86 +240,54 @@ For the third quarter, American had a net loss of $269 million or 41 cents a sha
 
 ---
 
-## American Express brings Airbnb bookings and rewards to Amex Travel platform
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html
-
-正文长度：2488
-
-摘要：More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Express is bringing Airbnb into its travel rewards platform.
-The companies on Thursday announced a new partnership to bring more than 1 million Airbnb listings to Amex's travel portal and allow cardholders to earn rewards when booking the stays. It does not currently allow members to redeem points to pay for Airbnb bookings.
-The launch adds Airbnb rentals to Amex's hotel portfolio, which includes more than 3,400 properties across its Fine Hotels + Resorts and The Hotel Collection programs.
-Amex members with either the consumer or business Platinum card can also now apply their $600 annual lodging credit — previously called the hotel credit — to Airbnb's higher-end Luxe stays and take advantage of a new $250 statement credit on eligible Airbnb Experiences after making a Luxe booking.
-"We're excited to bring more choice and flexibility to American Express Card Members with this exclusive partnership. Both of our companies exist to help people travel more and better, and this partnership helps people see more of the world by making travel more rewarding," said Juan David Borrero, head of partnerships at Airbnb, in a news release.
-Membership points vary by card:
-- Consumer and Business Platinum Card members earn five times the membership rewards on prepaid Airbnb bookings through Amex Travel.
-- Consumer Classic Green Card members earn three times the points on travel bookings made directly through third-party sites, including Airbnb.
-- Other eligible rewards members earn two times the points on prepaid Airbnb bookings through Amex Travel.
-The changes come as competition among premium credit cards continues to ramp up.
-Last year, American Express raised the annual fee on its premium Platinum card to $895. In turn, it's been investing in cardholder perks such as new lounges in airports and at big-ticket events and experiences as a way to attract more high-paying customers.
-Earlier this month, it announced an expansion of its Centurion Lounges, with renovations coming to four existing lounges and new ones planned for Newark Liberty International Airport and London Heathrow Airport. The Newark lounge will be the largest in its network.
-The partnership also comes as Americans continue to opt for travel and luxury experiences, even as prices for airfare, gas and hotels rise. Despite higher costs, more than half of Americans reported making no changes to their travel plans this summer, a recent study by travel insurance company Squaremouth found.
-
-</details>
-
-
----
-
-## Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html
-
-正文长度：3466
-
-摘要：Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Procter & Gamble on Thursday reported quarterly earnings and revenue that beat analysts' expectations, fueled by growing demand for its laundry detergent and home care products.
-Shares of the company rose more than 5% in morning trading.
-Here's what the company reported for the three-month period ended Sept. 30 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $2.00 adjusted vs. $1.88 expected
-- Revenue: $23.3 billion vs. $22.8 billion expected
-P&G reported fiscal first-quarter net income attributable to the company of $4.73 billion, or $1.97 per share, down from $4.75 billion, or $1.95 per share, a year earlier.
-Excluding restructuring costs and other items, the company earned $2 per share.
-Net sales rose 4% to $23.3 billion.
-P&G reported volume growth of 2.4%, a strong start for its new fiscal year. Like many consumer companies, P&G has seen demand for its products weaken as shoppers have become more value-conscious.
-Executives have previously said that consumers are now using every last drop of shampoo or laundry detergent, and value packs have become more popular. In fiscal 2026, P&G reported just one quarter of volume growth.
-P&G is still seeing signs of a bifurcated economy, CFO Andre Schulten said on CNBC's "Squawk Box" on Thursday. High-income consumers are willing to trade up to new products, even a $30 shampoo, while low-income consumers are trying to make brands like Tide and Pampers work for their tight budgets.
-The company has tried to address both ends of the spectrum with promotional pricing, new pack sizes and product innovation that can command higher prices. New premium products like Pampers Amore and Pantene's Abundant & Strong haircare line have helped P&G grow market share in those categories, executives said.
-Adding to P&G's challenges, the competitive environment is "intense," Schulten said on the company's quarterly earnings call.
-"We are getting the balance between pricing and product improvements, package improvements, claims, communication and retail execution right," Schulten told analysts. "But it's also a very fragile balance that we want to make sure we we don't compromise on, so we will price, and we will price with innovation, not jeopardizing the top-line momentum."
-P&G's top-performing division was fabric and home care, which includes brands like Tide and Febreze. The segment's volume rose 4.3% in the quarter, helped by stronger demand for laundry detergent and fabric enhancers.
-The company's baby, feminine and family care segment and its beauty business both reported volume growth of more than 2%.
-P&G's grooming division saw volume shrink 0.4% in the quarter. The segment includes Gillette and Venus razors.
-The company's healthcare business was the laggard of the portfolio this quarter. Its volume fell 2.9% as demand for oral healthcare products, like Crest toothpaste, and personal healthcare items, like Pepto-Bismol, shrank.
-The company is expecting continued "geopolitical and economic challenges," but P&G is on track to meet its guidance, CEO Shailesh Jejurikar said in a statement.
-For fiscal 2027, P&G reiterated its forecast for core earnings per share in a range of $6.89 to $7.11. The company is now projecting all-in sales growth in the range of 2% to 4% compared with the prior year, up from its previous outlook of 1% to 3%. The change reflects its acquisition of supplements brand Thorne, which closed Oct. 1.
-
-</details>
-
-
----
-
-## Blackstone cuts property valuations as higher rates hit returns - Financial Times
+## Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RuWW4yUE5ReldySFFLNDVxbG5YdVhESTlscFF0dFJUNmtxRHlCMUNaMlA2NFBJMGhrLWJDSGQ1SGNtVzVYSjFMTk1NOW1DbUp5cEhUV0p1N2NoYmdJWDZNcnpBN3pUdXBuaHZKZ2ZLbWV1TlN4QjVuaklZV29kR043V1g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm5rRjVsTFkwSUxIM3ZBOGV3eWw0LWJkOTRlMzNNMHFaZ2VOYkgzSlM2Wi1mbVpyWU0wYnF6VlJyNnNxY3RHTm1UNGYydUJxa250RHJzMGZsTkh3eTlVREQtb040bEZ6TWptYVdlVXRfbkg5dURPODRtT0E1bWlaaGhfR2g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RuWW4yUE5ReldySFFLNDVxbG5YdVhESTlscFF0dFJUNmtxRHlCMUNaMlA2NFBJMGhrLWJDSGQ1SGNtVzVYSjFMTk1NOW1DbUp5cEhUV0p1N2NoYmdJWDZNcnpBN3pUdXBuaHZKZ2ZLbWV1TlN4QjVuaklZV29kR043V1g?oc=5" target="_blank">Blackstone cuts property valuations as higher rates hit returns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm5rRjVsTFkwSUxIM3ZBOGV3eWw0LWJkOTRlMzNNMHFaZ2VOYkgzSlM2Wi1mbVpyWU0wYnF6VlJyNnNxY3RHTm1UNGYydUJxa250RHJzMGZsTkh3eTlVREQtb040bEZ6TWptYVdlVXRfbkg5dURPODRtT0E1bWlaaGhfR2g?oc=5" target="_blank">Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## OpenAI trims valuation target to $1.25tn after pitching higher price - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5" target="_blank">OpenAI trims valuation target to $1.25tn after pitching higher price</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Liquidators of Chinese property giant pursue Harvard to recoup donation - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHZmamtfRjJIUjZEc3pHQ1dBUE5lbVFrTXRiUk52bWgzV1c1Q1BoVUpMVEFiYmZocHdGOUtMZlhUY1dMUFF6T29DZEd2MFQ2MkY1bW1QNkp3ZmdvZzkyakZsS2d4cjNkajdRWmZLOXlBUXdxY3VQMlYtRWo1aFc3UzZvZ1k?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHZmamtfRjJIUjZEc3pHQ1dBUE5lbVFrTXRiUk52bWgzV1c1Q1BoVUpMVEFiYmZocHdGOUtMZlhUY1dMUFF6T29DZEd2MFQ2MkY1bW1QNkp3ZmdvZzkyakZsS2d4cjNkajdRWmZLOXlBUXdxY3VQMlYtRWo1aFc3UzZvZ1k?oc=5" target="_blank">Liquidators of Chinese property giant pursue Harvard to recoup donation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## London credit hedge fund Arini’s losses mount - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSV9xYlpUdkljdXZiUDFZajczbmhyeGp1MFhlNU1HZ1pxRExXdmNIQXpSc0k2X0JmZ3dYZ0tiT29fNHJyREN0U3JDZl8xWEpCRVpLS19STDdOdVJqVkdqVHVWY0laUHRrMmc2STIwclZGemNIeU5oYjgtek9odjE2TDR5bzM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOSV9xYlpUdkljdXZiUDFZajczbmhyeGp1MFhlNU1HZ1pxRExXdmNIQXpSc0k2X0JmZ3dYZ0tiT29fNHJyREN0U3JDZl8xWEpCRVpLS19STDdOdVJqVkdqVHVWY0laUHRrMmc2STIwclZGemNIeU5oYjgtek9odjE2TDR5bzM?oc=5" target="_blank">London credit hedge fund Arini’s losses mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -271,106 +305,67 @@ For fiscal 2027, P&G reiterated its forecast for core earnings per share in a ra
 
 ---
 
-## Armies of lawyers prepare to stop interference in US midterms - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQU09YSjZxdW5uMHpoUFZtUDVFUXhuemhPVFRMei0zTW45cWRiRWV6WTEteFUtUS02OFhNLVNyUFY5T2lDREF4MUNjQW10ZVFWSUc2Yl9QNGd5XzhKWFRNcU1VczJNcmZpYW5xTUdacEhKN245MTZlazRGS194TUwycmdUVnk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQU09YSjZxdW5uMHpoUFZtUDVFUXhuemhPVFRMei0zTW45cWRiRWV6WTEteFUtUS02OFhNLVNyUFY5T2lDREF4MUNjQW10ZVFWSUc2Yl9QNGd5XzhKWFRNcU1VczJNcmZpYW5xTUdacEhKN245MTZlazRGS194TUwycmdUVnk?oc=5" target="_blank">Armies of lawyers prepare to stop interference in US midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Ukraine to buy military supplies via Nato agency - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPN21NdHZWLVhMUlNXTlRjR0pkVjd0Vmp0UVZwRTlmWTcxN2RPdGstTDNHaWdLRmVHWXFCa3I0RmI3WUlRWjN6XzRyMHF5eUpVeUhDbVVlTElBcDV3YW05THFrY0JBLU81aHpCQnk2OVVBb05POGtfOHpKQ3Y5bU1XazFkU0s?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPN21NdHZWLVhMUlNXTlRjR0pkVjd0Vmp0UVZwRTlmWTcxN2RPdGstTDNHaWdLRmVHWXFCa3I0RmI3WUlRWjN6XzRyMHF5eUpVeUhDbVVlTElBcDV3YW05THFrY0JBLU81aHpCQnk2OVVBb05POGtfOHpKQ3Y5bU1XazFkU0s?oc=5" target="_blank">Ukraine to buy military supplies via Nato agency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## China steps up ‘grey zone’ tactics to isolate Taiwan and punish its allies - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWt0TzJYb293NlYtc1lTcW5nQXptdXlBSVVhQWxwM3NpVmQyZmVVZDlJZDQ0a3AwQWNZbjVkN1lrMTc0ZDByTW9fN3FoM2dHNHNpMDYyUmR5UkZSRkhXUm01ZmRkTWk3VVoycmNkcW12a2E2RnpwRmtiOXJQUTY3dnNFSkg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWt0TzJYb293NlYtc1lTcW5nQXptdXlBSVVhQWxwM3NpVmQyZmVVZDlJZDQ0a3AwQWNZbjVkN1lrMTc0ZDByTW9fN3FoM2dHNHNpMDYyUmR5UkZSRkhXUm01ZmRkTWk3VVoycmNkcW12a2E2RnpwRmtiOXJQUTY3dnNFSkg?oc=5" target="_blank">China steps up ‘grey zone’ tactics to isolate Taiwan and punish its allies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Earthquake of magnitude 7 strikes China's Tibet - Reuters
+## Asian shares wobble as tech rout boosts bonds, dents rate hike bets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5" target="_blank">Earthquake of magnitude 7 strikes China's Tibet</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5" target="_blank">Asian shares wobble as tech rout boosts bonds, dents rate hike bets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US ban on switchblades is unconstitutional, appeals court rules - Reuters
+## Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFM5MXdER0tRRjNfSVE4QXZpNzd1eGxJUWFGSkd5WVhpREx3a2JiZ3VaSVlVUVBkMk14NXpJLWp6Z2wxaEFQalFubDZuTElER0NXa21tMS1kbi14Q2Z1T0ZvYTltakQ4Z0h3Sko3RExtRERHS18wM3BsRWkzQXJCelFWXzd6QkU3RFdVeFZiNzNrX2JPemFvdXVsVUp1NW0tOVY1bkJYVzZPd1JsckR0RUZn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFM5MXdER0tRRjNfSVE4QXZpNzd1eGxJUWFGSkd5WVhpREx3a2JiZ3VaSVlVUVBkMk14NXpJLWp6Z2wxaEFQalFubDZuTElER0NXa21tMS1kbi14Q2Z1T0ZvYTltakQ4Z0h3Sko3RExtRERHS18wM3BsRWkzQXJCelFWXzd6QkU3RFdVeFZiNzNrX2JPemFvdXVsVUp1NW0tOVY1bkJYVzZPd1JsckR0RUZn?oc=5" target="_blank">US ban on switchblades is unconstitutional, appeals court rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5" target="_blank">Microsoft develops AI tool that can diagnose 'sequentially' like a doctor</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Meta's credit risk indicator jumps to record high after results - Reuters
+## Japan's core inflation exceeds BOJ target, cements near-term rate hike chance - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5" target="_blank">Meta's credit risk indicator jumps to record high after results</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5" target="_blank">Japan's core inflation exceeds BOJ target, cements near-term rate hike chance</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic IPO stands alone as AI market jitters sideline others - Reuters
+## Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5" target="_blank">Anthropic IPO stands alone as AI market jitters sideline others</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5" target="_blank">Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms - Reuters
+## Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUFlQnZ3MnRaVmVhX2Y1M1Fxc0JTaXE5cHZqdmhUX2gyWTh0OFBJVW1kTzkxMGJkMlNqa0lkcDhMMUZNNnI1NWltc1NYenhWTG5DRHE2ekRjRUlIM0xFNGJTSjRLQlE1TUZtd1U3bWhCVUxWRENmV1VFWTZHS3FXeUhZczFrcXJIMDdLMkxiQngxWnVSVFVlemRXeGhneXRUWktvLU5INVJuMDdQSmUyQUV0WnJFaHk2SlgtbkRVUkpkZlh4NFNFaGVrLVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5" target="_blank">Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUFlQnZ3MnRaVmVhX2Y1M1Fxc0JTaXE5cHZqdmhUX2gyWTh0OFBJVW1kTzkxMGJkMlNqa0lkcDhMMUZNNnI1NWltc1NYenhWTG5DRHE2ekRjRUlIM0xFNGJTSjRLQlE1TUZtd1U3bWhCVUxWRENmV1VFWTZHS3FXeUhZczFrcXJIMDdLMkxiQngxWnVSVFVlemRXeGhneXRUWktvLU5INVJuMDdQSmUyQUV0WnJFaHk2SlgtbkRVUkpkZlh4NFNFaGVrLVE?oc=5" target="_blank">Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
