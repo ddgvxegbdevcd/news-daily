@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-23 16:49:17
+更新时间：2026-10-24 04:05:14
 
-## GM Shares Eye Worst Week Since 2023 Amid Wider Autos Selloff
+## Singapore Expands Haze Investigation to 10 Locally Based Firms
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025
+链接：https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms
 
 正文长度：0
 
-摘要：General Motors Co. shares are set to record their worst week in more than three years, leading a wider selloff in automotive stocks on Friday. Yet, bullish Wall Street analysts are doubling down on the carmaker.
+摘要：Singapore expanded its investigation into haze-creating fires in Indonesia that have blanketed the city-state in smog, requesting information from 10 locally registered companies.
 
 
 ---
 
-## US Consumer Sentiment Slips to Five-Month Low on Inflation
+## Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-video
+链接：https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast
 
 正文长度：0
 
-摘要：US consumer sentiment edged down to a five-month low in October as high prices and rising interest rates depressed morale. The University of Michigan’s final sentiment index eased to 48 from 48.1 in September, according to the survey released Friday. Even so, that was an improvement from the preliminary reading and topped all estimates in a Bloomberg survey of economists. Joanne Hsu, University of Michigan Surveys of Consumers Director joins to discuss. (Source: Bloomberg)
+摘要：The US has ordered the departure of diplomatic personnel and adjusted staffing at embassies across the Middle East as a result of Iranian efforts to target Americans, as well as threats from Houthi militants in Yemen, according to an American official.
 
 
 ---
 
-## Rehab Centers Whose Founder Was Convicted of Fraud Eye Muni Sale
+## Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-23/rehab-centers-whose-founder-was-convicted-of-fraud-eye-muni-sale
+链接：https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules
 
 正文长度：0
 
-摘要：It’s a level of personal detail rarely seen in typically staid municipal-bond documents: That Kyle Robertson, co-founder of a Florida-based network of drug treatment and mental health centers, was “in the throes of addiction” in 2009.
+摘要：Growth and value shares are set for an overhaul after S&amp;P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles.
 
 
 ---
 
-## Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote
+## Wealth Tax Debate, Midterm Investing, AI Anxiety
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote
+链接：https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video
 
 正文长度：0
 
-摘要：Wall Street strategists who recommended loading up on Brazil assets after Flávio Bolsonaro emerged as the frontrunner for president are about to see if they led clients astray or to profits ahead of Sunday’s too-close-to-call runoff.
+摘要：Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)
 
 
 ---
 
-## French Bond Risk Gauge Rises Another Week as Crisis Deepens
+## Andrew Brandt on MLB Salary Cap Fight as World Series Begins
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens
+链接：https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video
 
 正文长度：0
 
-摘要：French bond markets suffered a historic bout of turbulence this week as political unrest exacerbates concerns over the country’s public finances.
+摘要：Andrew Brandt says the Brewers and Rays reaching the World Series—despite ranking 19th and 26th in payroll, respectively—shows how strong management, scouting and player development can compete with high spending. He calls the matchup evidence for the players’ union that success is possible without a salary cap, while cautioning that owners may dismiss it as an unsustainable exception: smaller-market teams have little margin for error and can lose players to wealthier clubs in free agency. He speaks with Romaine Bostick on "The Close." (Source: Bloomberg)
 
 
 ---
@@ -110,7 +110,7 @@ And Starbucks, for its part, said it would not buy Chipotle after reportedly con
 
 链接：https://www.cnbc.com/2026/10/23/american-express-job-cuts.html
 
-正文长度：2897
+正文长度：2889
 
 摘要：Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.
 
@@ -122,17 +122,17 @@ Amex is eliminating 5% of its global workforce and taking a $336 million restruc
 Chief Financial Officer Christophe Le Caillec told CNBC in an interview that the restructuring was to make American Express "leaner, more agile, and also to prepare for AI."
 "You don't want to automate processes that are not optimally structured," Le Caillec said. "So what we're doing here is to reduce layers and increase spans of controls, so that we can automate and take advantage of AI in the coming quarters and the coming years."
 The Amex announcement reflects a broader trend across financial services, where banks are working to replace repetitive roles with AI automation. On Thursday, Barclays confirmed plans to trim 5,000 jobs — also roughly 5% of its staff — in another tech-driven cost initiative. The moves come even as the sector is enjoying robust profits from growing consumer spending and resilient credit.
-During the analyst call, Squeri said that the charge was to improve the company's efficiency.
+During the analyst call, Squeri said the charge was to improve the company's efficiency.
 "We've got good momentum, but to accelerate innovation and win over the next few years, we needed to become [a] more agile and efficient organization," Squeri said.
 'Run rogue'
 Squeri devoted a 10-minute section of his prepared remarks to his views on AI, focusing mainly on how it will be used to personalize experiences and offers for Amex cardholders.
 While the CEO emphasized the need to meet customers' desires to use AI, including agents, he added that Amex is "not going to let assistants run rogue through our system."
 "We need to protect our customers [and] merchants, and we're only going to allow agents to access our systems that are either approved through API or MCP channels," he said, citing two ways to securely connect outside platforms with Amex systems.
-Amex posted quarterly results that topped Wall Street profit expectations. Adjusted earnings per share were $4.68, topping the $4.48 average estimate of analysts, according to LSEG.
+Amex posted quarterly results that topped Wall Street profit expectations. Adjusted earnings per share were $4.68, beating the $4.48 average estimate of analysts, according to LSEG.
 The company raised its full-year earnings guidance to a range of $18.30 to $18.60 per share, on an unadjusted basis, up from its previous target of $17.30 to $17.90.
 That metric was helped by proceeds from Amex's sale of its stake in Global Business Travel Group, part of which went into the restructuring plan, Le Caillec said.
-Total revenue rose 9% to $20.06 billion, also coming in slightly below Wall Street's $20.12 billion LSEG forecast. Executives attributed part of the spending drag to recent exits from small business co-brand partnerships.
-Shares of the card company fell roughly 3% in morning trading.
+Total revenue rose 9% to $20.06 billion, coming in slightly below Wall Street's $20.12 billion LSEG forecast. Executives attributed part of the spending drag to recent exits from small business co-brand partnerships.
+Shares of the card company fell roughly 4% in afternoon trading.
 
 </details>
 
@@ -264,15 +264,28 @@ The elder Ellison also personally guaranteed more than $40 billion of equity fin
 
 ---
 
-## US pension giant Calpers retreats from Big Tech as AI rally falters - Financial Times
+## Donald Trump to cut Canadian tariffs after pressure from Republicans - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGtBOUExZDJRN0F0TGhmd21XWDF0bW9FVEMzVDFWd3pkMFpEbktheXcwRTVJU2ZyVUNpQ2ZfeVZqQmpmNVVaRGpsalM4ZW5KbEdkRGg5MlZKOHlmT2lNZDVWcHg4MVkzRzgwbTNlOEhMajRTNlNEekxnRkFDUmhUSEo2cW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmIteHZVMmhna3VxTkZLbEhfU2hWRS1xS3hGYXYxVnJwMXVaX3hZNEdHX1RacXpjWDZDRS00Z0lJOTh1eno0eF91SzR3V0ZpZ25YWk5GdGFuOW51NV9uY1NEc2hsYlE2YXM0T3B6RENqdS1kaGFUV0NiNE9FcGF3X0FQNHo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGtBOUExZDJRN0F0TGhmd21XWDF0bW9FVEMzVDFWd3pkMFpEbktheXcwRTVJU2ZyVUNpQ2ZfeVZqQmpmNVVaRGpsalM4ZW5KbEdkRGg5MlZKOHlmT2lNZDVWcHg4MVkzRzgwbTNlOEhMajRTNlNEekxnRkFDUmhUSEo2cW8?oc=5" target="_blank">US pension giant Calpers retreats from Big Tech as AI rally falters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmIteHZVMmhna3VxTkZLbEhfU2hWRS1xS3hGYXYxVnJwMXVaX3hZNEdHX1RacXpjWDZDRS00Z0lJOTh1eno0eF91SzR3V0ZpZ25YWk5GdGFuOW51NV9uY1NEc2hsYlE2YXM0T3B6RENqdS1kaGFUV0NiNE9FcGF3X0FQNHo?oc=5" target="_blank">Donald Trump to cut Canadian tariffs after pressure from Republicans</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US executives quit $25bn gas venture over claims of secret Russian control - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0lZSndwUTJjQUtnTnd2cXBVSWtGUmQtS2RSVi11RkUxc1ZmSzZyMlJOZ3hKbWxGVmZ3VXF0ZVNwbmxYaVJkN3VMT0dzenExMkRyeVpzcV9GckVJSWtjdFN0dUJuX1BSS09VX1E1M2xWWmpXU0RiZTcxeXpDZVVpY3doWGE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0lZSndwUTJjQUtnTnd2cXBVSWtGUmQtS2RSVi11RkUxc1ZmSzZyMlJOZ3hKbWxGVmZ3VXF0ZVNwbmxYaVJkN3VMT0dzenExMkRyeVpzcV9GckVJSWtjdFN0dUJuX1BSS09VX1E1M2xWWmpXU0RiZTcxeXpDZVVpY3doWGE?oc=5" target="_blank">US executives quit $25bn gas venture over claims of secret Russian control</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -290,93 +303,80 @@ The elder Ellison also personally guaranteed more than $40 billion of equity fin
 
 ---
 
-## US is prepared for long stand-off with Iran, says Trump envoy - Financial Times
+## US pension giant Calpers retreats from Big Tech as AI rally falters - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlo4TnUzRGxHdXRrbWFCNDBlZE5yaHFLZ0o5N2N6NUpXUG9rVl96c19meGRuaDE5cXZJOUJHRU1iUXE1Z09ucm9pR0RudGtYVTRGemw3cGxsdDFzOVlHY2N0WUpUNDR3b1RNcWtWNG1QOHBRNjZvMVRoWnRJSGV2M0l2M1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGtBOUExZDJRN0F0TGhmd21XWDF0bW9FVEMzVDFWd3pkMFpEbktheXcwRTVJU2ZyVUNpQ2ZfeVZqQmpmNVVaRGpsalM4ZW5KbEdkRGg5MlZKOHlmT2lNZDVWcHg4MVkzRzgwbTNlOEhMajRTNlNEekxnRkFDUmhUSEo2cW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlo4TnUzRGxHdXRrbWFCNDBlZE5yaHFLZ0o5N2N6NUpXUG9rVl96c19meGRuaDE5cXZJOUJHRU1iUXE1Z09ucm9pR0RudGtYVTRGemw3cGxsdDFzOVlHY2N0WUpUNDR3b1RNcWtWNG1QOHBRNjZvMVRoWnRJSGV2M0l2M1Y?oc=5" target="_blank">US is prepared for long stand-off with Iran, says Trump envoy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGtBOUExZDJRN0F0TGhmd21XWDF0bW9FVEMzVDFWd3pkMFpEbktheXcwRTVJU2ZyVUNpQ2ZfeVZqQmpmNVVaRGpsalM4ZW5KbEdkRGg5MlZKOHlmT2lNZDVWcHg4MVkzRzgwbTNlOEhMajRTNlNEekxnRkFDUmhUSEo2cW8?oc=5" target="_blank">US pension giant Calpers retreats from Big Tech as AI rally falters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm5rRjVsTFkwSUxIM3ZBOGV3eWw0LWJkOTRlMzNNMHFaZ2VOYkgzSlM2Wi1mbVpyWU0wYnF6VlJyNnNxY3RHTm1UNGYydUJxa250RHJzMGZsTkh3eTlVREQtb040bEZ6TWptYVdlVXRfbkg5dURPODRtT0E1bWlaaGhfR2g?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm5rRjVsTFkwSUxIM3ZBOGV3eWw0LWJkOTRlMzNNMHFaZ2VOYkgzSlM2Wi1mbVpyWU0wYnF6VlJyNnNxY3RHTm1UNGYydUJxa250RHJzMGZsTkh3eTlVREQtb040bEZ6TWptYVdlVXRfbkg5dURPODRtT0E1bWlaaGhfR2g?oc=5" target="_blank">Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters
+## EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5" target="_blank">US Justice Dept sues to block possible Alaska election of Democrat to Senate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5" target="_blank">EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters
+## Typhoon Champi sweeps past Taiwan, one dead and 500 injured - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJmMkFiSmcySEVyVEh1aEdiMkZPUm5aVDB2OTRhWndaVFJqZ085MmdHVFFxeXltbE56VUlJZk9OVEt0QWtKUTh3RHp3MWdmWnJGYURBOWdCVWd0MU54VVFNVFZQbGc5Z01sTE80aU1OTTFWNElfVXJRRlZFWldORzJzdC1PckQyZXZ0MHJMVXl0ZnVYN2JhaXU4TkJVMmRrR3lWRWRYX3FZQnRObFpWZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5" target="_blank">Ex-FBI officials charged with lying to Congress about Hunter Biden probes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJmMkFiSmcySEVyVEh1aEdiMkZPUm5aVDB2OTRhWndaVFJqZ085MmdHVFFxeXltbE56VUlJZk9OVEt0QWtKUTh3RHp3MWdmWnJGYURBOWdCVWd0MU54VVFNVFZQbGc5Z01sTE80aU1OTTFWNElfVXJRRlZFWldORzJzdC1PckQyZXZ0MHJMVXl0ZnVYN2JhaXU4TkJVMmRrR3lWRWRYX3FZQnRObFpWZw?oc=5" target="_blank">Typhoon Champi sweeps past Taiwan, one dead and 500 injured</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters
+## Amazon cloud capacity sold out through 2027, CEO Jassy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5" target="_blank">Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5" target="_blank">Amazon cloud capacity sold out through 2027, CEO Jassy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe - Reuters
+## Pentagon designates Confucius Institutes in US a national security threat - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjlqd2hYQ2RCbHlUamZVR3B6YXNIckZLTldSbGZQbGdLeXd2b0RINDhOUVdfZm9TU3BFSGdWcmNKV093WXEwQ3BLSmtOWk5uc05fSnYySnV1VmdJdVhNOHZIU2hQSHRZeEFWWTd6dVJ6N280akV1TkNmZGwxaXBWOTVBNktfbHFRYVhXRm82YXI0QVdxMzdfVk1fZUdKUi1jSlp4X1h4TjRwNzNaTGs2THlkdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5" target="_blank">EXCLUSIVE: Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjlqd2hYQ2RCbHlUamZVR3B6YXNIckZLTldSbGZQbGdLeXd2b0RINDhOUVdfZm9TU3BFSGdWcmNKV093WXEwQ3BLSmtOWk5uc05fSnYySnV1VmdJdVhNOHZIU2hQSHRZeEFWWTd6dVJ6N280akV1TkNmZGwxaXBWOTVBNktfbHFRYVhXRm82YXI0QVdxMzdfVk1fZUdKUi1jSlp4X1h4TjRwNzNaTGs2THlkdw?oc=5" target="_blank">Pentagon designates Confucius Institutes in US a national security threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Meta to delay new commercial terms criticised by publishers, advertisers - Reuters
+## Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjN6ZmpjOEpNU29maVFkbFhndHEtTHlIbVlMU2V5MUdkYlEtVEFSNFNzSHZuRTRROUJfQWlTRE9md09vSHRuLUZxelhUS3VJVUtBRFB4MlRuYmxpS2dJcGdaQ3gwVDM3cnEyTlR0aC0yaG9TXzBZUnZ4RUliNGxKOXczUHFpZmt6VWxkYUQ3M1g3VEFFb18wVkoyb0pOU2RIV09Wc2FoZF9NUG1RMFFuY0MwbGhoQ3lialoydUtNX2oxUG5jOEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjN6ZmpjOEpNU29maVFkbFhndHEtTHlIbVlMU2V5MUdkYlEtVEFSNFNzSHZuRTRROUJfQWlTRE9md09vSHRuLUZxelhUS3VJVUtBRFB4MlRuYmxpS2dJcGdaQ3gwVDM3cnEyTlR0aC0yaG9TXzBZUnZ4RUliNGxKOXczUHFpZmt6VWxkYUQ3M1g3VEFFb18wVkoyb0pOU2RIV09Wc2FoZF9NUG1RMFFuY0MwbGhoQ3lialoydUtNX2oxUG5jOEE?oc=5" target="_blank">Meta to delay new commercial terms criticised by publishers, advertisers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5" target="_blank">Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
