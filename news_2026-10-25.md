@@ -1,68 +1,137 @@
 # 每日财经新闻
 
-更新时间：2026-10-25 04:07:04
+更新时间：2026-10-25 15:52:36
 
-## Brazil Election: Lula Rallies Supporters for One Last Comeback
+## Inside The Two Argentinas Under Javier Milei
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback
+链接：https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video
 
 正文长度：0
 
-摘要：Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of Latin America’s left.
+摘要：President Javier Milei has brought inflation down and opened Argentina to more investment, helping fuel a boom in energy and other export industries. But manufacturing, retail and small businesses are struggling, leaving many Argentines feeling that the recovery is passing them by. One year before the election, Milei’s biggest test may be unifying an increasingly fragmented economy.
+ (Source: Bloomberg)
 
 
 ---
 
-## Singapore Expands Haze Inquiries to 10 Locally Based Firms
+## Zero-Day Option Traders Are Betting Against Big S&P 500 Swings
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms
+链接：https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings
 
 正文长度：0
 
-摘要：Singapore expanded its investigation into haze-creating fires in Indonesia that have blanketed the city-state in smog, requesting information from 10 locally registered companies.
+摘要：While some investors position for AI earnings, geopolitics and interest rates to send stocks either to new highs or into a tailspin, zero-day option traders have increasingly bet that the S&amp;P 500 Index will remain calm.
 
 
 ---
 
-## Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday
+## Halloween Candy Prices Reflect Cocoa’s Wild Ride
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday
+链接：https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video
 
 正文长度：0
 
-摘要：Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels.
+摘要：On Bloomberg This Weekend, Ignacio Canalas Polo explains why chocolate and Halloween candy remain expensive even after cocoa prices retreated from their peaks, pointing to persistent supply pressures in Ivory Coast and Ghana and manufacturers’ efforts to manage costs. Speaking with hosts David Gura and Christina Ruffini, Polo says consumers may see more promotions, but structurally higher cocoa costs and product reformulation mean chocolate prices are unlikely to return quickly to previous levels. (Source: Bloomberg)
 
 
 ---
 
-## Embracing the Bond Market: Masters in Business with Robin Wigglesworth
+## Fed Looks Set to Pause After September Rate Hike
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth
+链接：https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video
 
 正文长度：0
 
-摘要：Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is "a miracle of the modern world," and when we should actually start worrying about US debt. (Source: Bloomberg)
+摘要：On Bloomberg This Weekend, Bloomberg News Federal Reserve reporter Maria Eloisa Capurro previews the Fed’s upcoming rate decision, with policymakers widely expected to pause after September’s first rate increase since 2023 despite inflation remaining above target. Speaking with hosts David Gura and Christina Ruffini, Capurro explains why investors will scrutinize Chair Kevin Warsh’s language for clues about another potential rate increase and his efforts to reshape how the central bank approaches monetary policy. (Source: Bloomberg)
 
 
 ---
 
-## French Protesters Dispersed with Gas as Tensions Rise
+## Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video
+链接：https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says
 
 正文长度：0
 
-摘要：Student protesters in Paris, France were dispersed with gas as conflict escalates.  (Source: Bloomberg)
+摘要：House Speaker Mike Johnson says he has spoken over the weekend to President Donald Trump and Secretary of State Marco Rubio, who told him the US is planning trilateral negotiations.
+
+
+---
+
+## Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html
+
+正文长度：10502
+
+摘要：Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar.
+Still, the company has even more ambitious plans ahead, like a subscription program to let diners run their own "restaurants," an aggressive expansion in Texas and a potential initial public offering.
+Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place." Diners can place takeout or delivery orders from its food hall-style locations on the Wonder-branded app or third-party platforms, including Grubhub, which Wonder now owns.
+As Lore described it to CNBC, "Wonder is a vertically integrated food technology platform to make great food more accessible."
+To achieve its goal, Wonder plans to open locations in urban, suburban and rural areas nationwide and aims to keep prices lower than the cost of delivered groceries. Thanks to its ownership of Grubhub, Wonder customers who order through the startup's app don't have to pay delivery fees, and its menu prices aren't inflated to cover the cost of commission fees to the delivery platform. Plus, Wonder is automating some of its kitchen functions, like assembling salads and bowls and soon sauces and beverages.
+The company aims for food preparation and delivery to be fully autonomous by 2040, Lore said.
+Now, Wonder has to convince diners its platform built on cost savings and choice makes it worth their while in a competitive industry.
+Lore's lofty vision for Wonder has helped the company raise $3.3 billion to date, from investors like DoorDash, Alphabet's venture arm and Gwyneth Paltrow. Its Series D fundraising round earlier this year raised its pre-money valuation to $9 billion — just under sandwich chain Subway's sale price two years ago.
+Wonder's next pitch to investors could be on an IPO road show, assuming that the window for companies across industries to go public reopens in the coming months.
+"[The mission] is really why I want to go public and raise the capital that it'll take to build that kind of generational business, also to have a public currency to be able to do more M&A," Lore said. "But I can't talk about timing."
+Lore's track record
+Lore's expertise lies in e-commerce, not restaurants.
+He helped found the parent company of Diapers.com and sold it in 2010 to Amazon for $545 million. Just six years later, Walmart paid about $3 billion for his follow-up venture, Jet.com. Lore stayed at the retailer until 2021 to accelerate Walmart's e-commerce growth.
+Basketball fans might also recognize Lore as an owner of the Minnesota Timberwolves. In 2021, he and baseball legend Alex Rodriguez agreed to buy the team for $1.5 billion, although the deal was not finalized until 2025. Lore recently struck a deal to shrink his investment to a minority stake "to focus on his business," Rodriguez said in a statement in August, referring to Wonder.
+Lore's latest startup began with the idea of bringing food delivery to consumers' homes through sprinter vans outfitted with mobile kitchens. The trucks lasted roughly two years before Wonder phased them out in favor of brick-and-mortar locations, which could serve more food options and lower costs.
+Lore's successful track record has helped him win over investors for Wonder.
+"I joke around at GV that I do enterprise software investing, AI investing and anything that Marc Lore is running as an active CEO," said Dave Munichiello, managing partner of Alphabet's venture capital arm GV, who has known Lore since his Diapers.com days and invested in Jet.com through GV.
+Lore himself thinks that his vision is the reason for Wonder's billions of dollars of funding.
+"Everybody eats," he said. "It's defensible from AI."
+Wonder has spent more than $1 billion on acquisitions, not including the deals where financial details were not disclosed. Its purchases of Grubhub, delivery and logistics provider Relay, meal-kit provider Blue Apron and buzzy New York restaurant concepts have been expensive.
+But Lore said he sees a "tremendous total addressable market" for Wonder if it's able to sell high-quality food at accessible prices, particularly in exurban and rural areas with few dining options beyond fast food and gas stations.
+Wonder gets bigger in Texas
+From Virginia to Massachusetts, 170 Wonder storefronts have appeared over the last three years. Next year, the company plans to enter Texas for the first time — with a goal of at least 100 locations in the state by the end of 2027.
+Wonder prepares its food at commissary kitchens, then transports it to each individual location, where employees unseal, cook and finish the menu items. Its storefronts are all electric, without gas or venting, so Wonder can quickly move into a new space and cut down on renovations and red tape.
+Its locations serve menu items from more than two dozen "restaurants," including Dabba Indian Kitchen, Tejas Barbecue and Pop Salad. Celebrity chefs including Bobby Flay, Michael Symon and Marcus Samuelsson receive up-front payments and equity in Wonder to let the company use their names for some of those concepts. More recent additions include acquisitions such as Blue Ribbon Fried Chicken and Salt Hank's, brands with established followings.
+With its wide variety of options housed under one roof, Wonder has drawn comparisons to ghost kitchens, the once-buzzy startups without dine-in seating that flamed out as food delivery orders fell after the Covid pandemic. Once considered a potential disruptor to the restaurant industry, ghost kitchen companies such as Kitchen United have sought bankruptcy protection and wound down their operations.
+Lore disagrees with the comparison.
+"You can see there's a front of house [in the] brick and mortar," he said. "You'll see people at lunchtime, sitting there enjoying lunch, so it's not ghost-y in that way. But I think it's also just in the fact that we're vertically integrated."
+Wonder has never marketed itself as a ghost kitchen, instead calling itself "a new kind of food hall" or a "modern food court" before landing on a "vertically integrated food technology platform."
+Starting Nov. 17, the company plans to take the next step with Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own "restaurant" based out of a Wonder location and earn a portion of the revenue from orders. Artificial intelligence will help them make their brand, including name, logo, pricing and recipes.
+"It could be a restaurant for you and your friends, or you could be an influencer that has a following," Lore said.
+He wants Wonder Create to democratize restaurant ownership — minus the capital, overhead costs or oversight of kitchen operations. The platform will eventually be available to the public, with users deciding menu items based on Wonder's pantry.
+Besides Wonder Create, the company is also using AI for another initiative. MEL, a proprietary AI platform, can use a customer's health information, like data from an Oura ring or Whoop tracker or even blood biomarkers, to prepare breakfast, lunch and dinner for its user.
+MEL is not currently available to Wonder customers, although Lore uses AI to advise his own meals, like the chicken muffin he ate for breakfast on a Tuesday in October.
+The quality question
+While Wonder has won over venture capitalists, the battle for diners' stomachs and wallets is tougher.
+Budget-conscious consumers have been dining out less often and becoming pickier when they do so. And while food delivery is still more popular than it was before the pandemic, consumers have pulled back on delivery orders compared with their Covid-era peak. Fees and high menu prices, which offset eateries' commission fees with apps, make delivery even more expensive than dining at a restaurant.
+Plus, some consumers are skeptical about Wonder more specifically. Posts on social media decry the company's food quality and its funding from venture capital.
+"It's OK, but it's just average," Amir Ings, a 27-year-old living in Philadelphia, said in a TikTok reviewing an order of three tacos from Wonder in late 2025. "My expectations were already in the gutter — it's not as bad as I thought it was going to be, but it's still not great. And I paid like $16 for this, but it should have been no more than $8."
+Lore told CNBC that Wonder receives thousands of reviews every day from customers, rating the taste, temperature and portion size of their orders on a scale from 1 to 10. Wonder starts its board meetings by talking about taste scores, Munichiello said.
+"We're maniacally focused on food quality .... We're constantly iterating on the meals that score lower, and see over time, the last 12 months, our taste scores have improved, our Google reviews have improved," Lore said. "I do expect food quality to improve as we scale, which is not always the case."
+Despite lackluster reviews on social media, Wonder has fans. Based on transaction data from Indagari, Wonder had a higher weighted average retention rate — how likely a diner is to return — and higher lifetime value — how much a customer has spent over time — than Cava and Sweetgreen.
+Plus, Wonder has succeeded with locations in the most competitive markets for restaurants in the country.
+"They made this company work well in the hardest place in the country to stand up this model: New York," Munichiello said. "You have so much choice in New York."
+Ultimately, Wonder wants to win over the rest of the U.S. — and public market investors.
+In March, the company hired Gabrielle Scheibe Rabinovitch, previously at payment processor Worldpay, as its chief financial officer as it prepares to go public.
+Lore declined to comment on the timing of a potential IPO to CNBC, although he has previously told Fortune that the company will be "ready and prepared to go public early next year."
+Since buying Blue Apron and Grubhub, Wonder has been operating at a financial loss, The Information previously reported. It plans to bring down the price of its meals by leaning into automation and drone delivery. In the long term, that plan could cut costs, although laying the groundwork won't be cheap.
+In recent years, investors have grown less tolerant of startups pursuing growth at all costs, according to Avery Marquez, director of investment strategies at Renaissance Capital. To sway investors, unprofitable companies have to show they are taking steps toward profitability — or that the growth will continue long after the IPO.
+
+</details>
 
 
 ---
@@ -251,174 +320,132 @@ Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durab
 
 ---
 
-## Moderna shares plunge after cancer vaccine data leaks — despite positive results
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html
-
-正文长度：4694
-
-摘要：Moderna released full data on its closely watched cancer vaccine developed with Merck.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Moderna shares dropped as much as 25% on Thursday following the leak of partial data on its closely watched cancer vaccine developed with Merck.
-Shares of both drugmakers fell even though the data, released in full later Thursday following the leak, appeared meaningful for patients and positive relative to Wall Street expectations.
-The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanoma patients by 42% compared with Keytruda alone.
-The data also showed that the shot along with Keytruda reduced the risk of cancer spreading to distant parts of the body or death by 38%, compared with just the immunotherapy.
-The companies said about 82% of patients who received the personalized cancer vaccine alongside Keytruda were alive without their melanoma returning at two years after receiving the shot, compared with 70% of those who received Keytruda alone.
-"This is a huge development for our patients," said Dr. Hussein Tawbi, a melanoma expert and trial investigator at the University of Texas MD Anderson Cancer Center, about the results.
-He said that the added benefit of the vaccine also comes with much milder toxicity, or side effects like injection-site pain, compared to other cancer treatments.
-The detailed phase 3 trial results were set to be presented at the European Society for Medical Oncology conference this weekend.
-"Whenever you put a therapy on top of something that works really well, like Keytruda, sometimes it's harder to show additional benefit. We have no problems of showing additional benefit here," Dr. Dean Li, Merck Research Laboratories president, said in an interview ahead of the results.
-The benefit appeared even larger after the six-month vaccine regimen, with a separate analysis showing a 58% reduction in risk of recurrence or death. The companies say it is still too early to determine whether the treatment helps patients live longer overall.
-Several analysts acknowledged investors' elevated expectations ahead of the release, but noted that the data is overall positive.
-"We assert this relative reduction in recurrence/death is clinically meaningful," BMO Capital Markets analyst Evan Seigerman said in a research note on Thursday following the leak. "Such a [stock] reaction likely reflects inflated expectations into the full data release, rather than a true indictment on the efficacy of the combo therapy."
-Oncologists and investors see the targeted vaccine as a possible breakthrough treatment, with the potential to be used to treat other forms of cancer in the future. Merck and Moderna are studying the vaccine in several trials across other tumors, such as non-small cell lung cancer, bladder cancer and renal cell carcinoma.
-But Li acknowledged the companies have more work to show the product can be effective across tumor types.
-"I can dream of creating a log cabin, but we got some wood chops, and we've just knocked down one tree," Li said. "Knocking one tree does not give you a cabin or a village."
-For now, the vaccine is not far from potentially entering the market for the first time and reaching melanoma patients. In an interview ahead of the results, Moderna CEO Stéphane Bancel said the company is finishing a filing with regulators to get the drug fully approved next year.
-"It's a very, very happy moment for the field, for patients," he said.
-The shot is designed to target the specific mutations in each patient's tumor rather than using a one-size-fits-all approach. The idea is to train the immune system to recognize and kill those unique cancer markers and then pair that response with Keytruda, which helps the body attack the cancer more effectively.
-It could also offer Moderna a critical additional commercial product in its pipeline, following vaccines for Covid-19, the flu and respiratory syncytial virus.
-In a research note Thursday, UBS analysts said "this is overall a strong data set" and gives more confidence in upcoming studies of the vaccine in kidney and bladder cancers. They added the stock reaction may be due more to massive expectations than disappointing data.
-Against the backdrop of those high expectations, Moderna shares have spiked more than 530% year-to-date as of Thursday afternoon.
-Shares of Merck, a much larger drugmaker, fell by about 1% on Thursday. The company's stock has climbed nearly 41% this year.
-Since the vaccine is personalized, the complicated manufacturing process can take six weeks. But Merck CEO Robert Davis told CNBC last week that the company believes it can shorten that timeline in the future, potentially allowing the shot to reach more patients more quickly.
-
-</details>
-
-
----
-
-## The Putin whisperers - Financial Times
+## US voters worried about corruption under Trump — FT poll - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2dQZEU2bC1lS2ZZaWRSS3RIems0dll5VlVRWExQUU5kX0U5eXhhUDdOMVFENldHR0E0aDByQkFsMVJnTU1kMmpjMHpDMUtlQVpqRE95UE5KQlpuLUcwLU9nSThpQjVHdmlzQ1Z4UG03TjVTN0Z5SlYyUWtXWjl2Skt6Nmo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5" target="_blank">The Putin whisperers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2dQZEU2bC1lS2ZZaWRSS3RIems0dll5VlVRWExQUU5kX0U5eXhhUDdOMVFENldHR0E0aDByQkFsMVJnTU1kMmpjMHpDMUtlQVpqRE95UE5KQlpuLUcwLU9nSThpQjVHdmlzQ1Z4UG03TjVTN0Z5SlYyUWtXWjl2Skt6Nmo?oc=5" target="_blank">US voters worried about corruption under Trump — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Tucker Carlson: ‘I so overstated my power it was embarrassing’ - Financial Times
+## Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzFDaTBNdHMxc3FralBPSVd4d2UySXViY01KbkJiWDZlcjZBcEdEVHU2eFZnZXlWTW1IbEphZDNyYnhPSmtkVG9WemZhTERKamx5Ty04emRCN2tCTUtPZDBYYk5UeFhDTGR0WVpMRm04bEhLcktNMEZJcVZqNXR6QmI3OTk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzFDaTBNdHMxc3FralBPSVd4d2UySXViY01KbkJiWDZlcjZBcEdEVHU2eFZnZXlWTW1IbEphZDNyYnhPSmtkVG9WemZhTERKamx5Ty04emRCN2tCTUtPZDBYYk5UeFhDTGR0WVpMRm04bEhLcktNMEZJcVZqNXR6QmI3OTk?oc=5" target="_blank">Tucker Carlson: ‘I so overstated my power it was embarrassing’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI?oc=5" target="_blank">Luxury groups’ value drops by €250bn as Chinese consumer demand fades</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## SoftBank-backed drone maker wants every farmer to ‘have their own robot’ - Financial Times
+## Airbus to hold talks with BAE over role in GCAP fighter jet programme - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1o5bE9SVDF2SGliZm10dTl4RFJNMnczSDU1SFVGalJlRDZXcFd4YXRTUHlQbDZxeGNXZXh0SEdGa19BWWFnQU5WTkZmaFk3T2paVHY0LWRSelNlT0JwdGYxLXA1ZXBwOUVGdFZ3R0xyTlVCYVBfeFBiNWljY1NmWFAxOHA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzkwYVZrc0xUd3B1SjRkSHRXT3pVZnVQSERFRklQTjVMbEFpcUdnYXZTYUVxWmE0Q1ZGeDRTakRRSkJDcE5GeHR2N3RMckxmeU5PSDVCVDdsSmpWeEJUTXdwcFczUHk3OEhDMVFwS3Y0ZjI0X19nUFBrV1Zyb21FazZ3dXk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1o5bE9SVDF2SGliZm10dTl4RFJNMnczSDU1SFVGalJlRDZXcFd4YXRTUHlQbDZxeGNXZXh0SEdGa19BWWFnQU5WTkZmaFk3T2paVHY0LWRSelNlT0JwdGYxLXA1ZXBwOUVGdFZ3R0xyTlVCYVBfeFBiNWljY1NmWFAxOHA?oc=5" target="_blank">SoftBank-backed drone maker wants every farmer to ‘have their own robot’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzkwYVZrc0xUd3B1SjRkSHRXT3pVZnVQSERFRklQTjVMbEFpcUdnYXZTYUVxWmE0Q1ZGeDRTakRRSkJDcE5GeHR2N3RMckxmeU5PSDVCVDdsSmpWeEJUTXdwcFczUHk3OEhDMVFwS3Y0ZjI0X19nUFBrV1Zyb21FazZ3dXk?oc=5" target="_blank">Airbus to hold talks with BAE over role in GCAP fighter jet programme</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US executives quit $25bn gas venture over claims of secret Russian control - Financial Times
+## Measles surge exposes Republicans’ vulnerability on vaccines - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0lZSndwUTJjQUtnTnd2cXBVSWtGUmQtS2RSVi11RkUxc1ZmSzZyMlJOZ3hKbWxGVmZ3VXF0ZVNwbmxYaVJkN3VMT0dzenExMkRyeVpzcV9GckVJSWtjdFN0dUJuX1BSS09VX1E1M2xWWmpXU0RiZTcxeXpDZVVpY3doWGE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0lZSndwUTJjQUtnTnd2cXBVSWtGUmQtS2RSVi11RkUxc1ZmSzZyMlJOZ3hKbWxGVmZ3VXF0ZVNwbmxYaVJkN3VMT0dzenExMkRyeVpzcV9GckVJSWtjdFN0dUJuX1BSS09VX1E1M2xWWmpXU0RiZTcxeXpDZVVpY3doWGE?oc=5" target="_blank">US executives quit $25bn gas venture over claims of secret Russian control</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5" target="_blank">Measles surge exposes Republicans’ vulnerability on vaccines</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## France is looking ungovernable. And it’s going to get worse - Financial Times
+## Students fear AI is about to ruin their future - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNjZNY2VmaFZnd0dlc3NHSXJGVDVjdERyTEN5d2swSWJ0QXdTMTFDR1hkWVZ4QlBnODRvWjBqTHBfQmQtR3Y5VlBRbTFsbU9SWEdEX29ZQjlhS21TTzdSTnN4cVd2VjFRTExhSUUtaXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNjZNY2VmaFZnd0dlc3NHSXJGVDVjdERyTEN5d2swSWJ0QXdTMTFDR1hkWVZ4QlBnODRvWjBqTHBfQmQtR3Y5VlBRbTFsbU9SWEdEX29ZQjlhS21TTzdSTnN4cVd2VjFRTExhSUUtaXQ?oc=5" target="_blank">France is looking ungovernable. And it’s going to get worse</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU?oc=5" target="_blank">Students fear AI is about to ruin their future</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Obama unloads on Trump while stumping for Democrats ahead of midterms - Reuters
+## French protest groups demand more rallies as Macron faces tough choices - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5" target="_blank">Obama unloads on Trump while stumping for Democrats ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5" target="_blank">French protest groups demand more rallies as Macron faces tough choices</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yemen's Houthis renew warning against using Riyadh airport - Reuters
+## Paris NFL game set to kick off in calm atmosphere after fresh demonstrations - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5" target="_blank">Yemen's Houthis renew warning against using Riyadh airport</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5" target="_blank">Paris NFL game set to kick off in calm atmosphere after fresh demonstrations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Sydney's new international airport opens to passengers - Reuters
+## Conservative party wins first election in nearly a century in British Columbia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHhCM1BKZmZMYUt0TUx3V01rR3czUm5CMUNRNlZNT09oaUxOd0ItWEFZSlhlN3RoeG5aQWcyZElRdEs2cHRMZlpwT1dKRWEwdDBSa2t0bndDakI2TktMRkpkSEVLRGdHdmpFYnZieW51MFM1THF5SWlURC05NVkwWUtiVHRrTlBQQzBqY1loVkdZeFJjRHNtajFUZXRrN2hDRmVxZk12dERMU191NTBjNEFEUVR1OUdIT3hLQmcyNWo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5" target="_blank">Sydney's new international airport opens to passengers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHhCM1BKZmZMYUt0TUx3V01rR3czUm5CMUNRNlZNT09oaUxOd0ItWEFZSlhlN3RoeG5aQWcyZElRdEs2cHRMZlpwT1dKRWEwdDBSa2t0bndDakI2TktMRkpkSEVLRGdHdmpFYnZieW51MFM1THF5SWlURC05NVkwWUtiVHRrTlBQQzBqY1loVkdZeFJjRHNtajFUZXRrN2hDRmVxZk12dERMU191NTBjNEFEUVR1OUdIT3hLQmcyNWo?oc=5" target="_blank">Conservative party wins first election in nearly a century in British Columbia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters
+## Four ways US foreign policy could change if Democrats win in November - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5" target="_blank">Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5" target="_blank">Four ways US foreign policy could change if Democrats win in November</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters
+## Serbia election: Main players, voter concerns and what is at stake - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5" target="_blank">Arrests in Barcelona after 'anti-system' rioters loot shops, set fires</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5" target="_blank">Serbia election: Main players, voter concerns and what is at stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
