@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-24 15:41:38
+更新时间：2026-10-25 04:07:04
 
-## ‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly
+## Brazil Election: Lula Rallies Supporters for One Last Comeback
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly
+链接：https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback
 
 正文长度：0
 
-摘要：It was a panicked message from a colleague that woke fund manager Ivelina Green at 5 a.m. on Thursday morning in New York: “Total meltdown.”
+摘要：Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of Latin America’s left.
 
 
 ---
 
-## Metals Traders Reap Bonanza With Another Year of Record Profits
+## Singapore Expands Haze Inquiries to 10 Locally Based Firms
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits
+链接：https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms
 
 正文长度：0
 
-摘要：Metals traders are earning billions of dollars in a second consecutive blowout year for the sector, with several top trading houses notching up record profits.
+摘要：Singapore expanded its investigation into haze-creating fires in Indonesia that have blanketed the city-state in smog, requesting information from 10 locally registered companies.
 
 
 ---
 
-## The Real Medical Detective Who Inspired Sherlock Holmes
+## Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-24/the-real-medical-detective-who-inspired-sherlock-holmes-video
+链接：https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday
 
 正文长度：0
 
-摘要：Medical historian Lindsey Fitzharris tells Bloomberg This Weekend how Scottish surgeon Joseph Bell’s remarkable powers of observation inspired his student Arthur Conan Doyle to create Sherlock Holmes. Speaking with hosts Christina Ruffini and Lisa Mateo, Fitzharris discusses her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes, and Bell’s largely forgotten work applying his diagnostic skills to real criminal investigations. (Source: Bloomberg)
+摘要：Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels.
 
 
 ---
 
-## Venezuela to Restart a Crucial Power Plant With China’s Help
+## Embracing the Bond Market: Masters in Business with Robin Wigglesworth
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/venezuela-to-restart-a-crucial-power-plant-with-china-s-help
+链接：https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth
 
 正文长度：0
 
-摘要：A Chinese engineering company is on the cusp of partially restarting a massive Venezuelan power plant that’s been largely idle for years, a crucial step toward fixing the nation’s dilapidated grid.
+摘要：Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is "a miracle of the modern world," and when we should actually start worrying about US debt. (Source: Bloomberg)
 
 
 ---
 
-## Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA
+## French Protesters Dispersed with Gas as Tensions Rise
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla
+链接：https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video
 
 正文长度：0
 
-摘要：Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier and services provider JLA Group from buyout firm Cinven, according to people with knowledge of the matter.
+摘要：Student protesters in Paris, France were dispersed with gas as conflict escalates.  (Source: Bloomberg)
 
 
 ---
@@ -204,7 +204,7 @@ Shares of the card company fell roughly 4% in afternoon trading.
 
 链接：https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html
 
-正文长度：4543
+正文长度：6126
 
 摘要：Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.
 
@@ -212,30 +212,39 @@ Shares of the card company fell roughly 4% in afternoon trading.
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
 > Fewer people are flying this year, but with airfare this high and climbing, airline executives say that's just fine.
-The number of people screened at U.S. checkpoints is on track for its first annual decline since 2020. Major U.S. carriers have said capturing higher fares is more important than fully filling their planes or flying record numbers of travelers.
+At the New York Hilton in Midtown Manhattan on Friday night, the aviation industry held its annual Wings Club gala, honoring Ed Bastian, CEO of profit-leader Delta Air Lines.
+North American airline CEOs and other executives at the black-tie bash told CNBC that demand trends aren't worrying them, but persistently high, profit-crimping fuel prices are.
+The number of people screened at U.S. checkpoints is on track for its first annual decline since 2020. Major U.S. carriers have said capturing higher fares matters more than fully filling planes or flying record numbers of travelers.
 "We're actively prioritizing yield versus load factor and really happy as we see it. It fits right in with the premium investments that we're making," American Airlines Chief Commercial Officer Nat Pieper said on the company's earnings call Thursday.
 American's load factor, a gauge of how full planes are flying, fell to 83.4% in the third quarter from 86% in the same quarter of 2025.
 Fares keep climbing
-The price of plane tickets has skyrocketed as airlines grapple with a spike in jet fuel prices, their biggest expense after labor, and pass more of those costs on to customers.
+Plane ticket prices have skyrocketed as airlines grapple with a spike in jet fuel prices, their biggest expense after labor, and pass more of those costs on to customers.
 Fares in September were up more than 22% from a year earlier, according to the latest inflation read. Fare tracker Hopper said it expects this holiday season to come with the most expensive ticket prices in years.
 The average Southwest Airlines fare in the third quarter, for example, was $231.69, up close to $50 from a year earlier. That doesn't include Southwest's new fees, like its extra charges for checked bags or a seat closer to the front of the plane.
-The airline's count of revenue passengers, however, fell 3.2% from a year ago, to about 33.5 million people.
+The airline's revenue passenger count, however, fell 3.2% from a year ago to about 33.5 million people.
 Still, both fares and the passenger counts exceeded Southwest's expectations.
 "Passenger fares came in about $3 above what our forecast was and the more important thing is that passenger volumes also exceeded our expectations," Southwest CEO Bob Jordan said on an earnings call Thursday.
-Since April — when airlines began warning in earnest about profits taking a hit from the spike in jet fuel — through Thursday, about 9.3 million fewer people were screened at airport checkpoints compared with the same period of 2025, according to the Transportation Security Administration. While that's down less than 2% from last year, it follows years of growth.
-With jet fuel prices more than double year-ago levels — as seen in U.S. Gulf Coast spot prices going for $4.63 a gallon, according to the U.S. Energy Information Administration — airlines have been focused on recovering as much of the fuel spike as possible.
-Even despite some drops, airline executives said during their earnings calls that travel demand overall is robust, especially for profitable premium cabins like business class.
-And not every carrier is seeing a decline. United Airlines flew 2.4% more passengers in the third quarter than it did a year ago, and said its unit revenue rose by 16%, the biggest increase since the pandemic.
+Since April — when airlines began warning in earnest about profits taking a hit from the spike in jet fuel — through Thursday, about 9.3 million fewer people were screened at airport checkpoints than in the same period of 2025, according to the Transportation Security Administration. That's down less than 2% from last year, but it follows years of growth.
+With jet fuel prices more than double year-ago levels — as seen in U.S. Gulf Coast spot prices at $4.63 a gallon, according to the U.S. Energy Information Administration — airlines have focused on recovering as much of the fuel spike as possible.
+Despite some drops, airline executives said during their earnings calls that overall travel demand is robust, especially for profitable premium cabins like business class.
+And not every carrier is seeing a decline. United Airlines flew 2.4% more passengers in the third quarter than a year ago and said its unit revenue rose 16%, the biggest increase since the pandemic.
 "I've been pleasantly surprised at the industry's ability this year to raise yields and pass through much of the increase in fuel prices," CEO Scott Kirby said on the company's earnings call Wednesday. "So it's possible that airlines will continue to focus on yields at the expense of load factor and that alone could get us to double-digit margins next year."
 Profit hit
-Most airlines are anticipating that fuel costs will continue to bite, but executives say they're confident in their pricing power.
-United, for example, said it expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.
-American, United, Delta Air Lines and Southwest all cut their profit forecasts for 2026 this month when they reported earnings. American is the only one of the four that expects to post a loss this year.
-American and others have also reduced growth plans or warned the industry could dial back on its goals for expanding capacity, which could keep fares elevated. Reduced capacity can make bookable seats scarcer, driving up prices even more if demand holds.
+Most airlines expect fuel costs to keep biting, but executives say they're confident in their pricing power.
+United, for example, said it expects to pay an average of $4.80 per gallon for fuel in the fourth quarter, up from $3.90 per gallon in the third.
+American, United, Delta and Southwest all cut their 2026 profit forecasts this month when they reported earnings. American is the only one of the four that expects to post a loss this year.
+American and others have also reduced growth plans or warned the industry could dial back its capacity expansion goals, which could keep fares elevated. Reduced capacity can make bookable seats scarcer, driving up prices even more if demand holds.
 The carriers said demand has been particularly strong for premium seats, which command hundreds, if not thousands of dollars, more than coach tickets.
-Smaller airlines set to report results in the coming weeks, including Frontier Airlines and Allegiant Air, have traditionally focused on more price-sensitive customers, which could show if those travelers are pulling back at all.
+"Today, we find ourselves yet at another inflection point for our industry and the world. ... Geopolitics affecting our business, driving the price of jet fuel to historic highs," Bastian said in his award-acceptance speech, adding that artificial intelligence makes it hard to predict months or weeks ahead.
+"It causes many people to question yet again the durability of our industry. But I'm not worried because I know the people in this room, and I know your resilience and how you've demonstrated that time and time again," he said.
+Smaller airlines set to report results in the coming weeks, starting with JetBlue Airways next week, followed by Frontier Airlines and Allegiant Air, have traditionally focused on more price-sensitive customers, which could show if those travelers are pulling back at all.
 One factor that could also affect air travel is the demise of Spirit Airlines, which went out of business in early May.
 "Some of its customers have likely stopped flying," Bank of America said in a research note Thursday.
+More jets, engine hangover
+Many of the problems that plagued the airline industry for years are starting to abate.
+In some cases, aircraft deliveries are still years behind schedule. But Boeing, whose CEO, Kelly Ortberg, attended on Friday night, and its main rival, Airbus, have ramped up production. Boeing will update investors on its production outlook when it reports quarterly results Tuesday.
+The Federal Aviation Administration has approved Boeing's Max 7, a key smaller jet for Southwest Airlines, and the Max 10, which Alaska Airlines and United Airlines have been waiting for for years.
+Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durability and shop visit turnaround time, though customers say more improvements are needed.
 
 </details>
 
@@ -284,6 +293,19 @@ Since the vaccine is personalized, the complicated manufacturing process can tak
 
 ---
 
+## The Putin whisperers - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5" target="_blank">The Putin whisperers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Tucker Carlson: ‘I so overstated my power it was embarrassing’ - Financial Times
 
 来源：金融时报
@@ -293,6 +315,19 @@ Since the vaccine is personalized, the complicated manufacturing process can tak
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzFDaTBNdHMxc3FralBPSVd4d2UySXViY01KbkJiWDZlcjZBcEdEVHU2eFZnZXlWTW1IbEphZDNyYnhPSmtkVG9WemZhTERKamx5Ty04emRCN2tCTUtPZDBYYk5UeFhDTGR0WVpMRm04bEhLcktNMEZJcVZqNXR6QmI3OTk?oc=5" target="_blank">Tucker Carlson: ‘I so overstated my power it was embarrassing’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## SoftBank-backed drone maker wants every farmer to ‘have their own robot’ - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1o5bE9SVDF2SGliZm10dTl4RFJNMnczSDU1SFVGalJlRDZXcFd4YXRTUHlQbDZxeGNXZXh0SEdGa19BWWFnQU5WTkZmaFk3T2paVHY0LWRSelNlT0JwdGYxLXA1ZXBwOUVGdFZ3R0xyTlVCYVBfeFBiNWljY1NmWFAxOHA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1o5bE9SVDF2SGliZm10dTl4RFJNMnczSDU1SFVGalJlRDZXcFd4YXRTUHlQbDZxeGNXZXh0SEdGa19BWWFnQU5WTkZmaFk3T2paVHY0LWRSelNlT0JwdGYxLXA1ZXBwOUVGdFZ3R0xyTlVCYVBfeFBiNWljY1NmWFAxOHA?oc=5" target="_blank">SoftBank-backed drone maker wants every farmer to ‘have their own robot’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -310,19 +345,6 @@ Since the vaccine is personalized, the complicated manufacturing process can tak
 
 ---
 
-## The Putin whisperers - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5" target="_blank">The Putin whisperers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
 ## France is looking ungovernable. And it’s going to get worse - Financial Times
 
 来源：金融时报
@@ -336,80 +358,67 @@ Since the vaccine is personalized, the complicated manufacturing process can tak
 
 ---
 
-## Donald Trump moves to block certification of Alaska Senate result if Republican loses - Financial Times
+## Obama unloads on Trump while stumping for Democrats ahead of midterms - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVoyVE9tOEFDbEM2cWtfZnhJbXU0Z0Y2MDgzamliVjBuUThEdld2ZmVOdGhxNnRmcWVaZ0Fyd0YwTzNEN2ZJcWVHRy1ZYlJiSnM2bTBMSzVlMTlnbi1NTTdyYUlPZnJLZzdnNXNpM25oY1FibFJrX0NrdlAtZzZiQjY5N08?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVoyVE9tOEFDbEM2cWtfZnhJbXU0Z0Y2MDgzamliVjBuUThEdld2ZmVOdGhxNnRmcWVaZ0Fyd0YwTzNEN2ZJcWVHRy1ZYlJiSnM2bTBMSzVlMTlnbi1NTTdyYUlPZnJLZzdnNXNpM25oY1FibFJrX0NrdlAtZzZiQjY5N08?oc=5" target="_blank">Donald Trump moves to block certification of Alaska Senate result if Republican loses</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5" target="_blank">Obama unloads on Trump while stumping for Democrats ahead of midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he may move White House press corps - Reuters
+## Yemen's Houthis renew warning against using Riyadh airport - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5" target="_blank">Trump says he may move White House press corps</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5" target="_blank">Yemen's Houthis renew warning against using Riyadh airport</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Mona Lisa off limits as Paris shuts museums over protest fears - Reuters
+## Sydney's new international airport opens to passengers - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3FhcVl2aEg5V3RIY2g0b0NzRERobHc4YnM2NlVPQWdPNUp0VDc5dEVEbTBOUVBKZ1FUZXpyaVplZ05YZ2RxV2ZnUm8xN3NGVWVoQ0pBVGxOVWhtSV9jNi0wYldpaFJ5Ml92TlVPcHduTHRZY3pva3FrV3NXQXJNWWZnbHBpNTlBcjZOaU04Y21pZkRfUXVLX2tXTFBaMnJkcUtwcnNkbm91eTJS?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3FhcVl2aEg5V3RIY2g0b0NzRERobHc4YnM2NlVPQWdPNUp0VDc5dEVEbTBOUVBKZ1FUZXpyaVplZ05YZ2RxV2ZnUm8xN3NGVWVoQ0pBVGxOVWhtSV9jNi0wYldpaFJ5Ml92TlVPcHduTHRZY3pva3FrV3NXQXJNWWZnbHBpNTlBcjZOaU04Y21pZkRfUXVLX2tXTFBaMnJkcUtwcnNkbm91eTJS?oc=5" target="_blank">Mona Lisa off limits as Paris shuts museums over protest fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5" target="_blank">Sydney's new international airport opens to passengers</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters
+## Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5" target="_blank">Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5" target="_blank">Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Merz calls for unity as he warns of threats facing Germany - Reuters
+## Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxOemdaUDVBWVFrZFk3aHI5S0tNdHFIeDdocS0yVmw1bXJPMzR0d0s4XzdnWWpSM1hQVFowd1NOS1RZLVB0YzdHRVhCRU1Uc0JLSHJRekJCelphbnRXYWJaNGw4R19OUnhVRjFvTkNIRUFQUi1LTFNsOWM2SXpNZXNkYmR1WlFBZTdQU0RFT0NINUhtQnhB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOemdaUDVBWVFrZFk3aHI5S0tNdHFIeDdocS0yVmw1bXJPMzR0d0s4XzdnWWpSM1hQVFowd1NOS1RZLVB0YzdHRVhCRU1Uc0JLSHJRekJCelphbnRXYWJaNGw4R19OUnhVRjFvTkNIRUFQUi1LTFNsOWM2SXpNZXNkYmR1WlFBZTdQU0RFT0NINUhtQnhB?oc=5" target="_blank">Merz calls for unity as he warns of threats facing Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Jordan church attack survivor says assailant pointed handgun at him - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5" target="_blank">Jordan church attack survivor says assailant pointed handgun at him</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5" target="_blank">Arrests in Barcelona after 'anti-system' rioters loot shops, set fires</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
