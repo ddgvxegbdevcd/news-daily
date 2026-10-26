@@ -1,69 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-25 15:52:36
+更新时间：2026-10-26 04:10:58
 
-## Inside The Two Argentinas Under Javier Milei
+## Morgan Stanley Sees Further China Stock Downside Before Bottom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video
+链接：https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom
 
 正文长度：0
 
-摘要：President Javier Milei has brought inflation down and opened Argentina to more investment, helping fuel a boom in energy and other export industries. But manufacturing, retail and small businesses are struggling, leaving many Argentines feeling that the recovery is passing them by. One year before the election, Milei’s biggest test may be unifying an increasingly fragmented economy.
- (Source: Bloomberg)
+摘要：Chinese stocks are poised for further losses before valuations bottom, according to Morgan Stanley, as weak macroeconomic and consumption momentum continues to weigh on sentiment.
 
 
 ---
 
-## Zero-Day Option Traders Are Betting Against Big S&P 500 Swings
+## AI Trade Falters in Runup to Earnings, Oil Drops: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings
+链接：https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap
 
 正文长度：0
 
-摘要：While some investors position for AI earnings, geopolitics and interest rates to send stocks either to new highs or into a tailspin, zero-day option traders have increasingly bet that the S&amp;P 500 Index will remain calm.
+摘要：The artificial intelligence trade took another hit as investors braced for more earnings from megacap tech companies that will offer clues on whether the recent pullback in technology shares has further to run. Oil declined and Treasuries rose.
 
 
 ---
 
-## Halloween Candy Prices Reflect Cocoa’s Wild Ride
+## EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video
+链接：https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, Ignacio Canalas Polo explains why chocolate and Halloween candy remain expensive even after cocoa prices retreated from their peaks, pointing to persistent supply pressures in Ivory Coast and Ghana and manufacturers’ efforts to manage costs. Speaking with hosts David Gura and Christina Ruffini, Polo says consumers may see more promotions, but structurally higher cocoa costs and product reformulation mean chocolate prices are unlikely to return quickly to previous levels. (Source: Bloomberg)
+摘要：Emerging-market stocks started the week lower as investors awaited earnings from some of the world’s biggest technology companies for clues on whether the artificial intelligence trade can recover from a bruising selloff.
 
 
 ---
 
-## Fed Looks Set to Pause After September Rate Hike
+## Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video
+链接：https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, Bloomberg News Federal Reserve reporter Maria Eloisa Capurro previews the Fed’s upcoming rate decision, with policymakers widely expected to pause after September’s first rate increase since 2023 despite inflation remaining above target. Speaking with hosts David Gura and Christina Ruffini, Capurro explains why investors will scrutinize Chair Kevin Warsh’s language for clues about another potential rate increase and his efforts to reshape how the central bank approaches monetary policy. (Source: Bloomberg)
+摘要：Copper extended last week’s drop as artificial intelligence stocks came under further pressure, sapping risk appetite ahead of the Federal Reserve’s policy meeting.
 
 
 ---
 
-## Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says
+## Soybeans Hit 2-Month Low as Lula’s Win Lifts China Trade Outlook
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says
+链接：https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook
 
 正文长度：0
 
-摘要：House Speaker Mike Johnson says he has spoken over the weekend to President Donald Trump and Secretary of State Marco Rubio, who told him the US is planning trilateral negotiations.
+摘要：Chicago soybean futures fell to a two-month low after Lula’s presidential win in Brazil raised expectations of closer ties with China, potentially eroding the US share of the world’s biggest soybean import market.
 
 
 ---
@@ -320,6 +319,32 @@ Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durab
 
 ---
 
+## Bon Secours nears $6bn takeover of Bain-backed Surgery Partners - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5" target="_blank">Bon Secours nears $6bn takeover of Bain-backed Surgery Partners</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Lula is re-elected Brazil’s president in knife-edge vote - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0VXRmpoS1BpTDJMcmQtV1J5TFM1bUh2MDBleHRyTndZNTRBVFRoOXkzYlNGRXlBVVpVNmhyT21pbGk5ejB3aVBYTnA2SEY2SVhrdnk2dTZnTjJBMjFuTnVkRTFIcDl2V0xzOE0xaENOQzc1VTR2dzlWV21jN1dWTjZEZzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0VXRmpoS1BpTDJMcmQtV1J5TFM1bUh2MDBleHRyTndZNTRBVFRoOXkzYlNGRXlBVVpVNmhyT21pbGk5ejB3aVBYTnA2SEY2SVhrdnk2dTZnTjJBMjFuTnVkRTFIcDl2V0xzOE0xaENOQzc1VTR2dzlWV21jN1dWTjZEZzQ?oc=5" target="_blank">Lula is re-elected Brazil’s president in knife-edge vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## US voters worried about corruption under Trump — FT poll - Financial Times
 
 来源：金融时报
@@ -333,119 +358,93 @@ Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durab
 
 ---
 
-## Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times
+## Weil’s incoming leader to walk away from top job as law firm faces talent crisis - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUl5bHIzaTFvWTNuOTI1eEhYdGNkWDdvZlhEanozMUlOejk5NDZ6SXhaQlNNUGZVRVBXUks2SmFKMlhQYjVPLXU0X3gyWTR2bGRmOHpSMHdxVXZSMWlteV84akhvdkJVTVB6ejFLZVg2YVZJUEpEeUZVcG9UOF9oenFBb3U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI?oc=5" target="_blank">Luxury groups’ value drops by €250bn as Chinese consumer demand fades</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUl5bHIzaTFvWTNuOTI1eEhYdGNkWDdvZlhEanozMUlOejk5NDZ6SXhaQlNNUGZVRVBXUks2SmFKMlhQYjVPLXU0X3gyWTR2bGRmOHpSMHdxVXZSMWlteV84akhvdkJVTVB6ejFLZVg2YVZJUEpEeUZVcG9UOF9oenFBb3U?oc=5" target="_blank">Weil’s incoming leader to walk away from top job as law firm faces talent crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Airbus to hold talks with BAE over role in GCAP fighter jet programme - Financial Times
+## Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzkwYVZrc0xUd3B1SjRkSHRXT3pVZnVQSERFRklQTjVMbEFpcUdnYXZTYUVxWmE0Q1ZGeDRTakRRSkJDcE5GeHR2N3RMckxmeU5PSDVCVDdsSmpWeEJUTXdwcFczUHk3OEhDMVFwS3Y0ZjI0X19nUFBrV1Zyb21FazZ3dXk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQelhfN3RVaHZGZzZRSE03Z19FZU50SlFMYVMyYlRxVkdZV0s0NGhwVko4WDZRR0FFSnU3elR5Mm1Yb20yOEJjY2ZSbHk5eWpFUTh1bXZHc20wMWl3eDVSWGZjSzF2a3J6b2FsWWRqeDJiVmFIMnNrdW1TUUdqenE4Y1RWeS0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzkwYVZrc0xUd3B1SjRkSHRXT3pVZnVQSERFRklQTjVMbEFpcUdnYXZTYUVxWmE0Q1ZGeDRTakRRSkJDcE5GeHR2N3RMckxmeU5PSDVCVDdsSmpWeEJUTXdwcFczUHk3OEhDMVFwS3Y0ZjI0X19nUFBrV1Zyb21FazZ3dXk?oc=5" target="_blank">Airbus to hold talks with BAE over role in GCAP fighter jet programme</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQelhfN3RVaHZGZzZRSE03Z19FZU50SlFMYVMyYlRxVkdZV0s0NGhwVko4WDZRR0FFSnU3elR5Mm1Yb20yOEJjY2ZSbHk5eWpFUTh1bXZHc20wMWl3eDVSWGZjSzF2a3J6b2FsWWRqeDJiVmFIMnNrdW1TUUdqenE4Y1RWeS0?oc=5" target="_blank">Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Measles surge exposes Republicans’ vulnerability on vaccines - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5" target="_blank">Measles surge exposes Republicans’ vulnerability on vaccines</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Students fear AI is about to ruin their future - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU?oc=5" target="_blank">Students fear AI is about to ruin their future</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## French protest groups demand more rallies as Macron faces tough choices - Reuters
+## Bolsonaro refuses to concede, says he will seek annulment of Brazil vote - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5" target="_blank">French protest groups demand more rallies as Macron faces tough choices</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5" target="_blank">Bolsonaro refuses to concede, says he will seek annulment of Brazil vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Paris NFL game set to kick off in calm atmosphere after fresh demonstrations - Reuters
+## Global leaders congratulate Brazil President Lula on reelection - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VEQVdicmwyZk9uV0d6bm1NWjhCWGNrOGFIakJQTWRrdU5OZk52dXVKSFpQcGp5dkU4WHlsSnZ1d3kxcXJyZFc2SXJyT2lWRHd5em1obmZZdFNOVkFTeUdQR3QwTG9xckMydHh6RWktYUJ1THJmR04zYnZZNl9HbXBQU1hNdmZfeFJTT0ZGZ1FTWkl5cGpCcUptLWc2U1FtZ1BzUFUxcGU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5" target="_blank">Paris NFL game set to kick off in calm atmosphere after fresh demonstrations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VEQVdicmwyZk9uV0d6bm1NWjhCWGNrOGFIakJQTWRrdU5OZk52dXVKSFpQcGp5dkU4WHlsSnZ1d3kxcXJyZFc2SXJyT2lWRHd5em1obmZZdFNOVkFTeUdQR3QwTG9xckMydHh6RWktYUJ1THJmR04zYnZZNl9HbXBQU1hNdmZfeFJTT0ZGZ1FTWkl5cGpCcUptLWc2U1FtZ1BzUFUxcGU?oc=5" target="_blank">Global leaders congratulate Brazil President Lula on reelection</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Conservative party wins first election in nearly a century in British Columbia - Reuters
+## China's Communist Party opens fifth plenum - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHhCM1BKZmZMYUt0TUx3V01rR3czUm5CMUNRNlZNT09oaUxOd0ItWEFZSlhlN3RoeG5aQWcyZElRdEs2cHRMZlpwT1dKRWEwdDBSa2t0bndDakI2TktMRkpkSEVLRGdHdmpFYnZieW51MFM1THF5SWlURC05NVkwWUtiVHRrTlBQQzBqY1loVkdZeFJjRHNtajFUZXRrN2hDRmVxZk12dERMU191NTBjNEFEUVR1OUdIT3hLQmcyNWo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHhCM1BKZmZMYUt0TUx3V01rR3czUm5CMUNRNlZNT09oaUxOd0ItWEFZSlhlN3RoeG5aQWcyZElRdEs2cHRMZlpwT1dKRWEwdDBSa2t0bndDakI2TktMRkpkSEVLRGdHdmpFYnZieW51MFM1THF5SWlURC05NVkwWUtiVHRrTlBQQzBqY1loVkdZeFJjRHNtajFUZXRrN2hDRmVxZk12dERMU191NTBjNEFEUVR1OUdIT3hLQmcyNWo?oc=5" target="_blank">Conservative party wins first election in nearly a century in British Columbia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5" target="_blank">China's Communist Party opens fifth plenum</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Four ways US foreign policy could change if Democrats win in November - Reuters
+## Stocks trade cautiously in Asia, Brent off six-month top - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5" target="_blank">Four ways US foreign policy could change if Democrats win in November</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5" target="_blank">Stocks trade cautiously in Asia, Brent off six-month top</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Serbia election: Main players, voter concerns and what is at stake - Reuters
+## Trump adds Norway to vulgar list of countries, citing Nobel snub - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5" target="_blank">Serbia election: Main players, voter concerns and what is at stake</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA?oc=5" target="_blank">Trump adds Norway to vulgar list of countries, citing Nobel snub</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
