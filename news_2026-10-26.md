@@ -1,21 +1,21 @@
 # 每日财经新闻
 
-更新时间：2026-10-26 04:10:58
+更新时间：2026-10-26 18:32:58
 
-## Morgan Stanley Sees Further China Stock Downside Before Bottom
+## Anthropic IPO Is the “One We’ve Been Waiting For”: Bessemer’s Deeter
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom
+链接：https://www.bloomberg.com/news/videos/2026-10-26/anthropic-ipo-is-the-one-we-ve-been-waiting-for-video
 
 正文长度：0
 
-摘要：Chinese stocks are poised for further losses before valuations bottom, according to Morgan Stanley, as weak macroeconomic and consumption momentum continues to weigh on sentiment.
+摘要：Anthropic’s IPO will finally give public market investors a chance to get into the software side of AI, says Byron Deeter, partner at Bessemer Venture Partners. Bessemer first invested in Anthropic during its Series D, and Deeter explains the impact Anthropic going public will have on limited partners. He joins Ed Ludlow on “Bloomberg Tech”. (Source: Bloomberg)
 
 
 ---
 
-## AI Trade Falters in Runup to Earnings, Oil Drops: Markets Wrap
+## Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +23,46 @@
 
 正文长度：0
 
-摘要：The artificial intelligence trade took another hit as investors braced for more earnings from megacap tech companies that will offer clues on whether the recent pullback in technology shares has further to run. Oil declined and Treasuries rose.
+摘要：A revival of the artificial-intelligence trade fueled gains in stocks as Anthropic PBC filed for an IPO, with investors bracing for this week’s results from tech giants and the Federal Reserve decision.
 
 
 ---
 
-## EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins
+## US Stocks Gain as Investors Parse Anthropic IPO Filing
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins
+链接：https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision
 
 正文长度：0
 
-摘要：Emerging-market stocks started the week lower as investors awaited earnings from some of the world’s biggest technology companies for clues on whether the artificial intelligence trade can recover from a bruising selloff.
+摘要：US stocks gained on Monday as investors digest Anthropic PBC’s filing for its initial public offering and look forward to key big tech earnings this week as well as the Federal Reserve’s next decision on Wednesday.
 
 
 ---
 
-## Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting
+## Marathon’s Richards Warns ‘No Way Out’ for Beaten-Down CCC Debt
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting
+链接：https://www.bloomberg.com/news/articles/2026-10-26/marathon-s-richards-warns-no-way-out-for-beaten-down-ccc-debt
 
 正文长度：0
 
-摘要：Copper extended last week’s drop as artificial intelligence stocks came under further pressure, sapping risk appetite ahead of the Federal Reserve’s policy meeting.
+摘要：A big swath of the riskiest borrowers have few options other than defaulting on their piling debt as it’s getting increasingly expensive to refinance, CVC Marathon Chief Executive Officer Bruce Richards warned.
 
 
 ---
 
-## Soybeans Hit 2-Month Low as Lula’s Win Lifts China Trade Outlook
+## Morgan Stanley Expects Data-Center ABS Spreads to Widen Further
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook
+链接：https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-expects-data-center-abs-spreads-to-widen-further
 
 正文长度：0
 
-摘要：Chicago soybean futures fell to a two-month low after Lula’s presidential win in Brazil raised expectations of closer ties with China, potentially eroding the US share of the world’s biggest soybean import market.
+摘要：Spreads on asset backed securities funding data-center developments will continue to widen as companies rush to tap different debt markets to finance their artificial intelligence endeavors, according to Morgan Stanley strategists.
 
 
 ---
@@ -319,132 +319,132 @@ Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durab
 
 ---
 
-## Bon Secours nears $6bn takeover of Bain-backed Surgery Partners - Financial Times
+## Apollo takes minority stake in Abu Dhabi’s Mubadala Capital - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZ6MGdSdlNWc3BNeXNJaUJocVEyTlNZTHpYSkVESkhKbmVuZ1JNSWZkbVhfZnMtQ245UEw4OEY5ZWJhMWxMb292ZnJDR0lxVWJOcUlQOUJMRTlhWjJRSW9zUVlNaXBmcjdYWU9abk5vNHFSWEVIczlUaHJWQmxLUUFNQUo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5" target="_blank">Bon Secours nears $6bn takeover of Bain-backed Surgery Partners</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZ6MGdSdlNWc3BNeXNJaUJocVEyTlNZTHpYSkVESkhKbmVuZ1JNSWZkbVhfZnMtQ245UEw4OEY5ZWJhMWxMb292ZnJDR0lxVWJOcUlQOUJMRTlhWjJRSW9zUVlNaXBmcjdYWU9abk5vNHFSWEVIczlUaHJWQmxLUUFNQUo?oc=5" target="_blank">Apollo takes minority stake in Abu Dhabi’s Mubadala Capital</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Lula is re-elected Brazil’s president in knife-edge vote - Financial Times
+## Anthropic begins countdown to IPO with prospectus filing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0VXRmpoS1BpTDJMcmQtV1J5TFM1bUh2MDBleHRyTndZNTRBVFRoOXkzYlNGRXlBVVpVNmhyT21pbGk5ejB3aVBYTnA2SEY2SVhrdnk2dTZnTjJBMjFuTnVkRTFIcDl2V0xzOE0xaENOQzc1VTR2dzlWV21jN1dWTjZEZzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1ZwVC1NWWxLRjZWU2dLUDF4S3hCQk1rSHdQaHZDQkxBNlBGR3hGbk04TEpVeG1nUVlpWER2QlZJdmtoeFJfUnpMOGN2SWRMUDI2LWFZZUluY29lZjg2bnhHS0gxdU9nNHF6RV9XamFxdUdTZFJMTWFPWFpuMERqR0ZIbmM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0VXRmpoS1BpTDJMcmQtV1J5TFM1bUh2MDBleHRyTndZNTRBVFRoOXkzYlNGRXlBVVpVNmhyT21pbGk5ejB3aVBYTnA2SEY2SVhrdnk2dTZnTjJBMjFuTnVkRTFIcDl2V0xzOE0xaENOQzc1VTR2dzlWV21jN1dWTjZEZzQ?oc=5" target="_blank">Lula is re-elected Brazil’s president in knife-edge vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1ZwVC1NWWxLRjZWU2dLUDF4S3hCQk1rSHdQaHZDQkxBNlBGR3hGbk04TEpVeG1nUVlpWER2QlZJdmtoeFJfUnpMOGN2SWRMUDI2LWFZZUluY29lZjg2bnhHS0gxdU9nNHF6RV9XamFxdUdTZFJMTWFPWFpuMERqR0ZIbmM?oc=5" target="_blank">Anthropic begins countdown to IPO with prospectus filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US voters worried about corruption under Trump — FT poll - Financial Times
+## ‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2dQZEU2bC1lS2ZZaWRSS3RIems0dll5VlVRWExQUU5kX0U5eXhhUDdOMVFENldHR0E0aDByQkFsMVJnTU1kMmpjMHpDMUtlQVpqRE95UE5KQlpuLUcwLU9nSThpQjVHdmlzQ1Z4UG03TjVTN0Z5SlYyUWtXWjl2Skt6Nmo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW1ZMzVldzZxRkdyVnlJOVplWV91NGxYZG5ON2dVMlAtRmViTnlPSmlNb21xcmR2elpfWXdxSERUZ3pvYUV3YmxtN1duOEh1TXZhWXQ1ZlRaaGp0TnB1NHFwQ09EM2Y1X2RhYkdkVzVDMHczeWN0Ukw2d1lzaDdXUFppYnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2dQZEU2bC1lS2ZZaWRSS3RIems0dll5VlVRWExQUU5kX0U5eXhhUDdOMVFENldHR0E0aDByQkFsMVJnTU1kMmpjMHpDMUtlQVpqRE95UE5KQlpuLUcwLU9nSThpQjVHdmlzQ1Z4UG03TjVTN0Z5SlYyUWtXWjl2Skt6Nmo?oc=5" target="_blank">US voters worried about corruption under Trump — FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW1ZMzVldzZxRkdyVnlJOVplWV91NGxYZG5ON2dVMlAtRmViTnlPSmlNb21xcmR2elpfWXdxSERUZ3pvYUV3YmxtN1duOEh1TXZhWXQ1ZlRaaGp0TnB1NHFwQ09EM2Y1X2RhYkdkVzVDMHczeWN0Ukw2d1lzaDdXUFppYnc?oc=5" target="_blank">‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Weil’s incoming leader to walk away from top job as law firm faces talent crisis - Financial Times
+## Meta plans $95bn stock offering to bankroll AI expansion - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUl5bHIzaTFvWTNuOTI1eEhYdGNkWDdvZlhEanozMUlOejk5NDZ6SXhaQlNNUGZVRVBXUks2SmFKMlhQYjVPLXU0X3gyWTR2bGRmOHpSMHdxVXZSMWlteV84akhvdkJVTVB6ejFLZVg2YVZJUEpEeUZVcG9UOF9oenFBb3U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUl5bHIzaTFvWTNuOTI1eEhYdGNkWDdvZlhEanozMUlOejk5NDZ6SXhaQlNNUGZVRVBXUks2SmFKMlhQYjVPLXU0X3gyWTR2bGRmOHpSMHdxVXZSMWlteV84akhvdkJVTVB6ejFLZVg2YVZJUEpEeUZVcG9UOF9oenFBb3U?oc=5" target="_blank">Weil’s incoming leader to walk away from top job as law firm faces talent crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5" target="_blank">Meta plans $95bn stock offering to bankroll AI expansion</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll - Financial Times
+## The reclusive quant billionaire coming into the light - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQelhfN3RVaHZGZzZRSE03Z19FZU50SlFMYVMyYlRxVkdZV0s0NGhwVko4WDZRR0FFSnU3elR5Mm1Yb20yOEJjY2ZSbHk5eWpFUTh1bXZHc20wMWl3eDVSWGZjSzF2a3J6b2FsWWRqeDJiVmFIMnNrdW1TUUdqenE4Y1RWeS0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3ZESllxdElyRGRzS1FPSGYtZTlFQUdpajAzOTdjM1F6WlZZMk9HSnpNbnhHZDNkQW9EYVhLaUpmeGVPMWhZeGZWX0UtV3RLNUpPU3BPSExyR3FEVEFGc0dSU2t2dVFNU0IzcC1tNlllMy1hTjJ2aGd5RFkzZTRiaFZyM3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQelhfN3RVaHZGZzZRSE03Z19FZU50SlFMYVMyYlRxVkdZV0s0NGhwVko4WDZRR0FFSnU3elR5Mm1Yb20yOEJjY2ZSbHk5eWpFUTh1bXZHc20wMWl3eDVSWGZjSzF2a3J6b2FsWWRqeDJiVmFIMnNrdW1TUUdqenE4Y1RWeS0?oc=5" target="_blank">Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3ZESllxdElyRGRzS1FPSGYtZTlFQUdpajAzOTdjM1F6WlZZMk9HSnpNbnhHZDNkQW9EYVhLaUpmeGVPMWhZeGZWX0UtV3RLNUpPU3BPSExyR3FEVEFGc0dSU2t2dVFNU0IzcC1tNlllMy1hTjJ2aGd5RFkzZTRiaFZyM3M?oc=5" target="_blank">The reclusive quant billionaire coming into the light</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bolsonaro refuses to concede, says he will seek annulment of Brazil vote - Reuters
+## Microsoft offers buyouts to around 60,000 employees to contain costs - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5" target="_blank">Bolsonaro refuses to concede, says he will seek annulment of Brazil vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5" target="_blank">Microsoft offers buyouts to around 60,000 employees to contain costs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Global leaders congratulate Brazil President Lula on reelection - Reuters
+## Trump administration's firing of prosecutor Maurene Comey was unlawful, judge rules - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VEQVdicmwyZk9uV0d6bm1NWjhCWGNrOGFIakJQTWRrdU5OZk52dXVKSFpQcGp5dkU4WHlsSnZ1d3kxcXJyZFc2SXJyT2lWRHd5em1obmZZdFNOVkFTeUdQR3QwTG9xckMydHh6RWktYUJ1THJmR04zYnZZNl9HbXBQU1hNdmZfeFJTT0ZGZ1FTWkl5cGpCcUptLWc2U1FtZ1BzUFUxcGU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWZ2TUkxWGJOaXdWYTVwUkFCMFJTZlUwTW1GYUZ3LTBxNEtLcE91UGVaWkNJZ0JMTHRUYmRVc2ZObGZ0M1V5YVNWYkZ5UlJBSS16eHpLSTFyRjAxQmc1VFQ1UmhFT2RlNVo3UjFLd0dGRmZSZHFxTXlhTFVwbF9KUU13QmRuaktSZEFnbFgzUXltNGlVQWdXNlJlUDFmdHgtQmRneG5TcmNyUGhYS0pZOHRIalhCMmFMNUF3Z1pJazNnNFRNOWttYmVQOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VEQVdicmwyZk9uV0d6bm1NWjhCWGNrOGFIakJQTWRrdU5OZk52dXVKSFpQcGp5dkU4WHlsSnZ1d3kxcXJyZFc2SXJyT2lWRHd5em1obmZZdFNOVkFTeUdQR3QwTG9xckMydHh6RWktYUJ1THJmR04zYnZZNl9HbXBQU1hNdmZfeFJTT0ZGZ1FTWkl5cGpCcUptLWc2U1FtZ1BzUFUxcGU?oc=5" target="_blank">Global leaders congratulate Brazil President Lula on reelection</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWZ2TUkxWGJOaXdWYTVwUkFCMFJTZlUwTW1GYUZ3LTBxNEtLcE91UGVaWkNJZ0JMTHRUYmRVc2ZObGZ0M1V5YVNWYkZ5UlJBSS16eHpLSTFyRjAxQmc1VFQ1UmhFT2RlNVo3UjFLd0dGRmZSZHFxTXlhTFVwbF9KUU13QmRuaktSZEFnbFgzUXltNGlVQWdXNlJlUDFmdHgtQmRneG5TcmNyUGhYS0pZOHRIalhCMmFMNUF3Z1pJazNnNFRNOWttYmVQOA?oc=5" target="_blank">Trump administration's firing of prosecutor Maurene Comey was unlawful, judge rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China's Communist Party opens fifth plenum - Reuters
+## Hezbollah readies for new regional war with funds from Iran, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5" target="_blank">China's Communist Party opens fifth plenum</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5" target="_blank">Hezbollah readies for new regional war with funds from Iran, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Stocks trade cautiously in Asia, Brent off six-month top - Reuters
+## Anthropic discloses month-long training pause, AI security breaches in IPO filing - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5" target="_blank">Stocks trade cautiously in Asia, Brent off six-month top</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5" target="_blank">Anthropic discloses month-long training pause, AI security breaches in IPO filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump adds Norway to vulgar list of countries, citing Nobel snub - Reuters
+## Anthropic's IPO filing shows explosive growth, risks and staggering costs - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA?oc=5" target="_blank">Trump adds Norway to vulgar list of countries, citing Nobel snub</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5" target="_blank">Anthropic's IPO filing shows explosive growth, risks and staggering costs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
