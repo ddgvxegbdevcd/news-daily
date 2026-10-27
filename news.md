@@ -1,68 +1,130 @@
 # 每日财经新闻
 
-更新时间：2026-10-26 18:32:58
+更新时间：2026-10-27 04:30:22
 
-## Anthropic IPO Is the “One We’ve Been Waiting For”: Bessemer’s Deeter
+## HSBC Announces $1 Billion Buyback After Profit Growth Misses
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-26/anthropic-ipo-is-the-one-we-ve-been-waiting-for-video
+链接：https://www.bloomberg.com/news/articles/2026-10-27/hsbc-1-billion-buyback-third-quarter-earnings-profit-growth-misses-estimates
 
 正文长度：0
 
-摘要：Anthropic’s IPO will finally give public market investors a chance to get into the software side of AI, says Byron Deeter, partner at Bessemer Venture Partners. Bessemer first invested in Anthropic during its Series D, and Deeter explains the impact Anthropic going public will have on limited partners. He joins Ed Ludlow on “Bloomberg Tech”. (Source: Bloomberg)
+摘要：HSBC Holdings Plc said it would buy back shares worth $1 billion as it reported third-quarter earnings that fell short of estimates.
 
 
 ---
 
-## Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap
+## Infosys Draws Four Downgrades in a Day on Weaker Sales Outlook
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-10-27/infosys-downgrades-weaker-sales-outlook-software-exporter-ai
 
 正文长度：0
 
-摘要：A revival of the artificial-intelligence trade fueled gains in stocks as Anthropic PBC filed for an IPO, with investors bracing for this week’s results from tech giants and the Federal Reserve decision.
+摘要：Infosys Ltd. was downgraded by at least four analysts in a single day after India’s second-largest software exporter cut its annual sales forecast, deepening concerns over disruption from artificial intelligence.
 
 
 ---
 
-## US Stocks Gain as Investors Parse Anthropic IPO Filing
+## Stocks Extend Gains on Anthropic IPO, Oil Falls: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision
+链接：https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：US stocks gained on Monday as investors digest Anthropic PBC’s filing for its initial public offering and look forward to key big tech earnings this week as well as the Federal Reserve’s next decision on Wednesday.
+摘要：Global stocks extended gains as Anthropic PBC’s filing for an initial public offering renewed optimism over the artificial intelligence trade following recent strains. Crude oil declined further.
 
 
 ---
 
-## Marathon’s Richards Warns ‘No Way Out’ for Beaten-Down CCC Debt
+## Why Indonesia Is Reducing Gas Exports to Singapore
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/marathon-s-richards-warns-no-way-out-for-beaten-down-ccc-debt
+链接：https://www.bloomberg.com/news/articles/2026-10-27/why-indonesia-is-reducing-gas-exports-to-singapore
 
 正文长度：0
 
-摘要：A big swath of the riskiest borrowers have few options other than defaulting on their piling debt as it’s getting increasingly expensive to refinance, CVC Marathon Chief Executive Officer Bruce Richards warned.
+摘要：Indonesia unexpectedly unsettled its relationship with neighboring Singapore after it announced in late October that it would reduce natural gas exports to the city-state.
 
 
 ---
 
-## Morgan Stanley Expects Data-Center ABS Spreads to Widen Further
+## Samsung Life Prices Record Dollar Bond as Investors Defy Turmoil
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-expects-data-center-abs-spreads-to-widen-further
+链接：https://www.bloomberg.com/news/articles/2026-10-27/samsung-life-insurance-south-korea-coupon-note-debt-dollar-bond-sale
 
 正文长度：0
 
-摘要：Spreads on asset backed securities funding data-center developments will continue to widen as companies rush to tap different debt markets to finance their artificial intelligence endeavors, according to Morgan Stanley strategists.
+摘要：An affiliate of Samsung Group sold the biggest dollar bond sale for a South Korean insurer as investors braved volatile debt markets that have forced some companies to pull their planned debt offerings.
+
+
+---
+
+## JetBlue posts bigger loss on fuel costs, but CEO says margins improving
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html
+
+正文长度：3057
+
+摘要：JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JetBlue Airways reported a bigger loss in the third quarter compared with last year, but the New York carrier said strong travel demand is helping to offset higher fuel prices as it seeks to calm investors after shares fell to a new low Monday.
+JetBlue stock soared roughly 11% in after-hours trading Monday.
+JetBlue on Monday posted a net loss of $257 million for the three months ended Sept. 30, compared with a loss of $143 million a year earlier. The carrier's fuel bill rose 61% to $868 million.
+"Resilient demand and strong yields drove revenue well ahead of our initial expectations, allowing us to recapture more of the increase in fuel costs than we initially expected," CEO Joanna Geraghty said in an earnings release. "That momentum has carried into the fourth quarter, and Fort Lauderdale continues to deliver exceptional results even as we significantly grow capacity."
+JetBlue's average fares rose more than 19% to $245.11 in the third quarter from $205.67 in the year-earlier period.
+JetBlue executives are set to hold an earnings call on Tuesday at 10 a.m. ET, where they will face questions from analysts about the company's long-term health amid sustained losses. A group of the airline's senior creditors is reportedly working with restructuring adviser PJT Partners, the Wall Street Journal reported Friday.
+The carrier said it ended the quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
+JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing Monday.
+"Importantly, we believe we have the liquidity and financing options to create a strong bridge to at least $1 EPS and positive free cash flow in 2028," CFO Ursula Hurley said in a statement. "We remain focused on disciplined cost execution and capital management as we work toward sustained profitability and positive free cash flow."
+Here is what JetBlue reported in the third quarter compared with Wall Street estimates compiled by LSEG:
+- Loss per share: 60 cents adjusted vs. a loss of 55 cents expected
+- Revenue: $2.81 billion vs. $2.82 billion expected
+JetBlue last posted an annual profit in 2019. The airline is in the middle of a multiyear turnaround plan that includes cutting cuts and boosting revenue by investing in premium seats, like a new domestic first class section that recently went on sale.
+Fuel costs have eaten into airline profits across the board. JetBlue said travel demand has remained strong despite higher fares, which are up more than 20% this year.
+JetBlue has struggled not just with higher costs but also with competition from larger rivals.
+It sought to acquire now-defunct carrier Spirit Airlines, but that deal was upended by a federal judge who ruled it was anticompetitive. A judge also blocked a regional partnership between JetBlue and American Airlines, which the airlines argued would help them compete better against carriers in the congested Northeast U.S. JetBlue now has a partnership with United Airlines.
+
+</details>
+
+
+---
+
+## FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html
+
+正文长度：1558
+
+摘要：The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Federal Trade Commission said Monday that it filed a lawsuit along with 20 states accusing Dollar General of charging customers more than the prices it displays on shelves, price tags and in advertisements.
+Shares of Dollar General dropped about 4% after the FTC announced the lawsuit.
+The complaint alleges that thousands of Dollar General stores have "taken advantage of vulnerable shoppers by extracting millions of dollars in unlawful overcharges with insufficient safeguards to prevent the practice."
+It also argues that Dollar General has received "tens of thousands" of complaints from consumers about charging higher than advertised prices, but that it has not implemented policies to address the problem.
+The states joining the FTC in the lawsuit are Alabama, Arizona, Arkansas, California, Connecticut, Florida, Illinois, Iowa, Kansas, Louisiana, Michigan, Mississippi, Nebraska, New Jersey, North Carolina, Ohio, Oklahoma, Tennessee, Utah and Wisconsin.
+"Dollar General has betrayed the trust of millions of American consumers and imposed significant financial harm on communities and consumers who are already struggling to make their paychecks last," said Christopher Mufarrige, director of the FTC's Bureau of Consumer Protection.
+Dollar General did not immediately respond to a request for comment.
+The suit comes as shoppers look for discounts while they face elevated food and gas prices. Officials across the political spectrum also aim to show their efforts to protect consumers from high costs ahead of the midterm election next week.
+
+</details>
 
 
 ---
@@ -231,116 +293,15 @@ And Starbucks, for its part, said it would not buy Chipotle after reportedly con
 
 ---
 
-## American Express is cutting 5% of its workforce to 'prepare for AI'
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/23/american-express-job-cuts.html
-
-正文长度：2889
-
-摘要：Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Express is cutting thousands of employees as the leading credit card company prepares for artificial intelligence to take over more of its internal processes.
-Amex is eliminating 5% of its global workforce and taking a $336 million restructuring charge, CEO Stephen Squeri told analysts Friday on the company's third-quarter earnings call. The firm had almost 77,000 employees at the end of 2025.
-Chief Financial Officer Christophe Le Caillec told CNBC in an interview that the restructuring was to make American Express "leaner, more agile, and also to prepare for AI."
-"You don't want to automate processes that are not optimally structured," Le Caillec said. "So what we're doing here is to reduce layers and increase spans of controls, so that we can automate and take advantage of AI in the coming quarters and the coming years."
-The Amex announcement reflects a broader trend across financial services, where banks are working to replace repetitive roles with AI automation. On Thursday, Barclays confirmed plans to trim 5,000 jobs — also roughly 5% of its staff — in another tech-driven cost initiative. The moves come even as the sector is enjoying robust profits from growing consumer spending and resilient credit.
-During the analyst call, Squeri said the charge was to improve the company's efficiency.
-"We've got good momentum, but to accelerate innovation and win over the next few years, we needed to become [a] more agile and efficient organization," Squeri said.
-'Run rogue'
-Squeri devoted a 10-minute section of his prepared remarks to his views on AI, focusing mainly on how it will be used to personalize experiences and offers for Amex cardholders.
-While the CEO emphasized the need to meet customers' desires to use AI, including agents, he added that Amex is "not going to let assistants run rogue through our system."
-"We need to protect our customers [and] merchants, and we're only going to allow agents to access our systems that are either approved through API or MCP channels," he said, citing two ways to securely connect outside platforms with Amex systems.
-Amex posted quarterly results that topped Wall Street profit expectations. Adjusted earnings per share were $4.68, beating the $4.48 average estimate of analysts, according to LSEG.
-The company raised its full-year earnings guidance to a range of $18.30 to $18.60 per share, on an unadjusted basis, up from its previous target of $17.30 to $17.90.
-That metric was helped by proceeds from Amex's sale of its stake in Global Business Travel Group, part of which went into the restructuring plan, Le Caillec said.
-Total revenue rose 9% to $20.06 billion, coming in slightly below Wall Street's $20.12 billion LSEG forecast. Executives attributed part of the spending drag to recent exits from small business co-brand partnerships.
-Shares of the card company fell roughly 4% in afternoon trading.
-
-</details>
-
-
----
-
-## Fewer people are flying as airfare soars. Here's why airlines aren't worried
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html
-
-正文长度：6126
-
-摘要：Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Fewer people are flying this year, but with airfare this high and climbing, airline executives say that's just fine.
-At the New York Hilton in Midtown Manhattan on Friday night, the aviation industry held its annual Wings Club gala, honoring Ed Bastian, CEO of profit-leader Delta Air Lines.
-North American airline CEOs and other executives at the black-tie bash told CNBC that demand trends aren't worrying them, but persistently high, profit-crimping fuel prices are.
-The number of people screened at U.S. checkpoints is on track for its first annual decline since 2020. Major U.S. carriers have said capturing higher fares matters more than fully filling planes or flying record numbers of travelers.
-"We're actively prioritizing yield versus load factor and really happy as we see it. It fits right in with the premium investments that we're making," American Airlines Chief Commercial Officer Nat Pieper said on the company's earnings call Thursday.
-American's load factor, a gauge of how full planes are flying, fell to 83.4% in the third quarter from 86% in the same quarter of 2025.
-Fares keep climbing
-Plane ticket prices have skyrocketed as airlines grapple with a spike in jet fuel prices, their biggest expense after labor, and pass more of those costs on to customers.
-Fares in September were up more than 22% from a year earlier, according to the latest inflation read. Fare tracker Hopper said it expects this holiday season to come with the most expensive ticket prices in years.
-The average Southwest Airlines fare in the third quarter, for example, was $231.69, up close to $50 from a year earlier. That doesn't include Southwest's new fees, like its extra charges for checked bags or a seat closer to the front of the plane.
-The airline's revenue passenger count, however, fell 3.2% from a year ago to about 33.5 million people.
-Still, both fares and the passenger counts exceeded Southwest's expectations.
-"Passenger fares came in about $3 above what our forecast was and the more important thing is that passenger volumes also exceeded our expectations," Southwest CEO Bob Jordan said on an earnings call Thursday.
-Since April — when airlines began warning in earnest about profits taking a hit from the spike in jet fuel — through Thursday, about 9.3 million fewer people were screened at airport checkpoints than in the same period of 2025, according to the Transportation Security Administration. That's down less than 2% from last year, but it follows years of growth.
-With jet fuel prices more than double year-ago levels — as seen in U.S. Gulf Coast spot prices at $4.63 a gallon, according to the U.S. Energy Information Administration — airlines have focused on recovering as much of the fuel spike as possible.
-Despite some drops, airline executives said during their earnings calls that overall travel demand is robust, especially for profitable premium cabins like business class.
-And not every carrier is seeing a decline. United Airlines flew 2.4% more passengers in the third quarter than a year ago and said its unit revenue rose 16%, the biggest increase since the pandemic.
-"I've been pleasantly surprised at the industry's ability this year to raise yields and pass through much of the increase in fuel prices," CEO Scott Kirby said on the company's earnings call Wednesday. "So it's possible that airlines will continue to focus on yields at the expense of load factor and that alone could get us to double-digit margins next year."
-Profit hit
-Most airlines expect fuel costs to keep biting, but executives say they're confident in their pricing power.
-United, for example, said it expects to pay an average of $4.80 per gallon for fuel in the fourth quarter, up from $3.90 per gallon in the third.
-American, United, Delta and Southwest all cut their 2026 profit forecasts this month when they reported earnings. American is the only one of the four that expects to post a loss this year.
-American and others have also reduced growth plans or warned the industry could dial back its capacity expansion goals, which could keep fares elevated. Reduced capacity can make bookable seats scarcer, driving up prices even more if demand holds.
-The carriers said demand has been particularly strong for premium seats, which command hundreds, if not thousands of dollars, more than coach tickets.
-"Today, we find ourselves yet at another inflection point for our industry and the world. ... Geopolitics affecting our business, driving the price of jet fuel to historic highs," Bastian said in his award-acceptance speech, adding that artificial intelligence makes it hard to predict months or weeks ahead.
-"It causes many people to question yet again the durability of our industry. But I'm not worried because I know the people in this room, and I know your resilience and how you've demonstrated that time and time again," he said.
-Smaller airlines set to report results in the coming weeks, starting with JetBlue Airways next week, followed by Frontier Airlines and Allegiant Air, have traditionally focused on more price-sensitive customers, which could show if those travelers are pulling back at all.
-One factor that could also affect air travel is the demise of Spirit Airlines, which went out of business in early May.
-"Some of its customers have likely stopped flying," Bank of America said in a research note Thursday.
-More jets, engine hangover
-Many of the problems that plagued the airline industry for years are starting to abate.
-In some cases, aircraft deliveries are still years behind schedule. But Boeing, whose CEO, Kelly Ortberg, attended on Friday night, and its main rival, Airbus, have ramped up production. Boeing will update investors on its production outlook when it reports quarterly results Tuesday.
-The Federal Aviation Administration has approved Boeing's Max 7, a key smaller jet for Southwest Airlines, and the Max 10, which Alaska Airlines and United Airlines have been waiting for for years.
-Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durability and shop visit turnaround time, though customers say more improvements are needed.
-
-</details>
-
-
----
-
-## Apollo takes minority stake in Abu Dhabi’s Mubadala Capital - Financial Times
+## Donald Trump offers $1mn reward for tips leading to election fraud conviction - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZ6MGdSdlNWc3BNeXNJaUJocVEyTlNZTHpYSkVESkhKbmVuZ1JNSWZkbVhfZnMtQ245UEw4OEY5ZWJhMWxMb292ZnJDR0lxVWJOcUlQOUJMRTlhWjJRSW9zUVlNaXBmcjdYWU9abk5vNHFSWEVIczlUaHJWQmxLUUFNQUo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEhvRGhNVmk4SU9YQ29OY3lqYmRhS2tCQno3bFR4eHk3ZVJxU3dveHhBWndCNURXVjgteHhDVTdKcW9wQXhhaVcycEx3YmEwa2p3aTI5QmxJaDM5ZGJKOE43MFI0S09TRHRIR0F5bmxLUmtuRFp2bjNVOXdSUVpEaWdHaFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZ6MGdSdlNWc3BNeXNJaUJocVEyTlNZTHpYSkVESkhKbmVuZ1JNSWZkbVhfZnMtQ245UEw4OEY5ZWJhMWxMb292ZnJDR0lxVWJOcUlQOUJMRTlhWjJRSW9zUVlNaXBmcjdYWU9abk5vNHFSWEVIczlUaHJWQmxLUUFNQUo?oc=5" target="_blank">Apollo takes minority stake in Abu Dhabi’s Mubadala Capital</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Anthropic begins countdown to IPO with prospectus filing - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1ZwVC1NWWxLRjZWU2dLUDF4S3hCQk1rSHdQaHZDQkxBNlBGR3hGbk04TEpVeG1nUVlpWER2QlZJdmtoeFJfUnpMOGN2SWRMUDI2LWFZZUluY29lZjg2bnhHS0gxdU9nNHF6RV9XamFxdUdTZFJMTWFPWFpuMERqR0ZIbmM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1ZwVC1NWWxLRjZWU2dLUDF4S3hCQk1rSHdQaHZDQkxBNlBGR3hGbk04TEpVeG1nUVlpWER2QlZJdmtoeFJfUnpMOGN2SWRMUDI2LWFZZUluY29lZjg2bnhHS0gxdU9nNHF6RV9XamFxdUdTZFJMTWFPWFpuMERqR0ZIbmM?oc=5" target="_blank">Anthropic begins countdown to IPO with prospectus filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEhvRGhNVmk4SU9YQ29OY3lqYmRhS2tCQno3bFR4eHk3ZVJxU3dveHhBWndCNURXVjgteHhDVTdKcW9wQXhhaVcycEx3YmEwa2p3aTI5QmxJaDM5ZGJKOE43MFI0S09TRHRIR0F5bmxLUmtuRFp2bjNVOXdSUVpEaWdHaFA?oc=5" target="_blank">Donald Trump offers $1mn reward for tips leading to election fraud conviction</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -358,93 +319,106 @@ Pratt & Whitney parent, RTX, and GE Aerospace say they're improving engine durab
 
 ---
 
-## Meta plans $95bn stock offering to bankroll AI expansion - Financial Times
+## Bolsonaro’s Liberal Party accepts defeat in Brazil as Donald Trump calls result ‘rigged’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1J3R2U0SkJGLU5CaFQyUjkxLXI5bWg1RVpzU0Y0SFROWFdPUTU3dl9CN0N3UUwtT2p6eVR0Q0l2YUJUQlJBYUJFblFpMmo4X01FYllHYWxXb0hMRVdDLTBhMjllRldHRWptWGd0MjNxa0dfcGpSbXlkb1pNTFFvZkhKTTE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5" target="_blank">Meta plans $95bn stock offering to bankroll AI expansion</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1J3R2U0SkJGLU5CaFQyUjkxLXI5bWg1RVpzU0Y0SFROWFdPUTU3dl9CN0N3UUwtT2p6eVR0Q0l2YUJUQlJBYUJFblFpMmo4X01FYllHYWxXb0hMRVdDLTBhMjllRldHRWptWGd0MjNxa0dfcGpSbXlkb1pNTFFvZkhKTTE?oc=5" target="_blank">Bolsonaro’s Liberal Party accepts defeat in Brazil as Donald Trump calls result ‘rigged’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The reclusive quant billionaire coming into the light - Financial Times
+## Microsoft offers buyouts to 60,000 staff - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3ZESllxdElyRGRzS1FPSGYtZTlFQUdpajAzOTdjM1F6WlZZMk9HSnpNbnhHZDNkQW9EYVhLaUpmeGVPMWhZeGZWX0UtV3RLNUpPU3BPSExyR3FEVEFGc0dSU2t2dVFNU0IzcC1tNlllMy1hTjJ2aGd5RFkzZTRiaFZyM3M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZXX0VMUmJNVVdsTFl5T3pfTkRYZXBsdTg0S3hEbXdrYnN3UlhjSlhmTWZiUy1yM0JhdlI2RzFqVjBVYl9WWmExbVVhS2g2ZlJEUWloeEtZSEpWbGVtZlRDU3VWOTJhXzVoSlFNVUQxcmpiTGFpUXctYnp0bDdMYTVCS0k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3ZESllxdElyRGRzS1FPSGYtZTlFQUdpajAzOTdjM1F6WlZZMk9HSnpNbnhHZDNkQW9EYVhLaUpmeGVPMWhZeGZWX0UtV3RLNUpPU3BPSExyR3FEVEFGc0dSU2t2dVFNU0IzcC1tNlllMy1hTjJ2aGd5RFkzZTRiaFZyM3M?oc=5" target="_blank">The reclusive quant billionaire coming into the light</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZXX0VMUmJNVVdsTFl5T3pfTkRYZXBsdTg0S3hEbXdrYnN3UlhjSlhmTWZiUy1yM0JhdlI2RzFqVjBVYl9WWmExbVVhS2g2ZlJEUWloeEtZSEpWbGVtZlRDU3VWOTJhXzVoSlFNVUQxcmpiTGFpUXctYnp0bDdMYTVCS0k?oc=5" target="_blank">Microsoft offers buyouts to 60,000 staff</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Microsoft offers buyouts to around 60,000 employees to contain costs - Reuters
+## Who are the students set to govern Serbia? - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkJuVmVfZ3dScWQ3WHhhenM1SjFpUGJpYXUxOTBWUm9nS1VqNzJhVGw1bVJoX1dNakk0aVJJTzU1S0Nfc20zdHBSYlVvOWVuNzBuQUFoMk5fUjF3TEpBSEoydUZpVVhxSlRxLUlnMjdjTkRUSHZuMG9xU09VLWxOb1JBbTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5" target="_blank">Microsoft offers buyouts to around 60,000 employees to contain costs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkJuVmVfZ3dScWQ3WHhhenM1SjFpUGJpYXUxOTBWUm9nS1VqNzJhVGw1bVJoX1dNakk0aVJJTzU1S0Nfc20zdHBSYlVvOWVuNzBuQUFoMk5fUjF3TEpBSEoydUZpVVhxSlRxLUlnMjdjTkRUSHZuMG9xU09VLWxOb1JBbTg?oc=5" target="_blank">Who are the students set to govern Serbia?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump administration's firing of prosecutor Maurene Comey was unlawful, judge rules - Reuters
+## Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWZ2TUkxWGJOaXdWYTVwUkFCMFJTZlUwTW1GYUZ3LTBxNEtLcE91UGVaWkNJZ0JMTHRUYmRVc2ZObGZ0M1V5YVNWYkZ5UlJBSS16eHpLSTFyRjAxQmc1VFQ1UmhFT2RlNVo3UjFLd0dGRmZSZHFxTXlhTFVwbF9KUU13QmRuaktSZEFnbFgzUXltNGlVQWdXNlJlUDFmdHgtQmRneG5TcmNyUGhYS0pZOHRIalhCMmFMNUF3Z1pJazNnNFRNOWttYmVQOA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWZ2TUkxWGJOaXdWYTVwUkFCMFJTZlUwTW1GYUZ3LTBxNEtLcE91UGVaWkNJZ0JMTHRUYmRVc2ZObGZ0M1V5YVNWYkZ5UlJBSS16eHpLSTFyRjAxQmc1VFQ1UmhFT2RlNVo3UjFLd0dGRmZSZHFxTXlhTFVwbF9KUU13QmRuaktSZEFnbFgzUXltNGlVQWdXNlJlUDFmdHgtQmRneG5TcmNyUGhYS0pZOHRIalhCMmFMNUF3Z1pJazNnNFRNOWttYmVQOA?oc=5" target="_blank">Trump administration's firing of prosecutor Maurene Comey was unlawful, judge rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5" target="_blank">Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hezbollah readies for new regional war with funds from Iran, sources say - Reuters
+## Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5" target="_blank">Hezbollah readies for new regional war with funds from Iran, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5" target="_blank">Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic discloses month-long training pause, AI security breaches in IPO filing - Reuters
+## Israel election: What happens after polls close? - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFVuMXc0NG9yVWhJX1dwRGhpU2lNLW1IUVlIQl9nNlV6NllfazByZ1NqZ2pIN2ZTMExWRnQ0ZWM4RnNmeDg4dkN0c0VmRGhpSXRWMTBWTVJOc0tuaEFMTHFoZFpVYXVkV01qdlFKRmpCdERNLWxzcTRrd2ZTbV9MQ2lNWGNOY2YtbUZNLU01R0YwNk1BbDlOT2pxdGtuenpPZ2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5" target="_blank">Anthropic discloses month-long training pause, AI security breaches in IPO filing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFVuMXc0NG9yVWhJX1dwRGhpU2lNLW1IUVlIQl9nNlV6NllfazByZ1NqZ2pIN2ZTMExWRnQ0ZWM4RnNmeDg4dkN0c0VmRGhpSXRWMTBWTVJOc0tuaEFMTHFoZFpVYXVkV01qdlFKRmpCdERNLWxzcTRrd2ZTbV9MQ2lNWGNOY2YtbUZNLU01R0YwNk1BbDlOT2pxdGtuenpPZ2c?oc=5" target="_blank">Israel election: What happens after polls close?</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic's IPO filing shows explosive growth, risks and staggering costs - Reuters
+## Trump administration loses push to block California votes from alleged noncitizens - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5" target="_blank">Anthropic's IPO filing shows explosive growth, risks and staggering costs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5" target="_blank">Trump administration loses push to block California votes from alleged noncitizens</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5" target="_blank">Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
