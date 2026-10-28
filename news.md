@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-27 17:48:08
+更新时间：2026-10-28 05:02:26
 
-## Mbappé Apologizes for Perceived Mao Insult After China Backlash
+## Your Portfolio Reset: How Investors Should Think About The Next Decade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-27/mbappe-apologizes-for-perceived-insult-after-backlash-video
+链接：https://www.bloomberg.com/news/articles/2026-10-28/your-portfolio-reset-how-investors-should-think-about-the-next-decade
 
 正文长度：0
 
-摘要：French football star Kylian Mbappé has apologized for offending Chinese fans with comments seen as insulting to Mao Zedong. Tiwa Adebayo explains the backlash. (Source: Bloomberg)
+摘要：<p>The forces that powered the last 10 years are shifting. Here’s how to prepare for what comes next.&nbsp;</p>
 
 
 ---
 
-## Nasdaq 100 Gains on AI Wagers Before Tech Earnings: Markets Wrap
+## Ambani’s Jio Surges in Debut After India-Record IPO
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video
 
 正文长度：0
 
-摘要：A rally in technology companies lifted stocks ahead of results from industry giants valued at more than $10 trillion, with traders also bracing for the Federal Reserve rate decision.
+摘要：Jio Platforms Ltd. surged in its trading debut on Wednesday after billionaire Mukesh Ambani’s telecom giant raised a record $3.1 billion in India’s biggest initial public offering, defying a poor track record for the country’s mega deals. (Source: Bloomberg)
 
 
 ---
 
-## A Visit to the AI Model Retirement Home
+## PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home
+链接：https://www.bloomberg.com/news/articles/2026-10-28/php-usd-marcos-pledges-to-do-all-we-can-to-defend-philippine-peso
 
 正文长度：0
 
-摘要：Another use of compute.
+摘要：President Ferdinand Marcos Jr. pledged that Philippine authorities will do all they can to defend the peso as the currency weakened to a record low this week.
 
 
 ---
 
-## Millennium Taps Prediction Markets Data for Trading Edge
+## Aussie-Kiwi Rates Split Drives Biggest Currency Move in 9 Years
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-27/millennium-taps-prediction-markets-data-in-hunt-for-trading-edge
+链接：https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-dollar-slides-most-versus-aussie-since-2017-on-rbnz
 
 正文长度：0
 
-摘要：Millennium Management is exploring ways to use prediction markets to inform its trading strategies, joining a growing roster of Wall Street firms dipping their toes into the space.
+摘要：New Zealand’s dollar slid the most in nine years against its Australian peer after the smaller nation’s central bank unexpectedly kept policy rates on hold, while cost pressures across the Tasman accelerated.
 
 
 ---
 
-## ‘Loser’ Stocks Are Appealing Amid AI Frenzy, Causeway CEO Says
+## China Robot Stocks Extend Rally With Unitree Earnings in Focus
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-27/-loser-stocks-are-appealing-amid-ai-frenzy-causeway-ceo-says
+链接：https://www.bloomberg.com/news/articles/2026-10-28/china-robot-stocks-extend-rally-with-unitree-earnings-in-focus
 
 正文长度：0
 
-摘要：Investors should look beyond the biggest winners in the AI boom and bet on overlooked stocks, according to Causeway Capital Management Chief Executive Officer Sarah Ketterer.
+摘要：Chinese robotic stocks extended a recent rally spurred by expectations of shorter timelines for mass deployment, with upcoming earnings from industry leader Yushu Technology Co. poised to provide another boost.
 
 
 ---
@@ -73,7 +73,7 @@
 
 链接：https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html
 
-正文长度：2737
+正文长度：2745
 
 摘要：President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.
 
@@ -84,8 +84,8 @@
 President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% on Jan. 1 if the two countries don't reach a deal.
 "That really would be catastrophic for the entire industry," Jennifer Thomas, senior vice president of corporate affairs at American Honda Motor Co., said during a Reuters automotive conference in Detroit.
 Thomas said, ideally, the countries would also include Mexico in the arrangement and reach a trilateral deal, like the United States-Mexico-Canada Agreement, or USMCA. Trade associations representing Honda, as well as every major player in the U.S. automotive industry, have been advocating for that more comprehensive accord and against bilateral arrangements between two countries.
-Her comments come months after U.S. Trade Representative Jamieson Greer announced that the U.S. would not automatically extend USMCA, moving the trade pact into an annual review process instead of a 16-year trilateral extension.
-Trump negotiated USMCA to replace the North American Free Trade Agreement during his first term and it took effect in 2020. He later soured on it and accused Canada of "ripping off the United States of America for years."
+Her comments come months after U.S. Trade Representative Jamieson Greer announced that the U.S. would not automatically extend the USMCA, moving the trade pact into an annual review process instead of a 16-year trilateral extension.
+Trump negotiated the USMCA to replace the North American Free Trade Agreement during his first term and it took effect in 2020. He later soured on it and accused Canada of "ripping off the United States of America for years."
 Thomas said she is "cautiously optimistic" that cooler heads will prevail to avoid the doubling of tariffs, which Trump threatened in August if no deal can be reached.
 She said she's encouraged by recent reports that the U.S. and Canada have reestablished trade talks, including easing levies on critical materials such as aluminum.
 "Our message has been clear: We need that trilateral agreement to stay in place in order for the U.S. industry to be competitive," Thomas said. "It's integral to our success."
@@ -197,13 +197,13 @@ But as a disease the U.S. knows how to prevent spreads, experts say the stakes o
 
 ---
 
-## Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027
+## Boeing says it won't significantly ramp up 737 Max production until late 2027
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html
 
-正文长度：3084
+正文长度：3079
 
 摘要：Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.
 
@@ -212,9 +212,9 @@ But as a disease the U.S. knows how to prevent spreads, experts say the stakes o
 
 > Boeing doesn't expect to significantly ramp up output of its best-selling 737 Max aircraft until the second half of 2027 as it grapples with a slower-than-expected pace of wing production.
 CEO Kelly Ortberg said Tuesday on the company's quarterly earnings call that Boeing is targeting a production rate of 52 planes a month in the second half of 2027. It has been manufacturing about 47 of its 737 Max planes a month.
-Ortberg had told investors last month that the production stabilize was taking a "little bit longer" than expected becuase of the wings production pace.
-Boeing stock was down about 9% during the call.
-"I know everybody wants us to go faster but we're going to do it right," Ortberg told CNBC's Phil LeBeau in an interview Tuesday.
+Ortberg had told investors last month that the production stabilize was taking a "little bit longer" than expected because of the wings production pace.
+Boeing stock fell 10% in trading Tuesday.
+"I know everybody wants us to go faster, but we're going to do it right," Ortberg told CNBC's Phil LeBeau in an interview Tuesday.
 Ortberg reiterated the company's priority in stabilizing production on Tuesday.
 "Looking ahead, expectations are rising, and they should," Ortberg said in a note to staff on Tuesday. "That means elevating our performance through lean, productivity and efficiency improvements in our day-to-day work while upholding our high levels of safety and quality."
 Aircraft production and deliveries are key to Boeing's recovery since the bulk of an aircraft's price is paid when the customer receives it.
@@ -278,7 +278,7 @@ The company's juice, value-added dairy and plant-based beverages business report
 
 ---
 
-## US law firm Weil readies restructuring as options dwindle and partners exit - Financial Times
+## Law firm Weil prepares for possible wind-down as crisis deepens - Financial Times
 
 来源：金融时报
 
@@ -286,124 +286,124 @@ The company's juice, value-added dairy and plant-based beverages business report
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE9JX1VEb2x5clNRbGx6alllQUVmNVRFYmdwT25RMU5uT25JSVFhbnd3OUxlcUZuSWtOOVFud0J2T04yQ3ZKZlBJeDZ5bzRBckJvNDAtWDhyTVlmVGZIWnJCZlhROUp0NTBjQVRZWnc2QzN0RldfMmRnN2REdXVvLW1IZGI?oc=5" target="_blank">US law firm Weil readies restructuring as options dwindle and partners exit</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE9JX1VEb2x5clNRbGx6alllQUVmNVRFYmdwT25RMU5uT25JSVFhbnd3OUxlcUZuSWtOOVFud0J2T04yQ3ZKZlBJeDZ5bzRBckJvNDAtWDhyTVlmVGZIWnJCZlhROUp0NTBjQVRZWnc2QzN0RldfMmRnN2REdXVvLW1IZGI?oc=5" target="_blank">Law firm Weil prepares for possible wind-down as crisis deepens</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Israel election turnout highest on record in historic vote - Financial Times
+## Washington discusses Russian deals for US oil majors in Ukraine peace talks - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTlOWkUtamFDbU9aYXhzcXFXVzFZbVMwSXpBSlV4M2hxNGhLZ2NjLVJhYS1xc2R1MUk0ZnlwdDZ5M3FTWE1xZy1Pb3hBTXZ6anhkcExzdUo2ODJtdk9FMmdNMzUwQ0xtV1dLRlFWVVhTV3VzZTNQSld0QWtyZTZNRTUxVnA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZrMHRhQWxzdDR0VmtsaUs4THFGSDBTODl6YWRVRXJGVVRoa0UtZjBtZmhrQVJfa2JIWVlGZWxxc1I1bm1GeEZYV2gtdlYyWXFacGU2WnpleTU4THJaTFBjVm5XZzU0WjFHTlZVd1dOX1pTTy04V2JZNDZraFpUWkJaZW4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTlOWkUtamFDbU9aYXhzcXFXVzFZbVMwSXpBSlV4M2hxNGhLZ2NjLVJhYS1xc2R1MUk0ZnlwdDZ5M3FTWE1xZy1Pb3hBTXZ6anhkcExzdUo2ODJtdk9FMmdNMzUwQ0xtV1dLRlFWVVhTV3VzZTNQSld0QWtyZTZNRTUxVnA?oc=5" target="_blank">Israel election turnout highest on record in historic vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZrMHRhQWxzdDR0VmtsaUs4THFGSDBTODl6YWRVRXJGVVRoa0UtZjBtZmhrQVJfa2JIWVlGZWxxc1I1bm1GeEZYV2gtdlYyWXFacGU2WnpleTU4THJaTFBjVm5XZzU0WjFHTlZVd1dOX1pTTy04V2JZNDZraFpUWkJaZW4?oc=5" target="_blank">Washington discusses Russian deals for US oil majors in Ukraine peace talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EY defies consulting downturn to pay UK partners record £870,000 - Financial Times
+## EU pressures allies over looming Ukraine funding crunch - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2RyekRCMXhZWEpfSmVudFhxTHlVeTJNUVpRTC04NGlTa1A4QVNYYXNSN0IxYjNLbEF5SDAtOUpHbDQtQnRhYXFYd2Zfd3FqU1J1UkFoOTVWdjQtUlY0T3NPb3ludzBqeFZ0Uk5JOUl1ZlBBRHktcGEtX1ZmdzNkcjZTaTk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWJUeUJpRzQ5TGh4Q0Qwak4zZjI4V2VPUHF0ekR6YVhGVlRYSHlvUGdCU3h1X1RUNnhQTXpIVGEtbWZqcVQzcXZGWllUVEw3VXZnSXNYczkzNTFZaUZ1Yk9VaWdONGZDVWp2cUJBR3JWRzZockF4LWEySUVocWFneWF2bmU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2RyekRCMXhZWEpfSmVudFhxTHlVeTJNUVpRTC04NGlTa1A4QVNYYXNSN0IxYjNLbEF5SDAtOUpHbDQtQnRhYXFYd2Zfd3FqU1J1UkFoOTVWdjQtUlY0T3NPb3ludzBqeFZ0Uk5JOUl1ZlBBRHktcGEtX1ZmdzNkcjZTaTk?oc=5" target="_blank">EY defies consulting downturn to pay UK partners record £870,000</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWJUeUJpRzQ5TGh4Q0Qwak4zZjI4V2VPUHF0ekR6YVhGVlRYSHlvUGdCU3h1X1RUNnhQTXpIVGEtbWZqcVQzcXZGWllUVEw3VXZnSXNYczkzNTFZaUZ1Yk9VaWdONGZDVWp2cUJBR3JWRzZockF4LWEySUVocWFneWF2bmU?oc=5" target="_blank">EU pressures allies over looming Ukraine funding crunch</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Microsoft offers buyouts to 60,000 staff - Financial Times
+## Elite consulting firms raise starting salaries for first time since 2022 - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZXX0VMUmJNVVdsTFl5T3pfTkRYZXBsdTg0S3hEbXdrYnN3UlhjSlhmTWZiUy1yM0JhdlI2RzFqVjBVYl9WWmExbVVhS2g2ZlJEUWloeEtZSEpWbGVtZlRDU3VWOTJhXzVoSlFNVUQxcmpiTGFpUXctYnp0bDdMYTVCS0k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmxxaktzLVR1clNyUU1xaGJNMWhZT19LelE4Q2t5QWtMckFKdWROVEpVN1VYbmQ4SEpKZkYyUFFhOTB0aTlVcnhDV01DSlpOY0x5bTRVVlA1a1NQRUlsLWVYSFlhRkk2QXctcmUwMVlRSHdzWUxNSXZ5MDA3Q0RPX0FQbzk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZXX0VMUmJNVVdsTFl5T3pfTkRYZXBsdTg0S3hEbXdrYnN3UlhjSlhmTWZiUy1yM0JhdlI2RzFqVjBVYl9WWmExbVVhS2g2ZlJEUWloeEtZSEpWbGVtZlRDU3VWOTJhXzVoSlFNVUQxcmpiTGFpUXctYnp0bDdMYTVCS0k?oc=5" target="_blank">Microsoft offers buyouts to 60,000 staff</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmxxaktzLVR1clNyUU1xaGJNMWhZT19LelE4Q2t5QWtMckFKdWROVEpVN1VYbmQ4SEpKZkYyUFFhOTB0aTlVcnhDV01DSlpOY0x5bTRVVlA1a1NQRUlsLWVYSFlhRkk2QXctcmUwMVlRSHdzWUxNSXZ5MDA3Q0RPX0FQbzk?oc=5" target="_blank">Elite consulting firms raise starting salaries for first time since 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Inside Donald Trump Jr’s Mongolian hunting trip with a Kremlin-linked businessman - Financial Times
+## Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEVJcmZmVUN5Ukg4MWhHZlhiVU9wa1FiT3pvdFM5Q3VXQW5KRFNwc1ZKb0J6X2hJYTFFbWJsVlRSQkMyWVhWUktHaWowa3BNbTRoSHc4cDhUaFM2MTZtdjhVcHp5VzhBUWxnQlhkSWZidllOdmVDejk2Q0FvNWtDT2tJQmM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0NCd0F3Uk9Ba3dlSXNtODhtcGhKYkxjeWNFQ19MdkhfemtKaGhtcGQtd00yd2U1MDg4QXVqVEd0d1NzakxrMjBHLVRmX0JzQkQ1a0kxTktZcmlDNkZEQWRUSkxKaGVKdERtck9uRHNEbU11TnE2QkI0LWI4akRLSzBIbE0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEVJcmZmVUN5Ukg4MWhHZlhiVU9wa1FiT3pvdFM5Q3VXQW5KRFNwc1ZKb0J6X2hJYTFFbWJsVlRSQkMyWVhWUktHaWowa3BNbTRoSHc4cDhUaFM2MTZtdjhVcHp5VzhBUWxnQlhkSWZidllOdmVDejk2Q0FvNWtDT2tJQmM?oc=5" target="_blank">Inside Donald Trump Jr’s Mongolian hunting trip with a Kremlin-linked businessman</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0NCd0F3Uk9Ba3dlSXNtODhtcGhKYkxjeWNFQ19MdkhfemtKaGhtcGQtd00yd2U1MDg4QXVqVEd0d1NzakxrMjBHLVRmX0JzQkQ1a0kxTktZcmlDNkZEQWRUSkxKaGVKdERtck9uRHNEbU11TnE2QkI0LWI4akRLSzBIbE0?oc=5" target="_blank">Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Brazil wonders: Where on earth is Flavio Bolsonaro? - Reuters
+## Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmptb013S1hpZ2RvLUZSRWh6dHV5cWFLZC0tdVBFdE8yVk04N2xjd0Q2VzZvdC1mVEUtZmdDMW9LQlRET1doTFFJd2xqWlJZTWVhWVdtamNCWk9WMjAyanRzTjNDcXEzNG80bWM4a3p1bkp2Vm43em0tcUI1ZkE0Tm1RaHc5cEdVcS1ER0loZU1xczlmQ1gxaXZ5Q1Y3Tnp4eDNKZ09zSDNWbUxnNmt3Q1Rvc1FPcmV1dVpmSmlSRHVTc2M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5" target="_blank">Brazil wonders: Where on earth is Flavio Bolsonaro?</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmptb013S1hpZ2RvLUZSRWh6dHV5cWFLZC0tdVBFdE8yVk04N2xjd0Q2VzZvdC1mVEUtZmdDMW9LQlRET1doTFFJd2xqWlJZTWVhWVdtamNCWk9WMjAyanRzTjNDcXEzNG80bWM4a3p1bkp2Vm43em0tcUI1ZkE0Tm1RaHc5cEdVcS1ER0loZU1xczlmQ1gxaXZ5Q1Y3Tnp4eDNKZ09zSDNWbUxnNmt3Q1Rvc1FPcmV1dVpmSmlSRHVTc2M?oc=5" target="_blank">Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Flavio Bolsonaro misses deadline to turn in passports to Brazil police - Reuters
+## Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnROWC1LNTZRLVpEbGdRRUI3YWN4X3FBbEJNeW0tX1ZqVzFfZ3ZGYXVGcVV4U194V3hEU1RROVFUemxNT0pRVkdPNFllWDE5ZjNxNnhJeC1HWmJ5QVZVdEZ2TUxVQ09kc203ZGl5NzlxV2RBcVFmMFgxamZYYzFzWkk0bWZRMXVYUzBSNGJRSlhRRlFyUzVUUlhSUWVCVWFYa2lnQ2FybW1Rb05xUU8xTHFB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnROWC1LNTZRLVpEbGdRRUI3YWN4X3FBbEJNeW0tX1ZqVzFfZ3ZGYXVGcVV4U194V3hEU1RROVFUemxNT0pRVkdPNFllWDE5ZjNxNnhJeC1HWmJ5QVZVdEZ2TUxVQ09kc203ZGl5NzlxV2RBcVFmMFgxamZYYzFzWkk0bWZRMXVYUzBSNGJRSlhRRlFyUzVUUlhSUWVCVWFYa2lnQ2FybW1Rb05xUU8xTHFB?oc=5" target="_blank">Flavio Bolsonaro misses deadline to turn in passports to Brazil police</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5" target="_blank">Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says he will ban term artificial intelligence - Reuters
+## Stocks get AI lift, dollar holds steady ahead of Fed decision - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5" target="_blank">Trump says he will ban term artificial intelligence</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5" target="_blank">Stocks get AI lift, dollar holds steady ahead of Fed decision</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Critics attack 'anti-democratic' French bill making rioters pay - Reuters
+## OpenAI plans to buy Google's AI chips, The Information reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1RoMGJHVE96MkNSdDBSb3o2TnNlN3ItNmNVR2p0eFdBZ0J6UzRrNTdHX2VmYVZ6RVMtUFJINFFBVGhqQkpmcWp3V1FOc1gyV091Q3NtXzJ3WVFMSy1nSDhuS01zbmRjeU9NOF9feU5Xc1hBMXpfNjNHNXJFYlBHLXRjOFdtNEozdmw0LWczVzIwZWRQYzgweWlScGRHcGJCY2lPc21CNWw3WDZ1cWJF?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1RoMGJHVE96MkNSdDBSb3o2TnNlN3ItNmNVR2p0eFdBZ0J6UzRrNTdHX2VmYVZ6RVMtUFJINFFBVGhqQkpmcWp3V1FOc1gyV091Q3NtXzJ3WVFMSy1nSDhuS01zbmRjeU9NOF9feU5Xc1hBMXpfNjNHNXJFYlBHLXRjOFdtNEozdmw0LWczVzIwZWRQYzgweWlScGRHcGJCY2lPc21CNWw3WDZ1cWJF?oc=5" target="_blank">Critics attack 'anti-democratic' French bill making rioters pay</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5" target="_blank">OpenAI plans to buy Google's AI chips, The Information reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US Supreme Court denies immigration judges the power to shelve deportation cases - Reuters
+## US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUlOOENGLW1kbHNXT09LSXFPbHpJTnNKbjlHYjdkemtGbV9tdmFvRzBpTTRLbjNod3BQWWtSOXkxQ2ZEc3VxempEcDRiOTJEd19SSFA1RTh5dGY3aFVpNDIydjQ3Sm9mbW5Melc2dUJiNktyZ2xKZkNGcTk4RnhXcFd6Sk1adlFvM0hBQk9rdjlsejNyTWFYclJaVnN2Qm1xSDBLTmRTeGRkcy1VaHZ6bDEtWXhsZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUlOOENGLW1kbHNXT09LSXFPbHpJTnNKbjlHYjdkemtGbV9tdmFvRzBpTTRLbjNod3BQWWtSOXkxQ2ZEc3VxempEcDRiOTJEd19SSFA1RTh5dGY3aFVpNDIydjQ3Sm9mbW5Melc2dUJiNktyZ2xKZkNGcTk4RnhXcFd6Sk1adlFvM0hBQk9rdjlsejNyTWFYclJaVnN2Qm1xSDBLTmRTeGRkcy1VaHZ6bDEtWXhsZw?oc=5" target="_blank">US Supreme Court denies immigration judges the power to shelve deportation cases</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5" target="_blank">US costs of Iran war rise to over $47 billion, according to Pentagon estimate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
