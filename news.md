@@ -1,94 +1,174 @@
 # 每日财经新闻
 
-更新时间：2026-10-28 18:12:15
+更新时间：2026-10-29 05:14:32
 
-## Stocks Drift as Fed Holds Rates, Gives No Signal: Markets Wrap
+## Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Stocks fluctuated after the Federal Reserve held interest rates steady, but refrained from offering a clear signal that it will hike in December.
+摘要：Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.
 
 
 ---
 
-## Boston Tower Owner Buys It Again at 68% Discount After Default
+## Chinese Tech Stocks Sink Even as Chipmaker Sales Surge 1,800%
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction
+链接：https://www.bloomberg.com/news/articles/2026-10-29/chinese-tech-stocks-sink-even-as-chipmaker-sales-surge-1-800
 
 正文长度：0
 
-摘要：A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third the price it paid in 2019, a stark illustration of how far building values have fallen in the wake of the pandemic.
+摘要：Chinese tech hardware shares tumbled as eye-popping quarterly results at some companies failed to offset persistent concerns over fundamentals and weak global AI sentiment.
 
 
 ---
 
-## Bolsonaro huye a Miami y desata ola de memes en Brasil
+## Henderson Land: HK Home Market Resilient to High Rates
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-28/bolsonaro-huye-a-miami-y-desata-ola-de-memes-en-brasil-video
+链接：https://www.bloomberg.com/news/videos/2026-10-29/henderson-land-hk-home-market-resilient-to-high-rates-video
 
 正文长度：0
 
-摘要：Flávio Bolsonaro llegó a Miami tras su sorpresiva derrota en las elecciones presidenciales de Brasil. Mientras crecen las especulaciones sobre su salida del país, las redes sociales brasileñas respondieron con una ola de memes. (Source: Bloomberg)
+摘要：Andrew Fung, CFO at Henderson Land, discusses the impact of higher interest rates on Hong Kong's property market. He also says rental yields are supporting the housing market in the financial hub. He speaks exclusively on "Bloomberg: The China Show." (Source: Bloomberg)
 
 
 ---
 
-## Latest Oil Market News and Analysis for Oct. 28
+## Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28
+链接：https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average
 
 正文长度：0
 
-摘要：Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.
+摘要：Japan’s two-year government bond auction drew firm demand, as elevated yields attracted investors ahead of a Bank of Japan policy decision on Friday, where rates are widely expected to remain unchanged.
 
 
 ---
 
-## Goldman’s Mericle Says December Hike Looms
+## Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video
+链接：https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran
 
 正文长度：0
 
-摘要：Economists expect the Federal Reserve to hold interest rates steady while keeping the door open to a December move. Goldman Sachs Chief US Economist David Mericle discusses the economic outlook ahead of the Fed’s October decision on Bloomberg Open Interest. (Source: Bloomberg)
+摘要：Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.
 
 
 ---
 
-## Ford Motor is set to report earnings after the bell. Here's what Wall Street expects
+## FedEx beats expectations, raises outlook in first report since calendar adjustment
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html
+
+正文长度：2067
+
+摘要：FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> FedEx on Wednesday reported quarterly earnings that beat Wall Street expectations on the top and bottom lines and raised its full-year outlook for its newly realigned fiscal year.
+Shares of the company fell slightly in extended trading.
+Here's how the company performed for the period ended Sept. 30 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $3.74 adjusted vs. $3.36 expected
+- Revenue: $22.86 billion vs. $22.42 billion expected
+The company reported net income for the quarter of $290 million, or $1.21 per share, compared with $650 million, or $2.73 per share, during the comparable period a year prior. Adjusting for one-time items — including losses related to short-term investments, gains on the extinguishment of debt and certain restructuring costs — FedEx reported adjusted earnings per share of $3.74.
+It marks the first report of FedEx's realigned fiscal year, moving the end of its calendar from May 31 to Dec. 31. The report also comes after the company successfully spun out FedEx Freight into a separate publicly traded company.
+FedEx said its express U.S. segment operating income increased in the quarter, primarily driven by higher package yields and volume.
+"As our strong operating results and adjusted free cash flow demonstrate, FedEx is winning across high-value market segments while we optimize our network, driving an increase to our full-year outlook," CEO Raj Subramaniam said in a statement.
+For the full year, the company is now expecting adjusted earnings per share of between $18 and $18.60, compared with a prior range of $16.90 to $18.10. FedEx also said it's revising its 2026 revenue growth expectation to a roughly 12% year-over-year increase, up from previous guidance of an 11% increase.
+Earlier this week, FedEx named former AutoZone executive Jamere Jackson as the company's new chief financial officer, effective Nov. 30. He replaces Claude Russ, who served as the interim CFO since June 1. John Dietrich was announced as stepping down from that role in April.
+
+</details>
+
+
+---
+
+## Chipotle shares rise 7% after CEO says same-store sales growth will continue
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html
+
+正文长度：3188
+
+摘要：For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Chipotle Mexican Grill on Wednesday reported mixed quarterly results and said its restaurant-level operating margin shrank.
+But the burrito chain saw traffic and same-store sales grow during the quarter as low-income consumers spent more, bucking industry trends, and CEO Scott Boatwright projected a strong finish to the year.
+Shares of the company rose 7% in extended trading.
+"Broader consumer and industry headwinds may continue, but initiatives across our recipe for growth strategy are building and giving us more tools to win in any environment," Boatwright said on the company's earnings conference call. "We are still in the early stages of this work, and it's gaining traction."
+Like the broader restaurant industry, Chipotle saw trends soften in early October, although executives said its traffic has returned to growth since then. Boatwright said the company has "high confidence" in its performance for the rest of the fourth quarter.
+"We feel very confident that November and December set up very well for us," Boatwright said.
+Chief Financial Officer Adam Rymer said the company expects fourth-quarter same-store sales growth of about 2%.
+Here's what the company reported for the period ended Sept. 30 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 27 cents adjusted vs. 29 cents expected
+- Revenue: $3.29 billion vs. $3.29 billion expected
+Chipotle reported fiscal third-quarter net income of $339.9 million, or 27 cents per share, down from $382.1 million, or 29 cents per share, a year earlier. The company's restaurant-level operating margin fell from 24.5% to 23.3%.
+Excluding restaurant asset impairment charges and stock-based compensation, the company earned 27 cents per share.
+Net sales rose 9.6% to $3.29 billion, fueled by the chain's new restaurants. During the quarter, Chipotle opened 84 company-owned restaurants and five international locations run by licensees.
+In the second half of July, Chipotle said it started to see sales pull back as diners grew concerned about consuming raw lettuce due to cyclospora, although its own supply was never tied to an outbreak. Then in August, the chain disclosed that it had temporarily pulled jalapenos from Minnesota restaurants after learning its supply was potentially linked to a salmonella outbreak.
+Still, the chain was able to report same-store sales growth for its third straight quarter, shaking off last year's traffic woes.
+Sales at stores open at least 13 months increased 2.1%, lifted by a 1.3% bump in average check.
+For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, Boatwright said. And discounts aren't the reason — low-income consumers spent the most in September, when promotions were at their low point during the quarter, he told analysts.
+For the full year, Chipotle reiterated its previous forecast that its same-store sales will increase by a low-single-digit percentage.
+Looking ahead to 2027, the company is projecting that it will open between 340 and 360 new company-owned locations in the U.S. and Canada and around 15 to 25 international restaurants.
+
+</details>
+
+
+---
+
+## Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html
 
-正文长度：1575
+正文长度：3898
 
-摘要：Ford Motor is set to report third-quarter results after markets close Wednesday.
+摘要：Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> DETROIT — Ford Motor is set to announce third-quarter earnings after the markets close Wednesday.
-Here's what Wall Street expects, based on average analysts' estimates compiled by LSEG:
-- Earnings per share: 40 cents adjusted, estimated
-- Automotive revenue: $46.24 billion estimated
-Those results would mark a 2% decline in revenue compared with a year earlier and a roughly 11% decrease in adjusted earnings per share. Ford's 2025 third-quarter results included $47.19 billion in automotive revenue, net income of $2.4 billion and earnings per share of 45 cents adjusted.
-A main focus for investors will be Ford's F-Series pickup trucks, including its crucial F-150. The automaker has been recovering from supplier issues that affected truck production for much of the past year, but experienced a disruption in F-150 manufacturing due to a separate, unrelated supplier problem toward the end of September.
-Ford reported production of the F-150 declined from more than 57,500 units in August to less than 43,000 in September. The automaker said the disruption is "containable within" its existing 2026 adjusted earnings guidance.
-Wall Street analysts generally expect Ford to maintain its 2026 outlook, but they differ on how the F-150 production disruption will ultimately affect the automaker's third-quarter results. They're also watching for any changes or surprises in the company's warranty costs.
-Ford's 2026 guidance includes adjusted earnings before interest and taxes of between $10 billion and $11 billion and adjusted free cash flow of $6 billion to $7 billion.
+> DETROIT — Ford Motor expects earnings next year will be roughly in line with the automaker's anticipated results this year, the company said Wednesday as it reported mixed results for the third quarter.
+The Detroit automaker beat Wall Street's third-quarter earnings expectations but slightly missed revenue estimates. The company has been working to stabilize production of its F-Series pickup trucks after dealing with supplier issues for much of the past year.
+"This quarter's results reflect deliberate actions to improve profitability and deliver consistent financial returns," Ford CFO Sherry House told reporters during a call Wednesday.
+Ford reported third-quarter adjusted free cash flow of $4.7 billion, roughly $2 billion higher than what analysts were anticipating, according to StreetAccount.
+Here's how Ford performed in the third quarter, compared with average estimates compiled by LSEG:
+- Earnings per share: 49 cents adjusted vs. 40 cents expected
+- Automotive revenue: $46.08 billion vs. $46.24 billion expected
+The Detroit automaker also narrowed its 2026 guidance to adjusted earnings before interest and taxes of between $10.5 billion and $11 billion, compared with a previous outlook of $10 billion to $11 billion. Ford maintained its adjusted free cash flow guidance for this year of between $6 billion and $7 billion.
+House said the company expects 2027 earnings to be roughly in line with this year's results, citing several offsetting factors in production issues this year as well as rising commodity costs.
+House noted a $1.3 billion tariff refund during the first quarter of this year was largely offset by additional costs from alternative aluminum sourcing that the company does not expect to have next year, leveling out the year-over-year comparison.
+She also said production of its F-Series Super Duty trucks in Canada in 2027 will make up for lost production it's expecting at its F-150 factories to retool for new models.
+"Next year will be the third year on our journey of increasing and improving our warranty and material cost savings, and that's getting extended to structural costs throughout the company as well in terms of savings," House said.
+Ford CEO Jim Farley called 2027 a "foundational year" for the company on its way to a previously announced target of an 8% adjusted EBIT margin by 2029. The company reported a 5.4% margin during the third quarter.
+Ahead of the results, Wall Street analysts were mixed about whether Ford would be able to maintain profits in 2027.
+The company has multiple efforts that will add to costs next year: It's rolling out several new or redesigned models, including its next-generation EV and Canada-produced pickups, and is enhancing its energy business that it announced earlier this year.
+The missed revenue for the third quarter was a result of each of the automaker's main business units – which are broken into Blue traditional operations, Pro fleet and Model e electric vehicle segments – underperforming compared with Wall Street's expectations, according to StreetAccount.
+As part of its modified guidance, Ford said it now expects pre-tax earnings of its Ford Blue unit to be $5.5 billion, which is at the high end of a previous guidance.
+It's also anticipating EBIT of about $7 billion for the year for Ford Pro and Ford Model e losses of about $4 billion. Its Ford Credit unit is expected to record about $2.8 billion in EBIT for 2026.
+Ford's overall revenue, which includes its credit segment, was off roughly 2% compared with the third quarter of last year, to $49.5 billion.
+Its net income also was off $400 million from a year earlier to $2 billion, while adjusted earnings before interest and taxes were up slightly year-over-year to $2.7 billion.
+Ford's 2025 third-quarter results included $47.19 billion in automotive revenue, net income of $2.4 billion and earnings per share of 45 cents adjusted.
 
 </details>
 
@@ -101,7 +181,7 @@ Ford's 2026 guidance includes adjusted earnings before interest and taxes of bet
 
 链接：https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html
 
-正文长度：1454
+正文长度：1575
 
 摘要：Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book
 
@@ -111,10 +191,11 @@ Ford's 2026 guidance includes adjusted earnings before interest and taxes of bet
 > Frontier Airlines reported a 71% increase in airfare in the third quarter as the country's largest budget airline tried to pass along an even bigger jump in jet fuel prices.
 Frontier's fare revenue averaged $67.82 per passenger in the third quarter, compared with $39.74 last year. Including the budget airline's many fees, such as for checked and carry-on luggage, total revenue per passenger rose 30% on the year to $138.22.
 Customers kept booking despite the higher prices. Frontier's passenger count rose 18% to more than 9.8 million people in the quarter. That's a difference of 1.5 million passengers from last year.
-The company said demand remains strong, even at these higher prices, but Frontier still lost money. The airline widened its third-quarter loss to $104 million from a $77 million loss a year earlier. Its fuel bill soared 82% to $425 million.
+The company said demand remains strong, even at these higher prices, but Frontier still lost money as it took a $134 million charge tied to the return of some Airbus aircraft. Excluding that and other one-time charges, Frontier had an adjusted profit of $40 million.
+Its posted a net loss of $104 million compared with a $77 million loss a year earlier. Its fuel bill soared 82% to $425 million.
 Frontier forecast potential adjusted profit in the fourth quarter, saying it expects to post an adjusted loss of 15 cents per share to adjusted earnings of as much as 5 cents per share.
 Carriers from Delta Air Lines to Frontier have said customers are mostly continuing to book flights despite higher fares, but that record jet fuel prices, their biggest cost after labor, are eroding profits.
-Frontier shares were up more than 9% in afternoon trading Wednesday.
+Frontier shares rose close to 12%.
 Frontier had eclipsed Spirit Airlines as the biggest discount carrier in the country even before that airline collapsed in May.
 
 </details>
@@ -122,13 +203,13 @@ Frontier had eclipsed Spirit Airlines as the biggest discount carrier in the cou
 
 ---
 
-## Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction
+## Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html
 
-正文长度：2914
+正文长度：2974
 
 摘要：European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.
 
@@ -140,7 +221,7 @@ Third-quarter revenues rose 1% to 37.6 billion euros from a year ago, the Chrysl
 The automaker's industrial free cash flow improved to negative 4 billion euros, up from negative 4.3 billion the year prior.
 Stellantis on Wednesday also reconfirmed its 2026 guidance and target to achieve positive free cash flow next year, which is a main focus for investors.
 "Q3 was soft, but consensus expectations were far lower. Key here is that '26 Guidance was maintained while other auto OEMs and suppliers are cutting on elevated costs," RBC Capital Markets analyst Tom Narayan said Wednesday in an investor note.
-Stellantis stock rose roughly 9% Wednesday in Milan and was up by 12% in early trading in New York, but it remains sharply down since the beginning of the year.
+Stellantis stock on the New York Stock Exchange rose 13% on Wednesday to close at $4.69 a share. Shares in Milan closed at 4.28 euros, up 15.4%. Shares in both markets remain sharply down since the beginning of the year.
 Stellantis CEO Antonio Filosa told investors Wednesday that the company is ahead of schedule on its turnaround plan, which was announced in May. He said Stellantis expects to exceed its previously announced cost-cutting efforts of 6 billion euros under the plan by 2028, including 2.4 billion euros to start 2027.
 "We are very confident in reaffirming our '26 guidance. Those include '27 free cash flow positive," Filosa said Wednesday in response to concerns about the carmaker's ability to achieve its free cash flow target.
 Stellantis' 2026 guidance includes a mid-single-digit percentage increase in net revenue and a low-single-digit adjusted operating margin.
@@ -157,196 +238,132 @@ Filosa called for regulation that "incentivizes, rewards, and protects the ones 
 
 ---
 
-## Why China is desperate to ship cars outside of the country
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/28/china-car-exports.html
-
-正文长度：3000
-
-摘要：Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> To understand why China is desperate to ship cars overseas, visit a dealership in Beijing.
-Autumn has traditionally been the peak time to buy vehicles in the country, but this year many showrooms are empty or shut.
-Car salesman Li Ke said that other than the Covid-19 pandemic, the 2026 "golden September and silver October" season, as it's known, is the slowest he's seen in his 26 years on the job.
-"In past years, customers would come to the showrooms nonstop," he told CNBC during an interview in his deserted showroom at a complex of dealerships on the outskirts of the Chinese capital. "We would have deals to sign every day. But nowadays we see only two to three deals a week. It's a dramatic drop."
-Many people in China aren't buying cars because an unstable job market and a continued slide in property prices have undercut consumer confidence. The government has also scaled back incentives such as cash-for-clunkers subsidies and tax breaks to go electric, car salespeople said.
-Passenger car retail sales for 2026 in China totaled 13.33 million units through September, falling 21.7% from a year ago, according to the China Passenger Car Association. For the full year 2026, China's domestic passenger car retail sales are set to drop 22% to 18.5 million vehicles, the association said — under the level recorded in the first year of the pandemic.
-Even electric vehicles, which were once a bright spot, are down. Gasoline car sales have been declining in China because of the country's transition to electric vehicles, but sales in China of new-energy vehicles — which includes EVs — dropped by 12.8% from January through September, according to the association.
-"Customers are watching every penny," Li said. "When looking at all the new functions on all these new models, they are weighing what is most practical, economic and worth their money over the long term. We don't see impulse buying. Because of the bad economy, people are taking more time to replace their cars."
-The fierce competition has led to bruising price wars in recent years, a key reason Chinese carmakers have cast their eyes overseas and why Beijing is fearful of partners like the U.S. and Europe putting up coordinated trade barriers against its massive car exports, analysts said.
-Industrial profits for the first nine months of the year were up 15.5% from the same period in 2025, but September showed signs of weakness relative to the prior eight months, according to China's National Bureau of Statistics. For the auto manufacturing industry specifically, profits from January to September shrank by 22.8% compared with last year.
-To preserve cash, Li's dealership moved out of a pricey streetside space to one with less foot traffic but that rents at a fraction of the cost.
-With profit margins eroding, Li said he sees little point in offering further discounts. He said the bigger hurdle is the prevailing Chinese consumer attitude toward big-ticket purchases.
-"Chinese buyers would rather wait," he said.
-
-</details>
-
-
----
-
-## Honda warns 50% Canada auto tariffs would be catastrophic for industry
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html
-
-正文长度：2745
-
-摘要：President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> DETROIT — The automotive industry faces a "catastrophic" scenario if the U.S. and Canada cannot reach a new trade deal by the end of this year, an executive with Honda Motor warned Tuesday.
-President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% on Jan. 1 if the two countries don't reach a deal.
-"That really would be catastrophic for the entire industry," Jennifer Thomas, senior vice president of corporate affairs at American Honda Motor Co., said during a Reuters automotive conference in Detroit.
-Thomas said, ideally, the countries would also include Mexico in the arrangement and reach a trilateral deal, like the United States-Mexico-Canada Agreement, or USMCA. Trade associations representing Honda, as well as every major player in the U.S. automotive industry, have been advocating for that more comprehensive accord and against bilateral arrangements between two countries.
-Her comments come months after U.S. Trade Representative Jamieson Greer announced that the U.S. would not automatically extend the USMCA, moving the trade pact into an annual review process instead of a 16-year trilateral extension.
-Trump negotiated the USMCA to replace the North American Free Trade Agreement during his first term and it took effect in 2020. He later soured on it and accused Canada of "ripping off the United States of America for years."
-Thomas said she is "cautiously optimistic" that cooler heads will prevail to avoid the doubling of tariffs, which Trump threatened in August if no deal can be reached.
-She said she's encouraged by recent reports that the U.S. and Canada have reestablished trade talks, including easing levies on critical materials such as aluminum.
-"Our message has been clear: We need that trilateral agreement to stay in place in order for the U.S. industry to be competitive," Thomas said. "It's integral to our success."
-Honda is the second-largest producer of vehicles in Canada behind Toyota Motor, but many automotive officials have voiced concerns about the lack of a North American trade deal and tariff uncertainty due to the number of parts that regularly cross the borders for vehicle production.
-While Honda has established large operations in Canada, the company reports that more than 60% of the vehicles it sells in the U.S. are manufactured domestically across multiple U.S. assembly plants.
-"I never thought I would see the North American region be put at a disadvantage like this," Thomas said, adding that some overseas countries have better tariff rates.
-The Trump administration has negotiated trade deals with other countries such as Japan and South Korea, which are major exporters of vehicles to the U.S., that include 15% tariffs on vehicles.
-
-</details>
-
-
----
-
-## Volodymyr Zelenskyy opens door to security guarantees for Russia - Financial Times
+## Republicans seek to deflect Epstein anger on to Democrats - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlZaR1RncXZsamJKamF3YllpcEc3b09mdnNZSFppQlJuVWVGZGF6VktnSmJyZWNiM3o4N0R0Nm0wbklPbS03OC1UUUN3ZTB3dXByRzN1Z1h3WXRMV3g4SzRuSFhnNktoZmtRMTk1VHRsTTNiOHlDcFpRRXExbExTWFVaa2s?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZER2MjVZZVJHZndTWlNwWUNUaVRQOU90QVpZN181cHNWVFlDYkF3TkpfSU90Q05qaXFPQmRndjB2WXFwbmtmSnpsQ2czU2V4czNNYVY4cFNTYXJHblNQbGQ5ZEhDQ2Ztc0E2Sk9mZEVBYXJOSk5oaTVpcDZiWHNIZXVFeHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlZaR1RncXZsamJKamF3YllpcEc3b09mdnNZSFppQlJuVWVGZGF6VktnSmJyZWNiM3o4N0R0Nm0wbklPbS03OC1UUUN3ZTB3dXByRzN1Z1h3WXRMV3g4SzRuSFhnNktoZmtRMTk1VHRsTTNiOHlDcFpRRXExbExTWFVaa2s?oc=5" target="_blank">Volodymyr Zelenskyy opens door to security guarantees for Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZER2MjVZZVJHZndTWlNwWUNUaVRQOU90QVpZN181cHNWVFlDYkF3TkpfSU90Q05qaXFPQmRndjB2WXFwbmtmSnpsQ2czU2V4czNNYVY4cFNTYXJHblNQbGQ5ZEhDQ2Ztc0E2Sk9mZEVBYXJOSk5oaTVpcDZiWHNIZXVFeHc?oc=5" target="_blank">Republicans seek to deflect Epstein anger on to Democrats</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The Trump sons’ global network: money, influence and the family business - Financial Times
+## Weil leadership tells partners firm should be dissolved - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTdFQ3l4Rmp4SFl5VnMwaTZVOWhpYjJXSmN3SUZFSDZpVGxmNmZpU3RibGVGVlpEdzhzMlRzYWY2M01vWVZlSXZHbmMzNFpra09LVTF0WFFfUEp6T3N0VC1JRUNWdjJSQVgzeXNjbEwwY3JpNVZ3YlN3R2I2T3N3V3Jvd0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPWldrYzQ2cWZ2ZlpSYm9nR3NRc3Z3QktJSm05OXZmeVFqcTI2Z3o5NUh1WjdSMXNhTDNtTmV3Uzc4SXJpYzRoLU92MGhVSEZWSFNmSjJjTGlwZ3g1TVFEUWpKT3lpSlJNcUx5cWdpQ0JjSkwyZnVwZDE5NHloQ2xoNVEzQzI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTdFQ3l4Rmp4SFl5VnMwaTZVOWhpYjJXSmN3SUZFSDZpVGxmNmZpU3RibGVGVlpEdzhzMlRzYWY2M01vWVZlSXZHbmMzNFpra09LVTF0WFFfUEp6T3N0VC1JRUNWdjJSQVgzeXNjbEwwY3JpNVZ3YlN3R2I2T3N3V3Jvd0U?oc=5" target="_blank">The Trump sons’ global network: money, influence and the family business</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWldrYzQ2cWZ2ZlpSYm9nR3NRc3Z3QktJSm05OXZmeVFqcTI2Z3o5NUh1WjdSMXNhTDNtTmV3Uzc4SXJpYzRoLU92MGhVSEZWSFNmSjJjTGlwZ3g1TVFEUWpKT3lpSlJNcUx5cWdpQ0JjSkwyZnVwZDE5NHloQ2xoNVEzQzI?oc=5" target="_blank">Weil leadership tells partners firm should be dissolved</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## South Korean ‘tilt’ towards Russia alarms European allies - Financial Times
+## Samsung shares slide on lack of detail about investor returns - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9USG5uZE1hblhnOXEtSi1IYmFLM2VRTmR6Q3c5RnRFQ0NkaDJvTEgydWVRTzRzcUhQWGRjNVd0RzFkN1BVRV9JRkl2ZHRSbHd3RFIzbUJtTm9nWm9iOFVRQlF6dmM0RDZNcHRreGdLSm8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTBCdmlaTXFKLTZPUHlhTElHQUN0d0t0OWhzb056YXZQdWdhM1RnTENzT2NGcGdTQ3dxZkF2Y2s5SWFmUW1UaWJaam1GV29VVHRaQ0R3cjFoTW9IQWlBQVdGYWZwQWZsdnpnX0pFZU9VbTU1RXE1Ym1UdWxoN2dwYWthUWI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9USG5uZE1hblhnOXEtSi1IYmFLM2VRTmR6Q3c5RnRFQ0NkaDJvTEgydWVRTzRzcUhQWGRjNVd0RzFkN1BVRV9JRkl2ZHRSbHd3RFIzbUJtTm9nWm9iOFVRQlF6dmM0RDZNcHRreGdLSm8?oc=5" target="_blank">South Korean ‘tilt’ towards Russia alarms European allies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTBCdmlaTXFKLTZPUHlhTElHQUN0d0t0OWhzb056YXZQdWdhM1RnTENzT2NGcGdTQ3dxZkF2Y2s5SWFmUW1UaWJaam1GV29VVHRaQ0R3cjFoTW9IQWlBQVdGYWZwQWZsdnpnX0pFZU9VbTU1RXE1Ym1UdWxoN2dwYWthUWI?oc=5" target="_blank">Samsung shares slide on lack of detail about investor returns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## At least 68 killed in collision of high-speed trains in Spain - Financial Times
+## Google shares tumble 10% after $51bn AI outlay deepens cash burn - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHJaSGNiN25tc3pZRGlkeEE1WTlNRXlhcVg0b3ZHZEZETEx5UkstN3ZpZGJmMzBSSmpzblktb2NRVDFMSnFsSUxMMnVNQmhVNkh4ZTA5Szd1b2hncGt6ZzlEQ0hLWWY5aXd2T3NDU25oZnN4ejZwTTRESEI2Y2E1N2MxdWk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHJaSGNiN25tc3pZRGlkeEE1WTlNRXlhcVg0b3ZHZEZETEx5UkstN3ZpZGJmMzBSSmpzblktb2NRVDFMSnFsSUxMMnVNQmhVNkh4ZTA5Szd1b2hncGt6ZzlEQ0hLWWY5aXd2T3NDU25oZnN4ejZwTTRESEI2Y2E1N2MxdWk?oc=5" target="_blank">At least 68 killed in collision of high-speed trains in Spain</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5" target="_blank">Google shares tumble 10% after $51bn AI outlay deepens cash burn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Israel’s election: what happens next? - Financial Times
+## Mubadala Capital dealmaker to launch his own venture fund - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT0JBaEFBZlZOWUN3U2JkczdCX3lvSXNXTTRHTmYtb1VxcWNEYVg5SzlxRHRiNUZUeERhUmUyVGUyd0QxUGYwQXREaGJWT2FrX1RtXzdNRG9jVDF4QW1qTFktRjB5anJkZFB0NEdzTHI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUk8zTUhPTVlsU0JGbmtmNXRfMzR1SFpsQ3hJSW5rTU9vZU1XYW8xVEdNdnUzaVBEQnZVSThXa1ZsMTU0LVQ0ZWtGS09fN3JoYkpWQlRvX0l1eHdNOVRqZnl5T3VNNW1zbWR2WUhyT1NZUGNEcF9sbFBUVjRkcm02c1IyeUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT0JBaEFBZlZOWUN3U2JkczdCX3lvSXNXTTRHTmYtb1VxcWNEYVg5SzlxRHRiNUZUeERhUmUyVGUyd0QxUGYwQXREaGJWT2FrX1RtXzdNRG9jVDF4QW1qTFktRjB5anJkZFB0NEdzTHI?oc=5" target="_blank">Israel’s election: what happens next?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUk8zTUhPTVlsU0JGbmtmNXRfMzR1SFpsQ3hJSW5rTU9vZU1XYW8xVEdNdnUzaVBEQnZVSThXa1ZsMTU0LVQ0ZWtGS09fN3JoYkpWQlRvX0l1eHdNOVRqZnl5T3VNNW1zbWR2WUhyT1NZUGNEcF9sbFBUVjRkcm02c1IyeUc?oc=5" target="_blank">Mubadala Capital dealmaker to launch his own venture fund</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Putin salutes Musk's genius as Russia plays catch-up with Starlink - Reuters
+## Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd3STdjSU1aQWhudHNDZjVqQjZJMmxWdHVFbUl6VVBmUzZ0ZEVtTVl6YzZDSUVvcmdZbjhrUkkwVHp0LWVsMDg2TkhFLUJqeXZWY2FDS2xtLWpKdWVadWd2LWloOTFFa25sUG9wdWRaQnlyR2c1bElQazVoRm1TZUtaajRiQmdTdURTZW1qbnpjMXF2czlITWFGS0FvYm9reTRwMTE4RHEtQnBIWWxVOQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd3STdjSU1aQWhudHNDZjVqQjZJMmxWdHVFbUl6VVBmUzZ0ZEVtTVl6YzZDSUVvcmdZbjhrUkkwVHp0LWVsMDg2TkhFLUJqeXZWY2FDS2xtLWpKdWVadWd2LWloOTFFa25sUG9wdWRaQnlyR2c1bElQazVoRm1TZUtaajRiQmdTdURTZW1qbnpjMXF2czlITWFGS0FvYm9reTRwMTE4RHEtQnBIWWxVOQ?oc=5" target="_blank">Putin salutes Musk's genius as Russia plays catch-up with Starlink</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5" target="_blank">Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump expands hunt for noncitizen voters with broad subpoena campaign before midterms - Reuters
+## Cash is king as investors draw new battle lines in AI spending boom - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUotYWh1WFdrMnphczZlaFJpUldzNFo2TnVweFZVbDdVT1NvY0JJaHV1dV95ZnQySUtha2F3dkFnbGlMcjkwREh2ZldydDJab3JqaGRJb0E1emtsR2hOUTd4MTVmbG1LWUNPLWJVenJZQTQ5cnFsaEFfcm5EU1ROMW02Y2Y4dkRRbENOUEtRVEdfbVUxSjhwbXM1b2RqWnBGZlgtTmJVNjlhN053bVcwTnY2UFZEZlNz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUotYWh1WFdrMnphczZlaFJpUldzNFo2TnVweFZVbDdVT1NvY0JJaHV1dV95ZnQySUtha2F3dkFnbGlMcjkwREh2ZldydDJab3JqaGRJb0E1emtsR2hOUTd4MTVmbG1LWUNPLWJVenJZQTQ5cnFsaEFfcm5EU1ROMW02Y2Y4dkRRbENOUEtRVEdfbVUxSjhwbXM1b2RqWnBGZlgtTmJVNjlhN053bVcwTnY2UFZEZlNz?oc=5" target="_blank">Trump expands hunt for noncitizen voters with broad subpoena campaign before midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5" target="_blank">Cash is king as investors draw new battle lines in AI spending boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Canada, European Union officials drop 'associate member' from summit declaration - Reuters
+## Oil prices fall as peace hopes offset fears of growing Middle East conflict - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkp4Nmp2NmJtYm90dmZfX0FUQTczcUZQNzVsa2pva1BMRjhocG50X2ktZVBjMTJUbTNJNEc5cTlYZUhLaWV3NXdJWUR6RFowR0pPR3FTdzZwSHcwT1k0bVhLa2dMSm11T3JVbEw4TXFNQkFOMEwtaHNPMnl1RDJCS19WaFpBMUxZVTlqUWhCc293YjFfY1dDU2ZfLXBqNmlRVk0wYkladjR4Ty16LXo5R2tsb21BSkltUzF1eQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkp4Nmp2NmJtYm90dmZfX0FUQTczcUZQNzVsa2pva1BMRjhocG50X2ktZVBjMTJUbTNJNEc5cTlYZUhLaWV3NXdJWUR6RFowR0pPR3FTdzZwSHcwT1k0bVhLa2dMSm11T3JVbEw4TXFNQkFOMEwtaHNPMnl1RDJCS19WaFpBMUxZVTlqUWhCc293YjFfY1dDU2ZfLXBqNmlRVk0wYkladjR4Ty16LXo5R2tsb21BSkltUzF1eQ?oc=5" target="_blank">Canada, European Union officials drop 'associate member' from summit declaration</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5" target="_blank">Oil prices fall as peace hopes offset fears of growing Middle East conflict</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Dolores Huerta, US labor leader and force for human rights, dies at 96 - Reuters
+## Samsung sees AI chip shortage worsening, keeps investors in suspense on returns - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ?oc=5" target="_blank">Dolores Huerta, US labor leader and force for human rights, dies at 96</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5" target="_blank">Samsung sees AI chip shortage worsening, keeps investors in suspense on returns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US sanctions North Korean network accused of defrauding businesses - Reuters
+## Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5" target="_blank">US sanctions North Korean network accused of defrauding businesses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5" target="_blank">Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
