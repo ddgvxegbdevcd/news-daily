@@ -1,8 +1,47 @@
 # 每日财经新闻
 
-更新时间：2026-10-30 05:13:40
+更新时间：2026-10-30 17:53:27
 
-## Tech Stock Selloff Deepens on Earnings, Bonds Rise: Markets Wrap
+## Air Canada Shares Sink Amid Jet Fuel Costs, Lower Profit Outlook
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs
+
+正文长度：0
+
+摘要：Air Canada’s stock price tumbled the most in more than a month after the airline slashed its full-year guidance for the second quarter in a row on higher-than-expected jet fuel prices.
+
+
+---
+
+## Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes
+
+正文长度：0
+
+摘要：Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia roiled energy markets and drove refining results to record highs.
+
+
+---
+
+## Bessemer Trust CEO: Constructive on Markets
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video
+
+正文长度：0
+
+摘要：Disappointing earnings from Intel and Amazon add to a brutal week for the AI trade, fueling a flight into Treasuries. Bessemer Trust CEO Holly MacDonald breaks down where the firm sees pockets of opportunity in this market. (Source: Bloomberg)
+
+
+---
+
+## Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap
 
 来源：彭博社
 
@@ -10,59 +49,71 @@
 
 正文长度：0
 
-摘要：Technology shares sold for a second consecutive day as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.
+摘要：Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.
 
 
 ---
 
-## Britain Tests the Limits With Plan to Tax Its Way Out of Debt
+## Barclays, Fidera Seek Payout From Failed UAE Payments Firm
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-30/britain-tests-the-limits-with-plan-to-tax-its-way-out-of-debt
+链接：https://www.bloomberg.com/news/articles/2026-10-23/barclays-fidera-seek-payout-from-bankrupt-uae-remittances-firm
 
 正文长度：0
 
-摘要：Britain was singled out for praise by the International Monetary Fund this month for the boldest deficit-reduction plan of any Group of Seven nation. Bolder still is its decision to deliver the whole squeeze with higher taxes, with economists warning that Chancellor of the Exchequer John Healey is pushing the boundaries of what’s possible.
+摘要：Barclays Plc and London-based hedge fund Fidera Ltd are among dozens of creditors seeking to recover money they say they’re owed by Dubai’s United Arab Emirates Exchange Center LLC — a collapsed remittance provider with an estimated $1 billion hole in its balance sheet.
 
 
 ---
 
-## Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks
+## Cheaper cars are selling considerably faster than at the beginning of the year
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks
+链接：https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html
 
-正文长度：0
+正文长度：6867
 
-摘要：Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.
+摘要：Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.
 
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
----
+> Consumers are concerned about rising fuel prices and affordability — and that could be showing up in how fast the least expensive cars are moving off dealer lots.
+From the first quarter to the third, the number of days it took a dealer to sell a vehicle priced between $20,000 and $29,999 dropped 20%, according to data from Edmunds. That pace of selling saw the biggest acceleration of any price segment.
+Vehicles priced from $30,000 to $39,999 sold about 18% faster, and the number of days it took to sell the next tier — $40,000 to $49,999 — dropped nearly 12%, according to Edmunds.
+All of those price segments also took fewer days to turn than their more expensive counterparts. The lower-priced tiers took under 60 days to move off lots, with the least expensive ones selling the fastest. Every segment of vehicles above $50,000, meanwhile, took more than 60 days to sell.
+"If you're a dealer and you have inventory and that price point, you're definitely noticing," said Edmunds' Director of Insights Ivan Drury.
+Cheaper vehicles may be selling faster, but they're still hard to find. The average listing price for a new vehicle in September was $49,726, according to Cox Automotive.
+And, the overall sales numbers for some key segments priced under $40,000 have fallen. This has especially been true for compact cars, which are down roughly 4% since the beginning of 2026, and compact SUVs, down nearly 8% in the same period, according to Cox Automotive.
+These different data points seem to be moving in opposite directions. On the one hand, cheaper cars are moving faster off dealer lots. On the other, sales of affordable segments are down.
+There are a few reasons for this, according to analysts who follow the industry. One is that there might not be enough lower-priced vehicles on dealer lots in the first place.
+"I think there are some supply things going on at that end of the market," said Cox Automotive Deputy Chief Economist Mark Strand. "We have to kind of grade the market on a curve until we see what's going on with fourth-quarter data."
+The compact SUV segment, in particular, is suffering from the lack of two popular models.
+The Toyota RAV4, which is the most popular SUV in the U.S., has been in short supply at many dealerships this year, as the automaker shifts production to its Kentucky factory, Strand said. The company also has shifted the entire lineup to a hybrid powertrain at a time when hybrids have been in exceptionally high demand.
+The other missing SUV is the Ford Escape, which that automaker discontinued to make way for its upcoming midsize EV pickup truck.
+The other slow-selling, low-priced segment — compact cars — faces structural inventory challenges, said AutoForecast Solutions Vice President of Global Forecasting Sam Fiorani.
+"We've seen the disappearance of affordable, compact new vehicles over the last decade," he said.
+Detroit automakers swapped out their lineups of compact coupes and sedans in favor of small crossover SUVs, which tend to carry slightly higher sticker prices than comparably sized passenger cars.
+Currently, there is not a single compact passenger sedan for sale by an American manufacturer. Most on the market are Japanese or Korean, with a few German models, such as the Volkswagen Jetta and the Golf hatchback.
+"You have all these brands that have just abandoned the marketplace," Fiorani said.
+The smallest American passenger cars are the Ford Mustang, General Motors' Chevrolet Corvette, and the midsize Tesla Model 3 sedan, according to AutoForecast Solutions. The firm classifies both the Mustang and the Corvette as sports cars, and as such they occupy a different niche than compact sedans like the Honda Civic or Toyota Corolla.
+The Mustang has a starting price of $33,490, the Model 3 starts at $34,990, and the Chevrolet Corvette starts at $71,300. Cars like the Civic, Corolla and Jetta, meanwhile, all start below $25,000.
+"Compact vehicle buyers are very price-sensitive," Fiorani said. "And so when the price of gas goes up, that eats into their car payment. That means that they can't afford a $500 or $600 a month car payment, and they have to move into the used market."
+Indeed, the wholesale used prices of compact cars has risen and is up more than nearly any other segment, according to Cox Automotive. Wholesale prices — the prices vehicles sell for at large auctions, like Cox Automotive's Manheim auction — are indicators for prices overall in the fragmented used car market.
+Along with the rise in prices, auto finance stats show that a historically high number of buyers are stretching to afford cars.
+Roughly one in four buyers financing their purchases are getting 84-month loans — a record. Nearly three in 10 trade-ins toward new-vehicle purchases carried negative equity in the third quarter, meaning the cars being traded in were worth less than the outstanding balances of the loans on them. Shoppers are often rolling these negative balances into new loans, which pushes up the new payment cost.
+Automakers have also been more tightly aligning production with demand to avoid discounting vehicles. Incentives on average are about 6.6% of the average transaction price as of October, according to Cox Automotive. Leasing offers a way to get a car with a lower payment, but leasing rates are also down.
+Vehicle trade-in data suggests that many buyers who are snapping up those fast-selling cheaper vehicles are either first-time buyers or are purchasing supplemental vehicles, Edmunds' Drury said.
+The subcompact SUV segment is one lower-priced group that has seen sales rise in 2026. That is a segment that attracts a lot of first-time buyers. But this is still a relatively small share of the total car market, Fiorani said.
+"It's not the mainstream vehicle that Americans want," he said. "It is the vehicle that entry-level buyers need to get to work, to get to school. ... It's people who don't have families yet."
+Repeat buyers are less likely to want to step down into a compact car or SUV, Drury said.
+"The moment you get into that other vehicle and it's a little bit smaller, it's not as comfortable, it doesn't fit all your stuff, all your kid's equipment for soccer practice, you're done," he said. "You're not giving up 360 cameras, ventilated seats, heated steering wheels, these niceties that you've become accustomed to. Automakers know that too. Dealers know that."
+The truly cash-strapped are either snapping up the relatively few low-priced cars on dealer lots, moving to the used market, or holding on to their cars longer.
+"The people who are trying to buy the smaller vehicles are really hurt by the way the economy is at the moment," Fiorani said. "So those people are trying to move into used vehicles or trying to maintain their current vehicle as long as they can. Automakers should be prepared for a softening in the marketplace."
 
-## Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady
-
-正文长度：0
-
-摘要：The yen extended gains against the dollar after the Bank of Japan kept interest rates unchanged as expected and indicated that underlying inflation has reached 2% for the first time.
-
-
----
-
-## Iron Ore Heads for Lowest Month-End Close Since October 2022
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022
-
-正文长度：0
-
-摘要：Iron ore futures in Singapore headed for the lowest month-end close in four years, as ample global supplies and elevated Chinese port stockpiles curbed demand.
+</details>
 
 
 ---
@@ -73,7 +124,7 @@
 
 链接：https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
 
-正文长度：4006
+正文长度：3950
 
 摘要：Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.
 
@@ -87,7 +138,6 @@ Starbucks is ahead of schedule to meet the fiscal 2028 targets laid out at its i
 For fiscal 2027, Starbucks is projecting adjusted earnings per share in a range of $3.15 to $3.25, above Wall Street's expectations of earnings per share of $3.14. However, its anticipated revenue decline of 1% is weaker than expected; analysts were forecasting net sales growth of 1.4%.
 Starbucks is projecting North American same-store sales growth of 4% for the fiscal year.
 The company's earnings and revenue outlook includes an additional week and the effects of the shift in its China business to a joint venture business model. Starbucks is also projecting slight deflation in coffee prices and slowing net new North American cafe openings, which will both weigh on its full-year revenue, according to CFO Cathy Smith.
-Shares of Starbucks fell nearly 2% in extended trading.
 Here's what the company reported for the quarter ended Sept. 27 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
 - Earnings per share: 80 cents adjusted vs. 72 cents expected
 - Revenue: $9.14 billion vs. $9.23 billion expected
@@ -243,169 +293,132 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 ---
 
-## Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html
-
-正文长度：3138
-
-摘要：Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Merck on Thursday topped third-quarter estimates and hiked its adjusted profit outlook, as its immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.
-The pharmaceutical giant now expects adjusted earnings to be between $2.77 and $2.82 per share. That adjusted profit outlook is up from a previous range of $2.66 to $2.76 per share. The guidance now includes a one-time charge of $400 million, or 12 cents per share, related to its licensing agreement with the Chinese cancer drugmaker SciBrunch.
-Merck also narrowed the low end of its 2026 revenue guidance, now expecting sales between $66.8 billion and $67.3 billion. That compares to a previous outlook of $66.3 billion to $67.3 billion.
-The company has been on a deal spree as it races to offset generic competition for Keytruda after key patents begin expiring in 2028.
-Merck is also positioning the new form of the drug, Keytruda Qlex, as a cornerstone of its growth strategy. The goal is to transition patients from the original intravenous version to Qlex, considered a more convenient under-the-skin injection. This strategy allows the company to defend its market share and sustain Keytruda's blockbuster sales beyond the original version's loss of exclusivity.
-Keytruda raked in $8.60 billion in sales for the quarter, beating the $7.73 billion that analysts were expecting, according to StreetAccount. That includes $830 million in sales for Qlex – the highest seen in a quarter since it launched in 2025.
-Analysts were expecting $649 million in sales, StreetAccount estimates said. The blowout quarter for the shot suggests it could soon eventually be a multibillion-dollar product annually.
-Here's what Merck reported for the third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $2.49 adjusted vs. $2.08 expected
-- Revenue: $18.09 billion vs. $17.31 billion expected
-The company posted a net income of $5.07 billion, or $2.04 per share, for the quarter. That compares with net income of $5.79 billion, or $2.32 per share, for the year-earlier period.
-Excluding acquisition and restructuring costs, Merck posted earnings of $2.49 per share for the third quarter.
-Merck raked in $18.09 billion in revenue for the quarter, up 5% from the same period a year earlier.
-Beyond Keytruda, Merck's newer products also showed strong growth.
-Winrevair, which is used to treat a rare, deadly lung condition, generated $694 million in sales for the quarter, up 93% from the same period a year earlier. Analysts were expecting sales of $645 million.
-Meanwhile, the Gardasil vaccine, which prevents cancers from HPV, a very common sexually transmitted infection, drew about $2 billion in sales due to higher demand in the U.S. That tops the $1.76 billion in sales that analysts were expecting.
-That strong revenue comes after Merck last year grappled with elevated Gardasil inventory and weak demand for the vaccine in China.
-Meanwhile, Merck's animal health business posted $1.68 billion in sales for the third quarter, which came in slightly below analysts' estimates.
-
-</details>
-
-
----
-
-## Binance halts withdrawals after $6.3bn hack - Financial Times
+## Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFgxeVVEVzBnZ0Rfbll0Rzhka3FXTVBpZlVZYWJXSWJJc1FDb0hKTXo0MDg3NkVsT3dPSnJmRHFSOEVEbnJ2SlpDM2hMeEQta0hCMmwtN09Sc2xPT2NEa1V4TVNidkVaRWdzRXdIVjktamRFQ0JmMFZuWml5M09zV0t2NjA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFgxeVVEVzBnZ0Rfbll0Rzhka3FXTVBpZlVZYWJXSWJJc1FDb0hKTXo0MDg3NkVsT3dPSnJmRHFSOEVEbnJ2SlpDM2hMeEQta0hCMmwtN09Sc2xPT2NEa1V4TVNidkVaRWdzRXdIVjktamRFQ0JmMFZuWml5M09zV0t2NjA?oc=5" target="_blank">Binance halts withdrawals after $6.3bn hack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5" target="_blank">Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## DoorDash to acquire Instacart for $17bn - Financial Times
+## CD&R pursues buyout of $40bn payment processor Global Payments - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmhwWHhSeDdidnAxX3YteVRxUHpDbFNnT3FDY3NuYWlkRzU2V2JtdG1oQjZ2RDdpYTQyY2JMQUdXZ1VtRW9XTkZmVmU4alBJSHlUbmFzeFowQkZKcmEyUXFvSnVHRXhNM1hvdGJtRUJHRzNnMzBLMlNQUExsb1p0Wm5mdlI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmhwWHhSeDdidnAxX3YteVRxUHpDbFNnT3FDY3NuYWlkRzU2V2JtdG1oQjZ2RDdpYTQyY2JMQUdXZ1VtRW9XTkZmVmU4alBJSHlUbmFzeFowQkZKcmEyUXFvSnVHRXhNM1hvdGJtRUJHRzNnMzBLMlNQUExsb1p0Wm5mdlI?oc=5" target="_blank">DoorDash to acquire Instacart for $17bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5" target="_blank">CD&amp;R pursues buyout of $40bn payment processor Global Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## What killed Weil Gotshal? - Financial Times
+## Europe divided over how to influence US-Russia talks - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUl9sZXdrTmJCVkdRZU5LUGpMaVR3aGhFQUF0cE13MVJGTEYtTGdrZkR4enJIUWxzLWxJT09qa0J3Z2pJVURDWGx5cWdnYWsyRmJobjBoYXFrZ0pMdkJvYzZqUzZFMWtZaldRZVJMV3VtR1NROTh4WEwwWWtGV0xnYVR4dXk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjdrWGd5amdacW1RNEgtZUZyQ3ZaQVJ0YklyYnpuTk1nMTc4LUxHQXdTWC1kYms4UWhUU2xyZ1plbDk1aWNwU2kxd0JmR3RqOUlZai0wbGRyS0lmUU9LRlFrQnBKT2VPYmNuYzRDUUNwNHlVSVpUaWtyNk11Qm5MZ0EtT0c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUl9sZXdrTmJCVkdRZU5LUGpMaVR3aGhFQUF0cE13MVJGTEYtTGdrZkR4enJIUWxzLWxJT09qa0J3Z2pJVURDWGx5cWdnYWsyRmJobjBoYXFrZ0pMdkJvYzZqUzZFMWtZaldRZVJMV3VtR1NROTh4WEwwWWtGV0xnYVR4dXk?oc=5" target="_blank">What killed Weil Gotshal?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjdrWGd5amdacW1RNEgtZUZyQ3ZaQVJ0YklyYnpuTk1nMTc4LUxHQXdTWC1kYms4UWhUU2xyZ1plbDk1aWNwU2kxd0JmR3RqOUlZai0wbGRyS0lmUU9LRlFrQnBKT2VPYmNuYzRDUUNwNHlVSVpUaWtyNk11Qm5MZ0EtT0c?oc=5" target="_blank">Europe divided over how to influence US-Russia talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Intel shares fall 22% as weak sales outlook dents turnaround - Financial Times
+## What we know about the $6.3bn Binance hack - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGRfMnBXX1pCRzhXbHgyb2lDeXU4bUlqaEQzUElMTVgwUG05SGx0a1JoaDBBT0FUUWo0U1pRUFhGQWgtWlRZYVJqNTNSYW45OTRrY1FLTzR6UGtPckFxZlZoemVic0g0V1lHVklwNzItTGV3WXBmUllkYUZ6c0w0OWtDRGo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEthUlZFNDdZRjZ4YmJiRzlIRWo1Y3ZQSmJDaFBKZXhWTlZ2bGlaUW5uWGhSeTVZVTFvdm9iR2tzTDc2MlV4dFg1Q3JMem5qd2swc0U1a0lCc1RySjRBb1Y5SmVLV1VtaEZPYVFNeHhON0FYN0hZQTRicDZ6MjFnTW9MakE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGRfMnBXX1pCRzhXbHgyb2lDeXU4bUlqaEQzUElMTVgwUG05SGx0a1JoaDBBT0FUUWo0U1pRUFhGQWgtWlRZYVJqNTNSYW45OTRrY1FLTzR6UGtPckFxZlZoemVic0g0V1lHVklwNzItTGV3WXBmUllkYUZ6c0w0OWtDRGo?oc=5" target="_blank">Intel shares fall 22% as weak sales outlook dents turnaround</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEthUlZFNDdZRjZ4YmJiRzlIRWo1Y3ZQSmJDaFBKZXhWTlZ2bGlaUW5uWGhSeTVZVTFvdm9iR2tzTDc2MlV4dFg1Q3JMem5qd2swc0U1a0lCc1RySjRBb1Y5SmVLV1VtaEZPYVFNeHhON0FYN0hZQTRicDZ6MjFnTW9MakE?oc=5" target="_blank">What we know about the $6.3bn Binance hack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US economy beats forecasts to grow at 3.4% rate in third quarter - Financial Times
+## Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2E2Y3pKbUpDVzYyOVFLQ1lLbUFfTVQwMmtJa0dZNUtwaXhVZ2JnaWRCWDg3Wld3cHp5cmgwSGpHZktZUWtKX2dMdnZYUThhS3NUTHdYNWZ2MXB3YWdDZVZmcEVCMlFtQ2hVQWdmdU55VXUwN0RBTTJzdGFQMFJLUzFrUFM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5" target="_blank">US economy beats forecasts to grow at 3.4% rate in third quarter</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2E2Y3pKbUpDVzYyOVFLQ1lLbUFfTVQwMmtJa0dZNUtwaXhVZ2JnaWRCWDg3Wld3cHp5cmgwSGpHZktZUWtKX2dMdnZYUThhS3NUTHdYNWZ2MXB3YWdDZVZmcEVCMlFtQ2hVQWdmdU55VXUwN0RBTTJzdGFQMFJLUzFrUFM?oc=5" target="_blank">Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war - Reuters
+## Meta settles with teen during trial testing claims social media caused depression, eating disorders - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5" target="_blank">Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5" target="_blank">Meta settles with teen during trial testing claims social media caused depression, eating disorders</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bhutan glacial lake outburst triggers flood, no injuries reported - Reuters
+## Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXltbEVSMzRXeXh5dlB3dC0wOFNvWXdLSER0bGdfSk1QeUlxMEVaWDRLbkt0MDlFM2tqeGt3UHJmME1oem9YdnhJWnY3aGRGZ0NOcmF2VnFIbGd2MjdQUV9JZGhScHNrWC1vaUptamZiM2JaUVRmNm1BUkE0eTNueGNfX1pkdG5faVMxM1kzaGdMRlozZE15ZUY2dk9jLXR2cHN0anRIUEs2X1J4c2U5ZVNZbndHRnZUOWxaRXBn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXltbEVSMzRXeXh5dlB3dC0wOFNvWXdLSER0bGdfSk1QeUlxMEVaWDRLbkt0MDlFM2tqeGt3UHJmME1oem9YdnhJWnY3aGRGZ0NOcmF2VnFIbGd2MjdQUV9JZGhScHNrWC1vaUptamZiM2JaUVRmNm1BUkE0eTNueGNfX1pkdG5faVMxM1kzaGdMRlozZE15ZUY2dk9jLXR2cHN0anRIUEs2X1J4c2U5ZVNZbndHRnZUOWxaRXBn?oc=5" target="_blank">Bhutan glacial lake outburst triggers flood, no injuries reported</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5" target="_blank">Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Stocks slump, bonds leap as AI giants' spending spooks investors - Reuters
+## On again: Trump restores weekend campaign rallies in Iowa, Kansas - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5" target="_blank">Stocks slump, bonds leap as AI giants' spending spooks investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5" target="_blank">On again: Trump restores weekend campaign rallies in Iowa, Kansas</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bitcoin, cryptocurrency prices fall after Binance reports security issue - Reuters
+## Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5" target="_blank">Bitcoin, cryptocurrency prices fall after Binance reports security issue</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5" target="_blank">Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump cancels weekend rallies, plans to phone in to other midterm campaign events - Reuters
+## G20 foreign ministers skip photo-op amid objections over Russia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5" target="_blank">Trump cancels weekend rallies, plans to phone in to other midterm campaign events</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5" target="_blank">G20 foreign ministers skip photo-op amid objections over Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
