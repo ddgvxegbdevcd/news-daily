@@ -1,68 +1,197 @@
 # 每日财经新闻
 
-更新时间：2026-10-29 18:18:14
+更新时间：2026-10-30 05:13:40
 
-## Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears
+## Tech Stock Selloff Deepens on Earnings, Bonds Rise: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears
+链接：https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Tech stocks were dragged lower by a record drop in Alphabet Inc. after disappointing results renewed investor concerns about the threat that artificial intelligence poses to its core business.
+摘要：Technology shares sold for a second consecutive day as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.
 
 
 ---
 
-## Stock Rotation Hits AI Winners on Alphabet’s Miss: Markets Wrap
+## Britain Tests the Limits With Plan to Tax Its Way Out of Debt
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-10-30/britain-tests-the-limits-with-plan-to-tax-its-way-out-of-debt
 
 正文长度：0
 
-摘要：Wall Street saw a rotation out of several tech giants and into a broader category of stocks while fueling a push toward the safety of bonds.
+摘要：Britain was singled out for praise by the International Monetary Fund this month for the boldest deficit-reduction plan of any Group of Seven nation. Bolder still is its decision to deliver the whole squeeze with higher taxes, with economists warning that Chancellor of the Exchequer John Healey is pushing the boundaries of what’s possible.
 
 
 ---
 
-## Agnico Eagle (AEM) Flags Diesel Risk to Gold Output Costs Next Year
+## Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/agnico-eagle-aem-flags-diesel-risk-to-gold-output-costs-next-year
+链接：https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks
 
 正文长度：0
 
-摘要：Agnico Eagle Mines Ltd. warned that rising diesel prices risk raising the cost of producing gold by as much as $80 per ounce next year, signaling mounting inflationary pressures for the mining industry.
+摘要：Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.
 
 
 ---
 
-## Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally
+## Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally
+链接：https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady
 
 正文长度：0
 
-摘要：Blistering cloud growth sent Amazon.com Inc. shares soaring after its last earnings report. Now with more than half those gains gone, the firm needs to deliver a repeat performance in order to reignite its faltering stock.
+摘要：The yen extended gains against the dollar after the Bank of Japan kept interest rates unchanged as expected and indicated that underlying inflation has reached 2% for the first time.
 
 
 ---
 
-## Shanghai Exchange Halts Duty-Free Metal Delivery Against Futures
+## Iron Ore Heads for Lowest Month-End Close Since October 2022
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/shanghai-exchange-halts-bonded-copper-aluminium-deliveries
+链接：https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022
 
 正文长度：0
 
-摘要：The Shanghai Futures Exchange has suspended the settlement of copper and aluminum futures with deliveries from duty-free warehouses, a mechanism that has long helped Chinese traders avoid paying taxes on metal that can be sold overseas.
+摘要：Iron ore futures in Singapore headed for the lowest month-end close in four years, as ample global supplies and elevated Chinese port stockpiles curbed demand.
+
+
+---
+
+## Starbucks sales miss expectations, but its U.S. turnaround is gaining steam
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
+
+正文长度：4006
+
+摘要：Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Starbucks on Thursday reported mixed quarterly results as its international cafes underperformed expectations.
+However, its U.S. turnaround continues to take hold, as its home market topped expectations during the coffee giant's final quarter of fiscal 2026.
+"We enter fiscal 2027 with momentum, a clear set of priorities and higher ambitions for what Starbucks can become," CEO Brian Niccol said in a video shared on the company's website.
+Starbucks is ahead of schedule to meet the fiscal 2028 targets laid out at its investor day in January, he said on the company's earnings conference call.
+For fiscal 2027, Starbucks is projecting adjusted earnings per share in a range of $3.15 to $3.25, above Wall Street's expectations of earnings per share of $3.14. However, its anticipated revenue decline of 1% is weaker than expected; analysts were forecasting net sales growth of 1.4%.
+Starbucks is projecting North American same-store sales growth of 4% for the fiscal year.
+The company's earnings and revenue outlook includes an additional week and the effects of the shift in its China business to a joint venture business model. Starbucks is also projecting slight deflation in coffee prices and slowing net new North American cafe openings, which will both weigh on its full-year revenue, according to CFO Cathy Smith.
+Shares of Starbucks fell nearly 2% in extended trading.
+Here's what the company reported for the quarter ended Sept. 27 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 80 cents adjusted vs. 72 cents expected
+- Revenue: $9.14 billion vs. $9.23 billion expected
+Starbucks reported fiscal fourth-quarter net income attributable to the company of $677.2 million, or 59 cents per share, up from $133.1 million, or 12 cents per share, a year earlier.
+Excluding restructuring and impairment costs and other items, the company reported earnings per share of 80 cents.
+Net revenue fell 4% to $9.14 billion, reflecting the joint venture deal in China.
+The company's global same-store sales increased 7.2%, fueled by growth in average ticket, and beating Wall Street estimates of 6%, according to StreetAccount. Transactions grew 1.8% in the quarter.
+Starbucks' U.S. cafes reported same-store sales growth of 7.7%, topping StreetAccount estimates of a 6.5% increase.
+Under Niccol's "Back to Starbucks" strategy, the company has focused on improving service, making its cafes more welcoming and sharpening its marketing. The changes have helped to win back customers.
+"Starbucks brand affinity is at near record levels as our menu innovation, marketing and merchandise continue to create moments that drive culture and bring people into our coffee houses," Niccol told analysts.
+The company said its North American rollout of its fall menu, which includes the iconic pumpkin spice latte, was the company's strongest ever autumn launch day. And matcha is now a $1 billion drink for Starbucks.
+Outside of North America, the company's international comparable sales ticked up 0.9%, as traffic declines offset an increase to average ticket. That growth fell short of analyst estimates of a 3.2% increase, according to StreetAccount.
+After its China business transitioned to a joint venture, Starbucks has shifted most of its international business to a licensed model, allowing local operators to take charge. The company is also exploring selling a majority stake in its Japan business, Reuters reported in September.
+Starbucks opened 303 net new cafes during the quarter. In September, the company announced it would close about 1% of its North American footprint, or about 250 locations, as part of its turnaround.
+By the end of its fiscal year, across the U.S. and Canada, the company also completed more than 1,700 cafe uplifts, meant to make its stores more welcoming to customers. The company has said locations that receive a makeover, with tweaks like increased seating and softer lighting, see higher transactions in the aftermath.
+
+</details>
+
+
+---
+
+## Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html
+
+正文长度：3369
+
+摘要：Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Rivian Automotive beat Wall Street's third-quarter earnings expectations as it ramped up production of its new R2 entry-level SUV that the company has promised investors will lead it to profitability.
+Here's how Rivian performed in the period ended Sept. 30, compared with average estimates compiled by LSEG:
+- Loss per share: 48 cents adjusted vs. loss of 62 cents expected
+- Revenue: $2.16 billion vs. $1.99 billion expected
+Shares of Rivian were up roughly 7% during afterhours trading Thursday, after hitting a new 52-week low of $11.38 earlier in the day. The stock closed at $11.45 a share, down 1.9%
+The electric vehicle maker also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.
+The new guidance calls for a pre-tax adjusted loss of between $1.75 billion and $1.85 billion — a $100 million improvement at the midpoint from its prior guidance — vehicle deliveries of between 67,000 and 70,000 units, up from at least 65,000; and capital expenditures of between $1.4 billion and $1.5 billion, $300 million less at the midpoint.
+Rivian attributed the improvement in its pre-tax adjusted earnings guidance to better-than-expected revenue related to its sales of regulatory credits, an IEEPA tariff refund receivable in the third quarter and its expected increase in vehicle deliveries.
+The R2 — the first deliveries of which arrived to customers in June — has become Rivian's best-selling model and was responsible for "much of the gain quarter-over-quarter," the company said.
+Rivian delivered a record 19,248 units from July through September. The company does not disclose deliveries by vehicle.
+The EV maker remains unprofitable overall but continued to narrow its losses during the quarter. The company reported a net loss attributable to common stockholders of $913 million, compared with a loss of $1.17 billion during the third quarter of 2025.
+Rivian's gross profit, which is closely monitored by investors, was $176 million during the third quarter, up from $24 million a year earlier. Its adjusted earnings before interest, taxes, depreciation and amortization was a loss of $435 million, a $167 million improvement from the same period last year.
+The company reported that its software and services segment continues to grow, generating $605 million in revenue and a gross profit of $256 million, a 42% margin. That compares to its automotive operations, which recorded nearly $1.55 billion in revenue and a gross loss of $80 million.
+Also on Thursday, Rivian reiterated that it expects the R2, a smaller and less expensive sibling to its current luxury R1S SUV, to have a positive gross margin by the end of the year. CEO RJ Scaringe has said the company needs to scale beyond current R2 production plans of 160,000 units in order to achieve overall profitability.
+"That ramp-up is critical for us getting to positive gross margin on R2 and that ultimately will contribute to positive gross margin for the business," Scaringe told CNBC's Phil LeBeau during an interview Thursday. "We're going to see that through the end of the quarter and the unit economics will continue to grow … into Q1 of next year as well."
+Rivian on Thursday said its cash, cash equivalents and short-term investments balance was $5.5 billion, up from $5.3 billion to end the second quarter.
+
+</details>
+
+
+---
+
+## Cruise companies aim to keep fuel costs down. Their strategies for doing so differ
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html
+
+正文长度：5538
+
+摘要：Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on "hedging" to keep fuel costs down amid conflict in the Middle East.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Carnival, Royal Caribbean and Norwegian Cruise Line Holdings posted strong earnings for their most recent quarters despite rising fuel prices. How the leading cruise companies navigate fuel costs boils down to starkly different strategies.
+Oil prices have skyrocketed since the U.S.-Israel war with Iran began on Feb. 28. Brent crude oil reached a six-month high on Friday, settling at $116.72 per barrel. With no clear end in sight for the conflict in the Middle East, the pressure affecting cruise ships' lifeblood seems poised to last into the holiday travel season and beyond.
+Both Royal Caribbean and Norwegian practice "hedging," or a strategy of using derivatives to reduce exposure to swings in the price of fuel, to account for sharp increases.
+Carnival CEO Josh Weinstein, on the other hand, told CNBC in an interview last month that cutting fuel consumption is the best way to avert the effects of expensive fuel.
+"At the end of the day, fuel is an input cost for us. The best thing that we can do to control that cost is to use less," Weinstein said at the time.
+Jefferies analyst David Katz told CNBC in an interview that companies that hedge do so primarily to manage the cost of fuel, but also to manage Wall Street expectations and prevent hectic stock trading based on fluctuations in the price of fuel.
+"When you're public, the Street will trade your stock around based on the price of fuel," Katz said. "The Street's argument is that volatility puts pressure on your multiple."
+"While it is mathematically most likely true that over the long term it is more expensive," he explained. "The benefit of having less fuel volatility in the model and less trading volatility is [it's] good for your multiple."
+Despite the potential positives of the strategy, Carnival has maintained the stance it has held since 2019: Cutting fuel consumption works better than hedging.
+And Carnival's third-quarter earnings report last month suggests the strategy may be paying off.
+Carnival's 'maniacal' cutting
+Carnival beat analysts' expectations on both the top and bottom lines for its most recent quarter and reported an all-time high net income of $1.9 billion.
+Weinstein told CNBC in an interview on "Squawk on the Street" following the release that the company has been "maniacal" about cutting its fuel consumption, saying it's slashed its unit fuel consumption rate by 26% since 2019.
+"We estimate we've saved about $700 million in 2026 based on that consumption savings rate going down since 2019," he said.
+Carnival spent $615 million, or about 7.3% of its revenue, on fuel in the third quarter, according to its most recent earnings release. That's an increase from the $425 million, or 6.7% of revenue, that the company spent on fuel in the fourth quarter of 2025, before fuel prices spiked.
+Carnival projects its fuel costs will rise to $640 million in the fourth quarter, according to its earnings release.
+Careful hedging
+Royal Caribbean similarly beat analyst expectations for earnings per share for its third quarter, reported Tuesday. However, it narrowly missed on revenue.
+CEO Jason Liberty attributed the company's beat in part to its hedging strategy during an interview on CNBC's "Squawk on the Street" Tuesday morning.
+"We're a little bit over 60% hedged here for 2026, and so that's helping insulate us from some of the impacts on the rising fuel costs," he said.
+"It's obviously still impacting us," Liberty said. "[High fuel prices] evaporated a good chunk of our Q3 earnings beat into the full-year guide. But we're continuing to hedge, and we watch."
+Royal Caribbean spent about $347 million on fuel in the third quarter, or about 6.2% of its revenue, according to its earnings release. That compares with $293 million, or 6.8% of revenue, spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
+The company projects fuel costs will continue to rise to $379 million in the fourth quarter.
+Liberty pointed out that high fuel prices have not dampened demand from consumers for vacations.
+"It's not that we don't see points of challenges, but really what we've seen is that even in those points of challenges, the consumer comes roaring back," he said.
+Royal Caribbean reported strong bookings for the third quarter and said reservations for 2027 are already up by a high-teens percentage.
+Norwegian's continued bet
+Norwegian Cruise Line Holdings beat on both the top and bottom lines for its third-quarter earnings, reported on Thursday, with revenue of $2.9 billion and adjusted earnings per share of $1.12.
+The company has hedged approximately 48% of its fuel consumption for 2026, according to the earnings release.
+Norwegian spent about $196 million on fuel in the third quarter, or about 6.6% of its revenue, according to its most recent earnings release. That's a lower share of revenue than the 7.4% — totaling $167 million — spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
+The company projects fuel consumption to rise slightly in the fourth quarter, up to 255,000 metric tons from 239,000 metric tons consumed in the third quarter.
+The company is in the midst of a turnaround effort. And despite facing added challenges from the macro environment, Chief Financial Officer Mark Kempa said he is reassured by this quarter's results on an earnings call on Thursday.
+"These results reinforce our confidence in the appeal of our products and the opportunity to translate stronger revenue performance and disciplined cost management into improved profitability," Kempa said.
+
+</details>
 
 
 ---
@@ -151,121 +280,15 @@ Meanwhile, Merck's animal health business posted $1.68 billion in sales for the 
 
 ---
 
-## Cruise companies aim to keep fuel costs down. Their strategies for doing so differ
+## Binance halts withdrawals after $6.3bn hack - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFgxeVVEVzBnZ0Rfbll0Rzhka3FXTVBpZlVZYWJXSWJJc1FDb0hKTXo0MDg3NkVsT3dPSnJmRHFSOEVEbnJ2SlpDM2hMeEQta0hCMmwtN09Sc2xPT2NEa1V4TVNidkVaRWdzRXdIVjktamRFQ0JmMFZuWml5M09zV0t2NjA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：5509
+正文长度：0
 
-摘要：Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on "hedging" to keep fuel costs down amid conflict in the Middle East.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Carnival, Royal Caribbean and Norwegian Cruise Line Holdings posted strong earnings for their most recent quarters despite rising fuel prices. How the leading cruise companies navigate fuel costs boils down to starkly different strategies.
-Oil prices have skyrocketed since the U.S.-Israel war with Iran began on Feb. 28. Brent crude oil reached a six-month high on Friday, settling at $116.72 per barrel. With no clear end in sight for the conflict in the Middle East, the pressure affecting cruise ships' lifeblood seems poised to last into the holiday travel season and beyond.
-Both Royal Caribbean and Norwegian practice "hedging," or a strategy of using derivatives to reduce exposure to future fuel-price swings, to account for sharp price changes.
-Carnival CEO Josh Weinstein, on the other hand, told CNBC in an interview last month that cutting fuel consumption is the best way to avert the effects of expensive fuel.
-"At the end of the day, fuel is an input cost for us. The best thing that we can do to control that cost is to use less," Weinstein said at the time.
-Jefferies analyst David Katz told CNBC in an interview that companies that hedge do so primarily to manage the cost of fuel, but also to manage Wall Street expectations and prevent hectic stock trading based on fuel price fluctuations.
-"When you're public, the Street will trade your stock around based on the price of fuel," Katz said. "The Street's argument is that volatility puts pressure on your multiple."
-"While it is mathematically most likely true that over the long term it is more expensive," he explained. "The benefit of having less fuel volatility in the model and less trading volatility is [it's] good for your multiple."
-Despite the potential positives of the strategy, Carnival has maintained the stance it has held since 2019: Cutting fuel consumption works better than hedging.
-And Carnival's third-quarter earnings report last month suggests the strategy may be paying off.
-Carnival's 'maniacal' cutting
-Carnival beat analysts' expectations on both the top and bottom lines for its most recent quarter and reported an all-time high net income of $1.9 billion.
-Weinstein told CNBC in an interview on "Squawk on the Street" following the release that the company has been "maniacal" about cutting its fuel consumption, saying it's slashed its unit fuel consumption rate by 26% since 2019.
-"We estimate we've saved about $700 million in 2026 based on that consumption savings rate going down since 2019," he said.
-Carnival spent $615 million, or about 7.3% of its revenue, on fuel in the third quarter, according to its most recent earnings release. That's an increase from the $425 million, or 6.7% of revenue, that the company spent on fuel in the fourth quarter of 2025, before fuel prices spiked.
-Carnival projects its fuel costs will rise to $640 million in the fourth quarter, according to its earnings release.
-Careful hedging
-Royal Caribbean similarly beat analyst expectations for earnings per share for its third quarter, reported Tuesday. However, it narrowly missed on revenue.
-CEO Jason Liberty attributed the company's beat in part to its hedging strategy during an interview on CNBC's "Squawk on the Street" Tuesday morning.
-"We're a little bit over 60% hedged here for 2026, and so that's helping insulate us from some of the impacts on the rising fuel costs," he said.
-"It's obviously still impacting us," Liberty said. "[High fuel prices] evaporated a good chunk of our Q3 earnings beat into the full-year guide. But we're continuing to hedge, and we watch."
-Royal Caribbean spent about $347 million on fuel in the third quarter, or about 6.2% of its revenue, according to its earnings release. That compares with $293 million, or 6.8% of revenue, spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
-The company projects fuel costs will continue to rise to $379 million in the fourth quarter.
-Liberty pointed out that high fuel prices have not dampened demand from consumers for vacations.
-"It's not that we don't see points of challenges, but really what we've seen is that even in those points of challenges, the consumer comes roaring back," he said.
-Royal Caribbean reported strong bookings for the third quarter and said reservations for 2027 are already up by a high-teens percentage.
-Norwegian's continued bet
-Norwegian Cruise Line Holdings beat on both the top and bottom lines for its third-quarter earnings, reported on Thursday, with revenue of $2.9 billion and adjusted earnings per share of $1.12.
-The company has hedged approximately 48% of its fuel consumption for 2026, according to the earnings release.
-Norwegian spent about $196 million on fuel in the third quarter, or about 6.6% of its revenue, according to its most recent earnings release. That's a lower share of revenue than the 7.4% — totaling $167 million — spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
-The company projects fuel consumption to rise slightly in the fourth quarter, up to 255,000 metric tons from 239,000 metric tons consumed in the third quarter.
-The company is in the midst of a turnaround effort. And despite facing added challenges from the macro environment, CFO Mark Kempa said he is reassured by this quarter's results on an earnings call on Thursday.
-"These results reinforce our confidence in the appeal of our products and the opportunity to translate stronger revenue performance and disciplined cost management into improved profitability," Kempa said.
-
-</details>
-
-
----
-
-## Norwegian shares surge 13% on earnings beat, guidance raise
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html
-
-正文长度：1483
-
-摘要：Norwegian said the company's bookings had "improved modestly" but remain below its optimal range.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Shares of Norwegian Cruise Line Holdings surged about 13% Thursday after the company posted better-than-expected third-quarter earnings and raised its outlook for the full year.
-The cruise line reported third-quarter revenue of $2.95 billion, topping Wall Street expectations of $2.88 billion, according to analyst estimates from LSEG.
-Net income for the period was $491 million, or $1.07 per share.
-Adjusted earnings before interest, taxes, depreciation and amortization was $937 million, which exceeded Norwegian's previous guidance of $874 million. Adjusted EPS was $1.12, exceeding previous guidance of 90 cents and outpacing analysts' expectations of 94 cents, per LSEG.
-Norwegian also raised its full-year guidance, citing its stronger-than-expected third-quarter performance. The company now expects 2026 adjusted EBITDA of $2.55 billion and adjusted EPS of about $1.70.
-The report said the company's bookings had "improved modestly" since its last report but remain below its optimal range.
-Norwegian said it will emphasize new marketing strategies, including the launch of a new marketing platform in January. It also said it anticipates that enhancements such as a new waterpark at its Great Stirrup Cay private island will support stronger demand.
-Also on Thursday, Norwegian announced that Chief Financial Officer Mark Kempa will step down after more than 25 years at the company. Meghan Montana, currently chief strategy officer, will take over the role starting Jan. 1.
-
-</details>
-
-
----
-
-## Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html
-
-正文长度：3420
-
-摘要：Burger King's U.S. restaurants outperformed, while Popeyes disappointed.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Restaurant Brands International on Thursday reported mixed quarterly results as Popeyes' struggles offset Burger King's successful U.S. turnaround.
-Shares of the company fell about 2% in morning trading.
-Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $1.10 adjusted vs. $1.09 expected
-- Revenue: $2.53 billion vs. $2.54 billion expected
-Restaurant Brands reported third-quarter net income attributable to common shareholders of $542 million, or $1.54 per share, up from $315 million, or 96 cents per share, a year earlier.
-Excluding certain noncash items, the company earned $1.10 per share.
-Net revenue rose 3.1% to $2.53 billion.
-Across all of its restaurants, the company reported same-store sales growth of 3.8%. Restaurant Brands has reported same-store sales growth above 3% for the past five quarters.
-While the broader industry saw traffic soften in the third quarter as gas prices stayed high, Restaurant Brands said it has not seen any significant changes in consumer behavior.
-"The environment, from what we see, has been relatively stable over the last couple of quarters and even into recent months," Restaurant Brands CEO Josh Kobza told CNBC.
-Burger King was the top performer, with U.S. same-store sales growth of 8.4%. The burger chain's home market is in the middle of multiyear turnaround, with a focus on improving its food and restaurants.
-"The plans we've put in place over the last several years are working, and we're going to keep executing against them," Restaurant Brands Chair Patrick Doyle said on the company's earnings conference call. "Burger King has delivered over four years of industry outperformance, and now we've seen three consecutive quarters of truly exceptional results."
-After improving the quality of its Whopper earlier this year, Burger King turned its attention to its nuggets and sauces.
-"Nuggets and sauces, frankly, we knew for a while that there was an opportunity," Kobza told CNBC. "We've heard it loud and clear from our guests."
-Since Burger King relaunched its nuggets on Sept. 1, with 100% white meat chicken, sales have shot up more than 35%, Kobza said on the earnings call. More core menu items will get an upgrade next year.
-Tim Hortons reported same-store sales growth of 1.8% in Canada, its home market. In July, the coffee chain launched a line of matcha drinks, bringing more customers to its locations during the sleepier afternoon hours.
-Popeyes was once again the laggard of Restaurant Brands' portfolio. The fried chicken chain's U.S. same-store sales fell 2.2%.
-In recent quarters, Popeyes has struggled as other chicken rivals have lured its customers away with discounts. Restaurant Brands is trying to stage a comeback with improved restaurant operations and a focus on its core menu.
-Restaurant Brands previously forecast that Popeyes would return to same-store sales growth in the second half of 2026, but Kobza said on the earnings call that the company now believes it will take longer, although traffic is improving. The return of Popeyes' $6 Big Box promotion in September boosted sales less than expected, according to Kobza. Plus, the chain has scaled back its wings to refocus on its core menu items, hurting sales in the short term.
-The company's international business saw same-store sales growth of 3.9%, fueled by its Burger King locations.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFgxeVVEVzBnZ0Rfbll0Rzhka3FXTVBpZlVZYWJXSWJJc1FDb0hKTXo0MDg3NkVsT3dPSnJmRHFSOEVEbnJ2SlpDM2hMeEQta0hCMmwtN09Sc2xPT2NEa1V4TVNidkVaRWdzRXdIVjktamRFQ0JmMFZuWml5M09zV0t2NjA?oc=5" target="_blank">Binance halts withdrawals after $6.3bn hack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -283,15 +306,28 @@ The company's international business saw same-store sales growth of 3.9%, fueled
 
 ---
 
-## Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street - Financial Times
+## What killed Weil Gotshal? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3JEOWZ3eGJCa3lSM3JzUlo4b1NoS05oUjV5cDA1UmxfMXBiRV9jM0d3NER5ZTNXS3ZPd0NNV09uR3pmeXBweDFWV2RTOTVEcGtoNk5WSmtxU2lBUTZLZC1QRFcteHFnOWFGNE1xallFbHZyU1ZPdExHcjRtcldlVmlYT0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUl9sZXdrTmJCVkdRZU5LUGpMaVR3aGhFQUF0cE13MVJGTEYtTGdrZkR4enJIUWxzLWxJT09qa0J3Z2pJVURDWGx5cWdnYWsyRmJobjBoYXFrZ0pMdkJvYzZqUzZFMWtZaldRZVJMV3VtR1NROTh4WEwwWWtGV0xnYVR4dXk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3JEOWZ3eGJCa3lSM3JzUlo4b1NoS05oUjV5cDA1UmxfMXBiRV9jM0d3NER5ZTNXS3ZPd0NNV09uR3pmeXBweDFWV2RTOTVEcGtoNk5WSmtxU2lBUTZLZC1QRFcteHFnOWFGNE1xallFbHZyU1ZPdExHcjRtcldlVmlYT0U?oc=5" target="_blank">Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUl9sZXdrTmJCVkdRZU5LUGpMaVR3aGhFQUF0cE13MVJGTEYtTGdrZkR4enJIUWxzLWxJT09qa0J3Z2pJVURDWGx5cWdnYWsyRmJobjBoYXFrZ0pMdkJvYzZqUzZFMWtZaldRZVJMV3VtR1NROTh4WEwwWWtGV0xnYVR4dXk?oc=5" target="_blank">What killed Weil Gotshal?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Intel shares fall 22% as weak sales outlook dents turnaround - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGRfMnBXX1pCRzhXbHgyb2lDeXU4bUlqaEQzUElMTVgwUG05SGx0a1JoaDBBT0FUUWo0U1pRUFhGQWgtWlRZYVJqNTNSYW45OTRrY1FLTzR6UGtPckFxZlZoemVic0g0V1lHVklwNzItTGV3WXBmUllkYUZ6c0w0OWtDRGo?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGRfMnBXX1pCRzhXbHgyb2lDeXU4bUlqaEQzUElMTVgwUG05SGx0a1JoaDBBT0FUUWo0U1pRUFhGQWgtWlRZYVJqNTNSYW45OTRrY1FLTzR6UGtPckFxZlZoemVic0g0V1lHVklwNzItTGV3WXBmUllkYUZ6c0w0OWtDRGo?oc=5" target="_blank">Intel shares fall 22% as weak sales outlook dents turnaround</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -309,93 +345,67 @@ The company's international business saw same-store sales growth of 3.9%, fueled
 
 ---
 
-## The AI Shift: How is AI changing the way FT data reporters work? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEsyYzAzTDUzY0N0bnN4SDUtVUwtSFBnenhOUVNWUTRlY3Q2b1BWZUdPWkJEU1RnT0xpdENnWEUyVENTTTlXZklfcFFnZWF5dlJkcDJZWS1DVGJVVnQzTVI2VGg0TUJfR1p5R1pQVUVDZEJHM3FvRVBGLWF3ZXhYUUhZMHU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEsyYzAzTDUzY0N0bnN4SDUtVUwtSFBnenhOUVNWUTRlY3Q2b1BWZUdPWkJEU1RnT0xpdENnWEUyVENTTTlXZklfcFFnZWF5dlJkcDJZWS1DVGJVVnQzTVI2VGg0TUJfR1p5R1pQVUVDZEJHM3FvRVBGLWF3ZXhYUUhZMHU?oc=5" target="_blank">The AI Shift: How is AI changing the way FT data reporters work?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The bid to reverse Europe’s big immigration experiment - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHdtTGJZS1FLZWxWaXhiWXVVQThsYk9yc281Mk5JMkgzeVlVYzVfbG9leTAtRmtjeTlYQmtHejBNWld0TDlDVjZGYVVfaDJDSWViUnhuR3p5M0lOaFRHcWM0dERpNlJsZXlSdTZQZjZIN2lLYThtN1BoT1BuNVdrQWlnZGk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHdtTGJZS1FLZWxWaXhiWXVVQThsYk9yc281Mk5JMkgzeVlVYzVfbG9leTAtRmtjeTlYQmtHejBNWld0TDlDVjZGYVVfaDJDSWViUnhuR3p5M0lOaFRHcWM0dERpNlJsZXlSdTZQZjZIN2lLYThtN1BoT1BuNVdrQWlnZGk?oc=5" target="_blank">The bid to reverse Europe’s big immigration experiment</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Russia to extend diesel export ban, use quotas to fulfil US deal, sources say - Reuters
+## Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB?oc=5" target="_blank">Russia to extend diesel export ban, use quotas to fulfil US deal, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5" target="_blank">Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Vance outreach to Iran related to medical supplies, says Trump - Reuters
+## Bhutan glacial lake outburst triggers flood, no injuries reported - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXltbEVSMzRXeXh5dlB3dC0wOFNvWXdLSER0bGdfSk1QeUlxMEVaWDRLbkt0MDlFM2tqeGt3UHJmME1oem9YdnhJWnY3aGRGZ0NOcmF2VnFIbGd2MjdQUV9JZGhScHNrWC1vaUptamZiM2JaUVRmNm1BUkE0eTNueGNfX1pkdG5faVMxM1kzaGdMRlozZE15ZUY2dk9jLXR2cHN0anRIUEs2X1J4c2U5ZVNZbndHRnZUOWxaRXBn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE?oc=5" target="_blank">Vance outreach to Iran related to medical supplies, says Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXltbEVSMzRXeXh5dlB3dC0wOFNvWXdLSER0bGdfSk1QeUlxMEVaWDRLbkt0MDlFM2tqeGt3UHJmME1oem9YdnhJWnY3aGRGZ0NOcmF2VnFIbGd2MjdQUV9JZGhScHNrWC1vaUptamZiM2JaUVRmNm1BUkE0eTNueGNfX1pkdG5faVMxM1kzaGdMRlozZE15ZUY2dk9jLXR2cHN0anRIUEs2X1J4c2U5ZVNZbndHRnZUOWxaRXBn?oc=5" target="_blank">Bhutan glacial lake outburst triggers flood, no injuries reported</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain - Reuters
+## Stocks slump, bonds leap as AI giants' spending spooks investors - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGhRN204Yk1ya0hnbnBjX0E3NWxtUmRpWEJBcngyT09MSFZDZWxIU2VldDdlVWw3Nk9TM2FpRVl6YmlMM2VXS1plMXFrQk04dlk5SUh5dGQ1X1FGRGZvcTBFakE4NmtwUFdOdllkM0pJcmFTQ0E4S1hlUEZRbTZCX2E1WGZCdU1lejN5Y3VFR1R1eXdTZDRqSVozS0RwOWxYVi05XzZmSmhlRW1Vd01NcjFSUlFlYjd0SXpNZ1cxaGVfZzE2eDRjRUxpckg0dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGhRN204Yk1ya0hnbnBjX0E3NWxtUmRpWEJBcngyT09MSFZDZWxIU2VldDdlVWw3Nk9TM2FpRVl6YmlMM2VXS1plMXFrQk04dlk5SUh5dGQ1X1FGRGZvcTBFakE4NmtwUFdOdllkM0pJcmFTQ0E4S1hlUEZRbTZCX2E1WGZCdU1lejN5Y3VFR1R1eXdTZDRqSVozS0RwOWxYVi05XzZmSmhlRW1Vd01NcjFSUlFlYjd0SXpNZ1cxaGVfZzE2eDRjRUxpckg0dw?oc=5" target="_blank">Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5" target="_blank">Stocks slump, bonds leap as AI giants' spending spooks investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: QatarEnergy buys US, other LNG to hedge future Hormuz disruptions - Reuters
+## Bitcoin, cryptocurrency prices fall after Binance reports security issue - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5" target="_blank">EXCLUSIVE: QatarEnergy buys US, other LNG to hedge future Hormuz disruptions</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5" target="_blank">Bitcoin, cryptocurrency prices fall after Binance reports security issue</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## FCC votes to ban all Chinese labs from testing US electronics - Reuters
+## Trump cancels weekend rallies, plans to phone in to other midterm campaign events - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWwwSGZXVUdWRlY3d3FPckZwOEp5alZQcWZ1OVh5ZDdwM0l1WWl6dV9mdWpaR3MyeVVFREsxckVEZDlBYU83alN1SDdsbUVvd3NPUTB3NE1CRG5HVEJkM0lGa1BJWEJwRFBocUNRdG5BbnUwM0xaVnNyWWc5NGhOVm1OblhleDB0ZHRqaHl5OUhNUVRoSGIyQWpKbE9ONWZzZlFNSWc3aXE5enEtRWpNNFZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWwwSGZXVUdWRlY3d3FPckZwOEp5alZQcWZ1OVh5ZDdwM0l1WWl6dV9mdWpaR3MyeVVFREsxckVEZDlBYU83alN1SDdsbUVvd3NPUTB3NE1CRG5HVEJkM0lGa1BJWEJwRFBocUNRdG5BbnUwM0xaVnNyWWc5NGhOVm1OblhleDB0ZHRqaHl5OUhNUVRoSGIyQWpKbE9ONWZzZlFNSWc3aXE5enEtRWpNNFZ3?oc=5" target="_blank">FCC votes to ban all Chinese labs from testing US electronics</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5" target="_blank">Trump cancels weekend rallies, plans to phone in to other midterm campaign events</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
