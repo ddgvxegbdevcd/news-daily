@@ -1,68 +1,113 @@
 # 每日财经新闻
 
-更新时间：2026-10-31 04:58:00
+更新时间：2026-10-31 17:05:16
 
-## BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan
+## Final Countdown to Midterm Elections, Tech Stocks Tank
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue
+链接：https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video
 
 正文长度：0
 
-摘要：The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her costly policy agenda.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Medical Historian and “Sleuth-Hound” Author Lindsey Fitzharris, European Commission Vice-President and Fmr. PM of Estonia Kaja Kallas, Writer & Journalist Benton Graham, NY Rep. Gregory Meeks and Journalist and Bioethicist Elizabeth Yuko. (Source: Bloomberg)
 
 
 ---
 
-## Rubio and Brazil Foreign Minister to Meet After Election Tension
+## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump
+链接：https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：Secretary of State Marco Rubio and his Brazilian counterpart agreed to meet in the coming weeks, according to people familiar with the matter, after President Donald Trump’s decision to grant the nation’s defeated right-wing candidate Flávio Bolsonaro refuge inflamed tensions.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says
+## US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting
+链接：https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates
 
 正文长度：0
 
-摘要：Australian Prime Minister Anthony Albanese is set to visit Beijing next month, seeking to stabilize the nations’ relationship, the South China Morning Post reported, citing unidentified people.
+摘要：With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans.
 
 
 ---
 
-## Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap
+## EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes
 
 正文长度：0
 
-摘要：Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.
+摘要：Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas.
 
 
 ---
 
-## Chocolate Price Spook Families for Halloween
+## Stadiums Rethink the Women’s Restroom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video
+链接：https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video
 
 正文长度：0
 
-摘要：Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bloomberg Businessweek Daily to discuss how affordability is changing consumer behavior, and how both environmental and economic changes are impacting the business. (Source: Bloomberg)
+摘要：On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicating more restroom capacity to women, while upgrades at older stadiums can carry significant costs. (Source: Bloomberg)
+
+
+---
+
+## Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html
+
+正文长度：5676
+
+摘要：Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
+Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
+"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
+The benefits of 3D printing
+Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
+Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
+Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
+Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
+"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
+The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
+"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
+Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
+GM, Ford
+There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
+Instead of having a bay of 3D-printing machines like at Rivian, Ford has departments for additive manufacturing at many of its plants to produce and distribute needed parts. That includes a new vending machine for 3D-printed parts for production of F-150 pickup trucks near its Dearborn, Michigan, headquarters.
+"By putting the vending machine up, all the team leaders have access," said Gregory Foresi, a Ford mechanical engineer who ran Ford's 3D-printing lab at the plant from 2024 until last month. "We're able to keep that thing stocked rather than have a bunch of parts laying around in the lab. So that's been pretty huge."
+Foresi used roughly two dozen machines to print off thousands of tools, some of which have been designed by employees, such as torque bit sockets, hood jackers and hand tools for smoothing adhesive.
+Employees can use an app to request that specific auto parts or tools be printed. Ford's 3D-printing teams help develop them or determine what to produce next, as the machining time to build different parts can range from hours to days, if not weeks.
+Foresi said creating the tools with 3D printing has allowed the automaker to uniquely design them when needed, get them faster and, in many cases, receive them at a lower cost.
+Ford also has used 3D-printed parts to help keep production running. For example, Foresi said a large machining wheel was needed to maintain assembly line production and the company was able to 3D print the part until a permanent replacement from a supplier was available.
+"They didn't perform as well, and it's not really a replacement for the ones that we were purchasing, but they kept the plant running," Foresi said.
+Ford said it expects to have 3D labs deployed at more than 23 plants by the end of this year. Its current 3D-printing program has more than 200 machines, and there are additional printers outside the official program, the company said.
+GM has used 3D-printed parts for some of its low-volume products in addition to research and development and inside plants, including recently expanding its use of industrial Stratasys printers that can cost hundreds of thousands of dollars based on use case, training and certification.
+The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
+Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
+"The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."
+
+</details>
 
 
 ---
@@ -246,49 +291,28 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion
+## Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：5553
+正文长度：0
 
-摘要：Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5" target="_blank">Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Eli Lilly on Thursday reported third-quarter earnings and revenue that blew past estimates and hiked its full-year sales outlook, as demand for its blockbuster weight loss drug Zepbound and diabetes treatment Mounjaro soared again.
-Despite that strength, sales of its new GLP-1 obesity pill Foundayo, which launched in the U.S. in April, were under Wall Street's expectations for the quarter.
-The pharmaceutical giant now expects 2026 revenue to come in between $91 billion and $92 billion, up from a previous guidance of $85 billion to $87 billion.
-Lilly projects its full-year adjusted earnings will be between $35 and $36 per share, which compares with a previous outlook of $35.50 to $36.50 per share. The company said it raised the underlying profit guidance by $4.07 per share at the midpoint, but noted that it is offset by $4.57 per share in charges tied to deals in the quarter.
-The company's shares rose about 7% on Thursday.
-Lilly's massive diabetes and obesity windfall – and market share lead over chief rival Novo – shows no signs of slowing down, even as the company grapples with lower net prices in the U.S. The pharma giant is converting its massive profits into a deal-making spree, most recently striking an agreement to buy Merida Biosciences to develop a new class of treatments for serious autoimmune and allergic diseases.
-Here's what Eli Lilly reported for the third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $7.48 adjusted vs. $6.26 expected
-- Revenue: $24.40 billion vs. $22.61 billion expected
-Resilient demand for Zepbound and Mounjaro has helped fuel several strong quarters for Lilly despite lower prices for the medications in the U.S., which came after a drug pricing deal struck with the Trump administration last year. In a release, Lilly also pointed to expanded U.S. coverage for obesity care, referring to Medicare's decision to start covering GLP-1s for weight loss in July under a temporary pilot program.
-"This is a program that's really working," Lilly CEO Dave Ricks said on CNBC's "Squawk on the Street." "We're pleased with the early uptake and access, and I think doctors and patients are as well."
-Mounjaro's worldwide revenue rose 65% to $10.72 billion for the quarter, including U.S. sales of about $5 billion. That surpassed the $10.10 billion in worldwide sales and $4.79 billion in U.S. revenue that analysts were expecting for the quarter, according to StreetAccount.
-Mounjaro notably saw strength internationally, with sales outside the U.S. jumping 93%.
-Zepbound, which entered the market roughly three years ago, posted $5.35 billion in revenue for the third quarter. That's up 49% from the year-earlier period, as demand for the drug also rose while realized prices dropped. The vast majority of those sales came from the U.S.
-Analysts were expecting $5.09 billion in global sales for Zepbound, including $4.99 billion from the U.S., according to StreetAccount.
-Lilly's newly launched obesity pill, Foundayo, which won U.S. approval in April, took in $184 million in sales for the third quarter. That fell under analyst forecasts of around $229 million in sales, StreetAccount estimates showed.
-It marks the second earnings report that includes revenue from the GLP-1 pill, which is competing head-to-head with a rival oral drug from Novo that launched in January.
-Total U.S. prescriptions for Foundayo and the number of new Foundayo patients in the third quarter doubled from the previous quarter, Lilly CFO Lucas Montarces said during a Thursday earnings call. Around 4 in 10 patients starting an oral obesity medicine choose Foundayo, he added.
-Lilly expects Foundayo to win U.S. approval for Type 2 diabetes in the fourth quarter.
-Lilly is working to maintain its dominance in the booming market for GLP-1 drugs, with the company holding 63% share of the U.S. obesity and diabetes drug market in the third quarter, according to an earnings presentation on Thursday. Novo's market share in the quarter was 36.6%.
-During the earnings call, Montarces said 7 out of 10 U.S. prescriptions for injectable obesity and diabetes drugs in the third quarter were for a Lilly medicine.
-Ricks told CNBC that he estimates 3% to 10% of eligible patients access obesity care in the U.S., but said the "room for expansion here of this market is dramatic." Lilly is at the front of that push, he added.
-Internationally, Lilly held 58.4% share of the market, while Novo had 41.6%, the presentation said.
-Eli Lilly's revenue in the U.S. climbed 34% to $15.1 billion. Lilly said it saw a 41% increase in volume — or the number of prescriptions or units sold — for its products, primarily for Mounjaro and Zepbound. That was partially offset by a 7% decrease in realized prices, primarily driven by Zepbound.
-Lilly's quarter was also boosted by a sales-based milestone payout of $410 million for its Type 2 diabetes medication Jardiance, related to the company's collaboration with Boehringer Ingelheim.
-Sales outside the U.S. jumped 47% to $9.3 billion, propelled by a 76% surge in volume and partly offset by a 29% drop in realized prices.
-The pharmaceutical giant booked net income of $6.45 billion, or $7.22 per share, for the third quarter, which includes the $4.57 per share deal charges. That compares with net income of $5.58 billion, or $6.21 per share, a year earlier.
-Excluding one-time items associated with the value of intangible assets and other adjustments, Eli Lilly posted earnings of $7.48 per share for the third quarter.
+---
 
-</details>
+## Donald Trump’s endgame - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVpvaTBGQkhJVXd4TUhHckxjUXcySnlWa21QckhGY3plM0hkMk93Vy1LOXdJVGw2RDRaSmlSVHg5MHNtLTJhYXpFNnBncVJoUTEzcHZwekJiaHBrV1lKbVRYVmlkSm9fcTJvT05BS0lGZ2Jtc3ZmWUswVmtoc3g3VDFuZDk?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVpvaTBGQkhJVXd4TUhHckxjUXcySnlWa21QckhGY3plM0hkMk93Vy1LOXdJVGw2RDRaSmlSVHg5MHNtLTJhYXpFNnBncVJoUTEzcHZwekJiaHBrV1lKbVRYVmlkSm9fcTJvT05BS0lGZ2Jtc3ZmWUswVmtoc3g3VDFuZDk?oc=5" target="_blank">Donald Trump’s endgame</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -332,93 +356,67 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 ---
 
-## What we know about the $6.3bn Binance hack - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEthUlZFNDdZRjZ4YmJiRzlIRWo1Y3ZQSmJDaFBKZXhWTlZ2bGlaUW5uWGhSeTVZVTFvdm9iR2tzTDc2MlV4dFg1Q3JMem5qd2swc0U1a0lCc1RySjRBb1Y5SmVLV1VtaEZPYVFNeHhON0FYN0hZQTRicDZ6MjFnTW9MakE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEthUlZFNDdZRjZ4YmJiRzlIRWo1Y3ZQSmJDaFBKZXhWTlZ2bGlaUW5uWGhSeTVZVTFvdm9iR2tzTDc2MlV4dFg1Q3JMem5qd2swc0U1a0lCc1RySjRBb1Y5SmVLV1VtaEZPYVFNeHhON0FYN0hZQTRicDZ6MjFnTW9MakE?oc=5" target="_blank">What we know about the $6.3bn Binance hack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## How North Korea became a hacking superpower - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXIyeGlGTkdpLUZWaTVjQXIyZkh1QWRHQ3JjbjBlVlZYWjl1WkkxMG94VDFQcVVKcmpkWnAwQ1IzenphQlV3TTlFWEZsOFJJby1wN1pYWEpBeGNBVmpiM3ZaZ3dOVFZCUFBQd19nMkpmemkwX05EWm9oNDNiQk5aYlJCdGU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXIyeGlGTkdpLUZWaTVjQXIyZkh1QWRHQ3JjbjBlVlZYWjl1WkkxMG94VDFQcVVKcmpkWnAwQ1IzenphQlV3TTlFWEZsOFJJby1wN1pYWEpBeGNBVmpiM3ZaZ3dOVFZCUFBQd19nMkpmemkwX05EWm9oNDNiQk5aYlJCdGU?oc=5" target="_blank">How North Korea became a hacking superpower</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters
+## Binance replenishes 90% of assets stolen in security incident - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5" target="_blank">OpenAI slashes funding target by $10 billion amid tech rout, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5" target="_blank">Binance replenishes 90% of assets stolen in security incident</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gen Z protests reach Germany as over 160,000 expected at Halloween rallies - Reuters
+## Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5" target="_blank">Gen Z protests reach Germany as over 160,000 expected at Halloween rallies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5" target="_blank">Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged - Reuters
+## Poland's president accuses Tusk of forced takeover of country's top court - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzItX09tRWFpV3F0WnBCdENGUXQ5RklpTjRqSVR5V1NWVVNtcTVnZ0psNEhJX2M3c2taM0pKZW5MNGthM3dwRXpEa1lxMTZqdUtLZkNZY0h4VVdpRDhSOEZ2WEJNT0pjaG5HZjhYT094LVRwZzZHcHUzVGdSQ21zTFpKZ2NjVVlJQWZ6eUhzeWtnT19kWC1VMUlNeGVPQncyYjJzWVhQZVh1YmEtUFZzNVJ5YV9IUmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzItX09tRWFpV3F0WnBCdENGUXQ5RklpTjRqSVR5V1NWVVNtcTVnZ0psNEhJX2M3c2taM0pKZW5MNGthM3dwRXpEa1lxMTZqdUtLZkNZY0h4VVdpRDhSOEZ2WEJNT0pjaG5HZjhYT094LVRwZzZHcHUzVGdSQ21zTFpKZ2NjVVlJQWZ6eUhzeWtnT19kWC1VMUlNeGVPQncyYjJzWVhQZVh1YmEtUFZzNVJ5YV9IUmc?oc=5" target="_blank">Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5" target="_blank">Poland's president accuses Tusk of forced takeover of country's top court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China willing to import more German goods, Premier Li says - Reuters
+## Taipei mayor gets angry reception at Pride after gay bar raid - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5" target="_blank">China willing to import more German goods, Premier Li says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5" target="_blank">Taipei mayor gets angry reception at Pride after gay bar raid</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Trump appointee Bill Pulte’s housing agency obstructed watchdog, report says - Reuters
+## Bangladesh death toll from dengue rises, unlikely to ease before December - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0pVcUdQV3Rvd2p3bXRua0ZVQmJGZzdPdWdaUGFHN1hwN1N3Z3poRjIzREpwNXRGVDJ3ZjJsTURGS0hTcFdwejFqVk8xRkhBY3F0dlhkdV9QWm1jVGFhV1IwakFkcERUbHByd3RWakZWU2tkSTJQZG9mOXlEcWI2bG53a0tOdUhCWmQ5R0pGMUw0Z01JMF9CS2ZZb1dLNU8tcmIydk81bHVCS0R3Rlhtc1YtY1B0RVkzSkJUR05yMXpJWTk2emc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0pVcUdQV3Rvd2p3bXRua0ZVQmJGZzdPdWdaUGFHN1hwN1N3Z3poRjIzREpwNXRGVDJ3ZjJsTURGS0hTcFdwejFqVk8xRkhBY3F0dlhkdV9QWm1jVGFhV1IwakFkcERUbHByd3RWakZWU2tkSTJQZG9mOXlEcWI2bG53a0tOdUhCWmQ5R0pGMUw0Z01JMF9CS2ZZb1dLNU8tcmIydk81bHVCS0R3Rlhtc1YtY1B0RVkzSkJUR05yMXpJWTk2emc?oc=5" target="_blank">EXCLUSIVE: Trump appointee Bill Pulte’s housing agency obstructed watchdog, report says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5" target="_blank">Bangladesh death toll from dengue rises, unlikely to ease before December</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
