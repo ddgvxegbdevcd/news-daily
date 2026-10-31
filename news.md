@@ -1,42 +1,42 @@
 # 每日财经新闻
 
-更新时间：2026-10-30 17:53:27
+更新时间：2026-10-31 04:58:00
 
-## Air Canada Shares Sink Amid Jet Fuel Costs, Lower Profit Outlook
+## BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs
+链接：https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue
 
 正文长度：0
 
-摘要：Air Canada’s stock price tumbled the most in more than a month after the airline slashed its full-year guidance for the second quarter in a row on higher-than-expected jet fuel prices.
+摘要：The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her costly policy agenda.
 
 
 ---
 
-## Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices
+## Rubio and Brazil Foreign Minister to Meet After Election Tension
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes
+链接：https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump
 
 正文长度：0
 
-摘要：Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia roiled energy markets and drove refining results to record highs.
+摘要：Secretary of State Marco Rubio and his Brazilian counterpart agreed to meet in the coming weeks, according to people familiar with the matter, after President Donald Trump’s decision to grant the nation’s defeated right-wing candidate Flávio Bolsonaro refuge inflamed tensions.
 
 
 ---
 
-## Bessemer Trust CEO: Constructive on Markets
+## Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video
+链接：https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting
 
 正文长度：0
 
-摘要：Disappointing earnings from Intel and Amazon add to a brutal week for the AI trade, fueling a flight into Treasuries. Bessemer Trust CEO Holly MacDonald breaks down where the firm sees pockets of opportunity in this market. (Source: Bloomberg)
+摘要：Australian Prime Minister Anthony Albanese is set to visit Beijing next month, seeking to stabilize the nations’ relationship, the South China Morning Post reported, citing unidentified people.
 
 
 ---
@@ -54,15 +54,15 @@
 
 ---
 
-## Barclays, Fidera Seek Payout From Failed UAE Payments Firm
+## Chocolate Price Spook Families for Halloween
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-23/barclays-fidera-seek-payout-from-bankrupt-uae-remittances-firm
+链接：https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video
 
 正文长度：0
 
-摘要：Barclays Plc and London-based hedge fund Fidera Ltd are among dozens of creditors seeking to recover money they say they’re owed by Dubai’s United Arab Emirates Exchange Center LLC — a collapsed remittance provider with an estimated $1 billion hole in its balance sheet.
+摘要：Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bloomberg Businessweek Daily to discuss how affordability is changing consumer behavior, and how both environmental and economic changes are impacting the business. (Source: Bloomberg)
 
 
 ---
@@ -73,9 +73,9 @@
 
 链接：https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html
 
-正文长度：6867
+正文长度：6863
 
-摘要：Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.
+摘要：Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
@@ -84,7 +84,7 @@
 From the first quarter to the third, the number of days it took a dealer to sell a vehicle priced between $20,000 and $29,999 dropped 20%, according to data from Edmunds. That pace of selling saw the biggest acceleration of any price segment.
 Vehicles priced from $30,000 to $39,999 sold about 18% faster, and the number of days it took to sell the next tier — $40,000 to $49,999 — dropped nearly 12%, according to Edmunds.
 All of those price segments also took fewer days to turn than their more expensive counterparts. The lower-priced tiers took under 60 days to move off lots, with the least expensive ones selling the fastest. Every segment of vehicles above $50,000, meanwhile, took more than 60 days to sell.
-"If you're a dealer and you have inventory and that price point, you're definitely noticing," said Edmunds' Director of Insights Ivan Drury.
+"If you're a dealer and you have inventory and that price point, you're definitely noticing," said Edmunds Director of Insights Ivan Drury.
 Cheaper vehicles may be selling faster, but they're still hard to find. The average listing price for a new vehicle in September was $49,726, according to Cox Automotive.
 And, the overall sales numbers for some key segments priced under $40,000 have fallen. This has especially been true for compact cars, which are down roughly 4% since the beginning of 2026, and compact SUVs, down nearly 8% in the same period, according to Cox Automotive.
 These different data points seem to be moving in opposite directions. On the one hand, cheaper cars are moving faster off dealer lots. On the other, sales of affordable segments are down.
@@ -99,11 +99,11 @@ Detroit automakers swapped out their lineups of compact coupes and sedans in fav
 Currently, there is not a single compact passenger sedan for sale by an American manufacturer. Most on the market are Japanese or Korean, with a few German models, such as the Volkswagen Jetta and the Golf hatchback.
 "You have all these brands that have just abandoned the marketplace," Fiorani said.
 The smallest American passenger cars are the Ford Mustang, General Motors' Chevrolet Corvette, and the midsize Tesla Model 3 sedan, according to AutoForecast Solutions. The firm classifies both the Mustang and the Corvette as sports cars, and as such they occupy a different niche than compact sedans like the Honda Civic or Toyota Corolla.
-The Mustang has a starting price of $33,490, the Model 3 starts at $34,990, and the Chevrolet Corvette starts at $71,300. Cars like the Civic, Corolla and Jetta, meanwhile, all start below $25,000.
+The Mustang has a starting price of $33,490, the Model 3 starts at $34,990 and the Chevrolet Corvette starts at $71,300. Cars like the Civic, Corolla and Jetta, meanwhile, all start below $25,000.
 "Compact vehicle buyers are very price-sensitive," Fiorani said. "And so when the price of gas goes up, that eats into their car payment. That means that they can't afford a $500 or $600 a month car payment, and they have to move into the used market."
-Indeed, the wholesale used prices of compact cars has risen and is up more than nearly any other segment, according to Cox Automotive. Wholesale prices — the prices vehicles sell for at large auctions, like Cox Automotive's Manheim auction — are indicators for prices overall in the fragmented used car market.
+Indeed, the wholesale used prices of compact cars have risen and are up more than almost any other segment, according to Cox Automotive. Wholesale prices — the prices vehicles sell for at large auctions, like Cox Automotive's Manheim auction — are indicators for prices overall in the fragmented used-car market.
 Along with the rise in prices, auto finance stats show that a historically high number of buyers are stretching to afford cars.
-Roughly one in four buyers financing their purchases are getting 84-month loans — a record. Nearly three in 10 trade-ins toward new-vehicle purchases carried negative equity in the third quarter, meaning the cars being traded in were worth less than the outstanding balances of the loans on them. Shoppers are often rolling these negative balances into new loans, which pushes up the new payment cost.
+Roughly one in four buyers financing their purchases are getting 84-month loans — a record. Nearly 3 in 10 trade-ins toward new-vehicle purchases carried negative equity in the third quarter, meaning the cars being traded in were worth less than the outstanding balances of the loans on them. Shoppers are often rolling these negative balances into new loans, which pushes up the new payment cost.
 Automakers have also been more tightly aligning production with demand to avoid discounting vehicles. Incentives on average are about 6.6% of the average transaction price as of October, according to Cox Automotive. Leasing offers a way to get a car with a lower payment, but leasing rates are also down.
 Vehicle trade-in data suggests that many buyers who are snapping up those fast-selling cheaper vehicles are either first-time buyers or are purchasing supplemental vehicles, Edmunds' Drury said.
 The subcompact SUV segment is one lower-priced group that has seen sales rise in 2026. That is a segment that attracts a lot of first-time buyers. But this is still a relatively small share of the total car market, Fiorani said.
@@ -293,6 +293,19 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 ---
 
+## OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5" target="_blank">OpenAI slashes funding target by $10bn as tech anxieties mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times
 
 来源：金融时报
@@ -306,7 +319,7 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 ---
 
-## CD&R pursues buyout of $40bn payment processor Global Payments - Financial Times
+## CD&R pursues buyout of $40bn card processor Global Payments - Financial Times
 
 来源：金融时报
 
@@ -314,20 +327,7 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5" target="_blank">CD&amp;R pursues buyout of $40bn payment processor Global Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Europe divided over how to influence US-Russia talks - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjdrWGd5amdacW1RNEgtZUZyQ3ZaQVJ0YklyYnpuTk1nMTc4LUxHQXdTWC1kYms4UWhUU2xyZ1plbDk1aWNwU2kxd0JmR3RqOUlZai0wbGRyS0lmUU9LRlFrQnBKT2VPYmNuYzRDUUNwNHlVSVpUaWtyNk11Qm5MZ0EtT0c?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjdrWGd5amdacW1RNEgtZUZyQ3ZaQVJ0YklyYnpuTk1nMTc4LUxHQXdTWC1kYms4UWhUU2xyZ1plbDk1aWNwU2kxd0JmR3RqOUlZai0wbGRyS0lmUU9LRlFrQnBKT2VPYmNuYzRDUUNwNHlVSVpUaWtyNk11Qm5MZ0EtT0c?oc=5" target="_blank">Europe divided over how to influence US-Russia talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5" target="_blank">CD&amp;R pursues buyout of $40bn card processor Global Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -345,80 +345,80 @@ Excluding one-time items associated with the value of intangible assets and othe
 
 ---
 
-## Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO - Financial Times
+## How North Korea became a hacking superpower - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2E2Y3pKbUpDVzYyOVFLQ1lLbUFfTVQwMmtJa0dZNUtwaXhVZ2JnaWRCWDg3Wld3cHp5cmgwSGpHZktZUWtKX2dMdnZYUThhS3NUTHdYNWZ2MXB3YWdDZVZmcEVCMlFtQ2hVQWdmdU55VXUwN0RBTTJzdGFQMFJLUzFrUFM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXIyeGlGTkdpLUZWaTVjQXIyZkh1QWRHQ3JjbjBlVlZYWjl1WkkxMG94VDFQcVVKcmpkWnAwQ1IzenphQlV3TTlFWEZsOFJJby1wN1pYWEpBeGNBVmpiM3ZaZ3dOVFZCUFBQd19nMkpmemkwX05EWm9oNDNiQk5aYlJCdGU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2E2Y3pKbUpDVzYyOVFLQ1lLbUFfTVQwMmtJa0dZNUtwaXhVZ2JnaWRCWDg3Wld3cHp5cmgwSGpHZktZUWtKX2dMdnZYUThhS3NUTHdYNWZ2MXB3YWdDZVZmcEVCMlFtQ2hVQWdmdU55VXUwN0RBTTJzdGFQMFJLUzFrUFM?oc=5" target="_blank">Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXIyeGlGTkdpLUZWaTVjQXIyZkh1QWRHQ3JjbjBlVlZYWjl1WkkxMG94VDFQcVVKcmpkWnAwQ1IzenphQlV3TTlFWEZsOFJJby1wN1pYWEpBeGNBVmpiM3ZaZ3dOVFZCUFBQd19nMkpmemkwX05EWm9oNDNiQk5aYlJCdGU?oc=5" target="_blank">How North Korea became a hacking superpower</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Meta settles with teen during trial testing claims social media caused depression, eating disorders - Reuters
+## OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5" target="_blank">Meta settles with teen during trial testing claims social media caused depression, eating disorders</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5" target="_blank">OpenAI slashes funding target by $10 billion amid tech rout, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen - Reuters
+## Gen Z protests reach Germany as over 160,000 expected at Halloween rallies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5" target="_blank">Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5" target="_blank">Gen Z protests reach Germany as over 160,000 expected at Halloween rallies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## On again: Trump restores weekend campaign rallies in Iowa, Kansas - Reuters
+## Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzItX09tRWFpV3F0WnBCdENGUXQ5RklpTjRqSVR5V1NWVVNtcTVnZ0psNEhJX2M3c2taM0pKZW5MNGthM3dwRXpEa1lxMTZqdUtLZkNZY0h4VVdpRDhSOEZ2WEJNT0pjaG5HZjhYT094LVRwZzZHcHUzVGdSQ21zTFpKZ2NjVVlJQWZ6eUhzeWtnT19kWC1VMUlNeGVPQncyYjJzWVhQZVh1YmEtUFZzNVJ5YV9IUmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5" target="_blank">On again: Trump restores weekend campaign rallies in Iowa, Kansas</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzItX09tRWFpV3F0WnBCdENGUXQ5RklpTjRqSVR5V1NWVVNtcTVnZ0psNEhJX2M3c2taM0pKZW5MNGthM3dwRXpEa1lxMTZqdUtLZkNZY0h4VVdpRDhSOEZ2WEJNT0pjaG5HZjhYT094LVRwZzZHcHUzVGdSQ21zTFpKZ2NjVVlJQWZ6eUhzeWtnT19kWC1VMUlNeGVPQncyYjJzWVhQZVh1YmEtUFZzNVJ5YV9IUmc?oc=5" target="_blank">Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX - Reuters
+## China willing to import more German goods, Premier Li says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5" target="_blank">Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5" target="_blank">China willing to import more German goods, Premier Li says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## G20 foreign ministers skip photo-op amid objections over Russia - Reuters
+## EXCLUSIVE: Trump appointee Bill Pulte’s housing agency obstructed watchdog, report says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0pVcUdQV3Rvd2p3bXRua0ZVQmJGZzdPdWdaUGFHN1hwN1N3Z3poRjIzREpwNXRGVDJ3ZjJsTURGS0hTcFdwejFqVk8xRkhBY3F0dlhkdV9QWm1jVGFhV1IwakFkcERUbHByd3RWakZWU2tkSTJQZG9mOXlEcWI2bG53a0tOdUhCWmQ5R0pGMUw0Z01JMF9CS2ZZb1dLNU8tcmIydk81bHVCS0R3Rlhtc1YtY1B0RVkzSkJUR05yMXpJWTk2emc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5" target="_blank">G20 foreign ministers skip photo-op amid objections over Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0pVcUdQV3Rvd2p3bXRua0ZVQmJGZzdPdWdaUGFHN1hwN1N3Z3poRjIzREpwNXRGVDJ3ZjJsTURGS0hTcFdwejFqVk8xRkhBY3F0dlhkdV9QWm1jVGFhV1IwakFkcERUbHByd3RWakZWU2tkSTJQZG9mOXlEcWI2bG53a0tOdUhCWmQ5R0pGMUw0Z01JMF9CS2ZZb1dLNU8tcmIydk81bHVCS0R3Rlhtc1YtY1B0RVkzSkJUR05yMXpJWTk2emc?oc=5" target="_blank">EXCLUSIVE: Trump appointee Bill Pulte’s housing agency obstructed watchdog, report says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
