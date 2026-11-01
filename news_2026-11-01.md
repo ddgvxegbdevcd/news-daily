@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-01 05:27:28
+更新时间：2026-11-01 17:48:40
 
-## Macau Gaming Revenue Decline Extends Despite Golden Week Boost
+## Fuga de Flávio cria problema familiar para direita
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost
+链接：https://www.bloomberg.com/news/videos/2026-11-01/fuga-de-flavio-cria-problema-familiar-para-direita-video
 
 正文长度：0
 
-摘要：Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors.
+摘要：Após a fuga de Flávio Bolsonaro para os EUA, a direita tenta definir os próximos passos. Confira com Daniel Carvalho. Edição de Patricia Xavier.  (Source: Bloomberg)
 
 
 ---
 
-## Australia Home Auction Clearance Rate Falls to Six-Year Low
+## Bloomberg This Weekend 11/1/2026
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low
+链接：https://www.bloomberg.com/news/videos/2026-11-01/bloomberg-this-weekend-11-1-2026-video
 
 正文长度：0
 
-摘要：Australia’s auction clearance rate fell to a six-year low as a public holiday in Melbourne and the threat of higher interest rates weighed on the nation’s residential real estate market.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Maritime Organization Secretary-General Arsenio Dominguez, Brooks Running CEO Dan Sheridan, BMO Capital Markets Senior Economist Jennifer Lee, Eagleton Center for Public Interest Polling Director Ashley Koning and CT Rep. Rosa DeLauro. (Source: Bloomberg)
 
 
 ---
 
-## An Asian Stock Trader’s Guide Ahead of the US Midterm Elections
+## The Political Debate on Daylight Saving Time
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections
+链接：https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video
 
 正文长度：0
 
-摘要：Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.
+摘要：Time is ticking on the debate over changing our clocks twice a year. As Americans prepare to fall back, Bloomberg’s Shaquille Omari explains why Washington can’t seem to move forward. (Source: Bloomberg)
 
 
 ---
 
-## Turkey Appoints New Top Market Regulator in Fund Crisis Response
+## Bookmarked: News Stories On Our Reading List
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response
+链接：https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video
 
 正文长度：0
 
-摘要：Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection board, as chief of Turkey’s market regulator to help deal with an investment fund crisis that rocked financial markets.
+摘要：Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
 
 
 ---
 
-## Rubio Defends Russian G20 Presence Despite Criticism From Allies
+## Trump Struggles to Sell Voters on the Economy
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies
+链接：https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video
 
 正文长度：0
 
-摘要：Secretary of State Marco Rubio defended the US decision to include Russia in this year’s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.
+摘要：Bloomberg News Senior Executive Editor Wes Kosova tells Bloomberg This Weekend that President Donald Trump is struggling to convince voters the economy is strong as higher fuel prices and affordability concerns weigh on his support, including among Republicans. Speaking with hosts David Gura and Lisa Mateo, Kosova says Trump’s last-minute promises of financial relief may have limited power to change voters’ perceptions, while the prolonged Iran war adds uncertainty over when energy prices could ease. (Source: Bloomberg)
 
 
 ---
@@ -291,132 +291,132 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections - Financial Times
+## Binance restarts customer withdrawals after $6.3bn heist - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5" target="_blank">Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5" target="_blank">Binance restarts customer withdrawals after $6.3bn heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump’s endgame - Financial Times
+## Germany fails to meet gas storage target as winter approaches - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVpvaTBGQkhJVXd4TUhHckxjUXcySnlWa21QckhGY3plM0hkMk93Vy1LOXdJVGw2RDRaSmlSVHg5MHNtLTJhYXpFNnBncVJoUTEzcHZwekJiaHBrV1lKbVRYVmlkSm9fcTJvT05BS0lGZ2Jtc3ZmWUswVmtoc3g3VDFuZDk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXBkeFdDeFV0MV9SdEh3Um1RbE5hbERrZ3FwYm42eGNHRTkzU2F1RHVuZncxQ0Vaa1hVYWVNc3Mtc182VzNqRnJacl9aZXdRbUpnMlFZclVMRkpZeW1QZWF1NVhYVFdqMEs4N1ZUSzFLU2E3aEVSTmRYQzZ0WEJsRnRDZ3E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVpvaTBGQkhJVXd4TUhHckxjUXcySnlWa21QckhGY3plM0hkMk93Vy1LOXdJVGw2RDRaSmlSVHg5MHNtLTJhYXpFNnBncVJoUTEzcHZwekJiaHBrV1lKbVRYVmlkSm9fcTJvT05BS0lGZ2Jtc3ZmWUswVmtoc3g3VDFuZDk?oc=5" target="_blank">Donald Trump’s endgame</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXBkeFdDeFV0MV9SdEh3Um1RbE5hbERrZ3FwYm42eGNHRTkzU2F1RHVuZncxQ0Vaa1hVYWVNc3Mtc182VzNqRnJacl9aZXdRbUpnMlFZclVMRkpZeW1QZWF1NVhYVFdqMEs4N1ZUSzFLU2E3aEVSTmRYQzZ0WEJsRnRDZ3E?oc=5" target="_blank">Germany fails to meet gas storage target as winter approaches</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times
+## Weil Gotshal: what happens now at the troubled Wall St law firm? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzh5QWJpb05vdnR6X2ROQzN0WnM1M3BLVlpSSHlEQ0FrYXprN29HV2lDNGdsdV9vUVp5dnRuYWlyLWRHUWs3b0IzUVljT2piazlzNFNQbHRXSTlrLVk3TU5vemJEM3FZSUxPcWFFT0dzVjNZTmthdjJwYkZKR0NtdXJxbGs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5" target="_blank">OpenAI slashes funding target by $10bn as tech anxieties mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzh5QWJpb05vdnR6X2ROQzN0WnM1M3BLVlpSSHlEQ0FrYXprN29HV2lDNGdsdV9vUVp5dnRuYWlyLWRHUWs3b0IzUVljT2piazlzNFNQbHRXSTlrLVk3TU5vemJEM3FZSUxPcWFFT0dzVjNZTmthdjJwYkZKR0NtdXJxbGs?oc=5" target="_blank">Weil Gotshal: what happens now at the troubled Wall St law firm?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Is this the first clear evidence of AI’s impact on the labour market? - Financial Times
+## Junk debt rout sparks ‘bloodbath’ for credit investors - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY05sR3JWdGJzWDE5U2J3TVpBb1RoSklOd0wwMW56WGdEYVh3NjBYNEZZUkFGeW8tTTFiMlg5VEJQcVV0Q3dWOHRsaURNR1J3RUd5SjdXdVYyVVpKMHd1M3pfUDd4ckVtVXhncEJaQUF2X1YyYk9hT05iNFRkemdER0RETE0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5" target="_blank">Is this the first clear evidence of AI’s impact on the labour market?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY05sR3JWdGJzWDE5U2J3TVpBb1RoSklOd0wwMW56WGdEYVh3NjBYNEZZUkFGeW8tTTFiMlg5VEJQcVV0Q3dWOHRsaURNR1J3RUd5SjdXdVYyVVpKMHd1M3pfUDd4ckVtVXhncEJaQUF2X1YyYk9hT05iNFRkemdER0RETE0?oc=5" target="_blank">Junk debt rout sparks ‘bloodbath’ for credit investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times
+## Gen Z protests turn violent in Germany - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObExHY0U2MGk0d3FqbVc5MVdJaDZSMjZUUFhmcHBJSllSeTdlVFU1VzVuUXZNS0lrNERDZUpEZ2FqSFhWdWhOb1ZLaW9Oazk4alJmdDVyaTNFZmsweFV1Wi1Pb2oyLVBZRm1HXzNJRExWQ0sxaWFldmFaVG10dXFIQnhyZDM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5" target="_blank">Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObExHY0U2MGk0d3FqbVc5MVdJaDZSMjZUUFhmcHBJSllSeTdlVFU1VzVuUXZNS0lrNERDZUpEZ2FqSFhWdWhOb1ZLaW9Oazk4alJmdDVyaTNFZmsweFV1Wi1Pb2oyLVBZRm1HXzNJRExWQ0sxaWFldmFaVG10dXFIQnhyZDM?oc=5" target="_blank">Gen Z protests turn violent in Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bangladesh to form wage board after garment protests shut factories - Reuters
+## Russia's FSB says minor detained over park attack threat after US tip-off - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5" target="_blank">Bangladesh to form wage board after garment protests shut factories</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5" target="_blank">Russia's FSB says minor detained over park attack threat after US tip-off</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Taiwan says China harassing shipping with east coast patrol - Reuters
+## German, Slovak die in suspected electrocution at hotel pool in India - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5" target="_blank">Taiwan says China harassing shipping with east coast patrol</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5" target="_blank">German, Slovak die in suspected electrocution at hotel pool in India</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump says Flavio Bolsonaro can stay in US 'as long as he wants' - Reuters
+## Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5" target="_blank">Trump says Flavio Bolsonaro can stay in US 'as long as he wants'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5" target="_blank">Iran, Qatari mediators hold third day of talks to end US-Iran war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable' - Reuters
+## Serbians mark railway disaster that led to rise of victorious student movement - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5" target="_blank">Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5" target="_blank">Serbians mark railway disaster that led to rise of victorious student movement</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## California governor asks US judges to resist Trump attempts to seize ballots - Reuters
+## Trump White House maps path to govern without Congress if Democrats win - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5" target="_blank">California governor asks US judges to resist Trump attempts to seize ballots</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5" target="_blank">Trump White House maps path to govern without Congress if Democrats win</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
