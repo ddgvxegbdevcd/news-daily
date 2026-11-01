@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-10-31 17:05:16
+更新时间：2026-11-01 05:27:28
 
-## Final Countdown to Midterm Elections, Tech Stocks Tank
+## Macau Gaming Revenue Decline Extends Despite Golden Week Boost
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Medical Historian and “Sleuth-Hound” Author Lindsey Fitzharris, European Commission Vice-President and Fmr. PM of Estonia Kaja Kallas, Writer & Journalist Benton Graham, NY Rep. Gregory Meeks and Journalist and Bioethicist Elizabeth Yuko. (Source: Bloomberg)
+摘要：Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors.
 
 
 ---
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## Australia Home Auction Clearance Rate Falls to Six-Year Low
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：Australia’s auction clearance rate fell to a six-year low as a public holiday in Melbourne and the threat of higher interest rates weighed on the nation’s residential real estate market.
 
 
 ---
 
-## US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates
+## An Asian Stock Trader’s Guide Ahead of the US Midterm Elections
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates
+链接：https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections
 
 正文长度：0
 
-摘要：With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans.
+摘要：Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.
 
 
 ---
 
-## EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes
+## Turkey Appoints New Top Market Regulator in Fund Crisis Response
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes
+链接：https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response
 
 正文长度：0
 
-摘要：Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas.
+摘要：Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection board, as chief of Turkey’s market regulator to help deal with an investment fund crisis that rocked financial markets.
 
 
 ---
 
-## Stadiums Rethink the Women’s Restroom
+## Rubio Defends Russian G20 Presence Despite Criticism From Allies
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video
+链接：https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicating more restroom capacity to women, while upgrades at older stadiums can carry significant costs. (Source: Bloomberg)
+摘要：Secretary of State Marco Rubio defended the US decision to include Russia in this year’s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.
 
 
 ---
@@ -330,6 +330,19 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
+## Is this the first clear evidence of AI’s impact on the labour market? - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5" target="_blank">Is this the first clear evidence of AI’s impact on the labour market?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times
 
 来源：金融时报
@@ -343,80 +356,67 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## CD&R pursues buyout of $40bn card processor Global Payments - Financial Times
+## Bangladesh to form wage board after garment protests shut factories - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5" target="_blank">CD&amp;R pursues buyout of $40bn card processor Global Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5" target="_blank">Bangladesh to form wage board after garment protests shut factories</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Binance replenishes 90% of assets stolen in security incident - Reuters
+## Taiwan says China harassing shipping with east coast patrol - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5" target="_blank">Binance replenishes 90% of assets stolen in security incident</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5" target="_blank">Taiwan says China harassing shipping with east coast patrol</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters
+## Trump says Flavio Bolsonaro can stay in US 'as long as he wants' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5" target="_blank">Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5" target="_blank">Trump says Flavio Bolsonaro can stay in US 'as long as he wants'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Poland's president accuses Tusk of forced takeover of country's top court - Reuters
+## Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable' - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5" target="_blank">Poland's president accuses Tusk of forced takeover of country's top court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5" target="_blank">Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Taipei mayor gets angry reception at Pride after gay bar raid - Reuters
+## California governor asks US judges to resist Trump attempts to seize ballots - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5" target="_blank">Taipei mayor gets angry reception at Pride after gay bar raid</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Bangladesh death toll from dengue rises, unlikely to ease before December - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5" target="_blank">Bangladesh death toll from dengue rises, unlikely to ease before December</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5" target="_blank">California governor asks US judges to resist Trump attempts to seize ballots</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
