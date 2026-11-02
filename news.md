@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-01 17:48:40
+更新时间：2026-11-02 05:26:26
 
-## Fuga de Flávio cria problema familiar para direita
+## Most Asian Stocks Gain With US Futures, Oil Falls: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-01/fuga-de-flavio-cria-problema-familiar-para-direita-video
+链接：https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Após a fuga de Flávio Bolsonaro para os EUA, a direita tenta definir os próximos passos. Confira com Daniel Carvalho. Edição de Patricia Xavier.  (Source: Bloomberg)
+摘要：Most Asian stocks rose with US equity futures as risk appetite stabilized following last week’s slump in tech shares. Oil fell.
 
 
 ---
 
-## Bloomberg This Weekend 11/1/2026
+## Latest Oil Market News and Analysis for Nov. 2
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-01/bloomberg-this-weekend-11-1-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Maritime Organization Secretary-General Arsenio Dominguez, Brooks Running CEO Dan Sheridan, BMO Capital Markets Senior Economist Jennifer Lee, Eagleton Center for Public Interest Polling Director Ashley Koning and CT Rep. Rosa DeLauro. (Source: Bloomberg)
+摘要：Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.
 
 
 ---
 
-## The Political Debate on Daylight Saving Time
+## NY’s MTA Could Save $2.5 Billion With Faster Buses, Expense Cuts
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video
+链接：https://www.bloomberg.com/news/articles/2026-11-02/ny-s-mta-could-save-2-5-billion-with-faster-buses-expense-cuts
 
 正文长度：0
 
-摘要：Time is ticking on the debate over changing our clocks twice a year. As Americans prepare to fall back, Bloomberg’s Shaquille Omari explains why Washington can’t seem to move forward. (Source: Bloomberg)
+摘要：New York’s Metropolitan Transportation Authority could save up to $2.5 billion each year through operational improvements, faster buses and getting current and retired employees to pay more for their health insurance coverage, according to a fiscal watchdog group.
 
 
 ---
 
-## Bookmarked: News Stories On Our Reading List
+## The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video
+链接：https://www.bloomberg.com/news/videos/2026-11-02/the-icelandic-dna-behind-amgen-s-hunt-for-the-next-ozempic
 
 正文长度：0
 
-摘要：Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
+摘要：Amgen's best chance at breaking into the high-stakes obesity drug market got its start in a basement at the University of Iceland Science Park in Reykjavík, in a freezer chilled to minus-13 degrees Fahrenheit. Bloomberg's Madison Muller explains. (Source: Bloomberg)
 
 
 ---
 
-## Trump Struggles to Sell Voters on the Economy
+## South Africa’s Low-Key Municipal Polls Pose Risks for Investors
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video
+链接：https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors
 
 正文长度：0
 
-摘要：Bloomberg News Senior Executive Editor Wes Kosova tells Bloomberg This Weekend that President Donald Trump is struggling to convince voters the economy is strong as higher fuel prices and affordability concerns weigh on his support, including among Republicans. Speaking with hosts David Gura and Lisa Mateo, Kosova says Trump’s last-minute promises of financial relief may have limited power to change voters’ perceptions, while the prolonged Iran war adds uncertainty over when energy prices could ease. (Source: Bloomberg)
+摘要：South Africa’s nationwide municipal elections on Wednesday hold few fears for investors, if market indicators are anything to go by. But shifts in broad support for the major political parties could provide a read on the future of the governing coalition that has steered the country’s fiscal and economic reforms.
 
 
 ---
@@ -291,15 +291,41 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Binance restarts customer withdrawals after $6.3bn heist - Financial Times
+## Nine killed as business jet crashes in Florida - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzg1Nm5pN0JNdGE5MXNKQ3FRVWVuOHVlc05jODhhVDVnOVFLckd4TGpORW1GLWNIS0VadjNhNmoyeUFVMUM1Z3V4ZVNVYm1lbWdXRDBrOWJBbzFJYjRfN05VVVkxeXFZLVdFQzVSOFR5QzRDYmNQZVo4ZTZXOHFRMnBVX0I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5" target="_blank">Binance restarts customer withdrawals after $6.3bn heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzg1Nm5pN0JNdGE5MXNKQ3FRVWVuOHVlc05jODhhVDVnOVFLckd4TGpORW1GLWNIS0VadjNhNmoyeUFVMUM1Z3V4ZVNVYm1lbWdXRDBrOWJBbzFJYjRfN05VVVkxeXFZLVdFQzVSOFR5QzRDYmNQZVo4ZTZXOHFRMnBVX0I?oc=5" target="_blank">Nine killed as business jet crashes in Florida</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Serbia shuts down bank favoured by Russians - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw?oc=5" target="_blank">Serbia shuts down bank favoured by Russians</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Blue Lagoon owner plans to float as Icelandic tourism booms - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5" target="_blank">Blue Lagoon owner plans to float as Icelandic tourism booms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -317,106 +343,80 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Weil Gotshal: what happens now at the troubled Wall St law firm? - Financial Times
+## Binance users pull $3.6bn as crypto exchange restarts services after heist - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzh5QWJpb05vdnR6X2ROQzN0WnM1M3BLVlpSSHlEQ0FrYXprN29HV2lDNGdsdV9vUVp5dnRuYWlyLWRHUWs3b0IzUVljT2piazlzNFNQbHRXSTlrLVk3TU5vemJEM3FZSUxPcWFFT0dzVjNZTmthdjJwYkZKR0NtdXJxbGs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzh5QWJpb05vdnR6X2ROQzN0WnM1M3BLVlpSSHlEQ0FrYXprN29HV2lDNGdsdV9vUVp5dnRuYWlyLWRHUWs3b0IzUVljT2piazlzNFNQbHRXSTlrLVk3TU5vemJEM3FZSUxPcWFFT0dzVjNZTmthdjJwYkZKR0NtdXJxbGs?oc=5" target="_blank">Weil Gotshal: what happens now at the troubled Wall St law firm?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5" target="_blank">Binance users pull $3.6bn as crypto exchange restarts services after heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Junk debt rout sparks ‘bloodbath’ for credit investors - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY05sR3JWdGJzWDE5U2J3TVpBb1RoSklOd0wwMW56WGdEYVh3NjBYNEZZUkFGeW8tTTFiMlg5VEJQcVV0Q3dWOHRsaURNR1J3RUd5SjdXdVYyVVpKMHd1M3pfUDd4ckVtVXhncEJaQUF2X1YyYk9hT05iNFRkemdER0RETE0?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY05sR3JWdGJzWDE5U2J3TVpBb1RoSklOd0wwMW56WGdEYVh3NjBYNEZZUkFGeW8tTTFiMlg5VEJQcVV0Q3dWOHRsaURNR1J3RUd5SjdXdVYyVVpKMHd1M3pfUDd4ckVtVXhncEJaQUF2X1YyYk9hT05iNFRkemdER0RETE0?oc=5" target="_blank">Junk debt rout sparks ‘bloodbath’ for credit investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Gen Z protests turn violent in Germany - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObExHY0U2MGk0d3FqbVc5MVdJaDZSMjZUUFhmcHBJSllSeTdlVFU1VzVuUXZNS0lrNERDZUpEZ2FqSFhWdWhOb1ZLaW9Oazk4alJmdDVyaTNFZmsweFV1Wi1Pb2oyLVBZRm1HXzNJRExWQ0sxaWFldmFaVG10dXFIQnhyZDM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObExHY0U2MGk0d3FqbVc5MVdJaDZSMjZUUFhmcHBJSllSeTdlVFU1VzVuUXZNS0lrNERDZUpEZ2FqSFhWdWhOb1ZLaW9Oazk4alJmdDVyaTNFZmsweFV1Wi1Pb2oyLVBZRm1HXzNJRExWQ0sxaWFldmFaVG10dXFIQnhyZDM?oc=5" target="_blank">Gen Z protests turn violent in Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Russia's FSB says minor detained over park attack threat after US tip-off - Reuters
+## US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5" target="_blank">Russia's FSB says minor detained over park attack threat after US tip-off</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE?oc=5" target="_blank">US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## German, Slovak die in suspected electrocution at hotel pool in India - Reuters
+## Binance sees outflows stabilising as exchange returns online after $6.3 billion heist - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVvY1JqNmQ3WmkweFRDSDhmbjVHb2NxT1JfMEFFVENNVGUtajJTeFJCakYzOGpzcnpHb2g1V0JONG1fUnpVTTAweHNrTlRwSTZDQUZRSE1hOWdiODlWOW05RGl0UGU3bEc1RzhNZlEtYkxEOGxPU3V5c0hYUk5hT3RlZl9sdUJIUjZENDNSYnVJT29UdDlKRFk0bWJxYUQwRjVHRjFKbVA1QQ?oc=5" target="_blank">German, Slovak die in suspected electrocution at hotel pool in India</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5" target="_blank">Binance sees outflows stabilising as exchange returns online after $6.3 billion heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters
+## Indian shares rise on Iran war talks, Reliance earnings beat - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5" target="_blank">Iran, Qatari mediators hold third day of talks to end US-Iran war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5" target="_blank">Indian shares rise on Iran war talks, Reliance earnings beat</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Serbians mark railway disaster that led to rise of victorious student movement - Reuters
+## India's Reliance set for best day since January 2024 as O2C recovery, Jio growth lift outlook - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5" target="_blank">Serbians mark railway disaster that led to rise of victorious student movement</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5" target="_blank">India's Reliance set for best day since January 2024 as O2C recovery, Jio growth lift outlook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump White House maps path to govern without Congress if Democrats win - Reuters
+## North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5" target="_blank">Trump White House maps path to govern without Congress if Democrats win</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB?oc=5" target="_blank">North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
