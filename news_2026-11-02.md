@@ -1,8 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-11-02 05:26:26
+更新时间：2026-11-02 21:35:46
 
-## Most Asian Stocks Gain With US Futures, Oil Falls: Markets Wrap
+## Romania Raises €4.5 Billion in New Government’s First Bond Sale
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office
+
+正文长度：0
+
+摘要：Romania tapped international debt markets for the first time after the country approved a new government to overcome more than five months of political turmoil.
+
+
+---
+
+## US Tech Stocks Enter Correction on AI and Midterm Election Risks
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff
+
+正文长度：0
+
+摘要：Technology stocks led US equities lower on Monday as worries around the artificial intelligence trade outweighed hopes of US-Iran diplomacy.
+
+
+---
+
+## S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap
 
 来源：彭博社
 
@@ -10,59 +36,33 @@
 
 正文长度：0
 
-摘要：Most Asian stocks rose with US equity futures as risk appetite stabilized following last week’s slump in tech shares. Oil fell.
+摘要：A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Nov. 2
+## Treasury Yields Extend Past Month’s Slide as Oil Prices Drop
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2
+链接：https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble
 
 正文长度：0
 
-摘要：Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.
+摘要：Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.
 
 
 ---
 
-## NY’s MTA Could Save $2.5 Billion With Faster Buses, Expense Cuts
+## Citi FX Traders Back Carry but Warn Against ‘Set and Forget’
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/ny-s-mta-could-save-2-5-billion-with-faster-buses-expense-cuts
+链接：https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet
 
 正文长度：0
 
-摘要：New York’s Metropolitan Transportation Authority could save up to $2.5 billion each year through operational improvements, faster buses and getting current and retired employees to pay more for their health insurance coverage, according to a fiscal watchdog group.
-
-
----
-
-## The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-02/the-icelandic-dna-behind-amgen-s-hunt-for-the-next-ozempic
-
-正文长度：0
-
-摘要：Amgen's best chance at breaking into the high-stakes obesity drug market got its start in a basement at the University of Iceland Science Park in Reykjavík, in a freezer chilled to minus-13 degrees Fahrenheit. Bloomberg's Madison Muller explains. (Source: Bloomberg)
-
-
----
-
-## South Africa’s Low-Key Municipal Polls Pose Risks for Investors
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors
-
-正文长度：0
-
-摘要：South Africa’s nationwide municipal elections on Wednesday hold few fears for investors, if market indicators are anything to go by. But shifts in broad support for the major political parties could provide a read on the future of the governing coalition that has steered the country’s fiscal and economic reforms.
+摘要：Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.
 
 
 ---
@@ -73,7 +73,7 @@
 
 链接：https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html
 
-正文长度：5676
+正文长度：5902
 
 摘要：Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.
 
@@ -82,15 +82,15 @@
 
 > DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
 Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
-"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
+"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jonathan Dankenbring, Rivian senior manager of prototype manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
 The benefits of 3D printing
 Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
 Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
 Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
-Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
-"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
+Dankenbring said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
+"It's well in the millions [for savings], but the main thing is speed for Rivian," Dankenbring said.
 The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
-"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
+"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Dankenbring said.
 Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
 GM, Ford
 There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
@@ -106,6 +106,7 @@ GM has used 3D-printed parts for some of its low-volume products in addition to 
 The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
 Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
 "The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."
+Correction: This story has been updated to reflect that Jonathan Dankenbring is Rivian's senior manager of prototype manufacturing. A previous version of this article misidentified him.
 
 </details>
 
@@ -291,132 +292,132 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Nine killed as business jet crashes in Florida - Financial Times
+## Big majority of US voters disapprove of Trump’s handling of inflation: FT poll - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzg1Nm5pN0JNdGE5MXNKQ3FRVWVuOHVlc05jODhhVDVnOVFLckd4TGpORW1GLWNIS0VadjNhNmoyeUFVMUM1Z3V4ZVNVYm1lbWdXRDBrOWJBbzFJYjRfN05VVVkxeXFZLVdFQzVSOFR5QzRDYmNQZVo4ZTZXOHFRMnBVX0I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWZocU5VdHFLbWV2QUtLMlE2MXdhZFVxRTdVb181eUluWHZNc2dqRW9LU2N5bm5TbmlLOHp0WnVCZUJHWGdQLVdBakRqcndOZk9ELWZMOGs4aXp2dEtZNVpKM2M4bGNRQVlpY21BWXFiNUVHOTdEMER6OHctSGFHUWdHQ2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzg1Nm5pN0JNdGE5MXNKQ3FRVWVuOHVlc05jODhhVDVnOVFLckd4TGpORW1GLWNIS0VadjNhNmoyeUFVMUM1Z3V4ZVNVYm1lbWdXRDBrOWJBbzFJYjRfN05VVVkxeXFZLVdFQzVSOFR5QzRDYmNQZVo4ZTZXOHFRMnBVX0I?oc=5" target="_blank">Nine killed as business jet crashes in Florida</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWZocU5VdHFLbWV2QUtLMlE2MXdhZFVxRTdVb181eUluWHZNc2dqRW9LU2N5bm5TbmlLOHp0WnVCZUJHWGdQLVdBakRqcndOZk9ELWZMOGs4aXp2dEtZNVpKM2M4bGNRQVlpY21BWXFiNUVHOTdEMER6OHctSGFHUWdHQ2Y?oc=5" target="_blank">Big majority of US voters disapprove of Trump’s handling of inflation: FT poll</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Serbia shuts down bank favoured by Russians - Financial Times
+## Anthropic reveals $900bn AI spending commitments ahead of IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw?oc=5" target="_blank">Serbia shuts down bank favoured by Russians</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5" target="_blank">Anthropic reveals $900bn AI spending commitments ahead of IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Blue Lagoon owner plans to float as Icelandic tourism booms - Financial Times
+## Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5" target="_blank">Blue Lagoon owner plans to float as Icelandic tourism booms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5" target="_blank">Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Germany fails to meet gas storage target as winter approaches - Financial Times
+## China’s soaring chemical exports threaten new trade war front - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXBkeFdDeFV0MV9SdEh3Um1RbE5hbERrZ3FwYm42eGNHRTkzU2F1RHVuZncxQ0Vaa1hVYWVNc3Mtc182VzNqRnJacl9aZXdRbUpnMlFZclVMRkpZeW1QZWF1NVhYVFdqMEs4N1ZUSzFLU2E3aEVSTmRYQzZ0WEJsRnRDZ3E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXBkeFdDeFV0MV9SdEh3Um1RbE5hbERrZ3FwYm42eGNHRTkzU2F1RHVuZncxQ0Vaa1hVYWVNc3Mtc182VzNqRnJacl9aZXdRbUpnMlFZclVMRkpZeW1QZWF1NVhYVFdqMEs4N1ZUSzFLU2E3aEVSTmRYQzZ0WEJsRnRDZ3E?oc=5" target="_blank">Germany fails to meet gas storage target as winter approaches</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5" target="_blank">China’s soaring chemical exports threaten new trade war front</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Binance users pull $3.6bn as crypto exchange restarts services after heist - Financial Times
+## Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUFBTDlTT0dzSk1EbjFYTjBRWHZJUVR5UFZJdDNUb2RCTlliUDhoajQ2b2s2bVVJTWJaOG1qY1dOMjkxOV9feW1EcVVhNk9VQnBnTGpyYlRpVHJ0d2oyQ1p6TEpMeW5hRmdfMFhqRGZoLV9jU1doYm1KWHdrQjRvXzd2TzM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5" target="_blank">Binance users pull $3.6bn as crypto exchange restarts services after heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUFBTDlTT0dzSk1EbjFYTjBRWHZJUVR5UFZJdDNUb2RCTlliUDhoajQ2b2s2bVVJTWJaOG1qY1dOMjkxOV9feW1EcVVhNk9VQnBnTGpyYlRpVHJ0d2oyQ1p6TEpMeW5hRmdfMFhqRGZoLV9jU1doYm1KWHdrQjRvXzd2TzM?oc=5" target="_blank">Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports - Reuters
+## US judge dismisses Trump administration's Harvard admissions probe case - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9xdEhOTE5YeDJQM2Z3Q0tEbk9hN3d2SkVGWnp3Z0FnYW9jOVQwc3dkRk9yek12M1dvWUlxb2NmeGtUelNxSEtMZEVVY29QMXdOS2JibnZndDBmY3o5VWlnMnlTcjFQZUxxTnNKSWU2WWxWbzAwaXJ1ZWtBOXBsbDRIN0pteVlnMXJyZGk2RUhiQTZvX3NBVnlZZndtaGwwYzJodFRZZlZCSFlad01BUFV3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE?oc=5" target="_blank">US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9xdEhOTE5YeDJQM2Z3Q0tEbk9hN3d2SkVGWnp3Z0FnYW9jOVQwc3dkRk9yek12M1dvWUlxb2NmeGtUelNxSEtMZEVVY29QMXdOS2JibnZndDBmY3o5VWlnMnlTcjFQZUxxTnNKSWU2WWxWbzAwaXJ1ZWtBOXBsbDRIN0pteVlnMXJyZGk2RUhiQTZvX3NBVnlZZndtaGwwYzJodFRZZlZCSFlad01BUFV3?oc=5" target="_blank">US judge dismisses Trump administration's Harvard admissions probe case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Binance sees outflows stabilising as exchange returns online after $6.3 billion heist - Reuters
+## US to suspend South Africa and Rwanda from duty-free trade access - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5" target="_blank">Binance sees outflows stabilising as exchange returns online after $6.3 billion heist</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5" target="_blank">US to suspend South Africa and Rwanda from duty-free trade access</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Indian shares rise on Iran war talks, Reliance earnings beat - Reuters
+## Trump raises doubts about renewed attacks on Iran - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5" target="_blank">Indian shares rise on Iran war talks, Reliance earnings beat</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc?oc=5" target="_blank">Trump raises doubts about renewed attacks on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## India's Reliance set for best day since January 2024 as O2C recovery, Jio growth lift outlook - Reuters
+## Russian bombing kills 24 in village in southeastern Ukraine, emergency services say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5" target="_blank">India's Reliance set for best day since January 2024 as O2C recovery, Jio growth lift outlook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5" target="_blank">Russian bombing kills 24 in village in southeastern Ukraine, emergency services say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent - Reuters
+## Trump administration takes California ballot fight to Supreme Court - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB?oc=5" target="_blank">North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5" target="_blank">Trump administration takes California ballot fight to Supreme Court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
