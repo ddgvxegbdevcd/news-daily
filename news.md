@@ -1,68 +1,98 @@
 # 每日财经新闻
 
-更新时间：2026-11-02 21:35:46
+更新时间：2026-11-03 06:05:10
 
-## Romania Raises €4.5 Billion in New Government’s First Bond Sale
+## Saudi Aramco Profit Rises 9% (Video)
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office
+链接：https://www.bloomberg.com/news/videos/2026-11-03/saudi-aramco-profit-rises-9-video
 
 正文长度：0
-
-摘要：Romania tapped international debt markets for the first time after the country approved a new government to overcome more than five months of political turmoil.
 
 
 ---
 
-## US Tech Stocks Enter Correction on AI and Midterm Election Risks
+## Asian Stocks Drop on US Tech Jitters, Yuan Weakens: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff
+链接：https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Technology stocks led US equities lower on Monday as worries around the artificial intelligence trade outweighed hopes of US-Iran diplomacy.
+摘要：Asian stocks fell as a selloff in US chipmakers deepened and investors grew wary ahead of the US midterm elections. The yuan weakened.
 
 
 ---
 
-## S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap
+## Chinese Stock Selloff Resumes as Rescue Tools Face Skepticism
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market
 
 正文长度：0
 
-摘要：A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.
+摘要：China’s efforts to stem a market rout by reviving tools from the 2024 downturn were met with skepticism as stocks resumed their selloff.
 
 
 ---
 
-## Treasury Yields Extend Past Month’s Slide as Oil Prices Drop
+## Barito Renewables Denies Inflating Volume, Price of Shares
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble
+链接：https://www.bloomberg.com/news/articles/2026-11-03/barito-renewables-denies-inflating-volume-price-of-shares
 
 正文长度：0
 
-摘要：Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.
+摘要：PT Barito Renewables Energy, one of Indonesia’s biggest companies by value, denied taking steps to inflate the volume and price of its shares to gain entry into MSCI Inc. indexes.
 
 
 ---
 
-## Citi FX Traders Back Carry but Warn Against ‘Set and Forget’
+## Icahn’s CVR to Buy Marathon Refineries For $4 Billion, WSJ Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet
+链接：https://www.bloomberg.com/news/articles/2026-11-03/icahn-s-cvr-to-buy-marathon-refineries-for-4-billion-wsj-says
 
 正文长度：0
 
-摘要：Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.
+摘要：CVR Energy Inc., an oil refiner controlled by billionaire investor Carl Icahn, is near a deal to buy refineries from Marathon Petroleum Corp. for more than $4 billion, the Wall Street Journal reported, citing people familiar with the matter.
+
+
+---
+
+## Baked by Melissa enters Target with first at-home cupcake mix
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html
+
+正文长度：2668
+
+摘要：Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Baked by Melissa will enter the at-home baking aisle in Target stores as the retailer tries to persuade shoppers to spend more at its locations this holiday season.
+As of Sunday, Target is exclusively selling the brand's cupcake kits, liners and a cupcake pan, all in the dessert company's signature bite-size portions. The line includes three cupcake flavors: Christmas Tie-Dye, Marshmallow Hot Cocoa and Red Velvet.
+The company's entry into at-home baking comes as a number of restaurants turn to consumer packaged goods to boost sales in an otherwise challenging time for the industry.
+Some players, such as California Pizza Kitchen and TGI Fridays, have licensed their brands for frozen foods for decades. But other restaurant chains, including Chick-fil-A and Dutch Bros, have leaned into grocery products much more recently. For smaller companies, such as Momofuku or Carbone, space on a grocery shelf helps extend brand reach and gives consumers a chance to try their food without a reservation and at a much lower cost.
+Founded by Melissa Ben-Ishay in 2008, Baked by Melissa has nine permanent locations in the New York area and ships its minicupcakes nationwide.
+The regional chain has garnered attention outside the city thanks to Ben-Ishay's social media presence. On TikTok, the Baked by Melissa account has more than 2.8 million followers, fueled by popular recipe videos, such as for her green goddess salad dressing. Ben-Ishay's social media stardom has led to collaborations with Ferrero and Wonder.
+Baked by Melissa had discussed at-home baking products for years, but Ben-Ishay only decided to take the plunge a year ago during a trip to Target with her two kids, she told CNBC. A spin through the baking aisle made her decide Baked by Melissa "should be here," she said.
+"I love baking cake mix. I truly do. And, quite frankly, sometimes I just think it tastes better," Ben-Ishay said.
+But retail moves more slowly than Baked by Melissa's usual pace.
+The dessert company needed just a few days to create New York Knicks-branded minicupcakes after the team won the NBA championship in June, for example, but figuring out retail products meant "a lot of waiting and approvals and new partners," Ben-Ishay said.
+Twelve months later, the cupcake mixes have arrived on store shelves, just in time for the all-important holiday season.
+For Target, the next two months will be critical as the retailer tries to woo back its core customer after a disappointing holiday season last year. That prototypical Target shopper often looks a lot like Ben-Ishay.
+"We started with Target because I'm a 42-year-old mom of two, and I find myself there a lot," she said.
+
+</details>
 
 
 ---
@@ -240,58 +270,6 @@ Rivian on Thursday said its cash, cash equivalents and short-term investments ba
 
 ---
 
-## Cruise companies aim to keep fuel costs down. Their strategies for doing so differ
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html
-
-正文长度：5538
-
-摘要：Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on "hedging" to keep fuel costs down amid conflict in the Middle East.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Carnival, Royal Caribbean and Norwegian Cruise Line Holdings posted strong earnings for their most recent quarters despite rising fuel prices. How the leading cruise companies navigate fuel costs boils down to starkly different strategies.
-Oil prices have skyrocketed since the U.S.-Israel war with Iran began on Feb. 28. Brent crude oil reached a six-month high on Friday, settling at $116.72 per barrel. With no clear end in sight for the conflict in the Middle East, the pressure affecting cruise ships' lifeblood seems poised to last into the holiday travel season and beyond.
-Both Royal Caribbean and Norwegian practice "hedging," or a strategy of using derivatives to reduce exposure to swings in the price of fuel, to account for sharp increases.
-Carnival CEO Josh Weinstein, on the other hand, told CNBC in an interview last month that cutting fuel consumption is the best way to avert the effects of expensive fuel.
-"At the end of the day, fuel is an input cost for us. The best thing that we can do to control that cost is to use less," Weinstein said at the time.
-Jefferies analyst David Katz told CNBC in an interview that companies that hedge do so primarily to manage the cost of fuel, but also to manage Wall Street expectations and prevent hectic stock trading based on fluctuations in the price of fuel.
-"When you're public, the Street will trade your stock around based on the price of fuel," Katz said. "The Street's argument is that volatility puts pressure on your multiple."
-"While it is mathematically most likely true that over the long term it is more expensive," he explained. "The benefit of having less fuel volatility in the model and less trading volatility is [it's] good for your multiple."
-Despite the potential positives of the strategy, Carnival has maintained the stance it has held since 2019: Cutting fuel consumption works better than hedging.
-And Carnival's third-quarter earnings report last month suggests the strategy may be paying off.
-Carnival's 'maniacal' cutting
-Carnival beat analysts' expectations on both the top and bottom lines for its most recent quarter and reported an all-time high net income of $1.9 billion.
-Weinstein told CNBC in an interview on "Squawk on the Street" following the release that the company has been "maniacal" about cutting its fuel consumption, saying it's slashed its unit fuel consumption rate by 26% since 2019.
-"We estimate we've saved about $700 million in 2026 based on that consumption savings rate going down since 2019," he said.
-Carnival spent $615 million, or about 7.3% of its revenue, on fuel in the third quarter, according to its most recent earnings release. That's an increase from the $425 million, or 6.7% of revenue, that the company spent on fuel in the fourth quarter of 2025, before fuel prices spiked.
-Carnival projects its fuel costs will rise to $640 million in the fourth quarter, according to its earnings release.
-Careful hedging
-Royal Caribbean similarly beat analyst expectations for earnings per share for its third quarter, reported Tuesday. However, it narrowly missed on revenue.
-CEO Jason Liberty attributed the company's beat in part to its hedging strategy during an interview on CNBC's "Squawk on the Street" Tuesday morning.
-"We're a little bit over 60% hedged here for 2026, and so that's helping insulate us from some of the impacts on the rising fuel costs," he said.
-"It's obviously still impacting us," Liberty said. "[High fuel prices] evaporated a good chunk of our Q3 earnings beat into the full-year guide. But we're continuing to hedge, and we watch."
-Royal Caribbean spent about $347 million on fuel in the third quarter, or about 6.2% of its revenue, according to its earnings release. That compares with $293 million, or 6.8% of revenue, spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
-The company projects fuel costs will continue to rise to $379 million in the fourth quarter.
-Liberty pointed out that high fuel prices have not dampened demand from consumers for vacations.
-"It's not that we don't see points of challenges, but really what we've seen is that even in those points of challenges, the consumer comes roaring back," he said.
-Royal Caribbean reported strong bookings for the third quarter and said reservations for 2027 are already up by a high-teens percentage.
-Norwegian's continued bet
-Norwegian Cruise Line Holdings beat on both the top and bottom lines for its third-quarter earnings, reported on Thursday, with revenue of $2.9 billion and adjusted earnings per share of $1.12.
-The company has hedged approximately 48% of its fuel consumption for 2026, according to the earnings release.
-Norwegian spent about $196 million on fuel in the third quarter, or about 6.6% of its revenue, according to its most recent earnings release. That's a lower share of revenue than the 7.4% — totaling $167 million — spent on fuel in the fourth quarter of 2025, which ended on Dec. 31.
-The company projects fuel consumption to rise slightly in the fourth quarter, up to 255,000 metric tons from 239,000 metric tons consumed in the third quarter.
-The company is in the midst of a turnaround effort. And despite facing added challenges from the macro environment, Chief Financial Officer Mark Kempa said he is reassured by this quarter's results on an earnings call on Thursday.
-"These results reinforce our confidence in the appeal of our products and the opportunity to translate stronger revenue performance and disciplined cost management into improved profitability," Kempa said.
-
-</details>
-
-
----
-
 ## Big majority of US voters disapprove of Trump’s handling of inflation: FT poll - Financial Times
 
 来源：金融时报
@@ -305,119 +283,119 @@ The company is in the midst of a turnaround effort. And despite facing added cha
 
 ---
 
-## Anthropic reveals $900bn AI spending commitments ahead of IPO - Financial Times
+## Democrats close ranks after shock Michigan split - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGtrUEcwN0hLOTVHVHpNRHdmakwyYXY3WlgwbWZwSUw1cHR0SWJpOWxEX2ExdExyaTMxaTFWRTBoUnRVOUNCaXdEemhlSEZEZUNHbkItaXpzYlBHUURoLURsY0hQUEFjUzU2Mjc4M1Q0eDNXMS1vRDVBUDZMb2RCTG94N1A?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5" target="_blank">Anthropic reveals $900bn AI spending commitments ahead of IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGtrUEcwN0hLOTVHVHpNRHdmakwyYXY3WlgwbWZwSUw1cHR0SWJpOWxEX2ExdExyaTMxaTFWRTBoUnRVOUNCaXdEemhlSEZEZUNHbkItaXpzYlBHUURoLURsY0hQUEFjUzU2Mjc4M1Q0eDNXMS1vRDVBUDZMb2RCTG94N1A?oc=5" target="_blank">Democrats close ranks after shock Michigan split</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran - Financial Times
+## Germany warns politicians their iPhones may be hacked - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1V0YVRGajNBZXQ3ZEp3anFhWkVDUWNIbV80dkVNczl4dF95SUx2UnRmRTNROWJkV0sxWXBVb1NXV0pVeGRyaU9hOFhoLUpoZC1UYzVqLXFVSlp5NjRRaW5QWGR5QnlOazZhcER0VnpqdmZsRmVBdG1kS0lPM0NTVFNOdS0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5" target="_blank">Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1V0YVRGajNBZXQ3ZEp3anFhWkVDUWNIbV80dkVNczl4dF95SUx2UnRmRTNROWJkV0sxWXBVb1NXV0pVeGRyaU9hOFhoLUpoZC1UYzVqLXFVSlp5NjRRaW5QWGR5QnlOazZhcER0VnpqdmZsRmVBdG1kS0lPM0NTVFNOdS0?oc=5" target="_blank">Germany warns politicians their iPhones may be hacked</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## China’s soaring chemical exports threaten new trade war front - Financial Times
+## US to hold first talks with Russia and Ukraine since February - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGhsOUNJSkpoUDkzd1gxSnBlZDczLXNjQnlERy1uRVZTWGRZQm9MYUxUUlNtbmVsZnVBMVVsV3pjOC1UWUVCcU0zdWRLbV9lb05JWGpnSUdrYmRiZ2FpcVNYbkxEeTlOOE5SWTVvVjBjNkNVT25wM1dib29uYUdDSjRKeHM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5" target="_blank">China’s soaring chemical exports threaten new trade war front</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGhsOUNJSkpoUDkzd1gxSnBlZDczLXNjQnlERy1uRVZTWGRZQm9MYUxUUlNtbmVsZnVBMVVsV3pjOC1UWUVCcU0zdWRLbV9lb05JWGpnSUdrYmRiZ2FpcVNYbkxEeTlOOE5SWTVvVjBjNkNVT25wM1dib29uYUdDSjRKeHM?oc=5" target="_blank">US to hold first talks with Russia and Ukraine since February</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy - Financial Times
+## Can El-Sayed win over Michigan’s Trump territory? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUFBTDlTT0dzSk1EbjFYTjBRWHZJUVR5UFZJdDNUb2RCTlliUDhoajQ2b2s2bVVJTWJaOG1qY1dOMjkxOV9feW1EcVVhNk9VQnBnTGpyYlRpVHJ0d2oyQ1p6TEpMeW5hRmdfMFhqRGZoLV9jU1doYm1KWHdrQjRvXzd2TzM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZUptNEFSRjZHWW9kZzh6c0VreXhCb0t0dVdDUng4a3p4bjVmTG5sRzZ2c2gxYTdRNGUtVUxUWXRmYWhnNmVUQllsVVhndXdTenhobGNLUUFpbk1wOW5ZOXFkeUpFWjVYckQ3c3Bhako?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUFBTDlTT0dzSk1EbjFYTjBRWHZJUVR5UFZJdDNUb2RCTlliUDhoajQ2b2s2bVVJTWJaOG1qY1dOMjkxOV9feW1EcVVhNk9VQnBnTGpyYlRpVHJ0d2oyQ1p6TEpMeW5hRmdfMFhqRGZoLV9jU1doYm1KWHdrQjRvXzd2TzM?oc=5" target="_blank">Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZUptNEFSRjZHWW9kZzh6c0VreXhCb0t0dVdDUng4a3p4bjVmTG5sRzZ2c2gxYTdRNGUtVUxUWXRmYWhnNmVUQllsVVhndXdTenhobGNLUUFpbk1wOW5ZOXFkeUpFWjVYckQ3c3Bhako?oc=5" target="_blank">Can El-Sayed win over Michigan’s Trump territory?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US judge dismisses Trump administration's Harvard admissions probe case - Reuters
+## Judge blocks Trump administration from pressuring states over noncitizen voting - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9xdEhOTE5YeDJQM2Z3Q0tEbk9hN3d2SkVGWnp3Z0FnYW9jOVQwc3dkRk9yek12M1dvWUlxb2NmeGtUelNxSEtMZEVVY29QMXdOS2JibnZndDBmY3o5VWlnMnlTcjFQZUxxTnNKSWU2WWxWbzAwaXJ1ZWtBOXBsbDRIN0pteVlnMXJyZGk2RUhiQTZvX3NBVnlZZndtaGwwYzJodFRZZlZCSFlad01BUFV3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0pfa2VZVGJNWFJVZVVaZGgtMlctTFV2MHdsdXVBU0FmQ3kxSjd0eGhkVExJdnA2bldCdjZpaG80QXRkQkFaYVBVZDBGdVJUWFdER0lTVWR5UUc4b1pOZmNYOTRlM21EcDRwUWhEYl9heFJOWHU2WVJhaVdhN245NWl0WHJlaWxuSm16YWFtQ2FmNlZRSUZnY0lFeTJHRWxHU3FOQVlkMDJpeFl6d2Y3X1pqREVYX3c?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9xdEhOTE5YeDJQM2Z3Q0tEbk9hN3d2SkVGWnp3Z0FnYW9jOVQwc3dkRk9yek12M1dvWUlxb2NmeGtUelNxSEtMZEVVY29QMXdOS2JibnZndDBmY3o5VWlnMnlTcjFQZUxxTnNKSWU2WWxWbzAwaXJ1ZWtBOXBsbDRIN0pteVlnMXJyZGk2RUhiQTZvX3NBVnlZZndtaGwwYzJodFRZZlZCSFlad01BUFV3?oc=5" target="_blank">US judge dismisses Trump administration's Harvard admissions probe case</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0pfa2VZVGJNWFJVZVVaZGgtMlctTFV2MHdsdXVBU0FmQ3kxSjd0eGhkVExJdnA2bldCdjZpaG80QXRkQkFaYVBVZDBGdVJUWFdER0lTVWR5UUc4b1pOZmNYOTRlM21EcDRwUWhEYl9heFJOWHU2WVJhaVdhN245NWl0WHJlaWxuSm16YWFtQ2FmNlZRSUZnY0lFeTJHRWxHU3FOQVlkMDJpeFl6d2Y3X1pqREVYX3c?oc=5" target="_blank">Judge blocks Trump administration from pressuring states over noncitizen voting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US to suspend South Africa and Rwanda from duty-free trade access - Reuters
+## Asian stocks retreat ahead of US midterms, oil steadies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5" target="_blank">US to suspend South Africa and Rwanda from duty-free trade access</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw?oc=5" target="_blank">Asian stocks retreat ahead of US midterms, oil steadies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump raises doubts about renewed attacks on Iran - Reuters
+## Oil edges up after report of US strike on Iran's Qeshm Island - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc?oc=5" target="_blank">Trump raises doubts about renewed attacks on Iran</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5" target="_blank">Oil edges up after report of US strike on Iran's Qeshm Island</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian bombing kills 24 in village in southeastern Ukraine, emergency services say - Reuters
+## US carries out 'defensive' strikes on Iran's Qeshm Island, officials say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5" target="_blank">Russian bombing kills 24 in village in southeastern Ukraine, emergency services say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5" target="_blank">US carries out 'defensive' strikes on Iran's Qeshm Island, officials say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump administration takes California ballot fight to Supreme Court - Reuters
+## North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWVmc205S3NUUjduWmR4TDE0U3ZtVUo0NThjS2xEMzFyUEtCRlB0RjR1S0YycEwwcjRFUlZBNTl5VVhQWVpkT01uRmJQZVR6Mm82RnZZaDZGVW9XRzZEaE55ci1nVUpORzc5M2Q3d0ZHYU9SdjVfU0h1ZFVOM0Y4TjY3VWltMXJjTnV6Z3EySFNZRHRraDhRNy1ScjhUNldaZnlnWWx2YUNtZEZsWDIxcl94cG02MGt4SERJQ1FGWEhmdkFxRnM2bHg2ZU1TX25maXlxU0NFREw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5" target="_blank">Trump administration takes California ballot fight to Supreme Court</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWVmc205S3NUUjduWmR4TDE0U3ZtVUo0NThjS2xEMzFyUEtCRlB0RjR1S0YycEwwcjRFUlZBNTl5VVhQWVpkT01uRmJQZVR6Mm82RnZZaDZGVW9XRzZEaE55ci1nVUpORzc5M2Q3d0ZHYU9SdjVfU0h1ZFVOM0Y4TjY3VWltMXJjTnV6Z3EySFNZRHRraDhRNy1ScjhUNldaZnlnWWx2YUNtZEZsWDIxcl94cG02MGt4SERJQ1FGWEhmdkFxRnM2bHg2ZU1TX25maXlxU0NFREw?oc=5" target="_blank">North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
