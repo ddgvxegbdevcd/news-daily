@@ -1,68 +1,122 @@
 # 每日财经新闻
 
-更新时间：2026-11-03 19:19:09
+更新时间：2026-11-04 05:43:53
 
-## Gold Declines as Traders Weigh US-Iran Diplomacy Prospects
+## Treasuries Rise on Democrat Win as Traders Await Refunding Plan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes
+链接：https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans
 
 正文长度：0
 
-摘要：Gold declined as traders assessed the prospects of diplomacy in the US-Iran conflict while refraining from taking big positions on the US midterm election day.
+摘要：Treasuries rallied as the Democrats won control of both chambers of the US Congress, pointing to a political environment that may limit the Trump administration’s tax and spending plans.
 
 
 ---
 
-## Bank of Canada Says Fiscal Policy Isn’t Stoking Inflation Yet
+## Stocks Slide With Dollar as Trump Trades Falter: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-03/bank-of-canada-says-fiscal-and-monetary-policy-aren-t-at-odds
+链接：https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Bank of Canada Governor Tiff Macklem said Prime Minister Mark Carney’s fiscal plans aren’t yet making it harder for the central bank to control inflation.
+摘要：A projected Democratic sweep of both houses of Congress rippled across global markets, sending stocks and the dollar lower while boosting Treasuries, on speculation the result will put the brakes on President Donald Trump’s agenda.
 
 
 ---
 
-## Chip Rally Powers Stock Gains on US Election Day: Markets Wrap
+## Latest Oil Market News and Analysis for Nov. 4
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4
 
 正文长度：0
 
-摘要：A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.
+摘要：Oil fluctuated after a two-day decline as traders weighed mixed signals on the trajectory of US-Iran peace talks.
 
 
 ---
 
-## AMD Needs a Huge Outlook to Avoid Intel’s Fate as AI Fears Rise
+## Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise
+链接：https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar
 
 正文长度：0
 
-摘要：Advanced Micro Devices Inc. is one of this year’s best-performing chip stocks, but with skepticism about artificial-intelligence spending on the rise, it could use strong results and an aggressive outlook to maintain the momentum when the firm reports earnings Tuesday afternoon.
+摘要：The Swiss franc and Japanese yen jumped as US election results pointed to the Democrats winning both the House and the Senate, sending the dollar to its worst day in a month.
 
 
 ---
 
-## Technology Stocks Lead S&P 500 Higher With Midterm Vote Underway
+## Nasdaq Futures Drop as Signs of ‘Blue-nami’ Weigh on AI Complex
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook
+链接：https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results
 
 正文长度：0
 
-摘要：US stocks advanced as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors assessing potential risks to the artificial intelligence trade.
+摘要：US equity index futures continued to push lower Tuesday night as Democrats swept Republicans out of key gubernatorial and Senate races in a convincing series of wins and are poised to take control of both houses of US Congress, fueling investor concerns that the AI buildout will face closer regulatory scrutiny.
+
+
+---
+
+## McDonald's is about to report earnings. Here's what to expect
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html
+
+正文长度：1132
+
+摘要：McDonald's stock has fallen about 11% over the last year.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> McDonald's is expected to report its third-quarter earnings before the bell on Wednesday.
+Here's what Wall Street analysts surveyed by LSEG are expecting the company to report:
+- Earnings per share: $3.38 expected
+- Revenue: $7.29 billion expected
+Last quarter, McDonald's CEO Chris Kempczinski said the chain's U.S. business fell short, hurt by uneven execution of its value offers and complicated launches of new menu items. In response, the company tapped Skye Anderson as its new U.S. president.
+Analysts are predicting an even worse third quarter for McDonald's home market. Wall Street is anticipating same-store sales declined 0.5%, according to StreetAccount estimates.
+Investors will also be paying close attention to executive commentary about the fourth quarter so far. Chipotle Mexican Grill executives said last Wednesday that the restaurant industry saw traffic soften in October.
+Shares of McDonald's have fallen about 11% over the last year, weighed down by investor concerns about its U.S. business, expensive plans to upgrade restaurants and the broader economy. The company has market cap of roughly $186 billion.
+
+</details>
+
+
+---
+
+## JetBlue raises bag fees for third time in a year as fuel costs bite
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html
+
+正文长度：1555
+
+摘要：JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Welcome to the era of the $70 bag fee.
+JetBlue Airways has raised the price of checking a bag for many customers for the third time in less than a year as high fuel costs continue to eat into the industry's profits.
+Checking a first bag for travelers booked in economy will now be $50, up from $45, if purchased more than 24 hours before departure during a nonpeak travel period. If it's paid within 24 hours of departure, the fee will be $60. During a peak period, such as during the holidays or the summer, it will be $55 if purchased more than 24 hours before departure, up from $49, and $70 for within 24 hours of departure.
+There are exceptions to the checked bag fees, such as for customers who hold a co-branded JetBlue credit card or who hold elite frequent flyer status.
+"We're adjusting checked bag fees to help offset rising fuel and operating costs," JetBlue said in a statement. "This helps us keep our base fares competitive while giving customers the choice to pay for a checked bag only if they need one."
+The price of jet fuel, airlines' biggest cost after labor, has roughly doubled this year since the start of the Iran war in February, costing airlines billions and driving up the price of tickets. Jet fuel was going for $4.44 a gallon on Tuesday for the U.S. Gulf of Mexico, according to the U.S. Energy Information Administration.
+Other airlines often follow when one carrier raises fees. Major U.S. airlines did so earlier this year after JetBlue raised its bag fees.
+The changes were reported earlier by the Thrifty Traveler blog.
+
+</details>
 
 
 ---
@@ -97,13 +151,13 @@ Disney will report its fiscal fourth-quarter earnings on Nov. 17.
 
 ---
 
-## Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO
+## Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html
 
-正文长度：3727
+正文长度：5141
 
 摘要：Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.
 
@@ -113,9 +167,13 @@ Disney will report its fiscal fourth-quarter earnings on Nov. 17.
 > Pfizer on Tuesday reported fiscal third-quarter results that topped estimates and hiked its full-year outlook, as demand for its newly launched and acquired products grows.
 Pfizer also Tuesday announced that Cecile Guegan, who has held various finance leadership roles at the company over the last two decades, stepped in as chief financial officer this month. She had served as interim CFO since August, when Pfizer's former CFO, Dave Denton, stepped down to take the same position at Nike.
 The company is now expecting full-year revenue to total $62 billion to $64 billion, which compares with a previous outlook of $60.5 billion to $62.5 billion. The low end of that sales range would be roughly flat or down slightly compared with 2025 revenue of $62.6 billion. Still, Pfizer cited its "strong year-to-date performance" as a driver for the guidance hike.
+In an exclusive interview with CNBC, Pfizer CEO Albert Bourla said the company's Covid product revenue was "very low" this quarter and year, but called it "positive news for us."
+"Covid revenues was an overhang on the performance of our stock because of the perception that it is volatile and it's material to us. Actually, we've proven that we can make it irrelevant," Bourla said. "If anything, only an upside because, in the lowest possible Covid performance, we are beating, and we are raising by $1.5 billion because of the overperformance of the other products."
+Pfizer reaffirmed its Covid product outlook of roughly $4 billion for the year, expecting the majority of Covid shot sales in the fourth quarter during vaccination season, Guegan said during the call.
 The pharmaceutical giant now expects full-year adjusted profit of between $2.95 and $3.05 per share. That compares with previous guidance of between $2.80 and $3 per share.
 That includes a one-time $650 million charge, or a negative impact of 10 cents per share, recorded in the third quarter tied to the company's licensing and collaboration agreement with Chinese cancer drugmaker Innovent Biologics.
-Pfizer is working on a comeback story after its massive pandemic-era success waned. As demand for Covid products drops and generic rivals threaten its biggest moneymakers, CEO Albert Bourla is looking to jump-start growth through strategic acquisitions, fresh cancer drugs and a big bet on weight loss treatments through its acquisition of Metsera.
+Pfizer is working on a comeback story after its massive pandemic-era success waned. As demand for Covid products drops and generic rivals threaten its biggest moneymakers, Bourla is looking to jump-start growth through strategic acquisitions, fresh cancer drugs and a big bet on weight loss treatments through its acquisition of Metsera.
+"In addition to the revenues that they generate now, and they will continue generating so that we can overcome the patent, the loss of patent exclusivity, we are bringing pipeline that will perform even better in terms of growth," Bourla told CNBC, referring to Pfizer's launched and acquired products.
 Pfizer in August expanded its multiyear cost-cutting efforts to help offset sharp declines in Covid product sales, and is now targeting roughly $9.7 billion in net savings through 2029.
 Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
 - Earnings per share: 87 cents adjusted vs. 73 cents expected
@@ -123,7 +181,8 @@ Here's what the company reported for the third quarter compared with what Wall S
 Pfizer reported third-quarter revenue of $16.58 billion, relatively flat from the same period a year ago. The company cited an operational decrease of $57 million, primarily due to lower Covid revenues, and a $15 million negative impact from foreign exchange.
 That was offset by strong sales of key products like its blood thinner Eliquis and targeted cancer drug Padcev, which jumped and beat expectations.
 Eliquis in particular raked in $2.52 billion in sales, up 25%. Analysts were expecting revenue of $2.40 billion, according to StreetAccount. Padcev posted $720 million in revenue for the period, which compares with the $658 million that analysts were expecting.
-Sales of Pfizer's newly launched and acquired products grew 32% operationally. That includes Padcev, its respiratory syncytial virus vaccine Abrysvo, its pneumococcal shot Prevnar 20 and oral lung cancer drug Lorbrena, among several other products.
+Sales of Pfizer's newly launched and acquired products contributed $3.8 billion, growing 32% operationally, Guegan said during the earnings call. That includes Padcev, its respiratory syncytial virus vaccine Abrysvo, its pneumococcal shot Prevnar 20 and oral lung cancer drug Lorbrena, among several other products.
+'We continue to invest behind this group of products to mitigate [loss of exclusivity] headwinds over the next several years," Guegan said. "In addition, this quarter's performance demonstrates clear progress against our objective of returning to growth toward the end of the decade."
 Pfizer's Covid products also topped estimates for the quarter despite seeing steep sales declines. The company's Covid vaccine generated $808 million in sales, which compares with the $770.4 million that analysts were expecting, StreetAccount estimates show. Meanwhile, Pfizer's antiviral pill, Paxlovid, booked $449 million in sales, coming in above the $394.1 million that analysts were expecting.
 The company booked net income of $3.24 billion, or 56 cents per share, for the period. That compares with net income of $3.54 billion, or 62 cents per share, during the third quarter of 2025.
 Excluding certain items, including restructuring charges and costs associated with intangible assets, Pfizer posted earnings per share of 87 cents for the quarter.
@@ -172,71 +231,28 @@ Globally, KFC is trying to become "the most modern chicken QSR," Turner said on 
 
 ---
 
-## Versant earnings beat expectations as digital platforms drive growth
+## CVS Health moves to dismantle $117bn healthcare empire - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2tUS0tRLXRWM2RKMFFIYWllbzhBSlc5TmRPZWU2R24yUHk2Nk01cldhR1E3OXBSaTBXcXZxVWlQWE12RndYYWxaX1p5Sm9mVmsweDh5emRPdXZxUDFmUTFUTmtpbkRMcHk3a2NoTlFwNGQ1YWl0Ql9JZ1FFUFRNRFBHOFI?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3945
+正文长度：0
 
-摘要：Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Versant Media on Tuesday reported quarterly earnings and revenue that beat expectations and reaffirmed its full-year 2026 guidance, citing strength across its portfolio and growth in its platforms revenue.
-The media company reported $245 million in revenue from digital platforms including Fandango, marking a nearly 10% year-over-year increase. Versant said Fandango saw "significant growth" in ticketing revenue in the third quarter, notching its highest level since the pandemic.
-Advertising revenue, however, slipped to $373 million during the period, down 5.3% from last year, primarily due to the impact of last year's Ryder Cup, according to the company.
-The Versant portfolio includes CNBC, MS NOW, Golf Channel and other cable and digital properties.
-Here's how the company performed in its third quarter, compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 34 cents vs. 5 cents expected
-- Revenue: $1.59 billion vs. $1.57 billion expected
-Versant completed four major distribution renewals this year following its spinoff from Comcast's NBCUniversal.
-"We understood the questions raised at the time of the spin about our ability to secure attractive carriage renewals," CEO Mark Lazarus said on a call with analysts. "We've now answered that question: 75% of our network subscribers are now under contract into 2028 and beyond, so we have clear visibility going forward."
-During the third quarter, Versant said, its networks reached more than 120 million viewers monthly and its aggregate viewership grew by double digits year over year. The company also launched MS NOW's direct-to-consumer product and Fandango's on-demand product as new growth drivers. CNBC is expected to launch a direct-to-consumer product next year, Versant said.
-For the period ended Sept. 30, Versant recorded net income of $47 million, or 34 cents per share, compared with $80 million, or 56 cents per share, the year prior.
-Adjusted earnings before interest, taxes, depreciation and amortization was $353 million, beating Wall Street estimates of $305 million, according to StreetAccount.
-Revenue fell slightly to $1.59 billion from $1.66 billion in the year-ago period. The company said its revenue figure included the acquisition of golf simulation company Full Swing and the sale of sports management software company SportsEngine.
-The company reaffirmed its full-year revenue outlook of between $6.2 billion and $6.45 billion and its adjusted EBITDA outlook of $1.9 billion to $2.05 billion. It adjusted part of its full-year guidance, saying it now expects free cash flow to exceed the prior range of between $1 billion and $1.2 billion.
-"We're building on strong relationships we already have with consumers, advertisers and distributors," Lazarus said on the call. "We're finding new ways to reach and serve those audiences. We have the brands, the financial strength and the people to execute this transition successfully."
-Versant began trading as a standalone company on the Nasdaq in January after separating from Comcast. Though it began largely as a portfolio of cable networks, Versant executives have said they intend to diversify the company's revenue mix to eventually draw 50% from digital, platform, subscription, ad-supported and transactional businesses.
-During the third quarter, revenue from linear TV decreased 5.8% to $935 million as the segment sees pressure from cord-cutting and subscriber declines.
-Live sports continues to be a major driver for the company. Versant said it saw "robust audience engagement" in the third quarter and that WNBA viewership on Versant's USA Sports networks was 25% higher than the prior year's cable average.
-Versant also announced an additional $100 million accelerated stock repurchase program beginning Wednesday. It expects that transaction to be completed during the fourth quarter.
-Disclosure: Versant Media is the parent company of CNBC.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2tUS0tRLXRWM2RKMFFIYWllbzhBSlc5TmRPZWU2R24yUHk2Nk01cldhR1E3OXBSaTBXcXZxVWlQWE12RndYYWxaX1p5Sm9mVmsweDh5emRPdXZxUDFmUTFUTmtpbkRMcHk3a2NoTlFwNGQ1YWl0Ql9JZ1FFUFRNRFBHOFI?oc=5" target="_blank">CVS Health moves to dismantle $117bn healthcare empire</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Ferrari raises 2026 guidance after Q3 earnings beat
+## US has no immediate plan to strike Iran, Trump tells FT - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：2074
+正文长度：0
 
-摘要：Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Ferrari on Tuesday raised its 2026 guidance after the sports car maker slightly beat Wall Street's third-quarter expectations.
-Here's how Ferrari performed in the third quarter compared with average estimates compiled by LSEG:
-- Earnings per share: 2.44 euros ($2.77) adjusted vs. 2.37 euros expected
-- Revenue: 1.9 billion euros vs. 1.89 billion euros expected
-Ferrari raised its guidance to revenue of 7.65 billion euros, up from 7.6 billion euros; adjusted earnings before interest, taxes, depreciation and amortization to 3 billion euros, up from 2.97 billion euros; and adjusted EPS to at least 9.85 euros, up from at least 9.68 euros.
-The automaker also upgraded its expectations for industrial free cash flow to up to 1.65 billion euros, up from previous expectations for at least 1.55 billion euros.
-This is the second consecutive quarter Ferrari has raised its 2026 guidance, despite vehicle shipments being lower by 318 units through the first nine months of the year, at 10,170 vehicles, compared with last year. The decline is led by fewer shipments to the Americas and China, Hong Kong and Taiwan.
-Ferrari said Tuesday that the guidance improvements were a result of stronger-than-expected customer personalizations, lower than anticipated currency headwinds and a second place finish in the Formula 1 championship.
-"Our order book now reaches into 2028, and we still have two more launches to come this year. In addition, we continue to create engaging events around the world to further tighten the bonds with our clients and partners across Racing, Sports Cars and Lifestyle," Ferrari CEO Benedetto Vigna said in a release.
-RBC Capital Markets analyst Tom Narayan said Tuesday that Ferrari's results were largely in line with Wall Street expectations. However, he said shares may be "under slight pressure given some were hoping for a bigger guidance raise, but expect it to get better once folks realize these results are healthy."
-Ferrari's U.S. shares initially declined on the results before turning positive and were up roughly 4% during midday trading.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5" target="_blank">US has no immediate plan to strike Iran, Trump tells FT</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -254,119 +270,93 @@ Ferrari's U.S. shares initially declined on the results before turning positive 
 
 ---
 
-## Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout - Financial Times
+## Former Weil partners lawyer up over firm’s wind-down - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2RENTBmVGo5XzBoNnZzUkdvNk5lWEVycE5nbnkyMmZQc2ZzZWl5Y3hmOFYxOFdKejJ2cktVMFZzajVmVDZ1TV9ndlhOVmh6Wkg4QjVRNEJLQS1pcFh3ME9qQXAtRkZ5T3RlQktxQ3lNelh6ckcxdEU3YlpBcTcxMEVKdmw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdjX3REb3p0aXZUZEJtcE1jaTk0ZUZ3eV9aMFExeFp5TUZyZTgtekZLdDVGY1NRLUYyd0FoNi0xa3g2TEdWNUJfbHlKMi1GbnJVajlQQWoyREExRk5fb2ExYmRqOC1lTVpKWnM2RFp4dXlrcWN6ejJkRThseHhVNmZkWEg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2RENTBmVGo5XzBoNnZzUkdvNk5lWEVycE5nbnkyMmZQc2ZzZWl5Y3hmOFYxOFdKejJ2cktVMFZzajVmVDZ1TV9ndlhOVmh6Wkg4QjVRNEJLQS1pcFh3ME9qQXAtRkZ5T3RlQktxQ3lNelh6ckcxdEU3YlpBcTcxMEVKdmw?oc=5" target="_blank">Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdjX3REb3p0aXZUZEJtcE1jaTk0ZUZ3eV9aMFExeFp5TUZyZTgtekZLdDVGY1NRLUYyd0FoNi0xa3g2TEdWNUJfbHlKMi1GbnJVajlQQWoyREExRk5fb2ExYmRqOC1lTVpKWnM2RFp4dXlrcWN6ejJkRThseHhVNmZkWEg?oc=5" target="_blank">Former Weil partners lawyer up over firm’s wind-down</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## What Weil Gotshal teaches us about how law firms die - Financial Times
+## How Pennsylvania’s bellwether city could decide the US midterms - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9NUGRQUWFUbDh6QnFxMUdlOEpwdFZKN016WUplM2dJVzhpUEd6OEdKeGU1SHlFWERGOFBCVld6RWpzSnYxbHdlNG9XVTB2RWc0QmZFbGpqU3M3NEdPM25nTmotQUQ2Z3MwSmZKaE9NcE4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTRYandySjNWQkZhYW5rLU1iaktQSDdFUFNEblQ4RjVJcVZncjJPMktJcXZtMVloVU85VnJzejNwbVY4VEE0LTFRM24tc1lPdnltajFEbXNicHJTVUVvdjBYV1dwYjExMmVfOGw4bFBJQ0VwU2VGU3NIUWowV1lLVXEyV0U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9NUGRQUWFUbDh6QnFxMUdlOEpwdFZKN016WUplM2dJVzhpUEd6OEdKeGU1SHlFWERGOFBCVld6RWpzSnYxbHdlNG9XVTB2RWc0QmZFbGpqU3M3NEdPM25nTmotQUQ2Z3MwSmZKaE9NcE4?oc=5" target="_blank">What Weil Gotshal teaches us about how law firms die</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTRYandySjNWQkZhYW5rLU1iaktQSDdFUFNEblQ4RjVJcVZncjJPMktJcXZtMVloVU85VnJzejNwbVY4VEE0LTFRM24tc1lPdnltajFEbXNicHJTVUVvdjBYV1dwYjExMmVfOGw4bFBJQ0VwU2VGU3NIUWowV1lLVXEyV0U?oc=5" target="_blank">How Pennsylvania’s bellwether city could decide the US midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US voters prepare to deliver verdict on Trump in midterms - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGZFbnhBYm1TbERqMjBiODNPVWJjNmZ6b1I3VWpwbkE5SmhrUF91aXhlTF9MVWhySmtaME1CWXpoZ3I5LXhLOXk5Xzl5VVM3Uk51cFNaTWRMUEtIc3R2dVdiaDliSk0zZjRBNHRRRTNrWTdIMFhVNUdjejNyWThoazhlRkI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGZFbnhBYm1TbERqMjBiODNPVWJjNmZ6b1I3VWpwbkE5SmhrUF91aXhlTF9MVWhySmtaME1CWXpoZ3I5LXhLOXk5Xzl5VVM3Uk51cFNaTWRMUEtIc3R2dVdiaDliSk0zZjRBNHRRRTNrWTdIMFhVNUdjejNyWThoazhlRkI?oc=5" target="_blank">US voters prepare to deliver verdict on Trump in midterms</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Seven aircraft grounded in Europe after bomb threats - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUFPR2dPN1N0OTlXSGl3c1FPOUJBRkVRWGNxR1Y1VmVJTGNKTk9qSzZ6RE5VMU03TDBOOGFQUnJKai15dW1oUDdjdFhJZUdoTHhldGJUWmNLRTVqT1MxMGpETHFPRVhnVHBCeTBrb3dYZXRYN3NodmEzejlaRlBHT0ZZSzQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUFPR2dPN1N0OTlXSGl3c1FPOUJBRkVRWGNxR1Y1VmVJTGNKTk9qSzZ6RE5VMU03TDBOOGFQUnJKai15dW1oUDdjdFhJZUdoTHhldGJUWmNLRTVqT1MxMGpETHFPRVhnVHBCeTBrb3dYZXRYN3NodmEzejlaRlBHT0ZZSzQ?oc=5" target="_blank">Seven aircraft grounded in Europe after bomb threats</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: US billionaire leads swap plan to buy Lukoil's overseas assets, sources say - Reuters
+## Adam Hamilton becomes first Democrat elected to the US Senate from Kansas in 94 years - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlc5d1FIMl9JRFFnMHlQaW5pLVZrOGFFNzZmYWQ2MS1hcFdjOGd2eUc3a1NQZzlNRjc4azNDSDJURzBCTFJuTUVwZVVJbVlfSDV1aUN2Z1ljZktQRGNLYks3ZUdJOHJ0ZzBDaGl3UFR5YzRMVElIbi16U09uVV96RTVxVS1Odk5sSHhMQTE1eUk1aHNnWTRTZ1E1X1diSnRfNVJnRFkyVWFicWtLaTd0NW9rWmR5TFVnM1NBRVNLVVI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHVVb3F0TE9uYjVlOFhaV21Xc1hqQVNVY1MwS09qM1BrTEFSUzRma2oteUIxT2x4TTRKMG1jVW5nT0VpNjFNUW1BZ2VReTRJYmtDUHFmcmFPS2VqeEVLbmFaQWFoMnQ1V3l4WkxWQm11b2JvVkg4WWZ3d3F2SFZrcDNvRTh5VHhhRU8xOFZ6SWQ5YS1tY0lGRDlEc0hDTzBrcnNkRG1xSS12UnhaZU01M1B2VVM3QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlc5d1FIMl9JRFFnMHlQaW5pLVZrOGFFNzZmYWQ2MS1hcFdjOGd2eUc3a1NQZzlNRjc4azNDSDJURzBCTFJuTUVwZVVJbVlfSDV1aUN2Z1ljZktQRGNLYks3ZUdJOHJ0ZzBDaGl3UFR5YzRMVElIbi16U09uVV96RTVxVS1Odk5sSHhMQTE1eUk1aHNnWTRTZ1E1X1diSnRfNVJnRFkyVWFicWtLaTd0NW9rWmR5TFVnM1NBRVNLVVI?oc=5" target="_blank">EXCLUSIVE: US billionaire leads swap plan to buy Lukoil's overseas assets, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHVVb3F0TE9uYjVlOFhaV21Xc1hqQVNVY1MwS09qM1BrTEFSUzRma2oteUIxT2x4TTRKMG1jVW5nT0VpNjFNUW1BZ2VReTRJYmtDUHFmcmFPS2VqeEVLbmFaQWFoMnQ1V3l4WkxWQm11b2JvVkg4WWZ3d3F2SFZrcDNvRTh5VHhhRU8xOFZ6SWQ5YS1tY0lGRDlEc0hDTzBrcnNkRG1xSS12UnhaZU01M1B2VVM3QQ?oc=5" target="_blank">Adam Hamilton becomes first Democrat elected to the US Senate from Kansas in 94 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bomb threats cause flight disruptions across Europe - Reuters
+## Trump says he is willing to accept midterm election results, NYT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEp0ZjhzQkM4OXZhWk84akpsUXdZaFFOV0VvOVlWOFRFRWhVLU8xcXl6R0pXNEZscERia2NydnU2NHcwYTFCQXhrUHBmLVJhSnllbjBJSDdMUlVzRWFPdG1tM2xkZlFhcGtoWDcyaXByYlIybnNkYWNwNy12V2tzeE5FVXFfcjM0YWxtY2hsU2x0dVdCLVkxNjRrb0JGem5LOG1BY1hULUx1Zw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzI1NGhBZUdGVDJZTEtsdTk1UlN6ZzZ6SXl4N3MyRF8zTGF4QmtWbDM4LVlyLW5wQWFlV3NseTZUcGNSMFZlMlpqdUxnOUYxa19QQjV3bzBwbWxuaWFYYl82UEUyTGxjaXByR0Z5S3RNM2xXX3dwSzRVV2NNcUJ3bFVzNnNoNGxxLXA3dXRZcm5sdW1IYW9DOUY4cjctYU1OcVhpZTh4LWtTRTczNlQ3TkVXaw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEp0ZjhzQkM4OXZhWk84akpsUXdZaFFOV0VvOVlWOFRFRWhVLU8xcXl6R0pXNEZscERia2NydnU2NHcwYTFCQXhrUHBmLVJhSnllbjBJSDdMUlVzRWFPdG1tM2xkZlFhcGtoWDcyaXByYlIybnNkYWNwNy12V2tzeE5FVXFfcjM0YWxtY2hsU2x0dVdCLVkxNjRrb0JGem5LOG1BY1hULUx1Zw?oc=5" target="_blank">Bomb threats cause flight disruptions across Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzI1NGhBZUdGVDJZTEtsdTk1UlN6ZzZ6SXl4N3MyRF8zTGF4QmtWbDM4LVlyLW5wQWFlV3NseTZUcGNSMFZlMlpqdUxnOUYxa19QQjV3bzBwbWxuaWFYYl82UEUyTGxjaXByR0Z5S3RNM2xXX3dwSzRVV2NNcUJ3bFVzNnNoNGxxLXA3dXRZcm5sdW1IYW9DOUY4cjctYU1OcVhpZTh4LWtTRTczNlQ3TkVXaw?oc=5" target="_blank">Trump says he is willing to accept midterm election results, NYT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## European supermarkets rush to patch vulnerabilities after region-wide fridge hack - Reuters
+## Democrat Annie Andrews wins US Senate seat in South Carolina upset - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkQ0YkpOVC13OThlbVFndzBBbUF0S2xvYmdSbzQ0VWY4Q21nRUlFQkh6YTdqNnVEbmNoVEJoQmdIS3ZjM0RMRHVZZzN1SWdUekROY2RqaUdScDlkSHd5dXZGeWFnV19RV0hZb1pZVFROQW1meDBqZXdMZUc5UzJYQjd1VEgwd2dCWTNMVlVIYW94NHRhZXdwWmh1RDhJVkNTLS1RREJHMjZUbWpGNDMyX2UwWmRPdUhHQ0V3dXY0akxpTDVzMVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXZqamkxRHFrVl9oM0xUemtIWVNsa29sbTFpa0JrWWF5YjJldU4zdGotQmdfXzlVRWlidmVCcFpKYjRsNld4dUlxOWRQZFNyZG9VcUdoLXotakFzRlpGQ0xvQm9MM2REVktFT2RsWnNmTWNvSlZpb01QZktRMXplZHFMdk1uXzZnbTNoQ1dVZU94UVNkZVNnMjM5QXZ6S1JXZXFxOXRMUU9CRDVx?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkQ0YkpOVC13OThlbVFndzBBbUF0S2xvYmdSbzQ0VWY4Q21nRUlFQkh6YTdqNnVEbmNoVEJoQmdIS3ZjM0RMRHVZZzN1SWdUekROY2RqaUdScDlkSHd5dXZGeWFnV19RV0hZb1pZVFROQW1meDBqZXdMZUc5UzJYQjd1VEgwd2dCWTNMVlVIYW94NHRhZXdwWmh1RDhJVkNTLS1RREJHMjZUbWpGNDMyX2UwWmRPdUhHQ0V3dXY0akxpTDVzMVE?oc=5" target="_blank">European supermarkets rush to patch vulnerabilities after region-wide fridge hack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXZqamkxRHFrVl9oM0xUemtIWVNsa29sbTFpa0JrWWF5YjJldU4zdGotQmdfXzlVRWlidmVCcFpKYjRsNld4dUlxOWRQZFNyZG9VcUdoLXotakFzRlpGQ0xvQm9MM2REVktFT2RsWnNmTWNvSlZpb01QZktRMXplZHFMdk1uXzZnbTNoQ1dVZU94UVNkZVNnMjM5QXZ6S1JXZXFxOXRMUU9CRDVx?oc=5" target="_blank">Democrat Annie Andrews wins US Senate seat in South Carolina upset</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Binance hackers used fake job interview in $6.3 billion attack - Reuters
+## Democrats projected to win majority control of US House, US media project - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkw3blpJbFhfWi1IRGZZV05IaVBNSmJZNVlPV2J2U3NlMjRkdlN2S3NHcmsxc2Y4SDd0Zm5fNXVoMXZ0eHhkTXpWQjlQLWQ5ME5VaDM2bGhvTDRsTHpMVWxucUVwV0wwZC1iUXZUSGFvOTNWTHF6cEZMLVR2cVo0N1pnNlNBYXJ5MExXcjFIQk10bVBHT2ZiVGc0ZTZsZkhPc0FWcUhGRmlWNWtZVVpGSA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5" target="_blank">Binance hackers used fake job interview in $6.3 billion attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkw3blpJbFhfWi1IRGZZV05IaVBNSmJZNVlPV2J2U3NlMjRkdlN2S3NHcmsxc2Y4SDd0Zm5fNXVoMXZ0eHhkTXpWQjlQLWQ5ME5VaDM2bGhvTDRsTHpMVWxucUVwV0wwZC1iUXZUSGFvOTNWTHF6cEZMLVR2cVo0N1pnNlNBYXJ5MExXcjFIQk10bVBHT2ZiVGc0ZTZsZkhPc0FWcUhGRmlWNWtZVVpGSA?oc=5" target="_blank">Democrats projected to win majority control of US House, US media project</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters
+## Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjNiZEFaaFhyeXBNMFF4TkRucHlfMXBuWlZvNXQzZnloSTFwUkJYaVlZZEY1cS02c1N1TXV5SHkwLXBxbWJIeFVQWjVUaXVZNFVjQ0ZqblJzNzVpS0hlV0lyU294ampxQkFtY0JKTTZjdGRGcmV1OWFDdmJjV1BmT090MXJnWXVudTJBcWFQbVVmSXlRLXBERGpmRnVucmlHUk0zRE9wYm9sbnkybmhjQmVUTHd2UE1D?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5" target="_blank">As Americans vote, Trump says US will stop $4 billion in aid to Israel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjNiZEFaaFhyeXBNMFF4TkRucHlfMXBuWlZvNXQzZnloSTFwUkJYaVlZZEY1cS02c1N1TXV5SHkwLXBxbWJIeFVQWjVUaXVZNFVjQ0ZqblJzNzVpS0hlV0lyU294ampxQkFtY0JKTTZjdGRGcmV1OWFDdmJjV1BmT090MXJnWXVudTJBcWFQbVVmSXlRLXBERGpmRnVucmlHUk0zRE9wYm9sbnkybmhjQmVUTHd2UE1D?oc=5" target="_blank">Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
