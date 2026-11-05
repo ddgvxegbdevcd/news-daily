@@ -1,34 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-11-05 06:01:08
+更新时间：2026-11-05 19:45:07
 
-## Indonesia Faces Test in First Dollar Bond Since MSCI Threat
+## How to Get Exposure to Anthropic Through ETFs Before and After the IPO
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout
+链接：https://www.bloomberg.com/news/newsletters/2026-11-05/how-to-get-exposure-to-anthropic-through-etfs-before-and-after-the-ipo
 
 正文长度：0
 
-摘要：The Indonesian government kicked off its first dollar bond sale on Thursday since MSCI Inc. warned it may remove the nation’s equities from its global indexes, in a new test of investor sentiment in Southeast Asia’s largest economy.
+摘要：We’re looking at two distinct waves of products.
 
 
 ---
 
-## Chinese Renewables Stocks Extend Surge After US Midterms
+## Gold Pares Gains as Tech Rout Prompts Investors to Cut Risk
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep
+链接：https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result
 
 正文长度：0
 
-摘要：Chinese renewables stocks extended a dramatic rally after the US Democratic Party’s sweep in the midterm elections was viewed as favorable for the industry even as American tariffs remain in place.
+摘要：Gold trimmed gains as some investors sold the precious metal to reduce exposure, with risk-off sentiment deepening across broader markets.
 
 
 ---
 
-## Post-Midterm Rotation Hits Chips, Boosts China: Markets Wrap
+## S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap
 
 来源：彭博社
 
@@ -36,33 +36,153 @@
 
 正文长度：0
 
-摘要：A stock-rotation trade fueled by the US midterm elections swept Asia, denting regional chipmakers and boosting unfavored markets from China to Australia. Oil extended its losses while Treasuries gained.
+摘要：A post-election slide in chipmakers snowballed as investors bailed from technology shares on speculation that congressional Democrats will clamp down on the artificial-intelligence industry.
 
 
 ---
 
-## India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks
+## Mexico Unexpectedly Cuts Key Rate to 6.25% for ‘Extended Period’
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks
+链接：https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25
 
 正文长度：0
 
-摘要：Indian stocks and bonds rallied as a plunge in crude prices reduced inflation concerns and pressure on the external finances of the oil-importing nation.
+摘要：Mexico’s central bank unexpectedly cut its key interest rate to a four-year low of 6.25% and said it will leave it there for “an extended period.”
 
 
 ---
 
-## France Braces for Marches and Strikes Amid Stalled Budget
+## Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget
+链接：https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide
 
 正文长度：0
 
-摘要：France is bracing for a day of strikes and demonstrations over the cost of living, extending more than a month of protests, as parliamentary talks over next year’s budget remain deadlocked.
+摘要：Treasuries surged as the Democratic sweep in this week’s US midterm elections sparked a selloff in shares of large US technology companies that stoked demand for havens.
+
+
+---
+
+## Marc Lore's Wonder confidentially files for IPO
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html
+
+正文长度：1823
+
+摘要：Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Food startup Wonder has confidentially filed for an initial public offering, the company said Thursday.
+Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place," available for delivery and takeout on its vertically integrated app.
+Originally envisioned as a new take on food delivery through sprinter vans outfitted with mobile kitchens, Wonder has grown to roughly 170 brick-and-mortar locations throughout the U.S. Its locations serve menu items from more than two dozen "restaurants" across a variety of cuisines, some with branding from celebrity chefs.
+Starting Nov. 17, the company plans to introduce more dining options through Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own restaurant business based out of a Wonder location and earn a portion of the revenue from orders.
+Wonder has spent at least $1 billion on acquisitions, such as delivery service Grubhub, meal kit brand Blue Apron and delivery and logistics provider Relay, along with some buzzy restaurant concepts. Wonder has been able to afford such expensive dealmaking thanks to more than $3 billion in venture funding.
+Wonder's Series D fundraising round earlier this year raised its pre-money valuation to $9 billion.
+With the proceeds from an IPO, Wonder will be able to make more acquisitions and work toward its goal of making food more accessible, Lore told CNBC in September.
+But as a public company, Wonder will also likely face investor scrutiny. Weak consumer sentiment has weighed on restaurant stocks recently, plus market volatility has resulted in a shaky IPO market for companies across a range of industries.
+Lore previously founded Diapers.com and Jet.com, which he sold to Amazon and Walmart, respectively.
+
+</details>
+
+
+---
+
+## Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html
+
+正文长度：2589
+
+摘要：Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Wendy's on Thursday said it is rejecting a $1.4 billion takeover offer from a group of investors led by Nelson Peltz's Trian Fund Management.
+The group offered $7.35 per share in cash on Oct. 28 to take the struggling burger chain private. In addition to Trian, it included investment firms BlueFive Capital and Sixth Street Partners, plus Flynn Group, one of Wendy's largest franchisees.
+In February, Wendy's board formed a committee of independent directors to assess any potential bid from Trian in response to a regulatory filing from the firm. The committee found that the proposal "substantially undervalues" Wendy's and does not reflect potential gains from the chain's ongoing turnaround strategy, the company said in a press release Thursday.
+"Our confidence rests firmly in [CEO] Bob Wright's proven track record of seasoned industry leadership, including restaurant business turnarounds," Art Winkleblack, Wendy's board chair and a member of the independent committee, said in a statement.
+Trian declined to comment on Wendy's decision.
+To stave off a hostile takeover, Wendy's has adopted a shareholder rights plan — or poison pill — with a one-year duration, as of Wednesday, the company said. Wendy's added that the investor group led by Trian rejected an offer from Wendy's for a standstill agreement that would have paused additional share purchases, adding to Wendy's decision to use a poison pill.
+The rejection is the latest in the long-running saga between Peltz and the burger chain, which dates back to an activist campaign he led more than two decades ago. A Peltz firm has even owned Wendy's before. In 2008, his company Triarc, which also owned Arby's, bought Wendy's in a $2.3 billion deal. It later sold Arby's, turning Wendy's into a stand-alone company again.
+In 2024, Wendy's named Peltz as chairman emeritus after he spent 17 years on the company's board. Trian executive Peter May and Peltz's son, Bradley, still sit on Wendy's board.
+Wendy's also reported its third-quarter results on Thursday. Its same-store sales declined for the seventh straight quarter. However, its quarterly earnings and revenue topped Wall Street's expectations.
+Shares of Wendy's fell less than 1% in morning trading. The takeover offer had lifted the stock, which has lost about 60% of its value over the last three years.
+Wendy's is not the only restaurant chain that has found itself in the crosshairs of activist investors. Applebee's owner Dine Brands recently adopted a poison pill to block a takeover bid from investment firms Arkhouse Management and Cobblers Cove Capital.
+
+</details>
+
+
+---
+
+## Expedia CEO says AI agents aren't changing booking habits — yet
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html
+
+正文长度：2311
+
+摘要：Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Expedia CEO Ariane Gorin said Thursday the company hasn't yet seen artificial intelligence agents affecting the way customers book, but the early signs show potential for an industry shift.
+"It's a great way for people to do inspiration, to do trip planning," Gorin said in an interview with CNBC. "We haven't seen it change the way they're actually doing booking."
+The comments come as personal AI agents like Meta's Muse and OpenAI's Dots enter the mainstream, promising to tackle everything from scheduling to shopping for everyday Americans. Opportunities in travel planning and booking could pose a competitive threat to traditional sites like Expedia.
+Gorin said Expedia is "working with all of the agents" to make sure it surfaces in AI results, to understand how the agents get information and to make sure that the company has the necessary integrations.
+She acknowledged it's possible that AI agents could develop their own travel programs and eventually claim market share, but she said complexities within the industry — customer service, for example — would be difficult to fully replace with artificial intelligence.
+"People were already shopping across a number of places, so the agent can do that in a much easier way," Gorin said. "But when it comes to actually booking — being confident that the content that you're getting is right, the amenities are right, the price is right, if something goes wrong, someone's going to actually either solve it for you, answer the phone, be there for you — I don't think those agents are going to do it for you, and that's why people trust Expedia and come to us."
+Shares of Expedia were down about 12% Thursday after the company delivered weaker-than-expected guidance for the fourth quarter on Wednesday. The company forecast revenue of between $3.69 billion and $3.75 billion for the final three months of the year, making the midpoint lower than analyst estimates of $3.74 billion, according to FactSet.
+Gorin attributed the "moderation" in Expedia's fourth-quarter guidance to "geopolitical events in the Middle East and Europe," the midterm elections and the company moving its fall sale from the fourth quarter to the third quarter. But she noted the company reported a strong third quarter, as total gross bookings rose 11% and revenue climbed 12%.
+
+</details>
+
+
+---
+
+## Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html
+
+正文长度：4020
+
+摘要：Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Consumers are hoping for more travel and experiences this holiday season, but physical gifts continue to win the lion's share of their wallets, according to a new report from Visa on Thursday.
+The report found that more than half of survey respondents are putting travel and live events at the top of their wish lists. Still, only 15% of those respondents are prioritizing spending on experiences for others, while 27% of them plan to favor physical gifts.
+That gap between what shoppers want and what they plan to buy is largely due to higher travel costs, lower consumer sentiment and an emphasis on value, according to Michael Brown, Visa's principal U.S. economist.
+"There is some interesting trade-offs there that we're seeing on the part of consumers," Brown told CNBC. "If I'm traveling more, I'm probably going to be gifting those physical goods less, so this is really the broader context."
+The survey was conducted among roughly 4,660 U.S. adults ages 18 and older, designed to be representative of the broader population of consumers.
+Brown said budget pressure also factors into traveling for the holidays, as Visa expects more people to celebrate the holidays "a little bit closer to home" than in the past given rising airfares and general inflation. In September, consumer prices rose 3.7% annually, driven higher by surging energy costs.
+Airlines have hiked the price of plane tickets this year as their fuel costs have risen by billions of dollars due to the war in the Middle East. And even if fuel prices drop, executives have said fares are likely to stay high, with fares up more than 22% in September compared with a year earlier, according to the consumer price index.
+Those trends mean consumers will likely be more intentional about where they're spending, especially as inflation drives up prices across the board.
+"Consumers are aspirational. They want those experiences, they want to travel, they want to be out in the world," Brown said. "However, the economic reality is with prices rising, with economic uncertainty, they need to balance the reality of today's economic environment with those aspirations."
+The report also found that only households with an income above $200,000 spent more on trips departing between Nov. 1 and early next year compared with 2025 into 2026. On the other hand, many other income groups pulled back on their travel spending.
+"If you think about that segment, a lot of them own equities, and the equity market runup over the last several months has created a lot of positivity among that specific affluent demographic, and I think that's one of the factors that continues to motivate even aggregate macro spend today," Brown said.
+Meanwhile, less affluent shoppers are placing an emphasis on value. Visa's consumer survey from October showed that roughly one-third of consumers with an income below $100,000 are going to switch to lower-cost brands or stores when shopping for holiday gifts this season.
+Though Visa is projecting a 4.5% year-over-year increase in holiday sales growth, much of that figure is due to inflation. Without those price increases, sales are expected to rise just 1.1% this year, down from the 1.3% increase during the 2025 holiday season.
+Ultimately, Brown said the survey findings may be encouraging for the broader retail scene this holiday season. With less emphasis on travel and more projected spending on physical gifts, it could boost the sector at a time when spending is under pressure.
+At the same time, he said that consumers may just be expecting to spend more this holiday season because they've become accustomed to the higher prices.
+"But, of course, consumers are internalizing higher prices of things, and I think that's why they're reporting higher anticipated spend this year," Brown said. "I think these numbers just need to be looked at through the lens of the inflation and particularly consumers' perception of where inflation is going to go. I think that weighed heavily on consumer psychology this season."
+
+</details>
 
 
 ---
@@ -103,316 +223,132 @@ Though E.l.f. received most of its refunds in its first fiscal quarter, some of 
 
 ---
 
-## CVS Health plans to split itself up. Here's why a breakup could make sense now
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html
-
-正文长度：10200
-
-摘要：Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> CVS Health plans to break itself up — and this time, the bet looks a lot more viable.
-The healthcare conglomerate on Wednesday announced plans to split into two publicly traded companies by the first half of 2028. CVS would separate its pharmacy business – including roughly 9,000 retail locations – from its major insurance business and pharmacy benefit manager, Caremark.
-The move comes more than two years after CVS considered a breakup but ultimately walked away from the idea. At the time, analysts questioned whether the retail pharmacy business could survive on its own.
-“Back then, the idea of retail standing alone was unthinkable,” Brian Tanquilut, senior equity research analyst at Jefferies, told CNBC.
-But the economics of the businesses have changed: CVS's retail pharmacy business has become more consistently profitable, while its insurer, Aetna, has improved its performance despite persistently high medical costs in Medicare Advantage plans. That could make it easier for the company to separate the units — and for investors to recognize the value of each on its own, rather than valuing them together as one sprawling healthcare conglomerate.
-“For us, it's showing the stability of the pharmacy,” Michael Cherny, senior research analyst at Leerink Partners, said in an interview. “This business is a much different business from the one that's been considered three years ago, five years ago, 10 years ago, where there had been a litany of headwinds that the pharmacy just couldn't overcome.”
-CVS CEO David Joyner told CNBC’s "Squawk on the Street" on Wednesday that back in 2024, the company was "in a turnaround" without the flexibility, cash or business performance to execute a split. Now, CVS has posted eight consecutive quarters of beating Wall Street earnings estimates and has raised its guidance several times over the last two years, thanks to improvement across its PBM, pharmacy and insurer.
-Since taking the helm in 2024, Joyner has pursued an aggressive turnaround plan that involves $2 billion in cost cuts, store closures, leadership shakeups and efforts to rein in Medicare Advantage costs.
-The company also now expects to generate at least $15.5 billion in operating cash flow in 2026, a roughly 70% increase from $9.1 billion in 2024, and says it has reached its leverage target ahead of schedule.
-"What's changed in two years is the fact that we now can look at this business and the assets that are assembled and really determine, without any distress or without anything that we have to do, what is the right strategic decision to make," Joyner told analysts on a call Wednesday, adding that the decision comes "out of strength."
-While investors have largely cheered CVS's progress in recent years, Wall Street appeared more pessimistic about Wednesday's announcement, as the company's shares dropped about 12%.
-Retail pharmacy strength
-CVS's retail business has benefited from changes in the competitive landscape, including the widespread retrenchment and store closures of Walgreens, Rite Aid and other pharmacy operators over the last few years. That’s created opportunities for CVS to gain market share, some analysts told CNBC.
-CVS has also introduced changes to its pharmacy reimbursement model. Its CostVantage program is designed to replace the traditional process with a more transparent, cost-based model. Some analysts say that has helped the company better align reimbursement with the cost of dispensing prescriptions and contributed to steadier profits.
-Those developments represent a meaningful shift for a business that has faced years of pressure from declining prescription reimbursement, store closures and competition from online pharmacies and other retailers.
-That doesn't mean the retail pharmacy has become a high-growth business. CVS's retail pharmacy segment remains a relatively low-margin operation, with adjusted operating margins of roughly 4% to 5%. But analysts say it may now be stable and profitable enough to operate independently – even if investors value it at a discount to CVS's other businesses.
-In a note Wednesday, RBC Capital Markets analyst Ben Hendrix said the lower valuation investors assign to the retail pharmacy unit has weighed on CVS's overall value and obscured the earnings strength of businesses like Aetna and Caremark.
-The underlying growth of the insurance and PBM businesses is also stronger than that of retail pharmacy, Tanquilut said, after accounting for changes to Caremark's rebate arrangements.
-Aetna in particular has gotten a better handle on medical costs by exiting unprofitable markets, expanding value-based care models, and tightening utilization management.
-Regulatory headwinds
-The breakup also comes as Caremark faces mounting scrutiny over PBM practices, including state-level legal and regulatory challenges involving the businesses and their relationships with pharmacies.
-Republicans in Tennessee and Arkansas have passed laws that would ban any one company from owning both a pharmacy and a PBM — thought the Arkansas measure has been held up in court. Cherny noted that legal hurdles involving PBMs in other states have continued to pile up.
-“Through what seems to be a never-ending litany of state lawsuits, it feels like it's been under more pressure,” Cherny said. “It's unclear if it just became, for lack of a better term, too tenuous to move forward with those two entities combined as one. I’m not sure.”
-Even so, Joyner told the Wall Street Journal that the company wasn’t splitting up because of regulatory issues. CVS has said the separation follows a strategic review and is intended to give each business greater focus and flexibility.
-The move also marks a significant departure from the integrated healthcare strategy CVS spent years building.
-CVS spent roughly $70 billion to acquire Aetna in 2018 and argued that combining health insurance, pharmacy benefit management, retail pharmacies and health providers under one roof would help coordinate care and create a competitive advantage. CVS was still promoting that model as recently as its investor day last year.
-The proposed split suggests the company now sees more value in separating at least some of those businesses – though it is not abandoning vertical integration altogether.
-The benefits of integration
-Aetna and Caremark will remain together in the healthcare company, alongside CVS’s specialty pharmacy, its primary care clinic Oak Street Health and its home-visit provider Signify Health. The separate pharmacy company will include roughly 9,000 retail stores, mail pharmacy operations and MinuteClinic, a retail medical clinic located inside certain CVS locations.
-Both sides are large enough that they can stand on their own, Cherny said. Caremark is one of the country's three largest PBMs, while CVS has one of the largest retail pharmacy footprints in the U.S.
-But separating the company raises questions about how much of the commercial relationship between the businesses can survive.
-The relationship has historically benefited both sides. As it stands, Caremark can use CVS's extensive retail footprint to offer members convenient access to prescriptions and steer them toward CVS locations through preferred pharmacy arrangements. Programs such as Maintenance Choice, for example, give eligible members the option to fill certain maintenance medications at CVS retail pharmacies or through mail order.
-Those arrangements also helped direct prescription volume to CVS's stores, giving the retail pharmacy unit an important source of customers. Because the businesses shared a parent company, the financial benefits of that relationship ultimately went to CVS as a whole.
-In a note, RBC's Hendrix also raised questions about how the split could impact Aetna's Medicare Advantage quality ratings, which determine whether health plans qualify for bonus payments from the government. Retail pharmacists have played a role in engaging Aetna members, and a separation could complicate that relationship.
-But Joyner told analysts Wednesday that the synergy between the two businesses would be "preserved in commercial agreements between the two organizations," adding that "we don't need the integration of an operating structure."
-Joyner said CVS will be working on those potential agreements over the next 15 to 18 months.
-Preferred pharmacy networks are common across the industry, and separate ownership does not prevent Caremark from continuing to favor CVS pharmacies through negotiated arrangements, Cherny said. The difference is that under separate ownership, the profits from those arrangements would no longer accrue to a single company, he noted.
-“The issue is not whether the companies can continue working together in some capacity, but whether any future contractual arrangements preserve the SAME competitive advantages and flexibility as today under common ownership,” Cherny said in an afternoon note on Wednesday.
-Risks, questions remain
-Still, both businesses face challenges on their own.
-Tanquilut cautioned that some of CVS's recent retail pharmacy gains have come as Walgreens and other competitors have closed stores, raising questions about whether the growth can be sustained. The business also remains exposed to consumer pressure and competition from online pharmacies.
-Caremark, meanwhile, faces continued regulatory scrutiny and potential headwinds from changes to the federal 340B drug discount program, which requires drugmakers to offer discounted medications to eligible hospitals and other healthcare providers serving low-income and vulnerable patients.
-CVS participates in the program by providing pharmacy services to those organizations, but tweaks to manufacturer data-sharing policies and potential reimbursement changes could weigh on that business in 2027, Tanquilut said.
-Aetna, meanwhile, is still working through a multiyear plan to rebuild its margins, as it looks to improve the profitability of its Medicare Advantage business.
-Ultimately, CVS is betting that the value of letting investors assess its businesses separately will outweigh the benefits of keeping them under one roof. The split will test whether each can thrive independently.
-
-</details>
-
-
----
-
-## New Flutter CEO bets on FanDuel promotions to win customers as profits suffer
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html
-
-正文长度：3526
-
-摘要：Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Flutter's new CEO Dan Taylor is counting on better products and more generous customer rewards to help convert FanDuel's improving engagement into stronger profits.
-Taylor's been at the helm for just five weeks and issued his first earnings report as CEO on Wednesday, with third-quarter revenue and adjusted earnings before interest, taxes, depreciation and amortization missing Wall Street's expectations.
-The company's stock is down more than 60% year to date.
-Yet Taylor says the company is now on the right track.
-"We made some changes to the product," Taylor told CNBC in an interview. "Fundamentally, the way you win this business is by delighting customers, delivering the very best experiences and delivering to them in the way that they want, with the right overall proposition."
-FanDuel also launched a nationwide rewards program in September that Taylor said has "resonated really, really well."
-The early customer numbers are improving. Average monthly players on FanDuel's U.S. sportsbook rose 9% in the third quarter, while bet counts increased 15%, Taylor said.
-Flutter's earnings release showed total U.S. average monthly players up 12%, including 24% growth in iGaming. Sportsbook handle, or the total amount wagered, rose 13%, but sportsbook revenue grew just 4% as promotional spending increased.
-Taylor said the company plans to keep investing in customer experience. He said Flutter sees room to improve its structural margins over time by changing the mix of products customers use.
-Flutter has increased its media spend to build FanDuel Predicts, its predictions platform to rival Kalshi and Polymarket, but the cost of sales as a percent of revenue is forecast to be 58% for the full-year 2026 and into 2027.
-Taylor said there's fierce industry competition for customers but even still, FanDuel trading volume has skyrocketed 271% since July.
-The FanDuel Predicts app added 140,000 new customers in October, Taylor said.
-Taylor also defended the long-term opportunity in the U.S., pointing out about half the country still does not have access to regulated sports betting and 90% lacks regulated online gaming.
-He argued that expanding legal markets is not a partisan issue because regulated betting offers consumer protections and gives tax revenue to states.
-For the third quarter, Flutter reported an adjusted loss of 18 cents per share, compared with analysts' expectations for a loss of 28 cents, according to LSEG. Revenue rose 2% to $3.87 billion, below the roughly $4 billion LSEG consensus, while adjusted EBITDA fell roughly 25% year over year to $360 million, also below expectations.
-The company posted a net loss of $1.15 billion, including an $873 million non-cash impairment tied primarily to Brazil, which banned sports betting and online gaming in September.
-Taylor said the company was disappointed by Brazil's provisional measure, but took the impairment to "set ourselves up to win long-term."
-The complications in Brazil and unfavorable sports results in the U.S. and internationally led Flutter to cut its full-year revenue midpoint by $300 million to $17.61 billion and lower its 2026 adjusted EBITDA outlook by $160 million to nearly $2.5 billion.
-In the meantime, capital returns are on hold: Taylor said Flutter needs to bring leverage back into its target range of 2 to 2.5 times over roughly the next 24 months before it can consider buybacks again. For now, he said, the priority is organic growth and paying down debt.
-— CNBC's Mallory Leonard contributed to this report.
-
-</details>
-
-
----
-
-## CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html
-
-正文长度：5179
-
-摘要：The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> CVS Health plans to split into two separate public companies by the first half 2028 in what would be one of the largest corporate breakups in history, the company announced Wednesday.
-The move would reverse the company's massive $78 billion acquisition of its insurer, Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018. The plan would specifically separate CVS' roughly 9,000 retail pharmacies from its major insurance business and pharmacy benefit manager, Caremark, one of the nation's three largest PBMs.
-The decision follows a "comprehensive strategic review" by the company's board of directors, according to a news release. Shares of CVS closed more than 12% lower on Wednesday.
-It's a stunning reversal for the healthcare powerhouse, which has spent the last two decades working to turn itself into a one-stop health destination. The move also comes as CVS' aggressive turnaround plan under CEO David Joyner shows substantial progress, with the company pursuing $2 billion in cost cuts, store closures, leadership shake-ups and efforts to rein in Medicare Advantage costs.
-But Joyner told CNBC's "Squawk on the Street" on Wednesday that the decision to split is "out of a position of strength," pointing to recovery in Aetna's Medicare business and solid performance in the retail pharmacy.
-"So it's all about the strength of the business that affords us the opportunity to make what we think are the right strategic decisions for the future of this company," he later added.
-CVS shares have jumped roughly 70% since Joyner took the helm in October 2024, bringing the company's market value to $117 billion.
-The two new companies would both be publicly traded.
-The insurance and PBM company will retain the CVS Health name and be run by Joyner, while the other company will be called CVS Pharmacy and be led by Prem Shah, who is currently group president of CVS Health. Additional leadership positions and board members will be announced at a later date, CVS said.
-Existing CVS shareholders will own stock in both companies after the split. The Financial Times on Tuesday first reported the breakup plans.
-The company's pharmacy business raked in $37.66 billion in 2025 sales, while its insurance unit booked $36.29 billion in revenue and the healthcare services segment generated $51.24 billion.
-CVS on Wednesday also posted third-quarter earnings and revenue that topped Wall Street expectations. Total sales climbed to $108.40 billion, from $102.87 billion in the prior-year period.
-Sales were boosted by year-over-year growth in the company's healthcare benefits and health services segments. Meanwhile, revenue in its pharmacy services business slid from the previous year.
-How the CVS split would work
-On Wednesday, CVS said it will lump its insurer and PBM with its primary care business Oak Street Health, home visit provider Signify Health and the company's specialty drug business.
-CVS also said the split will allow the two companies to experience a "focused strategic agenda" and greater ability to "innovate, adopt technology, increase efficiency," among other benefits.
-It's not the first time CVS has weighed splitting the company. In October 2024, CVS engaged advisors in a strategic review of its business and considered breaking up its retail pharmacy and insurance units.
-But Joyner told CNBC that the company was "in a turnaround" at that time without the flexibility, cash position or business performance to execute a split.
-In an interview, Leerink Partners analyst Michael Cherny said the split shows "the stability of the pharmacy," which has won market share from competitors and is seeing gross margins stabilize thanks to CostVantage, a new pharmacy reimbursement model introduced by CVS last year that the company bills as more transparent.
-"This business is a much different business from the one that's been considered three years ago, five years ago, 10 years ago, where there had been a litany of headwinds that the pharmacy just couldn't overcome," he told CNBC on Wednesday.
-One potential concern for investors is whether the retail pharmacy will lose its competitive advantage of being directly linked with a PBM, which negotiates drug prices and manages prescription drug benefits on behalf of insurers and employers.
-But Joyner told analysts Wednesday that the synergy between the two businesses "are going to be preserved in commercial agreements between the two organizations," adding that "we don't need the integration of an operating structure."
-Cherny said the rationale for the split could also extend to the state legislative scrutiny over the company's level of vertical integration.
-The potential breakup also comes as pharmacy benefit managers face mounting bipartisan scrutiny in Washington, D.C., and across states. Republicans in Tennessee and Arkansas have passed laws that would ban co-ownership of PBMs and pharmacies. Those have been challenged in court by CVS and other companies.
-PBMs have been criticized for opaque pricing practices, their growing market power and potential conflicts of interest when they are owned by companies that also operate insurers and pharmacies.
-
-</details>
-
-
----
-
-## Trump hammers Fox News, blaming network for GOP losses as ratings slide
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html
-
-正文长度：2905
-
-摘要：Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> President Donald Trump turned against Fox News on Tuesday night in a string of posts on Truth Social while Democratic wins rolled in during a historic midterm election.
-Trump blamed the network, which he's long championed, for Republican losses, saying in one post on his social media network that it "bears responsibility for these losses by constantly and consistently putting on the Dumocrat opposition."
-Democrats took control of both the Senate and House of Representatives, flipping seats in states usually favorable to Republicans, including Texas, South Carolina and Kansas.
-Trump also pointed to Fox's recent ratings as evidence of the network's decline.
-"FoxNews Ratings are way down (27%!) because they're spending too much time covering the Trump Deranged Dumocrats! All of those people who used to watch Fox, and no longer do, get it. It's them, not me," he posted.
-Fox News did not immediately respond to a request for comment.
-In a press release last week, Fox News reported 1.1 million average viewers for October, down about 27% from the same month a year prior.
-Fox Corp. CEO Lachlan Murdoch noted the decline during the company's quarterly earnings call on Monday, citing "viewer fatigue."
-However, Murdoch said such a shift is expected in the lead-up to a midterm election with a second-term president and said it was not the result of viewers turning to competitors' coverage.
-"Those viewers are not going to any other news channel. They're not switching to MS NOW or to CNN," he said. "They're just fatigued and watching slightly less television overall."
-Versant-owned MS NOW and Skydance-owned CNN both reported primetime viewership was up by double digits in October compared with the year-ago period. However, both networks still had smaller total-day average audiences than Fox News.
-MS NOW had 588,000 average viewers in October across all day parts, and CNN had 402,000, according to Nielsen data cited by Fox.
-Despite Fox News' year-over-year drop in viewership, the company reported an otherwise strong quarter in what Murdoch called an "outstanding start to fiscal 2027."
-Fox Corp., which includes the linear TV networks as well as entertainment and sports assets and a streaming business, reported revenue for its fiscal first quarter of $4.57 billion, up 22% year over year.
-The company pointed to strength in advertising revenue, which increased 47%, buoyed by strong political advertising and the FIFA Men's World Cup, which aired in part on Fox platforms across June and July.
-Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him. While he's repeatedly taken aim at NBC and Disney-owned ABC, the president has had a much friendlier relationship with Fox and its networks.
-Trump appeared on Fox News' "Hannity" on Monday night ahead of the election.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.
-
-</details>
-
-
----
-
-## China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division - Financial Times
+## Farewell to ‘SI’, an initialism gone before its time - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVRIRklUTWxDNjFpdVd3TjFTTDBMX09OQXhOUG01SHdfZWVTaEVjRkdSZ1FpQ0pEYkphY0NoS2w2dlJCRTRDZS03UG1zWUZMc1dwUVlfdmpDZW1qZTVCUlQ5amtCc0RxU1ZYamd2Wk9KMmwxRWZ6dEs3SnA4QVJIOEhya0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5" target="_blank">China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVRIRklUTWxDNjFpdVd3TjFTTDBMX09OQXhOUG01SHdfZWVTaEVjRkdSZ1FpQ0pEYkphY0NoS2w2dlJCRTRDZS03UG1zWUZMc1dwUVlfdmpDZW1qZTVCUlQ5amtCc0RxU1ZYamd2Wk9KMmwxRWZ6dEs3SnA4QVJIOEhya0o?oc=5" target="_blank">Farewell to ‘SI’, an initialism gone before its time</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The beginning of the end of the age of Trump - Financial Times
+## AI backlash threatens trillion-dollar data centre boom, say tech leaders - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjEtWjZQNXczVm9ad052cXNIbElTRGFhdlB0SXN2MkxPcEN3bEV1S0Zac01vYmtHTGJFd2NheWNVNzFpTllwZ0VBQUdTTFp5QjVBb05UdlVlXzZ2Z0ViU0tRNnVTcEhDVk5wdmJKSTlzWm0tVGZJZk1ZMTFnTlp3WnRiQkM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGxtWlRYSjZjaEliNm1oUlJ0YmtSeUtubUxmQXJLcGx4ZXRrYWxUbm9PYXNCWUZmaEJNWlRhVld0bTQ2UkhBTFlXN0x5NlZpcEprU1NwZUYzTjI0Qkx0b0xZRnl1SDdyNEFZcDF5S0RnZnIxZkV1MUJQS3NGUEpOTERKWTk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjEtWjZQNXczVm9ad052cXNIbElTRGFhdlB0SXN2MkxPcEN3bEV1S0Zac01vYmtHTGJFd2NheWNVNzFpTllwZ0VBQUdTTFp5QjVBb05UdlVlXzZ2Z0ViU0tRNnVTcEhDVk5wdmJKSTlzWm0tVGZJZk1ZMTFnTlp3WnRiQkM?oc=5" target="_blank">The beginning of the end of the age of Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGxtWlRYSjZjaEliNm1oUlJ0YmtSeUtubUxmQXJLcGx4ZXRrYWxUbm9PYXNCWUZmaEJNWlRhVld0bTQ2UkhBTFlXN0x5NlZpcEprU1NwZUYzTjI0Qkx0b0xZRnl1SDdyNEFZcDF5S0RnZnIxZkV1MUJQS3NGUEpOTERKWTk?oc=5" target="_blank">AI backlash threatens trillion-dollar data centre boom, say tech leaders</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Gates says Trump inaction leaves world exposed to AI bioweapons - Financial Times
+## Russell Brand found guilty of rape and sexual assault - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjBWWlYwdGQ4ZlRLNERJRlNHX3UxOF9QbFM3UGZJMmU1RHgwSGtXUzVGY29BVkM1V1JUOHJIaEx2Sl90eG41emdZeHZ4cm9Gczl3OGF0TUhrYks2WDBMaF9aRTFzaGRqVlRESzhqOF94dUcyNHJ2bF9yVjl3bTdaNEZDcmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNYllZN0t6NXZMRFFXLXRvdTFfRFpaSllyTGhRNmxqcmpTbTlUcUhWaGlsVVpBMDl6UjNxX2htV3R4Q2xjNGMxWTVaYjd1bG43cjBUdm1venMzbzhEMldMU3R1cGdaV3c3TFVHNk9CSThOQVBjNGNyekEwWi1QVVpqTnF6ME4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjBWWlYwdGQ4ZlRLNERJRlNHX3UxOF9QbFM3UGZJMmU1RHgwSGtXUzVGY29BVkM1V1JUOHJIaEx2Sl90eG41emdZeHZ4cm9Gczl3OGF0TUhrYks2WDBMaF9aRTFzaGRqVlRESzhqOF94dUcyNHJ2bF9yVjl3bTdaNEZDcmc?oc=5" target="_blank">Gates says Trump inaction leaves world exposed to AI bioweapons</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYllZN0t6NXZMRFFXLXRvdTFfRFpaSllyTGhRNmxqcmpTbTlUcUhWaGlsVVpBMDl6UjNxX2htV3R4Q2xjNGMxWTVaYjd1bG43cjBUdm1venMzbzhEMldMU3R1cGdaV3c3TFVHNk9CSThOQVBjNGNyekEwWi1QVVpqTnF6ME4?oc=5" target="_blank">Russell Brand found guilty of rape and sexual assault</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times
+## Russia deepened Iran support with missile launcher deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5" target="_blank">‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5" target="_blank">Russia deepened Iran support with missile launcher deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump diesel deal with Russia falters as US fuel supplies hit 20-year low - Financial Times
+## Toyota returns to profit growth on strong US demand for hybrids - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtXS1hOOFg4aG9GMXVkSlFTdlgwbTFHNlhqbENldmVMZC1HQlh1ODBNeXoyOGhXUDNFVkhhS3dxQkROWVhsWXdOM3VkSTJuZVQzejRySktBQVRhZm9MY01ya0xLX1N0TGFPcDVURkFMTUhla05fOFBhZ3VtUDE0QlR5Mi0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTZWT0E1bmJRYThiNnVKbVB3Q2NyLWxLM3hienA2N0p3NWFvc0Mxb1N5bEdudVZlSUFna1U1SlF3RFlZQ3JWQjdLVlVweFdSWHNEV185VWI4U1hPMUJPaXVjeWdRYll0a2NCWG5lZC1YV0FiMTJYRkxkeWdVMjJEc09Vb3o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtXS1hOOFg4aG9GMXVkSlFTdlgwbTFHNlhqbENldmVMZC1HQlh1ODBNeXoyOGhXUDNFVkhhS3dxQkROWVhsWXdOM3VkSTJuZVQzejRySktBQVRhZm9MY01ya0xLX1N0TGFPcDVURkFMTUhla05fOFBhZ3VtUDE0QlR5Mi0?oc=5" target="_blank">Trump diesel deal with Russia falters as US fuel supplies hit 20-year low</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTZWT0E1bmJRYThiNnVKbVB3Q2NyLWxLM3hienA2N0p3NWFvc0Mxb1N5bEdudVZlSUFna1U1SlF3RFlZQ3JWQjdLVlVweFdSWHNEV185VWI4U1hPMUJPaXVjeWdRYll0a2NCWG5lZC1YV0FiMTJYRkxkeWdVMjJEc09Vb3o?oc=5" target="_blank">Toyota returns to profit growth on strong US demand for hybrids</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters
+## Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2pHcmkxeDJDM184TXNiS2xIOUdXdHNrTXcyVHFKcUNGZEgtanhxTm9TR0UxWjA5cGlXSy12RVBLT3JYYVVBVEltbXFTNWtFT09OMVBIUkFEVlZiaW1mcVhPM3JfQ2tnZm1uRnJSQlVoX1FfNTl5bmh1c1pZMUJBVlVZeVdoWnlQMURoR0g0WVZYcjU4WDloZzRxMHh3Q24zMlRSYXV3MUFZTGxEQXM3NXNuNExxUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2pHcmkxeDJDM184TXNiS2xIOUdXdHNrTXcyVHFKcUNGZEgtanhxTm9TR0UxWjA5cGlXSy12RVBLT3JYYVVBVEltbXFTNWtFT09OMVBIUkFEVlZiaW1mcVhPM3JfQ2tnZm1uRnJSQlVoX1FfNTl5bmh1c1pZMUJBVlVZeVdoWnlQMURoR0g0WVZYcjU4WDloZzRxMHh3Q24zMlRSYXV3MUFZTGxEQXM3NXNuNExxUQ?oc=5" target="_blank">Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5" target="_blank">Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections - Reuters
+## Trump ally leading Justice Department civil rights unit resigns - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZuRGd1U2tscWdCODBsODdUemhHbzBEV2xpUkRFc19RZ3RmaDl1dGpUSnhycW9TOTUxTm5ZVjhKLURnUzZMYzBlRmNCSllJUVlZc2hUaFJOOUk4eWF5aDhfUnBSWEFxWTdlRXhsTWhVZVNDT0NFRmtQUmZGaWl2RTYyck43djRNZnpjVkszS0FMVnE1a1BpQnVmZ1lneUlWcXNpYlZLeWNZalowcC1CMnVXNkxYMlZHcTlF?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5" target="_blank">Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZuRGd1U2tscWdCODBsODdUemhHbzBEV2xpUkRFc19RZ3RmaDl1dGpUSnhycW9TOTUxTm5ZVjhKLURnUzZMYzBlRmNCSllJUVlZc2hUaFJOOUk4eWF5aDhfUnBSWEFxWTdlRXhsTWhVZVNDT0NFRmtQUmZGaWl2RTYyck43djRNZnpjVkszS0FMVnE1a1BpQnVmZ1lneUlWcXNpYlZLeWNZalowcC1CMnVXNkxYMlZHcTlF?oc=5" target="_blank">Trump ally leading Justice Department civil rights unit resigns</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters
+## Ukraine's Starshield contract with US expires next year, diplomat says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVZMRzZIQS1pQmxLUWYySklZU1JZX01mSlhxZi0tRGRHQ21hZ0dvRlNaZS15TVhPbE04N0ZUdS1FRjljamJJaFNYcHdOQ2U0WTZyWXFxU1Frc2tPbmNGTDdlRWVtbnZubTZ6Sk42bmY1bUUyQTU1andhdndpNUZzYmN2Y0ZJRm9LTEJSVlJ4UWpDSEE0T1Zpa3h3eHczY1ZzR0Ezb3hiNXJVX2E0dG1POWZHQU5OQzNTSDRMQmoyNGdscDVXZUE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5" target="_blank">Oil falls for a fourth day on expectations for lower risk of Iran war escalation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVZMRzZIQS1pQmxLUWYySklZU1JZX01mSlhxZi0tRGRHQ21hZ0dvRlNaZS15TVhPbE04N0ZUdS1FRjljamJJaFNYcHdOQ2U0WTZyWXFxU1Frc2tPbmNGTDdlRWVtbnZubTZ6Sk42bmY1bUUyQTU1andhdndpNUZzYmN2Y0ZJRm9LTEJSVlJ4UWpDSEE0T1Zpa3h3eHczY1ZzR0Ezb3hiNXJVX2E0dG1POWZHQU5OQzNTSDRMQmoyNGdscDVXZUE?oc=5" target="_blank">Ukraine's Starshield contract with US expires next year, diplomat says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China indicts ex-Politburo member Ma Xingrui for bribery - Reuters
+## Paraguay President Peña resigns under mounting pressure from bank collapse - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5" target="_blank">China indicts ex-Politburo member Ma Xingrui for bribery</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5" target="_blank">Paraguay President Peña resigns under mounting pressure from bank collapse</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Taiwan sees continued US arms sale support after midterm election - Reuters
+## OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3WU4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3WU4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ?oc=5" target="_blank">Taiwan sees continued US arms sale support after midterm election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5" target="_blank">OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
