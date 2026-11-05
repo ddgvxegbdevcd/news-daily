@@ -1,68 +1,207 @@
 # 每日财经新闻
 
-更新时间：2026-11-04 19:36:19
+更新时间：2026-11-05 06:01:08
 
-## Credit Traders Make Big Post-Midterm Bet on Data-Center Slowdown
+## Indonesia Faces Test in First Dollar Bond Since MSCI Threat
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-04/hyperscalers-lead-credit-market-gains-amid-broad-risk-on-rally
+链接：https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout
 
 正文长度：0
 
-摘要：Credit investors are picking winners and losers from a Democratic sweep in US midterm elections this week, focusing on how slowing data center approvals will hurt the companies that develop the facilities, while potentially cutting into borrowing by big tech firms.
+摘要：The Indonesian government kicked off its first dollar bond sale on Thursday since MSCI Inc. warned it may remove the nation’s equities from its global indexes, in a new test of investor sentiment in Southeast Asia’s largest economy.
 
 
 ---
 
-## Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap
+## Chinese Renewables Stocks Extend Surge After US Midterms
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep
 
 正文长度：0
 
-摘要：A Democratic sweep of Congress that highlighted opposition of the Iran war extended this week’s plunge in oil prices, helping drive stocks and bonds to big post-election gains.
+摘要：Chinese renewables stocks extended a dramatic rally after the US Democratic Party’s sweep in the midterm elections was viewed as favorable for the industry even as American tariffs remain in place.
 
 
 ---
 
-## Musk Stocks Erase $120 Billion as Democrats’ Texas Win Hits Home
+## Post-Midterm Rotation Hits Chips, Boosts China: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds
+链接：https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Elon Musk’s Texas-based empire is coming under investor scrutiny after Democrats clinched unlikely wins in his adopted state on their way to take control of Congress.
+摘要：A stock-rotation trade fueled by the US midterm elections swept Asia, denting regional chipmakers and boosting unfavored markets from China to Australia. Oil extended its losses while Treasuries gained.
 
 
 ---
 
-## Wall Street Reckoning Looms as Democrats Take Over Congress
+## India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-04/wall-street-s-reckoning-looms-as-democrats-take-over-congress
+链接：https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks
 
 正文长度：0
 
-摘要：For nearly two years, Wall Street firms and startups have enjoyed a sweeping deregulatory agenda from President Donald Trump that relaxed post-financial crisis rules and boosted nascent industries.
+摘要：Indian stocks and bonds rallied as a plunge in crude prices reduced inflation concerns and pressure on the external finances of the oil-importing nation.
 
 
 ---
 
-## Tech Megacaps Power S&P 500 Higher as Election Uncertainty Eases
+## France Braces for Marches and Strikes Amid Stalled Budget
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results
+链接：https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget
 
 正文长度：0
 
-摘要：Technology megacaps rallied, leading the broader stock market higher, as Democrats swept to power in Congress and President Donald Trump said he would accept the midterm results, easing uncertainty and prompting investors to buy the recent dip.
+摘要：France is bracing for a day of strikes and demonstrations over the cost of living, extending more than a month of protests, as parliamentary talks over next year’s budget remain deadlocked.
+
+
+---
+
+## E.l.f. Beauty posts 51% sales increase, raises full-year guidance
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html
+
+正文长度：3015
+
+摘要：E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> E.l.f. Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.
+The beauty company said it saw its 31st consecutive quarter of net sales growth, attributing the streak to strong performance across its portfolio. The revenue spike was driven by both retail and e-commerce channels across the U.S. and internationally, the company added.
+"The thing I'm most pleased about is we saw strength across our entire portfolio," CEO Tarang Amin told CNBC in an interview. "Every one of our brands contributed strong growth this quarter."
+Amin added that E.l.f. is the most-searched brand on TikTok Shop and the No. 2 brand in cosmetics on the platform. The company also said it saw strong results for Rhode, the skincare brand it acquired last year.
+The company raised its full fiscal-year guidance following the better-than-anticipated quarter. It now expects net sales in the range of $2 billion to $2.03 billion, compared with a previous range of between $1.94 billion and $1.97 billion. It also upped its adjusted EBITDA projection to a range of $421 million to $427 million from between $401 million and $407 million.
+E.l.f. said it now expects adjusted earnings per share for the year to come in between $3.82 and $3.86, exceeding prior guidance of between $3.50 and $3.55 per share. It's also expecting a net income range of $231 million to $233 million, up from a previous range of $212 million to $215 million.
+It had already raised its guidance last quarter after outperforming its expectations.
+Amin said the company is "very bullish" on the holiday season, expecting high sales through the end of the year.
+Here's how the company performed in its second fiscal quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $1.21 adjusted vs. 60 cents expected
+- Revenue: $520.8 million vs. $470.3 million
+For the period ended Sept. 30, E.l.f. reported net income of $30.03 million, or 50 cents per share, up significantly from roughly $3 million, or 5 cents per share, the year prior.
+Net sales grew 51% to $520.8 million.
+E.l.f. also saw significant growth in its international channels, with business up 165%. Amin told CNBC that only 25% of the company's business is outside of the U.S. and that it has a "tremendous opportunity" to build on that momentum.
+The company also said its gross margin increased 1.6% during the quarter, including a 0.3% benefit from tariff refunds. Amin previously said the retailer planned to fully reinvest that money into pricing and marketing to continue driving growth.
+Though E.l.f. received most of its refunds in its first fiscal quarter, some of those funds flowed through the second quarter, and the company expects to receive a yearly total of around $55 million. Amin told CNBC on Wednesday that the company lowered the price of about 10% of its units by $1 because of the tariff benefits.
+"We're seeing great unit momentum based on that," he said.
+
+</details>
+
+
+---
+
+## CVS Health plans to split itself up. Here's why a breakup could make sense now
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html
+
+正文长度：10200
+
+摘要：Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> CVS Health plans to break itself up — and this time, the bet looks a lot more viable.
+The healthcare conglomerate on Wednesday announced plans to split into two publicly traded companies by the first half of 2028. CVS would separate its pharmacy business – including roughly 9,000 retail locations – from its major insurance business and pharmacy benefit manager, Caremark.
+The move comes more than two years after CVS considered a breakup but ultimately walked away from the idea. At the time, analysts questioned whether the retail pharmacy business could survive on its own.
+“Back then, the idea of retail standing alone was unthinkable,” Brian Tanquilut, senior equity research analyst at Jefferies, told CNBC.
+But the economics of the businesses have changed: CVS's retail pharmacy business has become more consistently profitable, while its insurer, Aetna, has improved its performance despite persistently high medical costs in Medicare Advantage plans. That could make it easier for the company to separate the units — and for investors to recognize the value of each on its own, rather than valuing them together as one sprawling healthcare conglomerate.
+“For us, it's showing the stability of the pharmacy,” Michael Cherny, senior research analyst at Leerink Partners, said in an interview. “This business is a much different business from the one that's been considered three years ago, five years ago, 10 years ago, where there had been a litany of headwinds that the pharmacy just couldn't overcome.”
+CVS CEO David Joyner told CNBC’s "Squawk on the Street" on Wednesday that back in 2024, the company was "in a turnaround" without the flexibility, cash or business performance to execute a split. Now, CVS has posted eight consecutive quarters of beating Wall Street earnings estimates and has raised its guidance several times over the last two years, thanks to improvement across its PBM, pharmacy and insurer.
+Since taking the helm in 2024, Joyner has pursued an aggressive turnaround plan that involves $2 billion in cost cuts, store closures, leadership shakeups and efforts to rein in Medicare Advantage costs.
+The company also now expects to generate at least $15.5 billion in operating cash flow in 2026, a roughly 70% increase from $9.1 billion in 2024, and says it has reached its leverage target ahead of schedule.
+"What's changed in two years is the fact that we now can look at this business and the assets that are assembled and really determine, without any distress or without anything that we have to do, what is the right strategic decision to make," Joyner told analysts on a call Wednesday, adding that the decision comes "out of strength."
+While investors have largely cheered CVS's progress in recent years, Wall Street appeared more pessimistic about Wednesday's announcement, as the company's shares dropped about 12%.
+Retail pharmacy strength
+CVS's retail business has benefited from changes in the competitive landscape, including the widespread retrenchment and store closures of Walgreens, Rite Aid and other pharmacy operators over the last few years. That’s created opportunities for CVS to gain market share, some analysts told CNBC.
+CVS has also introduced changes to its pharmacy reimbursement model. Its CostVantage program is designed to replace the traditional process with a more transparent, cost-based model. Some analysts say that has helped the company better align reimbursement with the cost of dispensing prescriptions and contributed to steadier profits.
+Those developments represent a meaningful shift for a business that has faced years of pressure from declining prescription reimbursement, store closures and competition from online pharmacies and other retailers.
+That doesn't mean the retail pharmacy has become a high-growth business. CVS's retail pharmacy segment remains a relatively low-margin operation, with adjusted operating margins of roughly 4% to 5%. But analysts say it may now be stable and profitable enough to operate independently – even if investors value it at a discount to CVS's other businesses.
+In a note Wednesday, RBC Capital Markets analyst Ben Hendrix said the lower valuation investors assign to the retail pharmacy unit has weighed on CVS's overall value and obscured the earnings strength of businesses like Aetna and Caremark.
+The underlying growth of the insurance and PBM businesses is also stronger than that of retail pharmacy, Tanquilut said, after accounting for changes to Caremark's rebate arrangements.
+Aetna in particular has gotten a better handle on medical costs by exiting unprofitable markets, expanding value-based care models, and tightening utilization management.
+Regulatory headwinds
+The breakup also comes as Caremark faces mounting scrutiny over PBM practices, including state-level legal and regulatory challenges involving the businesses and their relationships with pharmacies.
+Republicans in Tennessee and Arkansas have passed laws that would ban any one company from owning both a pharmacy and a PBM — thought the Arkansas measure has been held up in court. Cherny noted that legal hurdles involving PBMs in other states have continued to pile up.
+“Through what seems to be a never-ending litany of state lawsuits, it feels like it's been under more pressure,” Cherny said. “It's unclear if it just became, for lack of a better term, too tenuous to move forward with those two entities combined as one. I’m not sure.”
+Even so, Joyner told the Wall Street Journal that the company wasn’t splitting up because of regulatory issues. CVS has said the separation follows a strategic review and is intended to give each business greater focus and flexibility.
+The move also marks a significant departure from the integrated healthcare strategy CVS spent years building.
+CVS spent roughly $70 billion to acquire Aetna in 2018 and argued that combining health insurance, pharmacy benefit management, retail pharmacies and health providers under one roof would help coordinate care and create a competitive advantage. CVS was still promoting that model as recently as its investor day last year.
+The proposed split suggests the company now sees more value in separating at least some of those businesses – though it is not abandoning vertical integration altogether.
+The benefits of integration
+Aetna and Caremark will remain together in the healthcare company, alongside CVS’s specialty pharmacy, its primary care clinic Oak Street Health and its home-visit provider Signify Health. The separate pharmacy company will include roughly 9,000 retail stores, mail pharmacy operations and MinuteClinic, a retail medical clinic located inside certain CVS locations.
+Both sides are large enough that they can stand on their own, Cherny said. Caremark is one of the country's three largest PBMs, while CVS has one of the largest retail pharmacy footprints in the U.S.
+But separating the company raises questions about how much of the commercial relationship between the businesses can survive.
+The relationship has historically benefited both sides. As it stands, Caremark can use CVS's extensive retail footprint to offer members convenient access to prescriptions and steer them toward CVS locations through preferred pharmacy arrangements. Programs such as Maintenance Choice, for example, give eligible members the option to fill certain maintenance medications at CVS retail pharmacies or through mail order.
+Those arrangements also helped direct prescription volume to CVS's stores, giving the retail pharmacy unit an important source of customers. Because the businesses shared a parent company, the financial benefits of that relationship ultimately went to CVS as a whole.
+In a note, RBC's Hendrix also raised questions about how the split could impact Aetna's Medicare Advantage quality ratings, which determine whether health plans qualify for bonus payments from the government. Retail pharmacists have played a role in engaging Aetna members, and a separation could complicate that relationship.
+But Joyner told analysts Wednesday that the synergy between the two businesses would be "preserved in commercial agreements between the two organizations," adding that "we don't need the integration of an operating structure."
+Joyner said CVS will be working on those potential agreements over the next 15 to 18 months.
+Preferred pharmacy networks are common across the industry, and separate ownership does not prevent Caremark from continuing to favor CVS pharmacies through negotiated arrangements, Cherny said. The difference is that under separate ownership, the profits from those arrangements would no longer accrue to a single company, he noted.
+“The issue is not whether the companies can continue working together in some capacity, but whether any future contractual arrangements preserve the SAME competitive advantages and flexibility as today under common ownership,” Cherny said in an afternoon note on Wednesday.
+Risks, questions remain
+Still, both businesses face challenges on their own.
+Tanquilut cautioned that some of CVS's recent retail pharmacy gains have come as Walgreens and other competitors have closed stores, raising questions about whether the growth can be sustained. The business also remains exposed to consumer pressure and competition from online pharmacies.
+Caremark, meanwhile, faces continued regulatory scrutiny and potential headwinds from changes to the federal 340B drug discount program, which requires drugmakers to offer discounted medications to eligible hospitals and other healthcare providers serving low-income and vulnerable patients.
+CVS participates in the program by providing pharmacy services to those organizations, but tweaks to manufacturer data-sharing policies and potential reimbursement changes could weigh on that business in 2027, Tanquilut said.
+Aetna, meanwhile, is still working through a multiyear plan to rebuild its margins, as it looks to improve the profitability of its Medicare Advantage business.
+Ultimately, CVS is betting that the value of letting investors assess its businesses separately will outweigh the benefits of keeping them under one roof. The split will test whether each can thrive independently.
+
+</details>
+
+
+---
+
+## New Flutter CEO bets on FanDuel promotions to win customers as profits suffer
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html
+
+正文长度：3526
+
+摘要：Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Flutter's new CEO Dan Taylor is counting on better products and more generous customer rewards to help convert FanDuel's improving engagement into stronger profits.
+Taylor's been at the helm for just five weeks and issued his first earnings report as CEO on Wednesday, with third-quarter revenue and adjusted earnings before interest, taxes, depreciation and amortization missing Wall Street's expectations.
+The company's stock is down more than 60% year to date.
+Yet Taylor says the company is now on the right track.
+"We made some changes to the product," Taylor told CNBC in an interview. "Fundamentally, the way you win this business is by delighting customers, delivering the very best experiences and delivering to them in the way that they want, with the right overall proposition."
+FanDuel also launched a nationwide rewards program in September that Taylor said has "resonated really, really well."
+The early customer numbers are improving. Average monthly players on FanDuel's U.S. sportsbook rose 9% in the third quarter, while bet counts increased 15%, Taylor said.
+Flutter's earnings release showed total U.S. average monthly players up 12%, including 24% growth in iGaming. Sportsbook handle, or the total amount wagered, rose 13%, but sportsbook revenue grew just 4% as promotional spending increased.
+Taylor said the company plans to keep investing in customer experience. He said Flutter sees room to improve its structural margins over time by changing the mix of products customers use.
+Flutter has increased its media spend to build FanDuel Predicts, its predictions platform to rival Kalshi and Polymarket, but the cost of sales as a percent of revenue is forecast to be 58% for the full-year 2026 and into 2027.
+Taylor said there's fierce industry competition for customers but even still, FanDuel trading volume has skyrocketed 271% since July.
+The FanDuel Predicts app added 140,000 new customers in October, Taylor said.
+Taylor also defended the long-term opportunity in the U.S., pointing out about half the country still does not have access to regulated sports betting and 90% lacks regulated online gaming.
+He argued that expanding legal markets is not a partisan issue because regulated betting offers consumer protections and gives tax revenue to states.
+For the third quarter, Flutter reported an adjusted loss of 18 cents per share, compared with analysts' expectations for a loss of 28 cents, according to LSEG. Revenue rose 2% to $3.87 billion, below the roughly $4 billion LSEG consensus, while adjusted EBITDA fell roughly 25% year over year to $360 million, also below expectations.
+The company posted a net loss of $1.15 billion, including an $873 million non-cash impairment tied primarily to Brazil, which banned sports betting and online gaming in September.
+Taylor said the company was disappointed by Brazil's provisional measure, but took the impairment to "set ourselves up to win long-term."
+The complications in Brazil and unfavorable sports results in the U.S. and internationally led Flutter to cut its full-year revenue midpoint by $300 million to $17.61 billion and lower its 2026 adjusted EBITDA outlook by $160 million to nearly $2.5 billion.
+In the meantime, capital returns are on hold: Taylor said Flutter needs to bring leverage back into its target range of 2 to 2.5 times over roughly the next 24 months before it can consider buybacks again. For now, he said, the priority is organic growth and paying down debt.
+— CNBC's Mallory Leonard contributed to this report.
+
+</details>
 
 
 ---
@@ -73,7 +212,7 @@
 
 链接：https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html
 
-正文长度：5171
+正文长度：5179
 
 摘要：The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.
 
@@ -82,7 +221,7 @@
 
 > CVS Health plans to split into two separate public companies by the first half 2028 in what would be one of the largest corporate breakups in history, the company announced Wednesday.
 The move would reverse the company's massive $78 billion acquisition of its insurer, Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018. The plan would specifically separate CVS' roughly 9,000 retail pharmacies from its major insurance business and pharmacy benefit manager, Caremark, one of the nation's three largest PBMs.
-The decision follows a "comprehensive strategic review" by the company's board of directors, according to a news release. Shares of CVS fell more than 12% on Wednesday.
+The decision follows a "comprehensive strategic review" by the company's board of directors, according to a news release. Shares of CVS closed more than 12% lower on Wednesday.
 It's a stunning reversal for the healthcare powerhouse, which has spent the last two decades working to turn itself into a one-stop health destination. The move also comes as CVS' aggressive turnaround plan under CEO David Joyner shows substantial progress, with the company pursuing $2 billion in cost cuts, store closures, leadership shake-ups and efforts to rein in Medicare Advantage costs.
 But Joyner told CNBC's "Squawk on the Street" on Wednesday that the decision to split is "out of a position of strength," pointing to recovery in Aetna's Medicare business and solid performance in the retail pharmacy.
 "So it's all about the strength of the business that affords us the opportunity to make what we think are the right strategic decisions for the future of this company," he later added.
@@ -148,127 +287,15 @@ Disclosure: CNBC and MS NOW are divisions of Versant Media.
 
 ---
 
-## McDonald's stock rises as earnings beat, U.S. restaurants show improvement
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html
-
-正文长度：3409
-
-摘要：McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> McDonald's on Wednesday reported mixed quarterly results as traffic to its U.S. restaurants fell, leading to a slight decline in domestic same-store sales.
-The fast-food giant reported a 0.2% decrease in sales at its U.S. restaurants that have been open at least 13 months. Even so, the segment performed better than the 0.5% decline that Wall Street anticipated, according to a survey of analysts by StreetAccount.
-"In the U.S., we're encouraged by improvement as the quarter progressed following our intervention on value," McDonald's CEO Chris Kempczinski said in a statement.
-McDonald's same-store sales returned to growth in September after falling in July and August, CFO Ian Borden said on the company's earnings conference call. However, in response to an analyst question, he clarified that he did not say that U.S. same-store sales would be better in the fourth quarter.
-Kempczinski said in August that the company's U.S. business was falling short on execution, particularly on the implementation of its value offerings. Like many restaurants, McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.
-To reverse same-store sales declines, McDonald's focused its marketing on its Extra Value Meals and restarted regional and national promotions on its mobile app, which are important to its most frequent diners.
-As McDonald's tries to regain its footing in the U.S., the chain is also testing two new value menus, one with mix and match bundles and the other with set combinations of menu items, executives said on the earnings call. The offering that resonates the most with customers and franchisees will be rolled out across the U.S. in early 2027.
-Shares of the company rose about 5% in morning trading.
-Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $3.57 adjusted vs. $3.38 expected
-- Revenue: $7.16 billion vs. $7.29 billion expected
-The company reported third-quarter net income of $2.49 billion, or $3.51 per share, up from $2.28 billion, or $3.18 per share, a year earlier.
-Excluding restructuring charges and other items, McDonald's earned $3.57 per share.
-Net revenue rose 1% to $7.16 billion.
-The company's same-store sales rose 1.5%, lifted by its international segments. That topped analysts' expectations of a 1.3% increase, according to StreetAccount.
-McDonald's international developmental licensed markets business, which includes Japan and China, reported same-store sales growth of 4.2%. Wall Street was forecasting same-store sales to rise 2.1% for the division, based on StreetAccount estimates.
-The company's international operated division, which includes top markets like Australia and Germany, saw same-store sales growth of 1.4%. Still, the business underperformed Wall Street's expectations. Analysts were projecting same-store sales would rise 2.1%, according to StreetAccount.
-"In the majority of our large international markets, we're holding or gaining share," Borden said on the company's conference call. "It's a soft consumer environment, but we're doing well."
-France was a weak spot, McDonald's said. Kempczinski said that franchisees in France recently voted on a strategy to turn the business around. In addition to a softer economy in the country, McDonald's has also seen short-term disruptions related to student protests.
-
-</details>
-
-
----
-
-## Kraft Heinz to divest its North American coffee business in $650 million deal
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html
-
-正文长度：1906
-
-摘要：Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Kraft Heinz announced Wednesday that it will divest its North American coffee unit in a deal that values the business at $650 million on an enterprise basis, as it works to refocus on its core brands.
-The deal with private equity firm One Rock Capital Partners includes brands such as Maxwell House and Gevalia and is expected to close in mid-2027, the company said in a news release. Kraft Heinz will retain a 30% noncontrolling equity stake in the business.
-Kraft Heinz said it will use the $500 million of post-tax cash proceeds from the transaction to pay down its debts as it works to prioritize resources where it can accelerate growth.
-"This transaction is a meaningful step in unlocking value from our portfolio and will further accelerate the momentum behind our transformation," Steve Cahillane, CEO of Kraft Heinz, said in the release.
-Cahillane joined the company in January and paused work on plans to split the company in two, a move that would have reversed the blockbuster $46 billion merger from a decade ago. He said the problems Kraft Heinz faced were "fixable and within our control."
-The turnaround efforts have included a $700 million investment back into the business and a sharpened focus on some of its core brands.
-Also on Wednesday, Kraft Heinz reported third-quarter earnings that beat expectations and raised its 2026 outlook. It now expects organic net sales to be down 0.5% to 1.25%, an improvement from its second-quarter report, which projected that sales could decrease as much as 2%.
-"Our 2026 operating plan to turn around the U.S. business and accelerate growth internationally is on track," Cahillane said. "Relative to last year, our market share, sales, and volume trends are improving in every region. We are increasingly meeting consumers where they are, and giving them more reasons to choose our brands."
-Shares of the company were up about 5% Wednesday morning.
-
-</details>
-
-
----
-
-## Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html
-
-正文长度：2527
-
-摘要：Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Wayfair on Wednesday said it posted its strongest quarter of sales growth since the pandemic as the furniture retailer continues to win over customers and take market share.
-The company said it saw double-digit revenue growth in the U.S., reaching about $3 billion, an 11.4% increase from the year prior. Still, international net revenue for the quarter decreased 2.3% year over year to $380 million.
-The report comes as the housing market remains sluggish. But the furniture and home goods retailer has reported consistent growth over the past year. CFO Kate Gulliver told CNBC that Wayfair's momentum is building as it takes market share.
-"We see the overall consumer in the U.S. in this category, we think it's roughly flattish, and so that's our [market] share momentum continuing to build," Gulliver said.
-She added that shopper loyalty, the opening of new stores, the company's luxury furniture business and an emphasis on value has allowed the company to win more consumers. Customers are also continuing to spend, whether at the company's value prices or on the luxury side, she added.
-"We've been highly promotional for the last few years, and the promotional activity this year is actually very consistent with last year," she said. "It maintains this sort of momentum on promotional activity this year."
-Here's how the company performed in its third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 93 cents adjusted vs. 79 cents expected
-- Revenue: $3.42 billion vs. $3.38 billion expected
-For the period ended Sept. 30, Wayfair reported net income of $62 million, or 45 cents per share, compared with a loss of $99 million, or a loss of 76 cents per share, the year prior.
-Total revenue grew 9.7% year over year, reaching $3.42 billion.
-The company said its active customers grew 4.7% year over year, reaching 22.2 million. It also saw a 12.2% increase in orders delivered during the quarter to about 11 million.
-As the company looks ahead to the holiday season and the fourth quarter, Gulliver said it's maintaining promotional activity similar to last year. She added that the company is confident that its range of prices and products will appeal to a broad base of consumers.
-"We've seen that growth play out," Gulliver said. "We've seen that flow through to EBITDA, ultimately to net income positive this quarter, which is really another key piece in the story and the momentum here, so we feel very good about the quarter of the performance."
-
-</details>
-
-
----
-
-## America’s ‘blue wave’: five takeaways from the midterm results - Financial Times
+## China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObWpjVzZQT3ZCclNwYjlTdjFfWXZIakZzSmZUTzM3UTV1eUFkLUtjb195cVlKZmlhdmJlT1EwUWdFeXJ2MGhaNll6SjR3aVZQS0RQSGpRR2sxR1lYLWxUZ1otSGNrVzhRdVlyQVkwSVRVakZad0xTZjZfclJCMXJNanRZUEY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObWpjVzZQT3ZCclNwYjlTdjFfWXZIakZzSmZUTzM3UTV1eUFkLUtjb195cVlKZmlhdmJlT1EwUWdFeXJ2MGhaNll6SjR3aVZQS0RQSGpRR2sxR1lYLWxUZ1otSGNrVzhRdVlyQVkwSVRVakZad0xTZjZfclJCMXJNanRZUEY?oc=5" target="_blank">America’s ‘blue wave’: five takeaways from the midterm results</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The party’s over for the Trumpsterz - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQclNwNHNoa01QMDBCZmhHLVRtdE85aFlZcWJ5TVpESVlzU2lQbFJuRXplUUJtNVNWN19LMGllMlU1TVJnSTdIZ2MyMjlEUzNhTFhWb2QwRDRnWTBTZVE1Uy16SVlaMVNHRDFFWlNtbU1jRk9iR053c0x2eHliR0R2OTJHaEI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQclNwNHNoa01QMDBCZmhHLVRtdE85aFlZcWJ5TVpESVlzU2lQbFJuRXplUUJtNVNWN19LMGllMlU1TVJnSTdIZ2MyMjlEUzNhTFhWb2QwRDRnWTBTZVE1Uy16SVlaMVNHRDFFWlNtbU1jRk9iR053c0x2eHliR0R2OTJHaEI?oc=5" target="_blank">The party’s over for the Trumpsterz</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5" target="_blank">China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -286,93 +313,106 @@ As the company looks ahead to the holiday season and the fourth quarter, Gullive
 
 ---
 
-## Democratic governors elected on promises to stop data centre building - Financial Times
+## Gates says Trump inaction leaves world exposed to AI bioweapons - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmlzb0xfYnNERlRJblUwS2tLS1JZdUM0X1RXS0c1S3Z3NlBQTXRONlpzYm4tZS1RaXNfdXpBbUl1Y3N1Zndaczg5S2E5VktrekVDbFFSdVlrekMyVmdITUJrLXk2bXhOQ2I1Q2oxdTdMUjJ5SEpieUJNakpfc3F5ZUx5bDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjBWWlYwdGQ4ZlRLNERJRlNHX3UxOF9QbFM3UGZJMmU1RHgwSGtXUzVGY29BVkM1V1JUOHJIaEx2Sl90eG41emdZeHZ4cm9Gczl3OGF0TUhrYks2WDBMaF9aRTFzaGRqVlRESzhqOF94dUcyNHJ2bF9yVjl3bTdaNEZDcmc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmlzb0xfYnNERlRJblUwS2tLS1JZdUM0X1RXS0c1S3Z3NlBQTXRONlpzYm4tZS1RaXNfdXpBbUl1Y3N1Zndaczg5S2E5VktrekVDbFFSdVlrekMyVmdITUJrLXk2bXhOQ2I1Q2oxdTdMUjJ5SEpieUJNakpfc3F5ZUx5bDg?oc=5" target="_blank">Democratic governors elected on promises to stop data centre building</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjBWWlYwdGQ4ZlRLNERJRlNHX3UxOF9QbFM3UGZJMmU1RHgwSGtXUzVGY29BVkM1V1JUOHJIaEx2Sl90eG41emdZeHZ4cm9Gczl3OGF0TUhrYks2WDBMaF9aRTFzaGRqVlRESzhqOF94dUcyNHJ2bF9yVjl3bTdaNEZDcmc?oc=5" target="_blank">Gates says Trump inaction leaves world exposed to AI bioweapons</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Analysis: The great humbling of Donald Trump - Financial Times
+## ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOOTdQUFVJdXNaaG9PY1JGSWNqQ050aEdybkNmMFhhU0tJZ0RYQml3ejI5dXRqQ1Z6VXNLd1I2R0RySmIwN2VMV2RWU0dtVWFTbWlFWWZhSUNXc1hlYUswQ05rNGVkN2ZRa19Pc202YWRlazBYc3hiYVV0d3dBQUZ4TUcyVUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOOTdQUFVJdXNaaG9PY1JGSWNqQ050aEdybkNmMFhhU0tJZ0RYQml3ejI5dXRqQ1Z6VXNLd1I2R0RySmIwN2VMV2RWU0dtVWFTbWlFWWZhSUNXc1hlYUswQ05rNGVkN2ZRa19Pc202YWRlazBYc3hiYVV0d3dBQUZ4TUcyVUE?oc=5" target="_blank">Analysis: The great humbling of Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5" target="_blank">‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Vance repudiates Iran war after US electoral defeat - Reuters
+## Trump diesel deal with Russia falters as US fuel supplies hit 20-year low - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtXS1hOOFg4aG9GMXVkSlFTdlgwbTFHNlhqbENldmVMZC1HQlh1ODBNeXoyOGhXUDNFVkhhS3dxQkROWVhsWXdOM3VkSTJuZVQzejRySktBQVRhZm9MY01ya0xLX1N0TGFPcDVURkFMTUhla05fOFBhZ3VtUDE0QlR5Mi0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5" target="_blank">Vance repudiates Iran war after US electoral defeat</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtXS1hOOFg4aG9GMXVkSlFTdlgwbTFHNlhqbENldmVMZC1HQlh1ODBNeXoyOGhXUDNFVkhhS3dxQkROWVhsWXdOM3VkSTJuZVQzejRySktBQVRhZm9MY01ya0xLX1N0TGFPcDVURkFMTUhla05fOFBhZ3VtUDE0QlR5Mi0?oc=5" target="_blank">Trump diesel deal with Russia falters as US fuel supplies hit 20-year low</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters
+## Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2pHcmkxeDJDM184TXNiS2xIOUdXdHNrTXcyVHFKcUNGZEgtanhxTm9TR0UxWjA5cGlXSy12RVBLT3JYYVVBVEltbXFTNWtFT09OMVBIUkFEVlZiaW1mcVhPM3JfQ2tnZm1uRnJSQlVoX1FfNTl5bmh1c1pZMUJBVlVZeVdoWnlQMURoR0g0WVZYcjU4WDloZzRxMHh3Q24zMlRSYXV3MUFZTGxEQXM3NXNuNExxUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5" target="_blank">Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2pHcmkxeDJDM184TXNiS2xIOUdXdHNrTXcyVHFKcUNGZEgtanhxTm9TR0UxWjA5cGlXSy12RVBLT3JYYVVBVEltbXFTNWtFT09OMVBIUkFEVlZiaW1mcVhPM3JfQ2tnZm1uRnJSQlVoX1FfNTl5bmh1c1pZMUJBVlVZeVdoWnlQMURoR0g0WVZYcjU4WDloZzRxMHh3Q24zMlRSYXV3MUFZTGxEQXM3NXNuNExxUQ?oc=5" target="_blank">Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Texas data centers face uncertain future after Hinojosa wins governor’s race - Reuters
+## Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQUURSU3JiR2xDMkJBZzlqbkgxbER5MjF3aVh1TXZzM2tIbkNVWTVGb3BYZmVzelhxVlRLTEVqRXBoNDBSNlQwSlh2SDJNM29jRWZGRm1mUENidEZVaDhXMFpsZWRQNVFlOHp6VGRPaU9oT3BBdFhweTN1Qk1nSkZaMDg5MkJGTTN2ZmlUYnFTYTllYjFUVlZQNllZUG54TVptcFFSVnlQbEFEbnNQdDNmNEJMbWpLT05GR0dDWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQUURSU3JiR2xDMkJBZzlqbkgxbER5MjF3aVh1TXZzM2tIbkNVWTVGb3BYZmVzelhxVlRLTEVqRXBoNDBSNlQwSlh2SDJNM29jRWZGRm1mUENidEZVaDhXMFpsZWRQNVFlOHp6VGRPaU9oT3BBdFhweTN1Qk1nSkZaMDg5MkJGTTN2ZmlUYnFTYTllYjFUVlZQNllZUG54TVptcFFSVnlQbEFEbnNQdDNmNEJMbWpLT05GR0dDWg?oc=5" target="_blank">Texas data centers face uncertain future after Hinojosa wins governor’s race</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5" target="_blank">Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Democrats' midterm sweep fuels $750 billion Big Tech rally - Reuters
+## Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzc2SlBDbW9CQmpVSmZXdzM1aW9hSGV3cnF2ZFZWTnozUHl0ejU2T3R1eG5xVmhFMG1Vb25oQTc0clFCUVhOQ1ZQaHhLWF9POElFb3cwMjVGdGt5UTFlaWgyUlAtWWIwbFlpbDFmaC1mM1Rta2g5OE1NVk0yNlA4bl9HTi1VTWdqYlc0enR0a3BMUW5MU1RPaTBiWmVVNy00SmdteVk0LVptR21iWGRyVnk2ekttazR3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzc2SlBDbW9CQmpVSmZXdzM1aW9hSGV3cnF2ZFZWTnozUHl0ejU2T3R1eG5xVmhFMG1Vb25oQTc0clFCUVhOQ1ZQaHhLWF9POElFb3cwMjVGdGt5UTFlaWgyUlAtWWIwbFlpbDFmaC1mM1Rta2g5OE1NVk0yNlA4bl9HTi1VTWdqYlc0enR0a3BMUW5MU1RPaTBiWmVVNy00SmdteVk0LVptR21iWGRyVnk2ekttazR3?oc=5" target="_blank">Democrats' midterm sweep fuels $750 billion Big Tech rally</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5" target="_blank">Oil falls for a fourth day on expectations for lower risk of Iran war escalation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Seven numbers that explain Democrats' US midterm triumph - Reuters
+## China indicts ex-Politburo member Ma Xingrui for bribery - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxOQjNiTDV1RGJXeTYtWWc2NnRMLU1kOFFvYjFtWTZ3aXJMZWh6NDJ4Z2NHbHBiZnNTMDBVY2NPdWMydGxtQlVjNzBxa3A1Z0wtRHBKSV94elZBbHNKNlFGaFVPdEVCTkI4THd3RUxlRUcydks1UmVBbnduVkN2V1B5TlZ3em1uVERjdWgydVZKSGZqSGl4MWR5b0pqalNGdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOQjNiTDV1RGJXeTYtWWc2NnRMLU1kOFFvYjFtWTZ3aXJMZWh6NDJ4Z2NHbHBiZnNTMDBVY2NPdWMydGxtQlVjNzBxa3A1Z0wtRHBKSV94elZBbHNKNlFGaFVPdEVCTkI4THd3RUxlRUcydks1UmVBbnduVkN2V1B5TlZ3em1uVERjdWgydVZKSGZqSGl4MWR5b0pqalNGdw?oc=5" target="_blank">Seven numbers that explain Democrats' US midterm triumph</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5" target="_blank">China indicts ex-Politburo member Ma Xingrui for bribery</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Taiwan sees continued US arms sale support after midterm election - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3WU4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3WU4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ?oc=5" target="_blank">Taiwan sees continued US arms sale support after midterm election</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
