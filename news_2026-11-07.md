@@ -1,68 +1,123 @@
 # 每日财经新闻
 
-更新时间：2026-11-07 05:29:21
+更新时间：2026-11-07 17:39:20
 
-## Why India’s Stock Markets Hold a Session on Diwali: Explainer
+## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer
+链接：https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：India’s stock markets will open for a special shortened session on Sunday as the country celebrates Diwali, its biggest festival, keeping alive a tradition that has survived the shift from handwritten ledgers and bustling trading floors to smartphones and algorithms.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## Former Malaysia PM Najib’s House Arrest Delayed Pending Review
+## Berkshire Hathaway Boosts Buybacks as Operating Income Slips
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/former-malaysia-pm-najib-s-house-arrest-delayed-pending-review
+链接：https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise
 
 正文长度：0
 
-摘要：Former Malaysian Prime Minister Najib Razak’s transfer from prison to house arrest has been postponed pending further review of conditions around a royal pardon, the attorney general’s office said.
+摘要：Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company’s executives viewed the stock as undervalued. But declining insurance underwriting weighed on its operating earnings in a mixed quarter for the company.
 
 
 ---
 
-## China Extends Gold-Buying Streak to Two Years as Prices Drop
+## Ken Chenault on Leadership in an Age of AI
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop
+链接：https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video
 
 正文长度：0
 
-摘要：China’s central bank added to its gold reserves in October — extending a buying streak to two years — as the precious metal fell almost 7% to end the month below the $4,000-an-ounce support threshold.
+摘要：On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chenault tells host David Gura that companies should pursue innovation while protecting safety, broadening opportunity and ensuring AI ultimately improves people's lives. (Source: Bloomberg)
 
 
 ---
 
-## Beijing Vows to Hit Back Against US Sanctions on China Companies
+## A Historic First for Women at the Metropolitan Opera
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies
+链接：https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video
 
 正文长度：0
 
-摘要：China strongly opposes US sanctions on two Chinese companies over their dealings with a third party and reserves the right to take “necessary measures” to protect its interests, China’s Ministry of Commerce said on Saturday.
+摘要：On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts David Gura and Christina Ruffini how punk helped shape her musical sensibility and why her long collaboration with librettist Royce Vavrek was essential to transforming Saunders's sprawling ghost story into an opera. (Source: Bloomberg)
 
 
 ---
 
-## How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay
+## How the Iran War Is Making Alaskans Both Richer and Poorer
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay
+链接：https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video
 
 正文长度：0
 
-摘要：Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.
+摘要：Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs. Some of the revenue is then redistributed to Alaskans through the state’s unique sovereign wealth fund. While most Americans disapprove of the war in Iran, Alaska may emerge as a quiet winner from one of the conflict’s most painful economic side effects: higher oil prices. (Source: Bloomberg)
+
+
+---
+
+## Cosm rides premium moviegoing wave with more immersive screenings and a wider library
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html
+
+正文长度：7977
+
+摘要：Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The next big thing in premium large format theatrical viewing takes inspiration from the stars.
+Cosm, an immersive entertainment technology company, got its start programming planetariums — its name a combination of "cosmos" and "colosseum." The company's massive, domed screens first offered guests a view of the universe, now they mimic courtside seats at sports venues around the world and drop film fans into some of Hollywood's most iconic sets.
+At a time when the theatrical industry is seeing its biggest growth from the sale of premium large format, or PLF, tickets, Cosm seeks to offer a fresh take on an elevated viewing experience. And it's quickly expanding both its footprint and its content library.
+Since 2024, Cosm has opened four theaters — near Los Angeles, Dallas, Atlanta and Detroit — with a Cleveland hub set to open in 2027. These experimental venues have garnered the attention of sports fans, screening live matchups in an arena-like environment. Showings often sell out, according to Cosm.
+More recently, Cosm has partnered with Hollywood studios like Warner Bros., now a part of Skydance, to bring the likes of "The Matrix," "Willy Wonka & the Chocolate Factory," "Harry Potter and the Sorcerer's Stone" and "It" to its locations. Cosm recently signed a deal with Universal, which will bring "Shrek" to its domes in December.
+The agreements mark a lucrative new chapter for the privately held Cosm, expanding its audience reach and viewing opportunities beyond timed, live events.
+As a privately held company, Cosm doesn't disclose its financials. Tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings. That doesn't include added fees for concessions or items from special, themed menus tied to screenings.
+Sony invested $100 million in the company in June, taking a minority stake and placing Sony Pictures Entertainment Chairman and CEO Ravi Ahuja onto its board of directors.
+Cosm also counts among its investors Cosm chairman Steve Winn's firm, Mirasol Capital; former Milwaukee Bucks co-owner Marc Lasry's Avenue Sports Fund; Rocket Mortgage co-founder Dan Gilbert's Rock; and David Blitzer, managing partner of the New Jersey Devils and Philadelphia 76ers, who invested through his firm Bolt Ventures.
+"Cosm is really early in its growth trajectory at the moment, and we saw an opportunity to partner with the company at, what I would say is at, a very important stage in its development," Jay Levine, chief strategy and business operations officer at Sony, told CNBC. "They have about five locations with the goal of a pretty significant rollout. And the real reason why we did it was it gave us a lot of exposure to a growing distribution and what we deem an experiential platform that we think has long-term potential."
+Sony has made several plays in the theatrical space in recent years. It bought Alamo Drafthouse in 2024 and entered a long-term lease to reopen and restore the iconic Cinerama Dome in Los Angeles in July of this year.
+"Our experiences strategy is around tech, it's around fandom, and it's around new and innovative approaches to content distribution," Levine said. "For us, we're all about these differentiated experiences."
+What sets Cosm apart
+Cosm's 87-foot-diameter, concave screens drop viewers into the middle of the action, whether it's an NFL game or inside the world of "The Matrix." The company's forthcoming Cleveland location will have an even bigger dome, at 100 feet in diameter.
+The experience is akin to that of the Sphere in Las Vegas, which has garnered headlines since opening in 2023 for hosting high-profile concerts and events.
+"People absolutely love to live out what they love in fandom, just like wearing a sports jersey," Alexis Scalice, head of Cosm Studios, told CNBC. "And I love that I'm seeing that same behavior happen with cinema."
+Stadium-style seating is nestled within each Cosm dome, with booths and tables set on each level. The dome's width is such that it fills much of the viewer's periphery, giving the sensation that they are part of the on-screen environment.
+The Los Angeles and Dallas locations have capacity for around 350 seats each, while the newer domes in Atlanta and Detroit have up to 500 available seats. Cosm has not shared how many seats the Cleveland location will have, but with its larger screen it is expected to have a larger number of seats.
+For live sports events, Cosm has specialty cameras mounted in arenas that broadcast back to the dome, creating the illusion of being on the field of play.
+For theatrical features, the film is played in a large rectangle in the center of the dome and the background is transformed to extend the scene.
+In Cosm's presentation of "Harry Potter and the Sorcerer's Stone," for example, during the iconic scene where thousands of Hogwarts acceptance letters flood through the fireplace and into a living room, the background is swarmed with animated envelopes.
+Cosm has partnered with experiential production company Little Cinema and creative studio MakeMake to create the visuals and environments for each scene of a film released in the dome. From storyboarding to post-production, this process can take up to a year as Cosm, the participating studio and the visual effects artists craft and render each moment.
+"We really work hard not to take away from the story, so the film remains the hero in the narrative," Scalice said. "Working very closely with Warner Bros. and our creative partners to make sure that we're not detracting too much from the story, but we're enhancing those moments for more elevated emotional response."
+With the exception of "It," which was released in 2017, Cosm's theatrical offerings thus far have been films that were released decades ago and that typically have long-established fan bases.
+That helps Cosm leverage what Scalice called "that nostalgia factor" — "parents coming in that ... grew up on this, and they want to share it with their children."
+"We can reinvigorate these legendary films," she added.
+Cosm has dabbled across genres — horror, fantasy, science fiction — and also demographics — family-friendly and R-rated. "Shrek," set to debut Dec. 16, will be its first foray into animation.
+"The thing that's so incredible about it is everybody thought initially it's just going to be working for sports, and when you look at what they've done, a lot of the titles with 'Harry Potter,' with 'Shrek,' and some of the other ones, I mean, the fill rates are actually incredible," Sony's Levine said.
+The future is premium
+Studios and theatrical exhibitors alike are looking for innovative ways to showcase Hollywood's product to moviegoers, especially as major shifts in viewing habits have disrupted the business.
+In the post-pandemic era, the cinema space has been defined by fewer screens and fewer moviegoers, but those declines have been masked by higher movie ticket prices, particularly for PLF experiences.
+These elevated offerings — think Imax, Dolby Cinema, ScreenX and 4DX — have bigger screens and better sound or introduce a unique experience, such as moving seats and fog machines. They're particularly popular with Gen Z and millennials, who've yet to be deterred by rising average ticket prices.
+While an average standard movie ticket costs around $13, premium tickets average more than $18 each, according to data from EntTelligence.
+Prices for Cosm's events fluctuate based on showtime and venue, but on average it's "higher than I think anybody really would have thought," Sony's Levine said.
+Unlike Cosm's sports offerings, which can also be viewed from outside the dome from its hall and deck viewing areas at a lower price, theatrical presentations are only available in the dome.
+"They have no problem selling these tickets because people want to experience these things, like an immersive format," said Mike Polydoros, CEO at cinema marketing firm PaperAirplane Media. "That is something they can't get at home."
+
+</details>
 
 
 ---
@@ -230,34 +285,6 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 
 ---
 
-## Marc Lore's Wonder confidentially files for IPO
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html
-
-正文长度：1823
-
-摘要：Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Food startup Wonder has confidentially filed for an initial public offering, the company said Thursday.
-Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place," available for delivery and takeout on its vertically integrated app.
-Originally envisioned as a new take on food delivery through sprinter vans outfitted with mobile kitchens, Wonder has grown to roughly 170 brick-and-mortar locations throughout the U.S. Its locations serve menu items from more than two dozen "restaurants" across a variety of cuisines, some with branding from celebrity chefs.
-Starting Nov. 17, the company plans to introduce more dining options through Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own restaurant business based out of a Wonder location and earn a portion of the revenue from orders.
-Wonder has spent at least $1 billion on acquisitions, such as delivery service Grubhub, meal kit brand Blue Apron and delivery and logistics provider Relay, along with some buzzy restaurant concepts. Wonder has been able to afford such expensive dealmaking thanks to more than $3 billion in venture funding.
-Wonder's Series D fundraising round earlier this year raised its pre-money valuation to $9 billion.
-With the proceeds from an IPO, Wonder will be able to make more acquisitions and work toward its goal of making food more accessible, Lore told CNBC in September.
-But as a public company, Wonder will also likely face investor scrutiny. Weak consumer sentiment has weighed on restaurant stocks recently, plus market volatility has resulted in a shaky IPO market for companies across a range of industries.
-Lore previously founded Diapers.com and Jet.com, which he sold to Amazon and Walmart, respectively.
-
-</details>
-
-
----
-
 ## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy - Financial Times
 
 来源：金融时报
@@ -271,119 +298,119 @@ Lore previously founded Diapers.com and Jet.com, which he sold to Amazon and Wal
 
 ---
 
-## Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times
+## Russia ships metal via the Arctic to evade Ukrainian strikes - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjV5NWJDbm9FZ2VFTmNEWHdHVUt5ODJwdlZOQjgzZTdJdkFwN0FzQkNsVFdENVJ3MnZybWFvTXltVVFwYVUyWVY4UjRsaFlFajdwMk9QV1gyRmx2UzFpOTlzaWpZdGRrRG1HVTY1c2lMbGJ1eURCQ2E5M1ljSWZNanViUXI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVRjcEsxZWxtb3QtUkhiNmRDdmgwZUZNQlRDQzZNWFdiYk95R3M2a1JMSGN3V1RuUkZEUzlyanBaQnJiS2Z1N2xLaVJCeHdjVm5GYmRjZDk2QVEtX1Z2SVRab1V1Q0VndWpwckVXd3ZxU2tBU05fVTl1UGhUNkR5RmQweHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjV5NWJDbm9FZ2VFTmNEWHdHVUt5ODJwdlZOQjgzZTdJdkFwN0FzQkNsVFdENVJ3MnZybWFvTXltVVFwYVUyWVY4UjRsaFlFajdwMk9QV1gyRmx2UzFpOTlzaWpZdGRrRG1HVTY1c2lMbGJ1eURCQ2E5M1ljSWZNanViUXI?oc=5" target="_blank">Anthropic to press ahead with IPO targeting $1.5tn valuation</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVRjcEsxZWxtb3QtUkhiNmRDdmgwZUZNQlRDQzZNWFdiYk95R3M2a1JMSGN3V1RuUkZEUzlyanBaQnJiS2Z1N2xLaVJCeHdjVm5GYmRjZDk2QVEtX1Z2SVRab1V1Q0VndWpwckVXd3ZxU2tBU05fVTl1UGhUNkR5RmQweHc?oc=5" target="_blank">Russia ships metal via the Arctic to evade Ukrainian strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Europe alarmed by US plans for security deal with Russia - Financial Times
+## Why does America hate AI? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEFWcy15M2JEMFUtdjh6ekNCOTFfejVET1g4Yi0ySS1JTE8xdy16T18weUNuMXFNejRob2QwdnRySkRYV193aHhmVDFNczAycnliQ3o0bGlVSXdtdDdLajc1ZWpFU21LOUxoZzBHZm0wSGJHOEt3SVdXNVpkVXZtUzNjMlg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBfbEN5WFFSOEtOQTQ5QW80a1BvUWRaQmQyYUxWU0pLa0hlTTZLd0t0SmM5aktzSk5DWjBWZm9tRmVPX0FGUk9vdWQ4aXp6UVY4eG56MTFLdWJ3ZnRJWFFYc3NvUU0tSXVaQXdxbE0xX0ZTZUp3NjVQNGNXM1Z3N2NnQk8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEFWcy15M2JEMFUtdjh6ekNCOTFfejVET1g4Yi0ySS1JTE8xdy16T18weUNuMXFNejRob2QwdnRySkRYV193aHhmVDFNczAycnliQ3o0bGlVSXdtdDdLajc1ZWpFU21LOUxoZzBHZm0wSGJHOEt3SVdXNVpkVXZtUzNjMlg?oc=5" target="_blank">Europe alarmed by US plans for security deal with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBfbEN5WFFSOEtOQTQ5QW80a1BvUWRaQmQyYUxWU0pLa0hlTTZLd0t0SmM5aktzSk5DWjBWZm9tRmVPX0FGUk9vdWQ4aXp6UVY4eG56MTFLdWJ3ZnRJWFFYc3NvUU0tSXVaQXdxbE0xX0ZTZUp3NjVQNGNXM1Z3N2NnQk8?oc=5" target="_blank">Why does America hate AI?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alas, poor Elon - Financial Times
+## Chart of the Week: Data centres rebuked - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGV5cVJLVEJhZnNZWjAtd1NYTHFER285Vkc2TEZTQnhBWkRYdTJ1X185eEhYaHM0V3g4czFvQkV3OXlQYmFmUm9fYk8xcUpvblN5VWNvV0lJc1BrdTJLV3lPRUlWazRkX2RiNC1rV2lnekRKYnc3WEdtX2JQUG1UQWY1N1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQk9qamlJdm1YTENlcUdqS3lwZnpTRXhNMmxMVENvdUl4LVZDZS1tREpocHpLY3gza1pEVGthV2QweVR5NnpubW9sNmIwV0NtNXpwd004WnNjTlB3RzN2dmdfV3FFUEVnN29DUWN4Z1B6REQtTWVudktCczhHT2k1V3Q5VUI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGV5cVJLVEJhZnNZWjAtd1NYTHFER285Vkc2TEZTQnhBWkRYdTJ1X185eEhYaHM0V3g4czFvQkV3OXlQYmFmUm9fYk8xcUpvblN5VWNvV0lJc1BrdTJLV3lPRUlWazRkX2RiNC1rV2lnekRKYnc3WEdtX2JQUG1UQWY1N1E?oc=5" target="_blank">Alas, poor Elon</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQk9qamlJdm1YTENlcUdqS3lwZnpTRXhNMmxMVENvdUl4LVZDZS1tREpocHpLY3gza1pEVGthV2QweVR5NnpubW9sNmIwV0NtNXpwd004WnNjTlB3RzN2dmdfV3FFUEVnN29DUWN4Z1B6REQtTWVudktCczhHT2k1V3Q5VUI?oc=5" target="_blank">Chart of the Week: Data centres rebuked</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Donald Trump taps immigration hardliner Stephen Miller as chief of staff - Financial Times
+## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZ4MHlwT2psR3d6M080amlJb0lWZVJScE5Jd2kxbWVldUlQLWhYSV9TTDg0TGRXTWY3czlDU3p4bVUySG5XY19VSXBXVnlmNC1QMlR5MkVzV1VIRGJkckNBbXZtS1ZSQjhpaEZJN2lnU01TT3g2WkphOTdEeWlheTNtczc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUpFTjg5RFpMX3N2ck9GaWJUMm5xbmNCX3hfMkRjSTVUN094dHlHYl9WTXlFUU5PRlRhZEJXSUpZaDU0Ql9wZVdiS0FDVHZEMDBLUWx1T1lFWkw5MFRNS2dNRlVqY3daVWxIcUFZNkl6N1c1VmFucHN5cUVyNVplRnJNVEI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZ4MHlwT2psR3d6M080amlJb0lWZVJScE5Jd2kxbWVldUlQLWhYSV9TTDg0TGRXTWY3czlDU3p4bVUySG5XY19VSXBXVnlmNC1QMlR5MkVzV1VIRGJkckNBbXZtS1ZSQjhpaEZJN2lnU01TT3g2WkphOTdEeWlheTNtczc?oc=5" target="_blank">Donald Trump taps immigration hardliner Stephen Miller as chief of staff</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUpFTjg5RFpMX3N2ck9GaWJUMm5xbmNCX3hfMkRjSTVUN094dHlHYl9WTXlFUU5PRlRhZEJXSUpZaDU0Ql9wZVdiS0FDVHZEMDBLUWx1T1lFWkw5MFRNS2dNRlVqY3daVWxIcUFZNkl6N1c1VmFucHN5cUVyNVplRnJNVEI?oc=5" target="_blank">US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Haiti PM says gang leader Mathias Saintil is dead - Reuters
+## Five killed in shooting in main square of Polish city of Krakow, police say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5" target="_blank">Haiti PM says gang leader Mathias Saintil is dead</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5" target="_blank">Five killed in shooting in main square of Polish city of Krakow, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Two missiles strike Iran's Qeshm Island, Tasnim news agency says - Reuters
+## Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5" target="_blank">Two missiles strike Iran's Qeshm Island, Tasnim news agency says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5" target="_blank">Zelenskiy criticises Ukraine's SBU security service over corruption scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Google executive Donald Harrison resigns from SpaceX board - Reuters
+## EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBQUUZob254UUQxOGhmLUd6Vm1xNThSU2RNTXVib3Rja0R3OVdMbkR4MjR0UDY4ZWRUMkZab1JaZmVaZmllSW96SkR1WmVFb1dXblU4dDg1Y05mUDlPUmlpTlI3VjBxcFpFbVIweUNhRlNxeE5ZLU93VDJzVmE4Y3c5VTByV1poaVFfRG5CUy0wNWlFeUZ6bnA3bmZhek1VOENqdWFyQ0poUzIxU016SUN3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBQUUZob254UUQxOGhmLUd6Vm1xNThSU2RNTXVib3Rja0R3OVdMbkR4MjR0UDY4ZWRUMkZab1JaZmVaZmllSW96SkR1WmVFb1dXblU4dDg1Y05mUDlPUmlpTlI3VjBxcFpFbVIweUNhRlNxeE5ZLU93VDJzVmE4Y3c5VTByV1poaVFfRG5CUy0wNWlFeUZ6bnA3bmZhek1VOENqdWFyQ0poUzIxU016SUN3?oc=5" target="_blank">Google executive Donald Harrison resigns from SpaceX board</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5" target="_blank">EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Paraguay ex-president Peña placed under house arrest after impeachment - Reuters
+## Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5" target="_blank">Paraguay ex-president Peña placed under house arrest after impeachment</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5" target="_blank">Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Paraguay Senate votes to impeach President Peña - Reuters
+## Berkshire Hathaway accelerates stock buybacks, operating profit falls - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEZGTXdqZzI2U0M5aVZQb2FnNXk0VS1tWFlfci1fd1AyYnRYOUxQSElRUkxnM0RsNl9HZWkwb2pla2FxMXBRWF9zZ2o4amgwcGZrWnZxaHpvd0VBUDlSWk9tU1NfNTdFb0t5WVF4Q0pvZFZZdkRUcmh6ZEJXMmtnb2gzYVEwVXl6dWVQZDB1UVdfd2JDSXoxMWpR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEZGTXdqZzI2U0M5aVZQb2FnNXk0VS1tWFlfci1fd1AyYnRYOUxQSElRUkxnM0RsNl9HZWkwb2pla2FxMXBRWF9zZ2o4amgwcGZrWnZxaHpvd0VBUDlSWk9tU1NfNTdFb0t5WVF4Q0pvZFZZdkRUcmh6ZEJXMmtnb2gzYVEwVXl6dWVQZDB1UVdfd2JDSXoxMWpR?oc=5" target="_blank">Paraguay Senate votes to impeach President Peña</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5" target="_blank">Berkshire Hathaway accelerates stock buybacks, operating profit falls</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
