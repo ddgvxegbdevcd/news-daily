@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-07 17:39:20
+更新时间：2026-11-08 05:29:38
 
-## Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+## China Set to Lead World in Energy Investment in 2026, CCTV Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：China is expected to invest $940 billion in energy in 2026, the most by any country, according to the Global Energy Transition Report 2026 released by the China Enterprise Reform and Development Society, China Central Television reported Sunday.
 
 
 ---
 
-## Berkshire Hathaway Boosts Buybacks as Operating Income Slips
+## China Raises Delegate Count to 2,360 for 2027 Party Congress
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise
+链接：https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress
 
 正文长度：0
 
-摘要：Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company’s executives viewed the stock as undervalued. But declining insurance underwriting weighed on its operating earnings in a mixed quarter for the company.
+摘要：China set a quota of 2,360 delegates for the Communist Party’s 21st national congress in 2027, 60 more than for the previous gathering, Xinhua News Agency reported Sunday, citing the party’s Organization Department.
 
 
 ---
 
-## Ken Chenault on Leadership in an Age of AI
+## AI Slump Revives Asia’s Forgotten Trades From China to India
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video
+链接：https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chenault tells host David Gura that companies should pursue innovation while protecting safety, broadening opportunity and ensuring AI ultimately improves people's lives. (Source: Bloomberg)
+摘要：The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.
 
 
 ---
 
-## A Historic First for Women at the Metropolitan Opera
+## Australia Home Sales Rise in Fledgling Sign of Property Recovery
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video
+链接：https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts David Gura and Christina Ruffini how punk helped shape her musical sensibility and why her long collaboration with librettist Royce Vavrek was essential to transforming Saunders's sprawling ghost story into an opera. (Source: Bloomberg)
+摘要：Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.
 
 
 ---
 
-## How the Iran War Is Making Alaskans Both Richer and Poorer
+## Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video
+链接：https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly
 
 正文长度：0
 
-摘要：Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs. Some of the revenue is then redistributed to Alaskans through the state’s unique sovereign wealth fund. While most Americans disapprove of the war in Iran, Alaska may emerge as a quiet winner from one of the conflict’s most painful economic side effects: higher oil prices. (Source: Bloomberg)
+摘要：Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.
 
 
 ---
@@ -285,6 +285,32 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 
 ---
 
+## What will a Democratic Congress mean for Ukraine? - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHI5WE9Yc2J2TEE2ZGYwSkliUGptMWQ0aTRabk5TVnh4RDEyU3BYRzIxeHEtNWZuX2xWdnBGTGJXN04tckRvRTZCX2JTU1FPYnE3UHl2NWh3cTM3MkJaTUJjeWVOQ3BYdk41YzB2dWhNNU0tcWRUeVBZVzdXM21xM2htNi0?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHI5WE9Yc2J2TEE2ZGYwSkliUGptMWQ0aTRabk5TVnh4RDEyU3BYRzIxeHEtNWZuX2xWdnBGTGJXN04tckRvRTZCX2JTU1FPYnE3UHl2NWh3cTM3MkJaTUJjeWVOQ3BYdk41YzB2dWhNNU0tcWRUeVBZVzdXM21xM2htNi0?oc=5" target="_blank">What will a Democratic Congress mean for Ukraine?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGozX3RXU2ZoREFyS0NvSUZIQzdrVHVwZVVWeE1Ya28zRDQ2bFB5bnBRUEVZLTdaVF9oeTBWLUNPZ0h1bTdGd2RiM3o2djlrUlhlZl82NmdvUVBxUllrdVpsbGxFRW9WTVp6Nl83QlpZbzhTbXdKSk12RXZIRFdNNS1icW0?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGozX3RXU2ZoREFyS0NvSUZIQzdrVHVwZVVWeE1Ya28zRDQ2bFB5bnBRUEVZLTdaVF9oeTBWLUNPZ0h1bTdGd2RiM3o2djlrUlhlZl82NmdvUVBxUllrdVpsbGxFRW9WTVp6Nl83QlpZbzhTbXdKSk12RXZIRFdNNS1icW0?oc=5" target="_blank">French far-left presidential hopeful pledges ‘revolutionary’ remaking of society</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy - Financial Times
 
 来源：金融时报
@@ -294,6 +320,19 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5" target="_blank">US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## European security agencies probe whether bomb hoaxes started in Russia - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUhaVmNMRDBDSjFwMGpZemlVSDI0amtjbWRwVWRnZTBEY1pDZ3UwTm1qX1htTjBQa3RCMTdhUzVoRnN6dmpXRUdENXpyc08yVFpwdWVzWTE0Q3hobEJ3dkp2LU9GcGpkVnBRdzFKeW84R05BSGY0bUx0S0dkbEtpTkxPZDg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUhaVmNMRDBDSjFwMGpZemlVSDI0amtjbWRwVWRnZTBEY1pDZ3UwTm1qX1htTjBQa3RCMTdhUzVoRnN6dmpXRUdENXpyc08yVFpwdWVzWTE0Q3hobEJ3dkp2LU9GcGpkVnBRdzFKeW84R05BSGY0bUx0S0dkbEtpTkxPZDg?oc=5" target="_blank">European security agencies probe whether bomb hoaxes started in Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -311,106 +350,67 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 
 ---
 
-## Why does America hate AI? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBfbEN5WFFSOEtOQTQ5QW80a1BvUWRaQmQyYUxWU0pLa0hlTTZLd0t0SmM5aktzSk5DWjBWZm9tRmVPX0FGUk9vdWQ4aXp6UVY4eG56MTFLdWJ3ZnRJWFFYc3NvUU0tSXVaQXdxbE0xX0ZTZUp3NjVQNGNXM1Z3N2NnQk8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBfbEN5WFFSOEtOQTQ5QW80a1BvUWRaQmQyYUxWU0pLa0hlTTZLd0t0SmM5aktzSk5DWjBWZm9tRmVPX0FGUk9vdWQ4aXp6UVY4eG56MTFLdWJ3ZnRJWFFYc3NvUU0tSXVaQXdxbE0xX0ZTZUp3NjVQNGNXM1Z3N2NnQk8?oc=5" target="_blank">Why does America hate AI?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Chart of the Week: Data centres rebuked - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPQk9qamlJdm1YTENlcUdqS3lwZnpTRXhNMmxMVENvdUl4LVZDZS1tREpocHpLY3gza1pEVGthV2QweVR5NnpubW9sNmIwV0NtNXpwd004WnNjTlB3RzN2dmdfV3FFUEVnN29DUWN4Z1B6REQtTWVudktCczhHT2k1V3Q5VUI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPQk9qamlJdm1YTENlcUdqS3lwZnpTRXhNMmxMVENvdUl4LVZDZS1tREpocHpLY3gza1pEVGthV2QweVR5NnpubW9sNmIwV0NtNXpwd004WnNjTlB3RzN2dmdfV3FFUEVnN29DUWN4Z1B6REQtTWVudktCczhHT2k1V3Q5VUI?oc=5" target="_blank">Chart of the Week: Data centres rebuked</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’ - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUpFTjg5RFpMX3N2ck9GaWJUMm5xbmNCX3hfMkRjSTVUN094dHlHYl9WTXlFUU5PRlRhZEJXSUpZaDU0Ql9wZVdiS0FDVHZEMDBLUWx1T1lFWkw5MFRNS2dNRlVqY3daVWxIcUFZNkl6N1c1VmFucHN5cUVyNVplRnJNVEI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUpFTjg5RFpMX3N2ck9GaWJUMm5xbmNCX3hfMkRjSTVUN094dHlHYl9WTXlFUU5PRlRhZEJXSUpZaDU0Ql9wZVdiS0FDVHZEMDBLUWx1T1lFWkw5MFRNS2dNRlVqY3daVWxIcUFZNkl6N1c1VmFucHN5cUVyNVplRnJNVEI?oc=5" target="_blank">US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Five killed in shooting in main square of Polish city of Krakow, police say - Reuters
+## Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5" target="_blank">Five killed in shooting in main square of Polish city of Krakow, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5" target="_blank">Saudi civil defence gives all-clear after alerts in Eastern Province</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters
+## US military says it disabled cargo vessel in Gulf of Oman - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5" target="_blank">Zelenskiy criticises Ukraine's SBU security service over corruption scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5" target="_blank">US military says it disabled cargo vessel in Gulf of Oman</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters
+## Justice Department joins Texas lawsuit against Planned Parenthood - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEtVRkFVbGJ5NEFvVlFIbUpIUWxuMXlDbDMzOEVNckJEd0RBZVlGYnhBa2tsOFBVdW1RMHl2ZkVIMFpRbVE2SHQ0eENDS3Q4dGFLdm5reWo2YkZwTzhpaWxQZkZ3cjdwdi1SeVFPWXlzMWgyalVXR2tpczNqNWZfbTBJQ1JiMDZ5a1gwcUMtd1lHbzJ2bkdnQWoybGRHV0dtNmRUVlBBTnA1bzl4ME1mcmJ6cHVfR2NjUkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5" target="_blank">EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEtVRkFVbGJ5NEFvVlFIbUpIUWxuMXlDbDMzOEVNckJEd0RBZVlGYnhBa2tsOFBVdW1RMHl2ZkVIMFpRbVE2SHQ0eENDS3Q4dGFLdm5reWo2YkZwTzhpaWxQZkZ3cjdwdi1SeVFPWXlzMWgyalVXR2tpczNqNWZfbTBJQ1JiMDZ5a1gwcUMtd1lHbzJ2bkdnQWoybGRHV0dtNmRUVlBBTnA1bzl4ME1mcmJ6cHVfR2NjUkE?oc=5" target="_blank">Justice Department joins Texas lawsuit against Planned Parenthood</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest - Reuters
+## Explosions heard in areas in southern Iran, Iranian media report - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5" target="_blank">Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5" target="_blank">Explosions heard in areas in southern Iran, Iranian media report</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Berkshire Hathaway accelerates stock buybacks, operating profit falls - Reuters
+## Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5" target="_blank">Berkshire Hathaway accelerates stock buybacks, operating profit falls</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5" target="_blank">Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
