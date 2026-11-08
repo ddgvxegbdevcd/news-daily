@@ -1,68 +1,159 @@
 # 每日财经新闻
 
-更新时间：2026-11-08 05:29:38
+更新时间：2026-11-08 17:48:47
 
-## China Set to Lead World in Energy Investment in 2026, CCTV Says
+## Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says
+链接：https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub
 
 正文长度：0
 
-摘要：China is expected to invest $940 billion in energy in 2026, the most by any country, according to the Global Energy Transition Report 2026 released by the China Enterprise Reform and Development Society, China Central Television reported Sunday.
+摘要：A Houthi attack damaged one of the landmarks of the Saudi Arabian capital’s financial district, upsetting plans for a return to normal about a month after deadly strikes on Riyadh’s airport disrupted travel and canceled showpiece events.
 
 
 ---
 
-## China Raises Delegate Count to 2,360 for 2027 Party Congress
+## Bookmarked: News Stories On Our Reading List
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress
+链接：https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video
 
 正文长度：0
 
-摘要：China set a quota of 2,360 delegates for the Communist Party’s 21st national congress in 2027, 60 more than for the previous gathering, Xinhua News Agency reported Sunday, citing the party’s Organization Department.
+摘要：The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
 
 
 ---
 
-## AI Slump Revives Asia’s Forgotten Trades From China to India
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india
+链接：https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.
+摘要：Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
 
 
 ---
 
-## Australia Home Sales Rise in Fledgling Sign of Property Recovery
+## Markets Brace for Washington Policy Battles
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery
+链接：https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video
 
 正文长度：0
 
-摘要：Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.
+摘要：On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, Lavorgna discusses the outlook for AI investment, inflation and markets as Washington prepares for two years of potential policy.  (Source: Bloomberg)
 
 
 ---
 
-## Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt
+## Israel’s Election Fight Shifts to Coalition Building
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video
 
 正文长度：0
 
-摘要：Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.
+摘要：On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the role of Arab parties in coalition negotiations, Netanyahu’s political future and what could happen if Eisenkot fails to assemble a majority. (Source: Bloomberg)
+
+
+---
+
+## Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html
+
+正文长度：8230
+
+摘要：Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> After disrupting the soda category with Poppi, founders Allison and Stephen Ellsworth are now taking aim at hydration with their new brand, Jetty.
+Starting Monday, Jetty drinks and ready-to-mix electrolyte packets will be on shelves at Whole Foods grocery stores and available online at Target and Amazon.
+The new, self-funded venture directly pits the Ellsworths against PepsiCo, which bought Poppi for $1.95 billion in 2025. Pepsi owns Gatorade, which dominates the U.S. sports drink category with about 60% market share, according to Numerator data.
+Poppi shook up the soda category with prebiotic fiber, low calorie and sugar counts and its fun marketing aimed at Generation Z and millennials. Jetty looks to upend the hydration category through a similar strategy. To do so, it will face off not only against Gatorade but also a swarm of other upstarts looking to get in on the electrolyte-fueled trend.
+For decades, Gatorade and other sports drinks have pitched their products to athletes who need electrolytes and fluids after an intense workout, although many consumers drink them every day without even sweating. Jetty is aimed at people who need a hydration boost, but not the same level of electrolytes or sugar as a traditional sports drink.
+"No one has really created a product for just everyday hydration — literally everyday hydration for normal people," Allison Ellsworth, Jetty's chief brand officer, told CNBC. "Like I woke up this morning, I didn't run a marathon."
+The GLP-1 hydration dilemma
+Following Poppi's sale to PepsiCo, Ellsworth stayed on as an advisor to the brand, although she said she is no longer involved in the day-to-day operations.
+After 10 years building Poppi, Ellsworth said, she finally had free time. As Ellsworth tells it, she went to the doctor for the first time in a decade. She started using a GLP-1 medication and lost 60 pounds.
+That's how Jetty came to be.
+Ellsworth's husband, Stephen, now CEO of the new brand, noticed she wasn't hydrating, even when she came back from the gym.
+GLP-1 medications such as Ozempic and Mounjaro can make people less thirsty. But because staying hydrated can also help mitigate some of the drugs' side effects, such as nausea and headaches, it can become more important.
+"I physically struggle getting liquid into my body," Ellsworth said.
+Jetty is meant to solve that problem.
+Plain old water is often less appealing to consumers, even dehydrated GLP-1 users, but more flavorful options with added benefits can be tempting. About 44% of GLP-1 users report consuming more functional beverages, according to EY-Parthenon's third annual survey of more than 3,600 current or former GLP-1 users.
+Ellsworth sees a broader appeal for Jetty, too.
+"Our core audience is going to be millennial moms and Gen Z," she said. "Gen Z just isn't relating to these old school brands, the legacy of the Gatorades and the Powerades. They're just not cool."
+Electrolyte elevation
+Consumers broadly have become more interested in staying hydrated.
+Dollar sales of hydration and electrolyte products climbed 20% to $2.6 billion over the 52 weeks ended Oct. 4, based on data from SPINS, which tracks new universal product codes, or UPCs. The category also has a strong repeat buyer rate of 62%.
+However, the Ellsworths aren't the only ones to notice the potential in hydration. The number of new items in the category with annual sales of at least $10,000 has increased 41% over the last two years, according to SPINS.
+Big food and beverage companies have been looking to hydration, too.
+Kraft Heinz debuted Capri Sun juice pouches and Kool-Aid packets with electrolytes this spring. In April, Pepsi unveiled an overhaul of the Gatorade brand, focused on making it more appealing to a wider swath of consumers, with more potential occasions like a "fresh morning start" or an "afternoon walk." And Electrolit is a top performer for its distributor Keurig Dr Pepper, with 40% retail sales growth in the company's third quarter.
+All of that means more competition for shelf space and consumers' "share of throat," an industry term for beverage market share.
+To increase Jetty's visibility across the grocery store and to maximize convenience for shoppers, Jetty will be available in both powders and bottles.
+Single-use electrolyte mixes are growing at a much faster clip than the ready-to-drink category, Ellsworth said, thanks to Unilever's Liquid I.V. and smaller upstarts like LMNT. On Amazon alone, powders are a $1 billion category, according to Ellsworth.
+The ready-to-drink, or RTD, sports beverages are a much larger market, but the category's sales are shrinking as consumers reach for other hydration options instead. Unit sales of sports drinks have fallen 9.1% from 2022 to 2026, according to Numerator data. And Coca-Cola has written down the value of BodyArmor by more than $1.7 billion after buying control of the brand for $5.6 billion in late 2021.
+That doesn't worry Jetty's founders.
+"Me and my husband know how to do RTD," Ellsworth said.
+Jetty will launch with five flavors, including watermelon, orange mango, fruit punch, black raspberry and white cherry. All of them contain 100 milligrams of sodium, 310 milligrams of potassium and 100 milligrams of magnesium in a 15.2-ounce bottle or 15-gram packet.
+In addition to electrolytes, Jetty products also contain B vitamins, 3 grams of fiber and 6 grams of sugar. It doesn't use artificial sweeteners or dyes, its founders say.
+For comparison, a 20-ounce bottle of traditional Gatorade Thirst Quencher has about 270 milligrams of sodium and 80 milligrams of potassium, plus 34 grams of sugar. The sports drink brand is also phasing out artificial colors and promoting lower-sugar versions.
+"What's really interesting about this product and this opportunity is we now can capture all those lapsed drinkers — or that generation that didn't even ever drink it in the first place," Ellsworth said.
+Jetty vs. Gatorade
+Poppi's new owner knows about Jetty and the market it is trying to capture, too.
+"I don't think [Pepsi] gets it, but what they do get is that the movement is changing, and they think that just by taking dyes out or doing 90% less sugar, they're going to capture this audience," Ellsworth said. "But that is very big corporate thinking."
+She added that she believes Pepsi has missed the mark on advertising to Gen Z consumers across its portfolio, such as in its campaigns for Sprite competitor Starry.
+Perhaps as an extension of that, Poppi's performance has been underwhelming under PepsiCo's ownership.
+The food and beverage giant now estimates the fair value of potential performance-based payments to Poppi's prior owners is $12 million, Pepsi said in a regulatory filing in October. At the time of the deal, Pepsi promised an additional payment of $300 million if Poppi hit certain targets by the third quarter of 2027. The Ellsworths declined to comment on the filing to CNBC.
+This time around, with one successful brand under their belts, Jetty's founders say they have learned from past mistakes. Those lessons should help Jetty as it launches at a much larger scale than Poppi did.
+Three different claims lawyers have signed off on Jetty's packaging, according to Ellsworth. Poppi paid $8.9 million to settle class-action litigation alleging false advertising over its "gut healthy" claims.
+For now, Jetty is entirely self-funded with $2.5 million, although Ellsworth said that the brand will likely raise money in 2027. This time, though, she said investors will probably look less like traditional venture capitalists.
+"I want to bring in investors that bring value," Ellsworth said. Instead of a venture capitalist who is willing to invest $15 million, Jetty would rather consider investors who can only write a check for $1 million but have access to celebrities. "So then you're getting access to talent on a cheaper level and people that are invested in the brand."
+And Jetty has also learned a few lessons from Gatorade. For example, the brand is already at work on a lemon-lime version — the original flavor of Gatorade.
+"We'll eventually do it," Ellsworth said. "But it was really important at the beginning just to stick to flavors that we love, for it to taste good."
+
+</details>
+
+
+---
+
+## Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html
+
+正文长度：1551
+
+摘要：Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Airline ticket prices have surged this year, especially for travel over the holidays. Don't expect many bargains if you're booking flights with miles, either.
+Tickets bought with frequent flyer miles for flights between large U.S. airports over the Thanksgiving travel period will cost 32% more than last year's holiday, according to data from Seats.aero, a miles and points redemption search site. While fares have skyrocketed this year, airline executives last month said demand remains strong.
+Airlines have largely gotten rid of static mileage redemption charts in favor of dynamic pricing, making budgeting for an award ticket more difficult. Dynamic pricing means redemption costs change depending on demand, routes and other factors.
+Many of the most expensive routes this Thanksgiving are understandably longer, including from Hawaii, but the list also includes a nonstop from New York to Houston.
+Here's how mileage redemptions for the holiday are stacking up, based on one-way flights on average as of early November and compared with last year:
+Jet fuel prices have surged since the U.S. and Israel attacked Iran on Feb. 28, which has eaten into airline profits. Carriers have sought to pass costs along to consumers as much as possible.
+Even some of the cheapest routes for award tickets are more expensive than last year, including for short routes like Tulsa, Oklahoma, to Dallas Fort Worth International Airport.
+Here are the routes where award trips are cheapest on average and how they compare with the Thanksgiving holiday last year:
+
+</details>
 
 
 ---
@@ -217,70 +308,15 @@ He added that larger retail companies will also have to reckon with rising costs
 
 ---
 
-## Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says
+## Anthropic strikes $3.4bn deal to generate gas-fired power for data centres - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhoaHlMZk8tNWhZWlFEczhOc1FpNnZjcnlZTF9MUDJrVG5mb2NvUkdzZlBldmx2YkhEMkQtdVRuaXpWYkhTcDd2N3VLWlFvLW81S0ttcWxKTUlkdXBOMWRNZUIzS0o4ZVM1Y1dpbUIxRG4waXdxRVlncjJiVTM2TGtTZ0g?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：3023
+正文长度：0
 
-摘要：The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Tesla CEO Elon Musk on Friday said the electric vehicle maker will "be winding down" production of the Cybertruck at its Texas gigafactory around the middle of next year.
-Musk, who hailed the Cybertruck as the future of the pickup truck segment, said in a post on X early Friday morning that the end of production at the massive facility would make room for manufacturing of its Cybercab robotaxi.
-The Cybertruck is exclusively produced at the company's plant in Texas alongside the Tesla Model Y and two-seat Cybercab, which Musk has touted as a crucial product for the automaker moving forward.
-Musk did not say whether the company would produce the Cybertruck at a different facility, but he later responded to a user on X who called the update an "end of an era" and said the Cybertruck was the "best vehicle Tesla has ever made."
-"True, but the Cybertruck fleet will be around for a long time," Musk said.
-Tesla began Cybertruck deliveries in late 2023. The company did not immediately respond to a request for comment from CNBC.
-The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales, despite Musk's pre-launch prediction that annual sales would eventually total 250,000.
-"Trucks have been the same for a very long time," Musk said when the truck was unveiled in 2019. "Like 100 years. Trucks have been basically the same. We want to try something different."
-While Tesla does not break out its sales by model or region, Cox Automotive estimated sales of the Cybertruck last year at 20,237 units in the U.S., down 48% from 38,965 in 2024.
-One big buyer of the Cybertruck last year was Musk's aerospace and tech conglomerate, SpaceX, which spent $131 million buying up the angular steel trucks at Tesla's suggested retail price, according to a SpaceX financial filing.
-The distinct look of the vehicle made some owners a target of rude gestures and more serious road rage, one owner told CNBC last May, after Musk became the biggest funder of Donald Trump's presidential campaign and led the so-called Department of Government Efficiency, an effort to slash the federal workforce and regulations.
-Wired wrote in an October 2025 feature story, "There is likely no object that feels more emblematic of US president Donald Trump's return to the White House than the Tesla Cybertruck." The magazine interviewed owners who described being spit on and sworn at due to their choice of vehicle.
-The Cybertruck's specifications also fell short of those Tesla advertised early on, and in some cases fell short of those offered by leading fuel-burning pickups. There have also been many quality and production problems associated with the vehicles.
-The 2024 Tesla Cybertruck was the subject of 11 voluntary recalls, according to the National Highway Traffic Safety Administration website. Issues ranged from a "trapped" acceleration pedal risk that could cause unintended acceleration, to software defects and an inverter fault that could result in sudden loss of drive power.
-
-</details>
-
-
----
-
-## Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html
-
-正文长度：2973
-
-摘要：The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Moderna on Friday smashed third-quarter revenue and earnings estimates and hiked its outlook for full-year sales growth, as some of its newer products gain momentum and Covid vaccine revenue outperforms.
-Shares of Moderna rose roughly 3% in premarket trading on Friday.
-The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.
-"The new product and the diversification of geography is what has led to such a strong Q3," Moderna CEO Stéphane Bancel said in an interview ahead of the results.
-For example, he said the company is seeing the "full-year impact" of its next-generation mRNA Covid vaccine, which won U.S. approval in May 2025. Bancel noted that Covid is a seasonal business and vaccine contracts are typically established in the first quarter, so Moderna's shot only had a "small launch" to start with last year.
-Moderna's new stand-alone flu shot, which was approved in the U.S. in August, will similarly have a "limited launch" in the country in 2026 given the timing, he said.
-In a separate interview on CNBC's "Squawk Box," Bancel said Moderna's geographic expansion in Canada, the U.K. and Asia helped boost results. The company's work to lower costs also resulted in a profit in the quarter, he added.
-"It's the sales that are stronger and the costs that are also lower," Bancel said.
-Here's what Moderna reported for the third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 38 cents per share vs. an expected loss of $1.25
-- Revenue: $1.31 billion vs. $885.1 million expected
-Moderna's third-quarter revenue jumped 29% to $1.31 billion, boosted by higher Covid vaccine sales in international markets and helped by deliveries under long-term government partnerships. Revenue was $780 million in the U.S. and $533 million in international markets.
-The company posted a net income of $162 million, or 38 cents per share, for the third quarter. That compares with a net loss of $200 million, or a loss of 51 cents per share, reported for the year-ago period.
-The results come weeks after Moderna and Merck unveiled promising late-stage data on their experimental personalized cancer vaccine in combination with immunotherapy Keytruda in certain melanoma patients. Despite the positive results, investors battered Moderna's stock after part of the data was leaked on social media just days before trial investigators were set to present it at a European medical conference.
-Bancel called it a "surprising reaction," but said that the companies also saw a positive response from others on Wall Street, including long-term investors and analysts who examined the full data in depth. He added that the doctors in the field "were so impressed with the data," and many expressed that they hope to use it in their day-to-day practice.
-Moderna's stock has skyrocketed more than 700% this year, largely on optimism about the potential for the shot.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhoaHlMZk8tNWhZWlFEczhOc1FpNnZjcnlZTF9MUDJrVG5mb2NvUkdzZlBldmx2YkhEMkQtdVRuaXpWYkhTcDd2N3VLWlFvLW81S0ttcWxKTUlkdXBOMWRNZUIzS0o4ZVM1Y1dpbUIxRG4waXdxRVlncjJiVTM2TGtTZ0g?oc=5" target="_blank">Anthropic strikes $3.4bn deal to generate gas-fired power for data centres</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -298,15 +334,15 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 
 ---
 
-## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society - Financial Times
+## AI is coming for managers’ headcount - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGozX3RXU2ZoREFyS0NvSUZIQzdrVHVwZVVWeE1Ya28zRDQ2bFB5bnBRUEVZLTdaVF9oeTBWLUNPZ0h1bTdGd2RiM3o2djlrUlhlZl82NmdvUVBxUllrdVpsbGxFRW9WTVp6Nl83QlpZbzhTbXdKSk12RXZIRFdNNS1icW0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlF5Y0M0RG80eUtkc01tb1lLd1cyVUxncWxRYjZmZkUtV2VsYW1Nc204ZzFzZU9EaE5JRzBWdnZrQXBxSGZ5cC1wZVdrdThZYlQzQjNILWNOdktVa0dBRnRSN0xWVmFwMTZpVFp6Xzd1X1VGMThPdmVXOHRSZ3VBbkRZRFA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGozX3RXU2ZoREFyS0NvSUZIQzdrVHVwZVVWeE1Ya28zRDQ2bFB5bnBRUEVZLTdaVF9oeTBWLUNPZ0h1bTdGd2RiM3o2djlrUlhlZl82NmdvUVBxUllrdVpsbGxFRW9WTVp6Nl83QlpZbzhTbXdKSk12RXZIRFdNNS1icW0?oc=5" target="_blank">French far-left presidential hopeful pledges ‘revolutionary’ remaking of society</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlF5Y0M0RG80eUtkc01tb1lLd1cyVUxncWxRYjZmZkUtV2VsYW1Nc204ZzFzZU9EaE5JRzBWdnZrQXBxSGZ5cC1wZVdrdThZYlQzQjNILWNOdktVa0dBRnRSN0xWVmFwMTZpVFp6Xzd1X1VGMThPdmVXOHRSZ3VBbkRZRFA?oc=5" target="_blank">AI is coming for managers’ headcount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -324,93 +360,80 @@ Moderna's stock has skyrocketed more than 700% this year, largely on optimism ab
 
 ---
 
-## European security agencies probe whether bomb hoaxes started in Russia - Financial Times
+## ‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUhaVmNMRDBDSjFwMGpZemlVSDI0amtjbWRwVWRnZTBEY1pDZ3UwTm1qX1htTjBQa3RCMTdhUzVoRnN6dmpXRUdENXpyc08yVFpwdWVzWTE0Q3hobEJ3dkp2LU9GcGpkVnBRdzFKeW84R05BSGY0bUx0S0dkbEtpTkxPZDg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS096ZlFvRlNKMDNUZWc4V3dMaHJUVDF6VklsclFTbzR2T2hIZkpBZzgwTmh4NzZ1ZnhaeGJTN01xeTJOYnhRX01YdDl6LVh0SWxCYXRSS1AyX25pRHlzWUJ2U0xaTG1XYS11R0VUdU02amdsaW1NQXNHMEVjV2hVZ3JDRWY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUhaVmNMRDBDSjFwMGpZemlVSDI0amtjbWRwVWRnZTBEY1pDZ3UwTm1qX1htTjBQa3RCMTdhUzVoRnN6dmpXRUdENXpyc08yVFpwdWVzWTE0Q3hobEJ3dkp2LU9GcGpkVnBRdzFKeW84R05BSGY0bUx0S0dkbEtpTkxPZDg?oc=5" target="_blank">European security agencies probe whether bomb hoaxes started in Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS096ZlFvRlNKMDNUZWc4V3dMaHJUVDF6VklsclFTbzR2T2hIZkpBZzgwTmh4NzZ1ZnhaeGJTN01xeTJOYnhRX01YdDl6LVh0SWxCYXRSS1AyX25pRHlzWUJ2U0xaTG1XYS11R0VUdU02amdsaW1NQXNHMEVjV2hVZ3JDRWY?oc=5" target="_blank">‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russia ships metal via the Arctic to evade Ukrainian strikes - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVRjcEsxZWxtb3QtUkhiNmRDdmgwZUZNQlRDQzZNWFdiYk95R3M2a1JMSGN3V1RuUkZEUzlyanBaQnJiS2Z1N2xLaVJCeHdjVm5GYmRjZDk2QVEtX1Z2SVRab1V1Q0VndWpwckVXd3ZxU2tBU05fVTl1UGhUNkR5RmQweHc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVRjcEsxZWxtb3QtUkhiNmRDdmgwZUZNQlRDQzZNWFdiYk95R3M2a1JMSGN3V1RuUkZEUzlyanBaQnJiS2Z1N2xLaVJCeHdjVm5GYmRjZDk2QVEtX1Z2SVRab1V1Q0VndWpwckVXd3ZxU2tBU05fVTl1UGhUNkR5RmQweHc?oc=5" target="_blank">Russia ships metal via the Arctic to evade Ukrainian strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters
+## Democrats eye Musk, Miller probes after midterm rout - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5" target="_blank">Saudi civil defence gives all-clear after alerts in Eastern Province</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5" target="_blank">Democrats eye Musk, Miller probes after midterm rout</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US military says it disabled cargo vessel in Gulf of Oman - Reuters
+## Iran suggests blasts are not US attacks as both sides report ships hit - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5" target="_blank">US military says it disabled cargo vessel in Gulf of Oman</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5" target="_blank">Iran suggests blasts are not US attacks as both sides report ships hit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Justice Department joins Texas lawsuit against Planned Parenthood - Reuters
+## Train collision in Egypt’s Giza province kills 4 and injures 88, health ministry says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEtVRkFVbGJ5NEFvVlFIbUpIUWxuMXlDbDMzOEVNckJEd0RBZVlGYnhBa2tsOFBVdW1RMHl2ZkVIMFpRbVE2SHQ0eENDS3Q4dGFLdm5reWo2YkZwTzhpaWxQZkZ3cjdwdi1SeVFPWXlzMWgyalVXR2tpczNqNWZfbTBJQ1JiMDZ5a1gwcUMtd1lHbzJ2bkdnQWoybGRHV0dtNmRUVlBBTnA1bzl4ME1mcmJ6cHVfR2NjUkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEtVRkFVbGJ5NEFvVlFIbUpIUWxuMXlDbDMzOEVNckJEd0RBZVlGYnhBa2tsOFBVdW1RMHl2ZkVIMFpRbVE2SHQ0eENDS3Q4dGFLdm5reWo2YkZwTzhpaWxQZkZ3cjdwdi1SeVFPWXlzMWgyalVXR2tpczNqNWZfbTBJQ1JiMDZ5a1gwcUMtd1lHbzJ2bkdnQWoybGRHV0dtNmRUVlBBTnA1bzl4ME1mcmJ6cHVfR2NjUkE?oc=5" target="_blank">Justice Department joins Texas lawsuit against Planned Parenthood</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5" target="_blank">Train collision in Egypt’s Giza province kills 4 and injures 88, health ministry says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Explosions heard in areas in southern Iran, Iranian media report - Reuters
+## Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5" target="_blank">Explosions heard in areas in southern Iran, Iranian media report</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5" target="_blank">Anthropic secures $3.4 billion generator deal for AI data centers, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters
+## Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5" target="_blank">Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5" target="_blank">Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
