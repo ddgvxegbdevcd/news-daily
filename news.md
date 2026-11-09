@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-08 17:48:47
+更新时间：2026-11-09 05:40:24
 
-## Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub
+## Latest Oil Market News and Analysis for Nov. 9
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub
+链接：https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9
 
 正文长度：0
 
-摘要：A Houthi attack damaged one of the landmarks of the Saudi Arabian capital’s financial district, upsetting plans for a return to normal about a month after deadly strikes on Riyadh’s airport disrupted travel and canceled showpiece events.
+摘要：Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.
 
 
 ---
 
-## Bookmarked: News Stories On Our Reading List
+## Asian Stocks Rally on Tech Rebound, Taiwan Surges: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video
+链接：https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
+摘要：Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Treasuries fell.
 
 
 ---
 
-## By The Way: Headlines You May Have Missed
+## China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video
+链接：https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate
 
 正文长度：0
 
-摘要：Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
+摘要：China will suspend an additional 24% tariff on US goods for another two months, formalizing a decision by the two countries’ leaders to prolong their trade truce until next January.
 
 
 ---
 
-## Markets Brace for Washington Policy Battles
+## China Starts Marketing Green Bonds For Debut Sales in Canada
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video
+链接：https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, Lavorgna discusses the outlook for AI investment, inflation and markets as Washington prepares for two years of potential policy.  (Source: Bloomberg)
+摘要：China is marketing green bonds in Canada for the first time, expanding its offshore debt footprint to finance sustainable projects as ties between the two nations warm.
 
 
 ---
 
-## Israel’s Election Fight Shifts to Coalition Building
+## Soybeans Rise as US Presses China to Boost Farm Goods Purchases
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video
+链接：https://www.bloomberg.com/news/articles/2026-11-09/soybeans-rise-as-us-presses-china-to-boost-farm-goods-purchases
 
 正文长度：0
 
-摘要：On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the role of Arab parties in coalition negotiations, Netanyahu’s political future and what could happen if Eisenkot fails to assemble a majority. (Source: Bloomberg)
+摘要：Soybean futures rose the most in more than two weeks as the Trump administration pressed China to follow through on pledges to buy US farm products.
 
 
 ---
@@ -308,6 +308,58 @@ He added that larger retail companies will also have to reckon with rising costs
 
 ---
 
+## FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTZtaXlSVk5oLVJLM1QtLTRwUG9KMVlVNHBXT2lsT1htSzJqbENqeWhsN0wyZklTSFBQc1ZCcFZ1S3JwUjJYbV91Tm04VWRtRTdheHF3U3J5N1hPM3BBczhNMlNCdTh6WVFmZ1I1U1EtYUVpNFFGNlVLdzhFem9ZWlBvbjg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTZtaXlSVk5oLVJLM1QtLTRwUG9KMVlVNHBXT2lsT1htSzJqbENqeWhsN0wyZklTSFBQc1ZCcFZ1S3JwUjJYbV91Tm04VWRtRTdheHF3U3J5N1hPM3BBczhNMlNCdTh6WVFmZ1I1U1EtYUVpNFFGNlVLdzhFem9ZWlBvbjg?oc=5" target="_blank">FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1hVaUg5SUpMcFFNMDBfVzRYcmhXQzlNNW5vb2ExZU5XN09PeThPc2dtQlBrSW5NejdDZWpOXzFVdXRLVERrWEdoa0l0RDBJUHdQZUJCbTBmeHhOamZHc1ZUZUt1SUhFYmRMaWs0OHdPYWVtY0lWeS00M1MtMFQzWjNTS3E?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1hVaUg5SUpMcFFNMDBfVzRYcmhXQzlNNW5vb2ExZU5XN09PeThPc2dtQlBrSW5NejdDZWpOXzFVdXRLVERrWEdoa0l0RDBJUHdQZUJCbTBmeHhOamZHc1ZUZUt1SUhFYmRMaWs0OHdPYWVtY0lWeS00M1MtMFQzWjNTS3E?oc=5" target="_blank">Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXoxVTBWcERFUkRIM1BOTW5SdVhnZUEyQjMxSzNmYktmQkYyMmFCR1ZyNGhkdHBtc3R3YXR0UExLVXdCbEtYMTdvNE0zX3pDWTZGYjAxSzd6dGJobzdXbEMydVVlUS11VkJhVlVLSEF4Q0Q2V0dTSy1PMS05OW5pOXVHcnM?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXoxVTBWcERFUkRIM1BOTW5SdVhnZUEyQjMxSzNmYktmQkYyMmFCR1ZyNGhkdHBtc3R3YXR0UExLVXdCbEtYMTdvNE0zX3pDWTZGYjAxSzd6dGJobzdXbEMydVVlUS11VkJhVlVLSEF4Q0Q2V0dTSy1PMS05OW5pOXVHcnM?oc=5" target="_blank">Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Trump says he was ‘too tough’ on immigrants as he floats amnesty deal - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXZka0lpTzYwTVFBZ3plcU9HVnNKSlZzOE1LalBxbHFtc3h4UzRwZmFjQnBna0E5a3dnUlZlSlBWaTNSTGFrSE1xYWdMd3IwVHg0VHVCUnhvcVFnYmJmNE40OVZVUHF6Y0RWZWFzcjVsRURhQWJveWNid3hVQU9YYUlIdW8?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXZka0lpTzYwTVFBZ3plcU9HVnNKSlZzOE1LalBxbHFtc3h4UzRwZmFjQnBna0E5a3dnUlZlSlBWaTNSTGFrSE1xYWdMd3IwVHg0VHVCUnhvcVFnYmJmNE40OVZVUHF6Y0RWZWFzcjVsRURhQWJveWNid3hVQU9YYUlIdW8?oc=5" target="_blank">Trump says he was ‘too tough’ on immigrants as he floats amnesty deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Anthropic strikes $3.4bn deal to generate gas-fired power for data centres - Financial Times
 
 来源：金融时报
@@ -321,119 +373,67 @@ He added that larger retail companies will also have to reckon with rising costs
 
 ---
 
-## What will a Democratic Congress mean for Ukraine? - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHI5WE9Yc2J2TEE2ZGYwSkliUGptMWQ0aTRabk5TVnh4RDEyU3BYRzIxeHEtNWZuX2xWdnBGTGJXN04tckRvRTZCX2JTU1FPYnE3UHl2NWh3cTM3MkJaTUJjeWVOQ3BYdk41YzB2dWhNNU0tcWRUeVBZVzdXM21xM2htNi0?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHI5WE9Yc2J2TEE2ZGYwSkliUGptMWQ0aTRabk5TVnh4RDEyU3BYRzIxeHEtNWZuX2xWdnBGTGJXN04tckRvRTZCX2JTU1FPYnE3UHl2NWh3cTM3MkJaTUJjeWVOQ3BYdk41YzB2dWhNNU0tcWRUeVBZVzdXM21xM2htNi0?oc=5" target="_blank">What will a Democratic Congress mean for Ukraine?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## AI is coming for managers’ headcount - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlF5Y0M0RG80eUtkc01tb1lLd1cyVUxncWxRYjZmZkUtV2VsYW1Nc204ZzFzZU9EaE5JRzBWdnZrQXBxSGZ5cC1wZVdrdThZYlQzQjNILWNOdktVa0dBRnRSN0xWVmFwMTZpVFp6Xzd1X1VGMThPdmVXOHRSZ3VBbkRZRFA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlF5Y0M0RG80eUtkc01tb1lLd1cyVUxncWxRYjZmZkUtV2VsYW1Nc204ZzFzZU9EaE5JRzBWdnZrQXBxSGZ5cC1wZVdrdThZYlQzQjNILWNOdktVa0dBRnRSN0xWVmFwMTZpVFp6Xzd1X1VGMThPdmVXOHRSZ3VBbkRZRFA?oc=5" target="_blank">AI is coming for managers’ headcount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5" target="_blank">US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## ‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNS096ZlFvRlNKMDNUZWc4V3dMaHJUVDF6VklsclFTbzR2T2hIZkpBZzgwTmh4NzZ1ZnhaeGJTN01xeTJOYnhRX01YdDl6LVh0SWxCYXRSS1AyX25pRHlzWUJ2U0xaTG1XYS11R0VUdU02amdsaW1NQXNHMEVjV2hVZ3JDRWY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNS096ZlFvRlNKMDNUZWc4V3dMaHJUVDF6VklsclFTbzR2T2hIZkpBZzgwTmh4NzZ1ZnhaeGJTN01xeTJOYnhRX01YdDl6LVh0SWxCYXRSS1AyX25pRHlzWUJ2U0xaTG1XYS11R0VUdU02amdsaW1NQXNHMEVjV2hVZ3JDRWY?oc=5" target="_blank">‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Democrats eye Musk, Miller probes after midterm rout - Reuters
+## EXCLUSIVE: Hasina seeks new passport in clearest sign of Bangladesh return - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5" target="_blank">Democrats eye Musk, Miller probes after midterm rout</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5" target="_blank">EXCLUSIVE: Hasina seeks new passport in clearest sign of Bangladesh return</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iran suggests blasts are not US attacks as both sides report ships hit - Reuters
+## North China building fire kills 14 - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTVrbGRoRzEzTE1mN0o3Ni05R3BCWGNXR29DcHpEbjFhaVdwQVBLMHEyeTZYVXptOGRpODByM0FSZkp5Rm8yWkhwSWpOaVJSdkRIS04tMER5NGg5NWxCd3FLb1JNb3I2M3RCYzdHYUxuZjBiZXNaZGt5N0Z1YlJobTZ3TFd6SzlNTG9Ydkt2Q2tmeHR0bkl6WkRVcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5" target="_blank">Iran suggests blasts are not US attacks as both sides report ships hit</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTVrbGRoRzEzTE1mN0o3Ni05R3BCWGNXR29DcHpEbjFhaVdwQVBLMHEyeTZYVXptOGRpODByM0FSZkp5Rm8yWkhwSWpOaVJSdkRIS04tMER5NGg5NWxCd3FLb1JNb3I2M3RCYzdHYUxuZjBiZXNaZGt5N0Z1YlJobTZ3TFd6SzlNTG9Ydkt2Q2tmeHR0bkl6WkRVcw?oc=5" target="_blank">North China building fire kills 14</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Train collision in Egypt’s Giza province kills 4 and injures 88, health ministry says - Reuters
+## Nvidia falls about 3% in after-hours and perpetual futures trade - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5" target="_blank">Train collision in Egypt’s Giza province kills 4 and injures 88, health ministry says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5" target="_blank">Nvidia falls about 3% in after-hours and perpetual futures trade</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - Reuters
+## Gold rises over 1% as softer oil prices ease inflation worries - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5" target="_blank">Anthropic secures $3.4 billion generator deal for AI data centers, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5" target="_blank">Gold rises over 1% as softer oil prices ease inflation worries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters
+## Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5" target="_blank">Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5" target="_blank">Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
