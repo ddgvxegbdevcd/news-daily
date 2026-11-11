@@ -1,68 +1,178 @@
 # 每日财经新闻
 
-更新时间：2026-11-11 05:38:11
+更新时间：2026-11-11 19:26:14
 
-## Japan Government Bond Yields Jump, Tracking Treasury Selloff
+## H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff
+链接：https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors
 
 正文长度：0
 
-摘要：Japanese government bonds fell on Wednesday, tracking an overnight selloff in Treasuries after hotter-than-expected US inflation fueled bets that the Federal Reserve may need to raise interest rates more aggressively.
+摘要：H&amp;R Real Estate Investment Trust’s C$6.7 billion ($4.7 billion) breakup is facing a growing shareholder revolt, with some of the world’s biggest pension funds lining up against a deal that would hand a chunk of the Canadian landlord’s properties to the family of its chief executive officer.
 
 
 ---
 
-## Korea Fines Bond Dealers Record $1.2 Billion Over Collusion
+## Voters Asking For 'Bold Action' From Democrats, Says Deluzio
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion
+链接：https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video
 
 正文长度：0
 
-摘要：South Korea’s antitrust regulator imposed a record 1.63 trillion won ($1.2 billion) fine on more than a dozen domestic banks and brokerages for colluding in sovereign bond auctions, exposing a yearslong practice that the watchdog said undermined competition and raised the government’s borrowing costs.
+摘要：Democratic Representative Chris Deluzio, who’s on the House Armed Services Committee, said the failed impeachment effort of Pete Hegseth 'shouldn't be the end of the oversight' over the defense secretary. Deluzio, who represents Pennsylvania's 17th District, said that holding the Trump administration accountable is just one part of the 'bold action' voters are asking for when Democrats take control of Congress in the new year.  (Source: Bloomberg)
 
 
 ---
 
-## Chinese Lithium Giant Says Price Swings Have Turned More Extreme
+## Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme
+链接：https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts
 
 正文长度：0
 
-摘要：Lithium prices are getting harder to predict after a rollercoaster ride this year, according to Ganfeng Lithium Group Co., one of China’s top producers of the battery metal.
+摘要：The nuclear power boom is prompting CME Group Inc. to move ahead with a new futures contract backed by physical supplies of uranium, a key fuel source.
 
 
 ---
 
-## Drone Attack Sparks Fire at Russia’s Ust-Luga Port, Injures 3
+## Wall St Races for Megadeals as Countdown Begins on Trump Era
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/drone-attack-sparks-fire-at-russia-s-ust-luga-port-injures-3
+链接：https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video
 
 正文长度：0
 
-摘要：A drone attack sparked a fire in the port area of Ust-Luga, one of Russia’s biggest Baltic oil export hubs, and injured three workers, Leningrad region Governor Alexander Drozdenko said Wednesday.
+摘要：Bloomberg’s Ryan Gould joins Dani Burger on “Bloomberg Deals.” President Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock. (Source: Bloomberg)
 
 
 ---
 
-## Indonesia to Cut 300 More Tightly Held Stocks From Benchmark
+## US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list
+链接：https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Indonesia’s bourse more than quadrupled the number of stocks found with high shareholder concentration, as it sought to resolve MSCI Inc.’s complaints about illiquidity and opaque ownership.
+摘要：A rally in tech giants lifted stocks on bets the artificial-intelligence trade that has powered the bull market has more room to run.
+
+
+---
+
+## American Airlines brings fresh food back to NY-Chicago first class for first time since 2019
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html
+
+正文长度：986
+
+摘要：American Airlines' first class food options include sandwiches, fruit and chia bowls
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> American Airlines said Wednesday it's bringing small, fresh "bites" to first class on flights between its hubs in New York and Chicago, the carrier's latest effort to win over higher-spending customers.
+The changes start this month. Customers will be able to pick between two options, which include prosciutto and melon or apple cinnamon chia pudding for breakfast and a Thai noodle salad or mezze plate for lunch and dinner, American said Wednesday.
+American last offered fresh food for first class on these routes in 2019, a spokeswoman said. Currently, customers in first class on these flights get a smaller, packaged snack. Airlines largely have limited food options for shorter flights, even in first class.
+American has fallen behind Delta Air Lines and United Airlines in profits and investments in premium options. The airline has been working to step up those premium offerings in recent years with new cabins, lounges and plans for seatback screens on its narrow-body fleets.
+
+</details>
+
+
+---
+
+## JetBlue unveils new first class seats to bring back profits
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html
+
+正文长度：3356
+
+摘要：JetBlue will give reporters a look at its new first class seats on Wednesday.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JetBlue Airways is unveiling its new domestic first-class seats Wednesday as more of the country's carriers bet on the premium travel boom to make them profitable again.
+JetBlue announced it would offer a domestic first class — BlueFirst — in December 2024 and plans to start flying aircraft with the new seats and full on-board product next month. The carrier is showing off the new cabin at its home hub at John F. Kennedy International Airport on Wednesday. Retrofits will continue during 2027, CEO Joanna Geraghty told CNBC late last month.
+The rollout comes as the New York airline tries to stabilize after last posting a profit in 2019. Last month, JetBlue executives sought to calm investors after shares in the airline hit a record low following a report that bondholders had contracted restructuring advisors.
+"We have no intention, no plans to file for bankruptcy. We are not engaged with any restructuring company," Geraghty told CNBC in an interview on Oct. 27.
+Geraghty told CNBC's Phil LeBeau on Wednesday that JetBlue has "met with a few of the creditors over the last couple of weeks as part of ... normal investor engagement." She said the company made it clear to bondholders that JetBlue doesn't need to reorganize.
+The airline's shares are up more than 40% this month, more than other passenger carriers, as of midday Wednesday, though they are still off about 11% so far this year.
+JetBlue is betting that resilient travel demand, especially for for roomier seats will help fuel its turnaround plan, which aims to get the carrier to an operating profit next year and $1 in adjusted earnings per share in 2028.
+Airline executives have said they expect fares to stay elevated next year as they grapple with higher costs, including but not limited to fuel, such as labor and airport fees. Geraghty said Wednesday that even if fuel prices moderate next year, "I don't think fares are going to fall as much as people expect."
+Airlines large and small are racing to outfit their cabins with roomier, more expensive seating options to help cover ever-higher costs, from jet fuel to labor to airport operation fees.
+For example, a ticket in the new recliner first-class seats between Kennedy Airport and Fort Lauderdale-Hollywood International Airport in Florida is going for $847 roundtrip in the first week of March while standard economy is $446.
+On Tuesday, budget carrier Frontier Airlines unveiled its new first class seats, which will take up the first two rows, and said it would outfit its Airbus fleet with premium seating that have extra legroom and in-seat power through row eight. The airline will take out a row of seating on its planes to make the pricier ones fit, chief marketing officer Bobby Schroeter told CNBC in an interview Monday.
+JetBlue last month reported it ended the third quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
+JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing.
+Geraghty told CNBC last month there is a "fundamental disconnect between the narrative in the bond market and what our financial results actually demonstrate."
+When asked then whether JetBlue's eye on keeping costs down includes furloughs, layoffs or buyouts, Geraghty last month said "absolutely not."
+
+</details>
+
+
+---
+
+## Measles is surging in the U.S. — and outbreaks can cost millions
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html
+
+正文长度：8195
+
+摘要：A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Measles outbreaks aren't just a public health threat. They can also be a financial burden on the U.S. — and the cost could only deepen as the once-eliminated disease spreads more widely.
+The U.S. is expected to lose its official measles elimination status following a review by the Pan American Health Organization this week, after cases ratcheted to recent highs this year.
+More than 5,100 measles cases have been reported nationwide in 2026 as of early November, marking the country's worst outbreak in more than three decades. Eight deaths associated with the disease have been confirmed by states so far in 2026: six in Pennsylvania, one in New York and one in Wisconsin.
+Based on this year's case count, a new tool developed by researchers at Johns Hopkins University estimates an economic cost of nearly $83 million for the outbreaks. That total includes $56 million in public health response costs, almost $25 million in lost productivity and more than $1.8 million in direct medical expenses.
+The tool also estimates that 2025 measles outbreaks in the U.S. — which involved 2,289 confirmed cases nationwide – carried an economic cost of more than $37 million.
+The costs extend beyond treating people who become sick, accounting for the resources health departments spend investigating and containing outbreaks, as well as wages lost when people have to miss work. The tool uses more recent, state-specific cost and financing data than an initial study by the researchers, which relied on historical outbreak costs.
+The estimates from the tool are not a definitive accounting of what the outbreaks actually cost. But it illustrates the hefty bill tied to the spread of a disease that can be prevented through vaccination, and the potential economic consequences of falling childhood immunization rates. CNBC previously reported on how the return of measles in the U.S. exposes weaknesses in the nation's public health system that raise concerns about the return of other eliminated diseases.
+"We're starting to see a whole bunch of people who decided not to get vaccinated as kids or have never gotten exposed to measles because they benefited from herd immunity, who now make it into adulthood and risk potentially getting quite seriously ill and requiring very significant medical expenses, or dying at the hospital," Bryan Patenaude, a health economist at the International Vaccine Access Center at the Johns Hopkins Bloomberg School of Public Health, who helped develop the tool, said in an interview.
+The costs of containing measles
+Measles outbreaks can trigger a costly public health response, even when many people who are exposed never become sick.
+When a case is identified, public health officials must investigate the infection, identify and notify people who may have been exposed, coordinate with hospitals and schools, and sometimes organize vaccination campaigns to prevent further spread. Those efforts can divert staff and resources from other public health priorities.
+Costs could differ heavily depending on the state.
+Johns Hopkins' data includes national averages alongside state-specific inputs, including inpatient hospital costs and wages from government data or trusted health policy sources. In New York, for example, the average inpatient hospital stay is roughly $4,200 a day, while the minimum wage is $16 per hour.
+The tool estimates that the 48 cases reported by New York in 2025 carried an estimated $1.1 million in costs, including nearly $749,000 in public health responses, $333,000 in productivity losses and roughly $24,500 in direct medical expenses.
+Meanwhile, the 803 cases in Texas, the epicenter of the largest U.S. measles outbreak in 2025, carried estimated costs of nearly $13 million, according to the tool. That includes $9 million in public health costs, $4 million in productivity losses and around $288,000 in direct medical expenses.
+The tool builds on a study published by Patenaude and other researchers in August, which examined the costs of measles outbreaks in the U.S. The researchers reviewed published studies and government reports to compile historical estimates of medical expenses and public health response costs across 18 states.
+The paper estimated that outbreaks carried a historical average cost of nearly $59,000 per case, just from the public health response. The researchers also estimated how costs scale with outbreak size, separating fixed up-front response expenses from the additional costs associated with each new case.
+"A lot of this is incurred up front, and that's because of the human labor that's involved in contact tracing and all of the different actors that sort of need to be mobilized to deal with the fact that there's an outbreak," Patenaude told CNBC. "It's a largely labor-driven cost."
+That model estimated roughly $298,000 in fixed costs and about $16,300 for each additional case. But it relied on historical data, including a particularly large 2019 outbreak in New York City, where contact-tracing labor costs were high. The researchers also excluded productivity losses from that model because most of the historical studies they reviewed did not consistently account for them.
+The costs of lost productivity
+The economic burden of measles extends beyond the costs of treating infected patients and organizing a public health response.
+People who are exposed to measles may have to quarantine, even if they never develop symptoms. Parents can also be forced to miss work to care for sick or exposed children, while workers who contract the disease may lose wages during their recovery.
+A 2025 study by Joey Mattingly, a pharmacist and health economist at the University of Utah, used published epidemiological and cost data to model the potential economic burden of a hypothetical 1,500-case outbreak. His analysis included direct medical expenses, public health spending and lost productivity, and examined how the estimates changed under different assumptions, including hospitalization rates.
+The study estimated that the hypothetical outbreak could cost about $90 million, including roughly $26 million in productivity losses.
+The economic ripple effects of a case
+Those indirect costs can add up quickly because measles is highly contagious and a single infected person can expose dozens of others. Those contacts may need to quarantine or miss work while health officials determine whether they have been infected, creating costs even when they never develop the disease.
+Mattingly estimated that each person who is quarantined could amount to roughly $300 in lost productivity alone.
+If a single measles case exposes 40 to 50 people who then need to quarantine, that could translate into an estimated $12,000 to $15,000 in lost productivity, even if none of those contacts become sick.
+That ripple effect is one reason Mattingly argues that the economic costs of outbreaks can quickly outweigh the investment required to vaccinate people against measles.
+"Even if you don't get the infection, the contact costs you," he said. "And so it's just showing that there's this multiplication or exponential growth on the economic side that happens."
+The financial burden can also fall unevenly across communities. While the costs of responding to an outbreak may be shared among local, state and federal agencies, Mattingly said the impact is often felt directly by local health departments.
+"It's not like your health department is sitting around waiting for measles outbreaks," he said. "They're working, doing all these other things, and imagine having to just drop what you're doing because there's been a huge outbreak in the community."
+Patenaude said the findings could help state and local health departments better anticipate the resources needed to contain outbreaks — particularly as measles cases continue to rise.
+"It's not super expensive to treat and deal with a single case of measles compared to a single case of cancer," he said. "But if you have these outbreaks popping up and you're having to constantly divert resources that could be spent elsewhere by state and local health departments on measles, then you're going to wind up spending a lot of money very quickly."
+
+</details>
 
 
 ---
@@ -157,258 +267,132 @@ Rivian's stock is currently rated overweight with a $17.70 target price, accordi
 
 ---
 
-## How GM is trying to talk used car shoppers into buying new vehicles
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html
-
-正文长度：7002
-
-摘要：Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Affordability challenges are pushing some buyers out of the new vehicle market. Many are choosing used cars instead.
-In turn, automakers are looking for ways to compete with many of the online retailers grabbing market share in the used car market and trying to bring some of those customers back into a new vehicle.
-New vehicle sales tend to be more profitable for automakers, but reselling trade-ins as used vehicles is highly profitable for dealers. Used car prices are relatively strong, but newer online retailers such as Carvana and CarMax have made the market more competitive for dealers and other incumbent used car sellers.
-"The internet and technology and apps on our phone have changed every aspect of retail, and probably one of the slowest areas of retail to have adopted to online and digital shopping has been the auto industry," said Ivan Feinseth, partner, chief investment officer and director of research at Tigress Financial Partners.
-GM's revamp
-General Motors is a key example of automakers' attempts to address this shifting market. The automaker has revamped its certified used vehicle program, which now operates under the CarBravo name. It's essentially an online portal through which Chevrolet, Buick and GMC dealers can list their certified used vehicles and make them available to customers all over the U.S.
-About 1,615 of GM's 3,700 dealers are enrolled in the program, according to the company. The only GM brand not involved is Cadillac, which maintains its own program.
-"Certified" used or "preowned" vehicles are used cars that have undergone a thorough inspection and reconditioning. They typically come with guarantees and warranties from the manufacturer.
-Many automakers have certified used programs for their own cars. But GM, as part of its revamp, is using CarBravo to certify vehicles made by other automakers. A lot of those cars arrive at dealerships as trade-ins, and often dealers will sell them to wholesale auctions, said John Fitzpatrick, senior manager of the CarBravo program.
-"Wholesaling doesn't bring nearly the revenue that selling it to a new customer does," he said.
-GM has said it is planning to net about 250,000 sales in its CarBravo program in 2026. Fitzpatrick said he doesn't expect that even half of those will end up being new car sales.
-But through CarBravo, the customer gets access to GM's dealership network for service, something Fitzpatrick says is a key differentiator between its program and growing online sellers. CarBravo vehicles come with various warranties, depending on the age and mileage on the car.
-GM said the program is driving more traffic into local dealerships, where purchases are typically finalized. That creates an opportunity to convert a used car shopper into a new car buyer. So far, the automaker said about 38% of the shoppers initially looking for used cars end up buying new.
-A customer who wants to buy a full-size truck can look on the website and compare used Chevrolet Silverados alongside used Ford F-150s and Ram 1500s, for example. The buyer might settle on a used truck from any of those brands, but a conversation with a dealer can push them in a different direction.
-"The customer picks up the phone, but in the back of their mind, they maybe always have been a traditional, more new car customer," Fitzpatrick said.
-"You've shown the customer, you're going to pay $500 [per month] for this used F-150, but you may pay $510 or $515 for this new Chevy," he said. "And now all of a sudden the customer says, yeah, maybe I can do that because I'd rather have that new vehicle than the used truck."
-While the average transaction price of a new vehicle is about $50,000, the average 3-year-old used car costs about $30,000 as of September, according to Cox Automotive.
-However, industry analysts say customers base their purchasing decisions on the cost of the monthly payment more than on the sticker price of the car.
-New cars often come with longer-term loan options than used ones, Feinseth said, which can result in lower monthly payments.
-"On a 1- or 2-year-old car, you may be only stuck with a 3- or 4-year loan," he said. "On a new car, you can get a 5-year, 6-year loan."
-The share of new car loans lasting 84 months hit a new record in the third quarter, at more than 1 in 4 loans, according to Edmunds.
-Meanwhile, used car prices in some affordable segments have risen, according to Cox Automotive, and about three quarters of consumers express some interest in certified cars.
-But the key is building the relationship with the customer, he said. About 50% of the buyers GM has gained through the program appear to be new to the brand, meaning there is no record of them in any of the automaker's customer databases. About 70% had never visited the dealership they ended up purchasing from.
-"The goal is really to get that customer engaged with the store, give them the option of building a relationship with the dealer," he said. "The dealer can really help the customer figure out what works for their budget."
-It's a boon for dealers too: Customers buying warranty-backed used cars often return to the dealership for service visits — which often account for about half of a dealership's profits. GM can also sell subscriptions to connected vehicle services, such as its OnStar, which provides safety, security and navigation services.
-"That is a big part of General Motors' business going forward, is to sell the software and subscription services like OnStar and eventually to the cars that are enabled with Super Cruise," GM's advanced driver-assistance system, Feinseth said.
-GM's competition
-GM isn't the only automaker trying to use its certified preowned vehicle program to lure buyers.
-Detroit rival Ford Motor also certifies vehicles made by other manufacturers through its Ford Blue Advantage program. It is on track to do 450,000 total sales in 2026, more than GM's 250,000 target. It didn't specify how many of those buyers end up purchasing new vehicles.
-Toyota told CNBC in an email that about 40% of its used car shoppers end up buying new instead.
-Honda didn't give specifics about its program. But Lance Woelfer, American Honda's vice president of automobile sales, said conversions happen "probably every day at dealerships throughout the country."
-"But it also is more about that first interaction with the consumer," Woelfer said. "And there are people in any market that prefer to buy a used vehicle, but appreciate the confidence that a [certified preowned designation] can give them."
-Woelfer said those customers come back to get their vehicles serviced at a rate about 18% higher than someone who buys a non-certified used car. They also return to purchase a new car at a rate about 7% to 8% higher in the future, he said.
-"It's about that first relationship that allows us to then have that customer loyalty for life," he added. "And that's where our focus is. We've been doing it a long time, and we've seen a lot of benefits from the certified business."
-
-</details>
-
-
----
-
-## Skydance outlines its $6 billion in planned cost savings. Here's the breakdown
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html
-
-正文长度：4155
-
-摘要：The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Skydance is pulling back the curtain on how it plans to achieve at least $6 billion in cost savings in the next three years.
-"By combining two global streaming services, two film and TV studio groups, two television portfolios, and overlapping corporate functions, we can reduce duplicative spend across an expense base of more than $50 billion," the company wrote in a letter to shareholders Monday as part of Paramount Skydance's third-quarter earnings release.
-Skydance, the company formed by the combination of Paramount Skydance and Warner Bros. Discovery, said it projects at least $2.2 billion in cost reductions from eliminating "redundant back-office and corporate functions," including eliminating management layers and ramping the use of artificial intelligence. Those savings also account for "rationalizing" its office footprint.
-Skydance expects at least $1 billion in savings from streamlining marketing and promotional spending. And around $1.4 billion in savings will come from unifying its streaming businesses and broadcast architecture and integrating back-end technology.
-A final $1.4 billion in savings will be tied to "optimizing third-party spend," eliminating overlapping expenses, and consolidating purchasing decisions to one centralized group, Skydance said.
-"We are confident in achieving these savings, drawing on our playbook from Paramount," the company wrote. "That program is on track to achieve over $2.7 billion in run-rate efficiencies by the end of 2026."
-Some of that cost-cutting has already begun.
-Last month, Skydance began offering voluntary buyouts to employees ahead of official layoffs. At the same time, the company adopted a five-day-per-week in-office policy. Additionally, last week saw the departure of eight executives — four from Warner Bros. and four from Paramount.
-The company has previously said it plans to eventually merge the Paramount+ and HBO Max streaming services into a single platform.
-On Monday, Skydance said it would take the first step toward that goal early next year, offering a bundle of the streaming services "at an even greater value."
-Co-CEO Ynon Kreiz told investors during the company's earnings call that Skydance is also looking for ways to optimize its content budget. The company spends more than $30 billion annually on shows and films.
-"As one company, we can make smarter choices about how we distribute and monetize both new content and library content," Kreiz said.
-Skydance noted that it's expecting a $200 million headwind in the fourth quarter from theatrical underperformances at Warner Bros. studio related to already launched titles and upcoming releases.
-The company will also utilize AI to speed up production and decrease costs to make films, co-CEO and chairman David Ellison said on the call.
-"We think these tools will help unlock more original storytelling by being able to make the budget more digestible to be able to take that amount of risk," Ellison said.
-The updates came alongside third-quarter results for the legacy Paramount Skydance company that included revenue of $7.03 billion, which was roughly in line with StreetAccount estimates of $7.04 billion, and adjusted earnings before interest, taxes, depreciation and amortization of $1 billion, topping StreetAccount estimates of $913.5 million.
-However, adjusted earnings per share of 45 cents were not immediately comparable to StreetAccount EPS estimates.
-The results don't include the impact of the Warner Bros. Discovery acquisition, which closed after the end of the third quarter.
-Skydance detailed business units of the combined entity, including studios, direct-to-consumer and TV, and said it will provide full-year guidance during its fourth-quarter earnings report early next year.
-"Going forward, we will provide guidance on an annual basis, as we prioritize long-term value creation, which we believe will be more consistent with our strategic approach," the company told shareholders. "We will continue to provide quarterly updates, including certain forward-looking commentary where applicable, which will give investors visibility into our near-term progress of the business."
-
-</details>
-
-
----
-
-## Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html
-
-正文长度：2743
-
-摘要：The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Lucid Group missed Wall Street's third-quarter expectations as the embattled electric vehicle maker continues an "operational reset" aimed at cutting costs and narrowing losses.
-The company on Monday also announced a $1.75 billion increase in a delayed draw term loan from Saudi Arabia's Public Investment Fund, the company's largest shareholder.
-Lucid stock fell roughly 5% in aftermarket trading Monday.
-Here's how Lucid performed in the third quarter compared with average estimates compiled by LSEG:
-- Loss per share: $2.74 vs. a loss of $2.28 expected
-- Revenue: $350 million vs. $407 million expected
-Despite the top- and bottom-line misses, the company's adjusted earnings before interest, taxes, depreciation and amortization of a loss of $726 million beat Wall Street's expectations of a loss of $611 million for the third quarter. Its net loss for the quarter was $830.9 million, down from a loss of $978.4 million a year earlier.
-Lucid's 2025 third quarter included revenue of $336.6 million, a loss of $3.31 per share and an adjusted EBITDA loss of $717.7 million.
-The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan that included implementing several cost-cutting efforts and delaying the company's upcoming midsize vehicle from the end of this year until the second half of next.
-"Our transformation is beginning to show progress. We are acting with urgency, strengthening the fundamentals and driving greater discipline, while continuing to invest in the priorities to deliver profitable long-term growth," Napoli said in a release.
-The company's turnaround plan includes $1.4 billion in cash flow improvements this year as well as focusing attention on a robotaxi program with Uber and Nuro, a factory that's under construction in Saudi Arabia and the midsize vehicle.
-Lucid said the capital from PIF is expected to give the company "additional financial flexibility as Lucid delivers on its turnaround program." It is expected to assist in funding "operations and key investments" into the fourth quarter of 2027, including the start of production for the midsize vehicle.
-The additional funds boost Lucid's total liquidity to $3.75 billion, up from $2 billion to end the third quarter.
-"We are grateful for the continued financial support from our anchor shareholder, which further energizes us to remain focused on execution and on our commitments as we build a stronger, sustainable Lucid," Napoli said.
-Lucid said Monday that the company expects to communicate its midterm plan and targets early next year. The EV maker in May suspended its guidance and many targets, citing new leadership and time needed to develop a turnaround plan.
-
-</details>
-
-
----
-
-## Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times
+## US tech stocks surge as AI trade revives - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c?oc=5" target="_blank">Anthropic bankers prepare to increase IPO valuation to $1.5tn or more</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5" target="_blank">US tech stocks surge as AI trade revives</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe - Financial Times
+## Inside Ken Griffin’s $5bn Miami takeover - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2VFamlVYlV5ejRiejhEdjkzSmt0cXN0TWxMbFJrUm0xdlZ0RHgwY3NkbE44eDBfX0dfU3ExT3lZWTB3QUljbDRMSXAwQy1oRzJUbTc4b1RBX2pTSDZVeExOajdHMEFQQzZTbU5tR3NLMzRfRTdaeVNyU3F2aF9lRDRVbEc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTElVWGVuTWwxMnFMZnFuaVhrM083OVNvcVdJM3NRWGk0c0lGUWhmTGw3RF84WHV4bTdaRVk3ZGVhcVZZMnN0MnlUU242bUhPWUFEZ184MDZQVkZtWjFnbThBVUdud1VQZFJkZERmWjFDQ1BNUGRIRVVEUVp2akFUXzlvSlA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2VFamlVYlV5ejRiejhEdjkzSmt0cXN0TWxMbFJrUm0xdlZ0RHgwY3NkbE44eDBfX0dfU3ExT3lZWTB3QUljbDRMSXAwQy1oRzJUbTc4b1RBX2pTSDZVeExOajdHMEFQQzZTbU5tR3NLMzRfRTdaeVNyU3F2aF9lRDRVbEc?oc=5" target="_blank">Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTElVWGVuTWwxMnFMZnFuaVhrM083OVNvcVdJM3NRWGk0c0lGUWhmTGw3RF84WHV4bTdaRVk3ZGVhcVZZMnN0MnlUU242bUhPWUFEZ184MDZQVkZtWjFnbThBVUdud1VQZFJkZERmWjFDQ1BNUGRIRVVEUVp2akFUXzlvSlA?oc=5" target="_blank">Inside Ken Griffin’s $5bn Miami takeover</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alice Huang’s tangled web of connections - Financial Times
+## Nato should take the ‘offensive’ against Russia, says Sedwill - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVk43WnVwbC1WMi04SVJVWGlDSE5wblZ4ZkhrQl9OWjQxS0FUUmJuVTVRaU9QdkNTenFWSlk1blU5c2FjVTBqQkNsZUZ3bWFtUnF3d0hfUkU3OUJ4Q3RGUW1LZ0VGRzByekw0OTJfblNHRmlhZmNYbXZXdG5pbnlyOTZocXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpGUVVHdmVLcHlGQUtsR0JBSUIyN1Y2Wk9sVklrZk1HbUtyYm5veDRWZl9jRE5KenltVk1MQkI2MzZrU3FVemNFRzAyakw1YWVYY0FDT3RISHBaUHl4TERZRC01a2tvY0ZjeGh2czRtOFA2VlNJei1xMTBLZlRPdzB4amo?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVk43WnVwbC1WMi04SVJVWGlDSE5wblZ4ZkhrQl9OWjQxS0FUUmJuVTVRaU9QdkNTenFWSlk1blU5c2FjVTBqQkNsZUZ3bWFtUnF3d0hfUkU3OUJ4Q3RGUW1LZ0VGRzByekw0OTJfblNHRmlhZmNYbXZXdG5pbnlyOTZocXM?oc=5" target="_blank">Alice Huang’s tangled web of connections</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpGUVVHdmVLcHlGQUtsR0JBSUIyN1Y2Wk9sVklrZk1HbUtyYm5veDRWZl9jRE5KenltVk1MQkI2MzZrU3FVemNFRzAyakw1YWVYY0FDT3RISHBaUHl4TERZRC01a2tvY0ZjeGh2czRtOFA2VlNJei1xMTBLZlRPdzB4amo?oc=5" target="_blank">Nato should take the ‘offensive’ against Russia, says Sedwill</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US commerce department delays Megaspeed’s inclusion on trade blacklist - Financial Times
+## France pressures Germany over nuclear risks of long-range missiles - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWZvaF9xZkdvWGtpaE5fQnVaMEhob0E1Um9BeGVuRUpfVTB6Ymt3aE5jM0E3VGw1UUFSSUpWc2M1QUlIeW9zUzBnVlFLdUx6Q3djNXdHNkRkeUZTS0JvTkpHY0lxSlJKeERBXzFubjRia3JZMzc5TUl6MFpuc1QwY2M1QUs?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWZvaF9xZkdvWGtpaE5fQnVaMEhob0E1Um9BeGVuRUpfVTB6Ymt3aE5jM0E3VGw1UUFSSUpWc2M1QUlIeW9zUzBnVlFLdUx6Q3djNXdHNkRkeUZTS0JvTkpHY0lxSlJKeERBXzFubjRia3JZMzc5TUl6MFpuc1QwY2M1QUs?oc=5" target="_blank">US commerce department delays Megaspeed’s inclusion on trade blacklist</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5" target="_blank">France pressures Germany over nuclear risks of long-range missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Moderna chasing ‘holy grail’ of cancer prevention - Financial Times
+## Single-stock perps look like pointiest horn of a bull market - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPY21iQTBwT3RDZFg4dE1lRkszNHVOVTA2SEd6bWdjNjRSQVJhUWRkY19TblByWHREN1RhQWJqRTJuaUlnOGV5RzJUMHVGOHd2azQyZ1BIdVg5SVU1VUJ2RDMwNWdxZ0lMR0NuX3JNQWRzeFpYS3lQTnpzRVNPTkRzZkh2dTE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2RFZlBNQmRBbjhOZURrMmlGczJLVkc3U0VMWEZxekRiYnREVlc2Q1NiM0xKSGdQOWpFaXNqa3I2X05nTlpJT1BqMUM2cV9ObHpYOXZqR1ZzVTd2Vnh3bGw4NVJEbjJBNXZydlFHSTc1OG0zWnFTZWVwZThVWjZtQnkxbmE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPY21iQTBwT3RDZFg4dE1lRkszNHVOVTA2SEd6bWdjNjRSQVJhUWRkY19TblByWHREN1RhQWJqRTJuaUlnOGV5RzJUMHVGOHd2azQyZ1BIdVg5SVU1VUJ2RDMwNWdxZ0lMR0NuX3JNQWRzeFpYS3lQTnpzRVNPTkRzZkh2dTE?oc=5" target="_blank">Moderna chasing ‘holy grail’ of cancer prevention</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2RFZlBNQmRBbjhOZURrMmlGczJLVkc3U0VMWEZxekRiYnREVlc2Q1NiM0xKSGdQOWpFaXNqa3I2X05nTlpJT1BqMUM2cV9ObHpYOXZqR1ZzVTd2Vnh3bGw4NVJEbjJBNXZydlFHSTc1OG0zWnFTZWVwZThVWjZtQnkxbmE?oc=5" target="_blank">Single-stock perps look like pointiest horn of a bull market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Gold rebounds after sharp selloff though Fed hike bets weigh - Reuters
+## Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal? - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5" target="_blank">Gold rebounds after sharp selloff though Fed hike bets weigh</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5" target="_blank">Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal?</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce - Reuters
+## Portugal cancels 200-plus flights, shuts schools as Storm Charles hits - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5" target="_blank">Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5" target="_blank">Portugal cancels 200-plus flights, shuts schools as Storm Charles hits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bonds reel as hot inflation fuels jumbo Fed hike fears - Reuters
+## EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5" target="_blank">Bonds reel as hot inflation fuels jumbo Fed hike fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5" target="_blank">EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Indian stocks hit eight-month high as foreign investors return - Reuters
+## Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5" target="_blank">Indian stocks hit eight-month high as foreign investors return</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5" target="_blank">Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US Treasury chief Bessent moved to military base after Iranian threats, sources say - Reuters
+## House Democrats to investigate Trump's handling of US spy agencies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUNVNU1hM0FCTTEzVFpmRkdybXBBblNRdjJZa1Fzbkl5TGppMDFtT1BaTUdpZU8xVm94RkQxTUZsaXRnWWpxSmlHaS1lc0xxSnpVWW0yMzhtVE5vNzRNSTB5OHhzZzdodXM3U09EMU5GQi1CejRaaGV3ajU4WC1EcndSckM2cjMyaXdDbXJUc3F1OGF4SkJvbFdGRENmcFVTeGdfQkxoQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5" target="_blank">US Treasury chief Bessent moved to military base after Iranian threats, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUNVNU1hM0FCTTEzVFpmRkdybXBBblNRdjJZa1Fzbkl5TGppMDFtT1BaTUdpZU8xVm94RkQxTUZsaXRnWWpxSmlHaS1lc0xxSnpVWW0yMzhtVE5vNzRNSTB5OHhzZzdodXM3U09EMU5GQi1CejRaaGV3ajU4WC1EcndSckM2cjMyaXdDbXJUc3F1OGF4SkJvbFdGRENmcFVTeGdfQkxoQQ?oc=5" target="_blank">House Democrats to investigate Trump's handling of US spy agencies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
