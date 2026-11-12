@@ -1,21 +1,8 @@
 # 每日财经新闻
 
-更新时间：2026-11-12 06:43:31
+更新时间：2026-11-12 19:44:06
 
-## Indonesia Bonds Draw Global Funds as Yields Hit Six-Year High
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-12/indonesia-bonds-lure-global-funds-as-yields-hit-six-year-high
-
-正文长度：0
-
-摘要：Indonesian government bonds are drawing bargain-hunters after the benchmark yields’ surge last week to the highest since 2020.
-
-
----
-
-## Nvidia Troubles Drag Stocks Lower, Oil Declines: Markets Wrap
+## Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds: Markets Wrap
 
 来源：彭博社
 
@@ -23,46 +10,129 @@
 
 正文长度：0
 
-摘要：Global stocks retreated as investors weighed the broader market impact of a leadership crisis at Nvidia Corp., the chipmaker at the heart of the artificial-intelligence boom.
+摘要：A leadership crisis at Nvidia Corp. curbed the appetite for riskier corners on Wall Street, with stocks also declining as a rally in oil prices lifted Treasury yields.
 
 
 ---
 
-## Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears
+## Fed's Goolsbee Says Inflation 'Inching' Into Tough Spot
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears
+链接：https://www.bloomberg.com/news/videos/2026-11-12/fed-s-goolsbee-says-inflation-inching-into-tough-spot-video
 
 正文长度：0
 
-摘要：Australia’s dollar dropped to its lowest level in more than nine months as risk sentiment waned and the interest-rate outlook with the US diverged.
+摘要：Federal Reserve Bank of Chicago President Austan Goolsbee says the Fed needs to act to tame inflation before the economy becomes overheated during remarks on Yahoo! Finance. (Source: Bloomberg)
 
 
 ---
 
-## IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks
+## Daly Says More Fed Rates Hikes Likely Needed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks
+链接：https://www.bloomberg.com/news/videos/2026-11-12/daly-says-more-fed-rates-hikes-likely-needed-video
 
 正文长度：0
 
-摘要：The Indonesian rupiah fell to an all-time low, adding pressure on authorities to contain a recent selloff that also hit the nation’s stocks and bonds.
+摘要：Federal Reserve Bank of San Francisco President Mary Daly says further interest-rate increases will likely be needed to bring down inflation, adding that businesses are increasingly contemplating raising prices. She speaks at the Stanford Institute for Economic Policy Research. (Source: Bloomberg)
 
 
 ---
 
-## Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike
+## December Fed-Hike Priced In: JPMorgan’s Kelsey Berro
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike
+链接：https://www.bloomberg.com/news/videos/2026-11-12/december-fed-hike-priced-in-jpmorgan-s-kelsey-berro-video
 
 正文长度：0
 
-摘要：Gold fell for a third day, holding a drop below $4,000 an ounce as persistent US inflation and hawkish remarks from Federal Reserve officials fueled expectations for an interest-rate hike next month.
+摘要：Kelsey Berro, fixed income portfolio manager JPMorgan Asset Management, joins Scarlet Fu on “Bloomberg Real Yield.” The US bond market tumbled for a second straight session as traders brace for the Federal Reserve to step up the pace of its interest-rate hikes in an effort to pull down inflation.
+ (Source: Bloomberg)
+
+
+---
+
+## NYC Sees Nearly $1 Billion Tax-Revenue Jump on Wall Street Gains
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains
+
+正文长度：0
+
+摘要：New York City expects to bring in nearly $1 billion more in taxes than it projected earlier this year, as the government’s coffers are fattened by Wall Street’s technology-driven gains.
+
+
+---
+
+## Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html
+
+正文长度：3673
+
+摘要：Cosm has secured a new studio partnership with Disney that will bring "Star Wars: A New Hope" to its domes as part of a multiyear, multifilm collaboration.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The Force is strong with Cosm.
+On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co. that will bring the original "Star Wars" to its domes early next year as part of a multiyear, multifilm collaboration.
+The financial terms of the deal were not disclosed.
+Cosm's massive concave screens will drop film fans into a galaxy far, far away starting in March, just ahead of the Academy Award-winning film's 50th anniversary in May.
+"We are thrilled to add the Disney partnership," Alexis Scalice, head of Cosm Studios, told CNBC. "We do look for those opportunities of these like anniversary and commemorative moments. We look for those opportunities to celebrate with the fans, but also find this mutually beneficial partnership between both parties."
+This will be Cosm's sixth theatrical collaboration with Hollywood, having already partnered with Warner Bros. to bring "The Matrix," "Willy Wonka & the Chocolate Factory," "Harry Potter and the Sorcerer's Stone" and "It" to its locations. The company is set to launch immersive screenings of Universal's "Shrek" in December.
+Each Cosm dome has stadium-style seating, with booths and tables set on each level. The dome's width fills much of the viewers' periphery, giving the sensation that they are part of the onscreen environment.
+In this case, "Star Wars" will be displayed in a large rectangle in the center of the dome while the background is transformed into the iconic planets of Tatooine and Yavin IV that are featured in the film as well as the infamous Death Star. Audiences will also see elements that will make it appear like they're traveling at lightspeed and getting trapped in an intergalactic trash compactor.
+Cosm is working directly with studios Lucasfilm and Industrial Light and Magic as well as creative studio MakeMake to create the visuals and the sound mixing for the unique presentation of the film.
+"We look for those moments where sound, music ... listening to Darth Vader's breath for the first time ... you feel those moments differently in an 87-foot diameter dome and 12k resolution with the sound system we have," Scalice said. "And it's one of the things that with experiential cinema and our technology that we were so excited and honestly privileged that we can take these defining moments for fans and work closely with our partners that doesn't really change the authenticity of it, it just enhances it in a different manner."
+The premium experience will also be paired with a themed menu. Cosm has done this with other titles, such as "Harry Potter and the Sorcerer's Stone," serving guests throughout the screening with house-made shepherd's pie, pretzel wands with cheese dip and a box of Bertie Bott's Every Flavour Beans.
+Cosm is trying to establish itself as a destination for fandom — both for sports and for film. It has a wide variety of live event offerings, which it telecasts using proprietary cameras mounted in arenas that broadcast back to the dome, as well as its expanding library of movies.
+"What I love is that we really are kind of building these Cosm communities built on fandom," Scalice said. "It's the No. 1 foundation for our business."
+And Star Wars is a powerful fandom. The franchise remains one of the top-ranking pieces of intellectual property across film, television and retail annually, and Disney is gearing up for a massive celebration of its semicentennial including merchandise launches, theatrical re-releases, its biannual Star Wars Celebration convention and collaborations with other brands.
+Correction: This story has been updated to correct the spelling of Alexis Scalice's name.
+
+</details>
+
+
+---
+
+## Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html
+
+正文长度：3585
+
+摘要：Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> BLYTHEWOOD, S.C. — Electric vehicle startup Scout Motors has notched roughly 212,000 reservations for its upcoming EVs as the company nears completion of its new $2 billion plant in South Carolina, CEO Scott Keogh told CNBC.
+The reservations are for the Volkswagen-backed company's Terra pickup truck and Traveler SUV, which are expected to start full production next year before deliveries begin to customers in 2028.
+Reservations do not necessarily translate to sales, as the U.S. automotive industry has learned during the past decade, especially with highly anticipated all-electric trucks such as the Ford F-150 Lightning, Tesla Cybertruck and others that garnered strong interest that didn't lead to meaningful numbers of purchases.
+Keogh said he expects Scout could roughly double those reservations by the time customer production begins, but he said the more important thing is to convert early interest into actual sales as production nears.
+"It's been a consistent drumbeat," Keogh said during an interview at Scout's plant site outside Columbia, South Carolina. "I think we could easily be up over 400,000 with reservations without doing too much effort. The big thing for us is how much of the initial production can we 100% presell."
+Keogh said achieving an order book of 12-to-18 months "would be great" and something he thinks the company can do before production. Scout on Thursday said construction is "in its final phase."
+Scout's vehicles will be offered as all-electric versions as well as electric hybrid variants, known as extended-range electric vehicles, or EREVs, that include an engine as a backup generator for the electric motors and batteries.
+Scout, a former American vehicle brand from 1961 to 1980, was expected to exclusively offer EVs in a bid for the German automaker to expand its presence in the U.S. However, slower-than-expected adoption of EVs and higher costs led the company to decide to offer EREVs as well.
+Keogh said the EREVs and SUV are dominating reservations thus far, with roughly 87% choosing EREV models and 75% being SUVs.
+The CEO also said the company is drawing interest from its target markets, which include owners of off-road vehicles such as the Ford Bronco and Jeep Wrangler as well as full-size pickup trucks and U.S. EV leader Tesla
+Given the interest signaled by reservations, Keogh said the company is expected to launch with the EREVs first, followed by the EVs. He also said the company plans to launch with mid-level models first, a deviation from many companies that begin with their highest-priced models.
+Both the Traveler and Terra are expected to start under $60,000. The EREV models are expected to feature more than 500 miles of range, according to the company, compared with 300 miles of range for the all-electric models.
+"The No.1 thing for me is I want to go get the best volume as soon as possible," Keogh said. "In my mind, it's how quick can you get to 100,000 units? It's at 100,000 units where you can start to punch through."
+His comments come months after Rivian Automotive received criticism online for launching its R2 SUV with its highest-priced models first, despite that being a common practice across the automotive industry.
+Keogh said Scout's South Carolina plant is about 85% complete, but supporting infrastructure and a $300 million supplier park continue to be installed.
+Reservations for Scout's vehicles initially opened in October 2024, when it revealed the Traveler and Terra, which feature sleek, yet rugged, exterior appearances that pay some homage to the brand's historic models.
+
+</details>
 
 
 ---
@@ -163,131 +233,41 @@ When asked whether JetBlue's eye on keeping costs down includes furloughs, layof
 
 ---
 
-## Measles is surging in the U.S. — and outbreaks can cost millions
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html
-
-正文长度：8195
-
-摘要：A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Measles outbreaks aren't just a public health threat. They can also be a financial burden on the U.S. — and the cost could only deepen as the once-eliminated disease spreads more widely.
-The U.S. is expected to lose its official measles elimination status following a review by the Pan American Health Organization this week, after cases ratcheted to recent highs this year.
-More than 5,100 measles cases have been reported nationwide in 2026 as of early November, marking the country's worst outbreak in more than three decades. Eight deaths associated with the disease have been confirmed by states so far in 2026: six in Pennsylvania, one in New York and one in Wisconsin.
-Based on this year's case count, a new tool developed by researchers at Johns Hopkins University estimates an economic cost of nearly $83 million for the outbreaks. That total includes $56 million in public health response costs, almost $25 million in lost productivity and more than $1.8 million in direct medical expenses.
-The tool also estimates that 2025 measles outbreaks in the U.S. — which involved 2,289 confirmed cases nationwide – carried an economic cost of more than $37 million.
-The costs extend beyond treating people who become sick, accounting for the resources health departments spend investigating and containing outbreaks, as well as wages lost when people have to miss work. The tool uses more recent, state-specific cost and financing data than an initial study by the researchers, which relied on historical outbreak costs.
-The estimates from the tool are not a definitive accounting of what the outbreaks actually cost. But it illustrates the hefty bill tied to the spread of a disease that can be prevented through vaccination, and the potential economic consequences of falling childhood immunization rates. CNBC previously reported on how the return of measles in the U.S. exposes weaknesses in the nation's public health system that raise concerns about the return of other eliminated diseases.
-"We're starting to see a whole bunch of people who decided not to get vaccinated as kids or have never gotten exposed to measles because they benefited from herd immunity, who now make it into adulthood and risk potentially getting quite seriously ill and requiring very significant medical expenses, or dying at the hospital," Bryan Patenaude, a health economist at the International Vaccine Access Center at the Johns Hopkins Bloomberg School of Public Health, who helped develop the tool, said in an interview.
-The costs of containing measles
-Measles outbreaks can trigger a costly public health response, even when many people who are exposed never become sick.
-When a case is identified, public health officials must investigate the infection, identify and notify people who may have been exposed, coordinate with hospitals and schools, and sometimes organize vaccination campaigns to prevent further spread. Those efforts can divert staff and resources from other public health priorities.
-Costs could differ heavily depending on the state.
-Johns Hopkins' data includes national averages alongside state-specific inputs, including inpatient hospital costs and wages from government data or trusted health policy sources. In New York, for example, the average inpatient hospital stay is roughly $4,200 a day, while the minimum wage is $16 per hour.
-The tool estimates that the 48 cases reported by New York in 2025 carried an estimated $1.1 million in costs, including nearly $749,000 in public health responses, $333,000 in productivity losses and roughly $24,500 in direct medical expenses.
-Meanwhile, the 803 cases in Texas, the epicenter of the largest U.S. measles outbreak in 2025, carried estimated costs of nearly $13 million, according to the tool. That includes $9 million in public health costs, $4 million in productivity losses and around $288,000 in direct medical expenses.
-The tool builds on a study published by Patenaude and other researchers in August, which examined the costs of measles outbreaks in the U.S. The researchers reviewed published studies and government reports to compile historical estimates of medical expenses and public health response costs across 18 states.
-The paper estimated that outbreaks carried a historical average cost of nearly $59,000 per case, just from the public health response. The researchers also estimated how costs scale with outbreak size, separating fixed up-front response expenses from the additional costs associated with each new case.
-"A lot of this is incurred up front, and that's because of the human labor that's involved in contact tracing and all of the different actors that sort of need to be mobilized to deal with the fact that there's an outbreak," Patenaude told CNBC. "It's a largely labor-driven cost."
-That model estimated roughly $298,000 in fixed costs and about $16,300 for each additional case. But it relied on historical data, including a particularly large 2019 outbreak in New York City, where contact-tracing labor costs were high. The researchers also excluded productivity losses from that model because most of the historical studies they reviewed did not consistently account for them.
-The costs of lost productivity
-The economic burden of measles extends beyond the costs of treating infected patients and organizing a public health response.
-People who are exposed to measles may have to quarantine, even if they never develop symptoms. Parents can also be forced to miss work to care for sick or exposed children, while workers who contract the disease may lose wages during their recovery.
-A 2025 study by Joey Mattingly, a pharmacist and health economist at the University of Utah, used published epidemiological and cost data to model the potential economic burden of a hypothetical 1,500-case outbreak. His analysis included direct medical expenses, public health spending and lost productivity, and examined how the estimates changed under different assumptions, including hospitalization rates.
-The study estimated that the hypothetical outbreak could cost about $90 million, including roughly $26 million in productivity losses.
-The economic ripple effects of a case
-Those indirect costs can add up quickly because measles is highly contagious and a single infected person can expose dozens of others. Those contacts may need to quarantine or miss work while health officials determine whether they have been infected, creating costs even when they never develop the disease.
-Mattingly estimated that each person who is quarantined could amount to roughly $300 in lost productivity alone.
-If a single measles case exposes 40 to 50 people who then need to quarantine, that could translate into an estimated $12,000 to $15,000 in lost productivity, even if none of those contacts become sick.
-That ripple effect is one reason Mattingly argues that the economic costs of outbreaks can quickly outweigh the investment required to vaccinate people against measles.
-"Even if you don't get the infection, the contact costs you," he said. "And so it's just showing that there's this multiplication or exponential growth on the economic side that happens."
-The financial burden can also fall unevenly across communities. While the costs of responding to an outbreak may be shared among local, state and federal agencies, Mattingly said the impact is often felt directly by local health departments.
-"It's not like your health department is sitting around waiting for measles outbreaks," he said. "They're working, doing all these other things, and imagine having to just drop what you're doing because there's been a huge outbreak in the community."
-Patenaude said the findings could help state and local health departments better anticipate the resources needed to contain outbreaks — particularly as measles cases continue to rise.
-"It's not super expensive to treat and deal with a single case of measles compared to a single case of cancer," he said. "But if you have these outbreaks popping up and you're having to constantly divert resources that could be spent elsewhere by state and local health departments on measles, then you're going to wind up spending a lot of money very quickly."
-
-</details>
-
-
----
-
-## Fossil CEO says turnaround is ahead of plan as sales return to growth
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html
-
-正文长度：4019
-
-摘要：Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Fossil Group posted quarterly results on Tuesday that could point to early signs of a turnaround for the legacy watchmaker.
-The company, which has struggled to compete with new gadgets in the years since its sales and stock price peaked in the 2010s, has been quietly undertaking a comeback strategy under CEO Franco Fogliato. The company's fiscal third-quarter earnings indicate the strategy is beginning to bear fruit.
-The company said Tuesday that it returned to profitability in the third quarter, posting operating income of $25.3 million, compared with an operating loss of $21.7 million last year. It also returned to sales growth, with net sales up 0.4% to $271.2 million. The company last reported a year-over-year sales increase in the first fiscal quarter of 2022.
-"We're excited about improving dramatically the profitability of the company through a very strong and disciplined management of full-price sales as well as cost management," Fogliato told CNBC in an exclusive interview.
-For the quarter ended Oct. 3, Fossil reported net income of $11.7 million, or 19 cents per share, compared with a net loss of $39.9 million, or 76 cents per share, the year prior. The company also said its operating expenses fell 11.1% to $137 million. The company last posted quarterly net income in the third fiscal quarter of 2022.
-With the signs of growth, the retailer also raised its full-year outlook, guiding for full-year net sales of between $980 million and $990 million, which would mark a slight decline from just over $1 billion in net sales in the prior year. That compares with a previous expectation of net sales falling between 3% and 5%. Fossil also said it's expecting positive free cash flow by the end of the year.
-Fogliato said Fossil had previously not expected sales growth for another year and a half.
-The stronger quarter comes after the company saw slumping sales and financial losses over the past few years. It struggled with the rise of smartwatches, mounting debt and the decline in mall foot traffic.
-Fossil stock has lost the vast majority of its value since the early-to-mid 2010s, and despite a recent surge, was trading under $8 a share on Tuesday.
-To rightsize the business, Fogliato, who joined Fossil in 2024, said he focused on closing stores, moving away from promotions to full-price sales, improving marketing and broadening Fossil's product range. That meant shrinking the business to a sustainable baseline before trying to grow it.
-The company saw a 5.9% decrease in direct-to-consumer sales for its third quarter, which Fogliato attributed to the company's "aggressive" downsizing.
-"We simplified a lot of the business doing this," Fogliato said, adding that customers responded well when the company moved away from markdowns. "People tell me they are excited about what they are seeing in the marketplace now."
-Fossil added that its key growth engine for the quarter was Asia, where net sales grew 15.1%. Fogliato said much of that growth was led by the India market.
-At the same time, growing internationally is only part of the watchmaker's strategy as it tries to improve its performance in its home country.
-"Priority number one is to grow our home market, and we're doing that," he said. "As retail is settling into a smaller, more profitable base, ready to grow again, we're entering 2027 with plenty of opportunities."
-Fogliato said one key to growth was not trying to keep up with the smartwatch trend. While trying to make gains in the smartwatch space initially hampered Fossil's performance, it's now investing in analog watches again.
-Smartwatch sales came in under $1 million for the quarter, but sales for traditional watches — which make up around 86% of Fossil's sales — grew 6.4%.
-"Fossil is literally having a comeback, a strong comeback, a momentum, and we can see this," Fogliato said. "And it comes not only through the numbers — it comes with the excitement we see in the stores, and we think we're just at the beginning. We have so much work to do."
-
-</details>
-
-
----
-
-## Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump - Financial Times
+## Quantum Systems drones grounded by German military after cyber attack - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1BoVTM2UVBsX1JmRkhtcE5kME5VVkVsZU4wX0xGZGRraUVBSnNsMEN1dmZEekhlUGpQbUh6cEZuSkRkUXNyMGpzalNOckVqNjkzR1MtRDgxM2lHZmotLWF5elowTW1lSVY3T24wZy1iM2ZyNDEzSVoyc1B5WlR4WmNEOTY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5" target="_blank">Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1BoVTM2UVBsX1JmRkhtcE5kME5VVkVsZU4wX0xGZGRraUVBSnNsMEN1dmZEekhlUGpQbUh6cEZuSkRkUXNyMGpzalNOckVqNjkzR1MtRDgxM2lHZmotLWF5elowTW1lSVY3T24wZy1iM2ZyNDEzSVoyc1B5WlR4WmNEOTY?oc=5" target="_blank">Quantum Systems drones grounded by German military after cyber attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate - Financial Times
+## Singapore barred Alice Huang for giving police ‘inaccurate information’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjJnUjY2X1lsaUZOVU9kNGxTOE9LZkc4cGU4ZVlnUVg4b2dMX2U5N0V5NEZGTEd0SDRDMk52UGVaQ05xb0tvakoyT2lYYnk1b3V3Z2dvdzdHWk5pWFVWVnRyUHViVE1RSmNscTJEc2xDZGdiLXNQcmtXRTE4ZTBUOE8tU0k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWtJZ3VrTWhhanlrd1BoajJVRWY2ZlRDZmh2MXR5UGtvcHI1LUt0WnhZcTFXQzhaYzdnWHp1TjBDc1JKY0VQdGhhM09waUtmZ2lhVXF0S3p3S2c2V0JwVS1wVzUtSklONlE1WWtJS3pyYjdxOUdZTUNESlRyemN3QzVoU2I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjJnUjY2X1lsaUZOVU9kNGxTOE9LZkc4cGU4ZVlnUVg4b2dMX2U5N0V5NEZGTEd0SDRDMk52UGVaQ05xb0tvakoyT2lYYnk1b3V3Z2dvdzdHWk5pWFVWVnRyUHViVE1RSmNscTJEc2xDZGdiLXNQcmtXRTE4ZTBUOE8tU0k?oc=5" target="_blank">Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWtJZ3VrTWhhanlrd1BoajJVRWY2ZlRDZmh2MXR5UGtvcHI1LUt0WnhZcTFXQzhaYzdnWHp1TjBDc1JKY0VQdGhhM09waUtmZ2lhVXF0S3p3S2c2V0JwVS1wVzUtSklONlE1WWtJS3pyYjdxOUdZTUNESlRyemN3QzVoU2I?oc=5" target="_blank">Singapore barred Alice Huang for giving police ‘inaccurate information’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia shares slide as board considers Jensen Huang’s future - Financial Times
+## Romania offers to pay for US soldiers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTZoZmc3ckl1Vi1WM3ZfcnVUdjNCQUR0T2xKM2lIMnI0NFdQRG5EQ0Q5NEdmMFdLSnUwRDhaWU9uWDVoNXVnT3FLOF9ucUwwam94eUdoT05ZMVktRTZ2QjZZVXkzRndQOW91UnFKQjFZTFNKbFJObzNUSEtSU09UNHlTZjM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTZoZmc3ckl1Vi1WM3ZfcnVUdjNCQUR0T2xKM2lIMnI0NFdQRG5EQ0Q5NEdmMFdLSnUwRDhaWU9uWDVoNXVnT3FLOF9ucUwwam94eUdoT05ZMVktRTZ2QjZZVXkzRndQOW91UnFKQjFZTFNKbFJObzNUSEtSU09UNHlTZjM?oc=5" target="_blank">Nvidia shares slide as board considers Jensen Huang’s future</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5" target="_blank">Romania offers to pay for US soldiers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -305,80 +285,80 @@ Smartwatch sales came in under $1 million for the quarter, but sales for traditi
 
 ---
 
-## Romania offers to pay for US troops - Financial Times
+## Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5" target="_blank">Romania offers to pay for US troops</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5" target="_blank">Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Morning Bid: Jensen hangs on as Nvidia tumbles - Reuters
+## SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5" target="_blank">Morning Bid: Jensen hangs on as Nvidia tumbles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5" target="_blank">SpaceX plans over $74 billion investment in Texas, Arizona AI campuses</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates - Reuters
+## Mercedes-Benz halts German investments as plant closures loom - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3NpblFpU0lCLW5JVWoxVkNRNldBNDY1c0xmakdfaHhXYkJmbFlHUDlyYmk2OVlRZDcwWXBxTFZnTEF5OUU4d2hnVXVReTcyMzdKOW1qVWxpc3dOb3NTMHQ4VG1ZczdiQ2tETEN6SENYMkdtbkxKQ0psUjIyY19FRWF2QjJNdUJaSEFnUzJXU09TZFFSMERPSXI2Z0dib1pSNjNnYzBmOUtpN0FhODBqd3dB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3NpblFpU0lCLW5JVWoxVkNRNldBNDY1c0xmakdfaHhXYkJmbFlHUDlyYmk2OVlRZDcwWXBxTFZnTEF5OUU4d2hnVXVReTcyMzdKOW1qVWxpc3dOb3NTMHQ4VG1ZczdiQ2tETEN6SENYMkdtbkxKQ0psUjIyY19FRWF2QjJNdUJaSEFnUzJXU09TZFFSMERPSXI2Z0dib1pSNjNnYzBmOUtpN0FhODBqd3dB?oc=5" target="_blank">Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5" target="_blank">Mercedes-Benz halts German investments as plant closures loom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China's Xi says Taiwan 'reunification' must happen as history cannot be stopped - Reuters
+## Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5" target="_blank">China's Xi says Taiwan 'reunification' must happen as history cannot be stopped</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5" target="_blank">Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil falls over $1 on easing geopolitical fears and oversupply worries - Reuters
+## Gunman kills one, wounds four in busy Washington, DC, neighborhood - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5" target="_blank">Oil falls over $1 on easing geopolitical fears and oversupply worries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5" target="_blank">Gunman kills one, wounds four in busy Washington, DC, neighborhood</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters
+## Instant view: Nvidia CEO Jensen Huang steps down - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5" target="_blank">EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5" target="_blank">Instant view: Nvidia CEO Jensen Huang steps down</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
