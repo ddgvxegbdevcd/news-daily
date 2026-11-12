@@ -1,68 +1,106 @@
 # 每日财经新闻
 
-更新时间：2026-11-11 19:26:14
+更新时间：2026-11-12 06:43:31
 
-## H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors
+## Indonesia Bonds Draw Global Funds as Yields Hit Six-Year High
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors
+链接：https://www.bloomberg.com/news/articles/2026-11-12/indonesia-bonds-lure-global-funds-as-yields-hit-six-year-high
 
 正文长度：0
 
-摘要：H&amp;R Real Estate Investment Trust’s C$6.7 billion ($4.7 billion) breakup is facing a growing shareholder revolt, with some of the world’s biggest pension funds lining up against a deal that would hand a chunk of the Canadian landlord’s properties to the family of its chief executive officer.
+摘要：Indonesian government bonds are drawing bargain-hunters after the benchmark yields’ surge last week to the highest since 2020.
 
 
 ---
 
-## Voters Asking For 'Bold Action' From Democrats, Says Deluzio
+## Nvidia Troubles Drag Stocks Lower, Oil Declines: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video
+链接：https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Democratic Representative Chris Deluzio, who’s on the House Armed Services Committee, said the failed impeachment effort of Pete Hegseth 'shouldn't be the end of the oversight' over the defense secretary. Deluzio, who represents Pennsylvania's 17th District, said that holding the Trump administration accountable is just one part of the 'bold action' voters are asking for when Democrats take control of Congress in the new year.  (Source: Bloomberg)
+摘要：Global stocks retreated as investors weighed the broader market impact of a leadership crisis at Nvidia Corp., the chipmaker at the heart of the artificial-intelligence boom.
 
 
 ---
 
-## Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts
+## Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts
+链接：https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears
 
 正文长度：0
 
-摘要：The nuclear power boom is prompting CME Group Inc. to move ahead with a new futures contract backed by physical supplies of uranium, a key fuel source.
+摘要：Australia’s dollar dropped to its lowest level in more than nine months as risk sentiment waned and the interest-rate outlook with the US diverged.
 
 
 ---
 
-## Wall St Races for Megadeals as Countdown Begins on Trump Era
+## IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video
+链接：https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks
 
 正文长度：0
 
-摘要：Bloomberg’s Ryan Gould joins Dani Burger on “Bloomberg Deals.” President Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock. (Source: Bloomberg)
+摘要：The Indonesian rupiah fell to an all-time low, adding pressure on authorities to contain a recent selloff that also hit the nation’s stocks and bonds.
 
 
 ---
 
-## US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap
+## Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike
 
 正文长度：0
 
-摘要：A rally in tech giants lifted stocks on bets the artificial-intelligence trade that has powered the bull market has more room to run.
+摘要：Gold fell for a third day, holding a drop below $4,000 an ounce as persistent US inflation and hawkish remarks from Federal Reserve officials fueled expectations for an interest-rate hike next month.
+
+
+---
+
+## Feds arrest top official of healthcare company, alleging illegal drug importation
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html
+
+正文长度：4415
+
+摘要：U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> U.S. authorities are accusing the two top officials of a Canadian company of operating a long-running scheme to illegally import prescription drugs into the U.S., according to court records filed Tuesday.
+John Thomas Howard, treasurer and a director of the company, CANARX, was arrested Sunday on smuggling and conspiracy charges, according to the records.
+Bob Howard, his brother, who is president and a director of CANARX, is also wanted in the federal investigation, according to an affidavit from Dustin Dobbs, a special agent with the Food and Drug Administration's Office of Criminal Investigations. He has not yet been taken into custody.
+Besides conspiracy and smuggling, the arrest warrant said John Thomas Howard was charged with introducing misbranded drugs into interstate commerce and illegal drug importation. No plea has been filed.
+CANARX was featured in a CNBC investigation last year that revealed how the company and others known as alternative funding programs, or AFPs, are becoming more pervasive around the U.S. as drug costs skyrocket. The investigation found these companies have penetrated the country's healthcare system by offering high-cost specialty drugs at more affordable prices through private and public employers. In some cases, employers are requiring their staff to use an AFP.
+AFPs often obtain the medications overseas and ship them directly to patients, a practice that federal authorities have said is illegal and poses safety risks. CNBC traced the trail of drugs from abroad to the U.S. via a supply chain that the pharmaceutical companies producing the medications have not authorized.
+On its website, CANARX, founded in 2002 and based in Windsor, Ontario, Canada, described its business as the first international prescription provider for the U.S. and the safest such program in the industry. The company said it sources its medications from Canada, the United Kingdom, Australia and New Zealand.
+But the affidavit said that the FDA's investigation found "there is probable cause to believe that (CANARX) illegally imported or caused the illegal importation of prescription drugs into the United States …."
+The affidavit does not specify which medications the agency believes were illegally imported. The criminal complaint covers the period from Feb. 22, 2017, through April 15, 2026.
+The company's general counsel, Joseph Morris, told CNBC in a statement: "The Howards deny all the charges against them, will defend vigorously, and expect to be vindicated in court."
+The company has been under FDA scrutiny for several years. In 2023, the agency seized medication being shipped by CANARX that it says was potentially misbranded and counterfeit, according to an email sent to a patient that was obtained by CNBC.
+And in 2019, the FDA sent a warning letter to the company, saying it was operating "in a manner that substitutes the FDA-approved drugs prescribed by the U.S. healthcare provider with unapproved drugs." Morris, in response to that warning, argued CANARX was not misleading patients, but agreed for the company to stop importing drugs that need to be administered by a doctor.
+In an interview as part of the CNBC investigation, Morris said last year that the medicines shipped to U.S. patients come from highly regulated countries. He said CANARX was operating legally.
+The central question for AFPs is the legality of importing prescription drugs into the U.S. for personal use. The FDA allows Americans to import medications for individual use in some cases if the drug is not available domestically. That is the basis on which the AFPs built their models for shipping medicines directly to patients.
+But an FDA spokesperson told CNBC last year that "in most circumstances, a person cannot import prescription drugs from other countries into the U.S. ... as substitutes for FDA-approved drugs."
+In a separate civil lawsuit that is pending, Gilead Sciences accused CANARX and other companies of illegally importing Biktarvy, its medication to treat HIV.
+In a statement to CNBC on Wednesday, a Gilead spokesperson said the company "has taken strong legal action to protect patients and the integrity of the U.S. medicines supply chain. We welcome the government's efforts to hold accountable those whose conduct may put patients at risk."
+CANARX has not responded to the Gilead lawsuit.
+— CNBC's Paige Tortorelli and Melissa Lee contributed to this report
+
+</details>
 
 
 ---
@@ -75,7 +113,7 @@
 
 正文长度：986
 
-摘要：American Airlines' first class food options include sandwiches, fruit and chia bowls
+摘要：American Airlines' first-class food options include sandwiches, fruit and chia bowls
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
@@ -90,34 +128,35 @@ American has fallen behind Delta Air Lines and United Airlines in profits and in
 
 ---
 
-## JetBlue unveils new first class seats to bring back profits
+## JetBlue unveils new first-class seats to bring back profits
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html
 
-正文长度：3356
+正文长度：3660
 
-摘要：JetBlue will give reporters a look at its new first class seats on Wednesday.
+摘要：JetBlue gave reporters a look at its new first-class seats on Wednesday.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> JetBlue Airways is unveiling its new domestic first-class seats Wednesday as more of the country's carriers bet on the premium travel boom to make them profitable again.
-JetBlue announced it would offer a domestic first class — BlueFirst — in December 2024 and plans to start flying aircraft with the new seats and full on-board product next month. The carrier is showing off the new cabin at its home hub at John F. Kennedy International Airport on Wednesday. Retrofits will continue during 2027, CEO Joanna Geraghty told CNBC late last month.
+> JetBlue Airways unveiled its new domestic first-class seats Wednesday as more of the country's carriers bet on the premium travel boom to make them profitable again.
+JetBlue announced it would offer a domestic first class — BlueFirst — in December 2024 and plans to start flying aircraft with the new seats and full on-board product next month. The carrier showed off the new cabin at its home hub at John F. Kennedy International Airport on Wednesday. Retrofits will continue during 2027, CEO Joanna Geraghty told CNBC late last month.
+JetBlue will have 12 of the seats on its Airbus A320 fleet and 30 extra-legroom seats, down from 42 of those options previously. Because the airplanes don't have ovens, JetBlue said it is offering an array of cold food options like sesame noodles, pastrami sandwiches and tortellini salad, though they vary by route.
 The rollout comes as the New York airline tries to stabilize after last posting a profit in 2019. Last month, JetBlue executives sought to calm investors after shares in the airline hit a record low following a report that bondholders had contracted restructuring advisors.
 "We have no intention, no plans to file for bankruptcy. We are not engaged with any restructuring company," Geraghty told CNBC in an interview on Oct. 27.
 Geraghty told CNBC's Phil LeBeau on Wednesday that JetBlue has "met with a few of the creditors over the last couple of weeks as part of ... normal investor engagement." She said the company made it clear to bondholders that JetBlue doesn't need to reorganize.
 The airline's shares are up more than 40% this month, more than other passenger carriers, as of midday Wednesday, though they are still off about 11% so far this year.
-JetBlue is betting that resilient travel demand, especially for for roomier seats will help fuel its turnaround plan, which aims to get the carrier to an operating profit next year and $1 in adjusted earnings per share in 2028.
+JetBlue is betting that resilient travel demand, especially for roomier seats will help fuel its turnaround plan, which aims to get the carrier to an operating profit next year and $1 in adjusted earnings per share in 2028.
 Airline executives have said they expect fares to stay elevated next year as they grapple with higher costs, including but not limited to fuel, such as labor and airport fees. Geraghty said Wednesday that even if fuel prices moderate next year, "I don't think fares are going to fall as much as people expect."
 Airlines large and small are racing to outfit their cabins with roomier, more expensive seating options to help cover ever-higher costs, from jet fuel to labor to airport operation fees.
-For example, a ticket in the new recliner first-class seats between Kennedy Airport and Fort Lauderdale-Hollywood International Airport in Florida is going for $847 roundtrip in the first week of March while standard economy is $446.
-On Tuesday, budget carrier Frontier Airlines unveiled its new first class seats, which will take up the first two rows, and said it would outfit its Airbus fleet with premium seating that have extra legroom and in-seat power through row eight. The airline will take out a row of seating on its planes to make the pricier ones fit, chief marketing officer Bobby Schroeter told CNBC in an interview Monday.
-JetBlue last month reported it ended the third quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
+For example, a ticket in the new recliner first-class seats between Kennedy airport and Fort Lauderdale-Hollywood International Airport in Florida is going for $847 roundtrip in the first week of March while standard economy is $446.
+On Tuesday, budget carrier Frontier Airlines unveiled its new first-class seats, which will take up the first two rows, and said it would outfit its Airbus fleet with premium seating that has extra legroom and in-seat power through row eight. The airline will take out a row of seating on its planes to make the pricier ones fit, Chief Marketing Officer Bobby Schroeter told CNBC in an interview Monday.
+JetBlue last month reported that it ended the third quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
 JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing.
 Geraghty told CNBC last month there is a "fundamental disconnect between the narrative in the bond market and what our financial results actually demonstrate."
-When asked then whether JetBlue's eye on keeping costs down includes furloughs, layoffs or buyouts, Geraghty last month said "absolutely not."
+When asked whether JetBlue's eye on keeping costs down includes furloughs, layoffs or buyouts, Geraghty last month said "absolutely not."
 
 </details>
 
@@ -214,185 +253,132 @@ Smartwatch sales came in under $1 million for the quarter, but sales for traditi
 
 ---
 
-## Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html
-
-正文长度：7007
-
-摘要：Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> It's been five years since Rivian Automotive celebrated its initial public offering with CEO and founder RJ Scaringe ringing the Nasdaq opening bell from the company's factory in Normal, Illinois, while the company's sleek vehicles sat outside the stock exchange in Times Square.
-It was a euphoric time for all-electric vehicle companies that has since diminished. And much like the EV hype, Rivian's stock price is down more than 80% since the Amazon-backed company debuted on the Nasdaq at $78 per share on Nov. 10, 2021. That includes a nearly 30% decline this year.
-A host of internal and external factors have contributed to Rivian's stock decline, but the company continues to be the most promising EV maker to emerge during the early 2020s, as most of its peer group to go public during that time no longer exists.
-Rivian founder and CEO RJ Scaringe acknowledges that not everything has gone to plan amid supply chain shortages, geopolitical tensions and slower-than-expected consumer EV adoption, but he said he believes the next year will prove to be a catalyst for the company and investors.
-"2027 is really an inflection year for us," Scaringe told CNBC during an exclusive interview. "I'm excited to start to really show what we believe so fully, the potential of the business."
-R2 SUV
-Scaringe's bullishness comes as Rivian ramps up production of its midsize R2 SUV — meant to expand the brand to the mainstream market — and as the company continues to invest in its next generation of vehicle software and autonomy.
-Scaringe said the R2, with an entry-level model at about $45,000, remains the core business to be able to showcase its newest technologies. Rivian delivered a record 19,248 vehicles in the third quarter of 2026, up 46% year over year, and said R2 was already its best-selling vehicle by volume, outselling both its R1 flagship products and its commercial van.
-"That's going to define the business. The path to profitability, the path to very significant growth in revenue is all built around R2, and then some of the variants that come following R2," Scaringe said.
-For the most recent period, Rivian said the automotive cost of goods sold per vehicle improved by more than $12,000 quarter over quarter, helped by a higher R2 mix and better fixed-cost leverage.
-Rivian also is in the midst of building a new multibillion-dollar Georgia factory that Scaringe has said is necessary to get the company to the volumes it needs to achieve net profitability.
-Its sole factory in Normal, Illinois, is capable of producing 215,000 vehicles annually. That includes up to 155,000 R2s alongside R1 models and electric vans. Rivian said the Georgia plant will be capable of producing up to 300,000 units annually once the initial phase construction is completed in late 2028.
-Of course, all of that means additional capital spending and pressure on the company to improve profits.
-"We've made the decision to simultaneously work towards profitability … and deeply invest in our technology, and in particular in autonomy," Scaringe said.
-Profitability vs. cash burn
-Rivian's operating performance is improving, but several Wall Street analysts expect the company's investment requirements to rise significantly in 2027.
-Rivian generated $176 million of consolidated gross profit in the third quarter, but its automotive business posted an $80 million gross loss, while its software and services unit generated $256 million of gross profit at a 42% margin.
-Wall Street analysts broadly agree Rivian's R2 launch is showing encouraging early demand and lowering manufacturing costs, but they're concerned about whether that can offset rising autonomy spending, the Georgia factory buildout and continued cash burn.
-"Funding has long been a key debate for Rivian investors," Deutsche Bank analyst Edison Yu said in an Oct. 30 investor note after the company reported quarterly results that exceeded Wall Street's expectations. "The notion of a multi-year (even if credible) path to cash flow breakeven will be less attractive to investors."
-Rivian said during its late October earnings call that its total available future liquidity is expected to be about $13 billion when factoring in available credit and money from partnerships with Volkswagen and Uber as well as a $4.5 billion U.S. Department of Energy loan for the Georgia plant.
-Rivian said its cash, cash equivalents and short-term investments balance was $5.5 billion to end the third quarter.
-The company may still need to raise more capital. Scaringe said Rivian plans to be "opportunistic" about any additional capital raises, which have previously included equity deals with Volkswagen and Uber.
-"As we think about the environment looking out, we want to continue to position ourselves to be in a place to invest in the technology. And so that means we'll be opportunistic as it pertains to capital. But I want to be clear: We're like very focused on getting the profitability," Scaringe said.
-Autonomy
-The company has significantly upgraded the software capabilities and hardware on its vehicles to prepare them for autonomy technologies, or physical artificial intelligence, as Scaringe calls it.
-The next step in that is releasing "point-to-point" driving capabilities, in which the vehicles can drive on their own from destination to destination with the driver acting as a monitor in case of any unexpected problems.
-U.S. EV leader Tesla is the only automaker to currently offer those features on its vehicles. Scaringe said Rivian plans to not only catch up to Tesla's capabilities but exceed them as it uses multiple sensor types to allow the vehicle to "see" better, especially in inclement weather.
-"That's not like the finish line. ... Think of it as like the starting point where you suddenly have a more apples to apples comparison between Rivian and Tesla," Scaringe said.
-The release of point-to-point over the coming weeks and months, first to employees and then to customers, is expected to be followed by autonomous vehicles with Uber by 2028.
-Scaringe said he believes such technologies will become a differentiator for the company in the coming years.
-"I think it will go from a purchase consideration for maybe 10% of the buying public that's in the top five things considered in making a purchase decision to the No. 1 or No. 2 purchase consideration for the vast majority of buyers," Scaringe said.
-Rivian plans to offer more details about its AI and autonomous plans during a second annual investor technology event on Dec. 9.
-"We view this as a likely positive catalyst as the event could set a path for AV features driving incremental vehicle demand & higher [software] revenue in 2027, building on 2026 growth," TD Cowen analyst Itay Michaeli said in an investor note last week.
-Rivian's stock is currently rated overweight with a $17.70 target price, according to analyst estimates compiled by FactSet. That would be a roughly 26% increase from its Monday closing price but still a far cry from its IPO.
-
-</details>
-
-
----
-
-## US tech stocks surge as AI trade revives - Financial Times
+## Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5" target="_blank">US tech stocks surge as AI trade revives</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5" target="_blank">Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Inside Ken Griffin’s $5bn Miami takeover - Financial Times
+## Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTElVWGVuTWwxMnFMZnFuaVhrM083OVNvcVdJM3NRWGk0c0lGUWhmTGw3RF84WHV4bTdaRVk3ZGVhcVZZMnN0MnlUU242bUhPWUFEZ184MDZQVkZtWjFnbThBVUdud1VQZFJkZERmWjFDQ1BNUGRIRVVEUVp2akFUXzlvSlA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjJnUjY2X1lsaUZOVU9kNGxTOE9LZkc4cGU4ZVlnUVg4b2dMX2U5N0V5NEZGTEd0SDRDMk52UGVaQ05xb0tvakoyT2lYYnk1b3V3Z2dvdzdHWk5pWFVWVnRyUHViVE1RSmNscTJEc2xDZGdiLXNQcmtXRTE4ZTBUOE8tU0k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTElVWGVuTWwxMnFMZnFuaVhrM083OVNvcVdJM3NRWGk0c0lGUWhmTGw3RF84WHV4bTdaRVk3ZGVhcVZZMnN0MnlUU242bUhPWUFEZ184MDZQVkZtWjFnbThBVUdud1VQZFJkZERmWjFDQ1BNUGRIRVVEUVp2akFUXzlvSlA?oc=5" target="_blank">Inside Ken Griffin’s $5bn Miami takeover</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjJnUjY2X1lsaUZOVU9kNGxTOE9LZkc4cGU4ZVlnUVg4b2dMX2U5N0V5NEZGTEd0SDRDMk52UGVaQ05xb0tvakoyT2lYYnk1b3V3Z2dvdzdHWk5pWFVWVnRyUHViVE1RSmNscTJEc2xDZGdiLXNQcmtXRTE4ZTBUOE8tU0k?oc=5" target="_blank">Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nato should take the ‘offensive’ against Russia, says Sedwill - Financial Times
+## Nvidia shares slide as board considers Jensen Huang’s future - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpGUVVHdmVLcHlGQUtsR0JBSUIyN1Y2Wk9sVklrZk1HbUtyYm5veDRWZl9jRE5KenltVk1MQkI2MzZrU3FVemNFRzAyakw1YWVYY0FDT3RISHBaUHl4TERZRC01a2tvY0ZjeGh2czRtOFA2VlNJei1xMTBLZlRPdzB4amo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTZoZmc3ckl1Vi1WM3ZfcnVUdjNCQUR0T2xKM2lIMnI0NFdQRG5EQ0Q5NEdmMFdLSnUwRDhaWU9uWDVoNXVnT3FLOF9ucUwwam94eUdoT05ZMVktRTZ2QjZZVXkzRndQOW91UnFKQjFZTFNKbFJObzNUSEtSU09UNHlTZjM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpGUVVHdmVLcHlGQUtsR0JBSUIyN1Y2Wk9sVklrZk1HbUtyYm5veDRWZl9jRE5KenltVk1MQkI2MzZrU3FVemNFRzAyakw1YWVYY0FDT3RISHBaUHl4TERZRC01a2tvY0ZjeGh2czRtOFA2VlNJei1xMTBLZlRPdzB4amo?oc=5" target="_blank">Nato should take the ‘offensive’ against Russia, says Sedwill</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTZoZmc3ckl1Vi1WM3ZfcnVUdjNCQUR0T2xKM2lIMnI0NFdQRG5EQ0Q5NEdmMFdLSnUwRDhaWU9uWDVoNXVnT3FLOF9ucUwwam94eUdoT05ZMVktRTZ2QjZZVXkzRndQOW91UnFKQjFZTFNKbFJObzNUSEtSU09UNHlTZjM?oc=5" target="_blank">Nvidia shares slide as board considers Jensen Huang’s future</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## France pressures Germany over nuclear risks of long-range missiles - Financial Times
+## Russian diesel exports double after Trump lifts sanctions, but US gets none - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElaWm5TWURMa29Yd2Y0aUpHZzhnbFFITnVSdnk5a0NSR3FuaHp2UDZuWTFVN3AzU1o5RU5STzc2S25OQTFLYzAycHhPX0FqMnJ1UVlWMjJiSVh3bFRBaUhZczNfX2gwQlVtVVB3ekZ4QXh5S2poNHZXSG5zQmFBd3B3U3A?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5" target="_blank">France pressures Germany over nuclear risks of long-range missiles</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElaWm5TWURMa29Yd2Y0aUpHZzhnbFFITnVSdnk5a0NSR3FuaHp2UDZuWTFVN3AzU1o5RU5STzc2S25OQTFLYzAycHhPX0FqMnJ1UVlWMjJiSVh3bFRBaUhZczNfX2gwQlVtVVB3ekZ4QXh5S2poNHZXSG5zQmFBd3B3U3A?oc=5" target="_blank">Russian diesel exports double after Trump lifts sanctions, but US gets none</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Single-stock perps look like pointiest horn of a bull market - Financial Times
+## Romania offers to pay for US troops - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2RFZlBNQmRBbjhOZURrMmlGczJLVkc3U0VMWEZxekRiYnREVlc2Q1NiM0xKSGdQOWpFaXNqa3I2X05nTlpJT1BqMUM2cV9ObHpYOXZqR1ZzVTd2Vnh3bGw4NVJEbjJBNXZydlFHSTc1OG0zWnFTZWVwZThVWjZtQnkxbmE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2RFZlBNQmRBbjhOZURrMmlGczJLVkc3U0VMWEZxekRiYnREVlc2Q1NiM0xKSGdQOWpFaXNqa3I2X05nTlpJT1BqMUM2cV9ObHpYOXZqR1ZzVTd2Vnh3bGw4NVJEbjJBNXZydlFHSTc1OG0zWnFTZWVwZThVWjZtQnkxbmE?oc=5" target="_blank">Single-stock perps look like pointiest horn of a bull market</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSl9lVXp3dkF3R0g3bFM5OGRqclVKTnBxUVdFUE81V3ZxaWhaRzlVT01XVHNEd2dFdDFWeDMyaHNrVGtJVGdWUk9EbnR1akEzaXRCMHpRbkVHdVF1TGFNZ0FCSFBTcTFuU2gxdUNWZFVrRnQ0VG9iajZKVlZnVmFybFBkRzI?oc=5" target="_blank">Romania offers to pay for US troops</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal? - Reuters
+## Morning Bid: Jensen hangs on as Nvidia tumbles - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5" target="_blank">Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal?</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5" target="_blank">Morning Bid: Jensen hangs on as Nvidia tumbles</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Portugal cancels 200-plus flights, shuts schools as Storm Charles hits - Reuters
+## Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3NpblFpU0lCLW5JVWoxVkNRNldBNDY1c0xmakdfaHhXYkJmbFlHUDlyYmk2OVlRZDcwWXBxTFZnTEF5OUU4d2hnVXVReTcyMzdKOW1qVWxpc3dOb3NTMHQ4VG1ZczdiQ2tETEN6SENYMkdtbkxKQ0psUjIyY19FRWF2QjJNdUJaSEFnUzJXU09TZFFSMERPSXI2Z0dib1pSNjNnYzBmOUtpN0FhODBqd3dB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5" target="_blank">Portugal cancels 200-plus flights, shuts schools as Storm Charles hits</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3NpblFpU0lCLW5JVWoxVkNRNldBNDY1c0xmakdfaHhXYkJmbFlHUDlyYmk2OVlRZDcwWXBxTFZnTEF5OUU4d2hnVXVReTcyMzdKOW1qVWxpc3dOb3NTMHQ4VG1ZczdiQ2tETEN6SENYMkdtbkxKQ0psUjIyY19FRWF2QjJNdUJaSEFnUzJXU09TZFFSMERPSXI2Z0dib1pSNjNnYzBmOUtpN0FhODBqd3dB?oc=5" target="_blank">Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation - Reuters
+## China's Xi says Taiwan 'reunification' must happen as history cannot be stopped - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5" target="_blank">EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5" target="_blank">China's Xi says Taiwan 'reunification' must happen as history cannot be stopped</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states - Reuters
+## Oil falls over $1 on easing geopolitical fears and oversupply worries - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5" target="_blank">Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5" target="_blank">Oil falls over $1 on easing geopolitical fears and oversupply worries</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## House Democrats to investigate Trump's handling of US spy agencies - Reuters
+## EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUNVNU1hM0FCTTEzVFpmRkdybXBBblNRdjJZa1Fzbkl5TGppMDFtT1BaTUdpZU8xVm94RkQxTUZsaXRnWWpxSmlHaS1lc0xxSnpVWW0yMzhtVE5vNzRNSTB5OHhzZzdodXM3U09EMU5GQi1CejRaaGV3ajU4WC1EcndSckM2cjMyaXdDbXJUc3F1OGF4SkJvbFdGRENmcFVTeGdfQkxoQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUNVNU1hM0FCTTEzVFpmRkdybXBBblNRdjJZa1Fzbkl5TGppMDFtT1BaTUdpZU8xVm94RkQxTUZsaXRnWWpxSmlHaS1lc0xxSnpVWW0yMzhtVE5vNzRNSTB5OHhzZzdodXM3U09EMU5GQi1CejRaaGV3ajU4WC1EcndSckM2cjMyaXdDbXJUc3F1OGF4SkJvbFdGRENmcFVTeGdfQkxoQQ?oc=5" target="_blank">House Democrats to investigate Trump's handling of US spy agencies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5" target="_blank">EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
