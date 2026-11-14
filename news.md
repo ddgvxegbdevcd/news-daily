@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-13 19:26:32
+更新时间：2026-11-14 05:48:43
 
-## The Other Way the AI Buildout Pushes Up US Rates
+## China to Meet All New Power Demand With Clean Energy, CCTV Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-11-13/the-other-way-the-ai-buildout-pushes-up-us-rates
+链接：https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says
 
 正文长度：0
 
-摘要：The impact of data center loans.
+摘要：China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.
 
 
 ---
 
-## SEC Moves to Rein In Executive Pay Disclosures to Investors
+## Venezuela Vows to Complete Colombia Pipeline Repairs by March
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors
+链接：https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march
 
 正文长度：0
 
-摘要：Executive compensation disclosures are in for an overhaul as part of the US Securities and Exchange Commission’s plan to scale back the information that publicly-traded companies must give investors.
+摘要：Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.
 
 
 ---
 
-## Chile Mulls Private-Sector Role in Codelco Mines
+## China Railways Set Record With 4.13 Billion Trips in 10 Months
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines
+链接：https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months
 
 正文长度：0
 
-摘要：Chile is considering ways to bring private companies into Codelco’s mining operations and infrastructure, potentially forming partnerships well beyond the exploration ventures currently used by the state copper giant.
+摘要：China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.
 
 
 ---
 
-## US Stocks Slide as Dip Buyers Grow Tired of AI Trade Surprises
+## Cruise Ship Capsizes After Tanker Collision in New Orleans
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus
+链接：https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video
 
 正文长度：0
 
-摘要：US equities fell Friday as investors are reassessing the risks of the artificial intelligence trade, even as wholesale inflation data helped ease fears of an outsized interest-rate hike.
+摘要：All passengers and crew members aboard a river cruise ship that capsized after a tanker collision in New Orleans on Friday were accounted for, with 32 people hospitalized but none critically injured, according to Mayor Helena Moreno. (Source: Bloomberg)
 
 
 ---
 
-## Customers Buying NVIDIA Dip: Guild
+## US Flights Grounded Over Air Traffic Communication Issue
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-13/customers-buying-nvidia-dip-guild-video
+链接：https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video
 
 正文长度：0
 
-摘要：Robinhood Chief Investment Officer Stephanie Guild says customers are buying the NVIDIA dip and says its upcoming earnings will be important in terms of the outlook. She speaks to Bloomberg’s Vonnie Quinn and Isabelle Lee on "Open Interest." (Source: Bloomberg)
+摘要：US authorities halted flights nationwide due to communication issues affecting air traffic control. Myles Miller reports from LaGuardia Airport. (Source: Bloomberg)
 
 
 ---
@@ -232,6 +232,45 @@ When asked whether JetBlue's eye on keeping costs down includes furloughs, layof
 
 ---
 
+## US aviation regulator lifts order that grounded thousands of flights - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVo0M05Ga21Ub2RaX3EzZFp4Y0MxVFFNckR4bnczWHJlQkNvY3VJOHBYRFFFb0lrT3NseXp4S1pFWDRWMTVnTmhrLVQ0em1FZ2tTX0JwWUF5anU5THVpMmp0UmJmV18tdmFxanBtejliODVvXy11MEtnLVpOMGh3UG9kYkU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVo0M05Ga21Ub2RaX3EzZFp4Y0MxVFFNckR4bnczWHJlQkNvY3VJOHBYRFFFb0lrT3NseXp4S1pFWDRWMTVnTmhrLVQ0em1FZ2tTX0JwWUF5anU5THVpMmp0UmJmV18tdmFxanBtejliODVvXy11MEtnLVpOMGh3UG9kYkU?oc=5" target="_blank">US aviation regulator lifts order that grounded thousands of flights</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Amazon revives deal with troubled data centre venture backed by Rick Perry - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5" target="_blank">Amazon revives deal with troubled data centre venture backed by Rick Perry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlNPelNpMlZ1dllCNWdFUHpZcC1wLXpVVjZrYjJyZkZqdFZCZWtpYzcwa3hvNmN2cXV5elZPQ3lXRFdwaXZFT3VhMkZDWnBHZ0ppVlVMM09vNENlQWI5ak9aZFpWSTBCdHJENEM5SXN3YnpLWnZnYk9KSnJPcjE1M1E3bXI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlNPelNpMlZ1dllCNWdFUHpZcC1wLXpVVjZrYjJyZkZqdFZCZWtpYzcwa3hvNmN2cXV5elZPQ3lXRFdwaXZFT3VhMkZDWnBHZ0ppVlVMM09vNENlQWI5ak9aZFpWSTBCdHJENEM5SXN3YnpLWnZnYk9KSnJPcjE1M1E3bXI?oc=5" target="_blank">Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Arm boss Rene Haas approached in Nvidia CEO search - Financial Times
 
 来源：金融时报
@@ -245,119 +284,80 @@ When asked whether JetBlue's eye on keeping costs down includes furloughs, layof
 
 ---
 
-## Jensen Huang’s years-long effort to get close to China - Financial Times
+## Colorado Democrat beats Maga firebrand Lauren Boebert in House race - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5" target="_blank">Jensen Huang’s years-long effort to get close to China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5" target="_blank">Colorado Democrat beats Maga firebrand Lauren Boebert in House race</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russia loses almost half a million lives in war on Ukraine - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5" target="_blank">Russia loses almost half a million lives in war on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nscale warns it needs more cash ahead of $35bn IPO - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEszUlJjTzUyRjJJS0hBSF85NWJZaHgyYzJxYmtRRmNKUzYyb3BFU0VwYzFSTEV0X1dYeUR0MFlrUkdZQzhHOUdqZnlETXJCTVM0YWVuOFp6V3ZaOEJXTEotWWtoV3JyOXEtNjZZUlc2Mlk4OGc3QzdPeWtaNkI3R005TEQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEszUlJjTzUyRjJJS0hBSF85NWJZaHgyYzJxYmtRRmNKUzYyb3BFU0VwYzFSTEV0X1dYeUR0MFlrUkdZQzhHOUdqZnlETXJCTVM0YWVuOFp6V3ZaOEJXTEotWWtoV3JyOXEtNjZZUlc2Mlk4OGc3QzdPeWtaNkI3R005TEQ?oc=5" target="_blank">Nscale warns it needs more cash ahead of $35bn IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Playing the long game with AI - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTg1QUh6WENQV3RCUXFUU2d4TFJaOF9sY3VaTG1UYXhkOGNxRWJfb2hNYVBsazN0eVZNOHMwZjJrR0xqeXJFQTk0WnpHTEI0SkNwQThzRmhxR0syNDVGd3ZFd0FSaEhaYVJOcTN3LWRHOG13RWFzY2tqTjJXTzhQaQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTg1QUh6WENQV3RCUXFUU2d4TFJaOF9sY3VaTG1UYXhkOGNxRWJfb2hNYVBsazN0eVZNOHMwZjJrR0xqeXJFQTk0WnpHTEI0SkNwQThzRmhxR0syNDVGd3ZFd0FSaEhaYVJOcTN3LWRHOG13RWFzY2tqTjJXTzhQaQ?oc=5" target="_blank">Playing the long game with AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia approached Arm CEO Haas to succeed Huang, FT reports - Reuters
+## US flight shutdown exposes deepening air traffic network crisis - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5" target="_blank">Nvidia approached Arm CEO Haas to succeed Huang, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5" target="_blank">US flight shutdown exposes deepening air traffic network crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Europe's security cannot be part of Ukraine peace talks, EU leaders say - Reuters
+## Rubio assails international court in speech to conservative legal group - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5" target="_blank">Europe's security cannot be part of Ukraine peace talks, EU leaders say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5" target="_blank">Rubio assails international court in speech to conservative legal group</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters
+## EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5" target="_blank">OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5" target="_blank">EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Turkey, Qatar sign mutual defence agreement, Turkish presidency says - Reuters
+## Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5" target="_blank">Turkey, Qatar sign mutual defence agreement, Turkish presidency says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5" target="_blank">Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes - Reuters
+## US loses measles-free status after continued spread of the disease, WSJ reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTd4RWIwQ1RNZXNmZzVFT3czU0dhcjBGNlBvV0RmNkQtdExIaWdNeEpZQ2NzR2MwS3J4R0g0MTdxaDVUSGlyRG1LZGxuNTNsb3pLTTBfZzhLZ1l2amJKdnhLLUhJUXp5NXdUalNCSHd4LWJMc05zbDBaeUI2TGhsN0ZDNVdwdTJxV0NDeG5qejNtcUxDWTRfU0ExQ19QeEFtZGJhd05oVUI3WG54WmxvbmlQYXNUSGs1NmlGLUhB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTd4RWIwQ1RNZXNmZzVFT3czU0dhcjBGNlBvV0RmNkQtdExIaWdNeEpZQ2NzR2MwS3J4R0g0MTdxaDVUSGlyRG1LZGxuNTNsb3pLTTBfZzhLZ1l2amJKdnhLLUhJUXp5NXdUalNCSHd4LWJMc05zbDBaeUI2TGhsN0ZDNVdwdTJxV0NDeG5qejNtcUxDWTRfU0ExQ19QeEFtZGJhd05oVUI3WG54WmxvbmlQYXNUSGs1NmlGLUhB?oc=5" target="_blank">Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5" target="_blank">US loses measles-free status after continued spread of the disease, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
