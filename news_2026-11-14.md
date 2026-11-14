@@ -1,68 +1,172 @@
 # 每日财经新闻
 
-更新时间：2026-11-14 05:48:43
+更新时间：2026-11-14 17:50:22
 
-## China to Meet All New Power Demand With Clean Energy, CCTV Says
+## Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says
+链接：https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video
 
 正文长度：0
 
-摘要：China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-Founder and Chief Brand Officer Allison Ellsworth and Poppi Co-Founder and Chief Product Officer Stephen Ellsworth. (Source: Bloomberg)
 
 
 ---
 
-## Venezuela Vows to Complete Colombia Pipeline Repairs by March
+## Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march
+链接：https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## China Railways Set Record With 4.13 Billion Trips in 10 Months
+## The Entrepreneurs Behind Poppi Start Over
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months
+链接：https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video
 
 正文长度：0
 
-摘要：China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.
+摘要：Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura and Lisa Mateo, the couple explains why they are starting over with Jetty, a new hydration brand, and how lessons about social media, hiring and building a team are shaping their second act. (Source: Bloomberg)
 
 
 ---
 
-## Cruise Ship Capsizes After Tanker Collision in New Orleans
+## How China’s Intelligence Operations Target Tech
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video
+链接：https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video
 
 正文长度：0
 
-摘要：All passengers and crew members aboard a river cruise ship that capsized after a tanker collision in New Orleans on Friday were accounted for, with 32 people hospitalized but none critically injured, according to Mayor Helena Moreno. (Source: Bloomberg)
+摘要：Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China’s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decision-making in strategically important industries. Speaking with hosts David Gura and Christina Ruffini, Mattis explains why technology executives can become valuable targets even without access to classified information and how AI is expanding the capabilities of Chinese intelligence operations. (Source: Bloomberg)
 
 
 ---
 
-## US Flights Grounded Over Air Traffic Communication Issue
+## Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video
+链接：https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate
 
 正文长度：0
 
-摘要：US authorities halted flights nationwide due to communication issues affecting air traffic control. Myles Miller reports from LaGuardia Airport. (Source: Bloomberg)
+摘要：Federal Reserve Bank of Boston President Susan Collins said a gradual path for interest-rate hikes will be appropriate to lower inflation, as the labor market gains solid footing without adding to price pressures.
+
+
+---
+
+## Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html
+
+正文长度：7595
+
+摘要：Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Foundation Future Industries, a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.
+Workers have yet to receive paychecks after San Francisco-based Foundation missed payroll on Oct. 30, said the people, who asked for anonymity to speak candidly about a private company.
+The situation has particularly angered some inside the startup because its CEO and co-founder, Sankaet Pathak, borrowed $4.6 million from the company last year to buy a luxury home, money that could have been used to pay workers, the people said.
+Public records show that an LLC that names Pathak as sole principal purchased a $4.6 million Sausalito, California, property with "sweeping, cinematic views" of the San Francisco Bay in October 2025.
+A spokesman for Pathak acknowledged receiving a detailed list of the major points from this story on Thursday, but didn't respond to requests for comment. Pathak's previous startup, a fintech firm named Synapse, collapsed in 2024, leaving thousands of Americans locked out of their savings accounts.
+Foundation's cash crunch comes at a precarious moment for the company, which Pathak has said is close to unveiling a next-generation, weapons-ready robot that will help the U.S. compete against Chinese rivals. At the same time, Pathak is seeking to raise hundreds of millions of dollars in funding at a $3 billion valuation.
+The company has garnered headlines this year for Pathak's claims that his robots could soon take on battlefield tasks in Ukraine or patrol the U.S. border with Mexico. Broadcast interviews and articles about Foundation also include claims that the company has won $24 million in Pentagon contracts.
+"What we're about to unveil in the next couple of months [is] going to be the strongest humanoid robot that exists anywhere in the world, including China," Pathak said in an April television interview.
+'Plain sight'
+That April interview introduced Eric Trump, the son of the U.S. president, as a Foundation investor and chief strategy advisor. It is unclear how large his stake is.
+Eric Trump and his brother Donald Trump Jr. have invested in an array of defense firms, including makers of military drones and autonomous weapons. A July Washington Post investigation found that startups backed by investment vehicles linked to the brothers had secured at least $3.2 billion in government business.
+"We have to win robotics in the United States of America," Eric Trump said in April. "When you go up and interact with these robots ... they fist bump you, they high five you, they follow your commands."
+Eric Trump's involvement in Foundation drew the swift ire of Sen. Elizabeth Warren, D-Mass., who asked whether Foundation won U.S. defense contracts because of nepotism.
+"Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration," Warren said in an April 23 social media post. "This looks like corruption in plain sight."
+Eric Trump didn't respond to requests for comment. His spokesperson recently told the Financial Times that Eric Trump had "no involvement in Foundation's management, operations, strategic decisions or commercial activities, including the solicitation, negotiation, procurement or execution of any government contracts."
+While the Eric Trump announcement created speculation within Foundation that a Democratic-led Congress may look to investigate the company, Foundation itself didn't actually win the $24 million in contracts, despite that assertion being widely reported across news outlets.
+Instead, it acquired Florida-based Boardwalk Robotics in late 2024, and government research contracts won by that firm account for the claim, said a person with knowledge of the matter. Foundation used Boardwalk's robot Alex as the basis for its first robot, the Phantom MK-1, this person said.
+Foundation's deal for Boardwalk included performance milestones for the robot that haven't been reached, said a separate person with direct knowledge of the deal.
+In 2024, CNBC reported that letters Pathak sent to prospective investors cited an imminent investment and $300 million purchase order from General Motors, claims the automaker rejected.
+Foundation co-founder Mike LeBlanc said at the time he was "embarrassed" about the marketing materials.
+Rescue loan?
+Insiders fret that Foundation could soon fold if Pathak doesn't secure fresh funding. Pathak has been seeking to raise hundreds of millions of dollars at a $3 billion valuation since at least January.
+Pathak is Foundation's sole board member, a structure that has raised concerns among prospective investors about corporate governance, said the people familiar with the matter. He also owns most of the firm's shares.
+That setup allowed Pathak to borrow $4.6 million last year, which he called a short-term loan at the time, the people said. Existing investors are aware of the loan through the company's financial disclosures, the people said.
+"This is what happens in a company with no governance," said one of the people. "Are you just going to let it ride into the ground, and you ride off into the sunset?"
+Foundation also ran out of cash for payroll in August, though employees only had to wait about two days to get paid after the company secured a bridge loan from an existing investor, the people said.
+Pathak told employees this week in a memo that he was working on sourcing money to pay back wages.
+The company was founded in April 2024 by Pathak, Tribe Capital CEO Arjun Sethi and LeBlanc, co-founder of Cobalt Robotics, a maker of autonomous security guards, according to a fundraising pitch at the time.
+Foundation went on to hire dozens of robotics engineers and artificial intelligence experts, managing to lure some from Tesla and Amazon-owned autonomous vehicle company Zoox.
+Missing money
+Before Foundation, Pathak was known as the founder of Synapse, a kind of middleman that enabled fintech firms like Mercury, Dave and YieldStreet to offer savings accounts and credit cards with the help of small community banks.
+Synapse was a behind-the-scenes player until its collapse left more than 100,000 Americans with a combined $265 million in deposits locked out of their FDIC-backed accounts.
+While some customers received partial payments during Synapse's bankruptcy proceedings, thousands remain without access to their money after more than two years. A bankruptcy trustee, the former FDIC chair Jelena McWilliams, said as much as $96 million in customer funds went missing.
+The bankruptcy proceedings concluded last year without uncovering where the funds went; Pathak blamed a banking partner named Evolve, and Evolve blamed Synapse for the mess. U.S. regulators didn't intervene until the Consumer Financial Protection Bureau sued Synapse last year, opening up a $55 million fund for customer relief.
+Pathak withdrew $320,000 in loans from Synapse as it spiraled toward bankruptcy in 2024 amid disputes over unmatched ledgers, according to the consultant and independent journalist Jason Mikula.
+Federal prosecutors convened a grand jury to investigate possible criminal misconduct at Synapse, the Wall Street Journal reported last year. The WSJ report didn't mention Pathak specifically.
+The controversy didn't dissuade Eric Trump from investing in Foundation and Pathak, who he called a friend in the April broadcast interview.
+"I walked into his factory, and I couldn't believe what I saw," Eric Trump said. "I'm telling you, he's doing a phenomenal job."
+
+</details>
+
+
+---
+
+## Retailers are turning to entertainment to win shoppers’ attention
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html
+
+正文长度：6491
+
+摘要：Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Legacy retailer Gap Inc. made an unconventional hire earlier this year: a chief entertainment officer.
+It was a newly created role as the company tapped former Paramount executive Pam Kaufman to helm its entertainment, content and licensing platform. Gap has since rolled out major campaigns, partnering with bands like Just Your Type and building on the success of last year's ads with girl group Katseye.
+"Beloved brands have value beyond the products they sell. Consumers identify with them, trust them and want to be part of their world," Kaufman told CNBC in a statement. "The key is authenticity: Every extension has to reflect what the brand stands for and give its fans a meaningful new way to experience it."
+She said it's part of a broader goal to emphasize what Gap calls "fashiontainment," a strategy to blend retail and entertainment to better align with consumers. Gap is part of a growing cohort of retailers investing in entertainment and experiences both in-store and through exclusive online content to drive engagement.
+"Brands are stories, and we are the storytellers," CEO Richard Dickson said at the Goldman Sachs Global Consumer and Retail conference in September. "I think you could see that come to life when you look at some of the work that we've done, putting our brands in the center of culture and cultural conversation."
+In another blending of retail and media, Mattel made waves a few years ago for its "Barbie" movie, building on the intellectual property of a decades-old fan favorite and drawing in massive box office success. At the time, Dickson was president and chief operating officer of the company, witnessing firsthand the sectors' intersection before departing for Gap.
+"I think the post-Covid consumer attitude around shopping certainly evolved a lot," said Bryan Eshelman, who leads the retail practice at consulting firm AlixPartners. "It has gone from shopping as a fulfillment task to shopping, in many instances, more as an entertainment form."
+Between experiences in physical stores and media campaigns featuring exclusive content, Eshelman said, retailers are getting more creative about the ways they're driving engagement and marketing.
+"Community, at the end of the day, is one of the key ways to drive loyalty, so I think retailers of all types are trying to tap into some sense of community, some sense of lifestyle, some sense of belonging that's beyond the product that they offer," he said.
+Branded entertainment has been around for a long time. Procter & Gamble made headlines in the 1930s for helping to coin the term "soap opera," and companies have for decades created media campaigns to draw in customers.
+But with the rise of social media, content creation and short-form offerings, experts said audiences are becoming hungrier than ever for something new and original.
+Valuable IP wins
+The retail and entertainment intersection is happening at a time when intellectual property is becoming more valuable than ever, according to experts.
+As consumers encounter more marketing than ever, the companies that will win the battle for attention are the ones that can "cut through all of the noise," said Alex Michael, senior managing director at investment firm LionTree.
+"The hardest thing to find and to get is audience these days," Michael told CNBC. "IP, in that sense, is the most valuable thing out there, and only becoming more valuable because it's attached to audience."
+At the same time, he said, the way IP is distributed is broadening to include video, audio, short-form, long-form and live event content. Consumers are also redefining their loyalty to brands, which means companies have to "play much earlier in the consumer journey" than they have in years past to secure their trust, he said.
+The trend is also likely helped by executives who have worked in both retail and entertainment: Gap's Kaufman came from Paramount, for example, and Dickson and Skydance co-CEO Ynon Kreiz held top roles at Mattel.
+"The gray areas have never been more pronounced as to what is classically defined as retail or media or entertainment or live events," Michael said. "People who have cross-sector expertise are increasingly more valuable because you can't be defined by a single vertical, especially as things change so quickly."
+Bridging the gap
+Still, there's room for newer players, especially with the studio landscape rapidly changing, said Sean Akaks, the CEO of SonderCo, an agency that partners brands with celebrities and entertainment properties.
+"I think it's a really interesting time for nontraditional players to be making content because you're seeing this massive consolidation of these legacy entertainment companies," he said. "I think there are just more open lanes for independent creators and also brands and anyone outside the traditional studio system to create content."
+That's where retailers might tap creators, Akaks said, because they can use their platforms to reach consumers directly.
+"I do think there's a world where we're going to see creators and brands sort of co-creating IP that maybe they're owning together," he said.
+Once those companies get consumers into the store, they're also leaning into experiential retail, making shopping a more immersive experience than it otherwise would be, like Dick's Sporting Goods offering interactive activities and simulators in its stores.
+According to data from AlixPartners, companies investing in experiential retail such as Coach and Ralph Lauren saw close to 10% year-over-year increases in consumers' average basket size.
+"The idea that retailers would potentially invest in some distributed electronic content to help drive traffic, and then when you get there, it's experiential — it really goes into the kinds of flywheels that entertainment companies are also trying to build and grow," said Jeff Goldstein, co-lead of the media and entertainment practice at AlixPartners.
+Yet, the entertainment that retail brands are developing is only one piece in a larger puzzle to retain customers and attract new ones. Translating that into tangible sales growth isn't necessarily a given.
+"The basics of having great product in stock at a transparent price that feels like value is not swept away by animatronics," AlixPartners' Eshelman said. "The fundamentals are still there, and if you're going to have a good retail proposition, you need to have that balance. You can't mask bad product at a bad price with no inventory with glitz and glamour."
+
+</details>
 
 
 ---
@@ -174,60 +278,15 @@ CANARX has not responded to the Gilead lawsuit.
 
 ---
 
-## American Airlines brings fresh food back to NY-Chicago first class for first time since 2019
+## Germany suffers setback in joining fighter jet project - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：986
+正文长度：0
 
-摘要：American Airlines' first-class food options include sandwiches, fruit and chia bowls
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> American Airlines said Wednesday it's bringing small, fresh "bites" to first class on flights between its hubs in New York and Chicago, the carrier's latest effort to win over higher-spending customers.
-The changes start this month. Customers will be able to pick between two options, which include prosciutto and melon or apple cinnamon chia pudding for breakfast and a Thai noodle salad or mezze plate for lunch and dinner, American said Wednesday.
-American last offered fresh food for first class on these routes in 2019, a spokeswoman said. Currently, customers in first class on these flights get a smaller, packaged snack. Airlines largely have limited food options for shorter flights, even in first class.
-American has fallen behind Delta Air Lines and United Airlines in profits and investments in premium options. The airline has been working to step up those premium offerings in recent years with new cabins, lounges and plans for seatback screens on its narrow-body fleets.
-
-</details>
-
-
----
-
-## JetBlue unveils new first-class seats to bring back profits
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html
-
-正文长度：3660
-
-摘要：JetBlue gave reporters a look at its new first-class seats on Wednesday.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> JetBlue Airways unveiled its new domestic first-class seats Wednesday as more of the country's carriers bet on the premium travel boom to make them profitable again.
-JetBlue announced it would offer a domestic first class — BlueFirst — in December 2024 and plans to start flying aircraft with the new seats and full on-board product next month. The carrier showed off the new cabin at its home hub at John F. Kennedy International Airport on Wednesday. Retrofits will continue during 2027, CEO Joanna Geraghty told CNBC late last month.
-JetBlue will have 12 of the seats on its Airbus A320 fleet and 30 extra-legroom seats, down from 42 of those options previously. Because the airplanes don't have ovens, JetBlue said it is offering an array of cold food options like sesame noodles, pastrami sandwiches and tortellini salad, though they vary by route.
-The rollout comes as the New York airline tries to stabilize after last posting a profit in 2019. Last month, JetBlue executives sought to calm investors after shares in the airline hit a record low following a report that bondholders had contracted restructuring advisors.
-"We have no intention, no plans to file for bankruptcy. We are not engaged with any restructuring company," Geraghty told CNBC in an interview on Oct. 27.
-Geraghty told CNBC's Phil LeBeau on Wednesday that JetBlue has "met with a few of the creditors over the last couple of weeks as part of ... normal investor engagement." She said the company made it clear to bondholders that JetBlue doesn't need to reorganize.
-The airline's shares are up more than 40% this month, more than other passenger carriers, as of midday Wednesday, though they are still off about 11% so far this year.
-JetBlue is betting that resilient travel demand, especially for roomier seats will help fuel its turnaround plan, which aims to get the carrier to an operating profit next year and $1 in adjusted earnings per share in 2028.
-Airline executives have said they expect fares to stay elevated next year as they grapple with higher costs, including but not limited to fuel, such as labor and airport fees. Geraghty said Wednesday that even if fuel prices moderate next year, "I don't think fares are going to fall as much as people expect."
-Airlines large and small are racing to outfit their cabins with roomier, more expensive seating options to help cover ever-higher costs, from jet fuel to labor to airport operation fees.
-For example, a ticket in the new recliner first-class seats between Kennedy airport and Fort Lauderdale-Hollywood International Airport in Florida is going for $847 roundtrip in the first week of March while standard economy is $446.
-On Tuesday, budget carrier Frontier Airlines unveiled its new first-class seats, which will take up the first two rows, and said it would outfit its Airbus fleet with premium seating that has extra legroom and in-seat power through row eight. The airline will take out a row of seating on its planes to make the pricier ones fit, Chief Marketing Officer Bobby Schroeter told CNBC in an interview Monday.
-JetBlue last month reported that it ended the third quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
-JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing.
-Geraghty told CNBC last month there is a "fundamental disconnect between the narrative in the bond market and what our financial results actually demonstrate."
-When asked whether JetBlue's eye on keeping costs down includes furloughs, layoffs or buyouts, Geraghty last month said "absolutely not."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5" target="_blank">Germany suffers setback in joining fighter jet project</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -245,6 +304,32 @@ When asked whether JetBlue's eye on keeping costs down includes furloughs, layof
 
 ---
 
+## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtpTHJsZ0pHR0VpRUx2NlRFcVNnZ1ZvazVNR2tSR2dwcHUtb1MtLWVCTURERFl2QWR1RjNNWXZnVDZBeldsaVNHTzRuTzRZMjNibVdMSkJrclNTT1BucGFlX2RjWjVkTW8wWkJZSjhFTnZKX0QxVXdicl9IaDRGai1uVGw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtpTHJsZ0pHR0VpRUx2NlRFcVNnZ1ZvazVNR2tSR2dwcHUtb1MtLWVCTURERFl2QWR1RjNNWXZnVDZBeldsaVNHTzRuTzRZMjNibVdMSkJrclNTT1BucGFlX2RjWjVkTW8wWkJZSjhFTnZKX0QxVXdicl9IaDRGai1uVGw?oc=5" target="_blank">Nvidia exposed to possible lawsuits after Jensen Huang’s downfall</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## How Trump’s midterm gerrymandering flopped - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxDcUlBejdZWFdzOUJLM25SS003VGFzRFdtTHhnSGd5ZzVrSkQxelREVE9TT2poX3hFdWpkaTh0S2pzWVJTa0EyS2ViYTNlT0p4YWE2d05iMXE4aUZyb0h5cC1KVGN6a2JPWEJwRmtibjJjZl85aDBfWUh5T0lJdHJYQ20?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxDcUlBejdZWFdzOUJLM25SS003VGFzRFdtTHhnSGd5ZzVrSkQxelREVE9TT2poX3hFdWpkaTh0S2pzWVJTa0EyS2ViYTNlT0p4YWE2d05iMXE4aUZyb0h5cC1KVGN6a2JPWEJwRmtibjJjZl85aDBfWUh5T0lJdHJYQ20?oc=5" target="_blank">How Trump’s midterm gerrymandering flopped</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Amazon revives deal with troubled data centre venture backed by Rick Perry - Financial Times
 
 来源：金融时报
@@ -258,106 +343,67 @@ When asked whether JetBlue's eye on keeping costs down includes furloughs, layof
 
 ---
 
-## Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlNPelNpMlZ1dllCNWdFUHpZcC1wLXpVVjZrYjJyZkZqdFZCZWtpYzcwa3hvNmN2cXV5elZPQ3lXRFdwaXZFT3VhMkZDWnBHZ0ppVlVMM09vNENlQWI5ak9aZFpWSTBCdHJENEM5SXN3YnpLWnZnYk9KSnJPcjE1M1E3bXI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlNPelNpMlZ1dllCNWdFUHpZcC1wLXpVVjZrYjJyZkZqdFZCZWtpYzcwa3hvNmN2cXV5elZPQ3lXRFdwaXZFT3VhMkZDWnBHZ0ppVlVMM09vNENlQWI5ak9aZFpWSTBCdHJENEM5SXN3YnpLWnZnYk9KSnJPcjE1M1E3bXI?oc=5" target="_blank">Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Arm boss Rene Haas approached in Nvidia CEO search - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5" target="_blank">Arm boss Rene Haas approached in Nvidia CEO search</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Colorado Democrat beats Maga firebrand Lauren Boebert in House race - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5" target="_blank">Colorado Democrat beats Maga firebrand Lauren Boebert in House race</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US flight shutdown exposes deepening air traffic network crisis - Reuters
+## Thousands of US flights canceled, delayed as air travel system recovers from shutdown - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5" target="_blank">US flight shutdown exposes deepening air traffic network crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5" target="_blank">Thousands of US flights canceled, delayed as air travel system recovers from shutdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Rubio assails international court in speech to conservative legal group - Reuters
+## Musk says Nvidia will lose 'critical' deals without Jensen Huang - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5" target="_blank">Rubio assails international court in speech to conservative legal group</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5" target="_blank">Musk says Nvidia will lose 'critical' deals without Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters
+## Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5" target="_blank">EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5" target="_blank">Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters
+## Alaska elects first Democratic governor since 1998, US media project - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5" target="_blank">Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5" target="_blank">Alaska elects first Democratic governor since 1998, US media project</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US loses measles-free status after continued spread of the disease, WSJ reports - Reuters
+## Fed's Collins says gradual rate hikes best to manage economic risks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5" target="_blank">US loses measles-free status after continued spread of the disease, WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5" target="_blank">Fed's Collins says gradual rate hikes best to manage economic risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
