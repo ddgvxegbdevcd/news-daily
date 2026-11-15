@@ -1,68 +1,108 @@
 # 每日财经新闻
 
-更新时间：2026-11-15 05:49:39
+更新时间：2026-11-15 18:40:58
 
-## Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless
+## Nvidia Fallout, Next Mega IPO, FAA Router Failure
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless
+链接：https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video
 
 正文长度：0
 
-摘要：Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. TSA Administrator and Fmr. FBI Deputy Director John Pistole, Veda Partners Co-Founder and Director of Economic Policy Research Henrietta Treyz, Washington Post National Security Correspondent Tara Copp, “Embargo” Author and Journalist Philip Delves Broughton, PIMCO EVP, Market Strategist and Generalist Portfolio Manager Tony Crescenzi, Illinois Rep. Raja Krishnamoorthi and Monument Advocacy Principal Mark Bednar. (Source: Bloomberg)
 
 
 ---
 
-## (Digital) SpaceX Catches Starship in Novel Landing
+## Peru’s Economy Unexpectedly Slows as Mining, Farming Slump
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing
+链接：https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump
 
 正文长度：0
 
-摘要：(Digital) SpaceX Catches Starship in Novel Landing  (Source: Bloomberg)
+摘要：Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.
 
 
 ---
 
-## Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly
+## Bookmarked: News Stories On Our Reading List
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly
+链接：https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video
 
 正文长度：0
 
-摘要：US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.
+摘要：Foraging at luxury retreats, $20 million in cash found in Hungary, and the plight of big sisters: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
 
 
 ---
 
-## Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-Founder and Chief Brand Officer Allison Ellsworth and Poppi Co-Founder and Chief Product Officer Stephen Ellsworth. (Source: Bloomberg)
+摘要：AI bots using credit cards, Meta and TikTok’s confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
 
 
 ---
 
-## Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
+## White House Braces for Democratic Investigations
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
+链接：https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video
 
 正文长度：0
 
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
+摘要：Bully Pulpit International’s Adam Hodge and Monument Advocacy’s Mark Bednar are on Bloomberg This Weekend to examine the looming fight between congressional Democrats and the Trump administration over subpoenas, executive privilege and oversight of the White House’s relationships with corporate leaders. Speaking with hosts David Gura and Christina Ruffini, they also discuss congressional scrutiny of Nvidia, the fallout from the FAA ground stop and where Republicans and Democrats could find room for bipartisan cooperation in the new Congress. (Source: Bloomberg)
+
+
+---
+
+## Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html
+
+正文长度：4446
+
+摘要：EV makers have had to contend with flip-flopping regulatory support from Washington over the years.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Leaders of several U.S. electric vehicle manufacturers said they're not counting on increased federal support for their businesses once Democrats gain control of Congress in January, but they said they'll gladly take it if it does happen.
+That was the overall sentiment from CEOs of Rivian Automotive, Lucid Group and EV startup Scout Motors during interviews with CNBC after Democrats' historic midterm election wins.
+"We've honestly constructed Scout from day one to be in an environment where we're not going to count on, let's say, legislation or count on things that may or may not be there," Scout CEO Scott Keogh, an automotive veteran, told CNBC on Wednesday.
+EV makers have had to contend with flip-flopping support from Washington over the years. The Trump administration has ended or rolled back support for climate change initiatives and EVs that were supported by the Biden administration, including an up to $7,500 customer incentive for purchasing an EV.
+Legacy automakers such as General Motors and EV startups alike had counted on such credits to help them boost their sales and assist in electric vehicle profitability. But now they don't have that same level of federal assistance.
+'Plan for the worst'
+Rivian CEO RJ Scaringe said it's his hope that the Democratic-controlled Congress and Republican President Donald Trump can find middle ground to make progress for the EV industry, but Rivian's not counting on that.
+"We try not to plan for those sort of things. The reality is it's probably going to have less of an impact than we think," Scaringe said Nov. 6 following the election results. "I think we're going to actually have a lot of challenges getting things done."
+Fellow EV manufacturer Lucid, which is backed by Saudi Arabia's Public Investment Fund, is taking a similar approach.
+"You know, they say, 'Plan for the worst and … hope for the best.' That's all we can say," Lucid CEO Silvio Napoli told CNBC on Monday. "Anything positive, we'll take it."
+The lack of expected support comes as Democrats seem to be more focused on hot topics such as healthcare and data centers rather than climate change and support for alternative energy technologies such as EVs.
+CNBC previously reported that House Democrats plan to bring to the floor bills reinstating the enhanced health insurance subsidies that expired under the GOP-held Congress and reversing the Medicaid cuts Trump signed into law last year. They also plan to focus on oversight of the Trump administration and affordability.
+Rachel McCleery, executive director of the nonprofit policy advisory Coalition for Reimagined Mobility at SAFE, said she believes affordability concerns also could include the cost of vehicles, including EVs.
+"I fully expect there will be legislative debates over what to do moving forward, including on EV and EV supply chain incentives," McCleery, a former U.S. Department of Treasury senior advisor and Ford Motor policy director, said. "Bringing down the cost of vehicles for U.S. consumers is top of mind for Democratic policymakers, and electric vehicles are a critical aspect of this agenda because of the multiple challenges greater EV adoption solves for."
+Affordability concerns
+Scout's Keogh said if legislators decide to offer any type of support, he would prefer it to be for EV production, which could then have a trickle-down effect on vehicle pricing and help companies amid inflated costs.
+"I always prefer it on the production side," Keogh said. "Anything that can drive down production cost is going to, of course, get passed along to the customer."
+Affordability has been a concern for EV adoption as the vehicles typically cost more than traditional models with internal combustion engines.
+Sales of EVs spiked last year ahead of the Trump administration ending the up to $7,500 incentive after September 2025, but have since come down from that high.
+Cox Automotive reports the average price for a new electric vehicle as of September was more than $54,800, according to the most recent available data. That compared to the average overall industry at just over $51,100 last month.
+"Ultimately, incentives can help accelerate adoption, but the industry can't build its long-term strategy around them," Stephanie Valdez Streaty, Cox director of industry insight, said Friday. "The goal has to be making EVs affordable and compelling enough that they make sense for more consumers with or without an incentive."
+
+</details>
 
 
 ---
@@ -240,40 +280,54 @@ Reservations for Scout's vehicles initially opened in October 2024, when it reve
 
 ---
 
-## Feds arrest top official of healthcare company, alleging illegal drug importation
+## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4415
+正文长度：0
 
-摘要：U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?oc=5" target="_blank">FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> U.S. authorities are accusing the two top officials of a Canadian company of operating a long-running scheme to illegally import prescription drugs into the U.S., according to court records filed Tuesday.
-John Thomas Howard, treasurer and a director of the company, CANARX, was arrested Sunday on smuggling and conspiracy charges, according to the records.
-Bob Howard, his brother, who is president and a director of CANARX, is also wanted in the federal investigation, according to an affidavit from Dustin Dobbs, a special agent with the Food and Drug Administration's Office of Criminal Investigations. He has not yet been taken into custody.
-Besides conspiracy and smuggling, the arrest warrant said John Thomas Howard was charged with introducing misbranded drugs into interstate commerce and illegal drug importation. No plea has been filed.
-CANARX was featured in a CNBC investigation last year that revealed how the company and others known as alternative funding programs, or AFPs, are becoming more pervasive around the U.S. as drug costs skyrocket. The investigation found these companies have penetrated the country's healthcare system by offering high-cost specialty drugs at more affordable prices through private and public employers. In some cases, employers are requiring their staff to use an AFP.
-AFPs often obtain the medications overseas and ship them directly to patients, a practice that federal authorities have said is illegal and poses safety risks. CNBC traced the trail of drugs from abroad to the U.S. via a supply chain that the pharmaceutical companies producing the medications have not authorized.
-On its website, CANARX, founded in 2002 and based in Windsor, Ontario, Canada, described its business as the first international prescription provider for the U.S. and the safest such program in the industry. The company said it sources its medications from Canada, the United Kingdom, Australia and New Zealand.
-But the affidavit said that the FDA's investigation found "there is probable cause to believe that (CANARX) illegally imported or caused the illegal importation of prescription drugs into the United States …."
-The affidavit does not specify which medications the agency believes were illegally imported. The criminal complaint covers the period from Feb. 22, 2017, through April 15, 2026.
-The company's general counsel, Joseph Morris, told CNBC in a statement: "The Howards deny all the charges against them, will defend vigorously, and expect to be vindicated in court."
-The company has been under FDA scrutiny for several years. In 2023, the agency seized medication being shipped by CANARX that it says was potentially misbranded and counterfeit, according to an email sent to a patient that was obtained by CNBC.
-And in 2019, the FDA sent a warning letter to the company, saying it was operating "in a manner that substitutes the FDA-approved drugs prescribed by the U.S. healthcare provider with unapproved drugs." Morris, in response to that warning, argued CANARX was not misleading patients, but agreed for the company to stop importing drugs that need to be administered by a doctor.
-In an interview as part of the CNBC investigation, Morris said last year that the medicines shipped to U.S. patients come from highly regulated countries. He said CANARX was operating legally.
-The central question for AFPs is the legality of importing prescription drugs into the U.S. for personal use. The FDA allows Americans to import medications for individual use in some cases if the drug is not available domestically. That is the basis on which the AFPs built their models for shipping medicines directly to patients.
-But an FDA spokesperson told CNBC last year that "in most circumstances, a person cannot import prescription drugs from other countries into the U.S. ... as substitutes for FDA-approved drugs."
-In a separate civil lawsuit that is pending, Gilead Sciences accused CANARX and other companies of illegally importing Biktarvy, its medication to treat HIV.
-In a statement to CNBC on Wednesday, a Gilead spokesperson said the company "has taken strong legal action to protect patients and the integrity of the U.S. medicines supply chain. We welcome the government's efforts to hold accountable those whose conduct may put patients at risk."
-CANARX has not responded to the Gilead lawsuit.
-— CNBC's Paige Tortorelli and Melissa Lee contributed to this report
+---
 
-</details>
+## Anthropic’s IPO is the next big test for AI - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5" target="_blank">Anthropic’s IPO is the next big test for AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Congress moves to pass tighter AI chip export rules following Nvidia scandal - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxvZmxUQ0JxLVJuWmRILTBpbUwwbEMxbDV1bEhkYVdjdnl3WVYzWFBGZFhqckFER1JyYWptWEI3XzAzeEZ1dnZuSUdYVkFCdFZXTjVmMUxtVjJSc0dPZHR2R05TbE1mQzA0OU84TEdXd1I0UkFrS2Z0dDRIUXoxV2Y3b2o?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxvZmxUQ0JxLVJuWmRILTBpbUwwbEMxbDV1bEhkYVdjdnl3WVYzWFBGZFhqckFER1JyYWptWEI3XzAzeEZ1dnZuSUdYVkFCdFZXTjVmMUxtVjJSc0dPZHR2R05TbE1mQzA0OU84TEdXd1I0UkFrS2Z0dDRIUXoxV2Y3b2o?oc=5" target="_blank">Congress moves to pass tighter AI chip export rules following Nvidia scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Decision to move Shakespeare Institute out of Stratford sparks outcry - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2MwQ0dSVUk0cFFuSXhRdnAtdzN2WkoySXBjbEFfMU1wU0lTdmdrYlhEMFJLU3pmUXFidDBnWTVTcU5HZmlzWE1yaGh3QTNkS3YyV3VLSFMwZHRpR1FQYmNpMlUzX3J3ZUotck9EczVxcGhKdS1DV0hQR1lTeVNIdzdabXE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2MwQ0dSVUk0cFFuSXhRdnAtdzN2WkoySXBjbEFfMU1wU0lTdmdrYlhEMFJLU3pmUXFidDBnWTVTcU5HZmlzWE1yaGh3QTNkS3YyV3VLSFMwZHRpR1FQYmNpMlUzX3J3ZUotck9EczVxcGhKdS1DV0hQR1lTeVNIdzdabXE?oc=5" target="_blank">Decision to move Shakespeare Institute out of Stratford sparks outcry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -291,119 +345,67 @@ CANARX has not responded to the Gilead lawsuit.
 
 ---
 
-## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtpTHJsZ0pHR0VpRUx2NlRFcVNnZ1ZvazVNR2tSR2dwcHUtb1MtLWVCTURERFl2QWR1RjNNWXZnVDZBeldsaVNHTzRuTzRZMjNibVdMSkJrclNTT1BucGFlX2RjWjVkTW8wWkJZSjhFTnZKX0QxVXdicl9IaDRGai1uVGw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtpTHJsZ0pHR0VpRUx2NlRFcVNnZ1ZvazVNR2tSR2dwcHUtb1MtLWVCTURERFl2QWR1RjNNWXZnVDZBeldsaVNHTzRuTzRZMjNibVdMSkJrclNTT1BucGFlX2RjWjVkTW8wWkJZSjhFTnZKX0QxVXdicl9IaDRGai1uVGw?oc=5" target="_blank">Nvidia exposed to possible lawsuits after Jensen Huang’s downfall</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5" target="_blank">US floats Nato membership for Donbas withdrawal deal, Zelenskyy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Germany suffers setback in joining fighter jet project - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5" target="_blank">Germany suffers setback in joining fighter jet project</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Amazon revives deal with troubled data centre venture backed by Rick Perry - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5" target="_blank">Amazon revives deal with troubled data centre venture backed by Rick Perry</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters
+## US air travel disruptions continue into third day - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5" target="_blank">Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5" target="_blank">US air travel disruptions continue into third day</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## UK's Prince William to be joined by wife Kate for visit to India - Reuters
+## Estonia to close Russian border crossings after attempted arson attack - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5" target="_blank">UK's Prince William to be joined by wife Kate for visit to India</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5" target="_blank">Estonia to close Russian border crossings after attempted arson attack</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Hamas says senior armed commander killed in Israeli strike - Reuters
+## Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5" target="_blank">Hamas says senior armed commander killed in Israeli strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5" target="_blank">Bessent says Nvidia must 'go outside the company' to find new CEO</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets - Reuters
+## Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5" target="_blank">SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5" target="_blank">Indonesia president conveys apology to Singapore, Malaysia over wildfire haze</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## ‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown - Reuters
+## Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5" target="_blank">‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5" target="_blank">Africa CDC says Ebola outbreak still out of control six months since it was declared</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
