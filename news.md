@@ -1,6 +1,45 @@
 # 每日财经新闻
 
-更新时间：2026-11-14 17:50:22
+更新时间：2026-11-15 05:49:39
+
+## Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless
+
+正文长度：0
+
+摘要：Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.
+
+
+---
+
+## (Digital) SpaceX Catches Starship in Novel Landing
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing
+
+正文长度：0
+
+摘要：(Digital) SpaceX Catches Starship in Novel Landing  (Source: Bloomberg)
+
+
+---
+
+## Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly
+
+正文长度：0
+
+摘要：US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.
+
+
+---
 
 ## Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight
 
@@ -24,45 +63,6 @@
 正文长度：0
 
 摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
-
-
----
-
-## The Entrepreneurs Behind Poppi Start Over
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video
-
-正文长度：0
-
-摘要：Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura and Lisa Mateo, the couple explains why they are starting over with Jetty, a new hydration brand, and how lessons about social media, hiring and building a team are shaping their second act. (Source: Bloomberg)
-
-
----
-
-## How China’s Intelligence Operations Target Tech
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video
-
-正文长度：0
-
-摘要：Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China’s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decision-making in strategically important industries. Speaking with hosts David Gura and Christina Ruffini, Mattis explains why technology executives can become valuable targets even without access to classified information and how AI is expanding the capabilities of Chinese intelligence operations. (Source: Bloomberg)
-
-
----
-
-## Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate
-
-正文长度：0
-
-摘要：Federal Reserve Bank of Boston President Susan Collins said a gradual path for interest-rate hikes will be appropriate to lower inflation, as the labor market gains solid footing without adding to price pressures.
 
 
 ---
@@ -278,28 +278,15 @@ CANARX has not responded to the Gilead lawsuit.
 
 ---
 
-## Germany suffers setback in joining fighter jet project - Financial Times
+## New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0ZHa0VqbVdNZ1huNTFfejBlTkR3ZEJPLUhOWVh6bTFCLTVYblZtMlBQR0RpRnNBZTBucFZRMldjclR6RVdvaDRncGJ2U1pNbEN4QmRQQktDMmpNOUtsczhwOWRNZjRpWHZYV2hPYldGQUJSYXlFT3ZsM2FaTjFHUHFjWXE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5" target="_blank">Germany suffers setback in joining fighter jet project</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US aviation regulator lifts order that grounded thousands of flights - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVo0M05Ga21Ub2RaX3EzZFp4Y0MxVFFNckR4bnczWHJlQkNvY3VJOHBYRFFFb0lrT3NseXp4S1pFWDRWMTVnTmhrLVQ0em1FZ2tTX0JwWUF5anU5THVpMmp0UmJmV18tdmFxanBtejliODVvXy11MEtnLVpOMGh3UG9kYkU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVo0M05Ga21Ub2RaX3EzZFp4Y0MxVFFNckR4bnczWHJlQkNvY3VJOHBYRFFFb0lrT3NseXp4S1pFWDRWMTVnTmhrLVQ0em1FZ2tTX0JwWUF5anU5THVpMmp0UmJmV18tdmFxanBtejliODVvXy11MEtnLVpOMGh3UG9kYkU?oc=5" target="_blank">US aviation regulator lifts order that grounded thousands of flights</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0ZHa0VqbVdNZ1huNTFfejBlTkR3ZEJPLUhOWVh6bTFCLTVYblZtMlBQR0RpRnNBZTBucFZRMldjclR6RVdvaDRncGJ2U1pNbEN4QmRQQktDMmpNOUtsczhwOWRNZjRpWHZYV2hPYldGQUJSYXlFT3ZsM2FaTjFHUHFjWXE?oc=5" target="_blank">New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -317,15 +304,28 @@ CANARX has not responded to the Gilead lawsuit.
 
 ---
 
-## How Trump’s midterm gerrymandering flopped - Financial Times
+## US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxDcUlBejdZWFdzOUJLM25SS003VGFzRFdtTHhnSGd5ZzVrSkQxelREVE9TT2poX3hFdWpkaTh0S2pzWVJTa0EyS2ViYTNlT0p4YWE2d05iMXE4aUZyb0h5cC1KVGN6a2JPWEJwRmtibjJjZl85aDBfWUh5T0lJdHJYQ20?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxDcUlBejdZWFdzOUJLM25SS003VGFzRFdtTHhnSGd5ZzVrSkQxelREVE9TT2poX3hFdWpkaTh0S2pzWVJTa0EyS2ViYTNlT0p4YWE2d05iMXE4aUZyb0h5cC1KVGN6a2JPWEJwRmtibjJjZl85aDBfWUh5T0lJdHJYQ20?oc=5" target="_blank">How Trump’s midterm gerrymandering flopped</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5" target="_blank">US floats Nato membership for Donbas withdrawal deal, Zelenskyy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Germany suffers setback in joining fighter jet project - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hlaXpZTHVud2k0YzRZWndDX2t6M1ZWNTExRzBPU2FJVVpOZy1CXzgtbGZxelNpUTRJTExfUUxPek9rMUd0RWh4TkNPRVJpbE5JRXQtZTdCNVk5QmRvSVRBQzItRVhuRDUyd3NYcExwQ0FYamF6QmZrMS1WWnpkUUhud0o?oc=5" target="_blank">Germany suffers setback in joining fighter jet project</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -343,67 +343,67 @@ CANARX has not responded to the Gilead lawsuit.
 
 ---
 
-## Thousands of US flights canceled, delayed as air travel system recovers from shutdown - Reuters
+## Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5" target="_blank">Thousands of US flights canceled, delayed as air travel system recovers from shutdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5" target="_blank">Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Musk says Nvidia will lose 'critical' deals without Jensen Huang - Reuters
+## UK's Prince William to be joined by wife Kate for visit to India - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5" target="_blank">Musk says Nvidia will lose 'critical' deals without Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDgyMUVuNTE2MkFDVHhVaTJ6SnRsbmVIcHV2bVVkWVhwY1ZmaldUdTVwMXhmWW5HSktoUnA0NTByZzdubE1LbXYxSDItZ1VLeVozZjg1R3RkbGZ1eEJYSC1jTGtGQUFoc0JtQU1KU0t2Mkd0dnVndzRCRkgxS1ZFV2l4Ty1vNDBfLWZwYWVEYUtYaHNnNDNZX295ODAwSjJ3cjZWQ2w4N0FMbjM0ZEI0?oc=5" target="_blank">UK's Prince William to be joined by wife Kate for visit to India</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps - Reuters
+## Hamas says senior armed commander killed in Israeli strike - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5" target="_blank">Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5" target="_blank">Hamas says senior armed commander killed in Israeli strike</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Alaska elects first Democratic governor since 1998, US media project - Reuters
+## SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5" target="_blank">Alaska elects first Democratic governor since 1998, US media project</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5" target="_blank">SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Fed's Collins says gradual rate hikes best to manage economic risks - Reuters
+## ‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5" target="_blank">Fed's Collins says gradual rate hikes best to manage economic risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5" target="_blank">‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
