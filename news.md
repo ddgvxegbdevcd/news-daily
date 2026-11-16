@@ -1,68 +1,216 @@
 # 每日财经新闻
 
-更新时间：2026-11-16 05:49:16
+更新时间：2026-11-16 21:51:05
 
-## MTN in Talks to Buy Telkom in South African Cash, Share Deal
+## Stock Selloff Intensifies | Closing Bell
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal
+链接：https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video
 
 正文长度：0
 
-摘要：MTN Group Ltd. is in talks that could see Africa’s biggest wireless carrier buy all shares in Telkom SA SOC Ltd.
+摘要：Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)
 
 
 ---
 
-## Latest Oil Market News and Analysis for Nov. 16
+## Deutsche Sees Asia Chip Boom Supporting Dollar Through Equities
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16
+链接：https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities
 
 正文长度：0
 
-摘要：Oil fell as signs of a well-supplied physical market and a wider shift away from risk assets outweighed fresh attacks in the Middle East.
+摘要：Deutsche Bank sees growing Asian chip surpluses as a source of support for the US dollar as the proceeds are increasingly recycled into US equities.
 
 
 ---
 
-## Asian Stocks Rattled by Tech Selloff, Oil Drops: Markets Wrap
+## Hedge Funds Slash Bullish Bets on US Diesel to January Low
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-16/hedge-funds-slash-bullish-bets-on-us-diesel-to-january-low
 
 正文长度：0
 
-摘要：Asian equities retreated as technology shares plunged at the start of a packed week that could help set the near-term direction for the artificial intelligence trade. Oil fell.
+摘要：Hedge funds cut net-long diesel bets to the lowest since January, a sign that a historic squeeze on the fuel that powers the economy may finally be easing.
 
 
 ---
 
-## EQT Sees “Wave” of Take-Private Opportunities in Japan
+## Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video
+链接：https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market
 
 正文长度：0
 
-摘要：Jean Eric Salata, Chair at EQT Group, says the Stockholm-based private equity firm plans to invest up to 30 percent of its $30 billion in dry powder in Japan. (Source: Bloomberg)
+摘要：Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.
 
 
 ---
 
-## Philippines Seeks New Equilibrium With China
+## How Ethiopia’s Gas-Car Ban Sparked an EV Boom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-16/philippines-seeks-new-equilibrium-with-china-video
+链接：https://www.bloomberg.com/news/videos/2026-11-02/how-ethiopia-s-gas-car-ban-sparked-an-ev-boom-video
 
 正文长度：0
 
-摘要：Philippine Ambassador to China Jaime FlorCruz says President Ferdinand Marcos Jr. will travel to China for the APEC meetings as Manila seeks a “predictable” equilibrium with Beijing. (Source: Bloomberg)
+摘要：Ethiopia became the first country to ban imports of gasoline-powered cars in 2024. Today, its EV share outpaces the global average, but the road ahead is uncertain. Can Ethiopia’s bet on EVs pay off? (Corrects the spelling of Mia Mottley) (Source: Bloomberg)
+
+
+---
+
+## Robert Pattinson cast as next James Bond
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html
+
+正文长度：1898
+
+摘要：Pattinson has been in major films this year, including Christopher Nolan's "The Odyssey," and will soon appear in "Dune: Part Three."
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Robert Pattinson has been cast as the next James Bond in the upcoming film from director Denis Villeneuve. It will be the 26th James Bond film and the first since Amazon MGM took over the iconic franchise.
+Pattinson will be the seventh actor to play the role. Monday's announcement — which came in part via an Instagram post — ends a long period of speculation about who would take over as "007" after Daniel Craig.
+"James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime," Pattinson said in a statement. "I couldn't be more excited about this partnership and the work ahead with this fantastic team."
+Pattinson has appeared in several big-ticket films this year, including Christopher Nolan's "The Odyssey" and psychological thriller "Primetime," and he'll soon appear in "Dune: Part Three," also directed by Villeneuve. Pattinson, who rose to fame with the Twilight movie series, is also in production for Matt Reeves' "The Batman Part II," a follow-up to the 2022 film based on the DC comic.
+The upcoming Bond film will have a script by Steven Knight and will be produced by Amy Pascal, known for her work on the Spider-Man franchise, and David Heyman, who produced all eight Harry Potter films.
+"We were surrounded by extraordinary talent, but there can only be one 007," Villeneuve said. "I am overjoyed to welcome Robert Pattinson as our new James Bond. He has the timeless soul of 007 and brings a spirit that is completely new. I cannot wait to begin."
+In 2022, Amazon bought MGM Studios, which had long produced the Bond movies, for roughly $8.45 billion. Amazon MGM then acquired creative control of the James Bond intellectual property rights in 2025, when it closed a deal with longtime producers Barbara Broccoli and Michael G. Wilson.
+The film is still untitled, and Amazon MGM hasn't announced a projected release date.
+
+</details>
+
+
+---
+
+## 'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html
+
+正文长度：4440
+
+摘要：Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> U.S. flights delays eased on Monday as airlines scrambled to get back on track after the Federal Aviation Administration grounded departures nationwide for more than four hours on Friday.
+Nearly 300 U.S. flights were canceled and close to 1,000 were delayed Monday, a fraction of Sunday's disruptions, according to FlightAware data.
+Transportation Secretary Sean Duffy over the weekend tied the issue that prompted officials to call for the ground stop to a router in southern Arkansas and work to update copper wires to a fiber-optic system overseen by L3Harris Technologies. FAA Administrator Bryan Bedford said the upgrades were part of "routine" maintenance to switch over to fiber optic.
+Officials ordered the ground stop before 4 p.m. ET on Friday and it lasted until after 8 p.m. ET, marking the longest halt to U.S. flight departures since 9/11.
+Hundreds of thousands of travelers were stranded and about 18,000 U.S. flights were canceled from Friday through Monday morning, according to FlightAware.
+Over that period, American Airlines had the most cancellations with 5,367 flights, close to 22% of its schedule, followed by Delta Air Lines with 3,434 cancellations, or 17% of its schedule, according to aviation data firm Cirium. Southwest Airlines and United Airlines each canceled more than 16% of their schedules. Bad weather on Thursday and Friday had also contributed to disruptions before the ground stop.
+On Sunday, disruptions lingered but were starting to improve.
+"We slept here," said Beth Martin, who was trying to travel home to Birmingham, Alabama, from New York's LaGuardia Airport on Sunday at the end of her daughter's birthday trip. The two were booked for Saturday night, and when delay announcements started rolling in from Delta, they decided to make good use of the extra time: After strolling through Central Park, they went window shopping on Fifth Avenue.
+But when the flight was canceled, the standby list for a backup flight looked grim and their original midtown hotel was charging about $700 for an additional night, the two slept at LaGuardia on Saturday. She said they found wheelchairs to sleep in outside security.
+Airlines waived change fees and fare differences and offered pilots and flight attendants extra pay to ease the delays.
+Customers told CNBC they were booked on several flights before getting on board.
+Justine Fritz, who works in sales for a consumer goods company, was in New York for a business event on Friday. She tried five different flights before getting on one to Houston, then flew four hours out of her way to get back to Minneapolis after her Saturday flight was canceled. Fritz said she had so many boarding passes that the Transportation Security Administration wouldn't let her through security at first.
+"It's been bananas," she told CNBC at the gate. Fritz said she made the best of it by shopping and getting a haircut, but she's still disappointed.
+"I'm missing the first hour of the Vikings game," she said.
+Martin said her trip home with her daughter will take even longer. Delta booked them to Memphis, and her husband will drive the four hours from Birmingham to pick them up.
+Officials are investigating the root cause that led to what the FAA described as "instability" in data feeds. Duffy said Sunday that two routers, the original one detected as a problem in southern Arkansas, and another in Amarillo, Texas, are in an L3Harris lab in Florida.
+"We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation's air travel," L3Harris said in a statement Saturday afternoon.
+President Donald Trump said Monday he didn't "take any responsibility" for the ground stop.
+Shortly after the ground stop, Duffy said he was asking Congress for as much as $50 billion for upgrades to the aging U.S. air traffic control system. A day later, Democratic lawmakers pushed back, citing unspent money from existing funding, which includes Congress' approval last year of $12.5 billion for airport and air traffic control improvements over five years.
+"Our committee, on behalf of the flying public, will hold the administration accountable for what happened to make sure this chaos does not happen again," said Reps. Rick Larsen, D.-Wash., ranking member of the House Committee on Transportation and Infrastructure, and Andre Carson, D.-Ind., ranking member of the aviation subcommittee, in a joint statement.
+
+</details>
+
+
+---
+
+## Novo says Wegovy injection lowers BMI and obesity rates in children in trial
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html
+
+正文长度：3184
+
+摘要：Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Novo on Monday released full results from a late-stage trial showing its blockbuster Wegovy injection helped children ages 6 to under 12 with obesity shed weight, significantly lowering their body mass index.
+Wegovy reduced BMI by an estimated 19.7 percentage points on average compared with a placebo at 68 weeks, with BMI falling 17.4% among children receiving the drug and rising 2.2% among those receiving a placebo. Those results assumed patients stayed on treatment during the trial.
+When evaluating all children in the study, including those who discontinued treatment, Wegovy lowered BMI by an estimated average of 16.2 percentage points more than the placebo at 68 weeks. All 167 kids in the study received lifestyle modifications throughout the trial, including a reduced-calorie diet and increased physical activity.
+The detailed results mark an encouraging step forward in treating childhood obesity — a chronic disease that can carry serious cardiovascular, metabolic and psychosocial consequences but has had few treatment options for younger children. When left unaddressed, childhood obesity can extend into adulthood, bringing earlier and more severe health complications.
+"This is a very significant disease burden in this very young patient population," said Dr. Andrea Traina, Novo's medical director lead of obesity.
+In 2025, the disease affected an estimated roughly 177 million children and teens ages 5 to 19 worldwide, according to the World Obesity Federation. That figure is projected to rise to 228 million by 2040.
+While Wegovy is already approved to treat obesity in children ages 12 and older, there are currently no approved medications for those under 12. The latest results offer evidence that Wegovy can potentially fill that treatment gap, safely and effectively reducing the severity of the disease in children as young as 6.
+In Novo's trial, 85% of children started with moderate to severe obesity, which corresponds to BMI thresholds of 35 and above and 40 or higher, respectively. Nearly half already had at least one obesity-related complication, such as high blood pressure, high cholesterol or sleep apnea.
+But more than 40% of children treated with Wegovy were no longer classified as having obesity after 68 weeks of the trial, assuming patients stayed on treatment. Novo initially shared that result in September.
+"We are driving towards control of this chronic disease in that patient population when they are still so young and at such high risk for more advanced and accelerated disease progression because they developed it so early," Traina said.
+Novo said Wegovy's overall safety and tolerability among children — how well patients managed the drug — were consistent with those seen in trials with adults. The company added that it observed no safety concerns related to growth or pubertal development in the kids.
+Still, the two-year study does not establish whether treating obesity earlier can change its long-term trajectory, or what treatment and maintenance might look like as children grow into adulthood, Traina said.
+"That is something that is still an evidence gap," she said, pointing to the potential of future research.
+
+</details>
+
+
+---
+
+## Big-ticket holiday items may be harder to find as shipping costs rise
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html
+
+正文长度：5906
+
+摘要：Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> This holiday season, big-ticket items are expected to be in short supply with diesel prices near records, trucking rates close to a post-pandemic level and carrying costs hitting multidecade highs. All of that is forcing many retailers to rethink their holiday inventory strategy.
+"We are going to have some of the lowest inventory levels on some of these big-ticket items we have seen in history," said Deborah Weinswig, CEO of retail analytics firm Coresight Research.
+Weinswig said retailers she is working with are holding less inventory of big-screen TVs, grills, large consumer appliances like washers and dryers, and other items that take either big amounts of space or cost a lot of money to hold.
+"It's freight getting it from there to here; it's carrying costs; then it's just the trucking to get it into the stores," Weinswig said. "We're talking three different pieces right here and each is up significantly year on year."
+The surge pricing for supply chain services is being caused by domestic and international policy.
+According to Evercore ISI, the rates for general trucking have increased more than 47% year over year during the week of Nov. 2.
+Industry experts say a large factor has been a crackdown by the federal government on non-citizen truck drivers and non-U.S.-based truck drivers operating in the U.S. That has created a capacity crunch that has raised rates and is expected to continue to create upward pressure.
+At the same time, fuel surcharges are spiking.
+Most transportation providers charge customers an extra fuel surcharge to offset changes in the cost of diesel fuel. That surcharge has spiked 64% year over year, according to Evercore ISI data, as diesel prices have hit new record highs due in part to the U.S.-Israel war with Iran.
+And inventory holding costs — or the total expense of storing unsold goods, which could include the costs for capital, service, storage and other risk factors — are closely tied to the yield on the 10-year Treasury note, which exceeded 5% in October and remains at multiyear highs in November.
+Collectively, the higher costs could mean bigger discounts for shoppers willing to wait, according to Bill Catania, CEO of logistics technology company OneRail, which powers same-day delivery for companies such as FedEx and Lowe's.
+"You're going to see more discount and price promotions as we get closer to the holiday to liquidate inventory, so they're not having to transfer it or dispose of it or position it some other way," Catania said.
+Planning for peak
+Retailers are also facing a conundrum in their holiday inventory strategy when it comes to shipping costs versus opportunity costs. In other words, is it worth it to stock up now, or wait it out in hopes that shipping rates will come down some but potentially miss out on having the right product mix?
+It's leading to a wait-and-see approach for stocking shelves after early holiday sales in October, executives said.
+UPS CEO Carol Tomé said on the company's earnings call on Oct. 27 that it's "just starting to get peak season forecasts from our customers."
+Similarly, Derek Leathers, CEO of Werner Enterprises, a trucker for big-box stores and major retailers, said retailers are cautious.
+"When rates are higher and the cost of capital is more expensive, you are going to have a much more intense focus on not having excess inventory," Leathers said.
+Still, 2026 holiday sales are expected to top $1 trillion as inflation drives growth and customer spending is expected to remain healthy, according to Bain & Company's annual forecast. Leathers said even with the surge in trucking and shipping rates, he's seeing that retailers are willing to pay up to stock up.
+"The bigger concern right now is wanting to make sure they have their capacity locked in. There is way more dialogue around the assurance of having a truck or whatever mode that needs to be secured," Leathers said. "Not saying they are price insensitive, because they are certainly always concerned about price. But you can't sell it if it's not on the shelf."
+Last minute and last mile
+ShipMatrix, a data analytics firm for the logistics industry, forecasts 2.4 billion packages will be delivered during the 2026 holiday peak, a 4% increase year over year.
+It's an increase that will likely lead retailers to increasingly use gig delivery, especially later in the holiday peak. Gig workers allow retailers and delivery companies to adjust to changes in order flow and accommodate surges of last-minute shopping without spending time and money onboarding new team members.
+"Gig economy delivery is great. You know, it fulfills fast, but there's better unit economics out there," Catania said.
+Industry experts said they also expect to see more retailers use drones for last-mile delivery for smaller items.
+A 2024 PwC study forecast that the cost of drone delivery would "drop by more than 70% over the next 10 years, which will not only match traditional last-mile delivery costs, but surpass them and create an inflection point for the industry."
+Amit Regev, CEO of drone company Flytrex, said the company is in active talks with retailers about using drones for holiday deliveries.
+"The expectation now is becoming so much more instant," Regev said.
+Retailers have been increasing their use of drones. Lowe's in September said it was launching a drone delivery service in partnership with DoorDash and Alphabet's Wing. Amazon earlier this year said it was aiming to offer drone deliveries in nearly 500 U.S. cities and towns by the end of the year.
+Flytrex currently delivers for Walmart and a number of restaurants including Little Caesars and Papa John's.
+"Customers are looking for that instant gratification," Regev said. "So if it takes too long, they might not want to order with you. And from what we are seeing that's a stronger incentive for them to try and test or deploy deliveries using drones."
+
+</details>
 
 
 ---
@@ -107,305 +255,67 @@ Cox Automotive reports the average price for a new electric vehicle as of Septem
 
 ---
 
-## Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html
-
-正文长度：7595
-
-摘要：Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Foundation Future Industries, a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.
-Workers have yet to receive paychecks after San Francisco-based Foundation missed payroll on Oct. 30, said the people, who asked for anonymity to speak candidly about a private company.
-The situation has particularly angered some inside the startup because its CEO and co-founder, Sankaet Pathak, borrowed $4.6 million from the company last year to buy a luxury home, money that could have been used to pay workers, the people said.
-Public records show that an LLC that names Pathak as sole principal purchased a $4.6 million Sausalito, California, property with "sweeping, cinematic views" of the San Francisco Bay in October 2025.
-A spokesman for Pathak acknowledged receiving a detailed list of the major points from this story on Thursday, but didn't respond to requests for comment. Pathak's previous startup, a fintech firm named Synapse, collapsed in 2024, leaving thousands of Americans locked out of their savings accounts.
-Foundation's cash crunch comes at a precarious moment for the company, which Pathak has said is close to unveiling a next-generation, weapons-ready robot that will help the U.S. compete against Chinese rivals. At the same time, Pathak is seeking to raise hundreds of millions of dollars in funding at a $3 billion valuation.
-The company has garnered headlines this year for Pathak's claims that his robots could soon take on battlefield tasks in Ukraine or patrol the U.S. border with Mexico. Broadcast interviews and articles about Foundation also include claims that the company has won $24 million in Pentagon contracts.
-"What we're about to unveil in the next couple of months [is] going to be the strongest humanoid robot that exists anywhere in the world, including China," Pathak said in an April television interview.
-'Plain sight'
-That April interview introduced Eric Trump, the son of the U.S. president, as a Foundation investor and chief strategy advisor. It is unclear how large his stake is.
-Eric Trump and his brother Donald Trump Jr. have invested in an array of defense firms, including makers of military drones and autonomous weapons. A July Washington Post investigation found that startups backed by investment vehicles linked to the brothers had secured at least $3.2 billion in government business.
-"We have to win robotics in the United States of America," Eric Trump said in April. "When you go up and interact with these robots ... they fist bump you, they high five you, they follow your commands."
-Eric Trump's involvement in Foundation drew the swift ire of Sen. Elizabeth Warren, D-Mass., who asked whether Foundation won U.S. defense contracts because of nepotism.
-"Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration," Warren said in an April 23 social media post. "This looks like corruption in plain sight."
-Eric Trump didn't respond to requests for comment. His spokesperson recently told the Financial Times that Eric Trump had "no involvement in Foundation's management, operations, strategic decisions or commercial activities, including the solicitation, negotiation, procurement or execution of any government contracts."
-While the Eric Trump announcement created speculation within Foundation that a Democratic-led Congress may look to investigate the company, Foundation itself didn't actually win the $24 million in contracts, despite that assertion being widely reported across news outlets.
-Instead, it acquired Florida-based Boardwalk Robotics in late 2024, and government research contracts won by that firm account for the claim, said a person with knowledge of the matter. Foundation used Boardwalk's robot Alex as the basis for its first robot, the Phantom MK-1, this person said.
-Foundation's deal for Boardwalk included performance milestones for the robot that haven't been reached, said a separate person with direct knowledge of the deal.
-In 2024, CNBC reported that letters Pathak sent to prospective investors cited an imminent investment and $300 million purchase order from General Motors, claims the automaker rejected.
-Foundation co-founder Mike LeBlanc said at the time he was "embarrassed" about the marketing materials.
-Rescue loan?
-Insiders fret that Foundation could soon fold if Pathak doesn't secure fresh funding. Pathak has been seeking to raise hundreds of millions of dollars at a $3 billion valuation since at least January.
-Pathak is Foundation's sole board member, a structure that has raised concerns among prospective investors about corporate governance, said the people familiar with the matter. He also owns most of the firm's shares.
-That setup allowed Pathak to borrow $4.6 million last year, which he called a short-term loan at the time, the people said. Existing investors are aware of the loan through the company's financial disclosures, the people said.
-"This is what happens in a company with no governance," said one of the people. "Are you just going to let it ride into the ground, and you ride off into the sunset?"
-Foundation also ran out of cash for payroll in August, though employees only had to wait about two days to get paid after the company secured a bridge loan from an existing investor, the people said.
-Pathak told employees this week in a memo that he was working on sourcing money to pay back wages.
-The company was founded in April 2024 by Pathak, Tribe Capital CEO Arjun Sethi and LeBlanc, co-founder of Cobalt Robotics, a maker of autonomous security guards, according to a fundraising pitch at the time.
-Foundation went on to hire dozens of robotics engineers and artificial intelligence experts, managing to lure some from Tesla and Amazon-owned autonomous vehicle company Zoox.
-Missing money
-Before Foundation, Pathak was known as the founder of Synapse, a kind of middleman that enabled fintech firms like Mercury, Dave and YieldStreet to offer savings accounts and credit cards with the help of small community banks.
-Synapse was a behind-the-scenes player until its collapse left more than 100,000 Americans with a combined $265 million in deposits locked out of their FDIC-backed accounts.
-While some customers received partial payments during Synapse's bankruptcy proceedings, thousands remain without access to their money after more than two years. A bankruptcy trustee, the former FDIC chair Jelena McWilliams, said as much as $96 million in customer funds went missing.
-The bankruptcy proceedings concluded last year without uncovering where the funds went; Pathak blamed a banking partner named Evolve, and Evolve blamed Synapse for the mess. U.S. regulators didn't intervene until the Consumer Financial Protection Bureau sued Synapse last year, opening up a $55 million fund for customer relief.
-Pathak withdrew $320,000 in loans from Synapse as it spiraled toward bankruptcy in 2024 amid disputes over unmatched ledgers, according to the consultant and independent journalist Jason Mikula.
-Federal prosecutors convened a grand jury to investigate possible criminal misconduct at Synapse, the Wall Street Journal reported last year. The WSJ report didn't mention Pathak specifically.
-The controversy didn't dissuade Eric Trump from investing in Foundation and Pathak, who he called a friend in the April broadcast interview.
-"I walked into his factory, and I couldn't believe what I saw," Eric Trump said. "I'm telling you, he's doing a phenomenal job."
-
-</details>
-
-
----
-
-## Retailers are turning to entertainment to win shoppers’ attention
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html
-
-正文长度：6491
-
-摘要：Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Legacy retailer Gap Inc. made an unconventional hire earlier this year: a chief entertainment officer.
-It was a newly created role as the company tapped former Paramount executive Pam Kaufman to helm its entertainment, content and licensing platform. Gap has since rolled out major campaigns, partnering with bands like Just Your Type and building on the success of last year's ads with girl group Katseye.
-"Beloved brands have value beyond the products they sell. Consumers identify with them, trust them and want to be part of their world," Kaufman told CNBC in a statement. "The key is authenticity: Every extension has to reflect what the brand stands for and give its fans a meaningful new way to experience it."
-She said it's part of a broader goal to emphasize what Gap calls "fashiontainment," a strategy to blend retail and entertainment to better align with consumers. Gap is part of a growing cohort of retailers investing in entertainment and experiences both in-store and through exclusive online content to drive engagement.
-"Brands are stories, and we are the storytellers," CEO Richard Dickson said at the Goldman Sachs Global Consumer and Retail conference in September. "I think you could see that come to life when you look at some of the work that we've done, putting our brands in the center of culture and cultural conversation."
-In another blending of retail and media, Mattel made waves a few years ago for its "Barbie" movie, building on the intellectual property of a decades-old fan favorite and drawing in massive box office success. At the time, Dickson was president and chief operating officer of the company, witnessing firsthand the sectors' intersection before departing for Gap.
-"I think the post-Covid consumer attitude around shopping certainly evolved a lot," said Bryan Eshelman, who leads the retail practice at consulting firm AlixPartners. "It has gone from shopping as a fulfillment task to shopping, in many instances, more as an entertainment form."
-Between experiences in physical stores and media campaigns featuring exclusive content, Eshelman said, retailers are getting more creative about the ways they're driving engagement and marketing.
-"Community, at the end of the day, is one of the key ways to drive loyalty, so I think retailers of all types are trying to tap into some sense of community, some sense of lifestyle, some sense of belonging that's beyond the product that they offer," he said.
-Branded entertainment has been around for a long time. Procter & Gamble made headlines in the 1930s for helping to coin the term "soap opera," and companies have for decades created media campaigns to draw in customers.
-But with the rise of social media, content creation and short-form offerings, experts said audiences are becoming hungrier than ever for something new and original.
-Valuable IP wins
-The retail and entertainment intersection is happening at a time when intellectual property is becoming more valuable than ever, according to experts.
-As consumers encounter more marketing than ever, the companies that will win the battle for attention are the ones that can "cut through all of the noise," said Alex Michael, senior managing director at investment firm LionTree.
-"The hardest thing to find and to get is audience these days," Michael told CNBC. "IP, in that sense, is the most valuable thing out there, and only becoming more valuable because it's attached to audience."
-At the same time, he said, the way IP is distributed is broadening to include video, audio, short-form, long-form and live event content. Consumers are also redefining their loyalty to brands, which means companies have to "play much earlier in the consumer journey" than they have in years past to secure their trust, he said.
-The trend is also likely helped by executives who have worked in both retail and entertainment: Gap's Kaufman came from Paramount, for example, and Dickson and Skydance co-CEO Ynon Kreiz held top roles at Mattel.
-"The gray areas have never been more pronounced as to what is classically defined as retail or media or entertainment or live events," Michael said. "People who have cross-sector expertise are increasingly more valuable because you can't be defined by a single vertical, especially as things change so quickly."
-Bridging the gap
-Still, there's room for newer players, especially with the studio landscape rapidly changing, said Sean Akaks, the CEO of SonderCo, an agency that partners brands with celebrities and entertainment properties.
-"I think it's a really interesting time for nontraditional players to be making content because you're seeing this massive consolidation of these legacy entertainment companies," he said. "I think there are just more open lanes for independent creators and also brands and anyone outside the traditional studio system to create content."
-That's where retailers might tap creators, Akaks said, because they can use their platforms to reach consumers directly.
-"I do think there's a world where we're going to see creators and brands sort of co-creating IP that maybe they're owning together," he said.
-Once those companies get consumers into the store, they're also leaning into experiential retail, making shopping a more immersive experience than it otherwise would be, like Dick's Sporting Goods offering interactive activities and simulators in its stores.
-According to data from AlixPartners, companies investing in experiential retail such as Coach and Ralph Lauren saw close to 10% year-over-year increases in consumers' average basket size.
-"The idea that retailers would potentially invest in some distributed electronic content to help drive traffic, and then when you get there, it's experiential — it really goes into the kinds of flywheels that entertainment companies are also trying to build and grow," said Jeff Goldstein, co-lead of the media and entertainment practice at AlixPartners.
-Yet, the entertainment that retail brands are developing is only one piece in a larger puzzle to retain customers and attract new ones. Translating that into tangible sales growth isn't necessarily a given.
-"The basics of having great product in stock at a transparent price that feels like value is not swept away by animatronics," AlixPartners' Eshelman said. "The fundamentals are still there, and if you're going to have a good retail proposition, you need to have that balance. You can't mask bad product at a bad price with no inventory with glitz and glamour."
-
-</details>
-
-
----
-
-## Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html
-
-正文长度：3673
-
-摘要：Cosm has secured a new studio partnership with Disney that will bring "Star Wars: A New Hope" to its domes as part of a multiyear, multifilm collaboration.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The Force is strong with Cosm.
-On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co. that will bring the original "Star Wars" to its domes early next year as part of a multiyear, multifilm collaboration.
-The financial terms of the deal were not disclosed.
-Cosm's massive concave screens will drop film fans into a galaxy far, far away starting in March, just ahead of the Academy Award-winning film's 50th anniversary in May.
-"We are thrilled to add the Disney partnership," Alexis Scalice, head of Cosm Studios, told CNBC. "We do look for those opportunities of these like anniversary and commemorative moments. We look for those opportunities to celebrate with the fans, but also find this mutually beneficial partnership between both parties."
-This will be Cosm's sixth theatrical collaboration with Hollywood, having already partnered with Warner Bros. to bring "The Matrix," "Willy Wonka & the Chocolate Factory," "Harry Potter and the Sorcerer's Stone" and "It" to its locations. The company is set to launch immersive screenings of Universal's "Shrek" in December.
-Each Cosm dome has stadium-style seating, with booths and tables set on each level. The dome's width fills much of the viewers' periphery, giving the sensation that they are part of the onscreen environment.
-In this case, "Star Wars" will be displayed in a large rectangle in the center of the dome while the background is transformed into the iconic planets of Tatooine and Yavin IV that are featured in the film as well as the infamous Death Star. Audiences will also see elements that will make it appear like they're traveling at lightspeed and getting trapped in an intergalactic trash compactor.
-Cosm is working directly with studios Lucasfilm and Industrial Light and Magic as well as creative studio MakeMake to create the visuals and the sound mixing for the unique presentation of the film.
-"We look for those moments where sound, music ... listening to Darth Vader's breath for the first time ... you feel those moments differently in an 87-foot diameter dome and 12k resolution with the sound system we have," Scalice said. "And it's one of the things that with experiential cinema and our technology that we were so excited and honestly privileged that we can take these defining moments for fans and work closely with our partners that doesn't really change the authenticity of it, it just enhances it in a different manner."
-The premium experience will also be paired with a themed menu. Cosm has done this with other titles, such as "Harry Potter and the Sorcerer's Stone," serving guests throughout the screening with house-made shepherd's pie, pretzel wands with cheese dip and a box of Bertie Bott's Every Flavour Beans.
-Cosm is trying to establish itself as a destination for fandom — both for sports and for film. It has a wide variety of live event offerings, which it telecasts using proprietary cameras mounted in arenas that broadcast back to the dome, as well as its expanding library of movies.
-"What I love is that we really are kind of building these Cosm communities built on fandom," Scalice said. "It's the No. 1 foundation for our business."
-And Star Wars is a powerful fandom. The franchise remains one of the top-ranking pieces of intellectual property across film, television and retail annually, and Disney is gearing up for a massive celebration of its semicentennial including merchandise launches, theatrical re-releases, its biannual Star Wars Celebration convention and collaborations with other brands.
-Correction: This story has been updated to correct the spelling of Alexis Scalice's name.
-
-</details>
-
-
----
-
-## Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html
-
-正文长度：3590
-
-摘要：Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> BLYTHEWOOD, S.C. — Electric vehicle startup Scout Motors has notched roughly 212,000 reservations for its upcoming EVs as the company nears completion of its new $2 billion plant here, CEO Scott Keogh told CNBC.
-The reservations are for the Volkswagen-backed company's Terra pickup truck and Traveler SUV, which are expected to start full production next year before deliveries begin to customers in 2028.
-Reservations do not necessarily translate to sales, as the U.S. automotive industry has learned during the past decade, especially with highly anticipated all-electric trucks such as the Ford F-150 Lightning, Tesla Cybertruck and others that garnered strong interest that didn't lead to meaningful numbers of purchases.
-Keogh said he expects Scout could roughly double those reservations by the time customer production begins, but he said the more important thing is to convert early interest into actual sales as production nears.
-"It's been a consistent drumbeat," Keogh said during an interview at Scout's plant site outside Columbia. "I think we could easily be up over 400,000 with reservations without doing too much effort. The big thing for us is how much of the initial production can we 100% presell."
-Keogh said achieving an order book of 12 to 18 months "would be great" and is something he thinks the company can do before production. Scout on Thursday said plant construction is "in its final phase."
-Scout's vehicles will be offered as all-electric versions as well as electric hybrid variants, known as extended-range electric vehicles, or EREVs, that include an internal combustion engine as a backup generator for the electric motors and batteries.
-Scout, a former American vehicle brand from 1961 to 1980, was expected to exclusively offer EVs in a bid for the German automaker to expand its presence in the U.S. However, slower-than-expected adoption of EVs and higher costs led the company to decide to offer EREVs as well.
-Keogh said extended-range and SUV models are dominating reservations thus far, with roughly 87% choosing EREV models and 75% being SUVs.
-The CEO also said the company is drawing interest from its target markets, which include owners of off-road vehicles such as the Ford Bronco and Jeep Wrangler as well as full-size pickup trucks and U.S. EV leader Tesla.
-Given the interest signaled by reservations, Keogh said the company is expected to launch with the EREVs first, followed by the EVs. He also said the company plans to launch with mid-level models first, a deviation from many companies that begin with their highest-priced models.
-Both the Traveler and Terra are expected to start at under $60,000. The EREV models are expected to feature more than 500 miles of range, according to the company, compared with 300 miles of range for the all-electric models.
-"The No.1 thing for me is I want to go get the best volume as soon as possible," Keogh said. "In my mind, it's how quick can you get to 100,000 units? It's at 100,000 units where you can start to punch through."
-His comments come months after Rivian Automotive received criticism online for launching its R2 SUV with its highest-priced models first, despite that being a common practice across the automotive industry.
-Keogh said Scout's South Carolina plant is about 85% complete, but supporting infrastructure and a $300 million supplier park continue to be installed.
-Reservations for Scout's vehicles initially opened in October 2024, when it revealed the Traveler and Terra, which feature sleek, yet rugged, exteriors that pay some homage to the brand's historic models.
-
-</details>
-
-
----
-
-## China’s economic activity slows more than expected in October - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUh5THNud2ZrVGJuYTd2YXRlaEVFclZiU0JYQVBJM0ZCbThIdUdUM1d2eElJZXBhRXBBdFNRdHdkb1l0QTdRQWtuNE45dVJYNjB6dnZZUnJkTFBab3Y0UUstRVl1MVFobENIeWxmWlBOM0s0WEFtZy1XVWhuU3gtSk9walM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUh5THNud2ZrVGJuYTd2YXRlaEVFclZiU0JYQVBJM0ZCbThIdUdUM1d2eElJZXBhRXBBdFNRdHdkb1l0QTdRQWtuNE45dVJYNjB6dnZZUnJkTFBab3Y0UUstRVl1MVFobENIeWxmWlBOM0s0WEFtZy1XVWhuU3gtSk9walM?oc=5" target="_blank">China’s economic activity slows more than expected in October</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5" target="_blank">Jensen Huang discusses comeback as Nvidia CEO with allies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Brussels to propose €45bn Ukraine loan borrowed against EU budget - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnBMZUpkOGlCbE4wT2s1ZXFzQ0pMUmZGd2lJRTRPdHN4Z2tSVkVLazBPZno1NVZfcE9BUXVtMmtsZ3d0MS1OZjdjNlBva3ItcmN4N3lOME1taUNhWXNUTWhTV2NUQjNFS25RSVFDOUF2LTY0WGNzcTd4c29OeUh6dy1UZjE?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnBMZUpkOGlCbE4wT2s1ZXFzQ0pMUmZGd2lJRTRPdHN4Z2tSVkVLazBPZno1NVZfcE9BUXVtMmtsZ3d0MS1OZjdjNlBva3ItcmN4N3lOME1taUNhWXNUTWhTV2NUQjNFS25RSVFDOUF2LTY0WGNzcTd4c29OeUh6dy1UZjE?oc=5" target="_blank">Brussels to propose €45bn Ukraine loan borrowed against EU budget</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRqWENmN2tjMWhudjdBR1NRdVVpOE5RWExub25YdTZya052VFRUWjF1UWk4cFQtcF9aakhVRVhnQVkyQjR4TUJvSEVnNk5DdERNXzFQUERZa1c1VlNiYkNHOHJ1elgxUzAxNEVvbjcya2hxYjZZeXM3REhya0JKWGtLWXg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRqWENmN2tjMWhudjdBR1NRdVVpOE5RWExub25YdTZya052VFRUWjF1UWk4cFQtcF9aakhVRVhnQVkyQjR4TUJvSEVnNk5DdERNXzFQUERZa1c1VlNiYkNHOHJ1elgxUzAxNEVvbjcya2hxYjZZeXM3REhya0JKWGtLWXg?oc=5" target="_blank">Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?oc=5" target="_blank">FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports - Reuters
+## New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5" target="_blank">Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5" target="_blank">New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Fire in Phuket shophouse kills 11 injures 16, police say - Reuters
+## Downdetector reports user issues at major US banks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFrVGM0Zk5GUlV1akd3YXZucWd0YUlpem1zQkRVbUtYMGRmZkcwN0hvVlpmX3UxenJhZnBVdGZmTGtKZzhvZFU5cUhabTc0OGVHMVVjbGsxa1pCcnR5YzFqUHVlaDBtcmF1MWtaM3BTV3hCa1hYNTdQRTBkNXQ3LTk3eXhySGtoeDVVV3FDNDBfMTd4b0hOeHFFeWw5YXhZeDR4M1lRcnpxLUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFrVGM0Zk5GUlV1akd3YXZucWd0YUlpem1zQkRVbUtYMGRmZkcwN0hvVlpmX3UxenJhZnBVdGZmTGtKZzhvZFU5cUhabTc0OGVHMVVjbGsxa1pCcnR5YzFqUHVlaDBtcmF1MWtaM3BTV3hCa1hYNTdQRTBkNXQ3LTk3eXhySGtoeDVVV3FDNDBfMTd4b0hOeHFFeWw5YXhZeDR4M1lRcnpxLUU?oc=5" target="_blank">Fire in Phuket shophouse kills 11 injures 16, police say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5" target="_blank">Downdetector reports user issues at major US banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices fall on expectations of coming supply surplus - Reuters
+## US envoy Kushner says progress made in Ukraine talks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5" target="_blank">Oil prices fall on expectations of coming supply surplus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5" target="_blank">US envoy Kushner says progress made in Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters
+## California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5" target="_blank">Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5" target="_blank">California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China's economy falters as factory output, retail sales undershoot expectations - Reuters
+## Pope Leo misses the catch as rosary from crowd hits his eye in Peru - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5" target="_blank">China's economy falters as factory output, retail sales undershoot expectations</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5" target="_blank">Pope Leo misses the catch as rosary from crowd hits his eye in Peru</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
