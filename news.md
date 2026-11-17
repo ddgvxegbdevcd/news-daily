@@ -1,68 +1,153 @@
 # 每日财经新闻
 
-更新时间：2026-11-16 21:51:05
+更新时间：2026-11-17 07:26:49
 
-## Stock Selloff Intensifies | Closing Bell
+## Wise Sees Small Business Driving Asia Payments Growth
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video
+链接：https://www.bloomberg.com/news/videos/2026-11-17/wise-sees-small-business-driving-asia-payments-growth-video
 
 正文长度：0
 
-摘要：Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)
+摘要：Wise Group Co-Founder & CEO Kristo Kaarmann says the digital shift among Southeast Asia’s small businesses is accelerating demand for cross-border payments, with Asia Pacific its fastest-growing region. The company is expanding partnerships with banks while adding investment and payment features across Asia. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
 
 
 ---
 
-## Deutsche Sees Asia Chip Boom Supporting Dollar Through Equities
+## ASEAN's Middle Powers Seek Bigger Role in Global Order
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities
+链接：https://www.bloomberg.com/news/videos/2026-11-17/asean-s-middle-powers-seek-bigger-role-in-global-order-video
 
 正文长度：0
 
-摘要：Deutsche Bank sees growing Asian chip surpluses as a source of support for the US dollar as the proceeds are increasingly recycled into US equities.
+摘要：Stratbase Institute Founder Victor Andres C. Manhit believes ASEAN should use its growing economic clout to help shape the global agenda rather than simply choose between the US and China. The Philippines can work with other middle powers while defending a rules-based international order and its maritime rights.
+He speaks with Haslinda Amin from the sidelines of the "ASEAN Summit 2026". (Source: Bloomberg)
 
 
 ---
 
-## Hedge Funds Slash Bullish Bets on US Diesel to January Low
+## Canadian Funds Join Nordic Capital in €3 Billion Cary Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/hedge-funds-slash-bullish-bets-on-us-diesel-to-january-low
+链接：https://www.bloomberg.com/news/articles/2026-11-17/canada-pension-funds-cvc-capital-partners-nordic-capital-in-3-billion-cary-deal
 
 正文长度：0
 
-摘要：Hedge funds cut net-long diesel bets to the lowest since January, a sign that a historic squeeze on the fuel that powers the economy may finally be easing.
+摘要：CVC Capital Partners Plc is selling its stake in vehicle glass repair company Cary Group to two of Canada’s largest pension funds and Nordic Capital, which is set to reinvest in the business.
 
 
 ---
 
-## Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market
+## Stock Losses Deepen Ahead of Nvidia, Oil Declines: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market
+链接：https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.
+摘要：Global stocks extended a recent slump as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to risk aversion ahead of Nvidia Corp.’s high-stakes earnings.
 
 
 ---
 
-## How Ethiopia’s Gas-Car Ban Sparked an EV Boom
+## European Stocks Fall as AI Worries Spread
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-02/how-ethiopia-s-gas-car-ban-sparked-an-ev-boom-video
+链接：https://www.bloomberg.com/news/live-blog/2026-11-17/what-s-moving-uk-markets-right-now-markets-today-mwkc7vf0
 
 正文长度：0
 
-摘要：Ethiopia became the first country to ban imports of gasoline-powered cars in 2024. Today, its EV share outpaces the global average, but the road ahead is uncertain. Can Ethiopia’s bet on EVs pay off? (Corrects the spelling of Mia Mottley) (Source: Bloomberg)
+
+---
+
+## Here's what to expect when Disney reports earnings before the bell
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html
+
+正文长度：1584
+
+摘要：Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wide layoffs.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Disney reports quarterly earnings before the bell on Tuesday, and investors will be focused on the direction of the company's streaming and theme parks businesses — as well as further updates on CEO Josh D'Amaro's strategy for growth.
+Disney's fiscal fourth-quarter earnings will be released around eight months after D'Amaro took over for Bob Iger as CEO. In that time, the company has seen layoffs across divisions. The most recent round, which seeks to reduce costs by up to 20%, was reported earlier this month.
+Here's how Disney is expected to perform in its fiscal fourth quarter, according to LSEG:
+- Earnings per share: $1.67 expected
+- Revenue: $25.18 billion expected
+In addition to updates on Disney's cost-cutting efforts, Wall Street will be keen for information about the company's subscriber base and advertising growth for Disney+, Hulu and ESPN's direct-to-consumer app.
+Investors once heavily scrutinized subscriber numbers, but Disney has stopped providing these figures on a quarterly basis. It also recently stopped reporting some metrics for its entertainment segment, such as a breakdown of revenue and operating income for its linear TV networks.
+Theme parks remain a driver of revenue and profit. But the effects of the U.S.-Israel conflict with Iran and related jump in oil prices have affected some of Disney's peers.
+Last quarter, Disney said that despite these trends and broader uncertainty for consumers, demand at domestic parks remained healthy and there had been an increase in guest spending.
+This story is developing. Please check back for updates.
+
+</details>
+
+
+---
+
+## United Airlines resolves system outage that affected departing flights
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html
+
+正文长度：1581
+
+摘要：The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> United Airlines on Monday said it had resolved a "widespread system outage" that briefly affected departing flights.
+"We have resolved a technology issue that delayed flight departures," the airline said in a statement. "While some flights were delayed, there was no impact on flights in progress, or on United Express flights.
+A United spokesperson said there was no indication that the outage was a cyberattack.
+The Air Line Pilots Association, which represents pilots for United and other carriers, said in an earlier message to members seen by CNBC that the operational outage was "affecting multiple pilot facing applications" and that United could not "provide outbound flights with final weights."
+United's outage came three days after a nationwide ground stop halted departures across the country for more than four hours, snarling travel and leading to widespread delays and cancellations over the weekend.
+Transportation Secretary Sean Duffy blamed the issues that led to Friday's ground stop on a router in Arkansas that overwhelmed systems that feed radar and other data for air traffic control. Federal Aviation Administration Administrator Bryan Bedford said the upgrades were part of "routine" maintenance to switch over from copper wires to fiber optic.
+There were significantly fewer flight delays and cancellations Monday than had been reported Sunday, according to FlightAware data.
+There was no indication that United's outage Monday was related to the issues that caused Friday's ground stop.
+— CNBC's Leslie Josephs and Phil LeBeau contributed to this report.
+
+</details>
+
+
+---
+
+## JPMorgan Chase says temporary software bug is affecting consumer banking
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html
+
+正文长度：1455
+
+摘要：CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> JPMorgan Chase reported a "technical issue" that was affecting some consumer banking services Monday.
+The bank said a "temporary issue related to a software bug in on-premise hardware systems" was causing some customer transactions to take longer than usual, though it said customers can still access their accounts and funds.
+"There is no evidence it is cyber-related," a JPMorgan spokesperson said in a statement to CNBC.
+"This is not a systemic issue — other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us," the spokesperson said. "We're working diligently to resolve this by the end of the day today."
+CNBC's Eamon Javers reported there was no indication of bad actors involved.
+Still, other major banks were listed in outage reports as transactions between Chase and other institutions appeared to get held up. Users reported errors as early as 11:30 a.m. ET.
+A representative for U.S. Bank said that company was "not directly impacted. However, clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays."
+Zelle is the peer-to-peer payments system backed by many of the largest U.S. banks, including JPMorgan.
+The outage reports come days after separate, widespread issues with Microsoft Outlook and communication systems used by air traffic control centers.
+— CNBC's Leslie Picker contributed to this report.
+
+</details>
 
 
 ---
@@ -133,189 +218,67 @@ Shortly after the ground stop, Duffy said he was asking Congress for as much as 
 
 ---
 
-## Novo says Wegovy injection lowers BMI and obesity rates in children in trial
+## Finland urges European leaders to talk to Putin directly - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html
-
-正文长度：3184
-
-摘要：Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Novo on Monday released full results from a late-stage trial showing its blockbuster Wegovy injection helped children ages 6 to under 12 with obesity shed weight, significantly lowering their body mass index.
-Wegovy reduced BMI by an estimated 19.7 percentage points on average compared with a placebo at 68 weeks, with BMI falling 17.4% among children receiving the drug and rising 2.2% among those receiving a placebo. Those results assumed patients stayed on treatment during the trial.
-When evaluating all children in the study, including those who discontinued treatment, Wegovy lowered BMI by an estimated average of 16.2 percentage points more than the placebo at 68 weeks. All 167 kids in the study received lifestyle modifications throughout the trial, including a reduced-calorie diet and increased physical activity.
-The detailed results mark an encouraging step forward in treating childhood obesity — a chronic disease that can carry serious cardiovascular, metabolic and psychosocial consequences but has had few treatment options for younger children. When left unaddressed, childhood obesity can extend into adulthood, bringing earlier and more severe health complications.
-"This is a very significant disease burden in this very young patient population," said Dr. Andrea Traina, Novo's medical director lead of obesity.
-In 2025, the disease affected an estimated roughly 177 million children and teens ages 5 to 19 worldwide, according to the World Obesity Federation. That figure is projected to rise to 228 million by 2040.
-While Wegovy is already approved to treat obesity in children ages 12 and older, there are currently no approved medications for those under 12. The latest results offer evidence that Wegovy can potentially fill that treatment gap, safely and effectively reducing the severity of the disease in children as young as 6.
-In Novo's trial, 85% of children started with moderate to severe obesity, which corresponds to BMI thresholds of 35 and above and 40 or higher, respectively. Nearly half already had at least one obesity-related complication, such as high blood pressure, high cholesterol or sleep apnea.
-But more than 40% of children treated with Wegovy were no longer classified as having obesity after 68 weeks of the trial, assuming patients stayed on treatment. Novo initially shared that result in September.
-"We are driving towards control of this chronic disease in that patient population when they are still so young and at such high risk for more advanced and accelerated disease progression because they developed it so early," Traina said.
-Novo said Wegovy's overall safety and tolerability among children — how well patients managed the drug — were consistent with those seen in trials with adults. The company added that it observed no safety concerns related to growth or pubertal development in the kids.
-Still, the two-year study does not establish whether treating obesity earlier can change its long-term trajectory, or what treatment and maintenance might look like as children grow into adulthood, Traina said.
-"That is something that is still an evidence gap," she said, pointing to the potential of future research.
-
-</details>
-
-
----
-
-## Big-ticket holiday items may be harder to find as shipping costs rise
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html
-
-正文长度：5906
-
-摘要：Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> This holiday season, big-ticket items are expected to be in short supply with diesel prices near records, trucking rates close to a post-pandemic level and carrying costs hitting multidecade highs. All of that is forcing many retailers to rethink their holiday inventory strategy.
-"We are going to have some of the lowest inventory levels on some of these big-ticket items we have seen in history," said Deborah Weinswig, CEO of retail analytics firm Coresight Research.
-Weinswig said retailers she is working with are holding less inventory of big-screen TVs, grills, large consumer appliances like washers and dryers, and other items that take either big amounts of space or cost a lot of money to hold.
-"It's freight getting it from there to here; it's carrying costs; then it's just the trucking to get it into the stores," Weinswig said. "We're talking three different pieces right here and each is up significantly year on year."
-The surge pricing for supply chain services is being caused by domestic and international policy.
-According to Evercore ISI, the rates for general trucking have increased more than 47% year over year during the week of Nov. 2.
-Industry experts say a large factor has been a crackdown by the federal government on non-citizen truck drivers and non-U.S.-based truck drivers operating in the U.S. That has created a capacity crunch that has raised rates and is expected to continue to create upward pressure.
-At the same time, fuel surcharges are spiking.
-Most transportation providers charge customers an extra fuel surcharge to offset changes in the cost of diesel fuel. That surcharge has spiked 64% year over year, according to Evercore ISI data, as diesel prices have hit new record highs due in part to the U.S.-Israel war with Iran.
-And inventory holding costs — or the total expense of storing unsold goods, which could include the costs for capital, service, storage and other risk factors — are closely tied to the yield on the 10-year Treasury note, which exceeded 5% in October and remains at multiyear highs in November.
-Collectively, the higher costs could mean bigger discounts for shoppers willing to wait, according to Bill Catania, CEO of logistics technology company OneRail, which powers same-day delivery for companies such as FedEx and Lowe's.
-"You're going to see more discount and price promotions as we get closer to the holiday to liquidate inventory, so they're not having to transfer it or dispose of it or position it some other way," Catania said.
-Planning for peak
-Retailers are also facing a conundrum in their holiday inventory strategy when it comes to shipping costs versus opportunity costs. In other words, is it worth it to stock up now, or wait it out in hopes that shipping rates will come down some but potentially miss out on having the right product mix?
-It's leading to a wait-and-see approach for stocking shelves after early holiday sales in October, executives said.
-UPS CEO Carol Tomé said on the company's earnings call on Oct. 27 that it's "just starting to get peak season forecasts from our customers."
-Similarly, Derek Leathers, CEO of Werner Enterprises, a trucker for big-box stores and major retailers, said retailers are cautious.
-"When rates are higher and the cost of capital is more expensive, you are going to have a much more intense focus on not having excess inventory," Leathers said.
-Still, 2026 holiday sales are expected to top $1 trillion as inflation drives growth and customer spending is expected to remain healthy, according to Bain & Company's annual forecast. Leathers said even with the surge in trucking and shipping rates, he's seeing that retailers are willing to pay up to stock up.
-"The bigger concern right now is wanting to make sure they have their capacity locked in. There is way more dialogue around the assurance of having a truck or whatever mode that needs to be secured," Leathers said. "Not saying they are price insensitive, because they are certainly always concerned about price. But you can't sell it if it's not on the shelf."
-Last minute and last mile
-ShipMatrix, a data analytics firm for the logistics industry, forecasts 2.4 billion packages will be delivered during the 2026 holiday peak, a 4% increase year over year.
-It's an increase that will likely lead retailers to increasingly use gig delivery, especially later in the holiday peak. Gig workers allow retailers and delivery companies to adjust to changes in order flow and accommodate surges of last-minute shopping without spending time and money onboarding new team members.
-"Gig economy delivery is great. You know, it fulfills fast, but there's better unit economics out there," Catania said.
-Industry experts said they also expect to see more retailers use drones for last-mile delivery for smaller items.
-A 2024 PwC study forecast that the cost of drone delivery would "drop by more than 70% over the next 10 years, which will not only match traditional last-mile delivery costs, but surpass them and create an inflection point for the industry."
-Amit Regev, CEO of drone company Flytrex, said the company is in active talks with retailers about using drones for holiday deliveries.
-"The expectation now is becoming so much more instant," Regev said.
-Retailers have been increasing their use of drones. Lowe's in September said it was launching a drone delivery service in partnership with DoorDash and Alphabet's Wing. Amazon earlier this year said it was aiming to offer drone deliveries in nearly 500 U.S. cities and towns by the end of the year.
-Flytrex currently delivers for Walmart and a number of restaurants including Little Caesars and Papa John's.
-"Customers are looking for that instant gratification," Regev said. "So if it takes too long, they might not want to order with you. And from what we are seeing that's a stronger incentive for them to try and test or deploy deliveries using drones."
-
-</details>
-
-
----
-
-## Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html
-
-正文长度：4446
-
-摘要：EV makers have had to contend with flip-flopping regulatory support from Washington over the years.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Leaders of several U.S. electric vehicle manufacturers said they're not counting on increased federal support for their businesses once Democrats gain control of Congress in January, but they said they'll gladly take it if it does happen.
-That was the overall sentiment from CEOs of Rivian Automotive, Lucid Group and EV startup Scout Motors during interviews with CNBC after Democrats' historic midterm election wins.
-"We've honestly constructed Scout from day one to be in an environment where we're not going to count on, let's say, legislation or count on things that may or may not be there," Scout CEO Scott Keogh, an automotive veteran, told CNBC on Wednesday.
-EV makers have had to contend with flip-flopping support from Washington over the years. The Trump administration has ended or rolled back support for climate change initiatives and EVs that were supported by the Biden administration, including an up to $7,500 customer incentive for purchasing an EV.
-Legacy automakers such as General Motors and EV startups alike had counted on such credits to help them boost their sales and assist in electric vehicle profitability. But now they don't have that same level of federal assistance.
-'Plan for the worst'
-Rivian CEO RJ Scaringe said it's his hope that the Democratic-controlled Congress and Republican President Donald Trump can find middle ground to make progress for the EV industry, but Rivian's not counting on that.
-"We try not to plan for those sort of things. The reality is it's probably going to have less of an impact than we think," Scaringe said Nov. 6 following the election results. "I think we're going to actually have a lot of challenges getting things done."
-Fellow EV manufacturer Lucid, which is backed by Saudi Arabia's Public Investment Fund, is taking a similar approach.
-"You know, they say, 'Plan for the worst and … hope for the best.' That's all we can say," Lucid CEO Silvio Napoli told CNBC on Monday. "Anything positive, we'll take it."
-The lack of expected support comes as Democrats seem to be more focused on hot topics such as healthcare and data centers rather than climate change and support for alternative energy technologies such as EVs.
-CNBC previously reported that House Democrats plan to bring to the floor bills reinstating the enhanced health insurance subsidies that expired under the GOP-held Congress and reversing the Medicaid cuts Trump signed into law last year. They also plan to focus on oversight of the Trump administration and affordability.
-Rachel McCleery, executive director of the nonprofit policy advisory Coalition for Reimagined Mobility at SAFE, said she believes affordability concerns also could include the cost of vehicles, including EVs.
-"I fully expect there will be legislative debates over what to do moving forward, including on EV and EV supply chain incentives," McCleery, a former U.S. Department of Treasury senior advisor and Ford Motor policy director, said. "Bringing down the cost of vehicles for U.S. consumers is top of mind for Democratic policymakers, and electric vehicles are a critical aspect of this agenda because of the multiple challenges greater EV adoption solves for."
-Affordability concerns
-Scout's Keogh said if legislators decide to offer any type of support, he would prefer it to be for EV production, which could then have a trickle-down effect on vehicle pricing and help companies amid inflated costs.
-"I always prefer it on the production side," Keogh said. "Anything that can drive down production cost is going to, of course, get passed along to the customer."
-Affordability has been a concern for EV adoption as the vehicles typically cost more than traditional models with internal combustion engines.
-Sales of EVs spiked last year ahead of the Trump administration ending the up to $7,500 incentive after September 2025, but have since come down from that high.
-Cox Automotive reports the average price for a new electric vehicle as of September was more than $54,800, according to the most recent available data. That compared to the average overall industry at just over $51,100 last month.
-"Ultimately, incentives can help accelerate adoption, but the industry can't build its long-term strategy around them," Stephanie Valdez Streaty, Cox director of industry insight, said Friday. "The goal has to be making EVs affordable and compelling enough that they make sense for more consumers with or without an incentive."
-
-</details>
-
-
----
-
-## New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnlkbk1SY1Zjem5RQ0J6eDdxUUktTWdKclRNbWhXaHVVMXl4V2F2aTJGeTNWdGhaOTdZU2VFQS1VX0N3SHR5R3Z0SHlDN245dHliQmZCdFU1MzhuaWNXeXRXQU9VbnYxeUdoQnhGMkVUUVVBaDkzV3JLV1htLWYyMmRnZGc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5" target="_blank">New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnlkbk1SY1Zjem5RQ0J6eDdxUUktTWdKclRNbWhXaHVVMXl4V2F2aTJGeTNWdGhaOTdZU2VFQS1VX0N3SHR5R3Z0SHlDN245dHliQmZCdFU1MzhuaWNXeXRXQU9VbnYxeUdoQnhGMkVUUVVBaDkzV3JLV1htLWYyMmRnZGc?oc=5" target="_blank">Finland urges European leaders to talk to Putin directly</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Downdetector reports user issues at major US banks - Reuters
+## Leak of 15mn Deutsche Bank files exposes systemic failures - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTd2X2tiakg1aXh5NnFBZnRIdmxsVW94cXlnaHdXU18zMVQtSWpNVUk4VHFqUDF4WEc4ODhrd01vdmJ3M3VoMnJ6c1RVa1dlS3d3VE9sYVN2OXgyWi1pWE5FUlNzMTlSaElOODM5aFhGOU53Q0xFaDBaX0RQM2VCUUhEWDU?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5" target="_blank">Downdetector reports user issues at major US banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTd2X2tiakg1aXh5NnFBZnRIdmxsVW94cXlnaHdXU18zMVQtSWpNVUk4VHFqUDF4WEc4ODhrd01vdmJ3M3VoMnJ6c1RVa1dlS3d3VE9sYVN2OXgyWi1pWE5FUlNzMTlSaElOODM5aFhGOU53Q0xFaDBaX0RQM2VCUUhEWDU?oc=5" target="_blank">Leak of 15mn Deutsche Bank files exposes systemic failures</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US envoy Kushner says progress made in Ukraine talks - Reuters
+## Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTF9WemdwMmpZRlpib2p6V0pGeEs4ZXBzb3c0bU4yUnBORGp4cWt6OFdSY1VNNkIwLUVFN3pqdlFtQTg4aDh4ZEJuclJLSW52MmNZcHFlcU9XRlJqdGJYRkdJeTJwSU9Td2k1blQzTGJqSUttTF9JSnlZejU0VmlKWk5WSVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5" target="_blank">US envoy Kushner says progress made in Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTF9WemdwMmpZRlpib2p6V0pGeEs4ZXBzb3c0bU4yUnBORGp4cWt6OFdSY1VNNkIwLUVFN3pqdlFtQTg4aDh4ZEJuclJLSW52MmNZcHFlcU9XRlJqdGJYRkdJeTJwSU9Td2k1blQzTGJqSUttTF9JSnlZejU0VmlKWk5WSVk?oc=5" target="_blank">Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters
+## Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5" target="_blank">California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM?oc=5" target="_blank">Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Pope Leo misses the catch as rosary from crowd hits his eye in Peru - Reuters
+## ‘There was a lot of gaslighting’: Why America’s podcast stars ditched Donald Trump - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXR1R3RmbE84ZlJMVkVZT2hGaUxubUpjWnFlODZyWVJUMWtlLXo2ZWdBeXBKR282Y3k5R0prNGFjTGlFZ0JIRXRzM29oc1d1WXhoNzgwanJzVDJ3NVo4RnQ5cEJ2U1EwZzItTkM3OUJWc1NCV0poNURpel9Ob0hQY0hqa1A?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5" target="_blank">Pope Leo misses the catch as rosary from crowd hits his eye in Peru</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXR1R3RmbE84ZlJMVkVZT2hGaUxubUpjWnFlODZyWVJUMWtlLXo2ZWdBeXBKR282Y3k5R0prNGFjTGlFZ0JIRXRzM29oc1d1WXhoNzgwanJzVDJ3NVo4RnQ5cEJ2U1EwZzItTkM3OUJWc1NCV0poNURpel9Ob0hQY0hqa1A?oc=5" target="_blank">‘There was a lot of gaslighting’: Why America’s podcast stars ditched Donald Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
