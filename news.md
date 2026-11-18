@@ -1,68 +1,98 @@
 # 每日财经新闻
 
-更新时间：2026-11-17 20:41:11
+更新时间：2026-11-18 06:51:08
 
-## Oil Swings as Mideast Flareups Threaten Ample Supply Outlook
+## Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17
+链接：https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap
 
 正文长度：0
 
-摘要：Oil swung in choppy trading as renewed fighting in the Middle East cast doubt on the staying power of an increasingly comfortable supply outlook.
+摘要：The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”
 
 
 ---
 
-## B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market
+## Stocks Waver After Nvidia Results, Treasuries Rise: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market
+链接：https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Brazil’s exchange operator B3 SA will incorporate shares of Brazilian companies listed abroad to the nation’s benchmark equity index starting next year in a push to boost liquidity after years of de-listings in the local market.
+摘要：Global stocks failed to mount a meaningful rebound as the initial boost from Nvidia Corp.’s better-than-expected sales forecast faded, signaling lingering doubts over the artificial intelligence trade. Treasuries gained on haven demand.
 
 
 ---
 
-## Stocks Fall on Tech Disruptions Before Nvidia Test: Markets Wrap
+## Delevska: Need a Strong Leader to Run Nvidia
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video
 
 正文长度：0
 
-摘要：A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.
+摘要：Nvidia boosted its sales forecast for next year and vowed to improve the company’s access to critical supplies while dismissing rumours of Jensen Huang’s return in their first earnings call since the scandal broke out. Ivana Delevska, CIO of Spear Invest spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the chip giant’s forecast. (Source: Bloomberg)
 
 
 ---
 
-## US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle
+## Xi, Putin Assail Economic Barriers Ahead of Summit With Trump
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle
+链接：https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks
 
 正文长度：0
 
-摘要：The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.
+摘要：Xi Jinping warned against economic barriers and urged closer cooperation among Asia-Pacific nations ahead of talks with Donald Trump, as new US restrictions on China’s access to advanced AI chips strain a fragile trade truce.
 
 
 ---
 
-## One of the Biggest Weeks in the AI Industry’s History
+## US Strikes Iranian Missile Site after Bahrain Attacks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history
+链接：https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video
 
 正文长度：0
 
-摘要：The ripple effects of a Jensen-less Nvidia are starting to show up.
+摘要：Bloomberg’s Jon Herskovitz discusses the latest exchange of strikes between the US and Iran after American warplanes hit an Islamic Revolutionary Guard Corps missile launch site in Iran. Iran previously targeted an air base in Bahrain in the first direct strike on the Gulf state in weeks, even as it reiterated that a path to ending the conflict with the US remains open. (Source: Bloomberg)
+
+
+---
+
+## Target is set to report earnings before the bell. Here's what to expect
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html
+
+正文长度：1704
+
+摘要：Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Target is expected to report fiscal third-quarter results on Wednesday and offer more details on the progress of its turnaround as the company prepares for the busy holiday season.
+The big-box retailer has been showing signs of returning to growth, as it sees stronger sales trends after years of flat revenue. Last quarter, Target hiked its full fiscal-year outlook and said it saw "broad-based" strength across its various categories.
+It's also lowered prices on more than 10,000 items in an effort to get customers back into its stores, especially as consumer sentiment lags and inflation remains high.
+Here's what Wall Street is expecting for the retailer's fiscal third quarter, based on a survey of analysts by LSEG:
+- Earnings per share: $2.07 expected
+- Revenue: $26.56 billion expected
+Despite the progress, CEO Michael Fiddelke has emphasized that the company remains cautious about its turnaround, saying after Target's second-quarter results that the retailer has "much more work to do." While categories like food and beauty saw encouraging sales trends, the apparel and home categories lagged during that quarter.
+Some investors still aren't sure Target has done enough to show a steady turnaround. Analysts at Morgan Stanley wrote in a note last week that they expect Target to deliver an "encouraging" quarter, though questions about the broader health of the business remain.
+"Target has an opportunity to demonstrate progress, but the durability and profitability of its recovery remain open questions," the analysts wrote.
+Still, they said they believe the company's investments in the store experience are driving interest from consumers.
+Target's stock is up more than 60% this year.
+
+</details>
 
 
 ---
@@ -73,7 +103,7 @@
 
 链接：https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html
 
-正文长度：2749
+正文长度：3050
 
 摘要：Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.
 
@@ -94,6 +124,7 @@ CNBC has reached out to L3Harris and Juniper Networks for comment.
 Duffy on Friday called for Congress to approve $50 billion in funding for upgrades to the aging U.S. air traffic control system, more than he has previously asked for. Democratic lawmakers pushed back on the request, citing unspent money from existing funding, which includes Congress' approval last year of $12.5 billion for airport and air traffic control improvements over five years.
 Senate Commerce Chair Ted Cruz, R-Texas, said Tuesday that he thinks there will be support for air traffic control modernization, but that the allocation should be specifically for safety upgrades.
 "I don't think the full $50 billion will be funded," he said. "Some of that is not safety related, but we just discussed there, and what I expressed is that the request needs to be focused on safety modernization."
+Duffy dismissed the idea that the router issue had to do with the introduction of artificial intelligence tools and said it was "completely unfounded" because the AI system is not in communication with the defective router. He added that the FBI is helping to investigate the root cause of the issue.
 Aging equipment and a shortage of air traffic controllers have for years angered airline executives, who have complained about the cost of resulting disruptions.
 — CNBC's Phil LeBeau, Leslie Josephs and Justin Papp contributed to this report.
 
@@ -108,7 +139,7 @@ Aging equipment and a shortage of air traffic controllers have for years angered
 
 链接：https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html
 
-正文长度：6014
+正文长度：6469
 
 摘要：The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.
 
@@ -121,12 +152,14 @@ In other words, measles is spreading regularly in the country again, with ongoin
 "The commission concluded that endemic measles transmission has now been reestablished in Bolivia, Mexico and the United States, and recommended that their measles elimination status be withdrawn — a recommendation which I have accepted," Dr. Jarbas Barbosa, PAHO director, said during a news briefing on Tuesday.
 It's a devastating step backward for American public health, as declining childhood vaccination rates and vaccine hesitancy fuel outbreaks across the country that have sickened thousands of people and led to a tragic string of preventable deaths. Among the deaths where vaccination status was reported, all were unvaccinated.
 More than 5,400 measles cases had been reported nationwide in 2026 as of mid-November, marking the country's worst outbreak in more than three decades. States have confirmed 10 deaths associated with the disease so far in 2026: seven in Pennsylvania, one in New York and two in Wisconsin.
-The commission found that out of 52 U.S. states and territories it tracked, 48 experienced measles outbreaks during the reporting period between January 2025 and January 2026, PAHO Assistant Director Dr. Rhonda Sealey-Thomas said during the briefing. But Barbosa said countries are already taking action to control outbreaks, such as strengthening vaccination, surveillance and outbreak response efforts.
+The commission found that out of 52 U.S. states and territories it tracked, 48 experienced measles outbreaks during the reporting period between January 2025 and January 2026, PAHO Assistant Director Dr. Rhonda Sealey-Thomas said during the briefing. But Barbosa said the countries are already taking action to control outbreaks, such as strengthening vaccination, surveillance for timely case detection and outbreak response efforts.
 The U.S. in particular has ramped up vaccination efforts to close immunity gaps, particularly in areas with low immunization coverage experiencing outbreaks, said Dr. Daniel Salas, executive manager of PAHO's Special Program for Comprehensive Immunization. He said PAHO expects the U.S. to present its corrective action plan in the coming weeks, outlining strategies to regain its designation.
 In a Tuesday release, the Centers for Disease Control and Prevention said it will continue to ensure all communities have the resources to prevent and respond to outbreaks and is committed to working with states and other local partners to restore the U.S.'s measles elimination status.
 CDC Director Dr. Erica Schwartz said in the release that the measles elimination designation "is not what protects Americans. Vaccination does." She said the agency has invested $100 million in state and local health departments to reach communities where transmission is occurring.
 Last week, Schwartz told Reuters that the agency is going to be "doing the same exact thing that we've been doing today" if the U.S. loses its measles-free status.
 The decision also poses a new test for the Trump administration and its Health and Human Services Secretary Robert F. Kennedy Jr., who has taken steps to change recommendations for the childhood measles, mumps and rubella, or MMR, vaccine and has a long history of questioning its safety without evidence.
+But Kennedy, in a Tuesday X post, said he continues to recommend MMR vaccination as "the most effective way to prevent measles."
+"We are working to close vaccination gaps and rebuild public trust," Kennedy said. "We will answer families' questions honestly about vaccine benefits and risks and work with trusted health care providers and community leaders to prevent measles, limit its spread, and support timely treatment."
 CNBC previously reported on how the return of measles in the U.S. exposes weaknesses in the nation's public health system that raise concerns about the return of other eliminated diseases. The resurgence of measles exposes eroding trust in health institutions and growing challenges in persuading people to protect themselves, their children and their communities.
 Public health experts previously told CNBC that the return of measles ultimately boils down to fewer children getting vaccinated.
 The MMR vaccine is about 97% effective against measles after two doses, while a single dose is 93% effective, according to the CDC. Yet data aggregated by the CDC shows that vaccination coverage for that shot among U.S. kindergarteners fell to 92.4% in the 2025-2026 school year, which is below the 95% threshold public health officials generally recommend to prevent sustained transmission.
@@ -187,7 +220,7 @@ The fastest-growing categories in this year's cycle were connected TV, or intern
 
 链接：https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html
 
-正文长度：3486
+正文长度：3961
 
 摘要：Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.
 
@@ -208,76 +241,14 @@ Nike's net income and revenue both fell during the most recent period compared w
 The new strategy, dubbed Pace, focuses on the company's supply chain and reorganizing into three geographies. Nike said the turnaround plan is expected to deliver roughly $2.5 billion in savings through fiscal 2031.
 Nike has been seeing significant sustained declines in its China market, where revenue last quarter dropped 26%. Experts have said the company is losing relevance in the country, while Nike has said it's actively working to win over younger consumers.
 At the same time, Nike announced last quarter that it's creating a new global campus in India as part of its new growth strategy, hoping the country will help boost its performance. The company said it was remaining focused on China even as it begins to build out its India presence.
+Nike COO Venkatesh Alagirisamy told CNBC the company sees an opportunity to triple its business in the country over the next five years.
+He added that Nike's broader strategy will position it for success in India.
+"If you look at the three components, brand building, landing those innovations into marketplaces in an increasingly locally connected fashion and then doing all of those things in a much faster pace really aligns well with the aspirations for India," he said.
 CEO Elliott Hill's turnaround strategy includes improving different parts of the business at different rates based on priority. While it's seen some signs of progress in the North America business, Hill has said that performance isn't enough to offset the pressures on the company elsewhere, including internationally.
 The Nike consumer has also been under increased macroeconomic pressure as geopolitical tensions mount and inflation rises.
 Shares of Nike have fallen 50% over the past two years.
 
 </details>
-
-
----
-
-## Home Depot names Richard McPhail as new CEO, beats earnings expectations
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html
-
-正文长度：3353
-
-摘要：Home Depot named Richard McPhail as its new CEO effective next week.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Home Depot on Tuesday announced its chief financial officer, Richard McPhail, will become CEO of the company, succeeding Ted Decker, effective next week.
-Alongside McPhail's appointment, Home Depot said Ann-Marie Campbell, currently senior executive vice president of U.S. stores and operations, will become president and chief operating officer. Jordan Broggi has been chosen as CFO to succeed McPhail.
-Decker, CEO since 2022, had been on temporary medical leave since August. The company said on Tuesday that Decker has returned from leave but is now stepping down from his role. He will continue to serve as chair of the board of directors, the company said.
-"I'm glad to be back and grateful for the support I received," Decker told analysts on Tuesday. "The board and I have agreed that now is the right time to move to the next phase of our succession plan."
-McPhail has been with the company since 2005, holding multiple executive roles.
-"We're not going to change course," McPhail told CNBC's Becky Quick.
-He said the company will continue to lean into winning professional shoppers like contractors and using artificial intelligence tools to encourage sales. McPhail added that while the company faces more challenges now than it did at the start of the year, it is still winning share of the home improvement market.
-Home Depot has been pressured by a sluggish housing market, higher mortgage rates and a more cautious consumer. Still, the company has previously said it's seen resilience among its pro shoppers who are still shopping for their home improvement projects.
-Shares of Home Depot sank more than 3% following the announcement and the retailer's fiscal third-quarter results.
-The CEO change came as the home improvement retailer posted quarterly earnings and revenue that beat analysts' expectations. The company said comparable sales rose 2.2% during the period, compared with estimates of up 1.8%, according to StreetAccount.
-Here's how Home Depot performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $3.86 adjusted vs. $3.84 expected
-- Revenue: $43.4 billion vs. $42.80 billion expected
-The company reported net income of $3.71 billion, or $3.72 per share, compared with $3.60 billion, or $3.62 per share, the year prior. Excluding one-time items, Home Depot reported adjusted earnings per share of $3.86.
-Revenue rose 4.9% compared with the year-ago period.
-"We also are confident that we are taking material share from the market and from competition," McPhail said on the call with analysts.
-In the third quarter, the company said online comparable sales grew around 13%, which marked its sixth straight quarter of double-digit positive growth for the metric.
-The company said it saw positive comparable sales numbers in 13 out of 16 of its merchandising departments, including notable strength in the power department, which posted double-digit percentage growth.
-For the full year, Home Depot said it expects total sales to rise roughly 4.5%, the top end of its previously provided range. It also anticipates comparable sales will grow around 1.4%, compared with an outlook of flat to a 2% increase.
-Home Depot added it expects adjusted earnings per share to rise 2% this year, compared with prior guidance of flat to a 4% increase.
-
-</details>
-
-
----
-
-## How Jensen Huang’s family shaped Nvidia’s Singapore dealings - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWlnRVRyQklZVS1SanF4U05na21fd0FCM3FHODZxTlJFNHdnS2FZYXBYTUJxMzNRbzZJVHV5eEpOUnE2RVJUYld5bUd3RDZCRGFrb2dtOVFFNm9xYU42SlUwbGJWblpjUzJaZFZ2Q2hIVnpWQWVqcDc4VE5uNi02V2UzWFU?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWlnRVRyQklZVS1SanF4U05na21fd0FCM3FHODZxTlJFNHdnS2FZYXBYTUJxMzNRbzZJVHV5eEpOUnE2RVJUYld5bUd3RDZCRGFrb2dtOVFFNm9xYU42SlUwbGJWblpjUzJaZFZ2Q2hIVnpWQWVqcDc4VE5uNi02V2UzWFU?oc=5" target="_blank">How Jensen Huang’s family shaped Nvidia’s Singapore dealings</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia stopped disclosing Singapore sales as revenues hit $104bn - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVI2VUlHdWVMUjVKelFpcms1Y3hIX0N0dGxRV1FFNWFuRUNTeGhSVUFySEdXZ0xUcW5RekY0dElVZW9LRjhFaF91NlZFTjNlOVZYbTgzNWt1VnVVZU9WNERYX2FCc2d5bU5mYzVoVzQ1Y3h2andFYTk1cnEwc1ZtYlR1SnM?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVI2VUlHdWVMUjVKelFpcms1Y3hIX0N0dGxRV1FFNWFuRUNTeGhSVUFySEdXZ0xUcW5RekY0dElVZW9LRjhFaF91NlZFTjNlOVZYbTgzNWt1VnVVZU9WNERYX2FCc2d5bU5mYzVoVzQ1Y3h2andFYTk1cnEwc1ZtYlR1SnM?oc=5" target="_blank">Nvidia stopped disclosing Singapore sales as revenues hit $104bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -295,15 +266,15 @@ Home Depot added it expects adjusted earnings per share to rise 2% this year, co
 
 ---
 
-## JPMorgan Chase elevates Bregje de Best to finance chief - Financial Times
+## Nvidia stopped disclosing Singapore sales as revenues hit $104bn - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVRIdHlSbGtmVVFkaENQX3pOOXNUTmJVM1JVWkxoTy1tVWV2VHNqRDNMaTUyQ29WU3lBbl85RWNUczlBMVo1Zi0xOUtKQjIzQ1VQTzJIRUdoS19YWUE0TV9wMHNFejRGNV8xOGdHTDc5cWpPb1VlbWprU1hRd0lJWnFrQXg?oc=5
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVI2VUlHdWVMUjVKelFpcms1Y3hIX0N0dGxRV1FFNWFuRUNTeGhSVUFySEdXZ0xUcW5RekY0dElVZW9LRjhFaF91NlZFTjNlOVZYbTgzNWt1VnVVZU9WNERYX2FCc2d5bU5mYzVoVzQ1Y3h2andFYTk1cnEwc1ZtYlR1SnM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVRIdHlSbGtmVVFkaENQX3pOOXNUTmJVM1JVWkxoTy1tVWV2VHNqRDNMaTUyQ29WU3lBbl85RWNUczlBMVo1Zi0xOUtKQjIzQ1VQTzJIRUdoS19YWUE0TV9wMHNFejRGNV8xOGdHTDc5cWpPb1VlbWprU1hRd0lJWnFrQXg?oc=5" target="_blank">JPMorgan Chase elevates Bregje de Best to finance chief</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVI2VUlHdWVMUjVKelFpcms1Y3hIX0N0dGxRV1FFNWFuRUNTeGhSVUFySEdXZ0xUcW5RekY0dElVZW9LRjhFaF91NlZFTjNlOVZYbTgzNWt1VnVVZU9WNERYX2FCc2d5bU5mYzVoVzQ1Y3h2andFYTk1cnEwc1ZtYlR1SnM?oc=5" target="_blank">Nvidia stopped disclosing Singapore sales as revenues hit $104bn</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -321,67 +292,93 @@ Home Depot added it expects adjusted earnings per share to rise 2% this year, co
 
 ---
 
-## Equinor detects cyberattack against some IT systems - Reuters
+## How Jensen Huang’s family shaped Nvidia’s Singapore dealings - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWlnRVRyQklZVS1SanF4U05na21fd0FCM3FHODZxTlJFNHdnS2FZYXBYTUJxMzNRbzZJVHV5eEpOUnE2RVJUYld5bUd3RDZCRGFrb2dtOVFFNm9xYU42SlUwbGJWblpjUzJaZFZ2Q2hIVnpWQWVqcDc4VE5uNi02V2UzWFU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5" target="_blank">Equinor detects cyberattack against some IT systems</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWlnRVRyQklZVS1SanF4U05na21fd0FCM3FHODZxTlJFNHdnS2FZYXBYTUJxMzNRbzZJVHV5eEpOUnE2RVJUYld5bUd3RDZCRGFrb2dtOVFFNm9xYU42SlUwbGJWblpjUzJaZFZ2Q2hIVnpWQWVqcDc4VE5uNi02V2UzWFU?oc=5" target="_blank">How Jensen Huang’s family shaped Nvidia’s Singapore dealings</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters
+## JPMorgan Chase elevates Bregje de Best to finance chief - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVRIdHlSbGtmVVFkaENQX3pOOXNUTmJVM1JVWkxoTy1tVWV2VHNqRDNMaTUyQ29WU3lBbl85RWNUczlBMVo1Zi0xOUtKQjIzQ1VQTzJIRUdoS19YWUE0TV9wMHNFejRGNV8xOGdHTDc5cWpPb1VlbWprU1hRd0lJWnFrQXg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5" target="_blank">Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVRIdHlSbGtmVVFkaENQX3pOOXNUTmJVM1JVWkxoTy1tVWV2VHNqRDNMaTUyQ29WU3lBbl85RWNUczlBMVo1Zi0xOUtKQjIzQ1VQTzJIRUdoS19YWUE0TV9wMHNFejRGNV8xOGdHTDc5cWpPb1VlbWprU1hRd0lJWnFrQXg?oc=5" target="_blank">JPMorgan Chase elevates Bregje de Best to finance chief</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Classified US national security communications network hit by outage, NSA says - Reuters
+## Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5" target="_blank">Classified US national security communications network hit by outage, NSA says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk?oc=5" target="_blank">Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation - Reuters
+## Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJFWTJkVUZ1ZEd6eDR1VEtvREpLSzFOSFRyX2RaWUlaeEt3OGw0THRHVXk1T3doaDJRb1JIS2ZnQVNUbnZGeURDR3VwWmhZeURmUWF0cndTZ2g3X3VabFBNNFZDSkloVjRWUDdwdlFqWEtRUFUtc1BvZ3RkYTdBVndxM3NWZHRhME1zaEhfZElXQWRiUFByU1hlOVF4eGZtQVhwbkpvTWQtTUxneklSdjZIZHVXS21nR2dzbHduazFlaEVKbGlpbDZDMEVLMEU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJFWTJkVUZ1ZEd6eDR1VEtvREpLSzFOSFRyX2RaWUlaeEt3OGw0THRHVXk1T3doaDJRb1JIS2ZnQVNUbnZGeURDR3VwWmhZeURmUWF0cndTZ2g3X3VabFBNNFZDSkloVjRWUDdwdlFqWEtRUFUtc1BvZ3RkYTdBVndxM3NWZHRhME1zaEhfZElXQWRiUFByU1hlOVF4eGZtQVhwbkpvTWQtTUxneklSdjZIZHVXS21nR2dzbHduazFlaEVKbGlpbDZDMEVLMEU?oc=5" target="_blank">US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5" target="_blank">Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Jensen Huang's daughter helped steer Nvidia response to Megaspeed scrutiny, FT reports - Reuters
+## Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQ1VUdLUzhnTkJscVVGZkYyMnA5b2QwU0FrTEdDVnR6bXVnU0dZUG8teHFsX3Y3OUlLaVlUTm85S0hEN3gwSW1YMVhoUW1Pb3hXaVNzRDVfaldMaUkyZGhBSmM5N3hlVHVBSDQ2aWRsc19sZkI3Xzg2MGxFMlRwOGY4NElWcTZjQ0x5NkdhWTZ4ejExd1Nqc1B4VDYzOWc2SzdoT0hWTTFQM2xfUklRODZtOXRodFoxV3VVWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQ1VUdLUzhnTkJscVVGZkYyMnA5b2QwU0FrTEdDVnR6bXVnU0dZUG8teHFsX3Y3OUlLaVlUTm85S0hEN3gwSW1YMVhoUW1Pb3hXaVNzRDVfaldMaUkyZGhBSmM5N3hlVHVBSDQ2aWRsc19sZkI3Xzg2MGxFMlRwOGY4NElWcTZjQ0x5NkdhWTZ4ejExd1Nqc1B4VDYzOWc2SzdoT0hWTTFQM2xfUklRODZtOXRodFoxV3VVWQ?oc=5" target="_blank">Jensen Huang's daughter helped steer Nvidia response to Megaspeed scrutiny, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5" target="_blank">Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Gold slides to over one-year low on firm dollar, US rate outlook - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5" target="_blank">Gold slides to over one-year low on firm dollar, US rate outlook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Trump says US is expanding defence cooperation with Philippines - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDMyblBMN1ZWQnQ0WkV6N1BUWEpDZ0Z4VlZXSlJTUXR2Sm95YkFCTWhDVjNHZEVSRDdLYjVBT3VVQ0VRWjRhN0hXbld5TlFQd2I1RVVPQ0JOTGFDMV90eS05NDRUUWxnRzFMQ0t6QTZSVWE5aGVCdHpJeTlNUlJWTVZNa2s1QjFTOGQ2M1VXX1lEaTVXMkxFRkdtWWNfS1pJNnZ0LW5IQXJJRkstMmhvbFRQc1p4QUhiMVE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDMyblBMN1ZWQnQ0WkV6N1BUWEpDZ0Z4VlZXSlJTUXR2Sm95YkFCTWhDVjNHZEVSRDdLYjVBT3VVQ0VRWjRhN0hXbld5TlFQd2I1RVVPQ0JOTGFDMV90eS05NDRUUWxnRzFMQ0t6QTZSVWE5aGVCdHpJeTlNUlJWTVZNa2s1QjFTOGQ2M1VXX1lEaTVXMkxFRkdtWWNfS1pJNnZ0LW5IQXJJRkstMmhvbFRQc1p4QUhiMVE?oc=5" target="_blank">Trump says US is expanding defence cooperation with Philippines</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
