@@ -1,47 +1,34 @@
 # 每日财经新闻
 
-更新时间：2026-11-19 06:52:00
+更新时间：2026-11-19 20:19:40
 
-## OKX's Lin Discusses Tokenization and Stablecoins Outlook
+## Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-19/okx-s-lin-discusses-tokenization-and-stablecoins-outlook-video
+链接：https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand
 
 正文长度：0
 
-摘要：Gracie Lin, Regional CEO for Singapore & Australia at OKX, discusses tokenization and her outlook for stablecoins. She speaks exclusively on the sidelines of Singapore FinTech Week on "Bloomberg: The China Show.” (Source: Bloomberg)
+摘要：Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.
 
 
 ---
 
-## Chinese Chip Design Stocks Sink on Concerns Over Foundry Access
+## US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access
+链接：https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo
 
 正文长度：0
 
-摘要：Chinese chip designer stocks tumbled on investor worries that their orders to overseas manufacturers may be turned away as the US tightens its regulatory grasp on technology.
+摘要：US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.
 
 
 ---
 
-## Copper Rebounds After Rout as Physical Tightness Persists
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists
-
-正文长度：0
-
-摘要：Copper staged a partial recovery after plunging almost 6% on Wednesday — the biggest drop since April 2025 — on a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs.
-
-
----
-
-## US Stock Futures Rise on Anthropic, Aussie Drops: Markets Wrap
+## Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap
 
 来源：彭博社
 
@@ -49,50 +36,75 @@
 
 正文长度：0
 
-摘要：US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBC’s record initial public offering can revive confidence in the artificial intelligence trade following a recent selloff in technology stocks. The Australian dollar weakened.
+摘要：A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.
 
 
 ---
 
-## Anthropic Shares Indicated About 20% Higher on Gray Market
+## War-Driven Cost Squeeze Alarms Companies, Bank of America Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets
+链接：https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says
 
 正文长度：0
 
-摘要：Anthropic PBC shares are indicated to open between 20% and 26% higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.
+摘要：What began as an oil-market shock from the Iran war has broadened into a cost squeeze across the US, with business owners growing significantly more concerned about commodity prices.
 
 
 ---
 
-## Walmart is set to report earnings before the bell. Here's what to expect
+## Bloomberg Green New York 2026 Highlights
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video
+
+正文长度：0
+
+摘要：Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)
+
+
+---
+
+## Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html
 
-正文长度：2316
+正文长度：4673
 
-摘要：Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience.
+摘要：Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.
 
 <details>
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Walmart is scheduled to report its third fiscal quarter earnings Thursday as the retailer prepares for the holiday season with an increased emphasis on value amid lower consumer sentiment.
+> Walmart on Thursday reported earnings and revenue that narrowly topped estimates and raised its full-year outlook as it saw strong e-commerce growth ahead of the busy holiday season.
+Walmart said global e-commerce sales surged 17% in the fiscal third quarter, driven by store-fulfilled pickup and delivery, with Walmart U.S. up 23% and Sam's Club U.S. rising 30%. Its Walmart U.S. advertising business saw a 37% sales increase for the quarter.
+Walmart said it rolled back prices on nearly 8,000 products across its stores, a focus as U.S. consumers worry about the cost of living in the face of elevated food and gas prices.
+CEO John Furner told CNBC's Becky Quick that the company has seen higher-than-expected diesel costs, but that tariff refunds have helped the retailer to offset those inputs and maintain lower prices.
+"The reality is that increases in diesel fuel and transportation, they do work their way into cost of goods," Furner said in an exclusive interview. "So we're hoping to see these costs come down as soon as possible, and we'll keep prices as low as we can."
+CFO John David Rainey told CNBC that growth in online orders for Walmart and Sam's Club was driven by an emphasis on speed of delivery and reduced prices. He added that Walmart saw its largest share gains in the food category in three years during the third quarter.
+"This was another really solid quarter for us, we feel good about it," Rainey told CNBC. "We continue to gain share while continuing to improve the profitability of our digital businesses."
+Walmart also raised its full-year guidance, now expecting net sales to increase between 4.9% and 5.2%, compared with previous guidance of a 4% to 5% increase. Rainey said Walmart is maintaining "flexibility" in its guidance.
+Walmart anticipates adjusted earnings per share will come in between $2.84 and $2.89, compared with a prior range of $2.80 to $2.87. It's also now expecting adjusted operating income to increase between 8% and 8.6%, up from the previous outlook of between 7% and 8.5% growth.
+Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 65 cents adjusted vs. 64 cents expected
+- Revenue: $188.84 billion vs. $187.27 billion expected
+For the quarter ended Oct. 31, the company reported net income of $4.95 billion, or 62 cents per share, down from $6.14 billion, or 77 cents per share, a year earlier. Revenue rose 5.2%.
+Adjusting for investment gains and losses, tax matters and reorganization charges, Walmart earned 65 cents per share.
+Walmart U.S. recorded net sales of $125 billion, up 3.6% from a year earlier. Its comparable sales excluding fuel rose 2.9%, in line with Wall Street expectations, according to StreetAccount.
+Furner also said Walmart is seeing encouraging adoption of its artificial intelligence agent, named Sparky, especially ahead of the holiday season. He said it's led to customer basket increases of 40% on average.
+"It just is a great way of just completing the entire basket and solving entire the solution for people," he said.
+Sam's Club reported net sales of $25.9 billion, marking a 10% increase from the year-ago period. It said its sales were driven by strength in the grocery category and general merchandise.
+In October, Walmart announced it was launching a joint membership option with Walmart+ and Sam's Club as it leans further into convenience. Both stores will still offer stand-alone memberships, as well.
+Furner told CNBC the new membership has brought roughly 2 million new people into Sam's Club since its launch in late October. Though the company reimbursed some members for the new membership rate, Rainey added that it's already seeing positive returns on the joint model and that consumers are "spending appreciably more."
+The company on Thursday said its global membership fee revenue grew 17% in the third quarter.
+The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef.
+Rainey said Thursday that he's "optimistic" about consumer spending heading into the holiday season and that the fourth quarter is already "off to a pretty good start."
 The big-box retailer has posted solid growth over the past few quarters as it sees customers gravitate to reduced prices, improvements in delivery and gains in its advertising business. It's also leaned into attracting higher-income consumers with its Walmart+ membership.
-Here's what the company is expected to report for its fiscal third quarter, based on a survey of analysts by LSEG:
-- Earnings per share: 64 cents expected
-- Revenue: $187.27 billion expected
-Walmart previously said it expects third-quarter net sales to climb 3% to 3.75%. CFO John David Rainey told CNBC last quarter that Walmart's "business is strong" and that he's encouraged by its progress.
-The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef. It also saw a significant boost from tariff refunds, which Rainey said Walmart would use to cut prices.
-In October, Walmart announced it was launching a joint membership option with its club subsidiary, Sam's Club, as it leans further into convenience. Both stores will still offer standalone memberships.
-The retailer is also rolling out technology in its stores to improve the customer experience, including light-up digital shelf labels that are connected to its app. Those shelf labels and Walmart's AI push have also sparked concerns that the retailer could try to change prices based on demand and shoppers' personal data, which Walmart has denied.
-Analysts from UBS wrote in a note last week that they believe the retailer's fiscal third-quarter results will show healthy market share gains.
-"E-commerce continues to scale, the company's higher-margin alternative revenue streams continue to grow and Walmart is increasingly able to fund investments in price and convenience while still producing attractive operating income growth," the analysts wrote.
-They added that they expect Walmart's fourth-quarter outlook to include "robust operating income growth."
-Shares of Walmart have fluctuated this year but are up roughly 13% year-to-date.
+Shares of Walmart have fluctuated this year but are up roughly 13% year to date.
 
 </details>
 
@@ -257,132 +269,132 @@ Target's stock is up more than 70% this year.
 
 ---
 
-## ‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback - Financial Times
+## TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk9PeVNnZ0JlRGhYbDFwaTFNejNFVTJUVzViSFVld2FfU0NDTjNxMTdTTEtQVTVySm4ybDh6Q1BJVHc0bE5pTnVWMm5XVjF6ODVsRG1QbW9sY0wtbHRJSkpEeWNmM0hCcE0waTg1cU5vREE4d3pqR1FaMmlUbFdtbVJJczA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk9PeVNnZ0JlRGhYbDFwaTFNejNFVTJUVzViSFVld2FfU0NDTjNxMTdTTEtQVTVySm4ybDh6Q1BJVHc0bE5pTnVWMm5XVjF6ODVsRG1QbW9sY0wtbHRJSkpEeWNmM0hCcE0waTg1cU5vREE4d3pqR1FaMmlUbFdtbVJJczA?oc=5" target="_blank">‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5" target="_blank">TSMC and Samsung suspend some chip shipments to Chinese customers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic raises $81bn in record IPO - Financial Times
+## Milbank swoops on Weil Paris office as US law firms target European growth - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHJCNjFaN3hBS3lZRmprY2N3SWtJY2lsTTVhQnlEZ0RKNE9BOGFvTFlxRVpFNGk0MGcxd2RKS1k2dEE3RUlwdlJxcDQ2UGlaUEFnTlhvbGNrTmo3UzlBVklGZTNuamxPZjQ3WEZ1R3RSc0E0WThlZml0QlpoVDYxb28yQ24?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkY5UF9jby1LaHJwbEZPQWROQmdjRk16eXJPdkd5QTdpLVN0eEFiOVVHaXV6dmFfVDM5OEg3SFIxd0dqSS1WVDZHUmh1NXZ4LTN1TG9lZllmSG9abDJnMjFKQUdOM2psQTlpbE4yUjlPMFJQaG9JTDRaS3Fmam95NjlFU3o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHJCNjFaN3hBS3lZRmprY2N3SWtJY2lsTTVhQnlEZ0RKNE9BOGFvTFlxRVpFNGk0MGcxd2RKS1k2dEE3RUlwdlJxcDQ2UGlaUEFnTlhvbGNrTmo3UzlBVklGZTNuamxPZjQ3WEZ1R3RSc0E0WThlZml0QlpoVDYxb28yQ24?oc=5" target="_blank">Anthropic raises $81bn in record IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkY5UF9jby1LaHJwbEZPQWROQmdjRk16eXJPdkd5QTdpLVN0eEFiOVVHaXV6dmFfVDM5OEg3SFIxd0dqSS1WVDZHUmh1NXZ4LTN1TG9lZllmSG9abDJnMjFKQUdOM2psQTlpbE4yUjlPMFJQaG9JTDRaS3Fmam95NjlFU3o?oc=5" target="_blank">Milbank swoops on Weil Paris office as US law firms target European growth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans - Financial Times
+## Houthi air strike hits Saudi sovereign wealth fund headquarters - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEotM3kxNzZmYWdFUlVGdm5KVV9GSzBxWTd4NnJtM3dMMGR1U3F6OTJBWFZiZmV2cFFBQm5ybVFxZmNrM3p6cTdmejJSSVNORGJGWW9CaW5HbGdmczVoTVVXdGFybTQ3V0hlb2NsZVNmVFpidHh1MU9GUEpGb2kwOU4zR00?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5" target="_blank">Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEotM3kxNzZmYWdFUlVGdm5KVV9GSzBxWTd4NnJtM3dMMGR1U3F6OTJBWFZiZmV2cFFBQm5ybVFxZmNrM3p6cTdmejJSSVNORGJGWW9CaW5HbGdmczVoTVVXdGFybTQ3V0hlb2NsZVNmVFpidHh1MU9GUEpGb2kwOU4zR00?oc=5" target="_blank">Houthi air strike hits Saudi sovereign wealth fund headquarters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Nvidia accelerates pay rises as interim CEO seeks to lift staff morale - Financial Times
+## Anthropic revenue target: $600bn, soonish - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5" target="_blank">Nvidia accelerates pay rises as interim CEO seeks to lift staff morale</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5" target="_blank">Anthropic revenue target: $600bn, soonish</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records - Financial Times
+## Putin invites European leaders to Moscow for talks on Ukraine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5" target="_blank">‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5" target="_blank">Putin invites European leaders to Moscow for talks on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says - Reuters
+## Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5" target="_blank">Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5" target="_blank">Trump bought up to $265,000 of Nvidia stock in September, disclosure shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## 'GTA VI' to supercharge Sony — just not in Japan - Reuters
+## Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGxYRUFQT3loMmZMQlRWYW5NNlExc3g5WHc5UkNfSkxUaWJtbFhXU0IzeHp2TVdicUV6b1A1UGtMNVd1UVFWT1lVTThMVE1xdzU5U3dkOHlqZ3RrS3FCQkdCN1ZEYkVzdUpJRlVJNUpsMVdNcTY1eC12RVFFQTNQNXc5Y2FFNVJwbm53dUROV0pJUzBDaTdxV3dlaGZMREV5cWhaeTBjYnJtUFFfRE1RV2RLVzlaeThnRkE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5" target="_blank">'GTA VI' to supercharge Sony — just not in Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGxYRUFQT3loMmZMQlRWYW5NNlExc3g5WHc5UkNfSkxUaWJtbFhXU0IzeHp2TVdicUV6b1A1UGtMNVd1UVFWT1lVTThMVE1xdzU5U3dkOHlqZ3RrS3FCQkdCN1ZEYkVzdUpJRlVJNUpsMVdNcTY1eC12RVFFQTNQNXc5Y2FFNVJwbm53dUROV0pJUzBDaTdxV3dlaGZMREV5cWhaeTBjYnJtUFFfRE1RV2RLVzlaeThnRkE?oc=5" target="_blank">Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Reuters
+## Houthi attacks on Saudi Arabia - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5" target="_blank">Oil prices steady as Middle East shipping attacks counter supply surplus outlook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5" target="_blank">Houthi attacks on Saudi Arabia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Asian stocks fail to get a lift from Anthropic's IPO pricing - Reuters
+## Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5" target="_blank">Asian stocks fail to get a lift from Anthropic's IPO pricing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5" target="_blank">Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Japan says PM Takaichi, Putin held talks at APEC summit in China - Reuters
+## Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUY1dzNlQjdEcUpCSWhSdkZIa3Q5cTVJTkZqOEs3cjc1RkRyZUVFcVNoZG03cnVmZ1RZcmJqdjhsSks1dUd5NExLcmJ4SnFBNi1MbmJNQXhiamFaVUxJYmhDZVpzZHFIMWt4c2V3R2QwMmgxSUstWWt4cHoyRmlzZXBmam51MjV0c01MTUlmYngwa3VaUDFDLVRZS2NwcE5fRUhTSElwLUI1SHl2ZzZkQkhTM3NrNjVEYWw2a2ZR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5" target="_blank">Japan says PM Takaichi, Putin held talks at APEC summit in China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUY1dzNlQjdEcUpCSWhSdkZIa3Q5cTVJTkZqOEs3cjc1RkRyZUVFcVNoZG03cnVmZ1RZcmJqdjhsSks1dUd5NExLcmJ4SnFBNi1MbmJNQXhiamFaVUxJYmhDZVpzZHFIMWt4c2V3R2QwMmgxSUstWWt4cHoyRmlzZXBmam51MjV0c01MTUlmYngwa3VaUDFDLVRZS2NwcE5fRUhTSElwLUI1SHl2ZzZkQkhTM3NrNjVEYWw2a2ZR?oc=5" target="_blank">Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
