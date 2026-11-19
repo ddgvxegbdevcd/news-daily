@@ -1,68 +1,100 @@
 # 每日财经新闻
 
-更新时间：2026-11-18 20:16:00
+更新时间：2026-11-19 06:52:00
 
-## Stocks Fall on Nvidia Selloff Before Anthropic IPO: Markets Wrap
+## OKX's Lin Discusses Tokenization and Stablecoins Outlook
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-11-19/okx-s-lin-discusses-tokenization-and-stablecoins-outlook-video
 
 正文长度：0
 
-摘要：Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.
+摘要：Gracie Lin, Regional CEO for Singapore & Australia at OKX, discusses tokenization and her outlook for stablecoins. She speaks exclusively on the sidelines of Singapore FinTech Week on "Bloomberg: The China Show.” (Source: Bloomberg)
 
 
 ---
 
-## Chicago’s Third CFO This Year Saw Red Flags Before Exit
+## Chinese Chip Design Stocks Sink on Concerns Over Foundry Access
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit
+链接：https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access
 
 正文长度：0
 
-摘要：The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.
+摘要：Chinese chip designer stocks tumbled on investor worries that their orders to overseas manufacturers may be turned away as the US tightens its regulatory grasp on technology.
 
 
 ---
 
-## Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut
+## Copper Rebounds After Rout as Physical Tightness Persists
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-18/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut
+链接：https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists
 
 正文长度：0
 
-摘要：A slew of leveraged ETFs tied to SpaceX launched soon after its public debut, but only one managed to attract meaningful assets. That experience has raised the stakes for Anthropic: Issuers are racing to get out front in hopes that their fund becomes the one that captures the bulk of investor dollars.
+摘要：Copper staged a partial recovery after plunging almost 6% on Wednesday — the biggest drop since April 2025 — on a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs.
 
 
 ---
 
-## Fed Minutes Leave Door Open to Larger December Rate Hike
+## US Stock Futures Rise on Anthropic, Aussie Drops: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video
+链接：https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：Minutes of the Federal Open Market Committee’s Oct. 27-28 meeting show nearly all Federal Reserve officials agreed they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target in a timely manner. Michael McKee reports. (Source: Bloomberg)
+摘要：US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBC’s record initial public offering can revive confidence in the artificial intelligence trade following a recent selloff in technology stocks. The Australian dollar weakened.
 
 
 ---
 
-## Bank of Canada Says April Scenario Analysis Telegraphed Hike
+## Anthropic Shares Indicated About 20% Higher on Gray Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike
+链接：https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets
 
 正文长度：0
 
-摘要：A Bank of Canada official says policymakers are publishing scenario analyses to help market participants see potential paths for interest rates amid more frequent shocks.
+摘要：Anthropic PBC shares are indicated to open between 20% and 26% higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.
+
+
+---
+
+## Walmart is set to report earnings before the bell. Here's what to expect
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html
+
+正文长度：2316
+
+摘要：Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Walmart is scheduled to report its third fiscal quarter earnings Thursday as the retailer prepares for the holiday season with an increased emphasis on value amid lower consumer sentiment.
+The big-box retailer has posted solid growth over the past few quarters as it sees customers gravitate to reduced prices, improvements in delivery and gains in its advertising business. It's also leaned into attracting higher-income consumers with its Walmart+ membership.
+Here's what the company is expected to report for its fiscal third quarter, based on a survey of analysts by LSEG:
+- Earnings per share: 64 cents expected
+- Revenue: $187.27 billion expected
+Walmart previously said it expects third-quarter net sales to climb 3% to 3.75%. CFO John David Rainey told CNBC last quarter that Walmart's "business is strong" and that he's encouraged by its progress.
+The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef. It also saw a significant boost from tariff refunds, which Rainey said Walmart would use to cut prices.
+In October, Walmart announced it was launching a joint membership option with its club subsidiary, Sam's Club, as it leans further into convenience. Both stores will still offer standalone memberships.
+The retailer is also rolling out technology in its stores to improve the customer experience, including light-up digital shelf labels that are connected to its app. Those shelf labels and Walmart's AI push have also sparked concerns that the retailer could try to change prices based on demand and shoppers' personal data, which Walmart has denied.
+Analysts from UBS wrote in a note last week that they believe the retailer's fiscal third-quarter results will show healthy market share gains.
+"E-commerce continues to scale, the company's higher-margin alternative revenue streams continue to grow and Walmart is increasingly able to fund investments in price and convenience while still producing attractive operating income growth," the analysts wrote.
+They added that they expect Walmart's fourth-quarter outlook to include "robust operating income growth."
+Shares of Walmart have fluctuated this year but are up roughly 13% year-to-date.
+
+</details>
 
 
 ---
@@ -225,43 +257,6 @@ Target's stock is up more than 70% this year.
 
 ---
 
-## Lowe's posts strong online sales, raises outlook despite slow housing market
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html
-
-正文长度：3206
-
-摘要：Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Lowe's on Wednesday posted strong quarterly results and raised its full-year outlook as the company said it saw strength among professional shoppers.
-The company said comparable sales grew 1.8% for the fiscal third quarter, driven by a 17.4% increase in online sales and "solid" performance in pro and home services sales. Net sales rose to $22.76 billion.
-Because of the strength, Lowe's now said it expects full-year sales of roughly $92.5 billion, up from a previous projection of $92 billion. It also expects comparable sales to be up 0.5%, compared with previous guidance of flat.
-CEO Marvin Ellison told CNBC that the company is focused on growing despite economic headwinds and a sluggish housing market. He said Lowe's posted its sixth straight quarterly comparable sales increase and saw particular strength in appliances, which saw its largest revenue growth in five years.
-"We believe irrespective of the macro environment we're in, we're going to take share because there's a lot of share out there that we can go and get, and we're going to be aggressive to go and get that share," Ellison told CNBC.
-Lowe's also reported a pretax benefit of approximately $250 million from tariff refunds during the quarter, which contributed a 34-cent boost to earnings per share. Ellison said the company plans to use those funds to enhance the customer experience and bring value to shoppers.
-He added that do-it-yourself customers and pro shoppers are not investing in major renovation projects but are instead spending on repair and maintenance projects.
-"We are giving those pros what they need," he said. "We're able to improve our fulfillment capabilities and our pro loyalty program."
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $3.10 adjusted vs. $2.88 expected
-- Revenue: $22.76 billion vs. $22.41 billion expected
-For the quarter ended Oct. 30, Lowe's reported net income of $1.67 billion, or $2.98 per share, compared with $1.62 billion, or $2.88 per share, the year prior.
-The home improvement retailer has previously said it's seeing "pressure" on spending on projects, especially as consumers are stretched thin by inflation and macroeconomic uncertainty. The company is also battling a slower housing market and higher mortgage rates.
-Ellison previously told CNBC he expects consumers to remain cautious through the end of the year.
-Lowe's executives said on a call with analysts Wednesday that the company is continuing to battle high fuel costs, which they said accelerated through the third quarter. CFO Brandon Sink said diesel prices are currently around $6 per gallon, up about 15% overall compared to what the company saw in the second quarter.
-"So we're trying to continue to manage that, balance that, and we're reflecting that into our Q4 guide," Sink said.
-Ellison told CNBC the company remains optimistic about consumer spending this holiday season and that November sales are in line with expectations so far.
-Lowe's competitor Home Depot said earlier this week that it's seeing resilience among professional shoppers and reported comparable sales growth.
-
-</details>
-
-
----
-
 ## ‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback - Financial Times
 
 来源：金融时报
@@ -275,54 +270,119 @@ Lowe's competitor Home Depot said earlier this week that it's seeing resilience 
 
 ---
 
-## US tech outages blamed on rush to fix bugs found by AI - Financial Times
+## Anthropic raises $81bn in record IPO - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJobDVBWldEQkNIYUwxTThSRmxqVElmaHVRNHZZcDhLUEZmaE85UGtpeXJrRnk3bGxiX1AwcnJjUlByTkcyajNtX05jbjBqY2pzMVRoaUQ5QUxBT1pscDN3YUtqTDUzZ2NwcmcyUFB6ek9wMDV5bnFaV3NlOG4xcXAtUUY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHJCNjFaN3hBS3lZRmprY2N3SWtJY2lsTTVhQnlEZ0RKNE9BOGFvTFlxRVpFNGk0MGcxd2RKS1k2dEE3RUlwdlJxcDQ2UGlaUEFnTlhvbGNrTmo3UzlBVklGZTNuamxPZjQ3WEZ1R3RSc0E0WThlZml0QlpoVDYxb28yQ24?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJobDVBWldEQkNIYUwxTThSRmxqVElmaHVRNHZZcDhLUEZmaE85UGtpeXJrRnk3bGxiX1AwcnJjUlByTkcyajNtX05jbjBqY2pzMVRoaUQ5QUxBT1pscDN3YUtqTDUzZ2NwcmcyUFB6ek9wMDV5bnFaV3NlOG4xcXAtUUY?oc=5" target="_blank">US tech outages blamed on rush to fix bugs found by AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHJCNjFaN3hBS3lZRmprY2N3SWtJY2lsTTVhQnlEZ0RKNE9BOGFvTFlxRVpFNGk0MGcxd2RKS1k2dEE3RUlwdlJxcDQ2UGlaUEFnTlhvbGNrTmo3UzlBVklGZTNuamxPZjQ3WEZ1R3RSc0E0WThlZml0QlpoVDYxb28yQ24?oc=5" target="_blank">Anthropic raises $81bn in record IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## JPMorgan seeks to revive stalled software debt sale with steep price cuts - Financial Times
+## Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxObGFrYkhyamZWUXowT1czZjBKTU95elhKNWhEQ2hrdnp5ZE5uQWFjRzhwTGhrdEduam1tOVVEVFN5WkNaMDNaVjVlZFFWTHJjdC1rSEFMRVF0RVZMcFVxdVJOUVdQeVUzWDZoc2pjRFZkYVNQYmprNlFmVkx3N0twSVhYa3I?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxObGFrYkhyamZWUXowT1czZjBKTU95elhKNWhEQ2hrdnp5ZE5uQWFjRzhwTGhrdEduam1tOVVEVFN5WkNaMDNaVjVlZFFWTHJjdC1rSEFMRVF0RVZMcFVxdVJOUVdQeVUzWDZoc2pjRFZkYVNQYmprNlFmVkx3N0twSVhYa3I?oc=5" target="_blank">JPMorgan seeks to revive stalled software debt sale with steep price cuts</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5" target="_blank">Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russia imports record volumes of petrol as Ukraine strikes refineries - Financial Times
+## Nvidia accelerates pay rises as interim CEO seeks to lift staff morale - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlo1NHhQX2p6Q1J5UXNHTUg3VzJWRVd5UWpROWhVZjRldmpNNnNFeWxKYkVXMGVBeDJZa1pqdnNJYXMwS2hxOFR6ZDhtWnVaSTJaVmlUdFY1dWdqdU16Zmg1RTBMY2F3MXVpZ3dVVmNsUlhsWnhMTlQ5RGJSNlN3YzVHSjI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlo1NHhQX2p6Q1J5UXNHTUg3VzJWRVd5UWpROWhVZjRldmpNNnNFeWxKYkVXMGVBeDJZa1pqdnNJYXMwS2hxOFR6ZDhtWnVaSTJaVmlUdFY1dWdqdU16Zmg1RTBMY2F3MXVpZ3dVVmNsUlhsWnhMTlQ5RGJSNlN3YzVHSjI?oc=5" target="_blank">Russia imports record volumes of petrol as Ukraine strikes refineries</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5" target="_blank">Nvidia accelerates pay rises as interim CEO seeks to lift staff morale</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Low-profile VCs set for $100bn windfall from Anthropic IPO - Financial Times
+## ‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjRQOFIzcnNkZlVyM19oTEZ4eUVibDU0SVlZM1FEdmdyRkVjVDlnMHVRbEJvYlhXZV9Dd3JHOVoxN2xySzZHY3BfUHZQdXU2N3RMNzZHbWV0UDN2WmRhSTNHVjVYa2E3MVRGUEd4eG5ncWRkVmVkVEpXYzgxOUNPWXdxWW4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjRQOFIzcnNkZlVyM19oTEZ4eUVibDU0SVlZM1FEdmdyRkVjVDlnMHVRbEJvYlhXZV9Dd3JHOVoxN2xySzZHY3BfUHZQdXU2N3RMNzZHbWV0UDN2WmRhSTNHVjVYa2E3MVRGUEd4eG5ncWRkVmVkVEpXYzgxOUNPWXdxWW4?oc=5" target="_blank">Low-profile VCs set for $100bn windfall from Anthropic IPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5" target="_blank">‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5" target="_blank">Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## 'GTA VI' to supercharge Sony — just not in Japan - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5" target="_blank">'GTA VI' to supercharge Sony — just not in Japan</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5" target="_blank">Oil prices steady as Middle East shipping attacks counter supply surplus outlook</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Asian stocks fail to get a lift from Anthropic's IPO pricing - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5" target="_blank">Asian stocks fail to get a lift from Anthropic's IPO pricing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Japan says PM Takaichi, Putin held talks at APEC summit in China - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5" target="_blank">Japan says PM Takaichi, Putin held talks at APEC summit in China</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
