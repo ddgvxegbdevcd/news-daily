@@ -1,68 +1,113 @@
 # 每日财经新闻
 
-更新时间：2026-11-19 20:19:40
+更新时间：2026-11-20 06:41:42
 
-## Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand
+## AI-fueled Cyberattacks Drive Claims Surge at Japan Insurers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand
+链接：https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers
 
 正文长度：0
 
-摘要：Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.
+摘要：Japan’s biggest property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide.
 
 
 ---
 
-## US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction
+## France 2027 Budget: When It Is, Article 49.3 and Executive Orders
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo
+链接：https://www.bloomberg.com/news/articles/2026-11-20/france-2027-budget-when-it-is-article-49-3-and-executive-orders
 
 正文长度：0
 
-摘要：US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.
+摘要：France’s fiscal woes have sparked a bond market selloff this year, and sometimes-violent protests over the cost of living have shaken the nation. That backdrop raises the pressure on the government to pass a budget for 2027.
 
 
 ---
 
-## Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap
+## Goldman’s Moe on Uncertainties Around the AI Trade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/videos/2026-11-20/goldman-s-moe-on-uncertainties-around-the-ai-trade-video
 
 正文长度：0
 
-摘要：A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.
+摘要：Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe describes some of the broader pressures on AI-related stocks. He speaks as investors contend with worries over Nvidia, political developments in the US and opposition to data centers. (Source: Bloomberg)
 
 
 ---
 
-## War-Driven Cost Squeeze Alarms Companies, Bank of America Says
+## Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says
+链接：https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：What began as an oil-market shock from the Iran war has broadened into a cost squeeze across the US, with business owners growing significantly more concerned about commodity prices.
+摘要：Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries.
 
 
 ---
 
-## Bloomberg Green New York 2026 Highlights
+## Taiwan’s Stock Benchmark Plunges 18% in Worst Week Since 1991
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video
+链接：https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn
 
 正文长度：0
 
-摘要：Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)
+摘要：Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, sending the island’s benchmark to its worst week since 1991.
+
+
+---
+
+## Gap names new Athleta CEO, lowers full-year guidance
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html
+
+正文长度：4629
+
+摘要：Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Gap Inc. on Thursday announced Ashley Kechter will be the next president and CEO of its Athleta brand, effective Dec. 14.
+Kechter comes to Gap from activewear retailer Vuori, where she was global president and oversaw the brand's global business strategy, marketing and financials. She was previously global brand president of Fabletics and began her career at Gap before that.
+"I'm excited to return to Gap Inc. and partner with [Gap CEO Richard Dickson] and the team to strengthen our connection with customers and shape the brand's next chapter," Kechter said in a statement.
+The announcement comes after Lululemon poached former Athleta CEO Maggie Gauger to be its chief product officer last month.
+"Clearly, we're disappointed with Athleta's performance, and we recognize there's a lot of work ahead," Dickson told CNBC. "We had been in rebuild mode, but now we're really in turnaround mode."
+Dickson said the company is focused on getting back to its fundamentals: fabrications, feature, form, function and fit. Dickson added that Kechter will be conducting a "comprehensive review" of the brand to reposition Athleta for future success.
+While the execution of its strategy has thus far "fallen short," Dickson said this new approach will allow Athleta to fully realize its potential.
+Third-quarter earnings
+Gap also reported mixed fiscal third-quarter earnings on Thursday and posted flat overall comparable sales. Wall Street had been expecting a comparable sales increase of 1.3%, according to StreetAccount.
+Net sales grew 2%, though demand softened in October and early November due to warmer weather, the company said. Store sales increased 1%, while online sales increased 3%.
+Gap also said it's recorded a $420 million adjustment to cost of goods sold and a $21 million adjustment to interest income from tariff refunds so far this year.
+The company lowered its full-year net sales outlook to be "roughly flat," down from previous guidance of up between 1% and 1.5%. Gap is also now expecting adjusted earnings per share of between $2.29 and $2.34, down from an earlier expectation of between $2.35 and $2.45 per share.
+Dickson said in an interview that much of the lowered guidance was due to warmer weather in the first two weeks of the quarter, but he said Gap is expecting "meaningful acceleration" in shopping ahead of the peak holiday season.
+"We're monitoring the trends, and we're going to remain agile as we respond to the changing business trends," Dickson said.
+Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 82 cents adjusted vs. 78 cents expected
+- Revenue: $4.01 billion vs. $4.02 billion expected
+For the quarter, Gap reported net income of $311 million, or 86 cents per share, compared with $236 million, or 62 cents per share, the year prior. Sales rose slightly from $3.94 billion the year prior.
+Brand sales
+At Athleta, net sales were down 14% compared with last year, coming in at $220 million. Comparable sales for the banner sank 15%, which the company attributed to "limited traction" from efforts to modernize its merchandise and marketing.
+The company's namesake brand saw 9% comparable sales growth for the quarter, with net sales of $1.1 billion, marking an 11% increase compared with last year. Dickson said it was the brand's 12th consecutive quarter of positive comparable sales.
+"Gap is really firing on all cylinders, and the consistency of the brand is really giving us confidence in the brand's ability to continue its momentum," Dickson said.
+The Old Navy banner saw flat comparable sales for the quarter and net sales of $2.3 billion, up 1% compared with last year. It's the first earnings report since the brand, which has been experiencing sluggish sales, named Michael Francis as its new CEO last quarter. Francis began his role at Old Navy on Nov. 2.
+Banana Republic saw its net sales sink 3% compared with last year, which the company attributed to delayed demand for cold-weather categories and a women's fall assortment that fell flat. Wall Street had been expecting growth of 1.5%, according to StreetAccount.
+Dickson said the brand has since introduced new products and seen demand "rebound" as cooler weather has set in across the country.
+"We've been encouraged by the early customer response, and we should see sequential improvement in the fourth quarter," he said. "There's some work to do here, but with peak selling still ahead, I'm confident that the team is focused on the right areas and [will] ultimately position Banana well for growth."
+
+</details>
 
 
 ---
@@ -230,98 +275,59 @@ These studies and reports don't speak to how Hims' exact combination will perfor
 
 ---
 
-## Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html
-
-正文长度：3528
-
-摘要：Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Target on Wednesday reported its best sales growth in more than five years and beat Wall Street's revenue expectations, the latest signs of its turnaround strategy taking hold.
-The retailer said its net sales grew 7.1% during the fiscal third quarter. Comparable sales rose 5.6%, compared with StreetAccount estimates of up 3.8%. That growth was boosted by a 5% increase in comparable traffic, Target added.
-"[It's] a healthy sign that guests are responding to our changes and choosing Target more often," CEO Michael Fiddelke told reporters.
-Digital comparable sales jumped nearly 10% during the quarter.
-Encouraged by the growth, Target raised its full-year guidance, upping its net sales growth guidance by 1 percentage point to around 6%. It's also expecting full-year operating income margin rate to be around 6.2%, which includes roughly 1.1 percentage points of benefit from tariff refunds.
-The company also said it's now projecting full-year earnings per share to be in a range of $10.65 to $11.40, compared with prior guidance of between $9.90 and $10.90.
-"The changes we've made across our assortment and guest experience are adding up," Fiddelke told reporters. "While we're encouraged by the progress, we know there's more work ahead to sustain this momentum and deliver consistent growth over time."
-Target shares climbed about 7% in afternoon trading Wednesday.
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $2.65 vs. $2.07 expected
-- Revenue: $27.07 billion vs. $26.56 billion expected
-For the quarter ended Oct. 31, Target reported net income of $1.21 billion, or $2.65 per share, up from $689 million, or $1.51 per share, a year earlier.
-This year, the company said it's invested approximately $3.8 billion in capital expenditures, up nearly $1 billion from last year. Because of those returns, Fiddelke said Target is now expecting to invest between $5 billion and $6 billion in capex next year.
-On a call with analysts, he added that those investments will go toward more store remodels, technology, supply chain improvements, among other initiatives.
-The company said it saw particular strength in beauty, which saw 9% growth, and food and beverage, where sales increased nearly 7%. The retailer added that net sales rose in all three months of the third quarter, with the strongest performance during the back-to-school season.
-Fiddelke told reporters the quarter's strength showed "continued progress" toward Target's priorities that it outlined at the beginning of its turnaround.
-As it looks to the holiday season, Target said it's marketing thousands of products priced at $5 and under, along with new artificial intelligence-powered shopping experiences to drive engagement. Fiddelke said Target is "encouraged" by shopping behaviors it's seen so far in the current quarter.
-The big-box retailer has been showing signs of returning to growth, as it sees stronger sales trends after years of flat revenue. The results come after Target last quarter hiked its full fiscal-year outlook and said it saw "broad-based" strength across its various categories.
-It's also lowered prices on more than 10,000 items in an effort to get customers back into its stores, especially as consumer sentiment lags and inflation remains high. The retailer said on Wednesday that it cut prices on an additional roughly 2,000 items during the third quarter.
-Target's stock is up more than 70% this year.
-
-</details>
-
-
----
-
-## TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times
+## Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEloZm1RbGNWU2RLRmVVblJhM1B3MXdENGkwWk9Wb3BuUlZwWjZVd3R5bUhHRFROam5FUDJqUVdXWTFoenV5bENPS3l1N1pnOGZQUFBCMlV4cE8tUHpLWXd5WUx1NnFybWVvWFRNd19KZ0g4N3lfYkIzcFZ0UlZKOFZGR2Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5" target="_blank">TSMC and Samsung suspend some chip shipments to Chinese customers</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEloZm1RbGNWU2RLRmVVblJhM1B3MXdENGkwWk9Wb3BuUlZwWjZVd3R5bUhHRFROam5FUDJqUVdXWTFoenV5bENPS3l1N1pnOGZQUFBCMlV4cE8tUHpLWXd5WUx1NnFybWVvWFRNd19KZ0g4N3lfYkIzcFZ0UlZKOFZGR2Y?oc=5" target="_blank">Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Milbank swoops on Weil Paris office as US law firms target European growth - Financial Times
+## China prepares to restart US private equity investments after pullback - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkY5UF9jby1LaHJwbEZPQWROQmdjRk16eXJPdkd5QTdpLVN0eEFiOVVHaXV6dmFfVDM5OEg3SFIxd0dqSS1WVDZHUmh1NXZ4LTN1TG9lZllmSG9abDJnMjFKQUdOM2psQTlpbE4yUjlPMFJQaG9JTDRaS3Fmam95NjlFU3o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmdmcDR5dl9KYy1rUjY0VWkyLWFndlNmUHcyamtsQzFwTDNFZ2VvUmhWckxEcjFxNWdtSmQydDVEaDJNY0VLYnJaUVRhZEk2WXA0ZkFFMHpwRVJXUTJiSHJHLWpObnZHb0FHNTIxaExYeEJZTUpqd3Q1cllORFEyY0k5b0M?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkY5UF9jby1LaHJwbEZPQWROQmdjRk16eXJPdkd5QTdpLVN0eEFiOVVHaXV6dmFfVDM5OEg3SFIxd0dqSS1WVDZHUmh1NXZ4LTN1TG9lZllmSG9abDJnMjFKQUdOM2psQTlpbE4yUjlPMFJQaG9JTDRaS3Fmam95NjlFU3o?oc=5" target="_blank">Milbank swoops on Weil Paris office as US law firms target European growth</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmdmcDR5dl9KYy1rUjY0VWkyLWFndlNmUHcyamtsQzFwTDNFZ2VvUmhWckxEcjFxNWdtSmQydDVEaDJNY0VLYnJaUVRhZEk2WXA0ZkFFMHpwRVJXUTJiSHJHLWpObnZHb0FHNTIxaExYeEJZTUpqd3Q1cllORFEyY0k5b0M?oc=5" target="_blank">China prepares to restart US private equity investments after pullback</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Houthi air strike hits Saudi sovereign wealth fund headquarters - Financial Times
+## Anthropic shares jump 17% after record Wall Street listing - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEotM3kxNzZmYWdFUlVGdm5KVV9GSzBxWTd4NnJtM3dMMGR1U3F6OTJBWFZiZmV2cFFBQm5ybVFxZmNrM3p6cTdmejJSSVNORGJGWW9CaW5HbGdmczVoTVVXdGFybTQ3V0hlb2NsZVNmVFpidHh1MU9GUEpGb2kwOU4zR00?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU04ZmdHTUFYMUF4cUNLd2FVeWhOajRPay1zZTE4QUxrQnVjT09iSFlUaldfcFZMYnlFMjl5MDRTXy0wVHFCcmFIdVJfek9JOVgtRTVLZi00S1RJOGdKWTFFdjZQRlBEYzBuZGY4Rkp1eW1GQ2pGMlQxOFUtOG9QLVRZWGk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEotM3kxNzZmYWdFUlVGdm5KVV9GSzBxWTd4NnJtM3dMMGR1U3F6OTJBWFZiZmV2cFFBQm5ybVFxZmNrM3p6cTdmejJSSVNORGJGWW9CaW5HbGdmczVoTVVXdGFybTQ3V0hlb2NsZVNmVFpidHh1MU9GUEpGb2kwOU4zR00?oc=5" target="_blank">Houthi air strike hits Saudi sovereign wealth fund headquarters</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU04ZmdHTUFYMUF4cUNLd2FVeWhOajRPay1zZTE4QUxrQnVjT09iSFlUaldfcFZMYnlFMjl5MDRTXy0wVHFCcmFIdVJfek9JOVgtRTVLZi00S1RJOGdKWTFFdjZQRlBEYzBuZGY4Rkp1eW1GQ2pGMlQxOFUtOG9QLVRZWGk?oc=5" target="_blank">Anthropic shares jump 17% after record Wall Street listing</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Anthropic revenue target: $600bn, soonish - Financial Times
+## US approved sale of Nvidia and AMD chips to Chinese companies - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5" target="_blank">Anthropic revenue target: $600bn, soonish</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5" target="_blank">US approved sale of Nvidia and AMD chips to Chinese companies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Putin invites European leaders to Moscow for talks on Ukraine - Financial Times
+## Vladimir Putin invites European leaders to Moscow for talks on Ukraine - Financial Times
 
 来源：金融时报
 
@@ -329,72 +335,72 @@ Target's stock is up more than 70% this year.
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5" target="_blank">Putin invites European leaders to Moscow for talks on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5" target="_blank">Vladimir Putin invites European leaders to Moscow for talks on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters
+## Nvidia rules out Huang comeback as campaign for his return grows - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5" target="_blank">Trump bought up to $265,000 of Nvidia stock in September, disclosure shows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5" target="_blank">Nvidia rules out Huang comeback as campaign for his return grows</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports - Reuters
+## Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGxYRUFQT3loMmZMQlRWYW5NNlExc3g5WHc5UkNfSkxUaWJtbFhXU0IzeHp2TVdicUV6b1A1UGtMNVd1UVFWT1lVTThMVE1xdzU5U3dkOHlqZ3RrS3FCQkdCN1ZEYkVzdUpJRlVJNUpsMVdNcTY1eC12RVFFQTNQNXc5Y2FFNVJwbm53dUROV0pJUzBDaTdxV3dlaGZMREV5cWhaeTBjYnJtUFFfRE1RV2RLVzlaeThnRkE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGxYRUFQT3loMmZMQlRWYW5NNlExc3g5WHc5UkNfSkxUaWJtbFhXU0IzeHp2TVdicUV6b1A1UGtMNVd1UVFWT1lVTThMVE1xdzU5U3dkOHlqZ3RrS3FCQkdCN1ZEYkVzdUpJRlVJNUpsMVdNcTY1eC12RVFFQTNQNXc5Y2FFNVJwbm53dUROV0pJUzBDaTdxV3dlaGZMREV5cWhaeTBjYnJtUFFfRE1RV2RLVzlaeThnRkE?oc=5" target="_blank">Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5" target="_blank">Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Houthi attacks on Saudi Arabia - Reuters
+## A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5" target="_blank">Houthi attacks on Saudi Arabia</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5" target="_blank">A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare - Reuters
+## SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5" target="_blank">Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5" target="_blank">SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks - Reuters
+## EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUY1dzNlQjdEcUpCSWhSdkZIa3Q5cTVJTkZqOEs3cjc1RkRyZUVFcVNoZG03cnVmZ1RZcmJqdjhsSks1dUd5NExLcmJ4SnFBNi1MbmJNQXhiamFaVUxJYmhDZVpzZHFIMWt4c2V3R2QwMmgxSUstWWt4cHoyRmlzZXBmam51MjV0c01MTUlmYngwa3VaUDFDLVRZS2NwcE5fRUhTSElwLUI1SHl2ZzZkQkhTM3NrNjVEYWw2a2ZR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUY1dzNlQjdEcUpCSWhSdkZIa3Q5cTVJTkZqOEs3cjc1RkRyZUVFcVNoZG03cnVmZ1RZcmJqdjhsSks1dUd5NExLcmJ4SnFBNi1MbmJNQXhiamFaVUxJYmhDZVpzZHFIMWt4c2V3R2QwMmgxSUstWWt4cHoyRmlzZXBmam51MjV0c01MTUlmYngwa3VaUDFDLVRZS2NwcE5fRUhTSElwLUI1SHl2ZzZkQkhTM3NrNjVEYWw2a2ZR?oc=5" target="_blank">Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5" target="_blank">EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
