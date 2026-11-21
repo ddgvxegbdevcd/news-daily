@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-20 19:50:51
+更新时间：2026-11-21 06:34:07
 
-## US Treasuries Rally as AI Selloff Sends Investors to Havens
+## Australia Says Negotiations Continue on Gas Reservation Proposal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand
+链接：https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal
 
 正文长度：0
 
-摘要：US Treasuries soared as mounting doubts over the artificial intelligence trade sent stocks tumbling and investors flocking to haven assets.
+摘要：The Australian government says negotiations over its gas reservation proposals are continuing and it hopes the legislation will pass parliament in the coming week.
 
 
 ---
 
-## Nasdaq 100 Tumbles 5% on Report of Nvidia Probe: Markets Wrap
+## Switzerland Prolongs Neutrality Soul-Searching With Weapons Vote
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote
 
 正文长度：0
 
-摘要：Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.
+摘要：Switzerland is once again debating its longstanding neutrality, extending a dilemma that’s plagued the country since Russia’s full-scale invasion of Ukraine.
 
 
 ---
 
-## ETFs: High Conviction Through Novel Strategies
+## Billionaire Raises $720 Million Private Credit for Megha Buyout
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video
+链接：https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout
 
 正文长度：0
 
-摘要：Inkoo Kang, Executive Director of Tactical Products at ProShares, Ryan Lee, SVP of Product & Strategy at Direxion ETFs, and Corgi's Chief Investment Strategist Jeff Weniger join Bloomberg Intelligence's Athanasios Psarofagis at the Bloomberg ETFs in Depth conference in New York on November 19, 2026. The panel examines the rise of increasingly novel ETFs, from leveraged products to private-market and synthetic exposures, and where the limits of the ETF wrapper may lie. They also discuss investor sophistication, the challenge of turning new products into commercial successes and why education becomes increasingly important as strategies grow more complex. (Source: Bloomberg)
+摘要：Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering &amp; Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is one of the country’s biggest deals this year.
 
 
 ---
 
-## How Tokenization Could Change the ETF Market
+## China’s Top Planner Seeks Faster Construction of State Projects
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video
+链接：https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects
 
 正文长度：0
 
-摘要：Giang Bui, Head of Issuer Growth at Securitize, Jason Emery, Head of Product Management at DTCC Digital Assets, and Will Peck, Head of WisdomTree Onchain, join Bloomberg Intelligence's James Seyffart at the Bloomberg ETFs in Depth conference in New York on November 19, 2026. The panel examines how tokenization could expand the utility and distribution of ETFs, from collateral mobility and faster settlement to new ways of reaching global investors. They also discuss where the technology is already gaining traction and how traditional and onchain markets could converge over time. (Source: Bloomberg)
+摘要：China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy.
 
 
 ---
 
-## Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels
+## Australian Energy Officials Warned of Data Center Risk, Age Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels
+链接：https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says
 
 正文长度：0
 
-摘要：Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.
+摘要：Australian energy authorities warned the government that its plan to attract more data centers to Victoria would present a “major structural challenge” to the southern state’s electricity system, The Age reported, citing official documents.
 
 
 ---
@@ -210,13 +210,13 @@ Industry leader Netflix reported 325 million subscribers as of the fourth quarte
 
 ---
 
-## Gap stock soars as retailer says Old Navy turnaround shows signs of improvement
+## Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress
 
 来源：CNBC
 
 链接：https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html
 
-正文长度：4757
+正文长度：4746
 
 摘要：Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.
 
@@ -224,7 +224,7 @@ Industry leader Netflix reported 325 million subscribers as of the fourth quarte
 <summary><b>👉 点击展开 / 收起正文</b></summary>
 
 > Gap Inc. on Thursday announced Ashley Kechter will be the next president and CEO of its Athleta brand, effective Dec. 14.
-The retailer also said Old Navy's turnaround is showing signs of progress, sending shares up more than 12% in trading Friday.
+The retailer also said Old Navy's turnaround is showing signs of progress, sending shares up more than 11% Friday.
 Kechter comes to Gap from activewear retailer Vuori, where she was global president and oversaw the brand's global business strategy, marketing and financials. She was previously global brand president of Fabletics and began her career at Gap before that.
 "I'm excited to return to Gap Inc. and partner with [Gap CEO Richard Dickson] and the team to strengthen our connection with customers and shape the brand's next chapter," Kechter said in a statement.
 The announcement comes after Lululemon poached former Athleta CEO Maggie Gauger to be its chief product officer last month.
@@ -300,6 +300,32 @@ Shares of Walmart have fluctuated this year but are up roughly 13% year to date.
 
 ---
 
+## The manufacturing of novelty - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMThhMGhBUGR1aGY1bnlrbFpmM1lyS0NZdWxHRk5zVFpSTzJUUTFQU2NfUjd1MFZPMTc3NVhGRUd6X2ppU19ZcUxWTmpzXzFMb3pNbnBlMktmb0xtWmZXa0ttQWtYZGplN2Nad2NNdXNmaWZCVmlRaXkxdzJSZ2czS2RON3Y?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMThhMGhBUGR1aGY1bnlrbFpmM1lyS0NZdWxHRk5zVFpSTzJUUTFQU2NfUjd1MFZPMTc3NVhGRUd6X2ppU19ZcUxWTmpzXzFMb3pNbnBlMktmb0xtWmZXa0ttQWtYZGplN2Nad2NNdXNmaWZCVmlRaXkxdzJSZ2czS2RON3Y?oc=5" target="_blank">The manufacturing of novelty</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## The AI cyber threat is already here - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGk3ZUc5aXZkUkpQS1h0RzBmMXJxQ09aTEI2RTgzVWZzUTc3Y0lLZjNZaEZrR0YyMWtsMFQ1RF84bjJpam1JaGI4T3BjaThBbVVRMlFCemlRaDBEdUFiV3pjMF9GSjd6NG5PdWNFVTRMdVRVVXlOUEZyWG4wS1NscGdzQnI?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGk3ZUc5aXZkUkpQS1h0RzBmMXJxQ09aTEI2RTgzVWZzUTc3Y0lLZjNZaEZrR0YyMWtsMFQ1RF84bjJpam1JaGI4T3BjaThBbVVRMlFCemlRaDBEdUFiV3pjMF9GSjd6NG5PdWNFVTRMdVRVVXlOUEZyWG4wS1NscGdzQnI?oc=5" target="_blank">The AI cyber threat is already here</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Donald Trump seeks Ukraine peace deal before January - Financial Times
 
 来源：金融时报
@@ -313,119 +339,93 @@ Shares of Walmart have fluctuated this year but are up roughly 13% year to date.
 
 ---
 
-## China revels in Xi Jinping’s ‘Yalta 2.0’ moment - Financial Times
+## Trump considering new Iran strikes as US military warns of strain on forces - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQURUSnpfTGp1ZzF4b0RQZnJTclRHSlE5dktzQm9HSUdwYUhIRURMNlpUNUlnMVV0WExwMkdKTGllR0JTeWpRQUdyQy1PZloyUkVzUGFiZlVNTnhTRWs5YTBFazdFeVk1UWxHemJfa215Vk9Fck1lby14ZGNvREZmTVM1TDY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQURUSnpfTGp1ZzF4b0RQZnJTclRHSlE5dktzQm9HSUdwYUhIRURMNlpUNUlnMVV0WExwMkdKTGllR0JTeWpRQUdyQy1PZloyUkVzUGFiZlVNTnhTRWs5YTBFazdFeVk1UWxHemJfa215Vk9Fck1lby14ZGNvREZmTVM1TDY?oc=5" target="_blank">China revels in Xi Jinping’s ‘Yalta 2.0’ moment</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5" target="_blank">Trump considering new Iran strikes as US military warns of strain on forces</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’ - Financial Times
+## Nvidia faces US regulator’s probe into its accounting - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEloZm1RbGNWU2RLRmVVblJhM1B3MXdENGkwWk9Wb3BuUlZwWjZVd3R5bUhHRFROam5FUDJqUVdXWTFoenV5bENPS3l1N1pnOGZQUFBCMlV4cE8tUHpLWXd5WUx1NnFybWVvWFRNd19KZ0g4N3lfYkIzcFZ0UlZKOFZGR2Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEloZm1RbGNWU2RLRmVVblJhM1B3MXdENGkwWk9Wb3BuUlZwWjZVd3R5bUhHRFROam5FUDJqUVdXWTFoenV5bENPS3l1N1pnOGZQUFBCMlV4cE8tUHpLWXd5WUx1NnFybWVvWFRNd19KZ0g4N3lfYkIzcFZ0UlZKOFZGR2Y?oc=5" target="_blank">Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5" target="_blank">Nvidia faces US regulator’s probe into its accounting</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## JPMorgan’s Dimon vows to claw back ‘unfair’ UK bank tax - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2k0a0xOVmVtVG5BUlRUQXZmNk9yZXBCWjBqNUoyNzdwR21mQnYyRGhDZE5ESzRGWXQxV014blY0S1M0Y0pHZTAwM243R0FPVFRsc3lBT0JmQlVZR21MVlYyb1BRNlEwNmV1MVBIT19jSk04SkEyd1lSRFJEX1lLZC1rZGk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2k0a0xOVmVtVG5BUlRUQXZmNk9yZXBCWjBqNUoyNzdwR21mQnYyRGhDZE5ESzRGWXQxV014blY0S1M0Y0pHZTAwM243R0FPVFRsc3lBT0JmQlVZR21MVlYyb1BRNlEwNmV1MVBIT19jSk04SkEyd1lSRFJEX1lLZC1rZGk?oc=5" target="_blank">JPMorgan’s Dimon vows to claw back ‘unfair’ UK bank tax</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Anthropic shares slide as tech stocks tumble - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5" target="_blank">Anthropic shares slide as tech stocks tumble</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Trump says US to penalize firms building data centers abroad - Reuters
+## Bitcoin falls to its lowest in two years - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5" target="_blank">Trump says US to penalize firms building data centers abroad</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5" target="_blank">Bitcoin falls to its lowest in two years</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Second judge blocks Trump's triumphal arch, calling it a 'rushed job' - Reuters
+## FBI's criminal information database hacked, CNN reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ?oc=5" target="_blank">Second judge blocks Trump's triumphal arch, calling it a 'rushed job'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5" target="_blank">FBI's criminal information database hacked, CNN reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Bitcoin falls below $60,000 level - Reuters
+## Magnitude 6.8 quake in Peru's Andean region sends Lima residents onto streets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5" target="_blank">Bitcoin falls below $60,000 level</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5" target="_blank">Magnitude 6.8 quake in Peru's Andean region sends Lima residents onto streets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## The snowballing selloff in global markets - Reuters
+## US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5" target="_blank">The snowballing selloff in global markets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5" target="_blank">US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Student protests held across Europe with demands from school funding to climate - Reuters
+## Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxNT203dWpPR19PY3FGeGlGWkNqRklXMDA0cEtFTXBoY21LbVhhaEVNNzVXWTJfOUhUOURwUVVtQXBVazBOdjRjNmVnRktLOGxHam9tZ3ZneGp3bXNfQ2lHOU0yY0I2WF9qdnJxSkNrVm1Pc0REblNaMXJxRHZqRnpDcmY5MEhOdkNaeUZMUVFQYUxDUXRKbmhmckRvQnBHZUlXclh6ZEJJSUJQYll3SUNfdGJ5WQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNT203dWpPR19PY3FGeGlGWkNqRklXMDA0cEtFTXBoY21LbVhhaEVNNzVXWTJfOUhUOURwUVVtQXBVazBOdjRjNmVnRktLOGxHam9tZ3ZneGp3bXNfQ2lHOU0yY0I2WF9qdnJxSkNrVm1Pc0REblNaMXJxRHZqRnpDcmY5MEhOdkNaeUZMUVFQYUxDUXRKbmhmckRvQnBHZUlXclh6ZEJJSUJQYll3SUNfdGJ5WQ?oc=5" target="_blank">Student protests held across Europe with demands from school funding to climate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5" target="_blank">Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
