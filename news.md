@@ -1,68 +1,124 @@
 # 每日财经新闻
 
-更新时间：2026-11-21 06:34:07
+更新时间：2026-11-21 18:56:51
 
-## Australia Says Negotiations Continue on Gas Reservation Proposal
+## Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal
+链接：https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video
 
 正文长度：0
 
-摘要：The Australian government says negotiations over its gas reservation proposals are continuing and it hopes the legislation will pass parliament in the coming week.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The Atlantic Contributing Writer & “The Best Kind of American” Author Kim Ghattas. (Source: Bloomberg)
 
 
 ---
 
-## Switzerland Prolongs Neutrality Soul-Searching With Weapons Vote
+## Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote
+链接：https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
 
 正文长度：0
 
-摘要：Switzerland is once again debating its longstanding neutrality, extending a dilemma that’s plagued the country since Russia’s full-scale invasion of Ukraine.
+摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
 
 
 ---
 
-## Billionaire Raises $720 Million Private Credit for Megha Buyout
+## Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout
+链接：https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly
 
 正文长度：0
 
-摘要：Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering &amp; Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is one of the country’s biggest deals this year.
+摘要：Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.
 
 
 ---
 
-## China’s Top Planner Seeks Faster Construction of State Projects
+## Thanksgiving Dinner Is Moving to Restaurants
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects
+链接：https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video
 
 正文长度：0
 
-摘要：China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy.
+摘要：Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini, Krader explains how restaurants are responding with traditional feasts and unconventional menus as Thanksgiving reservations continue to rise. (Source: Bloomberg)
 
 
 ---
 
-## Australian Energy Officials Warned of Data Center Risk, Age Says
+## The 1982 War Still Haunts the Middle East
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says
+链接：https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video
 
 正文长度：0
 
-摘要：Australian energy authorities warned the government that its plan to attract more data centers to Victoria would present a “major structural challenge” to the southern state’s electricity system, The Age reported, citing official documents.
+摘要：Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christina Ruffini about her new book, The Best Kind of American, Ghattas examines Hezbollah’s enduring influence, Lebanon’s struggle to assert state authority and the risks of trying to remake the region through war. (Source: Bloomberg)
+
+
+---
+
+## International first class is over for U.S. airlines. Enter the mega business-class cabin
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html
+
+正文长度：6916
+
+摘要：Airlines are opting to build giant business-class cabins with ever-more luxurious suites.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> The era of U.S. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. In its place will be a massive business-class cabin with room for 70 passengers.
+U.S. airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour. Delta Air Lines and United Airlines have already taken this step. American was the last of the U.S. airlines to still have first class on long-haul international routes.
+Many travelers might not notice the difference. That's because of airlines' investments into business class: new suites, bigger screens, better technology like device-charging pads, and improved bedding.
+It's part of airlines' big bet on mass luxury. Consumers have been willing to shell out more to fly comfortably, which is helping to boost airline revenue. That's all the more important as costs of everything from fuel to airport landing fees have been rising, soaking up more of the industry's profits.
+The retirement of first class ends a more-than-six-decade stretch of the jet age that in the early days included service like seat-side carving of chateaubriand and meals served on fine bone china.
+A few decades ago, business class was much smaller, with two-by-two seats in some configurations, and recliners, not the lie-flat seats that dominate those cabins now.
+"When you've got individual pods in biz class, and you've got a comfortable enough seat and bedding and decent wine, for a lot of people this is good enough," said Henry Harteveldt, founder of travel consulting firm Atmosphere Research Group and a former airline executive.
+The over-the-top dining of the early days of international first class was a form of entertainment, long before laptops, personal seat-back screens and in-flight Wi-Fi, or even the promise of sleep on lie-flat beds, but customers still eat lots on board, Harteveldt said.
+"People say they want to sleep but then they stay up and they eat every morsel," he said. "They're hypocrites."
+There was still a hefty price gap between first and business.
+A flight between Los Angeles and London on American's Boeing 777-300ER this week went for $12,994 in business class for a one-way ticket and $15,669 for a first-class seat.
+American's last flight with international first class departed Friday morning local time in Sydney, bound for Los Angeles.
+Its new cabin on its Boeing 777-300ERs will feature 70 business-class suites, the most of any U.S. airline. Pre-overhaul, the cabins had been operating with eight first-class suites and 52 pods in business, though the remodeling is ongoing. American is also flying a subfleet of 787-9 Dreamliners that have 51 business-class suites. (United is putting 64 new suites on that aircraft.)
+Part of the allure is that some companies allow employees to book business-class tickets, but not first class.
+American Airlines told CNBC it's growing its business-class cabins across the fleet. It's evaluating increasing the number of suites on its smaller long-haul jets, the Boeing 787-8 Dreamliners, from 20 currently to somewhere in the 30s.
+"You don't have enough seats to make the seat cost competitive," Nat Pieper, American's chief commercial officer, said in an interview this month. "So what you need to do to make that airplane work is it's got to be a yield play. You need more business-class seats."
+No soup, no olives
+Differences between first and business classes on American lately came down to details.
+On American's first-class long-haul section, passengers got olives with warm nuts to accompany their beverage early in the flight, while there were no olives for business class.
+First class got a soup; business did not. First class got a warm dessert served a la mode in addition to the cold dessert or fruit and cheese plate both cabins were offered.
+And there was no memory foam lumbar pillow for business class like there was in first, American said. But otherwise, the experiences were fairly similar for passengers. They still got better food options and service than economy passengers, along with their bigger seats, early boarding and lounge access.
+"It's not like the bed can go any flatter than 180 degrees," Harteveldt said. "The bedding can be thicker, and the food nicer."
+Delta and United have already replaced international, long-haul first class with dozens of their Delta One and Polaris business lie-flat suites, respectively, each of which is getting upgrades now.
+American will continue offering a separate lie-flat first class on its Airbus A321T subfleet it uses for domestic cross-country flying until early 2027. But then that goes away, too.
+Meanwhile, airlines over the past decade have added a premium economy section, which sits between business class and economy. It features recliner seats similar to those in domestic first class, often with foot rests, meals served on actual plates, larger seat-back screens than economy and earlier boarding.
+Carving up business class
+Airlines are now cutting up business class into different segments, something they've done for more than a decade with the coach cabin's basic economy, standard and extra legroom seats.
+United and Delta this year each announced their most expensive cabins will be sold with basic options, which are more restrictive and don't include things like the ability to pick your seat ahead of time or get access to a special airport lounge.
+There are also a few seats in some of the business-class cabins that are roomier, like American's Flagship Suite Preferred and United's Polaris Studio. Even the guest seating in the United suite varies with "standard and companion ottomans," the latter including a seatbelt so you can ask "another Polaris passenger to visit you between takeoff and landing for a drink, chat or game," the airline says.
+There's more to come.
+"I don't think we found the limit on segmentation," United CFO Mike Leskinen told CNBC on Thursday. "We have a few things on the drawing board. We're not done."
+First class still flies globally
+Although U.S. carriers are moving away from the designation, first class is far from dead.
+Singapore Airlines, Germany's Lufthansa, British Airways and Air France have unveiled updated first-class cabins and other service improvements like food.
+British Airways last month said it will build a record 106-suite business class on its Airbus A380 aircraft, the world's largest passenger airplane, but it's also upgrading its first class on board.
+Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegiant Air are introducing domestic or short-haul first-class seats.
+"We're going to be able to do that at a really low price comparatively to what you're used to out there in the marketplace," Frontier Chief Commercial Officer Bobby Schroeter said last month.
+
+</details>
 
 
 ---
@@ -256,85 +312,15 @@ Dickson said the brand has since introduced new products and seen demand "reboun
 
 ---
 
-## Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html
-
-正文长度：4673
-
-摘要：Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Walmart on Thursday reported earnings and revenue that narrowly topped estimates and raised its full-year outlook as it saw strong e-commerce growth ahead of the busy holiday season.
-Walmart said global e-commerce sales surged 17% in the fiscal third quarter, driven by store-fulfilled pickup and delivery, with Walmart U.S. up 23% and Sam's Club U.S. rising 30%. Its Walmart U.S. advertising business saw a 37% sales increase for the quarter.
-Walmart said it rolled back prices on nearly 8,000 products across its stores, a focus as U.S. consumers worry about the cost of living in the face of elevated food and gas prices.
-CEO John Furner told CNBC's Becky Quick that the company has seen higher-than-expected diesel costs, but that tariff refunds have helped the retailer to offset those inputs and maintain lower prices.
-"The reality is that increases in diesel fuel and transportation, they do work their way into cost of goods," Furner said in an exclusive interview. "So we're hoping to see these costs come down as soon as possible, and we'll keep prices as low as we can."
-CFO John David Rainey told CNBC that growth in online orders for Walmart and Sam's Club was driven by an emphasis on speed of delivery and reduced prices. He added that Walmart saw its largest share gains in the food category in three years during the third quarter.
-"This was another really solid quarter for us, we feel good about it," Rainey told CNBC. "We continue to gain share while continuing to improve the profitability of our digital businesses."
-Walmart also raised its full-year guidance, now expecting net sales to increase between 4.9% and 5.2%, compared with previous guidance of a 4% to 5% increase. Rainey said Walmart is maintaining "flexibility" in its guidance.
-Walmart anticipates adjusted earnings per share will come in between $2.84 and $2.89, compared with a prior range of $2.80 to $2.87. It's also now expecting adjusted operating income to increase between 8% and 8.6%, up from the previous outlook of between 7% and 8.5% growth.
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 65 cents adjusted vs. 64 cents expected
-- Revenue: $188.84 billion vs. $187.27 billion expected
-For the quarter ended Oct. 31, the company reported net income of $4.95 billion, or 62 cents per share, down from $6.14 billion, or 77 cents per share, a year earlier. Revenue rose 5.2%.
-Adjusting for investment gains and losses, tax matters and reorganization charges, Walmart earned 65 cents per share.
-Walmart U.S. recorded net sales of $125 billion, up 3.6% from a year earlier. Its comparable sales excluding fuel rose 2.9%, in line with Wall Street expectations, according to StreetAccount.
-Furner also said Walmart is seeing encouraging adoption of its artificial intelligence agent, named Sparky, especially ahead of the holiday season. He said it's led to customer basket increases of 40% on average.
-"It just is a great way of just completing the entire basket and solving entire the solution for people," he said.
-Sam's Club reported net sales of $25.9 billion, marking a 10% increase from the year-ago period. It said its sales were driven by strength in the grocery category and general merchandise.
-In October, Walmart announced it was launching a joint membership option with Walmart+ and Sam's Club as it leans further into convenience. Both stores will still offer stand-alone memberships, as well.
-Furner told CNBC the new membership has brought roughly 2 million new people into Sam's Club since its launch in late October. Though the company reimbursed some members for the new membership rate, Rainey added that it's already seeing positive returns on the joint model and that consumers are "spending appreciably more."
-The company on Thursday said its global membership fee revenue grew 17% in the third quarter.
-The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef.
-Rainey said Thursday that he's "optimistic" about consumer spending heading into the holiday season and that the fourth quarter is already "off to a pretty good start."
-The big-box retailer has posted solid growth over the past few quarters as it sees customers gravitate to reduced prices, improvements in delivery and gains in its advertising business. It's also leaned into attracting higher-income consumers with its Walmart+ membership.
-Shares of Walmart have fluctuated this year but are up roughly 13% year to date.
-
-</details>
-
-
----
-
-## The manufacturing of novelty - Financial Times
+## Russia and Ukraine’s drone war sends optical fibre prices soaring - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMThhMGhBUGR1aGY1bnlrbFpmM1lyS0NZdWxHRk5zVFpSTzJUUTFQU2NfUjd1MFZPMTc3NVhGRUd6X2ppU19ZcUxWTmpzXzFMb3pNbnBlMktmb0xtWmZXa0ttQWtYZGplN2Nad2NNdXNmaWZCVmlRaXkxdzJSZ2czS2RON3Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2ZMb2kzUGh4S191aTUtUEFUWm9aTkdlQkk1Yi1mUndDempQeXh4UzdHa0FYNU4wcFZSN2l0TjgyM3JlSmRISHlRTWZ0c0ZPUFFIT2lCZDF5bnAtd29XSUxYX0RqTU5OWElLNExSSDhhRHd5TTZBLXNlMk1JWDBaTXFkaXI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMThhMGhBUGR1aGY1bnlrbFpmM1lyS0NZdWxHRk5zVFpSTzJUUTFQU2NfUjd1MFZPMTc3NVhGRUd6X2ppU19ZcUxWTmpzXzFMb3pNbnBlMktmb0xtWmZXa0ttQWtYZGplN2Nad2NNdXNmaWZCVmlRaXkxdzJSZ2czS2RON3Y?oc=5" target="_blank">The manufacturing of novelty</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The AI cyber threat is already here - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGk3ZUc5aXZkUkpQS1h0RzBmMXJxQ09aTEI2RTgzVWZzUTc3Y0lLZjNZaEZrR0YyMWtsMFQ1RF84bjJpam1JaGI4T3BjaThBbVVRMlFCemlRaDBEdUFiV3pjMF9GSjd6NG5PdWNFVTRMdVRVVXlOUEZyWG4wS1NscGdzQnI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGk3ZUc5aXZkUkpQS1h0RzBmMXJxQ09aTEI2RTgzVWZzUTc3Y0lLZjNZaEZrR0YyMWtsMFQ1RF84bjJpam1JaGI4T3BjaThBbVVRMlFCemlRaDBEdUFiV3pjMF9GSjd6NG5PdWNFVTRMdVRVVXlOUEZyWG4wS1NscGdzQnI?oc=5" target="_blank">The AI cyber threat is already here</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Donald Trump seeks Ukraine peace deal before January - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5" target="_blank">Donald Trump seeks Ukraine peace deal before January</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2ZMb2kzUGh4S191aTUtUEFUWm9aTkdlQkk1Yi1mUndDempQeXh4UzdHa0FYNU4wcFZSN2l0TjgyM3JlSmRISHlRTWZ0c0ZPUFFIT2lCZDF5bnAtd29XSUxYX0RqTU5OWElLNExSSDhhRHd5TTZBLXNlMk1JWDBaTXFkaXI?oc=5" target="_blank">Russia and Ukraine’s drone war sends optical fibre prices soaring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -352,80 +338,106 @@ Shares of Walmart have fluctuated this year but are up roughly 13% year to date.
 
 ---
 
-## Nvidia faces US regulator’s probe into its accounting - Financial Times
+## CVC claims accounting manipulation in €3bn Advent pastry ingredients deal - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDc0MTlualBfZk55ejRHOW1NRzdzM2M5eGIwcFdTcmY2SHZLQTZ3ZUhtMTN6N1RWdW5yalExM1c1NEtXWl93TWhCZVpRcW9Rdkt3NC1MTnJVS2VSRGloZ1l4Ykk5QnhsN3RTWjl6RXQzZ25zZmNpcWlFMVoxbmg1aVZPZUI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5" target="_blank">Nvidia faces US regulator’s probe into its accounting</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDc0MTlualBfZk55ejRHOW1NRzdzM2M5eGIwcFdTcmY2SHZLQTZ3ZUhtMTN6N1RWdW5yalExM1c1NEtXWl93TWhCZVpRcW9Rdkt3NC1MTnJVS2VSRGloZ1l4Ykk5QnhsN3RTWjl6RXQzZ25zZmNpcWlFMVoxbmg1aVZPZUI?oc=5" target="_blank">CVC claims accounting manipulation in €3bn Advent pastry ingredients deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Bitcoin falls to its lowest in two years - Reuters
+## Donald Trump seeks Ukraine peace deal before January - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5" target="_blank">Bitcoin falls to its lowest in two years</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5" target="_blank">Donald Trump seeks Ukraine peace deal before January</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## FBI's criminal information database hacked, CNN reports - Reuters
+## The dead hand of history weighs on Deutsche Bank - Financial Times
 
-来源：路透社
+来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE96MHJkaGVUUUluYVAxZi1UWEJvUC1lQUEzVmg1LUlGNkdyT2NfR1FtNlVrclV6bVB6OG05UUQ0enMwTXVsZ1FnZE9VNUZTal9xd0xFOE1FU0M4ME5jN1ZfYWoyTElneXVIakhuSlRxUmI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5" target="_blank">FBI's criminal information database hacked, CNN reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE96MHJkaGVUUUluYVAxZi1UWEJvUC1lQUEzVmg1LUlGNkdyT2NfR1FtNlVrclV6bVB6OG05UUQ0enMwTXVsZ1FnZE9VNUZTal9xd0xFOE1FU0M4ME5jN1ZfYWoyTElneXVIakhuSlRxUmI?oc=5" target="_blank">The dead hand of history weighs on Deutsche Bank</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Magnitude 6.8 quake in Peru's Andean region sends Lima residents onto streets - Reuters
+## US denies Iranian account that missile damaged F-16 over Gulf - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5" target="_blank">Magnitude 6.8 quake in Peru's Andean region sends Lima residents onto streets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5" target="_blank">US denies Iranian account that missile damaged F-16 over Gulf</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports - Reuters
+## Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5" target="_blank">US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5" target="_blank">Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters
+## Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5" target="_blank">Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5" target="_blank">Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Canada defense minister says no shift in US military ties - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5" target="_blank">Canada defense minister says no shift in US military ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## NATO will defend every inch of Polish territory, Rutte says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5" target="_blank">NATO will defend every inch of Polish territory, Rutte says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
