@@ -1,6 +1,58 @@
 # 每日财经新闻
 
-更新时间：2026-11-21 18:56:51
+更新时间：2026-11-22 06:01:30
+
+## China Investigates CNPC Deputy General Manager for Corruption
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption
+
+正文长度：0
+
+摘要：Xie Jun, a deputy general manager at China National Petroleum Corp., is under investigation for suspected “serious violations” of discipline and law, the nation’s top anti-graft authority said in a statement on Sunday.
+
+
+---
+
+## Australian Opposition Calls for Changes to Gas Reservation Plan
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan
+
+正文长度：0
+
+摘要：Australia’s opposition coalition party has raised more concerns about the government’s plan for liquefied natural gas exporters to increase supply to the domestic market, ahead of the legislation being voted on this week.
+
+
+---
+
+## China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet
+
+正文长度：0
+
+摘要：China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.
+
+
+---
+
+## Russian Cargo Ship Attacked By Drones in Gulf of Finland
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland
+
+正文长度：0
+
+摘要：Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.
+
+
+---
 
 ## Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving
 
@@ -11,58 +63,6 @@
 正文长度：0
 
 摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The Atlantic Contributing Writer & “The Best Kind of American” Author Kim Ghattas. (Source: Bloomberg)
-
-
----
-
-## Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video
-
-正文长度：0
-
-摘要：Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)
-
-
----
-
-## Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly
-
-正文长度：0
-
-摘要：Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.
-
-
----
-
-## Thanksgiving Dinner Is Moving to Restaurants
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video
-
-正文长度：0
-
-摘要：Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina Ruffini, Krader explains how restaurants are responding with traditional feasts and unconventional menus as Thanksgiving reservations continue to rise. (Source: Bloomberg)
-
-
----
-
-## The 1982 War Still Haunts the Middle East
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video
-
-正文长度：0
-
-摘要：Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and Christina Ruffini about her new book, The Best Kind of American, Ghattas examines Hezbollah’s enduring influence, Lebanon’s struggle to assert state authority and the risks of trying to remake the region through war. (Source: Bloomberg)
 
 
 ---
@@ -312,15 +312,41 @@ Dickson said the brand has since introduced new products and seen demand "reboun
 
 ---
 
-## Russia and Ukraine’s drone war sends optical fibre prices soaring - Financial Times
+## COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2ZMb2kzUGh4S191aTUtUEFUWm9aTkdlQkk1Yi1mUndDempQeXh4UzdHa0FYNU4wcFZSN2l0TjgyM3JlSmRISHlRTWZ0c0ZPUFFIT2lCZDF5bnAtd29XSUxYX0RqTU5OWElLNExSSDhhRHd5TTZBLXNlMk1JWDBaTXFkaXI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2lTdHhyREx4aWFiQllwMXZueHUyZ3RqWDJLVjNFa2VaUmRseE55WjVWbFk5cVlxd1VSVFFTUjZud3hyRDQtbkpia3JtMEM3N04yTF9ESlZQbGdMVHlMM0hZRHhrNHdET3NqLTJvbWpxNGZQTldOWTBRY094Vi1SX3lYOHQ?oc=5
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2ZMb2kzUGh4S191aTUtUEFUWm9aTkdlQkk1Yi1mUndDempQeXh4UzdHa0FYNU4wcFZSN2l0TjgyM3JlSmRISHlRTWZ0c0ZPUFFIT2lCZDF5bnAtd29XSUxYX0RqTU5OWElLNExSSDhhRHd5TTZBLXNlMk1JWDBaTXFkaXI?oc=5" target="_blank">Russia and Ukraine’s drone war sends optical fibre prices soaring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2lTdHhyREx4aWFiQllwMXZueHUyZ3RqWDJLVjNFa2VaUmRseE55WjVWbFk5cVlxd1VSVFFTUjZud3hyRDQtbkpia3JtMEM3N04yTF9ESlZQbGdMVHlMM0hZRHhrNHdET3NqLTJvbWpxNGZQTldOWTBRY094Vi1SX3lYOHQ?oc=5" target="_blank">COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Alice Huang’s links to the chip underworld - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5" target="_blank">Alice Huang’s links to the chip underworld</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5" target="_blank">Amazon closes in on $7.5bn deal to buy AI start-up Decart</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -338,106 +364,15 @@ Dickson said the brand has since introduced new products and seen demand "reboun
 
 ---
 
-## CVC claims accounting manipulation in €3bn Advent pastry ingredients deal - Financial Times
+## Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDc0MTlualBfZk55ejRHOW1NRzdzM2M5eGIwcFdTcmY2SHZLQTZ3ZUhtMTN6N1RWdW5yalExM1c1NEtXWl93TWhCZVpRcW9Rdkt3NC1MTnJVS2VSRGloZ1l4Ykk5QnhsN3RTWjl6RXQzZ25zZmNpcWlFMVoxbmg1aVZPZUI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDc0MTlualBfZk55ejRHOW1NRzdzM2M5eGIwcFdTcmY2SHZLQTZ3ZUhtMTN6N1RWdW5yalExM1c1NEtXWl93TWhCZVpRcW9Rdkt3NC1MTnJVS2VSRGloZ1l4Ykk5QnhsN3RTWjl6RXQzZ25zZmNpcWlFMVoxbmg1aVZPZUI?oc=5" target="_blank">CVC claims accounting manipulation in €3bn Advent pastry ingredients deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Donald Trump seeks Ukraine peace deal before January - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5" target="_blank">Donald Trump seeks Ukraine peace deal before January</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## The dead hand of history weighs on Deutsche Bank - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE96MHJkaGVUUUluYVAxZi1UWEJvUC1lQUEzVmg1LUlGNkdyT2NfR1FtNlVrclV6bVB6OG05UUQ0enMwTXVsZ1FnZE9VNUZTal9xd0xFOE1FU0M4ME5jN1ZfYWoyTElneXVIakhuSlRxUmI?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE96MHJkaGVUUUluYVAxZi1UWEJvUC1lQUEzVmg1LUlGNkdyT2NfR1FtNlVrclV6bVB6OG05UUQ0enMwTXVsZ1FnZE9VNUZTal9xd0xFOE1FU0M4ME5jN1ZfYWoyTElneXVIakhuSlRxUmI?oc=5" target="_blank">The dead hand of history weighs on Deutsche Bank</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US denies Iranian account that missile damaged F-16 over Gulf - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5" target="_blank">US denies Iranian account that missile damaged F-16 over Gulf</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5" target="_blank">Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5" target="_blank">Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Canada defense minister says no shift in US military ties - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5" target="_blank">Canada defense minister says no shift in US military ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## NATO will defend every inch of Polish territory, Rutte says - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5" target="_blank">NATO will defend every inch of Polish territory, Rutte says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5" target="_blank">Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
