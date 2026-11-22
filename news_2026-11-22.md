@@ -1,68 +1,113 @@
 # 每日财经新闻
 
-更新时间：2026-11-22 06:01:30
+更新时间：2026-11-22 19:17:39
 
-## China Investigates CNPC Deputy General Manager for Corruption
+## Goldman Traders See Entry Point in US Stocks But Warn of Risks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption
+链接：https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks
 
 正文长度：0
 
-摘要：Xie Jun, a deputy general manager at China National Petroleum Corp., is under investigation for suspected “serious violations” of discipline and law, the nation’s top anti-graft authority said in a statement on Sunday.
+摘要：Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.
 
 
 ---
 
-## Australian Opposition Calls for Changes to Gas Reservation Plan
+## Compass Plans to Move Main Listing to New York, FT Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan
+链接：https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says
 
 正文长度：0
 
-摘要：Australia’s opposition coalition party has raised more concerns about the government’s plan for liquefied natural gas exporters to increase supply to the domestic market, ahead of the legislation being voted on this week.
+摘要：The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.
 
 
 ---
 
-## China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet
+## Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet
+链接：https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video
 
 正文长度：0
 
-摘要：China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.
+摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shannon Kingston, Maryland Gov. Wes Moore, Indiana Gov. Mike Braun, North Carolina Gov. Josh Stein, Utah Gov. Spencer Cox, Renaissance Macro Research Head of Economics Neil Dutta, Texas Rep. Michael McCaul, Former Mayor of Chicago Rahm Emanuel, The Branch Founder and CEO Ravi Gupta, and Rising Communications President Leslie Shedd. (Source: Bloomberg)
 
 
 ---
 
-## Russian Cargo Ship Attacked By Drones in Gulf of Finland
+## Bookmarked: News Stories On Our Reading List
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland
+链接：https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video
 
 正文长度：0
 
-摘要：Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.
+摘要：Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
 
 
 ---
 
-## Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving
+## By The Way: Headlines You May Have Missed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video
+链接：https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The Atlantic Contributing Writer & “The Best Kind of American” Author Kim Ghattas. (Source: Bloomberg)
+摘要：A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
+
+
+---
+
+## Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html
+
+正文长度：5391
+
+摘要：Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Employees at Foundation Future Industries were told that their health benefits through administrator Rippling have been terminated, according to a memo obtained by CNBC, adding to mounting signs of financial distress at the humanoid robot startup advised and backed by Eric Trump.
+Foundation told staff in a Friday evening email that they'd be offered coverage through COBRA, the federal law that generally lets workers temporarily keep their health insurance after losing benefits by paying the full premium out of pocket.
+"Because our last pay run through Rippling was in October, they have ended our benefits with them retroactive to October," a Foundation human resources manager said in the memo. "COBRA will be offered to all employees to cover November."
+Foundation has garnered headlines for the bold claims that co-founder Sankaet Pathak — whose previous startup collapsed in 2024 — has made about his robots and their potential use in war zones. Employees were last paid on Oct. 15, and some inside the company are angry at Pathak for a $4.6 million loan he took from his company last year, CNBC reported earlier this month.
+A Foundation spokesman didn't immediately respond to an email or phone call seeking comment.
+In the staff memo, Foundation blamed Rippling for the disruption to health coverage. The startup also said it would reimburse COBRA premiums paid by workers and that it was onboarding a new benefits provider.
+But employees, especially those whose family members are undergoing treatment for medical ailments, worry the company won't have funds to reimburse workers or reinstate coverage, people with direct knowledge of the situation said.
+In a statement to CNBC, Rippling indicated it was Foundation's failure to pay for its employee benefits that led to the change: "If a client enrolled in Rippling's [Professional Employer Organization] is unable to meet their payroll and benefits obligations for multiple months, they will first receive a warning and if not met, they are terminated."
+Rescue loan
+Foundation has been seeking a bridge loan to repay employees after its financial woes began in August. It has been in talks with three or four venture capital firms, including existing investor Tribe Capital, Pathak has told employees, according to people familiar with the situation, who asked to remain unnamed because they were not authorized to speak publicly and feared retaliation. Tribe didn't immediately return a request for comment.
+The bridge loan would help the company survive until a possible $150 million investment from South Korean conglomerate Base Group lands as early as December or January, Pathak has told employees, the people said.
+Base confirmed to Reuters in recent days that it was considering an investment, but the funding has not been finalized.
+The potential investment would deepen business ties between the Trump family and the South Korean conglomerate, an aluminum producer also known for real estate and hospitality projects.
+Base paid the Trump Organization $2 million in 2025, according to a New York Times article, drawing scrutiny from Democratic senators over conflict-of-interest concerns. Base has also pursued other business relationships with the Trump Organization, including a Trump-branded golf course in South Korea.
+Eric Trump, who has invested in Foundation and was given the title of chief strategy advisor, didn't immediately respond to a CNBC email seeking comment.
+Inside Foundation
+The prospect of employees having to pay for their own health coverage comes as many are already drawing down savings to cover living expenses. With another scheduled payday approaching on Nov. 30, workers are facing a third straight pay cycle without income.
+Many are actively interviewing for other jobs, and attendance at the company's San Francisco headquarters has fallen sharply, according to people familiar.
+Frustration has boiled over into distrust of Pathak's leadership for some employees, while others hope Pathak can secure funding to repay workers and bring the company back to financial health. In conversations and memos, Pathak says that he is highly invested in securing Foundation's future, the people said.
+Despite the firm's shaky finances, Foundation continued to hire for open roles until recently and some new workers have never been fully paid, said the people.
+To keep employees from leaving before a possible Base Group investment, Pathak has floated the idea of offering workers equity in the startup, the people said.
+At the same time, human resources staff have warned workers against taking legal action with California to recover their wages, saying that any employees who file complaints with the state would be dismissed, the people said.
+Following a Nov. 14 CNBC report detailing the missed payrolls and a $4.6 million loan Pathak took from the startup in 2025, the chief executive addressed the issue in an all-hands meeting, according to the people.
+Pathak defended the arrangement by telling workers that he had plowed his own money into the startup and takes only a nominal salary, the people said.
+The co-founder also told employees who were in dire financial straits to contact human resources for help covering personal bills, the people added.
+"I'm burning through savings just to afford my apartment," one employee told CNBC. "It's extremely unfortunate we're in this situation."
+
+</details>
 
 
 ---
@@ -117,6 +162,48 @@ Singapore Airlines, Germany's Lufthansa, British Airways and Air France have unv
 British Airways last month said it will build a record 106-suite business class on its Airbus A380 aircraft, the world's largest passenger airplane, but it's also upgrading its first class on board.
 Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegiant Air are introducing domestic or short-haul first-class seats.
 "We're going to be able to do that at a really low price comparatively to what you're used to out there in the marketplace," Frontier Chief Commercial Officer Bobby Schroeter said last month.
+
+</details>
+
+
+---
+
+## Pizza chains are under pressure. GLP-1 use is only one part of the problem
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html
+
+正文长度：5323
+
+摘要：Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Big pizza chains are struggling as weaker consumer spending, a wider variety of dining options and the rise of GLP-1 medications weigh on their sales.
+The pandemic was a boom time for Domino's Pizza, Papa Johns, Little Caesars and Pizza Hut. But since dining rooms reopened, the biggest U.S. pizza chains have faced an uphill battle to retain their customers.
+These days, consumers are watching their discretionary spending but have more delivery and takeout options when they do decide to order, thanks to the accessibility of third-party platforms. Plus, food quality and the customer experience have become more important to diners who are looking for value when they order from restaurants.
+As a result of pizza fatigue and challenges facing the broader restaurant industry, the number of U.S. pizza restaurants has tumbled. Since pizza locations hit a peak of 83,035 nationwide in August 2019, more than 9,600 pizzerias had closed their doors as of July 2026, according to data from Datassential.
+In 2025, sales at U.S. pizza restaurants fell 0.3%, according to Technomic data. Sales at independent pizzerias slipped 0.4%. Chains, which account for about two-thirds of the domestic pizza category sales, saw revenue shrink 0.3%.
+Papa Johns reported that North American same-store sales declined 2.5% in 2025. Pizza Hut's U.S. same-store sales fell 5%. Among the three pizza chains that were publicly traded last year, only Domino's posted annual same-store sales growth at its U.S. restaurants, with an increase of 3%.
+It isn't just diners who have lost their appetite for pizza. Since March 2020, Papa Johns stock has lost about two-thirds of its value. Even shares of Domino's, which dominates the category, have seen gains of only about 2% in that time. For comparison, the S&P 500 has climbed about 150% over the same period.
+And Yum Brands sold Pizza Hut this year, offloading the laggard of its portfolio to LongRange Capital and Yum China after about two decades of stagnating sales.
+"Pizza Hut has been a detractor for YUM ... Going forward, YUM won't be tripped up by pizza category dynamics (discounting, etc.), translating to stronger growth and higher concentration in higher growth industry segments and markets," Wells Fargo analyst Zachary Fadem wrote in a research note in September.
+Pizza's challenges
+Pizza chains now have significantly more competition for diners' dollars than they did in 2020. Third-party delivery platforms, which grew in popularity during the pandemic, offer a wide variety of cuisines beyond the traditional pizza and Chinese. As a result, Domino's and Papa John's have to compete with other fast-food chains, like McDonald's and Chick-fil-A, for DoorDash and Uber Eats orders.
+As pizza has grown more expensive, a pie seems less appealing to budget-conscious diners. The average large cheese pizza is now almost $17, according to the 2026 Pizza Power Report from PMQ Pizza, a trade publication.
+Plus, frozen pizza is another convenient option, with a lower price tag. Retail sales of single- and multi-serve frozen pizza rose 2.9% in the 52 weeks ended Nov. 7 compared with the same period in 2022, according to NielsenIQ data.
+"When the American consumer is focused on the least expensive eating occasion, the items that are in my pantry, my refrigerator and my freezer win every single time," said David Portalatin, a food and food service industry advisor for Circana.
+Convenience stores like Casey's General Stores have also won over customers with pizza at a low price point.
+"We believe that [Casey's] has an advantage over [quick-service restaurants] and dollar stores, which have fewer options to navigate the persistent inflationary environment, while [Casey's] can offset food pressures with margins," Bank of America Securities analyst Sara Senatore wrote in a research note published in June.
+She added that geographic overlap of locations suggests that Casey's is stealing share from Pizza Hut.
+The biggest pizza chains have also been slow to adapt to shifting consumer attitudes toward nutrition. For example, of the four biggest chains, Papa Johns is the only one to even test a pizza crust with added protein as more diners prioritize it in their diets. And the test was only in one Atlanta restaurant — for a single day.
+Pizza's nutritional content more broadly is another drag for the category. Its carbohydrate and fat content, from its dough and cheese, respectively, can make it less appealing for consumers on GLP-1 drugs, which have skyrocketed in use over the last several years.
+Spending on pizza quick-service restaurants has fallen 22.2% per GLP-1 household after six to eight months using the medications, according to a 2026 survey published by PwC.
+To be sure, pizza's recent struggles do not mean an existential crisis for the category. Total pizza servings are down only about 1% this year, Circana's Portalatin said.
+And chains are trying to reverse that downturn in servings. In August, Domino's launched the Domino, a customizable Detroit-style personal pizza to attract solo diners. In November, Papa Johns unveiled a new turnaround plan focusing on improving food consistency and restaurant operations. And Pizza Hut is running a holiday-themed meal deal.
+"Pizza's not going anywhere," Portalatin said. "The American consumer loves pizza."
 
 </details>
 
@@ -224,155 +311,132 @@ Though Zara fell in AlixPartners' Consumer Sentiment Index, it has continued to 
 
 ---
 
-## A24 is having a great year at the box office. That could give HBO Max a streaming edge
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html
-
-正文长度：4393
-
-摘要：A24 films "Backrooms," "The Drama" and the Elizabeth Holmes documentary, "You Can See Everything," are fueling a banner year at the box office.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Independent movie studio A24 has had a banner year at the box office, and HBO Max is set up to benefit from its success.
-Subscribers to the Skydance-owned streaming service can watch newly released A24 films for a limited period of time after they leave theaters thanks to a licensing deal that the studio and streamer renewed in January.
-A24 is behind some of this year's buzziest films, including horror hit "Backrooms," dark comedy "The Drama" starring Zendaya and Robert Pattinson, and the Elizabeth Holmes documentary "You Can See Everything," co-directed by Nathan Fielder.
-The studio has generated more than $526 million at the domestic box office this year as of Nov. 15, according to data from Rentrak. That's already roughly $290 million, or more than 50%, above its haul for all of 2025.
-"They have an identity all their own, and just the mere mention of A24, the recognition that a movie is from A24, gives it instant credibility and provides a must-see factor, no matter what the subject matter," Paul Dergarabedian, head of marketplace trends at Rentrak, told CNBC.
-The strong performance for A24 comes at a critical moment for HBO Max as the newly merged Skydance seeks to boost its streaming subscriber count and bolster its edge against competitors — while managing nearly $80 billion of debt.
-Skydance co-CEO and Chairman David Ellison cited movie releases from A24 as part of the company's "unmatched portfolio" during its most recent earnings call.
-The agreement between A24 and HBO Max gives U.S. subscribers exclusive access to new films after their theatrical runs as well as some older titles from A24's library. The partnership was first negotiated in December 2023 after A24's deal with Showtime expired.
-A24 films released this year broke records at the box office, with "Backrooms" becoming the studio's biggest domestic opening to date and "You Can See Everything" notching the biggest documentary opening since "Fahrenheit 9/11" in 2004.
-That success has already begun to translate to HBO Max's platform.
-When "Backrooms" began streaming on HBO Max, it was the most streamed title on the platform for two weeks, according to Nielsen data. The film was also the fourth overall most streamed title the week it premiered, racking up 226 million minutes of viewing time.
-Among HBO Max's domestic subscribers, nearly 70% of viewers who watched at least one A24 movie in 2025 watched an average of four films from the studio, according to HBO Max and A24.
-A new era for HBO Max
-After more than a year of competing bids and regulatory hurdles, Skydance now oversees two of the world's largest streaming platforms: HBO Max and Paramount+.
-The company plans to eventually merge the streaming services into a single platform. It will take the first step in that effort by offering a value bundle in early 2027.
-The combination of the platforms "will drive stronger engagement and higher lifetime value," co-CEO Ynon Kreiz said on the company's earnings call earlier this month.
-Paramount Skydance's direct-to-consumer segment, which includes Paramount+ and its free, ad-supported channel, Pluto TV, generated more than $2 billion in revenue during the third quarter, representing more than 35% of total revenue for the period. That segment revenue marked an 11% year-over-year increase, with revenue from Paramount+ up 21%.
-The earnings do not reflect the Warner Bros. Discovery acquisition, since that deal closed after the close of the quarter.
-Paramount Skydance's third-quarter studio revenue, meanwhile, improved 23% year over year, generating $1.5 billion. TV media revenue declined 7% year over year to $3 billion as the linear business faces headwinds related to lower advertising revenue and pay TV subscriber losses.
-Revenue growth in streaming will be important as it faces the daunting task of managing nearly $80 billion of debt.
-The company has said it expects to realize $6 billion in cost savings over the next three years and has put a particular focus on consolidating its operations and streamlining its marketing spend.
-Paramount+, HBO and HBO Max currently reach a combined 203 million subscribers, Ellison said during the third-quarter earnings call.
-Industry leader Netflix reported 325 million subscribers as of the fourth quarter of 2025, its most recent update. Disney+ and Hulu reported a combined 195.7 million subscribers as of the same period.
-
-</details>
-
-
----
-
-## Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html
-
-正文长度：4746
-
-摘要：Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Gap Inc. on Thursday announced Ashley Kechter will be the next president and CEO of its Athleta brand, effective Dec. 14.
-The retailer also said Old Navy's turnaround is showing signs of progress, sending shares up more than 11% Friday.
-Kechter comes to Gap from activewear retailer Vuori, where she was global president and oversaw the brand's global business strategy, marketing and financials. She was previously global brand president of Fabletics and began her career at Gap before that.
-"I'm excited to return to Gap Inc. and partner with [Gap CEO Richard Dickson] and the team to strengthen our connection with customers and shape the brand's next chapter," Kechter said in a statement.
-The announcement comes after Lululemon poached former Athleta CEO Maggie Gauger to be its chief product officer last month.
-"Clearly, we're disappointed with Athleta's performance, and we recognize there's a lot of work ahead," Dickson told CNBC. "We had been in rebuild mode, but now we're really in turnaround mode."
-Dickson said the company is focused on getting back to its fundamentals: fabrications, feature, form, function and fit. Dickson added that Kechter will be conducting a "comprehensive review" of the brand to reposition Athleta for future success.
-While the execution of its strategy has thus far "fallen short," Dickson said this new approach will allow Athleta to fully realize its potential.
-Third-quarter earnings
-Gap also reported mixed fiscal third-quarter earnings on Thursday and posted flat overall comparable sales. Wall Street had been expecting a comparable sales increase of 1.3%, according to StreetAccount.
-Net sales grew 2%, though demand softened in October and early November due to warmer weather, the company said. Store sales increased 1%, while online sales increased 3%.
-Gap also said it's recorded a $420 million adjustment to cost of goods sold and a $21 million adjustment to interest income from tariff refunds so far this year.
-The company lowered its full-year net sales outlook to be "roughly flat," down from previous guidance of up between 1% and 1.5%. Gap is also now expecting adjusted earnings per share of between $2.29 and $2.34, down from an earlier expectation of between $2.35 and $2.45 per share.
-Dickson said in an interview that much of the lowered guidance was due to warmer weather in the first two weeks of the quarter, but he said Gap is expecting "meaningful acceleration" in shopping ahead of the peak holiday season.
-"We're monitoring the trends, and we're going to remain agile as we respond to the changing business trends," Dickson said.
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 82 cents adjusted vs. 78 cents expected
-- Revenue: $4.01 billion vs. $4.02 billion expected
-For the quarter, Gap reported net income of $311 million, or 86 cents per share, compared with $236 million, or 62 cents per share, the year prior. Sales rose slightly from $3.94 billion the year prior.
-Brand sales
-At Athleta, net sales were down 14% compared with last year, coming in at $220 million. Comparable sales for the banner sank 15%, which the company attributed to "limited traction" from efforts to modernize its merchandise and marketing. `
-The company's namesake brand saw 9% comparable sales growth for the quarter, with net sales of $1.1 billion, marking an 11% increase compared with last year. Dickson said it was the brand's 12th consecutive quarter of positive comparable sales.
-"Gap is really firing on all cylinders, and the consistency of the brand is really giving us confidence in the brand's ability to continue its momentum," Dickson said.
-The Old Navy banner saw flat comparable sales for the quarter and net sales of $2.3 billion, up 1% compared with last year. It's the first earnings report since the brand, which has been experiencing sluggish sales, named Michael Francis as its new CEO last quarter. Francis began his role at Old Navy on Nov. 2.
-Banana Republic saw its net sales sink 3% compared with last year, which the company attributed to delayed demand for cold-weather categories and a women's fall assortment that fell flat. Wall Street had been expecting growth of 1.5%, according to StreetAccount.
-Dickson said the brand has since introduced new products and seen demand "rebound" as cooler weather has set in across the country.
-"We've been encouraged by the early customer response, and we should see sequential improvement in the fourth quarter," he said. "There's some work to do here, but with peak selling still ahead, I'm confident that the team is focused on the right areas and [will] ultimately position Banana well for growth."
-
-</details>
-
-
----
-
-## COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’ - Financial Times
+## Sanctioned Russian vessel attacked by drones near Finland - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2lTdHhyREx4aWFiQllwMXZueHUyZ3RqWDJLVjNFa2VaUmRseE55WjVWbFk5cVlxd1VSVFFTUjZud3hyRDQtbkpia3JtMEM3N04yTF9ESlZQbGdMVHlMM0hZRHhrNHdET3NqLTJvbWpxNGZQTldOWTBRY094Vi1SX3lYOHQ?oc=5
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2lTdHhyREx4aWFiQllwMXZueHUyZ3RqWDJLVjNFa2VaUmRseE55WjVWbFk5cVlxd1VSVFFTUjZud3hyRDQtbkpia3JtMEM3N04yTF9ESlZQbGdMVHlMM0hZRHhrNHdET3NqLTJvbWpxNGZQTldOWTBRY094Vi1SX3lYOHQ?oc=5" target="_blank">COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5" target="_blank">Sanctioned Russian vessel attacked by drones near Finland</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Alice Huang’s links to the chip underworld - Financial Times
+## Democrats will seek to unwind Trump’s tax and tariff policies - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5" target="_blank">Alice Huang’s links to the chip underworld</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5" target="_blank">Democrats will seek to unwind Trump’s tax and tariff policies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times
+## US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2pCeHY2Q3JsWjNLdVZPWk1hX053R3BRay1RSlN4WUE3UlpYOEdKU1QtYmNOM2RsbzZoZXlYY20zdnIzbEl3WHRuRV9PaFBac1BxTjB2ZFFmdnFzUk1jNDY4ZmpuZ1lmYzdRMFk0S0hWMG9UeUFKeFA0dHFQbTFyMUIyUHU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5" target="_blank">Amazon closes in on $7.5bn deal to buy AI start-up Decart</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2pCeHY2Q3JsWjNLdVZPWk1hX053R3BRay1RSlN4WUE3UlpYOEdKU1QtYmNOM2RsbzZoZXlYY20zdnIzbEl3WHRuRV9PaFBac1BxTjB2ZFFmdnFzUk1jNDY4ZmpuZ1lmYzdRMFk0S0hWMG9UeUFKeFA0dHFQbTFyMUIyUHU?oc=5" target="_blank">US ports face cyber attack onslaught as hackers target vital trade routes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Trump considering new Iran strikes as US military warns of strain on forces - Financial Times
+## Did Anthropic and its bankers get a key call wrong after IPO? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5" target="_blank">Trump considering new Iran strikes as US military warns of strain on forces</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U?oc=5" target="_blank">Did Anthropic and its bankers get a key call wrong after IPO?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times
+## Cheap Chinese ecommerce parcels flood the UK - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3FmWW5KR0FXM01YU2JKNDJoWGxZMWR6YlM4QU1wZVlkSk5ia2FGR2diRGEzcS1keTdzNGVGX1hJeFpYSHRsbndLR1NESTNabXlVUVg2RkNCN1QzbWQzYXMtcEszZGFtNzFuQ1JEdkx5cnVxOUlMQnFsY0ZyY3Rqc3l1djk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5" target="_blank">Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3FmWW5KR0FXM01YU2JKNDJoWGxZMWR6YlM4QU1wZVlkSk5ia2FGR2diRGEzcS1keTdzNGVGX1hJeFpYSHRsbndLR1NESTNabXlVUVg2RkNCN1QzbWQzYXMtcEszZGFtNzFuQ1JEdkx5cnVxOUlMQnFsY0ZyY3Rqc3l1djk?oc=5" target="_blank">Cheap Chinese ecommerce parcels flood the UK</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5" target="_blank">US intelligence chief says Putin is 'not America's friend in Ukraine'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Three Russian missiles flew into Poland Friday, prosecutors say - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5" target="_blank">Three Russian missiles flew into Poland Friday, prosecutors say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5" target="_blank">US seeks answers on Nvidia's sale of chips to China, Bessent says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5" target="_blank">Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Trump sees difficulties ahead if Schumer leads Senate - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5" target="_blank">Trump sees difficulties ahead if Schumer leads Senate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
