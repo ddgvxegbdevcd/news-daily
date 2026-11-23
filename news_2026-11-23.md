@@ -1,68 +1,93 @@
 # 每日财经新闻
 
-更新时间：2026-11-23 06:54:27
+更新时间：2026-11-23 23:40:03
 
-## China Sentences Official to Death for Spying for Foreign Power
+## Margin Calls Rose 200-Fold in Taiwan as Traders Fled AI Bets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-23/china-sentences-official-death-spying-ma-state-secret-protection-espionage
+链接：https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets
 
 正文长度：0
 
-摘要：China said it sentenced an official to death for spying for a foreign intelligence service, publicizing the case as a warning against leaking state secrets.
+摘要：Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.
 
 
 ---
 
-## Earnings Could Signal When to Buy the AI Dip: JPMorgan
+## Latest Oil Market News and Analysis for Nov. 24
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-23/earnings-could-signal-when-to-buy-the-ai-dip-video
+链接：https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24
 
 正文长度：0
 
-摘要：JPMorgan Co-Head of Global Fundamental Research James Sullivan says earnings revisions might provide a marker for investors looking to move on AI stocks. Nvidia sank 14% on Friday last week, while Anthropic fell 8.5% on its second day of trading and a gauge of chipmakers sank 11%. (Source: Bloomberg)
+摘要：Oil steadied after sliding almost 4% in the previous session on cautious optimism over efforts to end the US-Iran war.
 
 
 ---
 
-## Malaysia Palm Oil Industry Says CPO Tax-Waiver Window Has Passed
+## Why Did Nvidia Reinstate Jensen Huang as CEO?
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed
+链接：https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo
 
 正文长度：0
 
-摘要：Malaysia’s palm oil industry says the window in which an export tax waiver would have helped boost shipments and ease a buildup in stockpiles has passed.
+摘要：<p>A White House pressure campaign and a $5 trillion market slide forced Nvidia to reinstate its founder — proving that in the AI race, boardroom discipline is a luxury shareholders can’t afford.</p>
 
 
 ---
 
-## Asian Stock Rout Eases as State Support Measures Soothe Jitters
+## Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity
+链接：https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates
 
 正文长度：0
 
-摘要：A selloff in Asian stocks eased after authorities rolled out support measures and US markets showed signs of stabilizing.
+摘要：Asian stocks looked set to ride a wave of optimism sparked by Jensen Huang’s return to lead Nvidia Corp., a stunning development that propelled Wall Street toward its best day since April 2025.
 
 
 ---
 
-## Stock Futures Rally After AI Rout, Havens Decline: Markets Wrap
+## Startup Options Exchange Asks SEC to Approve Two New Venues
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues
 
 正文长度：0
 
-摘要：US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.
+摘要：Options Xchange Group Inc., a startup bourse focused on equity derivatives, is seeking to start two new venues.
+
+
+---
+
+## ESPN, NFL to show Super Bowl 61 in Imax theaters
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html
+
+正文长度：1140
+
+摘要：In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Super Bowl 61 will be telecast live in hundreds of Imax theaters in February via a partnership with the NFL and Disney's ESPN, which has the broadcast rights to the 2027 game.
+It marks the largest Imax live event in the company's history and the first time that the Super Bowl will be available in the format, according to a news release.
+The four-hour event on Feb. 14 will include ESPN's main Super Bowl game telecast, as well as Jay-Z's halftime performance and pregame and postgame coverage.
+Tickets will be available for theaters in the United States and select international markets, including Australia, New Zealand and Brazil. Tickets are expected to go on sale in January. Pricing was not disclosed.
+"Watching the Super Bowl with your fellow fans is one of the great shared experiences in sports, and this first-of-its-kind collaboration with the NFL and IMAX takes it to a historic new scale," said Ken Potrock, president of major event integration for The Walt Disney Co.
+In addition to ESPN channels, this season's championship game will also be available on streaming platform Disney+ as well as Disney's broadcast network ABC.
+
+</details>
 
 
 ---
@@ -252,105 +277,46 @@ Akerson said he believes that, like he did, Barra will have major influence in p
 
 ---
 
-## Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html
-
-正文长度：7746
-
-摘要：Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Clothing isn't made like it used to be, and more shoppers are taking notice.
-The makeup of apparel imported into the U.S. has shifted in recent years. In 2010, about 60% of clothing was predominantly made from cotton. Now, that total is around 45%, while predominantly synthetic fabrics such as polyester and nylon comprise the majority of imports.
-Apparel prices generally declined over the two decades leading up to the pandemic, according to the consumer price index. Since 2020, they have soared to record highs.
-It's starting to change habits for consumers who are paying more for food, gas, rent and other staples. As shoppers shell out more for clothes, they're increasingly making sure the garments are worth the cost.
-Consulting firm AlixPartners' 2026 Consumer Sentiment Index, which surveyed more than 9,000 shoppers, found that consumers are scrutinizing labels more closely and rejecting cheap materials sold at a premium.
-"If it's not a natural material, a retailer brand who passes it off as it is, they're really becoming very low on consumers' minds," said Sonia Lapinsky, head of fashion at AlixPartners.
-The polyester shift
-Fast fashion brands like Forever 21 and H&M exploded in popularity during the early 2000s and 2010s, bringing trendy clothing to shelves quickly at low prices. Then came ultra-fast fashion, with brands like Shein and Fashion Nova pumping out new garments at even quicker speeds and lower price points — made possible in part through the use of inexpensive, synthetic fabrics.
-"We got to a point where the pendulum just swung too far in that direction. And we've actually begun to see a reversal," said U.S. Bancorp BTIG consumer analyst Janine Stichter. "Quality matters a lot more ... over the last three or four years than it has in the previous 10 or 20."
-But quality, which shoppers often tie directly to material, can come at a higher cost.
-The average unit price of apparel imported to the U.S. between January and August was $2.64 per square meter for garments that were predominantly synthetic fiber, like polyester and nylon, compared with $3.67 for items that were largely cotton, according to data from the U.S. Commerce Department's Office of Textiles and Apparel.
-When comparing those 2026 figures to 2010, synthetic fiber apparel import costs have climbed around 11%, while cotton apparel costs have risen 21%.
-"If you're appealing to a more value-sensitive customer, you either reduce the quality, or you negotiate with suppliers to try to share some of the cost or you maybe absorb the cost … and perhaps hope to crank a higher volume of product to make up for it," said Bernstein Research senior retail analyst Aneesha Sherman.
-Though polyester is cheaper, experts point out that's not necessarily a bad thing. It can help clothing hold its shape and wick away sweat.
-Sherman believes the athleisure boom is a primary factor in the shift toward polyester. She said that from 2015 to 2025, sports apparel was growing at a 4.9% rate in the U.S., versus 2.6% for all apparel and footwear, according to Euromonitor data.
-"There probably is some quality trade down as well happening there," Sherman said. "But I think both these trends are conflated."
-Nonetheless, backlash to synthetic materials is growing. Gen Z has even repurposed the word "polyester" as an insult to mean generally low-quality or fake.
-Concerns have also grown about the environment and human health surrounding petroleum-based clothing, as more research indicates microplastics can leach from polyester clothing when washed.
-It's led consumers to reexamine what materials are in their clothing.
-Manufacturing moves
-Apparel prices have risen coming out of the pandemic, as demand outpaced supply and allowed companies to raise prices, said BTIG's Stichter. Tariffs and the Iran war followed, raising costs for businesses — and prices for consumers.
-Petroleum is the basis of many synthetic fibers, and oil prices have skyrocketed since the start of the Iran war.
-The same factors that helped drive up prices of clothing — Covid, tariffs and war — also affected clothing quality.
-"Companies had to move around their supply chains in the post-Covid period," said Stichter. "They had to find ways to take costs out, and sometimes that meant using less expensive fabrics."
-Those factors compounded a more-than-decade-long shift away from manufacturing in China.
-Sheng Lu, a fashion and apparel studies professor at the University of Delaware, whose research focuses on the economics of the global textile industry, said China's established history with clothing production means it has higher-skilled workers, state-of-the-art-equipment and better material management compared with emerging manufacturing destinations such as Bangladesh, Sri Lanka and Cambodia.
-"They mostly serve the value market and the mass market. And I think the reason why they're not ready to make higher-quality luxury and premium products really reflects the kind of skill sets you can expect when you source from these countries," said Lu.
-AlixPartners' Lapinsky said these countries that manufacture at a lower cost sometimes have to still ship the raw materials from China, which can extend the timeline to make clothing. That means taking earlier bets on trends and then discounting if products don't sell well.
-"If you have to mark down that product because the consumer doesn't want it as much, your net margin might actually be worse than if you were to just invest in quality in the first place," said BTIG's Stichter.
-And as material costs rise for synthetic fibers, Stichter also said she believes it could further influence companies to use more natural fabrics moving forward.
-Who benefits?
-Companies prioritizing quality are winning in this environment.
-Ralph Lauren's stock is up around 85% over the past two years. Around 90% of its apparel is primarily made of cotton, leather, wool, viscose, cashmere or silk, according to its 2026 sustainability report. In its fiscal 2026, the company said it sold more products at full price and reduced markdowns.
-Meanwhile, direct-to-consumer clothing brand Quince, which centers its brand identity around natural materials, reached a $10 billion valuation this year.
-The brand jumped 16 spots to No. 3 for best resale value in online consignment retailer ThredUp's 2025 report. Organic cotton retailer Pact jumped 20 spots on that list to No. 8, illustrating the potential role materials are playing in brand recognition.
-Alternatively, the 2026 AlixPartners report, which ranks sentiment for brands in different retail categories, found shoppers are viewing some fast fashion brands less favorably. Both Shein and Zara dropped three spots — to fifth and seventh place, respectively — in terms of sentiment in the young adult specialty category.
-Shein passed higher tariff costs onto shoppers in 2025 and then blamed a sales slowdown on those higher prices. The ultra-fast fashion retailer saw its year-over-year share of U.S. apparel, accessories and footwear card spending decrease in the fourth quarter of 2025 and first two quarters of 2026, according to Consumer Edge.
-Shein did not immediately respond to a request for comment.
-Though Zara fell in AlixPartners' Consumer Sentiment Index, it has continued to grow sales and profits year over year. Even so, Lapinsky said worsening consumer views are something to watch, even if the company is doing well.
-"What we found over the years with this consumer sentiment index is that sometimes it will be a bit of a leading indicator of what's to come," said AlixPartners' Lapinsky. "I'm not saying that this is going to be true for Zara, but I think that's one thing that we'll be watching as we look in the upcoming quarters and into 2027."
-
-</details>
-
-
----
-
-## Progressives are not radical enough on economics - Financial Times
+## Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUTNlcHBCeVpscFJETmFRaDJ1V0pNQWE1Z3ZFSUl1RUdxLUdZUzcxRjdPMGFsVDZDWmZ2MFQzWHNkdHJhcVNKYTRDUmZqcTdUczlGSHdxTVBnUm9FLVExemJUUkNVSERkTTlxUUFoeXM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUTNlcHBCeVpscFJETmFRaDJ1V0pNQWE1Z3ZFSUl1RUdxLUdZUzcxRjdPMGFsVDZDWmZ2MFQzWHNkdHJhcVNKYTRDUmZqcTdUczlGSHdxTVBnUm9FLVExemJUUkNVSERkTTlxUUFoeXM?oc=5" target="_blank">Progressives are not radical enough on economics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5" target="_blank">Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines - Financial Times
+## CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhrTl8yRDE4ZDFnUy1xb0RhQTV0OVB1UldLbjZNaUotZkxjU3BWU1Q0V3Q1Mmt2T3VzU2ZOWE1vX0U4cGR2b0Q1UTVfd3U3dHIteks3WjhOeUtKWFJNRTRrT296MkFtdWVQWktOaHBPXzBfcXk0LW5vU01rRGtzYktLNnI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXRqYWdBS2lmTXl0cGRSN0lSa1JjMTBKNzlLSktkUXBQaW9idWU1b3hSc0kwUExtMV9SODYzSHU4REJWakg5cDc3X01jU2ctMUdRV0w1eHRBUXh0NjlQUDB6MXVwb09lVUZZdUNBNEhpLWw2V2hPSXF1QlAteEpFSEQ2bFU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhrTl8yRDE4ZDFnUy1xb0RhQTV0OVB1UldLbjZNaUotZkxjU3BWU1Q0V3Q1Mmt2T3VzU2ZOWE1vX0U4cGR2b0Q1UTVfd3U3dHIteks3WjhOeUtKWFJNRTRrT296MkFtdWVQWktOaHBPXzBfcXk0LW5vU01rRGtzYktLNnI?oc=5" target="_blank">Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXRqYWdBS2lmTXl0cGRSN0lSa1JjMTBKNzlLSktkUXBQaW9idWU1b3hSc0kwUExtMV9SODYzSHU4REJWakg5cDc3X01jU2ctMUdRV0w1eHRBUXh0NjlQUDB6MXVwb09lVUZZdUNBNEhpLWw2V2hPSXF1QlAteEpFSEQ2bFU?oc=5" target="_blank">CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The Gulf’s ‘new normal’ - Financial Times
+## Emmanuel Macron proposes French budget ‘golden rule’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0wyMHhjMTVNS01WYWJucU9hVm53SDF2Q0N5Qkl1RHVpa3M2TXhzdW1Pbk5JMGx2UVpFTWFZU196QjdBWjNkN2lqWXM4eXEzdGRzbDItQVd3MEhKUUFGTDRtRlJVWXZrempLbFhWbHg2eXdKQkduU3hhem9JV1l2UmZIQnU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0JYaFRwcF8wNUFnSHJqUkZTWEp3Q2VxRm9ISG9sMHgwZFE4UHVhbGVuNFozZFgwZHFOaU1DZk12a3J0Q2VQV3MxVnFQaVFXS2ZIYVN3QTVFcl9sOEpfQ3FjTm14aHA5SzNyQTVZNjBCNGU1c0RhNjNaaERFN0N4VVZmNVE?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0wyMHhjMTVNS01WYWJucU9hVm53SDF2Q0N5Qkl1RHVpa3M2TXhzdW1Pbk5JMGx2UVpFTWFZU196QjdBWjNkN2lqWXM4eXEzdGRzbDItQVd3MEhKUUFGTDRtRlJVWXZrempLbFhWbHg2eXdKQkduU3hhem9JV1l2UmZIQnU?oc=5" target="_blank">The Gulf’s ‘new normal’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0JYaFRwcF8wNUFnSHJqUkZTWEp3Q2VxRm9ISG9sMHgwZFE4UHVhbGVuNFozZFgwZHFOaU1DZk12a3J0Q2VQV3MxVnFQaVFXS2ZIYVN3QTVFcl9sOEpfQ3FjTm14aHA5SzNyQTVZNjBCNGU1c0RhNjNaaERFN0N4VVZmNVE?oc=5" target="_blank">Emmanuel Macron proposes French budget ‘golden rule’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Novartis rejects AI industry hopes to cure cancer in 5 to 10 years - Financial Times
+## Novartis rejects AI industry hopes to cure cancer in five to 10 years - Financial Times
 
 来源：金融时报
 
@@ -358,85 +324,85 @@ Though Zara fell in AlixPartners' Consumer Sentiment Index, it has continued to 
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5" target="_blank">Novartis rejects AI industry hopes to cure cancer in 5 to 10 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5" target="_blank">Novartis rejects AI industry hopes to cure cancer in five to 10 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## The problem with the circular AI economy - Financial Times
+## Russian soldiers twice as likely to die by suicide than civilians - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORzk5MEtQdG9xZUNyRXA3cEEyOEx5bmJLOGJWTy1PVEt2enkxbXJfTzkyMDRGa2xLTHJQeWFJVDRBZ0ZXeW1GclpOM05NMDRVZHBWcVljN1RFQ0l6VlNScDRYd1RMWG1rcW5aM1RxOVgycjd1VjEtbmhsUXo4OUhWSGpneTM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZmbDFiR29kd0kxa3lBenZ6TUpDRjJBaDQ2TEYxNXlYVU9RaG5yMHlRdnMwcGU4VG1lcFBQT2RzRGJmUWxlSWt4UjYxdG4tWmZzcGRTSUZ4VmJCS1RzdktQWXJ3aWVWNFlDYzBZeE9xOFAxVTN5UFRfMW55QWVrUENpOTY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORzk5MEtQdG9xZUNyRXA3cEEyOEx5bmJLOGJWTy1PVEt2enkxbXJfTzkyMDRGa2xLTHJQeWFJVDRBZ0ZXeW1GclpOM05NMDRVZHBWcVljN1RFQ0l6VlNScDRYd1RMWG1rcW5aM1RxOVgycjd1VjEtbmhsUXo4OUhWSGpneTM?oc=5" target="_blank">The problem with the circular AI economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZmbDFiR29kd0kxa3lBenZ6TUpDRjJBaDQ2TEYxNXlYVU9RaG5yMHlRdnMwcGU4VG1lcFBQT2RzRGJmUWxlSWt4UjYxdG4tWmZzcGRTSUZ4VmJCS1RzdktQWXJ3aWVWNFlDYzBZeE9xOFAxVTN5UFRfMW55QWVrUENpOTY?oc=5" target="_blank">Russian soldiers twice as likely to die by suicide than civilians</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Indonesia says 24 killed in factory blaze as rescuers search for dozens missing - Reuters
+## US blacklists Megaspeed chip firm linked to Nvidia scandal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2JzeHFuVWp0dk12UzctdTk5TXJIYURhcXVITWE2ZmV3V3Jrb09BenpkWThoenRiY3FyaEp5RUlUMmFmQ0ZJbXhvUGd5RG1nZ0JrNWs1NmhibXFJSXpUUkNOQWZ0VWh2MnVONlRuU1dPVXZXVGVueEx5UEZnWWprWE5iczJIMXZNWlFXeThMZ0kyTWl6aWJfWGNDM3BkY05yYVVxYkw4anppc3hLUmlJX0JOOFhDa19vNGRtdE5YMjJqQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2JzeHFuVWp0dk12UzctdTk5TXJIYURhcXVITWE2ZmV3V3Jrb09BenpkWThoenRiY3FyaEp5RUlUMmFmQ0ZJbXhvUGd5RG1nZ0JrNWs1NmhibXFJSXpUUkNOQWZ0VWh2MnVONlRuU1dPVXZXVGVueEx5UEZnWWprWE5iczJIMXZNWlFXeThMZ0kyTWl6aWJfWGNDM3BkY05yYVVxYkw4anppc3hLUmlJX0JOOFhDa19vNGRtdE5YMjJqQQ?oc=5" target="_blank">Indonesia says 24 killed in factory blaze as rescuers search for dozens missing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5" target="_blank">US blacklists Megaspeed chip firm linked to Nvidia scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## China sets 2030 targets to boost support for older people, childcare - Reuters
+## JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5" target="_blank">China sets 2030 targets to boost support for older people, childcare</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5" target="_blank">JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil holds in tight range as Gulf attacks sustain risk premium - Reuters
+## US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5" target="_blank">Oil holds in tight range as Gulf attacks sustain risk premium</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5" target="_blank">US imposes sanctions on dozens linked to Iran's shadow banking networks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Saudi Arabia's influence loomed large over failed COP31 deal - Reuters
+## Trump saw Nvidia's Huang as protector of open-weight AI models, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5" target="_blank">Saudi Arabia's influence loomed large over failed COP31 deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5" target="_blank">Trump saw Nvidia's Huang as protector of open-weight AI models, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## South Korea vows to stabilise stock market after KOSPI drops 5% - Reuters
+## Zelenskiy says intelligence shows Russia planning new strikes on Ukraine - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxOaF9QVUplYkNRSkhhV19adWpudklsdXcxV0dodVVtYzc1WHJUWTNRMkduX1UxaURycVZTREc4RGpzOURZcFhvSTN3MUxwYUhuNWluQzVfSFAydjZ1bnVFR3VYaXpFY05XVW5OOUR2R0E3VkYwZzJHajh6MndCYUtsNnBxOGhib0dUUFlvRlNIRnp2TGl2Mml3emx5emcyQWFMajdNWGhRNnRkbW5fTk1ZUlV2VURvcHgwcndHN0Z1eDE5S19IS0FTZm43NmVZbUk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOaF9QVUplYkNRSkhhV19adWpudklsdXcxV0dodVVtYzc1WHJUWTNRMkduX1UxaURycVZTREc4RGpzOURZcFhvSTN3MUxwYUhuNWluQzVfSFAydjZ1bnVFR3VYaXpFY05XVW5OOUR2R0E3VkYwZzJHajh6MndCYUtsNnBxOGhib0dUUFlvRlNIRnp2TGl2Mml3emx5emcyQWFMajdNWGhRNnRkbW5fTk1ZUlV2VURvcHgwcndHN0Z1eDE5S19IS0FTZm43NmVZbUk?oc=5" target="_blank">South Korea vows to stabilise stock market after KOSPI drops 5%</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5" target="_blank">Zelenskiy says intelligence shows Russia planning new strikes on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
