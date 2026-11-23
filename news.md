@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-22 19:17:39
+更新时间：2026-11-23 06:54:27
 
-## Goldman Traders See Entry Point in US Stocks But Warn of Risks
+## China Sentences Official to Death for Spying for Foreign Power
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks
+链接：https://www.bloomberg.com/news/articles/2026-11-23/china-sentences-official-death-spying-ma-state-secret-protection-espionage
 
 正文长度：0
 
-摘要：Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.
+摘要：China said it sentenced an official to death for spying for a foreign intelligence service, publicizing the case as a warning against leaking state secrets.
 
 
 ---
 
-## Compass Plans to Move Main Listing to New York, FT Says
+## Earnings Could Signal When to Buy the AI Dip: JPMorgan
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says
+链接：https://www.bloomberg.com/news/videos/2026-11-23/earnings-could-signal-when-to-buy-the-ai-dip-video
 
 正文长度：0
 
-摘要：The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.
+摘要：JPMorgan Co-Head of Global Fundamental Research James Sullivan says earnings revisions might provide a marker for investors looking to move on AI stocks. Nvidia sank 14% on Friday last week, while Anthropic fell 8.5% on its second day of trading and a gauge of chipmakers sank 11%. (Source: Bloomberg)
 
 
 ---
 
-## Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays
+## Malaysia Palm Oil Industry Says CPO Tax-Waiver Window Has Passed
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed
 
 正文长度：0
 
-摘要：The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shannon Kingston, Maryland Gov. Wes Moore, Indiana Gov. Mike Braun, North Carolina Gov. Josh Stein, Utah Gov. Spencer Cox, Renaissance Macro Research Head of Economics Neil Dutta, Texas Rep. Michael McCaul, Former Mayor of Chicago Rahm Emanuel, The Branch Founder and CEO Ravi Gupta, and Rising Communications President Leslie Shedd. (Source: Bloomberg)
+摘要：Malaysia’s palm oil industry says the window in which an export tax waiver would have helped boost shipments and ease a buildup in stockpiles has passed.
 
 
 ---
 
-## Bookmarked: News Stories On Our Reading List
+## Asian Stock Rout Eases as State Support Measures Soothe Jitters
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video
+链接：https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity
 
 正文长度：0
 
-摘要：Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)
+摘要：A selloff in Asian stocks eased after authorities rolled out support measures and US markets showed signs of stabilizing.
 
 
 ---
 
-## By The Way: Headlines You May Have Missed
+## Stock Futures Rally After AI Rout, Havens Decline: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video
+链接：https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap
 
 正文长度：0
 
-摘要：A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)
+摘要：US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.
 
 
 ---
@@ -311,132 +311,132 @@ Though Zara fell in AlixPartners' Consumer Sentiment Index, it has continued to 
 
 ---
 
-## Sanctioned Russian vessel attacked by drones near Finland - Financial Times
+## Progressives are not radical enough on economics - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUTNlcHBCeVpscFJETmFRaDJ1V0pNQWE1Z3ZFSUl1RUdxLUdZUzcxRjdPMGFsVDZDWmZ2MFQzWHNkdHJhcVNKYTRDUmZqcTdUczlGSHdxTVBnUm9FLVExemJUUkNVSERkTTlxUUFoeXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5" target="_blank">Sanctioned Russian vessel attacked by drones near Finland</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUTNlcHBCeVpscFJETmFRaDJ1V0pNQWE1Z3ZFSUl1RUdxLUdZUzcxRjdPMGFsVDZDWmZ2MFQzWHNkdHJhcVNKYTRDUmZqcTdUczlGSHdxTVBnUm9FLVExemJUUkNVSERkTTlxUUFoeXM?oc=5" target="_blank">Progressives are not radical enough on economics</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Democrats will seek to unwind Trump’s tax and tariff policies - Financial Times
+## Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhrTl8yRDE4ZDFnUy1xb0RhQTV0OVB1UldLbjZNaUotZkxjU3BWU1Q0V3Q1Mmt2T3VzU2ZOWE1vX0U4cGR2b0Q1UTVfd3U3dHIteks3WjhOeUtKWFJNRTRrT296MkFtdWVQWktOaHBPXzBfcXk0LW5vU01rRGtzYktLNnI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5" target="_blank">Democrats will seek to unwind Trump’s tax and tariff policies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhrTl8yRDE4ZDFnUy1xb0RhQTV0OVB1UldLbjZNaUotZkxjU3BWU1Q0V3Q1Mmt2T3VzU2ZOWE1vX0U4cGR2b0Q1UTVfd3U3dHIteks3WjhOeUtKWFJNRTRrT296MkFtdWVQWktOaHBPXzBfcXk0LW5vU01rRGtzYktLNnI?oc=5" target="_blank">Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times
+## The Gulf’s ‘new normal’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2pCeHY2Q3JsWjNLdVZPWk1hX053R3BRay1RSlN4WUE3UlpYOEdKU1QtYmNOM2RsbzZoZXlYY20zdnIzbEl3WHRuRV9PaFBac1BxTjB2ZFFmdnFzUk1jNDY4ZmpuZ1lmYzdRMFk0S0hWMG9UeUFKeFA0dHFQbTFyMUIyUHU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0wyMHhjMTVNS01WYWJucU9hVm53SDF2Q0N5Qkl1RHVpa3M2TXhzdW1Pbk5JMGx2UVpFTWFZU196QjdBWjNkN2lqWXM4eXEzdGRzbDItQVd3MEhKUUFGTDRtRlJVWXZrempLbFhWbHg2eXdKQkduU3hhem9JV1l2UmZIQnU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2pCeHY2Q3JsWjNLdVZPWk1hX053R3BRay1RSlN4WUE3UlpYOEdKU1QtYmNOM2RsbzZoZXlYY20zdnIzbEl3WHRuRV9PaFBac1BxTjB2ZFFmdnFzUk1jNDY4ZmpuZ1lmYzdRMFk0S0hWMG9UeUFKeFA0dHFQbTFyMUIyUHU?oc=5" target="_blank">US ports face cyber attack onslaught as hackers target vital trade routes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0wyMHhjMTVNS01WYWJucU9hVm53SDF2Q0N5Qkl1RHVpa3M2TXhzdW1Pbk5JMGx2UVpFTWFZU196QjdBWjNkN2lqWXM4eXEzdGRzbDItQVd3MEhKUUFGTDRtRlJVWXZrempLbFhWbHg2eXdKQkduU3hhem9JV1l2UmZIQnU?oc=5" target="_blank">The Gulf’s ‘new normal’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Did Anthropic and its bankers get a key call wrong after IPO? - Financial Times
+## Novartis rejects AI industry hopes to cure cancer in 5 to 10 years - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U?oc=5" target="_blank">Did Anthropic and its bankers get a key call wrong after IPO?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5" target="_blank">Novartis rejects AI industry hopes to cure cancer in 5 to 10 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Cheap Chinese ecommerce parcels flood the UK - Financial Times
+## The problem with the circular AI economy - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3FmWW5KR0FXM01YU2JKNDJoWGxZMWR6YlM4QU1wZVlkSk5ia2FGR2diRGEzcS1keTdzNGVGX1hJeFpYSHRsbndLR1NESTNabXlVUVg2RkNCN1QzbWQzYXMtcEszZGFtNzFuQ1JEdkx5cnVxOUlMQnFsY0ZyY3Rqc3l1djk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORzk5MEtQdG9xZUNyRXA3cEEyOEx5bmJLOGJWTy1PVEt2enkxbXJfTzkyMDRGa2xLTHJQeWFJVDRBZ0ZXeW1GclpOM05NMDRVZHBWcVljN1RFQ0l6VlNScDRYd1RMWG1rcW5aM1RxOVgycjd1VjEtbmhsUXo4OUhWSGpneTM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3FmWW5KR0FXM01YU2JKNDJoWGxZMWR6YlM4QU1wZVlkSk5ia2FGR2diRGEzcS1keTdzNGVGX1hJeFpYSHRsbndLR1NESTNabXlVUVg2RkNCN1QzbWQzYXMtcEszZGFtNzFuQ1JEdkx5cnVxOUlMQnFsY0ZyY3Rqc3l1djk?oc=5" target="_blank">Cheap Chinese ecommerce parcels flood the UK</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORzk5MEtQdG9xZUNyRXA3cEEyOEx5bmJLOGJWTy1PVEt2enkxbXJfTzkyMDRGa2xLTHJQeWFJVDRBZ0ZXeW1GclpOM05NMDRVZHBWcVljN1RFQ0l6VlNScDRYd1RMWG1rcW5aM1RxOVgycjd1VjEtbmhsUXo4OUhWSGpneTM?oc=5" target="_blank">The problem with the circular AI economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters
+## Indonesia says 24 killed in factory blaze as rescuers search for dozens missing - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2JzeHFuVWp0dk12UzctdTk5TXJIYURhcXVITWE2ZmV3V3Jrb09BenpkWThoenRiY3FyaEp5RUlUMmFmQ0ZJbXhvUGd5RG1nZ0JrNWs1NmhibXFJSXpUUkNOQWZ0VWh2MnVONlRuU1dPVXZXVGVueEx5UEZnWWprWE5iczJIMXZNWlFXeThMZ0kyTWl6aWJfWGNDM3BkY05yYVVxYkw4anppc3hLUmlJX0JOOFhDa19vNGRtdE5YMjJqQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5" target="_blank">US intelligence chief says Putin is 'not America's friend in Ukraine'</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2JzeHFuVWp0dk12UzctdTk5TXJIYURhcXVITWE2ZmV3V3Jrb09BenpkWThoenRiY3FyaEp5RUlUMmFmQ0ZJbXhvUGd5RG1nZ0JrNWs1NmhibXFJSXpUUkNOQWZ0VWh2MnVONlRuU1dPVXZXVGVueEx5UEZnWWprWE5iczJIMXZNWlFXeThMZ0kyTWl6aWJfWGNDM3BkY05yYVVxYkw4anppc3hLUmlJX0JOOFhDa19vNGRtdE5YMjJqQQ?oc=5" target="_blank">Indonesia says 24 killed in factory blaze as rescuers search for dozens missing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Three Russian missiles flew into Poland Friday, prosecutors say - Reuters
+## China sets 2030 targets to boost support for older people, childcare - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5" target="_blank">Three Russian missiles flew into Poland Friday, prosecutors say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5" target="_blank">China sets 2030 targets to boost support for older people, childcare</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters
+## Oil holds in tight range as Gulf attacks sustain risk premium - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5" target="_blank">US seeks answers on Nvidia's sale of chips to China, Bessent says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5" target="_blank">Oil holds in tight range as Gulf attacks sustain risk premium</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order - Reuters
+## Saudi Arabia's influence loomed large over failed COP31 deal - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5" target="_blank">Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5" target="_blank">Saudi Arabia's influence loomed large over failed COP31 deal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump sees difficulties ahead if Schumer leads Senate - Reuters
+## South Korea vows to stabilise stock market after KOSPI drops 5% - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMizwFBVV95cUxOaF9QVUplYkNRSkhhV19adWpudklsdXcxV0dodVVtYzc1WHJUWTNRMkduX1UxaURycVZTREc4RGpzOURZcFhvSTN3MUxwYUhuNWluQzVfSFAydjZ1bnVFR3VYaXpFY05XVW5OOUR2R0E3VkYwZzJHajh6MndCYUtsNnBxOGhib0dUUFlvRlNIRnp2TGl2Mml3emx5emcyQWFMajdNWGhRNnRkbW5fTk1ZUlV2VURvcHgwcndHN0Z1eDE5S19IS0FTZm43NmVZbUk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5" target="_blank">Trump sees difficulties ahead if Schumer leads Senate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOaF9QVUplYkNRSkhhV19adWpudklsdXcxV0dodVVtYzc1WHJUWTNRMkduX1UxaURycVZTREc4RGpzOURZcFhvSTN3MUxwYUhuNWluQzVfSFAydjZ1bnVFR3VYaXpFY05XVW5OOUR2R0E3VkYwZzJHajh6MndCYUtsNnBxOGhib0dUUFlvRlNIRnp2TGl2Mml3emx5emcyQWFMajdNWGhRNnRkbW5fTk1ZUlV2VURvcHgwcndHN0Z1eDE5S19IS0FTZm43NmVZbUk?oc=5" target="_blank">South Korea vows to stabilise stock market after KOSPI drops 5%</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
