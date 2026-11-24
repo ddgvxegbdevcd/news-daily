@@ -1,47 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-11-23 23:40:03
+更新时间：2026-11-24 09:21:03
 
-## Margin Calls Rose 200-Fold in Taiwan as Traders Fled AI Bets
+## China Extends Pause on US Minerals Ban to Maintain Truce
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets
+链接：https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us
 
 正文长度：0
 
-摘要：Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.
+摘要：China extended the suspension of a ban on exports of several critical minerals to the US, preserving a key element of a fragile trade truce despite growing tensions over technology.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Nov. 24
+## Australia Aims to Sign Another Deal to Block China in Pacific
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24
+链接：https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific
 
 正文长度：0
 
-摘要：Oil steadied after sliding almost 4% in the previous session on cautious optimism over efforts to end the US-Iran war.
+摘要：Australia is looking to sign another security deal to limit Chinese access to the Pacific, with the leader of the Solomon Islands in Canberra for talks.
 
 
 ---
 
-## Why Did Nvidia Reinstate Jensen Huang as CEO?
+## What Jensen Huang's Stunning Return Means for the AI Trade
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo
+链接：https://www.bloomberg.com/news/articles/2026-11-24/what-jensen-huang-s-stunning-return-means-for-the-ai-trade
 
 正文长度：0
 
-摘要：<p>A White House pressure campaign and a $5 trillion market slide forced Nvidia to reinstate its founder — proving that in the AI race, boardroom discipline is a luxury shareholders can’t afford.</p>
+摘要：<p><strong>Alexander Altmann on how the world keeps changing.</strong></p>
 
 
 ---
 
-## Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap
+## Odd Lots: What Huang’s Return Means for the AI Trade (Podcast)
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast
+
+正文长度：0
+
+摘要：On Monday morning, Nvidia's board stunned the world and announced that it was reinstating Jensen Huang as CEO. Reportedly, President Trump pressed the board to bring back Huang, and his return kicked off a historic rally for the chip maker. (Nasdaq 100 futures went up so fast yesterday, they briefly halted trading.) All of this follows a weekend full of doom and gloom; the S&amp;P 500 was entering correction territory last Friday, just days after Anthropic's blockbuster IPO. When we spoke with A
+
+
+---
+
+## Stocks Slip as Nvidia Rally Gives Way to Caution: Markets Wrap
 
 来源：彭博社
 
@@ -49,20 +62,7 @@
 
 正文长度：0
 
-摘要：Asian stocks looked set to ride a wave of optimism sparked by Jensen Huang’s return to lead Nvidia Corp., a stunning development that propelled Wall Street toward its best day since April 2025.
-
-
----
-
-## Startup Options Exchange Asks SEC to Approve Two New Venues
-
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues
-
-正文长度：0
-
-摘要：Options Xchange Group Inc., a startup bourse focused on equity derivatives, is seeking to start two new venues.
+摘要：The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. is giving way to caution as traders wait for further evidence that the artificial intelligence trade can build on its rebound.
 
 
 ---
@@ -277,132 +277,67 @@ Akerson said he believes that, like he did, Barra will have major influence in p
 
 ---
 
-## Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang - Financial Times
+## SpaceX-Tesla: the directors negotiating the biggest merger ever - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5" target="_blank">Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5" target="_blank">SpaceX-Tesla: the directors negotiating the biggest merger ever</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount - Financial Times
+## Sanofi strikes $41bn deal to buy US biotech Insmed - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXRqYWdBS2lmTXl0cGRSN0lSa1JjMTBKNzlLSktkUXBQaW9idWU1b3hSc0kwUExtMV9SODYzSHU4REJWakg5cDc3X01jU2ctMUdRV0w1eHRBUXh0NjlQUDB6MXVwb09lVUZZdUNBNEhpLWw2V2hPSXF1QlAteEpFSEQ2bFU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXRqYWdBS2lmTXl0cGRSN0lSa1JjMTBKNzlLSktkUXBQaW9idWU1b3hSc0kwUExtMV9SODYzSHU4REJWakg5cDc3X01jU2ctMUdRV0w1eHRBUXh0NjlQUDB6MXVwb09lVUZZdUNBNEhpLWw2V2hPSXF1QlAteEpFSEQ2bFU?oc=5" target="_blank">CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5" target="_blank">Sanofi strikes $41bn deal to buy US biotech Insmed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Emmanuel Macron proposes French budget ‘golden rule’ - Financial Times
+## Pentagon delays Patriot missile shipments to Ukraine - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0JYaFRwcF8wNUFnSHJqUkZTWEp3Q2VxRm9ISG9sMHgwZFE4UHVhbGVuNFozZFgwZHFOaU1DZk12a3J0Q2VQV3MxVnFQaVFXS2ZIYVN3QTVFcl9sOEpfQ3FjTm14aHA5SzNyQTVZNjBCNGU1c0RhNjNaaERFN0N4VVZmNVE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhpUFlQemw4aFRzcE80SmNCQWMySWJMd1dhRjR0ZWo1ZXBDS19Hc3paUEY2OUstOG84cFo1S3BGWmVHVDVrS29wcVRVVTlUYTQwd2R0Nkl6dnBsd1NLc0hUZUNhSE90TS05NzdQV3lXZFo4dm94akNrU0Mzcy16SFdqODQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0JYaFRwcF8wNUFnSHJqUkZTWEp3Q2VxRm9ISG9sMHgwZFE4UHVhbGVuNFozZFgwZHFOaU1DZk12a3J0Q2VQV3MxVnFQaVFXS2ZIYVN3QTVFcl9sOEpfQ3FjTm14aHA5SzNyQTVZNjBCNGU1c0RhNjNaaERFN0N4VVZmNVE?oc=5" target="_blank">Emmanuel Macron proposes French budget ‘golden rule’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhpUFlQemw4aFRzcE80SmNCQWMySWJMd1dhRjR0ZWo1ZXBDS19Hc3paUEY2OUstOG84cFo1S3BGWmVHVDVrS29wcVRVVTlUYTQwd2R0Nkl6dnBsd1NLc0hUZUNhSE90TS05NzdQV3lXZFo4dm94akNrU0Mzcy16SFdqODQ?oc=5" target="_blank">Pentagon delays Patriot missile shipments to Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Novartis rejects AI industry hopes to cure cancer in five to 10 years - Financial Times
+## European fertiliser suppliers shutting plants as energy prices soar - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHBBd2lNclJnQ3JMM1B1dlg2b29oTkVjVUcyLU5QR1I0X1NQZjhZQVUwTUQ1b2YxTUpzWXZGSjNVNFR6eFVCYjQ5aXFoZTAyWElESEw1ZHkxckxzV3BPbWVjRXNHd3BUaklqWFFxbTkwazJJR0w5Q3FISWo0OFZSNEJMZWI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5" target="_blank">Novartis rejects AI industry hopes to cure cancer in five to 10 years</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHBBd2lNclJnQ3JMM1B1dlg2b29oTkVjVUcyLU5QR1I0X1NQZjhZQVUwTUQ1b2YxTUpzWXZGSjNVNFR6eFVCYjQ5aXFoZTAyWElESEw1ZHkxckxzV3BPbWVjRXNHd3BUaklqWFFxbTkwazJJR0w5Q3FISWo0OFZSNEJMZWI?oc=5" target="_blank">European fertiliser suppliers shutting plants as energy prices soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Russian soldiers twice as likely to die by suicide than civilians - Financial Times
+## Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZmbDFiR29kd0kxa3lBenZ6TUpDRjJBaDQ2TEYxNXlYVU9RaG5yMHlRdnMwcGU4VG1lcFBQT2RzRGJmUWxlSWt4UjYxdG4tWmZzcGRTSUZ4VmJCS1RzdktQWXJ3aWVWNFlDYzBZeE9xOFAxVTN5UFRfMW55QWVrUENpOTY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxydFBUdkFaUF9Ec3hwRDhHZEhzLUt2TWdSYXVLaU5KWkhJUUdwZWk0RUxMWjFoeTNZWGk3QnkyVHZwZk1CTEdqVGY1Z3BraUJSd2djdjJ5VHI2bDE5M3RRRmdUMW5pejg3N0o5UXFCSmM2TWRuZ2U3NU5zbXBmOGxmb0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZmbDFiR29kd0kxa3lBenZ6TUpDRjJBaDQ2TEYxNXlYVU9RaG5yMHlRdnMwcGU4VG1lcFBQT2RzRGJmUWxlSWt4UjYxdG4tWmZzcGRTSUZ4VmJCS1RzdktQWXJ3aWVWNFlDYzBZeE9xOFAxVTN5UFRfMW55QWVrUENpOTY?oc=5" target="_blank">Russian soldiers twice as likely to die by suicide than civilians</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## US blacklists Megaspeed chip firm linked to Nvidia scandal - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5" target="_blank">US blacklists Megaspeed chip firm linked to Nvidia scandal</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5" target="_blank">JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5" target="_blank">US imposes sanctions on dozens linked to Iran's shadow banking networks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Trump saw Nvidia's Huang as protector of open-weight AI models, sources say - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5" target="_blank">Trump saw Nvidia's Huang as protector of open-weight AI models, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Zelenskiy says intelligence shows Russia planning new strikes on Ukraine - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5" target="_blank">Zelenskiy says intelligence shows Russia planning new strikes on Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxydFBUdkFaUF9Ec3hwRDhHZEhzLUt2TWdSYXVLaU5KWkhJUUdwZWk0RUxMWjFoeTNZWGk3QnkyVHZwZk1CTEdqVGY1Z3BraUJSd2djdjJ5VHI2bDE5M3RRRmdUMW5pejg3N0o5UXFCSmM2TWRuZ2U3NU5zbXBmOGxmb0o?oc=5" target="_blank">Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
