@@ -1,68 +1,192 @@
 # 每日财经新闻
 
-更新时间：2026-11-24 09:21:03
+更新时间：2026-11-24 22:11:06
 
-## China Extends Pause on US Minerals Ban to Maintain Truce
+## Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us
+链接：https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally
 
 正文长度：0
 
-摘要：China extended the suspension of a ban on exports of several critical minerals to the US, preserving a key element of a fragile trade truce despite growing tensions over technology.
+摘要：Gold slumped, erasing most of Monday’s dramatic rebound as investors bet on further interest-rate hikes while a tariff-driven rout in equities prompted some traders to sell bullion to cover losses elsewhere.
 
 
 ---
 
-## Australia Aims to Sign Another Deal to Block China in Pacific
+## US Readies Tariff Hike on China, EU Goods
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific
+链接：https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video
 
 正文长度：0
 
-摘要：Australia is looking to sign another security deal to limit Chinese access to the Pacific, with the leader of the Solomon Islands in Canberra for talks.
+摘要：The US is set to announce as soon as Tuesday plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Alicia Diaz reports. (Source: Bloomberg)
 
 
 ---
 
-## What Jensen Huang's Stunning Return Means for the AI Trade
+## Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/what-jensen-huang-s-stunning-return-means-for-the-ai-trade
+链接：https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally
 
 正文长度：0
 
-摘要：<p><strong>Alexander Altmann on how the world keeps changing.</strong></p>
+摘要：The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.
 
 
 ---
 
-## Odd Lots: What Huang’s Return Means for the AI Trade (Podcast)
+## Latam Currencies Lag Emerging Peers as Global Selloff Weighs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast
+链接：https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade
 
 正文长度：0
 
-摘要：On Monday morning, Nvidia's board stunned the world and announced that it was reinstating Jensen Huang as CEO. Reportedly, President Trump pressed the board to bring back Huang, and his return kicked off a historic rally for the chip maker. (Nasdaq 100 futures went up so fast yesterday, they briefly halted trading.) All of this follows a weekend full of doom and gloom; the S&amp;P 500 was entering correction territory last Friday, just days after Anthropic's blockbuster IPO. When we spoke with A
+摘要：Most Latin American currencies slumped Tuesday as falling metal prices and a renewed selloff in US tech stocks fanned a move away from riskier assets.
 
 
 ---
 
-## Stocks Slip as Nvidia Rally Gives Way to Caution: Markets Wrap
+## Quant Funds Are Having a Hard Time Keeping Up With This Market
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates
+链接：https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market
 
 正文长度：0
 
-摘要：The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. is giving way to caution as traders wait for further evidence that the artificial intelligence trade can build on its rebound.
+摘要：The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.
+
+
+---
+
+## Retail turnarounds are taking hold just in time for the holiday season
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html
+
+正文长度：3601
+
+摘要：Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Once-struggling retailers are entering the holiday quarter with improved performance and sales momentum as turnaround efforts begin to resonate with shoppers.
+A handful of earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer, stronger execution and demand for the right products at the right price.
+Kohl's reported comparable sales growth of 1.2% for the period ended Oct. 31 and raised its full-year outlook as CEO Michael Bender said customers "have remained resilient" but are "migrating to value with their purchases."
+He tied improvement to the company's work on product assortment, store experience and value.
+Best Buy also on Tuesday posted its highest comparable sales growth in five years, at 6.1%, which prompted the electronics retailer to raise its full-year outlook.
+"We have a tremendous amount of momentum," CEO Jason Bonfig told CNBC in an interview. "The fact that we saw pretty much broad-based growth across almost all of our categories is a lot of momentum that we're very excited about."
+The company also credited execution, market share gains and a compelling product cycle alongside growing customer demand.
+At Dick's Sporting Goods, quarterly comparable sales rose 2.6% at the core business and 0.5% at Foot Locker. CEO Lauren Hobart said "all income demographics grew" and the company "didn't see trade-down from best to better or better to good."
+She similarly pointed to new products and market share gains within the category as contributing to the strong quarter. She also highlighted continued improvement at Foot Locker.
+All three companies have been undergoing efforts to boost sales and get the right products on shelves to meet customer demand.
+Target, likewise undergoing revitalization efforts, last week reported comparable sales growth of 5.6% in the third quarter, fueled by a 5% increase in comparable traffic. The retailer raised its full-year outlook.
+CEO Michael Fiddelke at the time called the traffic gain "a healthy sign that guests are responding to our changes and choosing Target more often."
+Even Gap CEO Richard Dickson told CNBC the company has moved from "rebuild mode" to "turnaround mode" at its Old Navy banner, a sign of progress, albeit not a broad-based portfolio recovery.
+Michael Baker, a retail analyst at D.A. Davidson, told CNBC he sees both a resilient consumer and company-specific improvements as driving sector strength.
+"Retail sales have been more resilient than most think," Baker said. His analysis showed retail sales, excluding autos and gas, rose 5.1% in the third quarter on a nonseasonally adjusted basis — the strongest quarter since the pandemic.
+But he cautioned that growth appears to be coming more from transaction size than traffic, with inflation, promotions and higher units per transaction driving up spend.
+Dollar Tree, which reported better-than-expected earnings on Tuesday morning, posted a 3.8% increase to traffic, accelerating from 0.4% growth in the prior quarter, suggesting more shoppers may be bargain hunting. Comparable sales at the retailer increased 4.6% during the period.
+"Consumers are under pressure, and they are increasingly selective about where and how they spend," said Dollar Tree CEO Michael Creedon on the company's earnings call. "When under pressure, shoppers prioritize value and buy closer to need."
+Comparable sales of everyday essentials rose 8.9% at Dollar Tree stores in the third quarter, while sales of nonessential items were essentially flat, the company said.
+— CNBC's Laya Neelakandan contributed to this report.
+
+</details>
+
+
+---
+
+## Best Buy reports comparable sales growth of 6.1%, highest in five years
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html
+
+正文长度：3253
+
+摘要：Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Best Buy on Tuesday beat Wall Street expectations on the top and bottom lines for its third fiscal quarter and raised its full-year guidance.
+The consumer electronics retailer reported comparable sales growth of 6.1%, a significant beat over expectations of 2.3%, according to market intelligence platform StreetAccount. The company said that growth was its highest in five years. It reported a domestic comparable sales increase of 6.2% and international comparable sales growth of 4.9%.
+"We have a tremendous amount of momentum," CEO Jason Bonfig told CNBC. "The fact that we saw pretty much broad-based growth across almost all of our categories is a lot of momentum that we're very excited about."
+Best Buy also raised its guidance for the rest of the year. It's now expecting full-year revenue of between $43 billion and $43.3 billion compared with a previous expectation of between $42.3 billion and $42.8 billion. It's expecting comparable sales to be up 3.4% to 4% compared with prior guidance of between 1.9% and 3%.
+The earnings report is the company's first since Bonfig took over as CEO from Corie Barry at the beginning of the month.
+Bonfig said the retailer saw overperformance in both computing and gaming for the quarter, driven by recent game launches and a targeted product assortment.
+Looking ahead into the holiday season, he said the Best Buy consumer remains "resilient," but that they are focused on getting value wherever they can.
+"We did see not only our current customers continue to be engaged, but we actually did see more new customers come into the brand, as well as we had some customers that we re-engaged as well," Bonfig said. "So those are really, really positive signs for us in Q3, and all of that was factored into the way that we guided for Q4 and the rest of the year."
+Here's how the company performed in the period ended Oct. 31 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: $1.62 adjusted vs. $1.49 expected
+- Revenue: $10.24 billion vs. $9.90 billion expected
+Best Buy reported net income of $353 million, or $1.66 per share, compared with $140 million, or 66 cents per share, the year prior. Adjusting for one-time items, including restructuring charges, Best Buy posted adjusted earnings of $1.62 per share.
+Revenue rose to $10.24 billion from $9.67 billion in the year-ago period. Best Buy reported domestic revenue of $9.42 billion and international revenue of $820 million.
+Tuesday's earnings are the latest in a series of strong reports from the retailer, which has been instituting a turnaround strategy to return to growth after getting hit by declining foot traffic, lower consumer sentiment, tariffs and memory costs.
+Shares of Best Buy are up nearly 45% this year.
+Bonfig told CNBC last quarter that the launch of "Grand Theft Auto VI" in the current quarter is expected to drive sales in the gaming category, which has been seeing gains over the past year. Last month, Best Buy launched a new gaming experience for customers featuring gaming content, technology and special offers, among other features.
+"I think there'll still be opportunities for gaming to continue to drive our business moving forward," Bonfig told CNBC on Tuesday.
+
+</details>
+
+
+---
+
+## Some U.S. food banks see demand top pandemic levels
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html
+
+正文长度：6742
+
+摘要：A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> During the Covid-19 pandemic, Greg Silverman watched an MTA bus driver pull over on Manhattan's Upper West Side, let his passengers off and run across the street toward him.
+Silverman, who runs New York nonprofit West Side Campaign Against Hunger, initially thought the driver wanted to use the bathroom at the church where the food distribution was taking place. Instead, the man asked, "Can I get some food?"
+"He was a full-time employee," Silverman said. "You are an essential personnel, making the city survive and you need food."
+Now, Silverman said, his organization has seen demand surpass even the levels it observed during that time of crisis when the U.S. economy ground to a halt — and many of the people now seeking food also have jobs. Silverman expects the nonprofit to distribute as much as 6 million pounds of food this year.
+"The height of the pandemic was not the height of need, by any means," he said.
+Echoes of the pandemic
+The pressure on the emergency food system extends beyond New York. Nationally, use of charitable food programs remains elevated as sustained inflation makes it harder for Americans to afford food, housing and healthcare. Higher prices come at the same time that the federal government has restricted food aid.
+The Department of Agriculture's latest annual report found that 13.7% of U.S. households, roughly 18.3 million households, experienced food insecurity in 2024. That rate was significantly higher than in every year from 2016 through 2021.
+The pandemic initially brought a surge in demand for charitable food programs, which was followed by government support. In the years that followed, pandemic-era policies such as expanded Supplemental Nutrition Assistance Program, or SNAP, benefits, the enhanced child tax credit and school meal programs phased out as inflation spiked.
+"This is not because you can't go to work," said City Harvest President Carlos Rodriguez. "Primarily, your work and your wages are just not keeping up with the way costs have gone up in the last five years alone."
+City Harvest, which works with food providers across the five boroughs of New York, told CNBC 1 in 5 New Yorkers is currently experiencing food insecurity, or limited access to enough food because of a lack of money or other resources. That is up from 1 in 6 a year earlier, and 1 in 8 before the pandemic.
+Average monthly visits to food pantries and soup kitchens in New York are also 85% higher than before the pandemic, said Rodriguez.
+In the Federal Reserve's October Beige Book, the central bank's New York regional branch described a sharp rise in first-time food pantry users. One nonprofit leader told the Federal Reserve Bank of New York that the strain was comparable to the pandemic, "but without the same philanthropic and government support."
+Data from Plentiful, a technology platform that connects people with food pantries and tracks their usage, also points to growing demand and limited resources.
+"For pantries using our reservation and pre-registration features, we see that the overwhelming majority of those are at or over capacity," said Catherine Compitello, CEO of Plentiful. "Demand is growing while supply is not."
+First-time users of Plentiful in New York City rose roughly 56% from August to October, Compitello said. It was the second-largest fall surge since 2016; the only larger one came during last year's federal government shutdown, when delayed SNAP benefits drove more people to seek food assistance.
+Compitello said that when families have trouble affording essentials, they often prioritize healthcare, transportation, childcare and utilities, leaving food as the expense they cut back on.
+Hunger around the country
+Demand for food banks is rising in other regions of the country, and nonprofits are facing their own operational challenges as they try to meet it.
+A spokesperson for the Los Angeles Regional Food Bank told CNBC the organization's diesel bill more than doubled in September, to roughly $75,000, adding to the cost of delivering food and running refrigerated trucks.
+Demand in the region is also spiking. Distribution in the Los Angeles area for January through September totaled 116 million pounds of food and grocery products — the equivalent of 93 million meals — and slightly higher than a near-record year in 2025, according to the Los Angeles Regional Food Bank.
+Federal food aid changes have exacerbated the problems. Rodriguez of City Harvest described SNAP as a first line of defense against hunger, saying the program can provide as many as nine meals for every one meal the organization provides. But City Harvest has estimated at least 8.7% of SNAP recipients in New York City lost benefits over the past year, after congressional Republicans and President Donald Trump approved work certification requirements and changes to eligibility.
+The pressure is also mounting in Los Angeles County, where roughly 260,000 CalFresh recipients are subject to expanded federal work requirements that took effect in June. CalFresh is California's version of SNAP.
+That does not mean all 260,000 will lose benefits, since people who meet the work requirements or qualify for an exemption can remain eligible. But a Los Angeles Regional Food Bank spokesperson told CNBC the changes add another layer of uncertainty for households already struggling with food costs.
+In Atlanta, the pressure extends beyond the city itself to the surrounding region. The Atlanta Community Food Bank serves about 270,000 households a month, or nearly 700,000 people, through partner pantries across North Georgia. President and CEO Kyle Waide said the number of people it serves has jumped more than 70% in five years.
+"Much of that increase is among people whose incomes are too high to qualify for federal benefit programs," said Waide.
+Under current SNAP guidelines in Georgia, most households must have gross monthly income at or below 130% of the federal poverty level to qualify. They must also meet a separate net income test. For fiscal 2027, which began Oct. 1, the gross income limit is $2,960 a month for a household of three, or about $35,520 annually, and $3,575 a month for a household of four, or $42,900 a year.
+More than 60% of Atlanta Community Food Bank clients have household incomes above the cutoff for SNAP eligibility, Waide said, generally in the mid-to-upper $30,000 range depending on household size. The food bank does not collect everyone's income, he said, but the figure is based on survey estimates.
+Given those dynamics, Waide said he does not expect the need to ease.
+"We're preparing for the level of demand to stay where it is today, or even increase more," Waide said. "We don't see a big source of relief coming anytime soon."
+
+</details>
 
 
 ---
@@ -137,142 +261,54 @@ The co-founder also told employees who were in dire financial straits to contact
 
 ---
 
-## International first class is over for U.S. airlines. Enter the mega business-class cabin
+## Donald Trump readies raft of new tariffs on major economies - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：6916
+正文长度：0
 
-摘要：Airlines are opting to build giant business-class cabins with ever-more luxurious suites.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> The era of U.S. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. In its place will be a massive business-class cabin with room for 70 passengers.
-U.S. airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour. Delta Air Lines and United Airlines have already taken this step. American was the last of the U.S. airlines to still have first class on long-haul international routes.
-Many travelers might not notice the difference. That's because of airlines' investments into business class: new suites, bigger screens, better technology like device-charging pads, and improved bedding.
-It's part of airlines' big bet on mass luxury. Consumers have been willing to shell out more to fly comfortably, which is helping to boost airline revenue. That's all the more important as costs of everything from fuel to airport landing fees have been rising, soaking up more of the industry's profits.
-The retirement of first class ends a more-than-six-decade stretch of the jet age that in the early days included service like seat-side carving of chateaubriand and meals served on fine bone china.
-A few decades ago, business class was much smaller, with two-by-two seats in some configurations, and recliners, not the lie-flat seats that dominate those cabins now.
-"When you've got individual pods in biz class, and you've got a comfortable enough seat and bedding and decent wine, for a lot of people this is good enough," said Henry Harteveldt, founder of travel consulting firm Atmosphere Research Group and a former airline executive.
-The over-the-top dining of the early days of international first class was a form of entertainment, long before laptops, personal seat-back screens and in-flight Wi-Fi, or even the promise of sleep on lie-flat beds, but customers still eat lots on board, Harteveldt said.
-"People say they want to sleep but then they stay up and they eat every morsel," he said. "They're hypocrites."
-There was still a hefty price gap between first and business.
-A flight between Los Angeles and London on American's Boeing 777-300ER this week went for $12,994 in business class for a one-way ticket and $15,669 for a first-class seat.
-American's last flight with international first class departed Friday morning local time in Sydney, bound for Los Angeles.
-Its new cabin on its Boeing 777-300ERs will feature 70 business-class suites, the most of any U.S. airline. Pre-overhaul, the cabins had been operating with eight first-class suites and 52 pods in business, though the remodeling is ongoing. American is also flying a subfleet of 787-9 Dreamliners that have 51 business-class suites. (United is putting 64 new suites on that aircraft.)
-Part of the allure is that some companies allow employees to book business-class tickets, but not first class.
-American Airlines told CNBC it's growing its business-class cabins across the fleet. It's evaluating increasing the number of suites on its smaller long-haul jets, the Boeing 787-8 Dreamliners, from 20 currently to somewhere in the 30s.
-"You don't have enough seats to make the seat cost competitive," Nat Pieper, American's chief commercial officer, said in an interview this month. "So what you need to do to make that airplane work is it's got to be a yield play. You need more business-class seats."
-No soup, no olives
-Differences between first and business classes on American lately came down to details.
-On American's first-class long-haul section, passengers got olives with warm nuts to accompany their beverage early in the flight, while there were no olives for business class.
-First class got a soup; business did not. First class got a warm dessert served a la mode in addition to the cold dessert or fruit and cheese plate both cabins were offered.
-And there was no memory foam lumbar pillow for business class like there was in first, American said. But otherwise, the experiences were fairly similar for passengers. They still got better food options and service than economy passengers, along with their bigger seats, early boarding and lounge access.
-"It's not like the bed can go any flatter than 180 degrees," Harteveldt said. "The bedding can be thicker, and the food nicer."
-Delta and United have already replaced international, long-haul first class with dozens of their Delta One and Polaris business lie-flat suites, respectively, each of which is getting upgrades now.
-American will continue offering a separate lie-flat first class on its Airbus A321T subfleet it uses for domestic cross-country flying until early 2027. But then that goes away, too.
-Meanwhile, airlines over the past decade have added a premium economy section, which sits between business class and economy. It features recliner seats similar to those in domestic first class, often with foot rests, meals served on actual plates, larger seat-back screens than economy and earlier boarding.
-Carving up business class
-Airlines are now cutting up business class into different segments, something they've done for more than a decade with the coach cabin's basic economy, standard and extra legroom seats.
-United and Delta this year each announced their most expensive cabins will be sold with basic options, which are more restrictive and don't include things like the ability to pick your seat ahead of time or get access to a special airport lounge.
-There are also a few seats in some of the business-class cabins that are roomier, like American's Flagship Suite Preferred and United's Polaris Studio. Even the guest seating in the United suite varies with "standard and companion ottomans," the latter including a seatbelt so you can ask "another Polaris passenger to visit you between takeoff and landing for a drink, chat or game," the airline says.
-There's more to come.
-"I don't think we found the limit on segmentation," United CFO Mike Leskinen told CNBC on Thursday. "We have a few things on the drawing board. We're not done."
-First class still flies globally
-Although U.S. carriers are moving away from the designation, first class is far from dead.
-Singapore Airlines, Germany's Lufthansa, British Airways and Air France have unveiled updated first-class cabins and other service improvements like food.
-British Airways last month said it will build a record 106-suite business class on its Airbus A380 aircraft, the world's largest passenger airplane, but it's also upgrading its first class on board.
-Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegiant Air are introducing domestic or short-haul first-class seats.
-"We're going to be able to do that at a really low price comparatively to what you're used to out there in the marketplace," Frontier Chief Commercial Officer Bobby Schroeter said last month.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5" target="_blank">Donald Trump readies raft of new tariffs on major economies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Pizza chains are under pressure. GLP-1 use is only one part of the problem
+## Jensen Huang says he still does not believe in succession planning - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzJvOVdZUHhrSy0ySnRGVmpja2FBb1dHcnA4Sm4tdjdPUkp5R241NmcybDc0elRjWll5QlN3U2ZEU2tCaEIxNUJGZkNuNFRIeGcxNzlOdEpwams2US1nY0ppNnlLRGhJNTRyTXBSVzJQN21lQWw0ZkhVWnpselc1MDNpS08?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：5323
+正文长度：0
 
-摘要：Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Big pizza chains are struggling as weaker consumer spending, a wider variety of dining options and the rise of GLP-1 medications weigh on their sales.
-The pandemic was a boom time for Domino's Pizza, Papa Johns, Little Caesars and Pizza Hut. But since dining rooms reopened, the biggest U.S. pizza chains have faced an uphill battle to retain their customers.
-These days, consumers are watching their discretionary spending but have more delivery and takeout options when they do decide to order, thanks to the accessibility of third-party platforms. Plus, food quality and the customer experience have become more important to diners who are looking for value when they order from restaurants.
-As a result of pizza fatigue and challenges facing the broader restaurant industry, the number of U.S. pizza restaurants has tumbled. Since pizza locations hit a peak of 83,035 nationwide in August 2019, more than 9,600 pizzerias had closed their doors as of July 2026, according to data from Datassential.
-In 2025, sales at U.S. pizza restaurants fell 0.3%, according to Technomic data. Sales at independent pizzerias slipped 0.4%. Chains, which account for about two-thirds of the domestic pizza category sales, saw revenue shrink 0.3%.
-Papa Johns reported that North American same-store sales declined 2.5% in 2025. Pizza Hut's U.S. same-store sales fell 5%. Among the three pizza chains that were publicly traded last year, only Domino's posted annual same-store sales growth at its U.S. restaurants, with an increase of 3%.
-It isn't just diners who have lost their appetite for pizza. Since March 2020, Papa Johns stock has lost about two-thirds of its value. Even shares of Domino's, which dominates the category, have seen gains of only about 2% in that time. For comparison, the S&P 500 has climbed about 150% over the same period.
-And Yum Brands sold Pizza Hut this year, offloading the laggard of its portfolio to LongRange Capital and Yum China after about two decades of stagnating sales.
-"Pizza Hut has been a detractor for YUM ... Going forward, YUM won't be tripped up by pizza category dynamics (discounting, etc.), translating to stronger growth and higher concentration in higher growth industry segments and markets," Wells Fargo analyst Zachary Fadem wrote in a research note in September.
-Pizza's challenges
-Pizza chains now have significantly more competition for diners' dollars than they did in 2020. Third-party delivery platforms, which grew in popularity during the pandemic, offer a wide variety of cuisines beyond the traditional pizza and Chinese. As a result, Domino's and Papa John's have to compete with other fast-food chains, like McDonald's and Chick-fil-A, for DoorDash and Uber Eats orders.
-As pizza has grown more expensive, a pie seems less appealing to budget-conscious diners. The average large cheese pizza is now almost $17, according to the 2026 Pizza Power Report from PMQ Pizza, a trade publication.
-Plus, frozen pizza is another convenient option, with a lower price tag. Retail sales of single- and multi-serve frozen pizza rose 2.9% in the 52 weeks ended Nov. 7 compared with the same period in 2022, according to NielsenIQ data.
-"When the American consumer is focused on the least expensive eating occasion, the items that are in my pantry, my refrigerator and my freezer win every single time," said David Portalatin, a food and food service industry advisor for Circana.
-Convenience stores like Casey's General Stores have also won over customers with pizza at a low price point.
-"We believe that [Casey's] has an advantage over [quick-service restaurants] and dollar stores, which have fewer options to navigate the persistent inflationary environment, while [Casey's] can offset food pressures with margins," Bank of America Securities analyst Sara Senatore wrote in a research note published in June.
-She added that geographic overlap of locations suggests that Casey's is stealing share from Pizza Hut.
-The biggest pizza chains have also been slow to adapt to shifting consumer attitudes toward nutrition. For example, of the four biggest chains, Papa Johns is the only one to even test a pizza crust with added protein as more diners prioritize it in their diets. And the test was only in one Atlanta restaurant — for a single day.
-Pizza's nutritional content more broadly is another drag for the category. Its carbohydrate and fat content, from its dough and cheese, respectively, can make it less appealing for consumers on GLP-1 drugs, which have skyrocketed in use over the last several years.
-Spending on pizza quick-service restaurants has fallen 22.2% per GLP-1 household after six to eight months using the medications, according to a 2026 survey published by PwC.
-To be sure, pizza's recent struggles do not mean an existential crisis for the category. Total pizza servings are down only about 1% this year, Circana's Portalatin said.
-And chains are trying to reverse that downturn in servings. In August, Domino's launched the Domino, a customizable Detroit-style personal pizza to attract solo diners. In November, Papa Johns unveiled a new turnaround plan focusing on improving food consistency and restaurant operations. And Pizza Hut is running a holiday-themed meal deal.
-"Pizza's not going anywhere," Portalatin said. "The American consumer loves pizza."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzJvOVdZUHhrSy0ySnRGVmpja2FBb1dHcnA4Sm4tdjdPUkp5R241NmcybDc0elRjWll5QlN3U2ZEU2tCaEIxNUJGZkNuNFRIeGcxNzlOdEpwams2US1nY0ppNnlLRGhJNTRyTXBSVzJQN21lQWw0ZkhVWnpselc1MDNpS08?oc=5" target="_blank">Jensen Huang says he still does not believe in succession planning</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'
+## Venezuela unveils $240bn debt pile ahead of historic restructuring - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZDS2s5a3NJakp5c2FHbUpSaS1ObHVfaHNkUm84RGdlLUNadURvNGl3LXdtamRNak5Yd0IyXzlRVUFBSHh6Q2I4TU9taTJ3Z1FuemdSV0VXNHBLT0JFeHEzUWZCTmx2UHJHV2g3TzNZbnBObXJiSUx0Q0t6UFFLcmxZV3M?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：4450
+正文长度：0
 
-摘要：Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZDS2s5a3NJakp5c2FHbUpSaS1ObHVfaHNkUm84RGdlLUNadURvNGl3LXdtamRNak5Yd0IyXzlRVUFBSHh6Q2I4TU9taTJ3Z1FuemdSV0VXNHBLT0JFeHEzUWZCTmx2UHJHV2g3TzNZbnBObXJiSUx0Q0t6UFFLcmxZV3M?oc=5" target="_blank">Venezuela unveils $240bn debt pile ahead of historic restructuring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> Former General Motors CEO and Chairman Dan Akerson doesn't mince words when asked about the challenges the automaker faces in finding a successor for GM CEO Mary Barra: "It's going to be tough."
-He should know. The 78-year-old businessman and U.S. Navy veteran helped with his own succession planning and recommended to GM's board in 2013 that Barra replace him as CEO. She has held the top job since Jan. 15, 2014.
-Akerson said Barra will be hard to replace, citing her success and prominence as the first female CEO of any major automaker and the ongoing challenges facing the automotive industry, such as artificial intelligence, vehicle digitalization, and the rise of China and autonomous vehicles.
-"It's going to be very, very dynamic," Akerson told CNBC during a phone interview. "It's going to be a big change."
-Akerson declined to discuss potential internal candidates such as GM Chief Product Officer Sterling Anderson, CFO Paul Jacobson or President Mark Reuss, but he said the eventual successor needs to be dynamic and, if from the outside, "adaptable."
-His comments to CNBC follow a Wall Street Journal report on Tuesday that GM is working with an executive search firm to identify possible outside candidates to succeed Barra, in addition to internal prospects. GM declined to comment on the report or Barra's succession.
-Akerson, who came to GM as an outsider from The Carlyle Group in 2010, said selecting an outside candidate might be risky if there are already executives within the organization who have similar leadership and technical expertise.
-"Is there anybody in the organization that has that background that you know better day to day over a period of time? You may be taking a risk by bringing in an outsider," he said.
-The prospect of an outsider leading GM would be unusual in the auto industry, where major automakers have generally promoted internal CEO candidates, apart from periods of exceptional disruption such as the Great Recession.
-Stellantis, BMW, Toyota Motor, Nissan Motor and Hyundai Motor have all appointed internal executives to their CEO positions in recent years.
-GM succession planning
-Barra has said several times that her successor and her longevity in the role would be determined by the board.
-A notable influence is likely Hewlett Packard veteran Patricia Russo, GM's longest-serving board member who has been on the board since 2009 and leads its CEO succession planning as independent lead director.
-GM's CEO succession planning is done "at least annually," according to the company's yearly proxy filing. That process includes Barra providing the board "with recommendations for, and evaluations of, potential CEO successors and discusses developmental plans for these successors," according to the filing.
-That is followed by board members engaging "with CEO candidates and senior management talent at Board and committee meetings and other forums to enable directors to personally assess candidates."
-Selecting Barra as CEO
-When Akerson was preparing to retire, Barra was among a pool of four candidates — two longtime GM employees and two relative newcomers — who were finalists for CEO in 2013, he said.
-Akerson said he put the finalists through an extended evaluation, asking how they viewed GM's strengths and weaknesses, how they would organize the company, and their willingness to work together, potentially with other CEO candidates who didn't get the job.
-Akerson said the final decision to appoint Barra was done at a day-and-a-half-long board meeting in Washington. The candidate field was narrowed to Barra and former GM executive Dan Ammann, an ex-Wall Street banker who was GM's CFO before leaving the automaker's Cruise unit, reportedly over a disagreement in strategy with Barra, in 2021.
-"Mary's very deserving of all the accolades she's received," Akerson said. "She's done a terrific job."
-Barra has been leading the automaker for nearly 13 years, which makes her the longest-serving CEO of the automaker since Alfred Sloan retired after a 23-year career as CEO in 1946.
-Akerson said he believes that, like he did, Barra will have major influence in picking her successor. He described that dynamic as integral to continuing her legacy leading the automaker.
-"This is important. I think if she doesn't pick the right person, in four or five years from now and things are back in the trough, that will tarnish her history. But I think she'll pick the right one," he said.
+---
 
-</details>
+## Shanghai’s powerful Communist Party boss toppled as Xi Jinping escalates purge - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmM3SHNuQmxkekR6a29xSXBEclA0cUdsMG5oN21lQS0ycHpBSlNPNk5KeFkxNi1FRFRzTGRqdjlNS0xvSnVuWXM1Tkw3QUoyQy1WZXVRZVlQVmpiWlZFRUNPTmVLWno0OGN2YnlDZk1IRTdHMFVPSExneVlnbG9EaWhxM04?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmM3SHNuQmxkekR6a29xSXBEclA0cUdsMG5oN21lQS0ycHpBSlNPNk5KeFkxNi1FRFRzTGRqdjlNS0xvSnVuWXM1Tkw3QUoyQy1WZXVRZVlQVmpiWlZFRUNPTmVLWno0OGN2YnlDZk1IRTdHMFVPSExneVlnbG9EaWhxM04?oc=5" target="_blank">Shanghai’s powerful Communist Party boss toppled as Xi Jinping escalates purge</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -290,54 +326,67 @@ Akerson said he believes that, like he did, Barra will have major influence in p
 
 ---
 
-## Sanofi strikes $41bn deal to buy US biotech Insmed - Financial Times
+## China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5" target="_blank">Sanofi strikes $41bn deal to buy US biotech Insmed</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5" target="_blank">China's Huawei convicted in sprawling US criminal trial over Iran business</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Pentagon delays Patriot missile shipments to Ukraine - Financial Times
+## US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhpUFlQemw4aFRzcE80SmNCQWMySWJMd1dhRjR0ZWo1ZXBDS19Hc3paUEY2OUstOG84cFo1S3BGWmVHVDVrS29wcVRVVTlUYTQwd2R0Nkl6dnBsd1NLc0hUZUNhSE90TS05NzdQV3lXZFo4dm94akNrU0Mzcy16SFdqODQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEhpUFlQemw4aFRzcE80SmNCQWMySWJMd1dhRjR0ZWo1ZXBDS19Hc3paUEY2OUstOG84cFo1S3BGWmVHVDVrS29wcVRVVTlUYTQwd2R0Nkl6dnBsd1NLc0hUZUNhSE90TS05NzdQV3lXZFo4dm94akNrU0Mzcy16SFdqODQ?oc=5" target="_blank">Pentagon delays Patriot missile shipments to Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5" target="_blank">US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## European fertiliser suppliers shutting plants as energy prices soar - Financial Times
+## Trump awards Rudy Giuliani the Medal of Freedom - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHBBd2lNclJnQ3JMM1B1dlg2b29oTkVjVUcyLU5QR1I0X1NQZjhZQVUwTUQ1b2YxTUpzWXZGSjNVNFR6eFVCYjQ5aXFoZTAyWElESEw1ZHkxckxzV3BPbWVjRXNHd3BUaklqWFFxbTkwazJJR0w5Q3FISWo0OFZSNEJMZWI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0F4ZGZfQ1BGUjhqR1J0ZURDMUtadkprYURwenhLd2pDandGTlVXR0xYVThJWWFySlVkZmk2Z0pUR1hlTjlpcFZQOTRMY3NMTWZpT0taWndxaEw0OVlNRUVnSEhpeTFUek9FYjQyM2lFYmVuUVl0aWlvOTZJeWIzZlBWRC1xOGlpODdvTzVB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHBBd2lNclJnQ3JMM1B1dlg2b29oTkVjVUcyLU5QR1I0X1NQZjhZQVUwTUQ1b2YxTUpzWXZGSjNVNFR6eFVCYjQ5aXFoZTAyWElESEw1ZHkxckxzV3BPbWVjRXNHd3BUaklqWFFxbTkwazJJR0w5Q3FISWo0OFZSNEJMZWI?oc=5" target="_blank">European fertiliser suppliers shutting plants as energy prices soar</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0F4ZGZfQ1BGUjhqR1J0ZURDMUtadkprYURwenhLd2pDandGTlVXR0xYVThJWWFySlVkZmk2Z0pUR1hlTjlpcFZQOTRMY3NMTWZpT0taWndxaEw0OVlNRUVnSEhpeTFUek9FYjQyM2lFYmVuUVl0aWlvOTZJeWIzZlBWRC1xOGlpODdvTzVB?oc=5" target="_blank">Trump awards Rudy Giuliani the Medal of Freedom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang - Financial Times
+## Wendy’s hit with US class action over menu pricing - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxydFBUdkFaUF9Ec3hwRDhHZEhzLUt2TWdSYXVLaU5KWkhJUUdwZWk0RUxMWjFoeTNZWGk3QnkyVHZwZk1CTEdqVGY1Z3BraUJSd2djdjJ5VHI2bDE5M3RRRmdUMW5pejg3N0o5UXFCSmM2TWRuZ2U3NU5zbXBmOGxmb0o?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxydFBUdkFaUF9Ec3hwRDhHZEhzLUt2TWdSYXVLaU5KWkhJUUdwZWk0RUxMWjFoeTNZWGk3QnkyVHZwZk1CTEdqVGY1Z3BraUJSd2djdjJ5VHI2bDE5M3RRRmdUMW5pejg3N0o5UXFCSmM2TWRuZ2U3NU5zbXBmOGxmb0o?oc=5" target="_blank">Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5" target="_blank">Wendy’s hit with US class action over menu pricing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5" target="_blank">Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
