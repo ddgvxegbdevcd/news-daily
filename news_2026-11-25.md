@@ -1,68 +1,145 @@
 # 每日财经新闻
 
-更新时间：2026-11-25 07:54:33
+更新时间：2026-11-25 21:27:15
 
-## EasyJet Profit Hit By Iran War as Apollo Takeover Looms
+## Gold Bounces Back Above $3,500 as Yields, Dollar Retreat
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms
+链接：https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets
 
 正文长度：0
 
-摘要：EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early next year.
+摘要：Gold rebounded above $3,500 an ounce from session lows as Treasury yields and the dollar eased off earlier gains, prompting some bargain buying.
 
 
 ---
 
-## UK Heating Bills Surge 26%, Adding to Inflation Pressure
+## Stocks Pare AI-Driven Losses as Buyers Step In: Markets Wrap
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure
+链接：https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap
 
 正文长度：0
 
-摘要：UK regulator lifts energy price cap by 26%
+摘要：Wild swings lashed Wall Street again, with dip buyers fading a selloff that had briefly sent the Nasdaq 100 to the brink of a bear market.
 
 
 ---
 
-## Malaysia Says Too Early to See Impact of US Chip Curbs
+## US Tariff Proposal Raises Stakes for India to Clinch Trade Deal
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video
+链接：https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal
 
 正文长度：0
 
-摘要：Malaysian Investment Development Authority Chairman, and Senior Political Advisor to the Malaysian Prime Minister, Zafrul Aziz, believes it's too early to see the impact of US chip curbs. The US recently announced it would enforce tighter control on the exports of advanced artificial intelligence chips to Singapore, Thailand, Malaysia, Indonesia and Brazil. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
+摘要：US tariff rates announced Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook.
 
 
 ---
 
-## Malaysia's Pension Fund Favors Infrastructure Assets
+## The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video
+链接：https://www.bloomberg.com/news/videos/2026-11-25/where-will-anthropic-s-new-millionaires-donate-video
 
 正文长度：0
 
-摘要：Malaysia's Employees Provident Fund CEO Ahmad Zulqarnain Onn says the EPF favors infrastructure in 2027. It's one of the world's oldest and largest pension funds, with total investment assets of over $350 billion. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
+摘要：Sarah Holder sits down with GiveDirectly CEO Nick Allardice and Center for Effective Philanthropy President Phil Buchanan, who debate how to turn pledges into action and who should decide how money gets spent. Listen to the Big Take wherever you get your podcasts.  (Source: Bloomberg)
 
 
 ---
 
-## Global Rotation on AI Jitters Lifts Indian Stocks to Top Spot
+## Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes
+链接：https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up
 
 正文长度：0
 
-摘要：The Indian stock market extended a rally that has catapulted it to the top of global equity rankings this month, as renewed selling in artificial intelligence shares continues to drive investors to markets with limited exposure to the theme.
+摘要：Targa Resources Corp. is in talks to acquire Kinetik Holdings Inc., a publicly-listed pipeline company partly owned by Blackstone Inc., according to people familiar with the matter.
+
+
+---
+
+## Macy's postpones Thanksgiving Day Parade due to severe weather
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html
+
+正文长度：1096
+
+摘要：Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Macy's on Wednesday announced it's postponing the annual Thanksgiving Day Parade due to severe weather.
+The parade, held each year on Thursday morning, will now take place on Saturday at 8:30 a.m. ET, according to the company. The New York City area is expected to have heavy rain and thunderstorms on Thanksgiving.
+"The safety of our participants and spectators is our top priority, and after close consultation with our city and agency partners, we have made the decision to move this year's celebration," Macy's said in a statement.
+This year's event marks the 100th Macy's Thanksgiving Day Parade. The annual event has never been canceled due to weather, though it was suspended between 1942 and 1944 for World War II.
+The parade's viability this year had been in question after concerns arose over strong winds that could become dangerous for the massive balloons that the event is known for. Many of the balloons had already been inflated as of Wednesday afternoon.
+The postponement also means thousands of volunteers and artists slated to perform will have to adapt to Saturday's schedule.
+
+</details>
+
+
+---
+
+## Secondhand shopping is going mainstream this holiday season as consumers seek value
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html
+
+正文长度：5997
+
+摘要：More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> As the high cost of living squeezes consumers' wallets this holiday season, more shoppers are turning to secondhand retail and thrifting.
+The shift comes as consumers look for better value, buyers put more emphasis on personalization and younger generations change the way they shop. The U.S. secondhand apparel market grew 13% in 2025, nearly four times faster than the overall retail clothing market, according to GlobalData.
+That segment is expected to reach nearly $80 billion by 2030, growing more than 7% annually on average, GlobalData found. Much of that expansion — 40% — was driven by Generation Z, followed closely by millennials.
+"I think this has been their version of the thrill of the hunt that millennials loved during the recession days," Katherine Cullen, a global senior retail analyst at EY, told CNBC. "It's a way to really express an individual style, find something unique, something that really fits their own vibe and personality."
+It goes beyond people shopping for themselves, Cullen said. With more emphasis on unique holiday gifts, shoppers are leaning more on secondhand retail than they have before, whether in clothing or in other retail categories.
+They're looking for something that fits the personality of the person they're shopping for, she added.
+For Vanessa Roberts, that meant finding two antique children's chairs that she says will perfectly round out her nieces' play space. Roberts, 37, said she's been thrifting for at least two decades, each time embracing the "thrill" of finding something unique or vintage.
+Especially in fashion, at a time when the quality of mass-produced items has decreased, thrifted items offer more value beyond just the price tag, Roberts added.
+"It's crazy that you can find better quality items at the thrift store right now from 20 years ago versus what you can find at stores right now," she said.
+Roberts, who lives in Los Angeles, said she began shopping for holiday gifts in September. As she prepares her haul for December, roughly 70% of her gifting will come from secondhand stores, she estimated.
+"It's been a fun little challenge, where it's like a little scavenger hunt when I go into the thrift store," she said. "I'm definitely thrifting for the holidays – I do it every year."
+Emphasis on value
+The trend coincides with an economy that has forced consumers to be more intentional about how they spend, as they face high inflation and elevated gas prices.
+In October, the consumer price index rose a seasonally adjusted 0.4%, which was more than anticipated. Still, consumers are expected to continue spending through the holiday season, with sales projected to top $1 trillion for the first time — though some of that estimated increase is boosted by inflation.
+"You have a consumer who, while they're willing to spend at the top level, they're willing to splurge selectively," Cullen said. "Consumers are looking for value, which I think is something that is making secondhand resale and re-commerce more attractive."
+And while clothing is largely the entry point to buying resale, secondhand shopping is increasingly expanding into furniture, electronics and books, according to a report from consumer insights firm The Consumer Collective.
+Its October report found that 34% of people surveyed said secondhand products offer better value than brand new ones.
+Many secondhand items also have an inherent added value beyond the low price on the tag, according to eBay CEO Jamie Iannone. The uniqueness of those products, as well as the allure that vintage adds to them, means consumers may actually be seeking the benefits of secondhand in more ways than one.
+"I can buy a product that's used, and it almost has cachet around it," Iannone told CNBC. "Consumers today, they're able to get these amazing values on products, and it's seen as very normal to be gifting pre-loved."
+According to eBay's Recommerce Report in October, 70% of global consumers surveyed said they consider secondhand shopping important for managing their budgets. That same report also found that 89% of respondents plan to spend the same amount or more on secondhand products next year compared with this year.
+Iannone said he thinks the interest in secondhand this holiday season is "much stronger" than last year.
+"It's becoming just a more established part of consumers' shopping and gifting routines," he said.
+The era of personalization
+At a time when algorithms are driving shopping trends, consumers are also looking for ways to distinguish themselves and their purchases.
+That's stretching beyond buying for themselves to purchasing holiday gifts for others, too.
+"Secondhand is where they're finding unique items to wear," Alon Rotem, chief strategy officer at ThredUp, told CNBC. The company's holiday survey found that respondents valued uniqueness nearly as much as the value of a thrifted piece.
+"To me, that represents a pretty meaningful shift in consumer taste," he added.
+It's partly why ThredUp, which is an online thrift marketplace, emphasizes that each of its products is "a snowflake," Rotem said — something unique.
+That's the appeal of buying preowned, rather than purchasing off the rack that hundreds of other people are reaching for, too.
+"Consumer tastes have changed, and they're much more into vintage," he added. "Uniqueness has a premium in their minds."
+Larger retailers are taking note, EY's Cullen said. More retailers, such as Lululemon, Patagonia and Madewell, are dabbling in preowned.
+Wall Street is also increasingly watching the growing secondhand trend. Though shares of some secondhand and resale companies such as eBay and Savers Value Village have climbed this year, shares of both ThredUp and The RealReal have tumbled year to date.
+"There's a lot of conversation around authenticity or the best find," Cullen said. "I think that interest and momentum, along with some of the economic factors that we're all facing, the idea that people are looking to be frugal is going to just continue."
+
+</details>
 
 
 ---
@@ -191,72 +268,28 @@ Given those dynamics, Waide said he does not expect the need to ease.
 
 ---
 
-## ESPN, NFL to show Super Bowl 61 in Imax theaters
+## Billionaire financier Todd Boehly strikes deal for Lukoil assets - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPRk1rajBxbTdzLU5PcUFwRjV0WHRkdjIzVEVnRzlOVksza1BVQTZCR1RXMl9MLTZ6OFdYQXVpSmRSUVFnUHlmcDY4ajRGWUtuUXBObGllMFRBV3JLWDROSnVrNlVaT3U5Y2RVWVgtT2pycEpDamdURTBKRjZvenpxaU0tXzg?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：1140
+正文长度：0
 
-摘要：In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Super Bowl 61 will be telecast live in hundreds of Imax theaters in February via a partnership with the NFL and Disney's ESPN, which has the broadcast rights to the 2027 game.
-It marks the largest Imax live event in the company's history and the first time that the Super Bowl will be available in the format, according to a news release.
-The four-hour event on Feb. 14 will include ESPN's main Super Bowl game telecast, as well as Jay-Z's halftime performance and pregame and postgame coverage.
-Tickets will be available for theaters in the United States and select international markets, including Australia, New Zealand and Brazil. Tickets are expected to go on sale in January. Pricing was not disclosed.
-"Watching the Super Bowl with your fellow fans is one of the great shared experiences in sports, and this first-of-its-kind collaboration with the NFL and IMAX takes it to a historic new scale," said Ken Potrock, president of major event integration for The Walt Disney Co.
-In addition to ESPN channels, this season's championship game will also be available on streaming platform Disney+ as well as Disney's broadcast network ABC.
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRk1rajBxbTdzLU5PcUFwRjV0WHRkdjIzVEVnRzlOVksza1BVQTZCR1RXMl9MLTZ6OFdYQXVpSmRSUVFnUHlmcDY4ajRGWUtuUXBObGllMFRBV3JLWDROSnVrNlVaT3U5Y2RVWVgtT2pycEpDamdURTBKRjZvenpxaU0tXzg?oc=5" target="_blank">Billionaire financier Todd Boehly strikes deal for Lukoil assets</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens
+## The fund manager’s dilemma over AI - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnU0cG1RX0FoM21xTm9uVFRFcF9kcGswTGZuYmJIbVg1QXV0VnVpekVqeGYyb01QbEI5UDdfTEpMWUpPdTN5elV5cHM5X2tLLTFRU043VUZaNzhzR0xIV1FYaUpNdVJUaGZnc2lNRElJZEdUOU04NmNXT2FqUWxLOW42WW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：5391
+正文长度：0
 
-摘要：Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Employees at Foundation Future Industries were told that their health benefits through administrator Rippling have been terminated, according to a memo obtained by CNBC, adding to mounting signs of financial distress at the humanoid robot startup advised and backed by Eric Trump.
-Foundation told staff in a Friday evening email that they'd be offered coverage through COBRA, the federal law that generally lets workers temporarily keep their health insurance after losing benefits by paying the full premium out of pocket.
-"Because our last pay run through Rippling was in October, they have ended our benefits with them retroactive to October," a Foundation human resources manager said in the memo. "COBRA will be offered to all employees to cover November."
-Foundation has garnered headlines for the bold claims that co-founder Sankaet Pathak — whose previous startup collapsed in 2024 — has made about his robots and their potential use in war zones. Employees were last paid on Oct. 15, and some inside the company are angry at Pathak for a $4.6 million loan he took from his company last year, CNBC reported earlier this month.
-A Foundation spokesman didn't immediately respond to an email or phone call seeking comment.
-In the staff memo, Foundation blamed Rippling for the disruption to health coverage. The startup also said it would reimburse COBRA premiums paid by workers and that it was onboarding a new benefits provider.
-But employees, especially those whose family members are undergoing treatment for medical ailments, worry the company won't have funds to reimburse workers or reinstate coverage, people with direct knowledge of the situation said.
-In a statement to CNBC, Rippling indicated it was Foundation's failure to pay for its employee benefits that led to the change: "If a client enrolled in Rippling's [Professional Employer Organization] is unable to meet their payroll and benefits obligations for multiple months, they will first receive a warning and if not met, they are terminated."
-Rescue loan
-Foundation has been seeking a bridge loan to repay employees after its financial woes began in August. It has been in talks with three or four venture capital firms, including existing investor Tribe Capital, Pathak has told employees, according to people familiar with the situation, who asked to remain unnamed because they were not authorized to speak publicly and feared retaliation. Tribe didn't immediately return a request for comment.
-The bridge loan would help the company survive until a possible $150 million investment from South Korean conglomerate Base Group lands as early as December or January, Pathak has told employees, the people said.
-Base confirmed to Reuters in recent days that it was considering an investment, but the funding has not been finalized.
-The potential investment would deepen business ties between the Trump family and the South Korean conglomerate, an aluminum producer also known for real estate and hospitality projects.
-Base paid the Trump Organization $2 million in 2025, according to a New York Times article, drawing scrutiny from Democratic senators over conflict-of-interest concerns. Base has also pursued other business relationships with the Trump Organization, including a Trump-branded golf course in South Korea.
-Eric Trump, who has invested in Foundation and was given the title of chief strategy advisor, didn't immediately respond to a CNBC email seeking comment.
-Inside Foundation
-The prospect of employees having to pay for their own health coverage comes as many are already drawing down savings to cover living expenses. With another scheduled payday approaching on Nov. 30, workers are facing a third straight pay cycle without income.
-Many are actively interviewing for other jobs, and attendance at the company's San Francisco headquarters has fallen sharply, according to people familiar.
-Frustration has boiled over into distrust of Pathak's leadership for some employees, while others hope Pathak can secure funding to repay workers and bring the company back to financial health. In conversations and memos, Pathak says that he is highly invested in securing Foundation's future, the people said.
-Despite the firm's shaky finances, Foundation continued to hire for open roles until recently and some new workers have never been fully paid, said the people.
-To keep employees from leaving before a possible Base Group investment, Pathak has floated the idea of offering workers equity in the startup, the people said.
-At the same time, human resources staff have warned workers against taking legal action with California to recover their wages, saying that any employees who file complaints with the state would be dismissed, the people said.
-Following a Nov. 14 CNBC report detailing the missed payrolls and a $4.6 million loan Pathak took from the startup in 2025, the chief executive addressed the issue in an all-hands meeting, according to the people.
-Pathak defended the arrangement by telling workers that he had plowed his own money into the startup and takes only a nominal salary, the people said.
-The co-founder also told employees who were in dire financial straits to contact human resources for help covering personal bills, the people added.
-"I'm burning through savings just to afford my apartment," one employee told CNBC. "It's extremely unfortunate we're in this situation."
-
-</details>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnU0cG1RX0FoM21xTm9uVFRFcF9kcGswTGZuYmJIbVg1QXV0VnVpekVqeGYyb01QbEI5UDdfTEpMWUpPdTN5elV5cHM5X2tLLTFRU043VUZaNzhzR0xIV1FYaUpNdVJUaGZnc2lNRElJZEdUOU04NmNXT2FqUWxLOW42WW8?oc=5" target="_blank">The fund manager’s dilemma over AI</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -287,106 +320,80 @@ The co-founder also told employees who were in dire financial straits to contact
 
 ---
 
-## Europe must not accept ‘hybrid’ warfare as normal, defence chief warns - Financial Times
+## Fragrance makers fined more than €500mn over Unilever price-fixing cartel - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0NYc0xrNTNIVFJUZFg5LUNBMmR3S29JT0xaT3ZxSEpreXZoWTVrczhEMzU4bVdYN2lLaE5lNGlNOFIxNHlTUEJSYm5PLTdvY04wVmtPN3JpYW5JUGN0Q2lSYmxUUXRkWFoxWHBERGtUUzdWbkhSdDE5VWs4b2FPSzc0amo?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW5LZE1xeU1Hd1FSSFVXeWhTMlhuLS14UVFKR3duM29Eb3Z0ODhWZExOallfS3Y2UjdCVUZDanc0MDV3Y2l6Y0RsbnQwMDU1cGpMT1pBVUdQRVM0SFJtSWdqbFdCNlpIX2tiR3dVdjhoRGxQUXA0UFZNQ3ZRS25mVFFwaXY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0NYc0xrNTNIVFJUZFg5LUNBMmR3S29JT0xaT3ZxSEpreXZoWTVrczhEMzU4bVdYN2lLaE5lNGlNOFIxNHlTUEJSYm5PLTdvY04wVmtPN3JpYW5JUGN0Q2lSYmxUUXRkWFoxWHBERGtUUzdWbkhSdDE5VWs4b2FPSzc0amo?oc=5" target="_blank">Europe must not accept ‘hybrid’ warfare as normal, defence chief warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW5LZE1xeU1Hd1FSSFVXeWhTMlhuLS14UVFKR3duM29Eb3Z0ODhWZExOallfS3Y2UjdCVUZDanc0MDV3Y2l6Y0RsbnQwMDU1cGpMT1pBVUdQRVM0SFJtSWdqbFdCNlpIX2tiR3dVdjhoRGxQUXA0UFZNQ3ZRS25mVFFwaXY?oc=5" target="_blank">Fragrance makers fined more than €500mn over Unilever price-fixing cartel</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Jensen Huang says he still does not believe in succession planning - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzJvOVdZUHhrSy0ySnRGVmpja2FBb1dHcnA4Sm4tdjdPUkp5R241NmcybDc0elRjWll5QlN3U2ZEU2tCaEIxNUJGZkNuNFRIeGcxNzlOdEpwams2US1nY0ppNnlLRGhJNTRyTXBSVzJQN21lQWw0ZkhVWnpselc1MDNpS08?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzJvOVdZUHhrSy0ySnRGVmpja2FBb1dHcnA4Sm4tdjdPUkp5R241NmcybDc0elRjWll5QlN3U2ZEU2tCaEIxNUJGZkNuNFRIeGcxNzlOdEpwams2US1nY0ppNnlLRGhJNTRyTXBSVzJQN21lQWw0ZkhVWnpselc1MDNpS08?oc=5" target="_blank">Jensen Huang says he still does not believe in succession planning</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Venezuela unveils $240bn debt pile ahead of historic restructuring - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZDS2s5a3NJakp5c2FHbUpSaS1ObHVfaHNkUm84RGdlLUNadURvNGl3LXdtamRNak5Yd0IyXzlRVUFBSHh6Q2I4TU9taTJ3Z1FuemdSV0VXNHBLT0JFeHEzUWZCTmx2UHJHV2g3TzNZbnBObXJiSUx0Q0t6UFFLcmxZV3M?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZDS2s5a3NJakp5c2FHbUpSaS1ObHVfaHNkUm84RGdlLUNadURvNGl3LXdtamRNak5Yd0IyXzlRVUFBSHh6Q2I4TU9taTJ3Z1FuemdSV0VXNHBLT0JFeHEzUWZCTmx2UHJHV2g3TzNZbnBObXJiSUx0Q0t6UFFLcmxZV3M?oc=5" target="_blank">Venezuela unveils $240bn debt pile ahead of historic restructuring</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters
+## At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5" target="_blank">EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5" target="_blank">At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters
+## S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5" target="_blank">US shelves plans for business deals with Russia to end Ukraine war, FT says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5" target="_blank">S&amp;P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## African insurgents take war to the skies with off-the-shelf drones - Reuters
+## Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5" target="_blank">African insurgents take war to the skies with off-the-shelf drones</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5" target="_blank">Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports - Reuters
+## How the Trump administration determined Jensen Huang is not a national security threat - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5" target="_blank">Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5" target="_blank">How the Trump administration determined Jensen Huang is not a national security threat</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Goldman says US data center boom through 2028 will lift power and gas demand - Reuters
+## New images reveal crater on asteroid struck by DART spacecraft - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3FXeU1sR0Jwb3R5UUpxWTFidWtqTk9aUC1iNGd5Q1NWbDVxa010VmJOei1pQ2RTREJUTjYyMHZ3RFFJVTQzMkl2el9xUlhSZTRGWkpYOW9xZlB0SElCTFEwT2hPbUtGM0ItWUZ6SkdzeUw1SEs5Tk5ydk5iSWxuZWROSEVQNHg0TGk2TGtHbi1BNHlDUnQ0OFlSN0UwNDMydVF2R3Rmd18wWHFBaVJyeW1PdXAxU1NqaFliVG1ZRF8xQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3FXeU1sR0Jwb3R5UUpxWTFidWtqTk9aUC1iNGd5Q1NWbDVxa010VmJOei1pQ2RTREJUTjYyMHZ3RFFJVTQzMkl2el9xUlhSZTRGWkpYOW9xZlB0SElCTFEwT2hPbUtGM0ItWUZ6SkdzeUw1SEs5Tk5ydk5iSWxuZWROSEVQNHg0TGk2TGtHbi1BNHlDUnQ0OFlSN0UwNDMydVF2R3Rmd18wWHFBaVJyeW1PdXAxU1NqaFliVG1ZRF8xQQ?oc=5" target="_blank">Goldman says US data center boom through 2028 will lift power and gas demand</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5" target="_blank">New images reveal crater on asteroid struck by DART spacecraft</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
