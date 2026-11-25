@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-24 22:11:06
+更新时间：2026-11-25 07:54:33
 
-## Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans
+## EasyJet Profit Hit By Iran War as Apollo Takeover Looms
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally
+链接：https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms
 
 正文长度：0
 
-摘要：Gold slumped, erasing most of Monday’s dramatic rebound as investors bet on further interest-rate hikes while a tariff-driven rout in equities prompted some traders to sell bullion to cover losses elsewhere.
+摘要：EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early next year.
 
 
 ---
 
-## US Readies Tariff Hike on China, EU Goods
+## UK Heating Bills Surge 26%, Adding to Inflation Pressure
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video
+链接：https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure
 
 正文长度：0
 
-摘要：The US is set to announce as soon as Tuesday plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Alicia Diaz reports. (Source: Bloomberg)
+摘要：UK regulator lifts energy price cap by 26%
 
 
 ---
 
-## Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom
+## Malaysia Says Too Early to See Impact of US Chip Curbs
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally
+链接：https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video
 
 正文长度：0
 
-摘要：The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.
+摘要：Malaysian Investment Development Authority Chairman, and Senior Political Advisor to the Malaysian Prime Minister, Zafrul Aziz, believes it's too early to see the impact of US chip curbs. The US recently announced it would enforce tighter control on the exports of advanced artificial intelligence chips to Singapore, Thailand, Malaysia, Indonesia and Brazil. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
 
 
 ---
 
-## Latam Currencies Lag Emerging Peers as Global Selloff Weighs
+## Malaysia's Pension Fund Favors Infrastructure Assets
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade
+链接：https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video
 
 正文长度：0
 
-摘要：Most Latin American currencies slumped Tuesday as falling metal prices and a renewed selloff in US tech stocks fanned a move away from riskier assets.
+摘要：Malaysia's Employees Provident Fund CEO Ahmad Zulqarnain Onn says the EPF favors infrastructure in 2027. It's one of the world's oldest and largest pension funds, with total investment assets of over $350 billion. He speaks with Haslinda Amin on "Insight with Haslinda Amin." (Source: Bloomberg)
 
 
 ---
 
-## Quant Funds Are Having a Hard Time Keeping Up With This Market
+## Global Rotation on AI Jitters Lifts Indian Stocks to Top Spot
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market
+链接：https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes
 
 正文长度：0
 
-摘要：The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.
+摘要：The Indian stock market extended a rally that has catapulted it to the top of global equity rankings this month, as renewed selling in artificial intelligence shares continues to drive investors to markets with limited exposure to the theme.
 
 
 ---
@@ -261,15 +261,41 @@ The co-founder also told employees who were in dire financial straits to contact
 
 ---
 
-## Donald Trump readies raft of new tariffs on major economies - Financial Times
+## Donald Trump shelves plans for business deals with Russia - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5" target="_blank">Donald Trump readies raft of new tariffs on major economies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5" target="_blank">Donald Trump shelves plans for business deals with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## EU plans €50bn tech fund to close gap with US and China - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3FPSGJQTVhoMEZQb1luaFY2US1lMkpsRDI3a1h5NGtZVTktM0FxS1lSb0g5NEh5NVhHdGJCM2JYSXdHcEE5VUN0akVCLU9sOFV4dWpDZF9kUUQydEs4VlJzUjk1aGJWVWloaWs0ZUtLRDUwLVNJUDZldUdlQnc2ZmMtbGQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3FPSGJQTVhoMEZQb1luaFY2US1lMkpsRDI3a1h5NGtZVTktM0FxS1lSb0g5NEh5NVhHdGJCM2JYSXdHcEE5VUN0akVCLU9sOFV4dWpDZF9kUUQydEs4VlJzUjk1aGJWVWloaWs0ZUtLRDUwLVNJUDZldUdlQnc2ZmMtbGQ?oc=5" target="_blank">EU plans €50bn tech fund to close gap with US and China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Europe must not accept ‘hybrid’ warfare as normal, defence chief warns - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0NYc0xrNTNIVFJUZFg5LUNBMmR3S29JT0xaT3ZxSEpreXZoWTVrczhEMzU4bVdYN2lLaE5lNGlNOFIxNHlTUEJSYm5PLTdvY04wVmtPN3JpYW5JUGN0Q2lSYmxUUXRkWFoxWHBERGtUUzdWbkhSdDE5VWs4b2FPSzc0amo?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0NYc0xrNTNIVFJUZFg5LUNBMmR3S29JT0xaT3ZxSEpreXZoWTVrczhEMzU4bVdYN2lLaE5lNGlNOFIxNHlTUEJSYm5PLTdvY04wVmtPN3JpYW5JUGN0Q2lSYmxUUXRkWFoxWHBERGtUUzdWbkhSdDE5VWs4b2FPSzc0amo?oc=5" target="_blank">Europe must not accept ‘hybrid’ warfare as normal, defence chief warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -300,93 +326,67 @@ The co-founder also told employees who were in dire financial straits to contact
 
 ---
 
-## Shanghai’s powerful Communist Party boss toppled as Xi Jinping escalates purge - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmM3SHNuQmxkekR6a29xSXBEclA0cUdsMG5oN21lQS0ycHpBSlNPNk5KeFkxNi1FRFRzTGRqdjlNS0xvSnVuWXM1Tkw3QUoyQy1WZXVRZVlQVmpiWlZFRUNPTmVLWno0OGN2YnlDZk1IRTdHMFVPSExneVlnbG9EaWhxM04?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmM3SHNuQmxkekR6a29xSXBEclA0cUdsMG5oN21lQS0ycHpBSlNPNk5KeFkxNi1FRFRzTGRqdjlNS0xvSnVuWXM1Tkw3QUoyQy1WZXVRZVlQVmpiWlZFRUNPTmVLWno0OGN2YnlDZk1IRTdHMFVPSExneVlnbG9EaWhxM04?oc=5" target="_blank">Shanghai’s powerful Communist Party boss toppled as Xi Jinping escalates purge</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## SpaceX-Tesla: the directors negotiating the biggest merger ever - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5" target="_blank">SpaceX-Tesla: the directors negotiating the biggest merger ever</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters
+## EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5" target="_blank">China's Huawei convicted in sprawling US criminal trial over Iran business</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5" target="_blank">EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports - Reuters
+## US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5" target="_blank">US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5" target="_blank">US shelves plans for business deals with Russia to end Ukraine war, FT says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump awards Rudy Giuliani the Medal of Freedom - Reuters
+## African insurgents take war to the skies with off-the-shelf drones - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0F4ZGZfQ1BGUjhqR1J0ZURDMUtadkprYURwenhLd2pDandGTlVXR0xYVThJWWFySlVkZmk2Z0pUR1hlTjlpcFZQOTRMY3NMTWZpT0taWndxaEw0OVlNRUVnSEhpeTFUek9FYjQyM2lFYmVuUVl0aWlvOTZJeWIzZlBWRC1xOGlpODdvTzVB?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0F4ZGZfQ1BGUjhqR1J0ZURDMUtadkprYURwenhLd2pDandGTlVXR0xYVThJWWFySlVkZmk2Z0pUR1hlTjlpcFZQOTRMY3NMTWZpT0taWndxaEw0OVlNRUVnSEhpeTFUek9FYjQyM2lFYmVuUVl0aWlvOTZJeWIzZlBWRC1xOGlpODdvTzVB?oc=5" target="_blank">Trump awards Rudy Giuliani the Medal of Freedom</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5" target="_blank">African insurgents take war to the skies with off-the-shelf drones</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Wendy’s hit with US class action over menu pricing - Reuters
+## Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5" target="_blank">Wendy’s hit with US class action over menu pricing</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5" target="_blank">Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters
+## Goldman says US data center boom through 2028 will lift power and gas demand - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3FXeU1sR0Jwb3R5UUpxWTFidWtqTk9aUC1iNGd5Q1NWbDVxa010VmJOei1pQ2RTREJUTjYyMHZ3RFFJVTQzMkl2el9xUlhSZTRGWkpYOW9xZlB0SElCTFEwT2hPbUtGM0ItWUZ6SkdzeUw1SEs5Tk5ydk5iSWxuZWROSEVQNHg0TGk2TGtHbi1BNHlDUnQ0OFlSN0UwNDMydVF2R3Rmd18wWHFBaVJyeW1PdXAxU1NqaFliVG1ZRF8xQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5" target="_blank">Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3FXeU1sR0Jwb3R5UUpxWTFidWtqTk9aUC1iNGd5Q1NWbDVxa010VmJOei1pQ2RTREJUTjYyMHZ3RFFJVTQzMkl2el9xUlhSZTRGWkpYOW9xZlB0SElCTFEwT2hPbUtGM0ItWUZ6SkdzeUw1SEs5Tk5ydk5iSWxuZWROSEVQNHg0TGk2TGtHbi1BNHlDUnQ0OFlSN0UwNDMydVF2R3Rmd18wWHFBaVJyeW1PdXAxU1NqaFliVG1ZRF8xQQ?oc=5" target="_blank">Goldman says US data center boom through 2028 will lift power and gas demand</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
