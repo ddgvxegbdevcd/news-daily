@@ -1,66 +1,137 @@
 # 每日财经新闻
 
-更新时间：2026-11-26 07:45:28
+更新时间：2026-11-26 21:14:40
 
-## Horizons Middle East & Africa 11/26/2026 (Video)
+## Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video
+链接：https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours
 
 正文长度：0
+
+摘要：Deteriorating conditions in financial markets are preventing a new Canadian issuer from selling debt as planned, even with the backing of one of the country’s most important pension managers.
 
 
 ---
 
-## FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses
+## Latest Oil Market News and Analysis for Nov. 26
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses
+链接：https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26
 
 正文长度：0
 
-摘要：Plus, a closer look at the UK consumer puzzle
+摘要：Oil rose in thin trading during the US holiday as an attack on a Saudi refinery threatened to undermine a recovery in the region’s crude exports.
 
 
 ---
 
-## Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead
+## Ford CEO on Le Mans, New Electric Pickup and Trade Talks
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead
+链接：https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video
 
 正文长度：0
 
-摘要：A ship carrying diesel has sunk off the coast of the Spanish island of Ibiza, according to the Balearic Islands emergency service.
+摘要：Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing while competing on a global stage. (Source: Bloomberg)
 
 
 ---
 
-## UK Faces Third Day of Strained Electricity Supplies on Cold Snap
+## Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-26/uk-faces-third-day-of-strained-electricity-supplies-on-cold-snap
+链接：https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence
 
 正文长度：0
 
-摘要：The UK faces another squeeze on electricity supplies on Thursday, extending a run of tight conditions as a cold snap boosts demand.
+摘要：Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring.
 
 
 ---
 
-## Gold Wavers After Battering as Traders Assess Fed Path, AI Angst
+## Copper Rebounds as Tech Rally Lifts Battered Industrial Metals
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes
+链接：https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals
 
 正文长度：0
 
-摘要：Gold wavered just above the lowest level in about 15 months, as investors contended with concerns that the Federal Reserve will hike interest rates to combat inflation against a calmer tone in wider markets.
+摘要：Copper recovered from an 11-month low on Thursday alongside gains in other commodities and technology stocks, as investors returned to riskier assets following days of sharp losses.
+
+
+---
+
+## Microdrama apps chase profits as Hollywood moves into short-form, vertical video
+
+来源：CNBC
+
+链接：https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html
+
+正文长度：9248
+
+摘要：The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.
+
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
+
+> Bogdan Nesvit says his mission is simple: "We are essentially building Disney for the 21st century."
+Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling. Short, serialized "microdrama" videos are created specifically for mobile devices and have generated billions of views this year. They often feature romantic tropes and typically end in cliffhangers to keep viewers hooked.
+The category has exploded at a time when traditional media faces waning interest and YouTube now claims more viewing hours than individual streaming platforms.
+The microdrama industry is projected to reach $1.5 billion in revenue in the U.S. in 2026, according to research firm Media Partners Asia. In China, where the format originally gained popularity, microdrama revenue surpassed what was made at the box office in 2024.
+"It has the potential to evolve into mainstream entertainment and basically become mobile-first video streaming of the size of Netflix," Nesvit said.
+Tech companies and startups such as My Drama currently lead the category in metrics like downloads and time spent on the apps.
+TikTok's PineDrama is the most popular microdrama app of 2026 so far with 13.2 million U.S. downloads through September, according to Sensor Tower data.
+Startups DramaBox and ReelShort beat out entertainment giants Netflix and Disney in average mobile usage time in the U.S. in the third quarter, according to Sensor Tower.
+As they see microdramas win over viewers, legacy media companies, Hollywood executives and actors increasingly want in.
+Enter Fox Entertainment
+Fox Entertainment was one of the earliest Hollywood investors in microdramas. The entertainment studio acquired an equity stake in Holywater Tech, the company behind My Drama, in October 2025.
+Fox agreed to produce at least 200 vertical video titles over two years that would be available on the Holywater app. Thus far, hits include dark academia series "Secret Society: Till Blood Do Us Part" and "Kiss of the Pirate King." Individual series have reached tens of millions of views, according to the company.
+Nesvit told CNBC in an interview that partnerships like the one between Fox and Holywater benefit studios by providing the infrastructure to publish their short-form videos and get them in front of an audience.
+Beyond distributing the videos, Holywater offers advice for what types of content perform best in a short, mobile-first format, according to Nesvit.
+"One of the exciting things that we learned when we started talking to studios in Hollywood around two years ago is that all of them are super hungry for consumer data," Nesvit said. "They really want to see how people are interacting with each second of the content."
+Nesvit said the company will provide studios with feedback on everything from the length of a camera shot to what color dress a character should wear.
+"Our goal is how we can drive audiences from YouTube, from TikTok, from Instagram to our platform, and also create those kinds of synergies [with] legacy media," he said.
+Holywater recently adapted Season 3 of Fox's reality TV hit "Farmer Wants a Wife" into a microseries fit for the platform. The company also plans to create a scripted series featuring 30 three-minute episodes inspired by Fox's "Fear Factor: House of Fear."
+Holywater currently relies on a combination of subscription fees, which make up about 80% of its revenue, and money from advertisers. Nesvit said the company is also exploring incorporating brand integrations. The company is already profitable, its co-founders said.
+Co-founder Anatolii Kasianov said creating the videos is "very cost efficient," with an estimated expense of between $150,000 and $200,000 for an average 70-minute series.
+The company's partnerships with content studios, he said, help to bring down customer acquisition costs.
+"You attract organically the audience that loves that [intellectual property]," he said.
+Hollywood moves in
+While Fox saw collaboration as the way into the format, some longtime Hollywood executives are betting they can skip the partnerships and create microdrama platforms in-house.
+Jana Winograde, Susan Rovner and Lloyd Braun, who have collectively held leadership roles at NBCUniversal, Showtime, Warner Bros. Discovery and ABC, have jointly founded a microdrama startup called aTwist.
+The company, which officially launched in September, has garnered tens of millions of views as of late November across TikTok, Instagram and YouTube, where content lives in addition to the app.
+"One of the specialties that we have is really what it means to be a great storyteller," Rovner told CNBC in an interview. "I was president of Warner Bros. Television. I was there for 22 years. During my time there, we had over 18 series go over 100 episodes, so I definitely think we have an expertise in getting people to care about these shows, care about the characters, invest."
+"A lot of our competitors' completion rates are very low, their churn rates are very high," Rovner said. "They can often bring people into the store but they can't keep them."
+The average churn rate for the most downloaded microdrama apps is nearly 60% so far in 2026, according to Sensor Tower data. The market intelligence firm notes that the number of users lost in each quarter this year has roughly equaled the number of users gained.
+ATwist seeks to keep viewers enticed through high-stakes, compelling characters and unique stories. The app has already ordered second seasons of shows and puts a particular emphasis on talent, according to the co-founders.
+Jesse Tyler Ferguson, known for his role as Mitchell on "Modern Family," and his husband, Justin Mikita, a Broadway producer, have collaborated on the musical series "Theater Kids vs. Zombies" for aTwist. It premiered on Oct. 15.
+Other series that debuted last month included "Honey, I Think Our House Is Haunted" starring Mario Lopez and "Unboxing the Killer Doll" starring Paris Hilton.
+In May, aTwist announced an exclusive partnership with Skydance's linear television channel BET to create horizontal microdramas that air first on BET and later stream in vertical format on aTwist's app.
+"That brings a lot of awareness to our brand, a lot of marketing," Winograde said. "But it also gives these linear networks the opportunity to get programming at an incredibly low cost that, from what we're seeing, the audience loves."
+Winograde suggested aTwist could strike similar partnerships in the future.
+Media giants explore shorts
+Large streaming companies, which have already faced competition from social media apps and YouTube, are exploring ways to incorporate microdramas inside their existing apps.
+NBCUniversal's Peacock launched its own vertical video channel within the app this summer that features both original unscripted series and more traditional vertical dramas. NBCUniversal is also eyeing international development by investing in an Indian microdrama platform, EloElo Group's Story TV, earlier this month.
+"At NBCUniversal, we see significant opportunity in mobile-first storytelling and emerging formats like microdramas to engage audiences and meet evolving viewing habits," Deepak Arya, executive vice president for corporate strategy and development at NBCUniversal, said in a press release.
+Disney+, Paramount+ and Netflix similarly launched vertical channels embedded in their services this year. Notably, the channels are meant to help viewers discover traditional content and so far haven't featured original, vertical-first series.
+On top of those media companies, head of Prime Video and Amazon MGM Studios Mike Hopkins told CNBC's Julia Boorstin in an interview last month that the tech company was interested in producing its own microdramas.
+Challenges ahead
+Despite the flurry of investment, Hollywood still faces the challenge of how to translate viewing hours into profit, especially for shorter content.
+Leading U.S. microdrama app ReelShort posted a net loss of $12 million in 2025 despite bringing in total revenue of $785 million, according to research compiled by Media Partners Asia, or MPA.
+The app, which was founded in 2022 by California-based Crazy Maple Studio, currently reaches about 65 million users every month, according to the company's LinkedIn profile.
+However, high marketing and content costs have weighed on the company's bottom line. MPA expects ReelShort to reach profitability for the first time this year, with an estimated $40 million in net profit.
+Media Partners Asia CEO Vivek Couto told CNBC that acquiring new users is the largest cost, with ReelShort spending an estimated 55% of its revenue in 2025 on marketing.
+Couto also noted high content spend, especially since microdrama apps typically require a high volume of content.
+"The content is very hit-driven … it wears out fast," Couto said. "The churn rate for this sector is high, so you have to fill that slate all the time, and you have to win back those users."
+Correction: A previous version misstated Holywater Tech's full name in first reference. Co-founder Anatolii Kasianov also said expenses run between $150,000 and $200,000 for an average 70-minute series. A previous version misstated the average series length.
+
+</details>
 
 
 ---
@@ -217,51 +288,28 @@ Bonfig told CNBC last quarter that the launch of "Grand Theft Auto VI" in the cu
 
 ---
 
-## Some U.S. food banks see demand top pandemic levels
+## SAP explores at least 10,000 job cuts - Financial Times
 
-来源：CNBC
+来源：金融时报
 
-链接：https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHdwakZtbm1VYlVteHNsb1FZZ0wxaXlRVkVPSXdXY01oUHRZRnhxeFN4Y3dTMy1BZ0h1bXhXMHJfOUQwTnJRU09EWXlqdmRKaFNfS3FJSEZpWkhIZEpRU2xiRXR0YzFlTFY1ZEFNLUJocUlfRk1jMTZlcEJxd3JyZEc3X3Q?oc=5&hl=en-US&gl=US&ceid=US:en
 
-正文长度：6742
+正文长度：0
 
-摘要：A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHdwakZtbm1VYlVteHNsb1FZZ0wxaXlRVkVPSXdXY01oUHRZRnhxeFN4Y3dTMy1BZ0h1bXhXMHJfOUQwTnJRU09EWXlqdmRKaFNfS3FJSEZpWkhIZEpRU2xiRXR0YzFlTFY1ZEFNLUJocUlfRk1jMTZlcEJxd3JyZEc3X3Q?oc=5" target="_blank">SAP explores at least 10,000 job cuts</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-> During the Covid-19 pandemic, Greg Silverman watched an MTA bus driver pull over on Manhattan's Upper West Side, let his passengers off and run across the street toward him.
-Silverman, who runs New York nonprofit West Side Campaign Against Hunger, initially thought the driver wanted to use the bathroom at the church where the food distribution was taking place. Instead, the man asked, "Can I get some food?"
-"He was a full-time employee," Silverman said. "You are an essential personnel, making the city survive and you need food."
-Now, Silverman said, his organization has seen demand surpass even the levels it observed during that time of crisis when the U.S. economy ground to a halt — and many of the people now seeking food also have jobs. Silverman expects the nonprofit to distribute as much as 6 million pounds of food this year.
-"The height of the pandemic was not the height of need, by any means," he said.
-Echoes of the pandemic
-The pressure on the emergency food system extends beyond New York. Nationally, use of charitable food programs remains elevated as sustained inflation makes it harder for Americans to afford food, housing and healthcare. Higher prices come at the same time that the federal government has restricted food aid.
-The Department of Agriculture's latest annual report found that 13.7% of U.S. households, roughly 18.3 million households, experienced food insecurity in 2024. That rate was significantly higher than in every year from 2016 through 2021.
-The pandemic initially brought a surge in demand for charitable food programs, which was followed by government support. In the years that followed, pandemic-era policies such as expanded Supplemental Nutrition Assistance Program, or SNAP, benefits, the enhanced child tax credit and school meal programs phased out as inflation spiked.
-"This is not because you can't go to work," said City Harvest President Carlos Rodriguez. "Primarily, your work and your wages are just not keeping up with the way costs have gone up in the last five years alone."
-City Harvest, which works with food providers across the five boroughs of New York, told CNBC 1 in 5 New Yorkers is currently experiencing food insecurity, or limited access to enough food because of a lack of money or other resources. That is up from 1 in 6 a year earlier, and 1 in 8 before the pandemic.
-Average monthly visits to food pantries and soup kitchens in New York are also 85% higher than before the pandemic, said Rodriguez.
-In the Federal Reserve's October Beige Book, the central bank's New York regional branch described a sharp rise in first-time food pantry users. One nonprofit leader told the Federal Reserve Bank of New York that the strain was comparable to the pandemic, "but without the same philanthropic and government support."
-Data from Plentiful, a technology platform that connects people with food pantries and tracks their usage, also points to growing demand and limited resources.
-"For pantries using our reservation and pre-registration features, we see that the overwhelming majority of those are at or over capacity," said Catherine Compitello, CEO of Plentiful. "Demand is growing while supply is not."
-First-time users of Plentiful in New York City rose roughly 56% from August to October, Compitello said. It was the second-largest fall surge since 2016; the only larger one came during last year's federal government shutdown, when delayed SNAP benefits drove more people to seek food assistance.
-Compitello said that when families have trouble affording essentials, they often prioritize healthcare, transportation, childcare and utilities, leaving food as the expense they cut back on.
-Hunger around the country
-Demand for food banks is rising in other regions of the country, and nonprofits are facing their own operational challenges as they try to meet it.
-A spokesperson for the Los Angeles Regional Food Bank told CNBC the organization's diesel bill more than doubled in September, to roughly $75,000, adding to the cost of delivering food and running refrigerated trucks.
-Demand in the region is also spiking. Distribution in the Los Angeles area for January through September totaled 116 million pounds of food and grocery products — the equivalent of 93 million meals — and slightly higher than a near-record year in 2025, according to the Los Angeles Regional Food Bank.
-Federal food aid changes have exacerbated the problems. Rodriguez of City Harvest described SNAP as a first line of defense against hunger, saying the program can provide as many as nine meals for every one meal the organization provides. But City Harvest has estimated at least 8.7% of SNAP recipients in New York City lost benefits over the past year, after congressional Republicans and President Donald Trump approved work certification requirements and changes to eligibility.
-The pressure is also mounting in Los Angeles County, where roughly 260,000 CalFresh recipients are subject to expanded federal work requirements that took effect in June. CalFresh is California's version of SNAP.
-That does not mean all 260,000 will lose benefits, since people who meet the work requirements or qualify for an exemption can remain eligible. But a Los Angeles Regional Food Bank spokesperson told CNBC the changes add another layer of uncertainty for households already struggling with food costs.
-In Atlanta, the pressure extends beyond the city itself to the surrounding region. The Atlanta Community Food Bank serves about 270,000 households a month, or nearly 700,000 people, through partner pantries across North Georgia. President and CEO Kyle Waide said the number of people it serves has jumped more than 70% in five years.
-"Much of that increase is among people whose incomes are too high to qualify for federal benefit programs," said Waide.
-Under current SNAP guidelines in Georgia, most households must have gross monthly income at or below 130% of the federal poverty level to qualify. They must also meet a separate net income test. For fiscal 2027, which began Oct. 1, the gross income limit is $2,960 a month for a household of three, or about $35,520 annually, and $3,575 a month for a household of four, or $42,900 a year.
-More than 60% of Atlanta Community Food Bank clients have household incomes above the cutoff for SNAP eligibility, Waide said, generally in the mid-to-upper $30,000 range depending on household size. The food bank does not collect everyone's income, he said, but the figure is based on survey estimates.
-Given those dynamics, Waide said he does not expect the need to ease.
-"We're preparing for the level of demand to stay where it is today, or even increase more," Waide said. "We don't see a big source of relief coming anytime soon."
+---
 
-</details>
+## Pablo Hernández de Cos wins race for ECB presidency - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTUzYlI2Rk5CTUlTd2JKMnZtWmZpMzZ1VHRYTmtlV3VKcE9ocGdMSkpDcmdvOE9JVzdFd2E0enVLdEVlOHMyRXNDQzlmTGtSM2N6N0FvVTVUendHLXRkVG5zeW1WMGRJemlTTFBnS0h6NVlFZHIwS1JhdS11V3pSTXZSMWg?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTUzYlI2Rk5CTUlTd2JKMnZtWmZpMzZ1VHRYTmtlV3VKcE9ocGdMSkpDcmdvOE9JVzdFd2E0enVLdEVlOHMyRXNDQzlmTGtSM2N6N0FvVTVUendHLXRkVG5zeW1WMGRJemlTTFBnS0h6NVlFZHIwS1JhdS11V3pSTXZSMWg?oc=5" target="_blank">Pablo Hernández de Cos wins race for ECB presidency</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
@@ -279,119 +327,93 @@ Given those dynamics, Waide said he does not expect the need to ease.
 
 ---
 
-## Early review of Disney’s ABC station licences blocked in blow to Trump - Financial Times
+## It’s an earnings bubble, not a valuation bubble - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2ZIZTlyVW1ucHlsTnZnc1g0YWZzMWg3UFZVb0NweDZsSWpfSWpYMzg0ZXdmaVhBT3JfRWRuRnhTeWhGekVYZ3pwZjlQdEItWWxRMDZYV2FJMGZJSEpOWE5kV0l4UVp1VEFQYU9XY19yendmSU1RYTBPS2ZwTUJfQ0d5RmI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQVm9BOUZvRjAzdTlBWDNfNThnUnB2ckpYWHU2RXZVYnFSV1pHc0NGbWpDeGpGQy1EYlpQZ2lMdmpnVmNlYnRFUEFhb2Jsazl5dG1rLWR5VWtWSndQVGlPWUR3LVUzeThfVUU0VjdFR3RuRzZYSjhlalVscHJ6RWo1NjdrWnk?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2ZIZTlyVW1ucHlsTnZnc1g0YWZzMWg3UFZVb0NweDZsSWpfSWpYMzg0ZXdmaVhBT3JfRWRuRnhTeWhGekVYZ3pwZjlQdEItWWxRMDZYV2FJMGZJSEpOWE5kV0l4UVp1VEFQYU9XY19yendmSU1RYTBPS2ZwTUJfQ0d5RmI?oc=5" target="_blank">Early review of Disney’s ABC station licences blocked in blow to Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVm9BOUZvRjAzdTlBWDNfNThnUnB2ckpYWHU2RXZVYnFSV1pHc0NGbWpDeGpGQy1EYlpQZ2lMdmpnVmNlYnRFUEFhb2Jsazl5dG1rLWR5VWtWSndQVGlPWUR3LVUzeThfVUU0VjdFR3RuRzZYSjhlalVscHJ6RWo1NjdrWnk?oc=5" target="_blank">It’s an earnings bubble, not a valuation bubble</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## How ‘Friendsgiving’ took over in America - Financial Times
+## Altria explores takeover bid for Imperial Brands - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZHNBejZsRGpYQ211b1E2TTBKWndWbkpvX0g1WldlS201c0lIX2hkV2ZWcVB3ZkJfT0c1SHAzNVZmeml6TWd2MlRfaXFZVFBBaURFN1A3bFA4dzlWUHN6UEJKQmRMYnowRE0yWHEwLUM?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxORDB6MFYwMEJCMzYwVkJ6SUN1M0xlOVdKajZtaUx5MllIY3p0R3FmRUdpTUR2UndNUkNqZEN2WmhZamlSajBNRHNvNE83TTg3ejRCZFVIOEdpWmZoQV9LS2dGRjZHNmJjVENZOE9JVEM4VlhSbERFbXJvUFhOOUI0aXIyYTA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZHNBejZsRGpYQ211b1E2TTBKWndWbkpvX0g1WldlS201c0lIX2hkV2ZWcVB3ZkJfT0c1SHAzNVZmeml6TWd2MlRfaXFZVFBBaURFN1A3bFA4dzlWUHN6UEJKQmRMYnowRE0yWHEwLUM?oc=5" target="_blank">How ‘Friendsgiving’ took over in America</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxORDB6MFYwMEJCMzYwVkJ6SUN1M0xlOVdKajZtaUx5MllIY3p0R3FmRUdpTUR2UndNUkNqZEN2WmhZamlSajBNRHNvNE83TTg3ejRCZFVIOEdpWmZoQV9LS2dGRjZHNmJjVENZOE9JVEM4VlhSbERFbXJvUFhOOUI0aXIyYTA?oc=5" target="_blank">Altria explores takeover bid for Imperial Brands</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Saudi Arabia prepares to delay flagship mining conference as attacks continue - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTNyS0hCUWF1OW00czNJM2lTZTBFVUt4YlNrMlAtb1JXNVpJaHlvNTFmcVg1Rm96bXZKdHZOc3pheEx4UkhuNFlQbkkySnJXYThmUFphc29nT3pEZ0Vxbnh6WGZFX0pWV0dwakt4OW9ZVzRiQXhCdVlpZjlub0ktaEFDazk?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTNyS0hCUWF1OW00czNJM2lTZTBFVUt4YlNrMlAtb1JXNVpJaHlvNTFmcVg1Rm96bXZKdHZOc3pheEx4UkhuNFlQbkkySnJXYThmUFphc29nT3pEZ0Vxbnh6WGZFX0pWV0dwakt4OW9ZVzRiQXhCdVlpZjlub0ktaEFDazk?oc=5" target="_blank">Saudi Arabia prepares to delay flagship mining conference as attacks continue</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Donald Trump shelves plans for business deals with Russia - Financial Times
-
-来源：金融时报
-
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5" target="_blank">Donald Trump shelves plans for business deals with Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
-
-
----
-
-## Nvidia halts server shipments to four Southeast Asian countries, FT reports - Reuters
+## Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5" target="_blank">Nvidia halts server shipments to four Southeast Asian countries, FT reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5" target="_blank">Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Musk pledges two SpaceX shares for every American child - Reuters
+## Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5" target="_blank">Musk pledges two SpaceX shares for every American child</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5" target="_blank">Trump says he asked Putin to 'pull back' military aggression throughout Europe</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters
+## SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5" target="_blank">Trump and NATO chief urge Russia to avoid actions that widen Ukraine war</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5" target="_blank">SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold ticks up after hitting 15-month low; Fed outlook in focus - Reuters
+## Mexico seeking talks with US on SpaceX airspace use - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5" target="_blank">Gold ticks up after hitting 15-month low; Fed outlook in focus</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5" target="_blank">Mexico seeking talks with US on SpaceX airspace use</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return - Reuters
+## Co-leader of Germany's AfD criticises planned talks with Russian envoy - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXVqeXRkckRvMDl4OWJsUlhwZk5qNDNKZWl5MGxrSWFXSmdUWW14QmJvTXFUSFBXekdMc2lHZ2h0WjY2MjdJWjdhYTB6SUR0NTRaYmVQbUVMVUIyd1NJY1h2N0VDMGJoNHV2MkFYb29wS1R1WVFnWkgxVmNid1g0UVhka29CS3JzUWNvMTFaZTFucGJ6cG1RV2pDc2NUUWRrNnRYcF9uMVM2cEpFNEdrRlJsMHotUkRFR2pneW93?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiugFBVV95cUxPUG9BQjhLblpESUc5bkhXQVkyMjhQUVNJeTVSZHFZbE42Mi1NdGI4Q0o3US1mVlFNQzQ1Z244bGVhTkgtX0o3dDk1OTQwbFpLX0VIZGVnR2JpUHVmWENIQXEyTGZEemhzVGNNdFl0eEpvN0dYQ1oySm9aUHJMVDkyalBwOEdJdi1IbzFtSV9ZSmdOekZDcXFLaXl4SFd0ZFUzNk4wOVlxbVZXQnBhbjRjdjBLX1lIaGdOb0E?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXVqeXRkckRvMDl4OWJsUlhwZk5qNDNKZWl5MGxrSWFXSmdUWW14QmJvTXFUSFBXekdMc2lHZ2h0WjY2MjdJWjdhYTB6SUR0NTRaYmVQbUVMVUIyd1NJY1h2N0VDMGJoNHV2MkFYb29wS1R1WVFnWkgxVmNid1g0UVhka29CS3JzUWNvMTFaZTFucGJ6cG1RV2pDc2NUUWRrNnRYcF9uMVM2cEpFNEdrRlJsMHotUkRFR2pneW93?oc=5" target="_blank">EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPUG9BQjhLblpESUc5bkhXQVkyMjhQUVNJeTVSZHFZbE42Mi1NdGI4Q0o3US1mVlFNQzQ1Z244bGVhTkgtX0o3dDk1OTQwbFpLX0VIZGVnR2JpUHVmWENIQXEyTGZEemhzVGNNdFl0eEpvN0dYQ1oySm9aUHJMVDkyalBwOEdJdi1IbzFtSV9ZSmdOekZDcXFLaXl4SFd0ZFUzNk4wOVlxbVZXQnBhbjRjdjBLX1lIaGdOb0E?oc=5" target="_blank">Co-leader of Germany's AfD criticises planned talks with Russian envoy</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
