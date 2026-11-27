@@ -1,34 +1,60 @@
 # 每日财经新闻
 
-更新时间：2026-11-27 07:44:42
+更新时间：2026-11-27 20:56:54
 
-## Imperial Brands Attracts Suitors as UK Stock Market Set to Shrink Further
+## Colombia Peso Stumbles as Mounting Risks Test Rally
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/newsletters/2026-11-27/imperial-brands-attracts-suitors-as-uk-stock-market-set-to-shrink-further
+链接：https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally
 
 正文长度：0
 
-摘要：Plus, warnings from the BOE on the dangers of AI
+摘要：The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.
 
 
 ---
 
-## Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI
+## Latest Oil Market News and Analysis for Nov. 27
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-27/indonesia-arrests-three-over-trades-in-stock-scrutinized-by-msci
+链接：https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27
 
 正文长度：0
 
-摘要：Indonesian police said Friday they had arrested three people over alleged manipulation of shares of PT Dian Swastatika Sentosa, one of three companies tied to regulatory sanctions announced last month after MSCI Inc. proposed a two-step downgrade of Indonesia’s market status.
+摘要：Oil swung in thin trading as increasing attacks on energy infrastructure and tankers in the Middle East heightened supply fears.
 
 
 ---
 
-## Stocks Extend Recovery on AI Trade, Treasuries Dip: Markets Wrap
+## Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote
+
+正文长度：0
+
+摘要：Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.
+
+
+---
+
+## How Saks Is Reclaiming Luxury as Exemplar Luxury Group
+
+来源：彭博社
+
+链接：https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video
+
+正文长度：0
+
+摘要：Bloomberg’s Romaine Bostick reports on how Exemplar Luxury Group, formerly known as Saks Global, is reinventing itself for a fresh start in luxury since emerging from bankruptcy earlier this year. Exemplar Luxury Group CEO Geoffroy van Raemdonck, FIT Associate Professor Shawn Grain Carter, Telsey Advisory Group CEO Dana Telsey, and Exemplary Luxury Group President and CCO Darcy Penick share their thoughts. (Source: Bloomberg)
+
+
+---
+
+## S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap
 
 来源：彭博社
 
@@ -36,31 +62,54 @@
 
 正文长度：0
 
-摘要：Investors piled back into equities at the end of a holiday-shortened week as the AI trade rebounded and China stepped up support for its stock market. Metals jumped, while Treasuries and the dollar fell.
+摘要：Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.
 
 
 ---
 
-## FTSE 100 Live: UK Stocks Poised Join Global Stock Rebound
+## Inflation has shoppers hunting for value. That bodes well for Black Friday
 
-来源：彭博社
+来源：CNBC
 
-链接：https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef
+链接：https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html
 
-正文长度：0
+正文长度：6899
 
+摘要：Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.
 
----
+<details>
+<summary><b>👉 点击展开 / 收起正文</b></summary>
 
-## Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit
+> Economic headwinds have made consumers more cautious — but new data and reports from retailers are painting a picture of robust holiday spending through Black Friday and beyond.
+The macroeconomic environment has squeezed wallets. High inflation, fluctuating gas prices and labor uncertainty have dampened consumer sentiment and contributed to a pullback in spending. October's consumer price index rose a seasonally adjusted 0.4%, coming in higher than expected, while the personal consumption expenditures price index accelerated to a seasonally adjusted 3.8% in October compared with last year. Meanwhile, October retail sales grew at their slowest pace in nearly a year, according to the CNBC/NRF Retail Monitor.
+The Conference Board's Consumer Confidence Index slid to its lowest since 2014 in September, with respondents citing concerns about inflation and the job market. It's translated into caution from some retailers like Walmart and Lowe's, which have reported slower sales, smaller baskets and drops in big-ticket and discretionary purchases.
+Despite that pullback, recent earnings reports and end-of-year forecasts suggest consumers are still willing to shell out for the holidays.
+Planned spending on gifts and nongifts is estimated to be $1,049 on average this year, up 5.9% from $990 last year, according to The Conference Board. Adjusting for inflation, that figure is still up 3.2% year over year.
+Holiday sales are expected to top $1 trillion this year, but that growth is boosted by inflation. Though consumers have said they're willing to spend, experts have noted that shoppers are still emphasizing value and looking for deals where they can. Adobe data found that in the first 22 days of November — what it considers the beginning of the holiday season — consumers spent $82.5 billion online, marking a 9.1% year-over-year increase.
+That's translating to the Black Friday and Cyber Monday week, too, as consumers take advantage of deals that started days before the traditional Friday blitz. Salesforce is predicting a record-breaking holiday week between Nov. 24 and Nov. 30, as it expects online sales to reach $357 billion globally and $84 billion in the U.S., both marking 6% year-over-year increases.
+The report also found that retailers are offering bigger markdowns than last year, with discount rates up 8% in the U.S. in November.
+And according to Deloitte's Black Friday survey, participation in the shopping holiday this year is expected to be the highest seen since 2016, with 87% of shoppers reporting they plan to buy during Black Friday and Cyber Monday sales.
+That number is up from 82% in 2025. Consumers are expecting to spend an average of $624 this holiday, similar to last year's numbers, and Generation Z is going all in on those deals, according to Deloitte, which surveyed 1,200 consumers in mid-October. That echoes similar behavior from the cohort last year.
+"It's sort of the mix of feeling the squeeze on prices, people thinking about their economic condition and their financial position, but still wanting to protect the holidays," Brian McCarthy, retail strategy lead at Deloitte, told CNBC in an interview.
+He added that even as shoppers pulled back on spending over the past few months and delayed big purchases, that spend is now being more heavily concentrated into promotional windows like the holiday season. They're searching for more deals, becoming more savvy and deferring some spending.
+The Deloitte data also found that 40% of Gen Z shoppers plan to use buy now, pay later for their shopping this holiday season.
+"People do care about the holidays and want to make sure they can buy those gifts to share with their friends and family, but it's another way of deferring when they're going to have to pay for that item," McCarthy said.
+Retailers see continued spending
+On the other side of the cash register, retailers are expecting similar holiday shopping behavior and reported optimism about the consumer in earnings reports over the past two weeks.
+Walmart CFO John David Rainey told CNBC last week that the company is continuing to see a resilient consumer. The retailer is leaning into value with rollbacks and deals, and Rainey said the holiday quarter was "off to a pretty good start" as macroeconomic trends start to show signs of potential improvement.
+"The fact remains that payrolls are healthy, the equity markets are holding up in the face of geopolitical uncertainty, and even though consumer sentiment is somewhat lower, it hasn't translated into reduced economic output," Rainey said.
+Target executives also said last week that the retailer is optimistic about holiday spending this season. The company is pricing thousands of products at $5 and under and investing in elevated products while prioritizing low prices, they said.
+"We're encouraged by the start of the quarter that we've seen so far," CEO Michael Fiddelke told reporters following the company's third-quarter earnings report. "We're really excited for what guests are going to find at Target this holiday season."
+Best Buy CEO Jason Bonfig told CNBC on Tuesday that while the company is seeing consumers place higher emphasis on value, those shoppers are also looking to upgrade products, sometimes into "more premium price points."
+Lowe's is also expecting a solid holiday season, with CEO Marvin Ellison telling CNBC last week that the company's November sales to date are in line with its expectations. The home improvement company is also emphasizing deals for customers who may be more price-conscious, but Ellison said he's still "optimistic."
+Executives at TJX Companies, a retailer known for its value proposition, said on an earnings call with analysts last week that the company is expecting sales momentum to accelerate throughout the holiday season.
+"In the current environment, we believe value will be top of mind for many consumers this holiday season," CEO Ernie Herrman said on the call.
+Still, TJX said warmer weather in the beginning of the fourth quarter led to a sales slowdown. The company also reported weak fourth-quarter guidance, coming in below Wall Street expectations for earnings and same-store sales. Competitor Burlington Stores also posted weak sales and provided a lower-than-expected outlook.
+Gap Inc. saw a similar trend. CEO Richard Dickson told CNBC that the company's sales lagged at the beginning of the quarter due to warmer weather. The retailer posted flat comparable sales for its fiscal third quarter last week and reported sinking sales at its Athleta and Banana Republic banners. It also lowered its guidance.
+But Dickson said the retailer is optimistic about colder weather beginning to drive spending again.
+"We're entering the peak holiday season and selling weeks with pent-up demand and hopefully maintained good weather for shopping," Dickson said. "This could be, and would be, a source of upside."
 
-来源：彭博社
-
-链接：https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit
-
-正文长度：0
-
-摘要：Vietnam expects to sign a trade deal with the US that will result in a significantly lower final tariff rate as the two countries inch closer to a reciprocal trade agreement.
+</details>
 
 
 ---
@@ -250,168 +299,132 @@ Comparable sales of everyday essentials rose 8.9% at Dollar Tree stores in the t
 
 ---
 
-## Best Buy reports comparable sales growth of 6.1%, highest in five years
-
-来源：CNBC
-
-链接：https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html
-
-正文长度：3253
-
-摘要：Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.
-
-<details>
-<summary><b>👉 点击展开 / 收起正文</b></summary>
-
-> Best Buy on Tuesday beat Wall Street expectations on the top and bottom lines for its third fiscal quarter and raised its full-year guidance.
-The consumer electronics retailer reported comparable sales growth of 6.1%, a significant beat over expectations of 2.3%, according to market intelligence platform StreetAccount. The company said that growth was its highest in five years. It reported a domestic comparable sales increase of 6.2% and international comparable sales growth of 4.9%.
-"We have a tremendous amount of momentum," CEO Jason Bonfig told CNBC. "The fact that we saw pretty much broad-based growth across almost all of our categories is a lot of momentum that we're very excited about."
-Best Buy also raised its guidance for the rest of the year. It's now expecting full-year revenue of between $43 billion and $43.3 billion compared with a previous expectation of between $42.3 billion and $42.8 billion. It's expecting comparable sales to be up 3.4% to 4% compared with prior guidance of between 1.9% and 3%.
-The earnings report is the company's first since Bonfig took over as CEO from Corie Barry at the beginning of the month.
-Bonfig said the retailer saw overperformance in both computing and gaming for the quarter, driven by recent game launches and a targeted product assortment.
-Looking ahead into the holiday season, he said the Best Buy consumer remains "resilient," but that they are focused on getting value wherever they can.
-"We did see not only our current customers continue to be engaged, but we actually did see more new customers come into the brand, as well as we had some customers that we re-engaged as well," Bonfig said. "So those are really, really positive signs for us in Q3, and all of that was factored into the way that we guided for Q4 and the rest of the year."
-Here's how the company performed in the period ended Oct. 31 compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $1.62 adjusted vs. $1.49 expected
-- Revenue: $10.24 billion vs. $9.90 billion expected
-Best Buy reported net income of $353 million, or $1.66 per share, compared with $140 million, or 66 cents per share, the year prior. Adjusting for one-time items, including restructuring charges, Best Buy posted adjusted earnings of $1.62 per share.
-Revenue rose to $10.24 billion from $9.67 billion in the year-ago period. Best Buy reported domestic revenue of $9.42 billion and international revenue of $820 million.
-Tuesday's earnings are the latest in a series of strong reports from the retailer, which has been instituting a turnaround strategy to return to growth after getting hit by declining foot traffic, lower consumer sentiment, tariffs and memory costs.
-Shares of Best Buy are up nearly 45% this year.
-Bonfig told CNBC last quarter that the launch of "Grand Theft Auto VI" in the current quarter is expected to drive sales in the gaming category, which has been seeing gains over the past year. Last month, Best Buy launched a new gaming experience for customers featuring gaming content, technology and special offers, among other features.
-"I think there'll still be opportunities for gaming to continue to drive our business moving forward," Bonfig told CNBC on Tuesday.
-
-</details>
-
-
----
-
-## The US and Europe have opposite economic problems - Financial Times
+## Verizon in talks over $6bn deal for Fidium to boost broadband footprint - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzdDSzNtSzlOZEcxbC04T000bU9pVV9ncWZ6Vno4Y1ljRlZQOUgzOFJQUTR3V2tFT3RxaWYwQUJVbjVSRW8xVzV1VW1BT3BHOVJuT1BFMmphMEIyZXc5YnZnS3JOMjRzRzhBLWF3eTQ2TkVBVGRyME1QVmlRWkZub3pkSTU?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzFFM2ktMW9uTG81dUw2dGhZTkhNTV9leUNsczRQRWRGNUYyN2htRzZfeXlEQXZDRDFhaDJiSElabkVUN3ZzOG9ta2NaTlU3Q3A3empUZU11TnNXT0ZuZVpjTktYR21BdlktZWE1QXVFdTdKUVB0QS1hRnI5YUhCb183S0o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzdDSzNtSzlOZEcxbC04T000bU9pVV9ncWZ6Vno4Y1ljRlZQOUgzOFJQUTR3V2tFT3RxaWYwQUJVbjVSRW8xVzV1VW1BT3BHOVJuT1BFMmphMEIyZXc5YnZnS3JOMjRzRzhBLWF3eTQ2TkVBVGRyME1QVmlRWkZub3pkSTU?oc=5" target="_blank">The US and Europe have opposite economic problems</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzFFM2ktMW9uTG81dUw2dGhZTkhNTV9leUNsczRQRWRGNUYyN2htRzZfeXlEQXZDRDFhaDJiSElabkVUN3ZzOG9ta2NaTlU3Q3A3empUZU11TnNXT0ZuZVpjTktYR21BdlktZWE1QXVFdTdKUVB0QS1hRnI5YUhCb183S0o?oc=5" target="_blank">Verizon in talks over $6bn deal for Fidium to boost broadband footprint</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Venezuelan oil magnate defends contentious deal with Trump - Financial Times
+## Russia set to criminalise sharing information about Ukrainian strikes - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNaU94LVQyMjVKbTlkQzR0Z1pBeG9tcXVMdEFJUFpMRG04TTEtSDN3MW5EZ2t2ZXJkb2R0Y0wtcVNkbDREM0N0TFVmR1pDTTZUXzNYZHpDS3RYQ3B6OTEtYlkwbndzTHFTMWkzXzlITHdiQ3VVdENBX1NhU0xnQTl6bW9PMU0?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNaU94LVQyMjVKbTlkQzR0Z1pBeG9tcXVMdEFJUFpMRG04TTEtSDN3MW5EZ2t2ZXJkb2R0Y0wtcVNkbDREM0N0TFVmR1pDTTZUXzNYZHpDS3RYQ3B6OTEtYlkwbndzTHFTMWkzXzlITHdiQ3VVdENBX1NhU0xnQTl6bW9PMU0?oc=5" target="_blank">Venezuelan oil magnate defends contentious deal with Trump</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg?oc=5" target="_blank">Russia set to criminalise sharing information about Ukrainian strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AI data centre boom piles pressure on stressed US defence sector - Financial Times
+## AI and the decryption nightmare - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXVJYTZQS21pelB4NVVReDUxRnhpaVlBcDZ6bUdrem41YndfMzF3YmJvTmJVdk5aOTItZWttVFBaaUphTlNYQllqeVlVb1BQc3hkMjdPblZwVmI3ZXY2dEhJMFhVd3pBczk1X3hMajhrUElHWEVKMEpwVG95dzd3UGl2c0g?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVRXZV9rVktPQ3owVW5xcWdoR1lLTjJQZnlGZkt3SFJTTGViTmpYeTFUZTBZSEVlTkJndzZ0bXlianBnYjYzb1I5MXZqYlRFNUNYeGZic1daU3JCSWdONkVJbU1sTHc4b0RldjZzUk9qZC1sQWZVS3RFTnNNVjJPYlFxNnQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXVJYTZQS21pelB4NVVReDUxRnhpaVlBcDZ6bUdrem41YndfMzF3YmJvTmJVdk5aOTItZWttVFBaaUphTlNYQllqeVlVb1BQc3hkMjdPblZwVmI3ZXY2dEhJMFhVd3pBczk1X3hMajhrUElHWEVKMEpwVG95dzd3UGl2c0g?oc=5" target="_blank">AI data centre boom piles pressure on stressed US defence sector</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVRXZV9rVktPQ3owVW5xcWdoR1lLTjJQZnlGZkt3SFJTTGViTmpYeTFUZTBZSEVlTkJndzZ0bXlianBnYjYzb1I5MXZqYlRFNUNYeGZic1daU3JCSWdONkVJbU1sTHc4b0RldjZzUk9qZC1sQWZVS3RFTnNNVjJPYlFxNnQ?oc=5" target="_blank">AI and the decryption nightmare</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## Is the Fed ready for its next fight? - Financial Times
+## EU weighs tighter export controls to prevent battery waste going to China - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpuc0FCRzZjNXFLRFJWSk02YlZ2SkVlV1ZsWTd0ck9Vdnh5bjFuMGc3UHBSdWlFSFpqbkU5dWNjUFV3dWFoTFJLdWZ5RVBWUzUwNWxxQnlIQV95aVhMQnFZSzk5dWpXV1NjTWVSem04ZmsyakVFczBxcUhUdTByTEpDblI?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5" target="_blank">Is the Fed ready for its next fight?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpuc0FCRzZjNXFLRFJWSk02YlZ2SkVlV1ZsWTd0ck9Vdnh5bjFuMGc3UHBSdWlFSFpqbkU5dWNjUFV3dWFoTFJLdWZ5RVBWUzUwNWxxQnlIQV95aVhMQnFZSzk5dWpXV1NjTWVSem04ZmsyakVFczBxcUhUdTByTEpDblI?oc=5" target="_blank">EU weighs tighter export controls to prevent battery waste going to China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## ‘A changed man.’ How will Jensen Huang lead Nvidia now? - Financial Times
+## Former UK Supreme Court justice Jonathan Sumption: ‘We never got back control’ - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kUHVmNEUtM1hSV0lIRUZZS2lYRDFPOHc4NUhfTkhYV2JTaE50UkRTZ1R5bWR0RGFfckYtMG9vZVNpcWxkLWlPdmdMdUNaeWw1Y0s3dS1sWFFzb1BqeGYzcVQxYmZvS3dvVFBTc2p3TlBZWEtqYW9NaklfVjF0UkRXd1k?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5" target="_blank">‘A changed man.’ How will Jensen Huang lead Nvidia now?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kUHVmNEUtM1hSV0lIRUZZS2lYRDFPOHc4NUhfTkhYV2JTaE50UkRTZ1R5bWR0RGFfckYtMG9vZVNpcWxkLWlPdmdMdUNaeWw1Y0s3dS1sWFFzb1BqeGYzcVQxYmZvS3dvVFBTc2p3TlBZWEtqYW9NaklfVjF0UkRXd1k?oc=5" target="_blank">Former UK Supreme Court justice Jonathan Sumption: ‘We never got back control’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say - Reuters
+## OpenAI countersues Apple for stealing trade secrets - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5" target="_blank">EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5" target="_blank">OpenAI countersues Apple for stealing trade secrets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Chinese military tests new Taiwan landing tactics in coastal drills - Reuters
+## EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R?oc=5" target="_blank">Chinese military tests new Taiwan landing tactics in coastal drills</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5" target="_blank">EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Gold rebounds from one-year low as AI jitters ease - Reuters
+## At least eight found dead on migrant boat off Spain's Canary Islands - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFg3b1hQNEFySWI3WEZRY21RRGFIQndWTWhVZkdpYUlVczFmR2hiSnZaemxZTzFqYU1uSThFbEVMSkgyVFR1SXE3UEpBd09jOWNzcW9IaXl0TXZIS3k2VXlEUDBVcEJjc25UOHBEXzhJcFBCX2YtdXpqLVVMN1lmVFliYWJ0QnY0YUhOOWJGblFRaXlmbFFpMUZ0aWdvRHRWQ0E4RFd3?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5" target="_blank">Gold rebounds from one-year low as AI jitters ease</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFg3b1hQNEFySWI3WEZRY21RRGFIQndWTWhVZkdpYUlVczFmR2hiSnZaemxZTzFqYU1uSThFbEVMSkgyVFR1SXE3UEpBd09jOWNzcW9IaXl0TXZIS3k2VXlEUDBVcEJjc25UOHBEXzhJcFBCX2YtdXpqLVVMN1lmVFliYWJ0QnY0YUhOOWJGblFRaXlmbFFpMUZ0aWdvRHRWQ0E4RFd3?oc=5" target="_blank">At least eight found dead on migrant boat off Spain's Canary Islands</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Christopher Luxon favoured for second term as New Zealand Prime Minister - Reuters
+## Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2lSdWtGZDVPZzFmZWxiRm9aZ2ZkcDhYV2lDUHRfRjhpcVpyNk80a2JRSUdhUXBMT0MyUUFZUDFpUi1LRzVDLTBrTTZaYjhyeDh6OVNmSUhKWlZNdUhQZmZ1U2NBcWhoSE1VSFNRMTRlR2VHa1Zwbm9jcDJPdzRMMEJSSFdsaXVfOGZwRjkxOFp6d1YxdXlJZUdza3oyM21fMnQtTE1SZ01xS094NS1TY1pRRXFmMFE1b1VoN2c5cWI4dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5" target="_blank">Christopher Luxon favoured for second term as New Zealand Prime Minister</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2lSdWtGZDVPZzFmZWxiRm9aZ2ZkcDhYV2lDUHRfRjhpcVpyNk80a2JRSUdhUXBMT0MyUUFZUDFpUi1LRzVDLTBrTTZaYjhyeDh6OVNmSUhKWlZNdUhQZmZ1U2NBcWhoSE1VSFNRMTRlR2VHa1Zwbm9jcDJPdzRMMEJSSFdsaXVfOGZwRjkxOFp6d1YxdXlJZUdza3oyM21fMnQtTE1SZ01xS094NS1TY1pRRXFmMFE1b1VoN2c5cWI4dw?oc=5" target="_blank">Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Oil on track to snap 3-week losing streak over supply fears - Reuters
+## US goods trade deficit deteriorates further as AI helps to lift imports to record high - Reuters
 
 来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUhkOFctdmNWVmE4V25NYVFPXy1fbmpLZnJubGRnZDZQVkk1alZaNE1hMjNJMkVxMFY5aFZVclJnTmM5WkhEVjM0OUFlMEVXc2pLX3VGMzBZOVFuZ0JqWHFTWWROTmY5dkFzMDdSTFR4THE2WEt6dmd6ZVVob1kwOFdyUHpvaVZndmExTTEtbG80VVN4?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5" target="_blank">Oil on track to snap 3-week losing streak over supply fears</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUhkOFctdmNWVmE4V25NYVFPXy1fbmpLZnJubGRnZDZQVkk1alZaNE1hMjNJMkVxMFY5aFZVclJnTmM5WkhEVjM0OUFlMEVXc2pLX3VGMzBZOVFuZ0JqWHFTWWROTmY5dkFzMDdSTFR4THE2WEt6dmd6ZVVob1kwOFdyUHpvaVZndmExTTEtbG80VVN4?oc=5" target="_blank">US goods trade deficit deteriorates further as AI helps to lift imports to record high</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
