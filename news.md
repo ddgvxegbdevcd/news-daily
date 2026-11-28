@@ -1,68 +1,68 @@
 # 每日财经新闻
 
-更新时间：2026-11-27 20:56:54
+更新时间：2026-11-28 07:13:09
 
-## Colombia Peso Stumbles as Mounting Risks Test Rally
+## RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally
+链接：https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain
 
 正文长度：0
 
-摘要：The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.
+摘要：India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar with the matter.
 
 
 ---
 
-## Latest Oil Market News and Analysis for Nov. 27
+## China Import Logistics Fell 0.6% in January-October, Xinhua Says
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27
+链接：https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says
 
 正文长度：0
 
-摘要：Oil swung in thin trading as increasing attacks on energy infrastructure and tankers in the Middle East heightened supply fears.
+摘要：China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing.
 
 
 ---
 
-## Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote
+## Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote
+链接：https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute
 
 正文长度：0
 
-摘要：Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.
+摘要：A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.
 
 
 ---
 
-## How Saks Is Reclaiming Luxury as Exemplar Luxury Group
+## Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video
+链接：https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video
 
 正文长度：0
 
-摘要：Bloomberg’s Romaine Bostick reports on how Exemplar Luxury Group, formerly known as Saks Global, is reinventing itself for a fresh start in luxury since emerging from bankruptcy earlier this year. Exemplar Luxury Group CEO Geoffroy van Raemdonck, FIT Associate Professor Shawn Grain Carter, Telsey Advisory Group CEO Dana Telsey, and Exemplary Luxury Group President and CCO Darcy Penick share their thoughts. (Source: Bloomberg)
+摘要：Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family office to a $300 billion enterprise. They also discuss how they navigate building generational wealth and moderating family conflicts.  (Source: Bloomberg)
 
 
 ---
 
-## S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap
+## Emerging-Market Stocks Snag Best Week Since June on Tech Rebound
 
 来源：彭博社
 
-链接：https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap
+链接：https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing
 
 正文长度：0
 
-摘要：Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.
+摘要：Emerging-market stocks posted their biggest weekly gain since June as investors piled back into technology shares following a recent selloff, capping a volatile week across global markets.
 
 
 ---
@@ -299,6 +299,32 @@ Comparable sales of everyday essentials rose 8.9% at Dollar Tree stores in the t
 
 ---
 
+## ‘Only in America’ and other good lies - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2dOZTdGdHpPWFlSOTBSUVNIbFFaN0hVSGRhSzM1LWFRVzdZVDBzcDVlTmN0emVfTnhyVTVxODZJbVVHNjZuZ2FWdWFFSmdVQW13eFV2YzVqYzhqVUp1UkN4MndBU3hWbVVkdEFuU1NQdjk3RGYxSFNfQ1NROHctb3dCUDQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2dOZTdGdHpPWFlSOTBSUVNIbFFaN0hVSGRhSzM1LWFRVzdZVDBzcDVlTmN0emVfTnhyVTVxODZJbVVHNjZuZ2FWdWFFSmdVQW13eFV2YzVqYzhqVUp1UkN4MndBU3hWbVVkdEFuU1NQdjk3RGYxSFNfQ1NROHctb3dCUDQ?oc=5" target="_blank">‘Only in America’ and other good lies</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
+## Copper thieves prey on Japan’s ancient shrines in AI frenzy - Financial Times
+
+来源：金融时报
+
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjFJRzRyOXFrcE9nbEdXZkxDRkNvTWhvR3lLcG4takJoRXh2MUJCTmUwZFczZTFQOUJNREtyZU53c3JOM21mM2t0WktqS2RtRkxwc0k1RUVWSkpmYi05SDhOODRCRVE4Rmx2MEktazVwZzYybkthUXZQWjJXQUl1aDdGN2s?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjFJRzRyOXFrcE9nbEdXZkxDRkNvTWhvR3lLcG4takJoRXh2MUJCTmUwZFczZTFQOUJNREtyZU53c3JOM21mM2t0WktqS2RtRkxwc0k1RUVWSkpmYi05SDhOODRCRVE4Rmx2MEktazVwZzYybkthUXZQWjJXQUl1aDdGN2s?oc=5" target="_blank">Copper thieves prey on Japan’s ancient shrines in AI frenzy</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+
+
+---
+
 ## Verizon in talks over $6bn deal for Fidium to boost broadband footprint - Financial Times
 
 来源：金融时报
@@ -312,54 +338,80 @@ Comparable sales of everyday essentials rose 8.9% at Dollar Tree stores in the t
 
 ---
 
-## Russia set to criminalise sharing information about Ukrainian strikes - Financial Times
+## Can AI crack encryption? - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1ZGUTg2NDZzVUQzb1NBVnNET0YtNDB2OWZEV25LWnNua05BMjh6dHQyXzRtUjJHNUZDdEFMOGk5Rkk1YVpBeUx4d3hSUTFzQzFmamlQb3o3bUR6dDRJdnJ6ZXJIdkYwTmRwamFIS3NuZXJwSGNzV25XMDdyNFI2U1Iwa2o?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg?oc=5" target="_blank">Russia set to criminalise sharing information about Ukrainian strikes</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1ZGUTg2NDZzVUQzb1NBVnNET0YtNDB2OWZEV25LWnNua05BMjh6dHQyXzRtUjJHNUZDdEFMOGk5Rkk1YVpBeUx4d3hSUTFzQzFmamlQb3o3bUR6dDRJdnJ6ZXJIdkYwTmRwamFIS3NuZXJwSGNzV25XMDdyNFI2U1Iwa2o?oc=5" target="_blank">Can AI crack encryption?</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## AI and the decryption nightmare - Financial Times
+## US military repelled drones at RAF base - Financial Times
 
 来源：金融时报
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVRXZV9rVktPQ3owVW5xcWdoR1lLTjJQZnlGZkt3SFJTTGViTmpYeTFUZTBZSEVlTkJndzZ0bXlianBnYjYzb1I5MXZqYlRFNUNYeGZic1daU3JCSWdONkVJbU1sTHc4b0RldjZzUk9qZC1sQWZVS3RFTnNNVjJPYlFxNnQ?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnYwUE4zSDdyVl8tV1cwN0hhcEtWT0ExcGFCVTFDM0FSb20tYmpxRlctSHlHN3Y4YzFaNVZoMG1COVRMc0VsT3hkXzZaM1d2NElEaVRFb3hiOURaNlBNdC05T2ZJdGNxZzhzTzZDVTdkMHVVRWNaLVp6QWpLcFhSejBtN2w?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVRXZV9rVktPQ3owVW5xcWdoR1lLTjJQZnlGZkt3SFJTTGViTmpYeTFUZTBZSEVlTkJndzZ0bXlianBnYjYzb1I5MXZqYlRFNUNYeGZic1daU3JCSWdONkVJbU1sTHc4b0RldjZzUk9qZC1sQWZVS3RFTnNNVjJPYlFxNnQ?oc=5" target="_blank">AI and the decryption nightmare</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnYwUE4zSDdyVl8tV1cwN0hhcEtWT0ExcGFCVTFDM0FSb20tYmpxRlctSHlHN3Y4YzFaNVZoMG1COVRMc0VsT3hkXzZaM1d2NElEaVRFb3hiOURaNlBNdC05T2ZJdGNxZzhzTzZDVTdkMHVVRWNaLVp6QWpLcFhSejBtN2w?oc=5" target="_blank">US military repelled drones at RAF base</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
 
 
 ---
 
-## EU weighs tighter export controls to prevent battery waste going to China - Financial Times
+## India's bottled-water crackdown widens as new Bisleri sample found with bacteria - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpuc0FCRzZjNXFLRFJWSk02YlZ2SkVlV1ZsWTd0ck9Vdnh5bjFuMGc3UHBSdWlFSFpqbkU5dWNjUFV3dWFoTFJLdWZ5RVBWUzUwNWxxQnlIQV95aVhMQnFZSzk5dWpXV1NjTWVSem04ZmsyakVFczBxcUhUdTByTEpDblI?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpuc0FCRzZjNXFLRFJWSk02YlZ2SkVlV1ZsWTd0ck9Vdnh5bjFuMGc3UHBSdWlFSFpqbkU5dWNjUFV3dWFoTFJLdWZ5RVBWUzUwNWxxQnlIQV95aVhMQnFZSzk5dWpXV1NjTWVSem04ZmsyakVFczBxcUhUdTByTEpDblI?oc=5" target="_blank">EU weighs tighter export controls to prevent battery waste going to China</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5" target="_blank">India's bottled-water crackdown widens as new Bisleri sample found with bacteria</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
 
-## Former UK Supreme Court justice Jonathan Sumption: ‘We never got back control’ - Financial Times
+## China's premium puffer jacket push meets consumer resistance - Reuters
 
-来源：金融时报
+来源：路透社
 
-链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kUHVmNEUtM1hSV0lIRUZZS2lYRDFPOHc4NUhfTkhYV2JTaE50UkRTZ1R5bWR0RGFfckYtMG9vZVNpcWxkLWlPdmdMdUNaeWw1Y0s3dS1sWFFzb1BqeGYzcVQxYmZvS3dvVFBTc2p3TlBZWEtqYW9NaklfVjF0UkRXd1k?oc=5&hl=en-US&gl=US&ceid=US:en
+链接：https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlExbWltNnJEdUNzdzVrMGN1M29qbkc5d3l4MnVFd01fOXBiZFAwS2dVRHB1NmdHb3FLLWVwOV9BUEpwWndDc2lwdGt5T05HdDYwVC1pRllMMk93cGRyM3ZMSUxHM2owcUFRRjZmVzhVdWp3NEJmbFNoQndxNWhJQmdVYk03SkwtN29vT2dMekY5SjBVNlZibWFtVkkyUHBqdXBNd09WQnJiQnRBQTVLQWNRR1FNUUNvdUd4UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 正文长度：0
 
-摘要：<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW9kUHVmNEUtM1hSV0lIRUZZS2lYRDFPOHc4NUhfTkhYV2JTaE50UkRTZ1R5bWR0RGFfckYtMG9vZVNpcWxkLWlPdmdMdUNaeWw1Y0s3dS1sWFFzb1BqeGYzcVQxYmZvS3dvVFBTc2p3TlBZWEtqYW9NaklfVjF0UkRXd1k?oc=5" target="_blank">Former UK Supreme Court justice Jonathan Sumption: ‘We never got back control’</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>
+摘要：<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlExbWltNnJEdUNzdzVrMGN1M29qbkc5d3l4MnVFd01fOXBiZFAwS2dVRHB1NmdHb3FLLWVwOV9BUEpwWndDc2lwdGt5T05HdDYwVC1pRllMMk93cGRyM3ZMSUxHM2owcUFRRjZmVzhVdWp3NEJmbFNoQndxNWhJQmdVYk03SkwtN29vT2dMekY5SjBVNlZibWFtVkkyUHBqdXBNd09WQnJiQnRBQTVLQWNRR1FNUUNvdUd4UQ?oc=5" target="_blank">China's premium puffer jacket push meets consumer resistance</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5" target="_blank">Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
+
+
+---
+
+## US Black Friday online sales to cross $13 billion, Adobe says - Reuters
+
+来源：路透社
+
+链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn?oc=5&hl=en-US&gl=US&ceid=US:en
+
+正文长度：0
+
+摘要：<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn?oc=5" target="_blank">US Black Friday online sales to cross $13 billion, Adobe says</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
@@ -373,58 +425,6 @@ Comparable sales of everyday essentials rose 8.9% at Dollar Tree stores in the t
 正文长度：0
 
 摘要：<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5" target="_blank">OpenAI countersues Apple for stealing trade secrets</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5" target="_blank">EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## At least eight found dead on migrant boat off Spain's Canary Islands - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFg3b1hQNEFySWI3WEZRY21RRGFIQndWTWhVZkdpYUlVczFmR2hiSnZaemxZTzFqYU1uSThFbEVMSkgyVFR1SXE3UEpBd09jOWNzcW9IaXl0TXZIS3k2VXlEUDBVcEJjc25UOHBEXzhJcFBCX2YtdXpqLVVMN1lmVFliYWJ0QnY0YUhOOWJGblFRaXlmbFFpMUZ0aWdvRHRWQ0E4RFd3?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFg3b1hQNEFySWI3WEZRY21RRGFIQndWTWhVZkdpYUlVczFmR2hiSnZaemxZTzFqYU1uSThFbEVMSkgyVFR1SXE3UEpBd09jOWNzcW9IaXl0TXZIS3k2VXlEUDBVcEJjc25UOHBEXzhJcFBCX2YtdXpqLVVMN1lmVFliYWJ0QnY0YUhOOWJGblFRaXlmbFFpMUZ0aWdvRHRWQ0E4RFd3?oc=5" target="_blank">At least eight found dead on migrant boat off Spain's Canary Islands</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2lSdWtGZDVPZzFmZWxiRm9aZ2ZkcDhYV2lDUHRfRjhpcVpyNk80a2JRSUdhUXBMT0MyUUFZUDFpUi1LRzVDLTBrTTZaYjhyeDh6OVNmSUhKWlZNdUhQZmZ1U2NBcWhoSE1VSFNRMTRlR2VHa1Zwbm9jcDJPdzRMMEJSSFdsaXVfOGZwRjkxOFp6d1YxdXlJZUdza3oyM21fMnQtTE1SZ01xS094NS1TY1pRRXFmMFE1b1VoN2c5cWI4dw?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2lSdWtGZDVPZzFmZWxiRm9aZ2ZkcDhYV2lDUHRfRjhpcVpyNk80a2JRSUdhUXBMT0MyUUFZUDFpUi1LRzVDLTBrTTZaYjhyeDh6OVNmSUhKWlZNdUhQZmZ1U2NBcWhoSE1VSFNRMTRlR2VHa1Zwbm9jcDJPdzRMMEJSSFdsaXVfOGZwRjkxOFp6d1YxdXlJZUdza3oyM21fMnQtTE1SZ01xS094NS1TY1pRRXFmMFE1b1VoN2c5cWI4dw?oc=5" target="_blank">Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
-
-
----
-
-## US goods trade deficit deteriorates further as AI helps to lift imports to record high - Reuters
-
-来源：路透社
-
-链接：https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUhkOFctdmNWVmE4V25NYVFPXy1fbmpLZnJubGRnZDZQVkk1alZaNE1hMjNJMkVxMFY5aFZVclJnTmM5WkhEVjM0OUFlMEVXc2pLX3VGMzBZOVFuZ0JqWHFTWWROTmY5dkFzMDdSTFR4THE2WEt6dmd6ZVVob1kwOFdyUHpvaVZndmExTTEtbG80VVN4?oc=5&hl=en-US&gl=US&ceid=US:en
-
-正文长度：0
-
-摘要：<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUhkOFctdmNWVmE4V25NYVFPXy1fbmpLZnJubGRnZDZQVkk1alZaNE1hMjNJMkVxMFY5aFZVclJnTmM5WkhEVjM0OUFlMEVXc2pLX3VGMzBZOVFuZ0JqWHFTWWROTmY5dkFzMDdSTFR4THE2WEt6dmd6ZVVob1kwOFdyUHpvaVZndmExTTEtbG80VVN4?oc=5" target="_blank">US goods trade deficit deteriorates further as AI helps to lift imports to record high</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>
 
 
 ---
